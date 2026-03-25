@@ -1,6 +1,6 @@
 # Python script for testing satisfiability of the transportation methods constraint of a travel plan problem. 
 
-# Set transportation method variable (flight, self-driving, taxi) for 3 transportations between cities
+# Set transportation method variable (flight, self-driving, taxi) for 3 transportations between cities. **All three keys must be initialized.**
 variables['flight'] = [Bool('flight_travel_' + str(i)) for i in range(3)]
 variables['self-driving'] = [Bool('self-driving_travel_' + str(i)) for i in range(3)]
 variables['taxi'] = [Bool('taxi_travel_' + str(i)) for i in range(3)]

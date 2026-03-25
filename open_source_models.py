@@ -13,7 +13,7 @@ np.random.seed(0)
 class LLMWrapper:
     _model_cache = {}
     SUPPORTED_MODELS = {
-        "llama": "meta-llama/Llama-3.1-70B-Instruct",
+        "llama": "meta-llama/Llama-3.1-8B-Instruct",
         "qwen": "Qwen/Qwen2.5-7B-Instruct",
         "phi": "microsoft/Phi-4",
         "codellama" : "codellama/CodeLlama-7b-Instruct-hf"
@@ -114,6 +114,6 @@ if __name__ == "__main__":
     print(prompt+lines)
 
     # Use any model key ("codellama", "qwen", "phi")
-    phi_llm = LLMWrapper("phi")
+    phi_llm = LLMWrapper("llama")
     prompt = (prompt + lines)
     print("\n[phi Response]\n", phi_llm.generate(prompt))

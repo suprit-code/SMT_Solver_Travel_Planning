@@ -4,11 +4,14 @@ from pandas import DataFrame
 from typing import Optional
 from utils.func import extract_before_parenthesis
 from z3 import *
+import ast
 
 class Restaurants:
     def __init__(self, path="TripCraft_database/restaurants/cleaned_restaurant_details_2024.csv"):
         self.path = path
         self.data = self.load_db()
+        self.cuisines_list = self.extract_cuisines()
+        # print(self.cuisines_list)
         # print(self.data.columns)
         # print("Restaurants loaded.")
 
@@ -29,6 +32,15 @@ class Restaurants:
         return self.data
 
 
+    def extract_cuisines(self):
+        cuisines_set = set()
+        for line in self.data['Cuisines'].dropna():
+            try:
+                cuisines_set.update([c.strip() for c in ast.literal_eval(line)])
+            except:
+                cuisines_set.update([c.strip() for c in line.split(',')])
+
+        return sorted(list(cuisines_set))
 
     def run(self,
             city: str,
@@ -59,11 +71,9 @@ class Restaurants:
 
 
 
-    def run_for_all_cities(self, all_cities: list,
-            cities: list,
-            ) -> DataFrame:
+    def run_for_all_cities(self, all_cities: list, cities: list, ) -> DataFrame:
         """Search for flights by origin, destination, and departure date."""
-        cuisines_list = ['Chinese', 'American', 'Italian', 'Mexican', 'Indian', 'Mediterranean', 'French', 'Asian', 'Tuscan', "Caribbean", "Latin", "Greek", "Asian"]
+        cuisines_list = self.cuisines_list
 
         results = Array('restaurant', IntSort(), IntSort(), ArraySort(IntSort(), IntSort())) # city, [price, length], info
         results_cuisines = Array('restaurant cuisines', IntSort(), ArraySort(IntSort(), IntSort(), BoolSort())) # city, []
@@ -149,9 +159,14 @@ class Restaurants:
 
 
     def check_exists(self, cuisine, restaurant_cuisines_list, restaurant_index):
-        cuisines_list = ['Chinese', 'American', 'Italian', 'Mexican', 'Indian', 'Mediterranean', 'French', 'Asian', 'Tuscan', "Caribbean", "Latin", "Greek"]
-        exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))
-        return If(restaurant_index != -1, exists, False)
+        cuisines_list = self.cuisines_list
+        if cuisine not in cuisines_list:
+            return BoolVal(False) 
+        
+        idx = cuisines_list.index(cuisine)
+        exists = Select(restaurant_cuisines_list, restaurant_index, idx)
+        return If(restaurant_index != -1, exists, BoolVal(False))
+    
 
 
 
@@ -224,3 +239,5 @@ class Restaurants:
 #                 Store(results, i, String('Price'), price)
 #                 Store(results_cuisines, i, String('Cuisines'), cuisines)
 #         return results, results_cuisines
+
+
