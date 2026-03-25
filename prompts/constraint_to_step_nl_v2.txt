@@ -1,6 +1,8 @@
 You are given a natural language query that contains important constraints to satisfy for a travel plan problem. These constraints could include departure city, destination state or city, total travel days and dates, and some spcecial requirements regarding accommodation, restaurant, and transportation. 
 Possible attraction categories are ['Boat Tours & Water Sports', 'Casinos & Gambling', 'Classes & Workshops', 'Concerts & Shows', 'Events', 'Food & Drink', 'Fun & Games', 'Museums', 'Nature & Parks', 'Nightlife', 'Other', 'Outdoor Activities', 'Shopping', 'Sights & Landmarks', 'Spas & Wellness', 'Tours', 'Transportation', 'Traveler Resources', 'Water & Amusement Parks', 'Zoos & Aquariums' ]
-Given above are possible attraction category so do not give out of this list in attraction category.
+Given above are possible options of attraction category so do not give out of this list for attraction category.
+Possible room type are ['Private room' 'Entire home/apt' 'Shared room'] so choose the room type from this list.
+POssible house rules are ['No children under 10', 'No parties', 'No pets', 'No smoking', 'No visitors']
 Your job is to give a detailed step by step instuction to encode this constraint as code. 
 Here are some example steps for different constraint:
 -----EXAMPLE 1-----
@@ -19,7 +21,7 @@ Steps:
 # Assert first transportation happens at first day (day 0), last transportation happens at last day (day 4), and second transportation should happen in between (ie. day 2).
 
 # Transportation methods # 
-# Set transportation method (flight, self-driving, taxi) variable for 3 transportations between cities
+# Set transportation method (flight, self-driving, taxi) variable for 3 transportations between cities. **All three keys must be initialized.**
 # declare arrival time variables for 3 transportations
 # Assert only one of flight, self-driving, or taxi is used for 3 transportations between cities, self-driving is not valid if taxi or flight is used for any transportation
 # Assert all 3 transportations between cities are not self-driving
@@ -37,7 +39,7 @@ Steps:
 # Run DistanceSearch to get driving info for Atlanta as origin and city_0 and city_1
 # Get specific driving distance info with Atlanta as origin and final destination, specific city, and departure date for 3 transportations
 # Assert driving info is not empty if driving
-# Calculate self-driving and taxi price for 3 people and 3 transportations based on driving distance
+# Calculate self-driving and taxi price for 3 people and 3 transportations based on driving distance. **All variables must be initialized.**
 # Get driving arrival time with Atlanta as origin and final destination, specific city, and departure date for 3 transportations
 
 # Restaurant information # 
@@ -88,7 +90,7 @@ Steps:
 # Assert first transportation happens at first day (day 0), last transportation happens at last day (day 6), second and third transportation happen in between but not at the same day
 
 # Transportation methods # 
-# Set transportation method (flight, self-driving, taxi) variable for 4 transportations between cities
+# Set transportation method (flight, self-driving, taxi) variable for 4 transportations between cities. **All three keys must be initialized.**
 # declare arrival time variables for 4 transportations
 # Assert only one of flight, self-driving, or taxi is used for 4 transportations between cities, self-driving is not valid if taxi or flight is used for any transportation
 
@@ -105,7 +107,7 @@ Steps:
 # Run DistanceSearch to get driving info for Indianapolis as origin and city_0, city_1 and city_2
 # Get specific driving distance info with Indianapolis as origin and final destination, specific city, and departure date for 4 transportations
 # Assert driving info is not empty if driving
-# Calculate self-driving and taxi price for 5 people and 4 transportations based on driving distance
+# Calculate self-driving and taxi price for 5 people and 4 transportations based on driving distance. **All variables must be initialized.**
 # Get driving arrival time with Indianapolis as origin and final destination, specific city, and departure date for 4 transportations
 
 # Restaurant information # 
@@ -132,7 +134,7 @@ Steps:
 # Set 'accommodation_index' variables for 3 (1 per city) accommodations
 # For each 'accommodation_index', get specific price info based on accommodation in which city variable, assert 'accommodation_index' variable are within valid range, calculate number of room need for 5 people and accommodation price
 # For each city, get accommodation minimum night info and assert it to be less than the days stay in this city
-# For each 'accommodation_index', get specific room type and house rules info, assert 'Shared room' does not exist for all accommodations, assert 'No pets' does not exist for all accommodations, assert 'No children under 10' does not exist for all accommodations
+# For each 'accommodation_index', get specific room type and house rules info, assert 'shared room' does not exist for all accommodations, assert 'No pets' does not exist for all accommodations, assert 'No children under 10' does not exist for all accommodations
 
 # Budget # 
 # Set budget limit variable to be 15100
@@ -157,7 +159,7 @@ Steps:
 # Assert first transportation happens at first day (day 0), last transportation happens at last day (day 2)
 
 # Transportation methods # 
-# Set transportation method (flight, self-driving, taxi) variable for 2 transportations between cities
+# Set transportation method (flight, self-driving, taxi) variable for 2 transportations between cities. **All three keys must be initialized.**
 # declare arrival time variables for 2 transportations
 # Assert only one of flight, self-driving, or taxi is used for 2 transportations between cities
 
@@ -174,7 +176,7 @@ Steps:
 # Run DistanceSearch to get driving info for Las Vegas as origin and city_0
 # Get specific driving distance info with Las Vegas as origin and final destination, specific city, and departure date for 2 transportations
 # Assert driving info is not empty if driving
-# Calculate self-driving and taxi price for 1 person and 2 transportations based on driving distance
+# Calculate self-driving and taxi price for 1 person and 2 transportations based on driving distance. **All variables must be initialized.**
 # Get driving arrival time with Las Vegas as origin and final destination, specific city, and departure date for 2 transportations
 
 # Restaurant information # 
@@ -223,7 +225,7 @@ Steps:
 # Assert first transportation happens at first day (day 0), last transportation happens at last day (day 2)
 
 # Transportation methods # 
-# Set transportation method (flight, self-driving, taxi) variable for 2 transportations between cities
+# Set transportation method (flight, self-driving, taxi) variable for 2 transportations between cities. **All three keys must be initialized.**
 # declare arrival time variables for 2 transportations
 # Assert only one of flight, self-driving, or taxi is used for 2 transportations between cities, self-driving is not valid if taxi or flight is used for any transportation
 # Assert all 2 transportations between cities are not flight **only if explicitly mentioned in the query that don't want to take flights.**
@@ -241,7 +243,7 @@ Steps:
 # Run DistanceSearch to get driving info for Fort Lauderdale as origin and city_0
 # Get specific driving distance info with Fort Lauderdale as origin and final destination, specific city, and departure date for 2 transportations
 # Assert driving info is not empty if driving
-# Calculate self-driving and taxi price for 2 people and 2 transportations based on driving distance
+# Calculate self-driving and taxi price for 2 people and 2 transportations based on driving distance. **All variables must be initialized.**
 # Get driving arrival time with Fort Lauderdale as origin and final destination, specific city, and departure date for 2 transportations
 
 # Restaurant information # 
