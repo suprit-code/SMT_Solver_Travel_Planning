@@ -1,3 +1,4 @@
+
 import re, string, os, sys
 import time
 import json
@@ -265,6 +266,7 @@ def pipeline(query, user_persona, mode, model, index, model_version = None):
     elif(model == 'phi'): phi_llm = LLMWrapper("phi")
     elif(model == 'codellama'): codellama_llm = LLMWrapper("codellama")
     elif(model == 'llama'): llama_llm = LLMWrapper("llama")
+    elif(model == 'mistral'): mistral_llm = LLMWrapper("mistral")
 
     try:
         # json generated for postprocess only, not used in inputs to LLMs
@@ -276,6 +278,7 @@ def pipeline(query, user_persona, mode, model, index, model_version = None):
         elif model == 'phi': query_json = json.loads(phi_llm.generate("You are JSON generator so only generate JSON" + query_to_json_prompt + '{' + query + '}\n' + 'JSON:\n').replace('```json', '').replace('```', ''))
         elif model == 'llama' : query_json = json.loads(llama_llm.generate("You are JSON generator so only generate JSON" + query_to_json_prompt + '{' + query + '}\n' + 'JSON:\n').replace('```json', '').replace('```', ''))
         elif model == 'codellama' : query_json = json.loads(codellama_llm.generate("You are JSON generator so only generate JSON" + query_to_json_prompt + '{' + query + '}\n' + 'JSON:\n').replace('```json', '').replace('```', ''))
+        elif model == 'mistral' : query_json = json.loads(mistral_llm.generate("You are JSON generator so only generate JSON" + query_to_json_prompt + '{' + query + '}\n' + 'JSON:\n').replace('```json', '').replace('```', ''))
         else: ...
         
         with open(path+'plans/' + 'query.txt', 'w') as f:
@@ -295,6 +298,7 @@ def pipeline(query, user_persona, mode, model, index, model_version = None):
         elif model == 'phi': steps = phi_llm.generate(constraint_to_step_prompt + query + '\n' + 'Steps:\n')
         elif model == 'llama' : steps = llama_llm.generate(constraint_to_step_prompt + "** Respond with steps only which start with # ** \n" + query + '\n' + 'Steps:\n')
         elif model == 'codellama' : steps = codellama_llm.generate(constraint_to_step_prompt + query + '\n' + 'Steps:\n')
+        elif model == 'mistral' : steps = mistral_llm.generate(constraint_to_step_prompt + query + '\n' + 'Steps:\n')
         else: ...
         json_step = time.time()
         times.append(json_step - start)
@@ -328,6 +332,7 @@ def pipeline(query, user_persona, mode, model, index, model_version = None):
             elif model == 'phi': code = phi_llm.generate(prompt +'\nRespond with python codes only, do not add \ in front of symbols like _ or *.\n Follow the indentation of provided examples carefully, indent after for-loops!\n' +lines) # '\nRespond json with python codes only\n'
             elif model == 'llama' : code = llama_llm.generate(prompt +'\n ** Follow the indentation of provided examples carefully, indent after for-loops! ** \n' +lines) # '\nRespond json with python codes only\n'
             elif model == 'codellama' : code = codellama_llm.generate(prompt +'\nRespond with python codes only, do not add \ in front of symbols like _ or *.\n Follow the indentation of provided examples carefully, indent after for-loops!\n' +lines) # '\nRespond json with python codes only\n'
+            elif model == 'mistral' : code = mistral_llm.generate(prompt +'\n ** Respond with python codes only **, do not add \ in front of symbols like _ or *.\n Follow the indentation of provided examples carefully, indent after for-loops! There should not be any text only, codes and comments.\n' +lines) # '\nRespond json with python codes only\n'
             else: ...
 
             step_code = time.time()
@@ -429,7 +434,7 @@ if __name__ == '__main__':
         for number in tqdm(numbers[:]):
             path =  f'output/{args.set_type}/{args.model_name}_nl/{number}/plans/'
             if not os.path.exists(path + 'plan.txt'):
-                if(number >= 0):
+                if(number >= 1):
                     print(number)
                     # query = query_data_list[number-1]['query']
                     query = query_data_list['query'][number-1]

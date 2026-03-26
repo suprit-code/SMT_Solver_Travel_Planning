@@ -16,7 +16,8 @@ class LLMWrapper:
         "llama": "meta-llama/Llama-3.1-8B-Instruct",
         "qwen": "Qwen/Qwen2.5-7B-Instruct",
         "phi": "microsoft/Phi-4",
-        "codellama" : "codellama/CodeLlama-7b-Instruct-hf"
+        "codellama" : "codellama/CodeLlama-7b-Instruct-hf",
+        "mistral" : "mistralai/Mistral-7B-Instruct-v0.3"
     }
 
     def __init__(self, model_key: str = "qwen", device: str = None):
@@ -114,6 +115,6 @@ if __name__ == "__main__":
     print(prompt+lines)
 
     # Use any model key ("codellama", "qwen", "phi")
-    phi_llm = LLMWrapper("llama")
+    mistral_llm = LLMWrapper("mistral")
     prompt = (prompt + lines)
-    print("\n[phi Response]\n", phi_llm.generate(prompt))
+    print("\n[mistral Response]\n", mistral_llm.generate(prompt))
