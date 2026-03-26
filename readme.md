@@ -51,7 +51,6 @@ A hybrid travel itinerary planner that uses natural language constraints, LLM-ba
    ```
 
 5. API keys (if you want real external API behavior):
-   - `MISTRAL_API_KEY`
    - `HUGGING_FACE_TOKEN`
 
 ## ▶️ Usage
@@ -61,6 +60,25 @@ A hybrid travel itinerary planner that uses natural language constraints, LLM-ba
 ```bash
 python Test_TravelPlanner.py --set_type 3d --model_name phi
 ```
+
+**Arguments:**
+- `--set_type`: Dataset type to use
+  - `validation`: Use validation dataset from osunlp/TravelPlanner
+  - `test`: Use test dataset from osunlp/TravelPlanner  
+  - `3d`: Use tripcraft_3day.csv dataset
+  - `5d`: Use tripcraft_5day.csv dataset
+  - `7d`: Use tripcraft_7day.csv dataset
+  - Default: `3d`
+- `--model_name`: LLM model to use for code generation
+  - `gpt`: OpenAI GPT models
+  - `gemini`: Google Gemini
+  - `claude`: Anthropic Claude
+  - `mixtral`: Mixtral model
+  - `qwen`: Qwen model
+  - `phi`: Phi model
+  - `llama`: Llama model
+  - `codellama`: CodeLlama model
+  - Default: `gpt`
 
 ### 2. Output location
 - `output/<set_type>/<model_name>_nl/<index>/plans/`
