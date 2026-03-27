@@ -38,6 +38,8 @@ A hybrid travel itinerary planner that uses natural language constraints, LLM-ba
    cd SMT_Solver_Travel_Planning
    ```
    After cloning the repo put the tripcraft database in the root folder. For database refer to the drive link in the Email.
+   TripCraft_database folder should be in root folder.
+   tripcraft_3day.csv, tripcraft_5day.csv, tripcraft_7day.csv should be in root folder.
 
    ---
 2. Create and activate a Python environment:
