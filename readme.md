@@ -37,6 +37,9 @@ A hybrid travel itinerary planner that uses natural language constraints, LLM-ba
    git clone <repo-url>
    cd SMT_Solver_Travel_Planning
    ```
+   After cloning the repo put the tripcraft database in the root folder. For database refer to the drive link in the Email.
+
+   ---
 2. Create and activate a Python environment:
 
 - Using `conda` (env name `fmtravelplanner`):
@@ -50,7 +53,7 @@ A hybrid travel itinerary planner that uses natural language constraints, LLM-ba
    pip install -r requirements.txt
    ```
 
-5. API keys (if you want real external API behavior):
+4. API keys (if you want real external API behavior):
    - `HUGGING_FACE_TOKEN`
 
 ## ▶️ Usage
