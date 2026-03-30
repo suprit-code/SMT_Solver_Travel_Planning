@@ -195,11 +195,22 @@ def run_single_job(job_id, code, query_json, user_persona, path):
         }
 
     except Exception as e:
+        error_msg = str(e)
+        tb = traceback.format_exc()
+
+        error_file = os.path.join(path, "error.txt")  
+        os.makedirs(path, exist_ok=True)
+        with open(error_file, "w", encoding="utf-8") as f:
+            f.write(f"\n--- JOB {job_id} FAILED ---\n")
+            f.write(f"Error: {error_msg}\n")
+            f.write(f"Traceback:\n{tb}\n")
+            f.write(f"{'-'*40}\n")
+
         return {
             "job_id": job_id,
             "status": "failed",
-            "error": str(e),
-            "traceback": traceback.format_exc()
+            "error": error_msg,
+            "traceback": tb
         }
 
 def main():
@@ -207,19 +218,19 @@ def main():
     MAX_WORKERS = mp.cpu_count()
     print("Max workers:", MAX_WORKERS)
 
-    query_data_list = pd.read_csv("tripcraft_5day.csv")     #change
-    path = "output/5d/phi_nl"                       #change
+    query_data_list = pd.read_csv("tripcraft_3day.csv")     #change
+    path = "output2/3d/qwen_nl"                       #change
     results = []
 
 
     with ProcessPoolExecutor(max_workers=int(MAX_WORKERS/2)) as executor:          #change
         futures = []
 
-        for i in range(324):                                                 #change
+        for i in range(344):                                                 #change
             number = i + 1
-            if os.path.exists(path + f'/{number}/plans/plan.txt'):
-                print(f"[SKIP] plan.txt already generated for job {number}")
-                continue
+            # if os.path.exists(path + f'/{number}/plans/plan.txt'):
+            #     print(f"[SKIP] plan.txt already generated for job {number}")
+            #     continue
 
             print(f"================= Trial {number} =================")
             updated_path = path + f'/{number}/'
@@ -247,7 +258,7 @@ def main():
                 )
             )
 
-        output_file = os.path.join("Tripcraft_outputv4", "run_results5d.jsonl")              #change
+        output_file = os.path.join("output", "run_results3d.jsonl")              #change
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
         # write each result as a JSON line so we can inspect partial runs
         with open(output_file, "a", encoding="utf-8") as out_f:
@@ -258,7 +269,7 @@ def main():
                 print(f"Written result for job {result.get('job_id')} (status={result.get('status')})")
 
         # also write a full JSON summary
-        summary_file = os.path.join("Tripcraft_outputv4", "run_results5d.json")              #change
+        summary_file = os.path.join("output", "run_results3d.json")              #change
         with open(summary_file, "w", encoding="utf-8") as sf:
             json.dump(results, sf, indent=2, ensure_ascii=False)
         print(f"All results written to {output_file} and summary to {summary_file}")
