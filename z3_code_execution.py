@@ -228,9 +228,9 @@ def main():
 
         for i in range(344):                                                 #change
             number = i + 1
-            # if os.path.exists(path + f'/{number}/plans/plan.txt'):
-            #     print(f"[SKIP] plan.txt already generated for job {number}")
-            #     continue
+            if os.path.exists(path + f'/{number}/plans/plan.txt'):
+                print(f"[SKIP] plan.txt already generated for job {number}")
+                continue
 
             print(f"================= Trial {number} =================")
             updated_path = path + f'/{number}/'
