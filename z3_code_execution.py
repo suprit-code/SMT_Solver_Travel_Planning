@@ -1,3 +1,4 @@
+import argparse
 import os, sys
 import time
 import json
@@ -181,7 +182,9 @@ def run_single_job(job_id, code, query_json, user_persona, path):
             "__name__": "__main__",
             "query_json": query_json,
             "user_persona": user_persona,
-            "variables": {},
+            "variables": {"user_persona": user_persona}, 
+            "origin_city": query_json.get("org", ""),
+            "total_travel_days" : query_json.get("days", 3),
             "path": path,
             "success": False
         })
@@ -214,19 +217,41 @@ def run_single_job(job_id, code, query_json, user_persona, path):
         }
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--model_name", type=str, required=True, help="Model name to use")
+    parser.add_argument("--days", type=str, required=True, help="Number of days for the trip (3d, 5d, or 7d)")
+    args = parser.parse_args()
+
+    model_name = args.model_name
+    mode = args.days
+    print("Using model:", model_name)
+
+    if mode == '3d':
+        index = 344
+        file_name = "tripcraft_3day.csv"
+    elif mode == '5d':
+        index = 324
+        file_name = "tripcraft_5day.csv"
+    elif mode == '7d':
+        index = 332
+        file_name = "tripcraft_7day.csv"
+    else :
+        index = 344
+        file_name = "tripcraft_3day.csv"
+    
     start_time = time.time()
     MAX_WORKERS = mp.cpu_count()
     print("Max workers:", MAX_WORKERS)
 
-    query_data_list = pd.read_csv("tripcraft_3day.csv")     #change
-    path = "output2/3d/qwen_nl"                       #change
+    query_data_list = pd.read_csv(file_name)     #change
+    path = f"{model_name}_output/{mode}/{model_name}_nl"                       #change
     results = []
-
+    print(f"path: {path}")
 
     with ProcessPoolExecutor(max_workers=int(MAX_WORKERS/2)) as executor:          #change
         futures = []
 
-        for i in range(344):                                                 #change
+        for i in range(index):                                                 #change
             number = i + 1
             if os.path.exists(path + f'/{number}/plans/plan.txt'):
                 print(f"[SKIP] plan.txt already generated for job {number}")
@@ -257,11 +282,12 @@ def main():
                     updated_path
                 )
             )
+            
 
-        output_file = os.path.join("output", "run_results3d.jsonl")              #change
+        output_file = os.path.join(f"{model_name}_output", f"run_results{mode}.jsonl")              #change
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
         # write each result as a JSON line so we can inspect partial runs
-        with open(output_file, "a", encoding="utf-8") as out_f:
+        with open(output_file, "w", encoding="utf-8") as out_f:
             for future in tqdm(as_completed(futures), total=len(futures)):
                 result = future.result()
                 results.append(result)
@@ -269,7 +295,7 @@ def main():
                 print(f"Written result for job {result.get('job_id')} (status={result.get('status')})")
 
         # also write a full JSON summary
-        summary_file = os.path.join("output", "run_results3d.json")              #change
+        summary_file = os.path.join(f"{model_name}_output", f"run_results{mode}.json")              #change
         with open(summary_file, "w", encoding="utf-8") as sf:
             json.dump(results, sf, indent=2, ensure_ascii=False)
         print(f"All results written to {output_file} and summary to {summary_file}")

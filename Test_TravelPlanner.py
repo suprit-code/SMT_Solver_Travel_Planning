@@ -204,7 +204,9 @@ def generate_as_plan(s, variables, query):
 
 
 def pipeline(query, user_persona, mode, model, index, model_version = None):
-    path =  f'output/{mode}/{model}_nl/{index}/'
+    path =  f'output2/{mode}/{model}_nl/{index}/'
+    print(path)
+    print(mode)
     
     if not os.path.exists(path):
         os.makedirs(path)
@@ -213,7 +215,9 @@ def pipeline(query, user_persona, mode, model, index, model_version = None):
     # setup
     with open('prompts/query_to_json.txt', 'r') as file:
         query_to_json_prompt = file.read()
-    with open('prompts/constraint_to_step_nl_v2.txt', 'r') as file:
+    # with open('prompts/constraint_to_step_nl_v2.txt', 'r') as file:
+    #     constraint_to_step_prompt = file.read()
+    with open(f'prompts/constraint_to_step_nl_v2_{mode}.txt', 'r') as file:
         constraint_to_step_prompt = file.read()
     with open('prompts/step_to_code_destination_cities.txt', 'r') as file:
         step_to_code_destination_cities_prompt = file.read()
