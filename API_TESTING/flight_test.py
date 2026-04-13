@@ -11,9 +11,9 @@ def main():
     flights = Flights()
 
     # Example test parameters
-    origin = "New York"
-    destination = "Los Angeles"
-    departure_date = "2024-11-15"
+    origin = "San Diego"
+    destination = "Redding"
+    departure_date = "2024-11-17"
 
     print("\n--- Testing run_check() ---")
     result_check = flights.run_check(origin, destination, departure_date)
