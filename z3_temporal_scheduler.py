@@ -3,8 +3,7 @@ import json
 from pathlib import Path
 import ast
 import re
-from Transit_api.apis import *
-from z3_plan_scheduler import read_json_file
+from tools.transits.apis import *
 transits = Transits()
 
 def parse_transportation(transport_list):
@@ -623,7 +622,7 @@ def get_transit_info(transits_api, city, poi_name):
     try:
         result = transits_api.run(city, poi_name)
         if result is not None and not result.empty:
-            return f"nearest transit : {result.iloc[0]['nearest_stop_name']}, {result.iloc[0]['nearest_stop_distance']}m away"
+            return f"nearest transit: {result.iloc[0]['nearest_stop_name']}, {result.iloc[0]['nearest_stop_distance']}m away"
     except Exception as e:
         print(f"Warning: Transit API failed for {poi_name} in {city}: {e}")
     return ""
@@ -692,7 +691,7 @@ def scheduler(data, days, origin):
 
     for d in range(days):
         day_dict = {
-            "day": d + 1,
+            "days": d + 1,
             "current_city": "-",
             "transportation": "-",
             "breakfast": "-",
