@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F2045101, from Seattle to San Diego, Departure Time: 11:34, Arrival Time: 14:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "-",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 14:53 to 15:23, nearest transit: Adams Av & Hawley Bl, 292.57m away; Mimmo's, San Diego, visit from 19:00 to 20:15, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 20:45 to 04:45, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Cafe Coyote, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "Coronado Bridge, San Diego",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 06:00 to 07:33, nearest transit: Adams Av & Hawley Bl, 292.57m away; Cafe Coyote, San Diego, visit from 08:03 to 08:53, ; Pacific Beach AleHouse, San Diego, visit from 12:54 to 13:54, ; Coronado Bridge, San Diego, visit from 14:24 to 17:54, ; Morning Glory, San Diego, visit from 19:00 to 20:15, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 20:45 to 04:45, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F1517981, from San Diego to Seattle, Departure Time: 17:28, Arrival Time: 20:23",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Buon Appetito, San Diego",
+    "dinner": "-",
+    "attraction": "Seaport Village, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 06:00 to 06:30, nearest transit: Adams Av & Hawley Bl, 292.57m away; Juniper and Ivy, San Diego, visit from 09:10 to 10:00, ; Seaport Village, San Diego, visit from 10:30 to 14:00, ; Buon Appetito, San Diego, visit from 14:30 to 16:46, "
+  }
+]

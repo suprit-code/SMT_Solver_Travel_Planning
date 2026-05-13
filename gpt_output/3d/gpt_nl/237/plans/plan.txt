@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-14', '2024-11-16'],
+Transportation methods between cities: ['Flight Number: F2492698, from San Francisco to Atlanta, Departure Time: 06:08, Arrival Time: 13:27', 'Flight Number: F0858189, from Atlanta to San Francisco, Departure Time: 19:16, Arrival Time: 21:17'],
+Restaurants (3 meals per day): ['-', '-', 'La Grotta Ristorante Italiano, Atlanta', 'Fox Bros. Bar-B-Q, Atlanta', 'Fogo de Chao Brazilian Steakhouse, Atlanta', 'Home Grown, Atlanta', 'Kevin Rathbun Steak, Atlanta', 'Steamhouse Lounge, Atlanta', '-'],
+Attractions (1 per day): ['Centennial Olympic Park, Atlanta', 'Georgia Aquarium, Atlanta', 'Zoo Atlanta, Atlanta'],
+Accommodations (1 per city): ['Urban Nature Retreat |  Pets | Insurance, Atlanta']

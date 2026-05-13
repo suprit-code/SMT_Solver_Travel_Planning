@@ -1,0 +1,11 @@
+########## Driving response ##########
+    driving_info = DistanceSearch.run_for_all_cities('Miami', cities, [city_0])  # use driving_info, do not customize
+    driving_0_distance, driving_0_length = DistanceSearch.get_info(driving_info, 'Miami', variables['city'][0], 'Distance')
+    driving_1_distance, driving_1_length = DistanceSearch.get_info(driving_info, 'Miami', variables['city'][1], 'Distance')
+    s.assert_and_track(Implies(Or(variables['self-driving'][0], variables['taxi'][0]), driving_0_length > 0), 'driving is possible for transportation 0')
+    s.assert_and_track(Implies(Or(variables['self-driving'][1], variables['taxi'][1]), driving_1_length > 0), 'driving is possible for transportation 1')
+    taxi_0_price = driving_0_distance * math.ceil(3 / 4)
+    taxi_1_price = driving_1_distance * math.ceil(3 / 4)
+    driving_0_arrtime, _ = DistanceSearch.get_info(driving_info, 'Miami', variables['city'][0], 'Duration')
+    driving_1_arrtime, _ = DistanceSearch.get_info(driving_info, 'Miami', variables['city'][1], 'Duration')
+    ########## Driving response ends ##########

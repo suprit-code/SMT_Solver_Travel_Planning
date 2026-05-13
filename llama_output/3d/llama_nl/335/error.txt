@@ -1,0 +1,13 @@
+
+--- JOB 335 FAILED ---
+Error: invalid syntax (<string>, line 189)
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 189
+    In this example, we first define a list of accommodations with their respective rules. Then, we iterate over each accommodation and its rules. If a rule is "No children under 10", we print a message indicating that the rule is violated. Otherwise, we print a message indicating that the rule is present.
+       ^
+SyntaxError: invalid syntax
+
+----------------------------------------

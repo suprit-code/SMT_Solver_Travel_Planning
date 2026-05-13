@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Peoria to Nashville",
+    "transportation": "Self-driving from Peoria to Nashville, duration: 486.8316666666667, distance: 688.1739, cost : 34.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "attraction": "-",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 19:45 to 20:15, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 20:45 to 22:00, ; Private Entrance near Airport in Safe neighborhood, stay from 22:30 to 06:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "1 Kitchen, Nashville",
+    "dinner": "Old Hickory Steakhouse, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 07:00 to 08:40, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Aquarium Restaurant, Nashville, visit from 09:10 to 10:00, ; Cheekwood, Nashville, visit from 10:30 to 14:00, ; 1 Kitchen, Nashville, visit from 14:30 to 16:44, ; Old Hickory Steakhouse, Nashville, visit from 20:45 to 22:00, ; Private Entrance near Airport in Safe neighborhood, stay from 22:30 to 06:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Self-driving from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 23.0",
+    "breakfast": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "-",
+    "attraction": "Tennessee State Museum, Nashville",
+    "accommodation": "Comfortable and cozy in the heart of Bristol, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 07:00 to 07:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 08:00 to 08:50, ; Tennessee State Museum, Nashville, visit from 09:20 to 12:50, ; Kayne Prime, Nashville, visit from 13:20 to 14:20, ; Comfortable and cozy in the heart of Bristol, stay from 20:39 to 21:09, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Comfortable and cozy in the heart of Bristol, stay from 21:39 to 05:39, nearest transit: Kroger-Gate City Hwy, 4622.18m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Bristol Seafood + Steak + Social, Bristol",
+    "lunch": "The River Grille, Bristol",
+    "dinner": "Bristol Lounge, Bristol",
+    "attraction": "Bristol Museum & Art Gallery, Bristol",
+    "accommodation": "Comfortable and cozy in the heart of Bristol, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Comfortable and cozy in the heart of Bristol, stay from 06:09 to 06:39, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Bristol Seafood + Steak + Social, Bristol, visit from 08:57 to 09:47, ; Bristol Museum & Art Gallery, Bristol, visit from 10:17 to 13:47, ; The River Grille, Bristol, visit from 14:17 to 15:17, ; Bristol Lounge, Bristol, visit from 19:18 to 20:33, ; Comfortable and cozy in the heart of Bristol, stay from 21:03 to 05:03, nearest transit: Kroger-Gate City Hwy, 4622.18m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Peoria",
+    "transportation": "Self-driving from Bristol to Peoria, duration: 711.3566666666667, distance: 1009.8111, cost : 50.0",
+    "breakfast": "Baba Ganoush Kitchen - Jerusalem Falafel, Bristol",
+    "lunch": "Bristol Seafood Restaurant, Bristol",
+    "dinner": "Little Bristol Beach Bar, Bristol",
+    "attraction": "M Shed, Bristol",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfortable and cozy in the heart of Bristol, stay from 06:00 to 06:30, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Baba Ganoush Kitchen - Jerusalem Falafel, Bristol, visit from 08:00 to 08:50, ; Bristol Seafood Restaurant, Bristol, visit from 12:51 to 13:51, ; M Shed, Bristol, visit from 14:21 to 18:30, ; Little Bristol Beach Bar, Bristol, visit from 19:00 to 20:15, "
+  }
+]

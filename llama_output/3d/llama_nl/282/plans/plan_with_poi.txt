@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Newburgh to Savannah",
+    "transportation": "Self-driving from Newburgh to Savannah, duration: 993.655, distance: 1386.7442, cost : 69.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy Room Near Starland District, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Cozy Room Near Starland District, stay from 23:03 to 23:33, nearest transit: E BROAD & 35th NB, 65.21m away; Cozy Room Near Starland District, stay from 00:03 to 08:00, nearest transit: E BROAD & 35th NB, 65.21m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "17 Hundred 90 Restaurant, Savannah",
+    "lunch": "Rocks on the Roof, Savannah",
+    "dinner": "Cotton & Rye, Savannah",
+    "attraction": "-",
+    "accommodation": "Cozy Room Near Starland District, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Cozy Room Near Starland District, stay from 08:30 to 09:00, nearest transit: E BROAD & 35th NB, 65.21m away; 17 Hundred 90 Restaurant, Savannah, visit from 09:31 to 10:21, ; Rocks on the Roof, Savannah, visit from 14:22 to 15:22, ; Cotton & Rye, Savannah, visit from 19:23 to 23:09, ; Cozy Room Near Starland District, stay from 23:39 to 07:39, nearest transit: E BROAD & 35th NB, 65.21m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Newburgh",
+    "transportation": "Self-driving from Savannah to Newburgh, duration: 989.985, distance: 1384.401, cost : 69.0",
+    "breakfast": "Crystal Beer Parlor, Savannah",
+    "lunch": "Chive Sea Bar & Lounge, Savannah",
+    "dinner": "Mrs. Wilkes Dining Room, Savannah",
+    "attraction": "Wormsloe Historic Site, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Room Near Starland District, stay from 08:09 to 08:39, nearest transit: E BROAD & 35th NB, 65.21m away; Crystal Beer Parlor, Savannah, visit from 09:09 to 09:59, ; Chive Sea Bar & Lounge, Savannah, visit from 14:00 to 15:00, ; Wormsloe Historic Site, Savannah, visit from 15:30 to 19:00, ; Mrs. Wilkes Dining Room, Savannah, visit from 19:30 to 20:45, "
+  }
+]

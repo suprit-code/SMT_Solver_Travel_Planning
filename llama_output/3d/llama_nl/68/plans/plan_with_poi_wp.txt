@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Jackson to San Francisco",
+    "transportation": "Flight Number: F0612301, from Jackson to San Francisco, Departure Time: 16:15, Arrival Time: 17:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Capital Restaurant, San Francisco",
+    "attraction": "-",
+    "accommodation": "Immaculate studio space  with free parking, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 18:26 to 18:56, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Capital Restaurant, San Francisco, visit from 19:26 to 20:41, ; Immaculate studio space  with free parking, stay from 21:11 to 05:11, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "lunch": "Good Mong Kok Bakery, San Francisco",
+    "dinner": "The Codmother Fish & Chips, San Francisco",
+    "attraction": "Japanese Tea Garden, San Francisco",
+    "accommodation": "Immaculate studio space  with free parking, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 06:00 to 06:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 08:38 to 09:28, ; Japanese Tea Garden, San Francisco, visit from 09:58 to 13:28, ; Good Mong Kok Bakery, San Francisco, visit from 14:30 to 15:30, ; The Codmother Fish & Chips, San Francisco, visit from 19:31 to 20:46, ; Immaculate studio space  with free parking, stay from 21:16 to 05:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Jackson",
+    "transportation": "Flight Number: F1204257, from San Francisco to Jackson, Departure Time: 18:20, Arrival Time: 21:14",
+    "breakfast": "Mo's Grill, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 06:00 to 06:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Mo's Grill, San Francisco, visit from 08:00 to 08:50, ; Golden Gate Park, San Francisco, visit from 09:20 to 12:50, "
+  }
+]

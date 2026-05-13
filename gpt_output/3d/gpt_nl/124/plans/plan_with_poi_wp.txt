@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Jackson to Atlanta",
+    "transportation": "Flight Number: F0641350, from Jackson to Atlanta, Departure Time: 15:31, Arrival Time: 17:49",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Fox Bros. Bar-B-Q, Atlanta",
+    "attraction": "-",
+    "accommodation": "Chic, Clean, City Loft Getaway, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Chic, Clean, City Loft Getaway, stay from 18:19 to 18:49, nearest transit: PONCE DE LEON AVE @ LULLWATER RD NE, 192.63m away; Fox Bros. Bar-B-Q, Atlanta, visit from 19:19 to 20:34, ; Chic, Clean, City Loft Getaway, stay from 21:30 to 05:30, nearest transit: PONCE DE LEON AVE @ LULLWATER RD NE, 192.63m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "The Optimist, Atlanta",
+    "dinner": "Kevin Rathbun Steak, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Chic, Clean, City Loft Getaway, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Chic, Clean, City Loft Getaway, stay from 06:00 to 06:30, nearest transit: PONCE DE LEON AVE @ LULLWATER RD NE, 192.63m away; Cafe Agora, Atlanta, visit from 08:30 to 09:20, ; Georgia Aquarium, Atlanta, visit from 09:50 to 13:20, ; The Optimist, Atlanta, visit from 14:30 to 15:30, ; Kevin Rathbun Steak, Atlanta, visit from 19:31 to 20:46, ; Chic, Clean, City Loft Getaway, stay from 21:16 to 08:00, nearest transit: PONCE DE LEON AVE @ LULLWATER RD NE, 192.63m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Jackson",
+    "transportation": "Flight Number: F0349328, from Atlanta to Jackson, Departure Time: 19:05, Arrival Time: 19:17",
+    "breakfast": "-",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "-",
+    "attraction": "Piedmont Park, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Chic, Clean, City Loft Getaway, stay from 08:30 to 09:00, nearest transit: PONCE DE LEON AVE @ LULLWATER RD NE, 192.63m away; Piedmont Park, Atlanta, visit from 09:30 to 13:00, ; Steamhouse Lounge, Atlanta, visit from 14:21 to 15:21, "
+  }
+]

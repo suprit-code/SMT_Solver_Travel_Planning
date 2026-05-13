@@ -1,0 +1,6 @@
+Destination cities: ['Baltimore'],
+Transportation dates: ['2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F0403657, from Miami to Baltimore, Departure Time: 14:20, Arrival Time: 17:02', 'Flight Number: F3047273, from Baltimore to Miami, Departure Time: 20:09, Arrival Time: 22:39'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Sotto Sopra, Baltimore', 'La Scala, Baltimore', "Amicci's, Baltimore", 'Cinghiale, Baltimore', 'Luna Del Sea Steak & Seafood Bistro, Baltimore', 'Blue Moon Cafe, Baltimore'],
+Attractions (1 per day): ['National Aquarium, Baltimore', 'Fort McHenry National Monument And Historic Shrine, Baltimore', 'The Maryland Zoo, Baltimore'],
+Accommodations (1 per city): ['Loaded Home - Heart Of Fells Point Waterfront Area, Baltimore']

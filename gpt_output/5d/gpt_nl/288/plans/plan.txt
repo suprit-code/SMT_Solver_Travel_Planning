@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Self-driving, from Reno to San Diego, duration: 678.895, distance: 897.9218000000001, cost: 44', 'Self-driving, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 53', 'Self-driving, from Redding to Reno, duration: 248.73166666666663, distance: 319.7163, cost: 15'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Trailer Park After Dark, San Diego', "Filippi's Pizza Grotto Little Italy, San Diego", 'Dockside 1953, San Diego', 'Vessel Restaurant + Bar, San Diego', 'Born & Raised, San Diego', "Mimmo's, San Diego", 'Dam Burger, Redding', 'Los Gordos, Redding', 'Thai Hut, Redding', "Jack's Grill, Redding", "Trendy's, Redding", 'View 202, Redding'],
+Attractions (1 per day): ['-', 'Birch Aquarium at Scripps, San Diego', 'San Diego Zoo, San Diego', 'Sundial Bridge, Redding', 'Turtle Bay Exploration Park, Redding'],
+Accommodations (1 per city): ['Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego', 'The God Spa, Redding']

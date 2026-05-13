@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to New York",
+    "transportation": "Flight Number: F3204497, from Memphis to New York, Departure Time: 13:49, Arrival Time: 17:25",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Rainbow Room, New York",
+    "attraction": "-",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 17:55 to 20:15, nearest transit: 9 AV/W 30 ST, 139.35m away; Rainbow Room, New York, visit from 20:45 to 22:15, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 22:45 to 06:45, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "Manhatta, New York",
+    "dinner": "Peak Restaurant & Bar, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 07:15 to 07:45, nearest transit: 9 AV/W 30 ST, 139.35m away; Times Square Diner, New York, visit from 08:15 to 09:29, ; The National 9/11 Memorial & Museum, New York, visit from 09:59 to 13:29, ; Manhatta, New York, visit from 13:59 to 14:59, ; Peak Restaurant & Bar, New York, visit from 19:00 to 22:00, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 22:30 to 06:30, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Rochester",
+    "transportation": "Flight Number: F1885211, from New York to Rochester, Departure Time: 21:25, Arrival Time: 22:37",
+    "breakfast": "Del Frisco's Grille, New York",
+    "lunch": "La Grande Boucherie, New York",
+    "dinner": "-",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "Cheerful Garden Oasis/ Hottub, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 07:00 to 07:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Del Frisco's Grille, New York, visit from 08:00 to 08:50, ; The Metropolitan Museum of Art, New York, visit from 09:20 to 14:00, ; La Grande Boucherie, New York, visit from 14:30 to 15:30, ; Cheerful Garden Oasis/ Hottub, stay from 23:07 to 23:37, nearest transit: Winona 61 & Hwy. 14, 1142504.56m away; Cheerful Garden Oasis/ Hottub, stay from 00:07 to 08:00, nearest transit: Winona 61 & Hwy. 14, 1142504.56m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Rochester",
+    "transportation": "-",
+    "breakfast": "Rooney's Restaurant, Rochester",
+    "lunch": "Tiny Tim's Tea Rooms, Rochester",
+    "dinner": "Hunan Garden, Rochester",
+    "attraction": "-",
+    "accommodation": "Cheerful Garden Oasis/ Hottub, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Cheerful Garden Oasis/ Hottub, stay from 08:30 to 09:00, nearest transit: Winona 61 & Hwy. 14, 1142504.56m away; Rooney's Restaurant, Rochester, visit from 09:39 to 10:29, ; Tiny Tim's Tea Rooms, Rochester, visit from 14:30 to 16:44, ; Hunan Garden, Rochester, visit from 20:45 to 22:00, ; Cheerful Garden Oasis/ Hottub, stay from 22:30 to 06:30, nearest transit: Winona 61 & Hwy. 14, 1142504.56m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Rochester to Memphis",
+    "transportation": "Taxi from Rochester to Memphis, duration: 1107.9416666666666, distance: 1582.6321, cost : 1582.0",
+    "breakfast": "The Eagle Tavern, Rochester",
+    "lunch": "Nick Tahou Hots, Rochester",
+    "dinner": "Good Luck, Rochester",
+    "attraction": "The Strong National Museum of Play, Rochester",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cheerful Garden Oasis/ Hottub, stay from 07:00 to 07:30, nearest transit: Winona 61 & Hwy. 14, 1142504.56m away; The Eagle Tavern, Rochester, visit from 08:00 to 08:50, ; The Strong National Museum of Play, Rochester, visit from 09:20 to 12:50, ; Nick Tahou Hots, Rochester, visit from 13:20 to 14:20, ; Good Luck, Rochester, visit from 19:00 to 20:15, "
+  }
+]

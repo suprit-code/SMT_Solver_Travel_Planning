@@ -1,0 +1,6 @@
+Destination cities: ['Nashville', 'Bristol'],
+Transportation dates: ['2024-11-07', '2024-11-09', '2024-11-11'],
+Transportation methods between cities: ['Self-driving, from Peoria to Nashville, duration: 486.8316666666667, distance: 688.1739, cost: 34', 'Self-driving, from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost: 23', 'Self-driving, from Bristol to Peoria, duration: 711.3566666666667, distance: 1009.8111, cost: 50'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Smiling Elephant, Nashville', 'Aquarium Restaurant, Nashville', '1 Kitchen, Nashville', 'Henley, Nashville', "Adele's Nashville, Nashville", 'Honky Tonk – The Twelve Thirty Club, Nashville', 'Raj, Bristol', 'Bravas, Bristol', 'Baba Ganoush Kitchen - Jerusalem Falafel, Bristol', 'Little Bristol Beach Bar, Bristol', 'Eat a Pitta, Bristol', 'Bosco Pizzeria, Bristol'],
+Attractions (1 per day): ['-', 'Cheekwood, Nashville', 'Centennial Park, Nashville', 'Bristol Museum & Art Gallery, Bristol', 'M Shed, Bristol'],
+Accommodations (1 per city): ['Private Entrance near Airport in Safe neighborhood, Nashville', 'Sweet Bristol Bungalow, Bristol']

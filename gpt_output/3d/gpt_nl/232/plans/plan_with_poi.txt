@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Washington",
+    "transportation": "Flight Number: F3994792, from Houston to Washington, Departure Time: 20:37, Arrival Time: 00:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 00:45 to 01:15, nearest transit: FOGGY BOTTOM, 373.15m away; King Studio | 2500 Penn, a Placemakr Experience, stay from 01:45 to 08:00, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Old Ebbitt Grill, Washington",
+    "lunch": "Smoke & Mirrors Rooftop Bar, Washington",
+    "dinner": "L'Ardente, Washington",
+    "attraction": "-",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 08:30 to 09:00, nearest transit: FOGGY BOTTOM, 373.15m away; Old Ebbitt Grill, Washington, visit from 09:39 to 10:29, ; Smoke & Mirrors Rooftop Bar, Washington, visit from 14:30 to 16:44, ; L'Ardente, Washington, visit from 20:45 to 23:10, ; King Studio | 2500 Penn, a Placemakr Experience, stay from 23:40 to 07:40, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Houston",
+    "transportation": "Flight Number: F3433753, from Washington to Houston, Departure Time: 16:47, Arrival Time: 19:08",
+    "breakfast": "RPM Italian, Washington",
+    "lunch": "FIG & OLIVE, Washington",
+    "dinner": "-",
+    "attraction": "National Mall, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 08:10 to 08:40, nearest transit: FOGGY BOTTOM, 373.15m away; RPM Italian, Washington, visit from 09:10 to 10:00, ; National Mall, Washington, visit from 10:30 to 14:00, ; FIG & OLIVE, Washington, visit from 14:30 to 15:30, "
+  }
+]

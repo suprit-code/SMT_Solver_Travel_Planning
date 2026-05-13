@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Baltimore",
+    "transportation": "Flight Number: F3936081, from Indianapolis to Baltimore, Departure Time: 05:47, Arrival Time: 07:13",
+    "breakfast": "LP Steamers, Baltimore",
+    "lunch": "The Abbey Burger Bistro, Baltimore",
+    "dinner": "CLAVEL, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "Private Bed next to JHH, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Private Bed next to JHH, stay from 07:43 to 08:13, nearest transit: JOHNS HOPKINS STATION (METRO), 457.98m away; LP Steamers, Baltimore, visit from 08:43 to 09:33, ; The Abbey Burger Bistro, Baltimore, visit from 13:34 to 14:34, ; National Aquarium, Baltimore, visit from 15:04 to 18:34, ; CLAVEL, Baltimore, visit from 19:04 to 20:19, ; Private Bed next to JHH, stay from 22:58 to 06:58, nearest transit: JOHNS HOPKINS STATION (METRO), 457.98m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Angies Seafood, Baltimore",
+    "lunch": "Cinghiale, Baltimore",
+    "dinner": "Nick's Fish House, Baltimore",
+    "attraction": "Fort McHenry National Monument And Historic Shrine, Baltimore",
+    "accommodation": "Private Bed next to JHH, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Private Bed next to JHH, stay from 07:28 to 07:58, nearest transit: JOHNS HOPKINS STATION (METRO), 457.98m away; Angies Seafood, Baltimore, visit from 08:28 to 09:29, ; Cinghiale, Baltimore, visit from 13:30 to 14:30, ; Fort McHenry National Monument And Historic Shrine, Baltimore, visit from 15:00 to 18:30, ; Nick's Fish House, Baltimore, visit from 19:00 to 20:15, ; Private Bed next to JHH, stay from 20:45 to 04:45, nearest transit: JOHNS HOPKINS STATION (METRO), 457.98m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Indianapolis",
+    "transportation": "Flight Number: F2202336, from Baltimore to Indianapolis, Departure Time: 22:15, Arrival Time: 23:49",
+    "breakfast": "Magdalena, A Maryland Bistro, Baltimore",
+    "lunch": "Rusty Scupper, Baltimore",
+    "dinner": "Sotto Sopra, Baltimore",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Bed next to JHH, stay from 06:00 to 06:30, nearest transit: JOHNS HOPKINS STATION (METRO), 457.98m away; Magdalena, A Maryland Bistro, Baltimore, visit from 09:09 to 09:59, ; Rusty Scupper, Baltimore, visit from 14:00 to 15:00, ; The Maryland Zoo, Baltimore, visit from 15:30 to 19:00, ; Sotto Sopra, Baltimore, visit from 19:30 to 20:45, "
+  }
+]

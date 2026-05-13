@@ -1,0 +1,17 @@
+not ok
+Unsatisfiable core:
+visit city in cities list
+travel start date
+either flight, self-driving, or taxi for first transportation
+flight, self-driving, and taxi not simultaneously for second transportation
+driving is possible for transportation 1
+valid flight index for flight 0
+driving is possible for transportation 0
+eat in which city b
+eat in which city l
+eat in which city d
+valid restaurant index
+Indiantype restaurant
+Indiantype restaurant is visited
+attraction in which city
+valid attraction index

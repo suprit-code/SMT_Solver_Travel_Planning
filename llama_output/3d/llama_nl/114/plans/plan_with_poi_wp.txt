@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Nantucket",
+    "transportation": "Flight Number: F1254522, from Washington to Nantucket, Departure Time: 12:13, Arrival Time: 14:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Nautilus, Nantucket",
+    "attraction": "-",
+    "accommodation": "3 beautifully restored 17th-century buildings, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "3 beautifully restored 17th-century buildings, stay from 15:18 to 15:48, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away; The Nautilus, Nantucket, visit from 19:00 to 20:15, ; 3 beautifully restored 17th-century buildings, stay from 20:45 to 04:45, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nantucket",
+    "transportation": "-",
+    "breakfast": "Breeze Restaurant, Nantucket",
+    "lunch": "Downyflake, Nantucket",
+    "dinner": "Ventuno, Nantucket",
+    "attraction": "Nantucket Atheneum, Nantucket",
+    "accommodation": "3 beautifully restored 17th-century buildings, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "3 beautifully restored 17th-century buildings, stay from 06:00 to 08:24, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away; Breeze Restaurant, Nantucket, visit from 08:54 to 09:44, ; Downyflake, Nantucket, visit from 13:45 to 15:00, ; Nantucket Atheneum, Nantucket, visit from 15:30 to 19:00, ; Ventuno, Nantucket, visit from 19:30 to 20:45, ; 3 beautifully restored 17th-century buildings, stay from 21:15 to 05:15, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nantucket to Washington",
+    "transportation": "Flight Number: F1701497, from Nantucket to Washington, Departure Time: 17:05, Arrival Time: 18:34",
+    "breakfast": "Nantucket Grilll, Nantucket",
+    "lunch": "The Charlie Noble, Nantucket",
+    "dinner": "-",
+    "attraction": "Great Point Light, Nantucket",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "3 beautifully restored 17th-century buildings, stay from 06:00 to 06:30, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away; Nantucket Grilll, Nantucket, visit from 08:00 to 08:50, ; Great Point Light, Nantucket, visit from 09:20 to 12:50, ; The Charlie Noble, Nantucket, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to Seattle",
+    "transportation": "Flight Number: F1258791, from Tucson to Seattle, Departure Time: 13:33, Arrival Time: 16:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 17:06 to 18:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 19:00 to 22:19, ; Cozy room near UW, stay from 22:49 to 06:49, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Il Terrazzo Carmine, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "Salty's On Alki Beach, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:19 to 07:49, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Il Terrazzo Carmine, Seattle, visit from 08:19 to 09:59, ; Noi Thai Cuisine, Seattle, visit from 14:00 to 15:00, ; Hiram M. Chittenden Locks, Seattle, visit from 15:30 to 19:00, ; Salty's On Alki Beach, Seattle, visit from 19:30 to 20:45, ; Cozy room near UW, stay from 21:15 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Tucson",
+    "transportation": "Flight Number: F3372672, from Seattle to Tucson, Departure Time: 19:08, Arrival Time: 23:21",
+    "breakfast": "Metropolitan Grill, Seattle",
+    "lunch": "Chan Seattle, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:00 to 07:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Metropolitan Grill, Seattle, visit from 08:00 to 08:50, ; Chan Seattle, Seattle, visit from 12:51 to 13:51, ; Seattle Aquarium, Seattle, visit from 14:21 to 18:38, "
+  }
+]

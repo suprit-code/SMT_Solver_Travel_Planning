@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to Cincinnati",
+    "transportation": "Flight Number: F2026883, from Atlanta to Cincinnati, Departure Time: 08:37, Arrival Time: 09:56",
+    "breakfast": "-",
+    "lunch": "Jeff Ruby's Steakhouse, Cincinnati",
+    "dinner": "Nicola's Ristorante, Cincinnati",
+    "attraction": "Cincinnati Museum Center, Cincinnati",
+    "accommodation": "Northside Hideaway, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "Northside Hideaway, stay from 10:26 to 10:56, nearest transit: WEST FORK  RD & TODD AVE, 182.87m away; Jeff Ruby's Steakhouse, Cincinnati, visit from 12:00 to 13:00, ; Cincinnati Museum Center, Cincinnati, visit from 15:30 to 19:00, ; Nicola's Ristorante, Cincinnati, visit from 19:30 to 20:45, ; Northside Hideaway, stay from 22:34 to 06:34, nearest transit: WEST FORK  RD & TODD AVE, 182.87m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Cincinnati",
+    "transportation": "-",
+    "breakfast": "Jeff Ruby's Carlo & Johnny, Cincinnati",
+    "lunch": "Alfio's Buon Cibo, Cincinnati",
+    "dinner": "Agave & Rye Rookwood, Cincinnati",
+    "attraction": "National Underground Railroad Freedom Center, Cincinnati",
+    "accommodation": "Northside Hideaway, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "Northside Hideaway, stay from 07:04 to 07:34, nearest transit: WEST FORK  RD & TODD AVE, 182.87m away; Jeff Ruby's Carlo & Johnny, Cincinnati, visit from 08:04 to 10:00, ; National Underground Railroad Freedom Center, Cincinnati, visit from 10:30 to 14:00, ; Alfio's Buon Cibo, Cincinnati, visit from 14:30 to 15:30, ; Agave & Rye Rookwood, Cincinnati, visit from 20:45 to 23:10, ; Northside Hideaway, stay from 23:40 to 07:40, nearest transit: WEST FORK  RD & TODD AVE, 182.87m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Cincinnati to Atlanta",
+    "transportation": "Self-driving from Cincinnati to Atlanta, duration: 510.5, distance: 722.769, cost : 36.0",
+    "breakfast": "Boca, Cincinnati",
+    "lunch": "The Blind Lemon, Cincinnati",
+    "dinner": "Sleepy Bee Cafe - Oakley, Cincinnati",
+    "attraction": "Rhinegeist Brewery, Cincinnati",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Northside Hideaway, stay from 08:10 to 08:40, nearest transit: WEST FORK  RD & TODD AVE, 182.87m away; Boca, Cincinnati, visit from 09:10 to 10:00, ; Rhinegeist Brewery, Cincinnati, visit from 10:30 to 14:00, ; The Blind Lemon, Cincinnati, visit from 14:30 to 15:30, ; Sleepy Bee Cafe - Oakley, Cincinnati, visit from 19:31 to 20:46, "
+  }
+]

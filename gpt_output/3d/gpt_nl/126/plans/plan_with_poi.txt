@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Washington",
+    "transportation": "Flight Number: F4055939, from Charleston to Washington, Departure Time: 06:02, Arrival Time: 07:24",
+    "breakfast": "The Pembroke, Washington",
+    "lunch": "-",
+    "dinner": "The Capital Grille, Washington",
+    "attraction": "International Spy Museum, Washington",
+    "accommodation": "Attractive 2 Twin Beds Near Capitol, Washington",
+    "event": "-",
+    "point_of_interest_list": "Attractive 2 Twin Beds Near Capitol, stay from 07:54 to 08:24, nearest transit: POTOMAC AVE METRORAIL STATION, 500.7m away; The Pembroke, Washington, visit from 08:54 to 09:44, ; International Spy Museum, Washington, visit from 15:00 to 18:30, ; The Capital Grille, Washington, visit from 19:00 to 20:15, ; Attractive 2 Twin Beds Near Capitol, stay from 20:45 to 07:40, nearest transit: POTOMAC AVE METRORAIL STATION, 500.7m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Smoke & Mirrors Rooftop Bar, Washington",
+    "lunch": "The Palm - Washington, D.C., Washington",
+    "dinner": "Bourbon Steak - Four Seasons Washington DC, Washington",
+    "attraction": "National Museum of African American History and Culture, Washington",
+    "accommodation": "Attractive 2 Twin Beds Near Capitol, Washington",
+    "event": "-",
+    "point_of_interest_list": "Attractive 2 Twin Beds Near Capitol, stay from 08:10 to 08:40, nearest transit: POTOMAC AVE METRORAIL STATION, 500.7m away; Smoke & Mirrors Rooftop Bar, Washington, visit from 09:10 to 10:00, ; National Museum of African American History and Culture, Washington, visit from 10:30 to 14:00, ; The Palm - Washington, D.C., Washington, visit from 14:30 to 15:30, ; Bourbon Steak - Four Seasons Washington DC, Washington, visit from 19:31 to 20:46, ; Attractive 2 Twin Beds Near Capitol, stay from 23:40 to 07:40, nearest transit: POTOMAC AVE METRORAIL STATION, 500.7m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Charleston",
+    "transportation": "Flight Number: F4054508, from Washington to Charleston, Departure Time: 16:59, Arrival Time: 18:45",
+    "breakfast": "Founding Farmers DC, Washington",
+    "lunch": "Kingbird, Washington",
+    "dinner": "-",
+    "attraction": "National Portrait Gallery, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Attractive 2 Twin Beds Near Capitol, stay from 08:10 to 08:40, nearest transit: POTOMAC AVE METRORAIL STATION, 500.7m away; Founding Farmers DC, Washington, visit from 09:10 to 10:00, ; National Portrait Gallery, Washington, visit from 10:30 to 14:00, ; Kingbird, Washington, visit from 14:30 to 16:29, "
+  }
+]

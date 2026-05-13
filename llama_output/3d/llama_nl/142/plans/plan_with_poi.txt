@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Huntsville",
+    "transportation": "Self-driving from Indianapolis to Huntsville, duration: 451.75, distance: 639.0136, cost : 31.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Five Points Jewel - Walk to Restaurants/Grocery, Huntsville",
+    "event": "-",
+    "point_of_interest_list": "Five Points Jewel - Walk to Restaurants/Grocery, stay from 14:30 to 15:00, nearest transit: Andrew Jackson at Ward NB, 609.77m away; Five Points Jewel - Walk to Restaurants/Grocery, stay from 22:30 to 06:30, nearest transit: Andrew Jackson at Ward NB, 609.77m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Huntsville",
+    "transportation": "-",
+    "breakfast": "The Bottle, Huntsville",
+    "lunch": "Cotton Row, Huntsville",
+    "dinner": "Grille on Main, Huntsville",
+    "attraction": "Huntsville Botanical Garden, Huntsville",
+    "accommodation": "Five Points Jewel - Walk to Restaurants/Grocery, Huntsville",
+    "event": "-",
+    "point_of_interest_list": "Five Points Jewel - Walk to Restaurants/Grocery, stay from 07:00 to 07:30, nearest transit: Andrew Jackson at Ward NB, 609.77m away; The Bottle, Huntsville, visit from 08:00 to 09:59, ; Cotton Row, Huntsville, visit from 14:00 to 15:00, ; Huntsville Botanical Garden, Huntsville, visit from 15:30 to 19:15, ; Grille on Main, Huntsville, visit from 19:45 to 21:00, ; Five Points Jewel - Walk to Restaurants/Grocery, stay from 21:30 to 05:30, nearest transit: Andrew Jackson at Ward NB, 609.77m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Huntsville to Indianapolis",
+    "transportation": "Self-driving from Huntsville to Indianapolis, duration: 451.3783333333333, distance: 638.8732, cost : 31.0",
+    "breakfast": "Nick's Ristorante, Huntsville",
+    "lunch": "Texas de Brazil - Huntsville, Huntsville",
+    "dinner": "Ruth's Chris Steak House, Huntsville",
+    "attraction": "U.S. Space and Rocket Center, Huntsville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Five Points Jewel - Walk to Restaurants/Grocery, stay from 06:00 to 06:30, nearest transit: Andrew Jackson at Ward NB, 609.77m away; Nick's Ristorante, Huntsville, visit from 08:00 to 08:50, ; U.S. Space and Rocket Center, Huntsville, visit from 09:20 to 12:50, ; Texas de Brazil - Huntsville, Huntsville, visit from 13:20 to 14:20, ; Ruth's Chris Steak House, Huntsville, visit from 19:00 to 20:15, "
+  }
+]

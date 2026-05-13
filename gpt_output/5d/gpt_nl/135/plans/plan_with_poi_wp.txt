@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Nashville",
+    "transportation": "Flight Number: F2815835, from Dallas to Nashville, Departure Time: 15:40, Arrival Time: 17:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "attraction": "-",
+    "accommodation": "Rustic & Modern Loft by Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Rustic & Modern Loft by Broadway, stay from 17:45 to 19:27, nearest transit: LAFAYETTE ST & EWING AVE SB, 69.36m away; Bourbon Street Blues and Boogie Bar, Nashville, visit from 19:57 to 21:12, ; Rustic & Modern Loft by Broadway, stay from 21:42 to 07:19, nearest transit: LAFAYETTE ST & EWING AVE SB, 69.36m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "The Chef And I, Nashville",
+    "dinner": "The Farm House, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Rustic & Modern Loft by Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Rustic & Modern Loft by Broadway, stay from 07:49 to 08:19, nearest transit: LAFAYETTE ST & EWING AVE SB, 69.36m away; Aquarium Restaurant, Nashville, visit from 08:49 to 10:00, ; Centennial Park, Nashville, visit from 10:30 to 14:00, ; The Chef And I, Nashville, visit from 14:30 to 15:30, ; The Farm House, Nashville, visit from 19:31 to 21:00, ; Rustic & Modern Loft by Broadway, stay from 21:30 to 05:30, nearest transit: LAFAYETTE ST & EWING AVE SB, 69.36m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Deacon’s New South, Nashville",
+    "lunch": "-",
+    "dinner": "Bristol Seafood Grill, Bristol",
+    "attraction": "Gaylord Opryland Garden Conservatory, Nashville",
+    "accommodation": "Mountain Music Loft Downtown,Walkable,Restaurants, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Rustic & Modern Loft by Broadway, stay from 06:00 to 07:20, nearest transit: LAFAYETTE ST & EWING AVE SB, 69.36m away; Deacon’s New South, Nashville, visit from 08:00 to 08:50, ; Gaylord Opryland Garden Conservatory, Nashville, visit from 09:20 to 12:50, ; Mountain Music Loft Downtown,Walkable,Restaurants, stay from 19:09 to 20:15, nearest transit: Cumberland St & Waters Alley, 158.53m away; Bristol Seafood Grill, Bristol, visit from 20:45 to 22:00, ; Mountain Music Loft Downtown,Walkable,Restaurants, stay from 22:30 to 06:30, nearest transit: Cumberland St & Waters Alley, 158.53m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Baba Ganoush Kitchen - Jerusalem Falafel, Bristol",
+    "lunch": "Little Bristol Beach Bar, Bristol",
+    "dinner": "Urban Tandoor, Bristol",
+    "attraction": "Bristol Museum & Art Gallery, Bristol",
+    "accommodation": "Mountain Music Loft Downtown,Walkable,Restaurants, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Mountain Music Loft Downtown,Walkable,Restaurants, stay from 07:00 to 07:30, nearest transit: Cumberland St & Waters Alley, 158.53m away; Baba Ganoush Kitchen - Jerusalem Falafel, Bristol, visit from 08:45 to 09:35, ; Little Bristol Beach Bar, Bristol, visit from 13:36 to 14:36, ; Bristol Museum & Art Gallery, Bristol, visit from 15:06 to 18:36, ; Urban Tandoor, Bristol, visit from 19:06 to 20:21, ; Mountain Music Loft Downtown,Walkable,Restaurants, stay from 20:51 to 04:51, nearest transit: Cumberland St & Waters Alley, 158.53m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Dallas",
+    "transportation": "Flight Number: F2335561, from Bristol to Dallas, Departure Time: 07:24, Arrival Time: 08:51",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Mountain Music Loft Downtown,Walkable,Restaurants, stay from 06:00 to 06:30, nearest transit: Cumberland St & Waters Alley, 158.53m away"
+  }
+]

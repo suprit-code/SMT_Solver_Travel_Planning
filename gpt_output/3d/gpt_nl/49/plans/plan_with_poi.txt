@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to Sioux Falls",
+    "transportation": "Self-driving from Atlanta to Sioux Falls, duration: 1284.4, distance: 1878.1144, cost : 93.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Bunkhouse\nRoom #3, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "The Bunkhouse\nRoom #3, stay from 03:54 to 04:24, nearest transit: Essex/Sertoma NE corner, 11277.84m away; The Bunkhouse\nRoom #3, stay from 04:54 to 08:00, nearest transit: Essex/Sertoma NE corner, 11277.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sioux Falls",
+    "transportation": "-",
+    "breakfast": "Tomacelli's Pizza & Pasta, Sioux Falls",
+    "lunch": "Tarquin Argentinian Restaurant, Sioux Falls",
+    "dinner": "Carnaval Brazilian Grill, Sioux Falls",
+    "attraction": "-",
+    "accommodation": "The Bunkhouse\nRoom #3, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "The Bunkhouse\nRoom #3, stay from 08:30 to 09:00, nearest transit: Essex/Sertoma NE corner, 11277.84m away; Tomacelli's Pizza & Pasta, Sioux Falls, visit from 09:39 to 10:29, ; Tarquin Argentinian Restaurant, Sioux Falls, visit from 14:30 to 15:30, ; Carnaval Brazilian Grill, Sioux Falls, visit from 20:45 to 22:00, ; The Bunkhouse\nRoom #3, stay from 22:30 to 06:30, nearest transit: Essex/Sertoma NE corner, 11277.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sioux Falls to Atlanta",
+    "transportation": "Self-driving from Sioux Falls to Atlanta, duration: 1278.0216666666668, distance: 1875.394, cost : 93.0",
+    "breakfast": "Swamp Daddy's Cajun Kitchen, Sioux Falls",
+    "lunch": "Crack'd Pot Restaurant & Bakery, Sioux Falls",
+    "dinner": "Sickies Garage Burgers & Brews, Sioux Falls",
+    "attraction": "Old Courthouse Museum, Sioux Falls",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Bunkhouse\nRoom #3, stay from 07:00 to 07:30, nearest transit: Essex/Sertoma NE corner, 11277.84m away; Swamp Daddy's Cajun Kitchen, Sioux Falls, visit from 08:00 to 08:50, ; Crack'd Pot Restaurant & Bakery, Sioux Falls, visit from 12:51 to 13:51, ; Old Courthouse Museum, Sioux Falls, visit from 14:21 to 17:51, ; Sickies Garage Burgers & Brews, Sioux Falls, visit from 19:00 to 20:15, "
+  }
+]

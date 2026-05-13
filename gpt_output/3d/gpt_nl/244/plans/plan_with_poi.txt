@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Wichita",
+    "transportation": "Flight Number: F0572682, from Houston to Wichita, Departure Time: 10:11, Arrival Time: 11:54",
+    "breakfast": "-",
+    "lunch": "Chicken N Pickle- Wichita, Wichita",
+    "dinner": "Little Saigon, Wichita",
+    "attraction": "The Keeper of the Plains, Wichita",
+    "accommodation": "Comfortable large bedroom in residential home,, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Comfortable large bedroom in residential home,, stay from 12:24 to 12:54, nearest transit: Armour and Morris OB, 114.98m away; Chicken N Pickle- Wichita, Wichita, visit from 13:24 to 14:24, ; The Keeper of the Plains, Wichita, visit from 15:30 to 20:15, ; Little Saigon, Wichita, visit from 20:45 to 22:42, ; Comfortable large bedroom in residential home,, stay from 23:12 to 07:12, nearest transit: Armour and Morris OB, 114.98m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wichita",
+    "transportation": "-",
+    "breakfast": "Sabor Latin Bar & Grill, Wichita",
+    "lunch": "The Sweet Spot, Wichita",
+    "dinner": "Old Mill Tasty Shop, Wichita",
+    "attraction": "Wichita Art Museum, Wichita",
+    "accommodation": "Comfortable large bedroom in residential home,, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Comfortable large bedroom in residential home,, stay from 07:42 to 08:12, nearest transit: Armour and Morris OB, 114.98m away; Sabor Latin Bar & Grill, Wichita, visit from 08:42 to 09:59, ; The Sweet Spot, Wichita, visit from 14:00 to 15:00, ; Wichita Art Museum, Wichita, visit from 15:30 to 19:00, ; Old Mill Tasty Shop, Wichita, visit from 19:30 to 20:45, ; Comfortable large bedroom in residential home,, stay from 21:15 to 05:30, nearest transit: Armour and Morris OB, 114.98m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wichita to Houston",
+    "transportation": "Flight Number: F3839093, from Wichita to Houston, Departure Time: 16:47, Arrival Time: 18:41",
+    "breakfast": "Homegrown, Wichita",
+    "lunch": "Chester's Chophouse and Wine Bar, Wichita",
+    "dinner": "-",
+    "attraction": "Mid-America All-Indian Center, Wichita",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfortable large bedroom in residential home,, stay from 06:00 to 06:30, nearest transit: Armour and Morris OB, 114.98m away; Homegrown, Wichita, visit from 08:00 to 08:50, ; Mid-America All-Indian Center, Wichita, visit from 09:20 to 12:50, ; Chester's Chophouse and Wine Bar, Wichita, visit from 14:30 to 16:17, "
+  }
+]

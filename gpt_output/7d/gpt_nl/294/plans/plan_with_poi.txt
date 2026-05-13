@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Amarillo",
+    "transportation": "Taxi from Cleveland to Amarillo, duration: 1417.6083333333331, distance: 2113.6418, cost : 2113.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Side Street Private Guesthouse, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Side Street Private Guesthouse, stay from 06:07 to 06:37, nearest transit: S Georgia St & SW 34th Ave, 252.0m away; Side Street Private Guesthouse, stay from 07:07 to 08:00, nearest transit: S Georgia St & SW 34th Ave, 252.0m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Drunken Oyster, Amarillo",
+    "lunch": "Coyote Bluff Cafe, Amarillo",
+    "dinner": "El Bracero Mexican Grill, Amarillo",
+    "attraction": "-",
+    "accommodation": "Side Street Private Guesthouse, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Side Street Private Guesthouse, stay from 08:30 to 09:00, nearest transit: S Georgia St & SW 34th Ave, 252.0m away; Drunken Oyster, Amarillo, visit from 09:39 to 10:29, ; Coyote Bluff Cafe, Amarillo, visit from 14:30 to 16:44, ; El Bracero Mexican Grill, Amarillo, visit from 20:45 to 23:24, ; Side Street Private Guesthouse, stay from 23:54 to 07:54, nearest transit: S Georgia St & SW 34th Ave, 252.0m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Joe Taco, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private room - Khang, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Side Street Private Guesthouse, stay from 08:24 to 08:54, nearest transit: S Georgia St & SW 34th Ave, 252.0m away; Joe Taco, Amarillo, visit from 09:24 to 10:14, ; Private room - Khang, stay from 22:34 to 23:04, nearest transit: 235-Airline @ St. Marks, 143.03m away; Private room - Khang, stay from 23:34 to 07:34, nearest transit: 235-Airline @ St. Marks, 143.03m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Executive Surf Club, Corpus Christi",
+    "lunch": "Blackbeard's On The Beach, Corpus Christi",
+    "dinner": "Island Time Sushi Bar & Seafood Grill, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "Private room - Khang, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Private room - Khang, stay from 08:04 to 08:34, nearest transit: 235-Airline @ St. Marks, 143.03m away; Executive Surf Club, Corpus Christi, visit from 09:04 to 09:59, ; Blackbeard's On The Beach, Corpus Christi, visit from 14:00 to 15:00, ; USS Lexington Museum, Corpus Christi, visit from 15:30 to 20:15, ; Island Time Sushi Bar & Seafood Grill, Corpus Christi, visit from 20:45 to 23:30, ; Private room - Khang, stay from 00:00 to 08:00, nearest transit: 235-Airline @ St. Marks, 143.03m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F3971120, from Corpus Christi to Houston, Departure Time: 12:39, Arrival Time: 13:26",
+    "breakfast": "DAO Authentic Asian Cuisine, Corpus Christi",
+    "lunch": "-",
+    "dinner": "Goode Company Seafood, Houston",
+    "attraction": "The Houston Museum of Natural Science, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private room - Khang, stay from 08:30 to 09:00, nearest transit: 235-Airline @ St. Marks, 143.03m away; DAO Authentic Asian Cuisine, Corpus Christi, visit from 09:30 to 12:09, ; Modern Houston Heights Getaway, stay from 13:56 to 14:26, nearest transit: Yale St @ Thornton Rd, 203.09m away; The Houston Museum of Natural Science, Houston, visit from 14:56 to 20:15, ; Goode Company Seafood, Houston, visit from 20:45 to 22:17, ; Modern Houston Heights Getaway, stay from 22:47 to 06:47, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 07:17 to 07:47, nearest transit: Yale St @ Thornton Rd, 203.09m away; Pappadeaux Seafood Kitchen, Houston, visit from 08:17 to 09:07, ; Eddie V's Prime Seafood, Houston, visit from 14:00 to 15:00, ; NRG Stadium, Houston, visit from 15:30 to 19:46, ; Pappas Bros. Steakhouse, Houston, visit from 20:16 to 21:31, ; Modern Houston Heights Getaway, stay from 22:01 to 06:01, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Cleveland",
+    "transportation": "Flight Number: F0104942, from Houston to Cleveland, Departure Time: 07:31, Arrival Time: 11:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 06:31 to 07:01, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  }
+]

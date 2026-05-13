@@ -1,0 +1,27 @@
+
+    # Import the necessary library
+    import pytest
+    
+    # Define a function to get specific house rules info
+    def get_house_rules(accommodation_index):
+        # This function should return the house rules for the given accommodation index
+        # For demonstration purposes, let's assume it returns a dictionary
+        return {
+            'accommodation_index': accommodation_index,
+            'house_rules': ['No parties', 'No smoking', 'No pets']
+        }
+    
+    # Define a test function to assert 'No parties' exist for all accommodations
+    def test_no_parties_exist():
+        # Get the list of accommodation indices
+        accommodation_indices = [1, 2, 3, 4, 5]
+    
+        # For each 'accommodation_index', get specific house rules info
+        for accommodation_index in accommodation_indices:
+            house_rules = get_house_rules(accommodation_index)
+            
+            # Assert 'No parties' exist in the house rules
+            assert 'No parties' in house_rules['house_rules'], f"No parties found in accommodation {accommodation_index}"
+    
+    
+    In this example, we define a function `get_house_rules` to get the specific house rules info for a given accommodation index. We then define a test function `test_no_parties_exist` to assert that 'No parties' exist in the house rules for all accommodations. The `assert` statement is used to check if 'No parties' is present in the house rules. If it's not found, an `AssertionError` is raised with a message indicating the accommodation index where 'No parties' was not found.

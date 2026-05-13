@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Peoria to Nashville",
+    "transportation": "Self-driving from Peoria to Nashville, duration: 486.8316666666667, distance: 688.1739, cost : 34.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Puckett's 5th & Church, Nashville",
+    "attraction": "-",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 17:35 to 20:15, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Puckett's 5th & Church, Nashville, visit from 20:45 to 22:04, ; Private Entrance near Airport in Safe neighborhood, stay from 22:34 to 06:34, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Smiling Elephant, Nashville",
+    "lunch": "1 Kitchen, Nashville",
+    "dinner": "Henley, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 07:04 to 07:34, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Smiling Elephant, Nashville, visit from 08:04 to 10:00, ; Centennial Park, Nashville, visit from 10:30 to 14:00, ; 1 Kitchen, Nashville, visit from 14:30 to 15:30, ; Henley, Nashville, visit from 20:45 to 22:00, ; Private Entrance near Airport in Safe neighborhood, stay from 22:30 to 06:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Self-driving from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 23.0",
+    "breakfast": "The Stillery, Nashville",
+    "lunch": "Harriet's Rooftop, Nashville",
+    "dinner": "-",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Sweet Bristol Bungalow, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 07:00 to 07:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; The Stillery, Nashville, visit from 08:00 to 08:50, ; Belmont Mansion, Nashville, visit from 09:20 to 12:50, ; Harriet's Rooftop, Nashville, visit from 13:26 to 14:26, ; Sweet Bristol Bungalow, stay from 20:45 to 21:15, nearest transit: Oakview Ave & Hope Ln, 306.51m away; Sweet Bristol Bungalow, stay from 23:40 to 07:40, nearest transit: Oakview Ave & Hope Ln, 306.51m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Baba Ganoush Kitchen - Jerusalem Falafel, Bristol",
+    "lunch": "Little Bristol Beach Bar, Bristol",
+    "dinner": "The Bristol Trader, Bristol",
+    "attraction": "Cycle the City, Bristol",
+    "accommodation": "Sweet Bristol Bungalow, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Sweet Bristol Bungalow, stay from 08:10 to 08:40, nearest transit: Oakview Ave & Hope Ln, 306.51m away; Baba Ganoush Kitchen - Jerusalem Falafel, Bristol, visit from 09:10 to 10:00, ; Cycle the City, Bristol, visit from 10:30 to 14:00, ; Little Bristol Beach Bar, Bristol, visit from 14:30 to 15:30, ; The Bristol Trader, Bristol, visit from 19:45 to 21:00, ; Sweet Bristol Bungalow, stay from 21:30 to 05:30, nearest transit: Oakview Ave & Hope Ln, 306.51m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Peoria",
+    "transportation": "Self-driving from Bristol to Peoria, duration: 711.3566666666667, distance: 1009.8111, cost : 50.0",
+    "breakfast": "Eat a Pitta, Bristol",
+    "lunch": "Bravas, Bristol",
+    "dinner": "Blackbird Bakery, Bristol",
+    "attraction": "Brunel's SS Great Britain, Bristol",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sweet Bristol Bungalow, stay from 06:00 to 06:30, nearest transit: Oakview Ave & Hope Ln, 306.51m away; Eat a Pitta, Bristol, visit from 08:00 to 08:50, ; Bravas, Bristol, visit from 12:51 to 13:51, ; Brunel's SS Great Britain, Bristol, visit from 14:21 to 17:51, ; Blackbird Bakery, Bristol, visit from 19:00 to 20:15, "
+  }
+]

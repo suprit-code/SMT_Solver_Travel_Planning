@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Self-driving, from Las Vegas to San Diego, duration: 367.3033333333333, distance: 532.4798000000001, cost: 26', 'Self-driving, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 53', 'Self-driving, from Redding to Las Vegas, duration: 756.2466666666667, distance: 1007.9322, cost: 50'],
+Restaurants (3 meals per day): ['-', '-', '-', 'The Butcher Shop, San Diego', 'Alforon, San Diego', 'La Puerta, San Diego', 'Trailer Park After Dark, San Diego', 'Barbusa, San Diego', 'Buon Appetito, San Diego', 'Kobe Seafood & Steakhouse, Redding', 'Los Gordos, Redding', 'Champa Garden, Redding', "Trendy's, Redding", 'Dam Burger, Redding', 'New China, Redding'],
+Attractions (1 per day): ['-', 'Birch Aquarium at Scripps, San Diego', 'USS Midway Museum, San Diego', 'Turtle Bay Exploration Park, Redding', 'Sundial Bridge, Redding'],
+Accommodations (1 per city): ['Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego', 'The Forest Room, Redding']

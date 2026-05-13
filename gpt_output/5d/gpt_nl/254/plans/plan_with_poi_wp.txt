@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Wilmington to New York",
+    "transportation": "Flight Number: F1424792, from Wilmington to New York, Departure Time: 12:09, Arrival Time: 14:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Carmine's, New York",
+    "attraction": "-",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 14:43 to 15:13, nearest transit: 9 AV/W 30 ST, 139.35m away; Carmine's, New York, visit from 19:00 to 21:00, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 21:30 to 05:30, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 06:00 to 06:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Sarge’s Delicatessen & Diner, New York, visit from 08:28 to 09:18, ; The Metropolitan Museum of Art, New York, visit from 09:48 to 13:18, ; Westway Diner, New York, visit from 14:30 to 15:30, ; Times Square Diner, New York, visit from 19:31 to 20:46, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 22:37 to 06:37, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Rochester",
+    "transportation": "Flight Number: F1885616, from New York to Rochester, Departure Time: 08:07, Arrival Time: 09:21",
+    "breakfast": "-",
+    "lunch": "Nick Tahou Hots, Rochester",
+    "dinner": "Good Luck, Rochester",
+    "attraction": "Rochester Cathedral, Rochester",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 07:07 to 07:37, nearest transit: 9 AV/W 30 ST, 139.35m away; Historic Henrietta Apartment, stay from 09:51 to 10:21, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Nick Tahou Hots, Rochester, visit from 12:00 to 13:00, ; Rochester Cathedral, Rochester, visit from 13:30 to 17:00, ; Good Luck, Rochester, visit from 19:00 to 20:15, ; Historic Henrietta Apartment, stay from 20:45 to 04:45, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Rochester",
+    "transportation": "-",
+    "breakfast": "Lipuma's Coney Island, Rochester",
+    "lunch": "Tiny Tim's Tea Rooms, Rochester",
+    "dinner": "Genesee Brew House, Rochester",
+    "attraction": "Restoration House, Rochester",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 06:00 to 06:30, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Lipuma's Coney Island, Rochester, visit from 08:09 to 08:59, ; Tiny Tim's Tea Rooms, Rochester, visit from 13:00 to 14:00, ; Restoration House, Rochester, visit from 14:30 to 18:00, ; Genesee Brew House, Rochester, visit from 19:00 to 20:15, ; Historic Henrietta Apartment, stay from 20:45 to 04:45, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Rochester to Wilmington",
+    "transportation": "Taxi from Rochester to Wilmington, duration: 892.495, distance: 1194.6867, cost : 1194.0",
+    "breakfast": "The Eagle Tavern, Rochester",
+    "lunch": "Chester's Kitchen and Bar, Rochester",
+    "dinner": "The Cheese Room Botanicals, Rochester",
+    "attraction": "Six Poor Travellers House, Rochester",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 06:00 to 06:30, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; The Eagle Tavern, Rochester, visit from 08:00 to 08:50, ; Six Poor Travellers House, Rochester, visit from 09:20 to 12:50, ; Chester's Kitchen and Bar, Rochester, visit from 13:59 to 14:59, ; The Cheese Room Botanicals, Rochester, visit from 19:00 to 20:15, "
+  }
+]

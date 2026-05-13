@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Champaign to Amarillo",
+    "transportation": "Taxi from Champaign to Amarillo, duration: 996.6283333333332, distance: 1503.3516000000002, cost : 1503.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Rustic Ridge | Amazing Views of Palo Duro Canyon, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 23:06 to 23:36, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 00:06 to 08:00, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "El Bracero Mexican Grill, Amarillo",
+    "dinner": "El Manantial, Amarillo",
+    "attraction": "-",
+    "accommodation": "Rustic Ridge | Amazing Views of Palo Duro Canyon, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 08:30 to 09:00, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Golden Light Cafe & Cantina, Amarillo, visit from 09:30 to 10:29, ; El Bracero Mexican Grill, Amarillo, visit from 14:30 to 16:44, ; El Manantial, Amarillo, visit from 20:45 to 22:00, ; Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 22:30 to 06:30, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Ye Olde Pancake Station, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Stylish Studio Condo near Beach - Canal Front, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 07:00 to 07:30, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Ye Olde Pancake Station, Amarillo, visit from 08:00 to 08:50, ; Stylish Studio Condo near Beach - Canal Front, stay from 21:10 to 21:40, nearest transit: 2599-14810 Windward, 377.76m away; Stylish Studio Condo near Beach - Canal Front, stay from 22:10 to 06:31, nearest transit: 2599-14810 Windward, 377.76m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Republic of Texas Bar & Grill, Corpus Christi",
+    "lunch": "Acapulco Restaurant, Corpus Christi",
+    "dinner": "Doc's Seafood & Steak Restaurant, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "Stylish Studio Condo near Beach - Canal Front, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Stylish Studio Condo near Beach - Canal Front, stay from 07:01 to 07:31, nearest transit: 2599-14810 Windward, 377.76m away; Republic of Texas Bar & Grill, Corpus Christi, visit from 08:01 to 08:51, ; USS Lexington Museum, Corpus Christi, visit from 09:59 to 13:29, ; Acapulco Restaurant, Corpus Christi, visit from 13:59 to 14:59, ; Doc's Seafood & Steak Restaurant, Corpus Christi, visit from 19:00 to 20:15, ; Stylish Studio Condo near Beach - Canal Front, stay from 21:35 to 05:35, nearest transit: 2599-14810 Windward, 377.76m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F3971121, from Corpus Christi to Houston, Departure Time: 07:05, Arrival Time: 07:54",
+    "breakfast": "-",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Stylish Studio Condo near Beach - Canal Front, stay from 06:05 to 06:35, nearest transit: 2599-14810 Windward, 377.76m away; Entire Apt in the Heart of the City - Galleria, stay from 08:24 to 10:00, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Cockrell Butterfly Center, Houston, visit from 10:30 to 14:00, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 14:30 to 15:30, ; Brennan's of Houston, Houston, visit from 19:31 to 20:46, ; Entire Apt in the Heart of the City - Galleria, stay from 21:16 to 07:10, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Taste of Texas, Houston",
+    "lunch": "Houston White Co, Houston",
+    "dinner": "Merrill & Houston's Steak Joint, Houston",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 07:40 to 08:10, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Taste of Texas, Houston, visit from 08:40 to 09:30, ; Houston White Co, Houston, visit from 13:31 to 14:31, ; Children's Museum Houston, Houston, visit from 15:01 to 18:31, ; Merrill & Houston's Steak Joint, Houston, visit from 19:01 to 20:16, ; Entire Apt in the Heart of the City - Galleria, stay from 20:46 to 04:46, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Champaign",
+    "transportation": "Taxi from Houston to Champaign, duration: 1031.7916666666667, distance: 1511.9677, cost : 1511.0",
+    "breakfast": "Brenner's on the Bayou, Houston",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "Uchi Houston, Houston",
+    "attraction": "National Museum of Funeral History, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:00 to 06:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Brenner's on the Bayou, Houston, visit from 08:00 to 08:50, ; Eddie V's Prime Seafood, Houston, visit from 12:51 to 13:59, ; National Museum of Funeral History, Houston, visit from 14:29 to 18:30, ; Uchi Houston, Houston, visit from 19:00 to 20:15, "
+  }
+]

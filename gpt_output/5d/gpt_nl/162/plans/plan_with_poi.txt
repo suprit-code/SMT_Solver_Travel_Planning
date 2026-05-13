@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Bend to San Diego",
+    "transportation": "Self-driving from Bend to San Diego, duration: 1061.7866666666666, distance: 1509.9929, cost : 75.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Hilltop cabin retreat with lake & mountain views, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Hilltop cabin retreat with lake & mountain views, stay from 00:11 to 00:41, nearest transit: Del Lago Transit Station, 4467.07m away; Hilltop cabin retreat with lake & mountain views, stay from 01:11 to 08:00, nearest transit: Del Lago Transit Station, 4467.07m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Cowboy Star, San Diego",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "-",
+    "accommodation": "Hilltop cabin retreat with lake & mountain views, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Hilltop cabin retreat with lake & mountain views, stay from 08:30 to 09:00, nearest transit: Del Lago Transit Station, 4467.07m away; Cowboy Star, San Diego, visit from 09:39 to 10:29, ; Addison Restaurant, San Diego, visit from 14:30 to 15:30, ; Lou & Mickey's, San Diego, visit from 19:31 to 20:46, ; Hilltop cabin retreat with lake & mountain views, stay from 21:16 to 06:30, nearest transit: Del Lago Transit Station, 4467.07m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Self-driving from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 53.0",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Charming modern studio space, bethel friendly, Redding",
+    "event": "-",
+    "point_of_interest_list": "Hilltop cabin retreat with lake & mountain views, stay from 07:00 to 07:30, nearest transit: Del Lago Transit Station, 4467.07m away; Juniper and Ivy, San Diego, visit from 08:00 to 08:50, ; Charming modern studio space, bethel friendly, stay from 22:04 to 22:34, nearest transit: Eureka Way at Pioneer Dr, 99.64m away; Charming modern studio space, bethel friendly, stay from 23:04 to 07:04, nearest transit: Eureka Way at Pioneer Dr, 99.64m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Vintage Public House, Redding",
+    "lunch": "Champa Garden, Redding",
+    "dinner": "New China, Redding",
+    "attraction": "Redding Civic Auditorium, Redding",
+    "accommodation": "Charming modern studio space, bethel friendly, Redding",
+    "event": "-",
+    "point_of_interest_list": "Charming modern studio space, bethel friendly, stay from 07:34 to 08:04, nearest transit: Eureka Way at Pioneer Dr, 99.64m away; Vintage Public House, Redding, visit from 08:34 to 09:24, ; Redding Civic Auditorium, Redding, visit from 09:54 to 13:24, ; Champa Garden, Redding, visit from 13:59 to 14:59, ; New China, Redding, visit from 19:00 to 20:15, ; Charming modern studio space, bethel friendly, stay from 20:45 to 04:45, nearest transit: Eureka Way at Pioneer Dr, 99.64m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Bend",
+    "transportation": "Self-driving from Redding to Bend, duration: 331.87166666666667, distance: 445.2644, cost : 22.0",
+    "breakfast": "Jack's Grill, Redding",
+    "lunch": "Thai Hut, Redding",
+    "dinner": "View 202, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charming modern studio space, bethel friendly, stay from 06:00 to 06:30, nearest transit: Eureka Way at Pioneer Dr, 99.64m away; Jack's Grill, Redding, visit from 08:00 to 08:50, ; Turtle Bay Exploration Park, Redding, visit from 09:20 to 12:50, ; Thai Hut, Redding, visit from 13:20 to 14:20, ; View 202, Redding, visit from 19:00 to 20:15, "
+  }
+]

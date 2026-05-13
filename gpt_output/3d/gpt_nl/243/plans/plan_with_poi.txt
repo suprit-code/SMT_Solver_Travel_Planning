@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Manchester to Charlotte",
+    "transportation": "Flight Number: F1436826, from Manchester to Charlotte, Departure Time: 05:52, Arrival Time: 08:17",
+    "breakfast": "-",
+    "lunch": "Pinky's Westside Grill, Charlotte",
+    "dinner": "Gaucho Charlotte Street, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 08:47 to 10:00, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Truist Field, Charlotte, visit from 10:30 to 14:00, ; Pinky's Westside Grill, Charlotte, visit from 14:30 to 16:44, ; Gaucho Charlotte Street, Charlotte, visit from 20:45 to 22:15, ; Room with a king bed., stay from 22:45 to 06:45, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Bistro Charlotte, Charlotte",
+    "lunch": "Midwood Smokehouse, Charlotte",
+    "dinner": "The Charlotte Hotel & Restaurant, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 07:15 to 07:45, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Bistro Charlotte, Charlotte, visit from 08:15 to 09:05, ; Midwood Smokehouse, Charlotte, visit from 13:06 to 14:06, ; Levine Museum of the New South, Charlotte, visit from 14:36 to 18:30, ; The Charlotte Hotel & Restaurant, Charlotte, visit from 19:00 to 20:15, ; Room with a king bed., stay from 20:45 to 04:45, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Manchester",
+    "transportation": "Flight Number: F2323256, from Charlotte to Manchester, Departure Time: 10:06, Arrival Time: 12:02",
+    "breakfast": "Mac's Speed Shop, Charlotte",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 06:00 to 06:30, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Mac's Speed Shop, Charlotte, visit from 08:00 to 08:50, "
+  }
+]

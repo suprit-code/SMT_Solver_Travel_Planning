@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Savannah",
+    "transportation": "Flight Number: F0500662, from Denver to Savannah, Departure Time: 09:36, Arrival Time: 14:38",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Vinnie Van Go-Go's, Savannah",
+    "attraction": "-",
+    "accommodation": "Beautiful Sunny  Room, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 15:08 to 15:38, nearest transit: MLK & 37th NB, 104.53m away; Vinnie Van Go-Go's, Savannah, visit from 19:00 to 21:00, ; Beautiful Sunny  Room, stay from 21:30 to 05:30, nearest transit: MLK & 37th NB, 104.53m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Vic's On the River, Savannah",
+    "lunch": "Goose Feathers Cafe & Bakery, Savannah",
+    "dinner": "Wiley's Championship BBQ, Savannah",
+    "attraction": "Chippewa Square, Savannah",
+    "accommodation": "Beautiful Sunny  Room, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 06:00 to 06:30, nearest transit: MLK & 37th NB, 104.53m away; Vic's On the River, Savannah, visit from 08:35 to 10:00, ; Chippewa Square, Savannah, visit from 10:30 to 14:00, ; Goose Feathers Cafe & Bakery, Savannah, visit from 14:30 to 16:44, ; Wiley's Championship BBQ, Savannah, visit from 20:45 to 23:10, ; Beautiful Sunny  Room, stay from 23:40 to 07:40, nearest transit: MLK & 37th NB, 104.53m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Denver",
+    "transportation": "Flight Number: F0614770, from Savannah to Denver, Departure Time: 16:09, Arrival Time: 18:12",
+    "breakfast": "Belford's Savannah, Savannah",
+    "lunch": "Mrs. Wilkes Dining Room, Savannah",
+    "dinner": "-",
+    "attraction": "Skidaway Island State Park, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 08:10 to 08:40, nearest transit: MLK & 37th NB, 104.53m away; Belford's Savannah, Savannah, visit from 09:10 to 10:00, ; Skidaway Island State Park, Savannah, visit from 10:30 to 14:00, ; Mrs. Wilkes Dining Room, Savannah, visit from 14:30 to 15:30, "
+  }
+]

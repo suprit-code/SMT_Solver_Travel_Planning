@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F1175772, from Everett to San Diego, Departure Time: 09:16, Arrival Time: 12:12",
+    "breakfast": "-",
+    "lunch": "Lou & Mickey's, San Diego",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Big Bay Views, San Diego Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 12:42 to 13:12, nearest transit: Rosecrans St & Talbot St, 129.96m away; Lou & Mickey's, San Diego, visit from 13:42 to 14:42, ; San Diego Zoo, San Diego, visit from 15:12 to 20:16, ; Big Bay Views, San Diego Bay, stay from 22:40 to 06:40, nearest transit: Rosecrans St & Talbot St, 129.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Vessel Restaurant + Bar, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Big Bay Views, San Diego Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 07:10 to 07:40, nearest transit: Rosecrans St & Talbot St, 129.96m away; Mimmo's, San Diego, visit from 08:10 to 09:00, ; Vessel Restaurant + Bar, San Diego, visit from 13:01 to 14:01, ; Birch Aquarium at Scripps, San Diego, visit from 14:31 to 18:30, ; Juniper and Ivy, San Diego, visit from 19:00 to 20:15, ; Big Bay Views, San Diego Bay, stay from 23:40 to 07:40, nearest transit: Rosecrans St & Talbot St, 129.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F3996248, from San Diego to Sacramento, Departure Time: 16:51, Arrival Time: 18:15",
+    "breakfast": "Buon Appetito, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Life Along River - Private Bed 'N Bath MB Suite, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 08:10 to 08:40, nearest transit: Rosecrans St & Talbot St, 129.96m away; Buon Appetito, San Diego, visit from 09:10 to 10:00, ; SeaWorld, San Diego, visit from 10:30 to 14:00, ; Born & Raised, San Diego, visit from 14:30 to 15:30, ; Life Along River - Private Bed 'N Bath MB Suite, stay from 18:45 to 19:15, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; Grange Restaurant & Bar, Sacramento, visit from 19:45 to 22:00, ; Life Along River - Private Bed 'N Bath MB Suite, stay from 22:30 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Zocalo, Sacramento",
+    "lunch": "The Firehouse Restaurant, Sacramento",
+    "dinner": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Life Along River - Private Bed 'N Bath MB Suite, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Life Along River - Private Bed 'N Bath MB Suite, stay from 07:00 to 07:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; Zocalo, Sacramento, visit from 08:00 to 08:50, ; California State Capitol Museum, Sacramento, visit from 09:20 to 12:50, ; The Firehouse Restaurant, Sacramento, visit from 13:20 to 14:59, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 19:00 to 20:15, ; Life Along River - Private Bed 'N Bath MB Suite, stay from 20:45 to 04:45, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Everett",
+    "transportation": "Taxi from Sacramento to Everett, duration: 905.6966666666668, distance: 1256.0839, cost : 1256.0",
+    "breakfast": "Dawson's Steakhouse, Sacramento",
+    "lunch": "Chicago Fire, Sacramento",
+    "dinner": "Firestone Public House, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Life Along River - Private Bed 'N Bath MB Suite, stay from 06:00 to 07:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; Dawson's Steakhouse, Sacramento, visit from 08:00 to 08:50, ; Sacramento History Museum, Sacramento, visit from 09:20 to 12:50, ; Chicago Fire, Sacramento, visit from 13:20 to 14:20, ; Firestone Public House, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

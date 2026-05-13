@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to New York",
+    "transportation": "Flight Number: F0761136, from Nashville to New York, Departure Time: 06:18, Arrival Time: 09:32",
+    "breakfast": "-",
+    "lunch": "Gallaghers Steakhouse, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 10:02 to 10:32, nearest transit: 6 AV/W 45 ST, 155.74m away; Gallaghers Steakhouse, New York, visit from 12:00 to 13:00, ; Central Park, New York, visit from 13:30 to 17:00, ; Del Frisco's Grille, New York, visit from 19:00 to 21:00, ; High Rise haven + Free Breakfast, stay from 21:30 to 05:30, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Azalea Ristorante, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Peak Restaurant & Bar, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 06:00 to 06:30, nearest transit: 6 AV/W 45 ST, 155.74m away; Azalea Ristorante, New York, visit from 08:22 to 09:12, ; The High Line, New York, visit from 09:42 to 13:12, ; Westway Diner, New York, visit from 13:42 to 14:42, ; Peak Restaurant & Bar, New York, visit from 20:45 to 22:00, ; High Rise haven + Free Breakfast, stay from 22:30 to 06:30, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Nashville",
+    "transportation": "Flight Number: F1411931, from New York to Nashville, Departure Time: 20:59, Arrival Time: 22:42",
+    "breakfast": "RH Rooftop Restaurant New York, New York",
+    "lunch": "Bryant Park Grill, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "One World Observatory, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 07:00 to 07:30, nearest transit: 6 AV/W 45 ST, 155.74m away; RH Rooftop Restaurant New York, New York, visit from 08:53 to 09:43, ; Bryant Park Grill, New York, visit from 13:44 to 14:44, ; One World Observatory, New York, visit from 15:14 to 18:44, ; Times Square Diner, New York, visit from 19:14 to 20:29, "
+  }
+]

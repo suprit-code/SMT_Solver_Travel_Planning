@@ -1,0 +1,6 @@
+Destination cities: ['Greensboro'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F3788392, from Washington to Greensboro, Departure Time: 12:52, Arrival Time: 13:52', 'Self-driving, from Greensboro to Washington, duration: 357.15833333333336, distance: 496.6706, cost: 24'],
+Restaurants (3 meals per day): ['-', '-', "Carolina's Diner, Greensboro", "Mimi's Cafe, Greensboro", "Sarah's Kabob Shop, Greensboro", "Stamey's Barbecue, Greensboro", 'Golden Wok, Greensboro', 'Scrambled Southern Diner, Greensboro', "Fleming's Prime Steakhouse & Wine Bar, Greensboro"],
+Attractions (1 per day): ['International Civil Rights Center & Museum, Greensboro', 'Ambleside Gallery, Greensboro', 'Carolina Theatre, Greensboro'],
+Accommodations (1 per city): ['Cozy Friendly Duplex, Greensboro']

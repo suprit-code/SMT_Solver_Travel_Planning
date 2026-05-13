@@ -1,0 +1,6 @@
+Destination cities: ['Washington'],
+Transportation dates: ['2024-11-26', '2024-11-28'],
+Transportation methods between cities: ['Flight Number: F1683538, from New York to Washington, Departure Time: 05:56, Arrival Time: 07:06', 'Flight Number: F4069005, from Washington to New York, Departure Time: 13:20, Arrival Time: 14:37'],
+Restaurants (3 meals per day): ['-', 'Unconventional Diner, Washington', 'Cafe Milano, Washington', 'The Dabney, Washington', "Clyde's of Georgetown, Washington", 'Ambar Shaw, Washington', 'RPM Italian, Washington', 'Zaytinya by Jose Andres, Washington', '-'],
+Attractions (1 per day): ['United States Botanic Garden, Washington', 'National Mall, Washington', '-'],
+Accommodations (1 per city): ['The Half Note Bedroom at HUM District Music, Washington']

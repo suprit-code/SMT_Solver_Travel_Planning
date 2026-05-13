@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Francisco to Atlanta",
+    "transportation": "Flight Number: F2492698, from San Francisco to Atlanta, Departure Time: 06:08, Arrival Time: 13:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "La Grotta Ristorante Italiano, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "Urban Nature Retreat |  Pets | Insurance, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Urban Nature Retreat |  Pets | Insurance, stay from 13:57 to 14:27, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away; Centennial Olympic Park, Atlanta, visit from 14:57 to 18:27, ; La Grotta Ristorante Italiano, Atlanta, visit from 19:00 to 22:23, ; Urban Nature Retreat |  Pets | Insurance, stay from 22:53 to 06:53, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Fox Bros. Bar-B-Q, Atlanta",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Atlanta",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Urban Nature Retreat |  Pets | Insurance, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Urban Nature Retreat |  Pets | Insurance, stay from 07:23 to 07:53, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away; Fox Bros. Bar-B-Q, Atlanta, visit from 08:23 to 09:59, ; Fogo de Chao Brazilian Steakhouse, Atlanta, visit from 14:00 to 15:00, ; Georgia Aquarium, Atlanta, visit from 15:30 to 19:00, ; Home Grown, Atlanta, visit from 19:30 to 20:45, ; Urban Nature Retreat |  Pets | Insurance, stay from 21:15 to 05:15, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to San Francisco",
+    "transportation": "Flight Number: F0858189, from Atlanta to San Francisco, Departure Time: 19:16, Arrival Time: 21:17",
+    "breakfast": "Kevin Rathbun Steak, Atlanta",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "-",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Urban Nature Retreat |  Pets | Insurance, stay from 06:00 to 06:30, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away; Kevin Rathbun Steak, Atlanta, visit from 08:00 to 08:50, ; Zoo Atlanta, Atlanta, visit from 09:20 to 12:50, ; Steamhouse Lounge, Atlanta, visit from 13:20 to 14:20, "
+  }
+]

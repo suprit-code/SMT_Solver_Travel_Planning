@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Nashville",
+    "transportation": "Flight Number: F1657167, from Houston to Nashville, Departure Time: 00:09, Arrival Time: 01:50",
+    "breakfast": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "lunch": "Tootsie's Orchid Lounge, Nashville",
+    "dinner": "Luogo, Nashville",
+    "attraction": "Musicians Hall of Fame and Museum, Nashville",
+    "accommodation": "Lofts At 30th-Nashville Charm -In West End, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 02:20 to 02:50, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; Bourbon Street Blues and Boogie Bar, Nashville, visit from 08:00 to 08:50, ; Tootsie's Orchid Lounge, Nashville, visit from 13:30 to 14:30, ; Musicians Hall of Fame and Museum, Nashville, visit from 15:00 to 18:30, ; Luogo, Nashville, visit from 19:00 to 20:15, ; Lofts At 30th-Nashville Charm -In West End, stay from 21:30 to 05:30, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "dinner": "Henley, Nashville",
+    "attraction": "Belle Meade Historic Site & Winery, Nashville",
+    "accommodation": "Lofts At 30th-Nashville Charm -In West End, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 06:00 to 06:30, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; Aquarium Restaurant, Nashville, visit from 09:10 to 10:00, ; Belle Meade Historic Site & Winery, Nashville, visit from 10:30 to 14:00, ; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 14:30 to 15:30, ; Henley, Nashville, visit from 20:45 to 22:00, ; Lofts At 30th-Nashville Charm -In West End, stay from 22:30 to 06:30, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Kayne Prime, Nashville",
+    "lunch": "-",
+    "dinner": "Bristol Seafood Restaurant, Bristol",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "The Budget Friendly Rest Easy (I-81 exit 5), Bristol",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 07:00 to 07:30, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; Kayne Prime, Nashville, visit from 08:00 to 08:50, ; Belmont Mansion, Nashville, visit from 09:20 to 12:50, ; The Budget Friendly Rest Easy (I-81 exit 5), stay from 19:09 to 19:39, nearest transit: E Valley Dr & Texas Ave, 170.89m away; Bristol Seafood Restaurant, Bristol, visit from 20:09 to 21:24, ; The Budget Friendly Rest Easy (I-81 exit 5), stay from 23:40 to 07:40, nearest transit: E Valley Dr & Texas Ave, 170.89m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Little Bristol Beach Bar, Bristol",
+    "lunch": "Bristol Lounge, Bristol",
+    "dinner": "Bristol Seafood + Steak + Social, Bristol",
+    "attraction": "Clifton Suspension Bridge, Bristol",
+    "accommodation": "The Budget Friendly Rest Easy (I-81 exit 5), Bristol",
+    "event": "-",
+    "point_of_interest_list": "The Budget Friendly Rest Easy (I-81 exit 5), stay from 08:10 to 08:40, nearest transit: E Valley Dr & Texas Ave, 170.89m away; Little Bristol Beach Bar, Bristol, visit from 09:10 to 10:00, ; Clifton Suspension Bridge, Bristol, visit from 10:30 to 14:00, ; Bristol Lounge, Bristol, visit from 14:30 to 15:30, ; Bristol Seafood + Steak + Social, Bristol, visit from 20:45 to 22:00, ; The Budget Friendly Rest Easy (I-81 exit 5), stay from 22:30 to 06:30, nearest transit: E Valley Dr & Texas Ave, 170.89m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Bravas, Bristol",
+    "lunch": "Aqua Welsh Back, Bristol",
+    "dinner": "Urban Stack, Chattanooga",
+    "attraction": "Bristol Museum & Art Gallery, Bristol",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "The Budget Friendly Rest Easy (I-81 exit 5), stay from 07:00 to 07:30, nearest transit: E Valley Dr & Texas Ave, 170.89m away; Bravas, Bristol, visit from 08:00 to 08:50, ; Bristol Museum & Art Gallery, Bristol, visit from 09:20 to 13:06, ; Aqua Welsh Back, Bristol, visit from 13:36 to 14:36, ; Wren’s nest on the ridge, stay from 19:45 to 20:15, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Urban Stack, Chattanooga, visit from 20:45 to 22:01, ; Wren’s nest on the ridge, stay from 22:31 to 06:31, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Stir, Chattanooga",
+    "lunch": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "dinner": "Hickory Pit Bar-B-Que, Chattanooga",
+    "attraction": "Walnut Street Bridge, Chattanooga",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 07:01 to 07:31, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Stir, Chattanooga, visit from 08:01 to 08:51, ; Maple Street Biscuit Company - City Center, Chattanooga, visit from 12:52 to 13:52, ; Walnut Street Bridge, Chattanooga, visit from 14:22 to 17:52, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 19:00 to 20:15, ; Wren’s nest on the ridge, stay from 20:45 to 04:45, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Houston",
+    "transportation": "Taxi from Chattanooga to Houston, duration: 893.0133333333334, distance: 1309.278, cost : 1309.0",
+    "breakfast": "La Cabriole, Chattanooga",
+    "lunch": "-",
+    "dinner": "Public House, Chattanooga",
+    "attraction": "Chattanooga Ghost Tours, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 06:00 to 06:30, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; La Cabriole, Chattanooga, visit from 08:00 to 08:50, ; Chattanooga Ghost Tours, Chattanooga, visit from 09:20 to 13:30, ; Public House, Chattanooga, visit from 19:00 to 20:15, "
+  }
+]

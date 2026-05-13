@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-08', '2024-11-10', '2024-11-12'],
+Transportation methods between cities: ['Self-driving, from Denver to San Diego, duration: 1134.5, distance: 1736.6606000000002, cost: 86', 'Self-driving, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 53', 'Self-driving, from Redding to Denver, duration: 1285.4166666666667, distance: 1981.5151, cost: 99'],
+Restaurants (3 meals per day): ['-', '-', '-', "Ruth's Chris Steak House, San Diego", "Lou & Mickey's, San Diego", 'Cowboy Star, San Diego', "Mimmo's, San Diego", 'Morning Glory, San Diego', 'Pacific Beach AleHouse, San Diego', 'deja vu, Redding', "Trendy's, Redding", 'View 202, Redding', 'New China, Redding', 'Karlines, Redding', "Jack's Grill, Redding"],
+Attractions (1 per day): ['-', 'Birch Aquarium at Scripps, San Diego', 'USS Midway Museum, San Diego', 'Sundial Bridge, Redding', 'Turtle Bay Exploration Park, Redding'],
+Accommodations (1 per city): ['Central & Serene Secret Garden Guesthouse, San Diego', 'The Cottage, 3 bedroom 2 bath w/ garden view, Redding']

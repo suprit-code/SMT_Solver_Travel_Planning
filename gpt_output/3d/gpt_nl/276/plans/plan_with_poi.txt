@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Key West",
+    "transportation": "Flight Number: F4038547, from Houston to Key West, Departure Time: 12:28, Arrival Time: 16:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Seaside Cafe at the Mansion, Key West",
+    "attraction": "-",
+    "accommodation": "The Key West Sailboat, Key West",
+    "event": "-",
+    "point_of_interest_list": "The Key West Sailboat, stay from 16:59 to 20:15, nearest transit: Caroline & Grinnell, 130.3m away; Seaside Cafe at the Mansion, Key West, visit from 20:45 to 22:06, ; The Key West Sailboat, stay from 22:36 to 06:36, nearest transit: Caroline & Grinnell, 130.3m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Key West",
+    "transportation": "-",
+    "breakfast": "Key West Cuban Coffee Shop, Key West",
+    "lunch": "Harpoon Harry's, Key West",
+    "dinner": "Frita's Cuban Burger Cafe, Key West",
+    "attraction": "Fort Zachary Taylor Historic State Park, Key West",
+    "accommodation": "The Key West Sailboat, Key West",
+    "event": "-",
+    "point_of_interest_list": "The Key West Sailboat, stay from 07:06 to 07:36, nearest transit: Caroline & Grinnell, 130.3m away; Key West Cuban Coffee Shop, Key West, visit from 08:06 to 08:56, ; Harpoon Harry's, Key West, visit from 13:30 to 14:30, ; Fort Zachary Taylor Historic State Park, Key West, visit from 15:00 to 18:30, ; Frita's Cuban Burger Cafe, Key West, visit from 19:00 to 20:15, ; The Key West Sailboat, stay from 22:30 to 06:30, nearest transit: Caroline & Grinnell, 130.3m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Key West to Houston",
+    "transportation": "Flight Number: F0987158, from Key West to Houston, Departure Time: 16:45, Arrival Time: 19:01",
+    "breakfast": "Onlywood Grill, Key West",
+    "lunch": "The Lobster Shack Key West, Key West",
+    "dinner": "-",
+    "attraction": "Key West Garden Club, Key West",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Key West Sailboat, stay from 07:00 to 07:30, nearest transit: Caroline & Grinnell, 130.3m away; Onlywood Grill, Key West, visit from 08:00 to 08:50, ; Key West Garden Club, Key West, visit from 09:20 to 12:50, ; The Lobster Shack Key West, Key West, visit from 13:20 to 14:20, "
+  }
+]

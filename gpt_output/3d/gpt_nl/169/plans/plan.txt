@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F1797554, from Santa Rosa to Seattle, Departure Time: 06:58, Arrival Time: 08:58', 'Flight Number: F3864799, from Seattle to Santa Rosa, Departure Time: 15:58, Arrival Time: 18:10'],
+Restaurants (3 meals per day): ['The Capital Grille, Seattle', 'Il Terrazzo Carmine, Seattle', "Matt's in the Market, Seattle", 'Six Seven Restaurant, Seattle', 'The Pink Door, Seattle', 'Spinasse, Seattle', "Salty's On Alki Beach, Seattle", 'Vons 1000 Spirits, Seattle', 'El Gaucho Seattle, Seattle'],
+Attractions (1 per day): ['Pike Place Market, Seattle', 'Woodland Park Zoo, Seattle', 'Seattle Aquarium, Seattle'],
+Accommodations (1 per city): ['Cozy Studio with Kitchenette and Laundry, Seattle']

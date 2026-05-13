@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to Seattle",
+    "transportation": "Flight Number: F3860013, from El Paso to Seattle, Departure Time: 21:06, Arrival Time: 00:06",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 00:36 to 01:06, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Ballard Greenwood Private Suite, stay from 01:36 to 08:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Chan Seattle, Seattle",
+    "lunch": "13 Coins Restaurant, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "-",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:30 to 09:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Chan Seattle, Seattle, visit from 09:39 to 10:29, ; 13 Coins Restaurant, Seattle, visit from 14:30 to 16:44, ; Noi Thai Cuisine, Seattle, visit from 20:45 to 22:00, ; Ballard Greenwood Private Suite, stay from 23:03 to 07:03, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to El Paso",
+    "transportation": "Flight Number: F3860425, from Seattle to El Paso, Departure Time: 13:53, Arrival Time: 18:02",
+    "breakfast": "Purple Cafe and Wine Bar, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 07:33 to 08:03, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Purple Cafe and Wine Bar, Seattle, visit from 08:33 to 09:23, ; Pike Place Market, Seattle, visit from 09:53 to 13:23, "
+  }
+]

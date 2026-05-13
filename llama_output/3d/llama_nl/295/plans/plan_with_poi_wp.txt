@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to Sacramento",
+    "transportation": "Flight Number: F3566035, from Ontario to Sacramento, Departure Time: 10:50, Arrival Time: 12:22",
+    "breakfast": "-",
+    "lunch": "Pilothouse Restaurant on the Delta King, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "★Luxurious Top-Floor, Balcony View, Private Bath★, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "★Luxurious Top-Floor, Balcony View, Private Bath★, stay from 12:52 to 13:22, nearest transit: Q ST & 5TH ST (EB), 9.45m away; Pilothouse Restaurant on the Delta King, Sacramento, visit from 13:52 to 14:52, ; Capitol Park, Sacramento, visit from 15:22 to 18:52, ; Nopalitos, Sacramento, visit from 19:22 to 20:37, ; ★Luxurious Top-Floor, Balcony View, Private Bath★, stay from 23:04 to 07:04, nearest transit: Q ST & 5TH ST (EB), 9.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Ella Dining Room & Bar, Sacramento",
+    "lunch": "Scott's Seafood on The River, Sacramento",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "California State Railroad Museum, Sacramento",
+    "accommodation": "★Luxurious Top-Floor, Balcony View, Private Bath★, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "★Luxurious Top-Floor, Balcony View, Private Bath★, stay from 07:34 to 08:04, nearest transit: Q ST & 5TH ST (EB), 9.45m away; Ella Dining Room & Bar, Sacramento, visit from 08:34 to 10:00, ; California State Railroad Museum, Sacramento, visit from 10:30 to 14:00, ; Scott's Seafood on The River, Sacramento, visit from 14:30 to 15:30, ; Paesano's Pizzeria, Sacramento, visit from 19:31 to 20:46, ; ★Luxurious Top-Floor, Balcony View, Private Bath★, stay from 21:16 to 05:16, nearest transit: Q ST & 5TH ST (EB), 9.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to Ontario",
+    "transportation": "Flight Number: F2705274, from Sacramento to Ontario, Departure Time: 19:02, Arrival Time: 20:17",
+    "breakfast": "The Firehouse Restaurant, Sacramento",
+    "lunch": "Zocalo, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "★Luxurious Top-Floor, Balcony View, Private Bath★, stay from 06:00 to 06:30, nearest transit: Q ST & 5TH ST (EB), 9.45m away; The Firehouse Restaurant, Sacramento, visit from 08:00 to 08:50, ; Zocalo, Sacramento, visit from 12:51 to 13:51, ; California State Capitol Museum, Sacramento, visit from 14:21 to 17:51, "
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Amarillo",
+    "transportation": "Flight Number: F1596908, from Las Vegas to Amarillo, Departure Time: 11:49, Arrival Time: 15:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "El Bracero Mexican Grill, Amarillo",
+    "attraction": "-",
+    "accommodation": "Berachah House, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Berachah House, stay from 16:17 to 18:30, nearest transit: Canyon Dr & SE 25th Ave, 683.49m away; El Bracero Mexican Grill, Amarillo, visit from 19:00 to 22:05, ; Berachah House, stay from 22:35 to 06:35, nearest transit: Canyon Dr & SE 25th Ave, 683.49m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Manantial, Amarillo",
+    "lunch": "Ye Olde Pancake Station, Amarillo",
+    "dinner": "575° Pizzeria - Hillside, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "Berachah House, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Berachah House, stay from 07:05 to 07:35, nearest transit: Canyon Dr & SE 25th Ave, 683.49m away; El Manantial, Amarillo, visit from 08:05 to 08:55, ; Ye Olde Pancake Station, Amarillo, visit from 12:56 to 13:56, ; Cadillac Ranch, Amarillo, visit from 15:00 to 18:30, ; 575° Pizzeria - Hillside, Amarillo, visit from 19:00 to 20:15, ; Berachah House, stay from 20:45 to 04:45, nearest transit: Canyon Dr & SE 25th Ave, 683.49m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F0453701, from Amarillo to Houston, Departure Time: 14:34, Arrival Time: 16:17",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "-",
+    "accommodation": "#1 Upper Kirby/Med Center/Montrose /Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Berachah House, stay from 06:00 to 06:30, nearest transit: Canyon Dr & SE 25th Ave, 683.49m away; Golden Light Cafe & Cantina, Amarillo, visit from 08:00 to 08:50, ; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 12:51 to 14:04, ; #1 Upper Kirby/Med Center/Montrose /Galleria, stay from 16:47 to 17:17, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away; Pappadeaux Seafood Kitchen, Houston, visit from 19:00 to 20:15, ; #1 Upper Kirby/Med Center/Montrose /Galleria, stay from 20:45 to 06:32, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston's Restaurant & Pub, Houston",
+    "lunch": "Kenny & Ziggy's New York Deli, Houston",
+    "dinner": "Goode Company Seafood, Houston",
+    "attraction": "National Museum of Funeral History, Houston",
+    "accommodation": "#1 Upper Kirby/Med Center/Montrose /Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "#1 Upper Kirby/Med Center/Montrose /Galleria, stay from 07:02 to 07:32, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away; Houston's Restaurant & Pub, Houston, visit from 08:02 to 09:59, ; Kenny & Ziggy's New York Deli, Houston, visit from 14:00 to 15:00, ; National Museum of Funeral History, Houston, visit from 15:30 to 19:00, ; Goode Company Seafood, Houston, visit from 19:30 to 23:00, ; #1 Upper Kirby/Med Center/Montrose /Galleria, stay from 23:30 to 07:30, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F1747168, from Houston to San Antonio, Departure Time: 10:20, Arrival Time: 11:36",
+    "breakfast": "Houston's Trail's End, Houston",
+    "lunch": "Paesano's Riverwalk, San Antonio",
+    "dinner": "Pollos Asados Los Nortenos, San Antonio",
+    "attraction": "Pearl Brewery, San Antonio",
+    "accommodation": "Private Unit Near Downtown San Antonio, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "#1 Upper Kirby/Med Center/Montrose /Galleria, stay from 08:00 to 08:30, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away; Houston's Trail's End, Houston, visit from 09:00 to 09:50, ; Private Unit Near Downtown San Antonio, stay from 12:06 to 12:36, nearest transit: NOLAN & N. HACKBERRY, 88.68m away; Paesano's Riverwalk, San Antonio, visit from 14:00 to 15:00, ; Pearl Brewery, San Antonio, visit from 15:30 to 19:00, ; Pollos Asados Los Nortenos, San Antonio, visit from 19:30 to 20:45, ; Private Unit Near Downtown San Antonio, stay from 22:36 to 06:36, nearest transit: NOLAN & N. HACKBERRY, 88.68m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Domingo Restaurant, San Antonio",
+    "lunch": "El Bucanero, San Antonio",
+    "dinner": "Pinkerton's Barbecue, San Antonio",
+    "attraction": "Tower Of The Americas, San Antonio",
+    "accommodation": "Private Unit Near Downtown San Antonio, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Private Unit Near Downtown San Antonio, stay from 07:06 to 07:36, nearest transit: NOLAN & N. HACKBERRY, 88.68m away; Domingo Restaurant, San Antonio, visit from 08:06 to 09:59, ; El Bucanero, San Antonio, visit from 14:00 to 15:00, ; Tower Of The Americas, San Antonio, visit from 15:30 to 19:00, ; Pinkerton's Barbecue, San Antonio, visit from 19:30 to 20:45, ; Private Unit Near Downtown San Antonio, stay from 21:15 to 05:15, nearest transit: NOLAN & N. HACKBERRY, 88.68m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Las Vegas",
+    "transportation": "Flight Number: F3577849, from San Antonio to Las Vegas, Departure Time: 19:03, Arrival Time: 19:46",
+    "breakfast": "The Guenther House, San Antonio",
+    "lunch": "Schilo's, San Antonio",
+    "dinner": "-",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Unit Near Downtown San Antonio, stay from 06:00 to 06:30, nearest transit: NOLAN & N. HACKBERRY, 88.68m away; The Guenther House, San Antonio, visit from 08:00 to 08:50, ; The Alamo, San Antonio, visit from 09:20 to 12:50, ; Schilo's, San Antonio, visit from 14:30 to 15:30, "
+  }
+]

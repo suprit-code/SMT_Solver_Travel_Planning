@@ -1,0 +1,6 @@
+Destination cities: ['Las Vegas'],
+Transportation dates: ['2024-11-13', '2024-11-15'],
+Transportation methods between cities: ['Flight Number: F3721420, from Washington to Las Vegas, Departure Time: 10:19, Arrival Time: 12:14', 'Flight Number: F3913378, from Las Vegas to Washington, Departure Time: 13:41, Arrival Time: 20:54'],
+Restaurants (3 meals per day): ['-', '-', 'Mercato Della Pescheria Las Vegas, Las Vegas', "Vic & Anthony's Steakhouse, Las Vegas", 'Firefly Tapas Kitchen & Bar, Las Vegas', 'Eiffel Tower Restaurant, Las Vegas', 'Cafe Berlin, Las Vegas', 'Golden Steer Steakhouse Las Vegas, Las Vegas', '-'],
+Attractions (1 per day): ['Bellagio Conservatory & Botanical Garden, Las Vegas', 'Red Rock Canyon National Conservation Area, Las Vegas', 'Hoover Dam Bypass, Las Vegas'],
+Accommodations (1 per city): ['Room in Down Town Las Vegas., Las Vegas']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from St. Louis to Atlanta",
+    "transportation": "Flight Number: F1567959, from St. Louis to Atlanta, Departure Time: 12:49, Arrival Time: 15:40",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Aria, Atlanta",
+    "attraction": "-",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 16:10 to 16:40, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away; Aria, Atlanta, visit from 19:00 to 22:02, ; Tiny House Retreat * Stock Tank Pool, stay from 22:32 to 06:32, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Atlanta",
+    "lunch": "Bangkok Station, Atlanta",
+    "dinner": "The Capital Grille, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 07:02 to 07:32, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away; Fogo de Chao Brazilian Steakhouse, Atlanta, visit from 08:02 to 08:52, ; Bangkok Station, Atlanta, visit from 12:53 to 13:53, ; Atlanta History Center, Atlanta, visit from 14:23 to 17:53, ; The Capital Grille, Atlanta, visit from 19:00 to 20:15, ; Tiny House Retreat * Stock Tank Pool, stay from 23:38 to 07:38, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to St. Louis",
+    "transportation": "Flight Number: F2065767, from Atlanta to St. Louis, Departure Time: 19:29, Arrival Time: 20:08",
+    "breakfast": "Kevin Rathbun Steak, Atlanta",
+    "lunch": "No Mas! Cantina, Atlanta",
+    "dinner": "-",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 08:08 to 08:38, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away; Kevin Rathbun Steak, Atlanta, visit from 09:08 to 09:58, ; No Mas! Cantina, Atlanta, visit from 13:59 to 14:59, ; Zoo Atlanta, Atlanta, visit from 15:29 to 18:59, "
+  }
+]

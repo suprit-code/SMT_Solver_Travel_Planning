@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Greensboro",
+    "transportation": "Taxi from Oklahoma City to Greensboro, duration: 1238.14, distance: 1848.9622, cost : 1848.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Downtown Greensboro Luxurious Hideaway, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Downtown Greensboro Luxurious Hideaway, stay from 03:08 to 03:38, nearest transit: Gorell/Plott, 119.28m away; Downtown Greensboro Luxurious Hideaway, stay from 04:08 to 08:00, nearest transit: Gorell/Plott, 119.28m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "At Elm St Grill, Greensboro",
+    "lunch": "MJ's Steak and Seafood, Greensboro",
+    "dinner": "1618 West Seafood Grill, Greensboro",
+    "attraction": "-",
+    "accommodation": "Downtown Greensboro Luxurious Hideaway, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Downtown Greensboro Luxurious Hideaway, stay from 08:30 to 09:00, nearest transit: Gorell/Plott, 119.28m away; At Elm St Grill, Greensboro, visit from 09:39 to 10:29, ; MJ's Steak and Seafood, Greensboro, visit from 14:30 to 16:44, ; 1618 West Seafood Grill, Greensboro, visit from 20:45 to 22:00, ; Downtown Greensboro Luxurious Hideaway, stay from 22:30 to 06:30, nearest transit: Gorell/Plott, 119.28m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Dames Chicken & Waffles, Greensboro",
+    "lunch": "Village Tavern, Greensboro",
+    "dinner": "Winnie's Tavern, Wilmington",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Dockside at The Cove, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Downtown Greensboro Luxurious Hideaway, stay from 07:00 to 07:30, nearest transit: Gorell/Plott, 119.28m away; Dames Chicken & Waffles, Greensboro, visit from 08:00 to 08:50, ; Ambleside Gallery, Greensboro, visit from 09:20 to 12:50, ; Village Tavern, Greensboro, visit from 13:20 to 14:20, ; Dockside at The Cove, stay from 19:18 to 19:48, nearest transit: Harnett St WB at Live Oak Bank Pavilion, 251.42m away; Winnie's Tavern, Wilmington, visit from 20:18 to 21:33, ; Dockside at The Cove, stay from 22:03 to 06:03, nearest transit: Harnett St WB at Live Oak Bank Pavilion, 251.42m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Catch, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "General Denver Pub, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "Dockside at The Cove, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Dockside at The Cove, stay from 06:33 to 07:03, nearest transit: Harnett St WB at Live Oak Bank Pavilion, 251.42m away; Catch, Wilmington, visit from 08:45 to 09:35, ; Battleship North Carolina, Wilmington, visit from 10:05 to 13:35, ; Flaming Amy's Burrito Barn, Wilmington, visit from 14:05 to 15:05, ; General Denver Pub, Wilmington, visit from 19:06 to 20:21, ; Dockside at The Cove, stay from 20:51 to 04:51, nearest transit: Harnett St WB at Live Oak Bank Pavilion, 251.42m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F3073848, from Wilmington to Charlotte, Departure Time: 20:10, Arrival Time: 21:18",
+    "breakfast": "Pilot House, Wilmington",
+    "lunch": "Cape Fear Seafood Company, Wilmington",
+    "dinner": "-",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Private room in apt uptown, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Dockside at The Cove, stay from 06:00 to 06:30, nearest transit: Harnett St WB at Live Oak Bank Pavilion, 251.42m away; Pilot House, Wilmington, visit from 08:00 to 08:50, ; Burgwin-Wright House and Gardens, Wilmington, visit from 09:20 to 12:50, ; Cape Fear Seafood Company, Wilmington, visit from 14:30 to 17:18, ; Private room in apt uptown, stay from 21:48 to 22:18, nearest transit: Mint St CityLYNX, 60.17m away; Private room in apt uptown, stay from 22:48 to 06:48, nearest transit: Mint St CityLYNX, 60.17m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Gaucho Charlotte Street, Charlotte",
+    "lunch": "Charlotte’s Kitchen, Charlotte",
+    "dinner": "The Terrace at The Charlotte Inn, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Private room in apt uptown, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Private room in apt uptown, stay from 07:18 to 07:48, nearest transit: Mint St CityLYNX, 60.17m away; Gaucho Charlotte Street, Charlotte, visit from 09:02 to 09:52, ; Charlotte’s Kitchen, Charlotte, visit from 13:53 to 14:53, ; NASCAR Hall of Fame, Charlotte, visit from 15:23 to 18:53, ; The Terrace at The Charlotte Inn, Charlotte, visit from 20:45 to 22:00, ; Private room in apt uptown, stay from 22:30 to 06:30, nearest transit: Mint St CityLYNX, 60.17m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Oklahoma City",
+    "transportation": "Taxi from Charlotte to Oklahoma City, duration: 1194.2333333333331, distance: 1762.3656, cost : 1762.0",
+    "breakfast": "Charlotte Lane, Charlotte",
+    "lunch": "Queen Charlotte, Charlotte",
+    "dinner": "Pinky's Westside Grill, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private room in apt uptown, stay from 07:00 to 07:30, nearest transit: Mint St CityLYNX, 60.17m away; Charlotte Lane, Charlotte, visit from 08:00 to 08:50, ; Truist Field, Charlotte, visit from 09:20 to 12:50, ; Queen Charlotte, Charlotte, visit from 13:20 to 14:20, ; Pinky's Westside Grill, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

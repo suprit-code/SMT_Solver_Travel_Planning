@@ -1,0 +1,6 @@
+Destination cities: ['Charlotte'],
+Transportation dates: ['2024-11-08', '2024-11-10'],
+Transportation methods between cities: ['Flight Number: F1436826, from Manchester to Charlotte, Departure Time: 05:52, Arrival Time: 08:17', 'Flight Number: F2323256, from Charlotte to Manchester, Departure Time: 10:06, Arrival Time: 12:02'],
+Restaurants (3 meals per day): ["Pinky's Westside Grill, Charlotte", 'Gaucho Charlotte Street, Charlotte', 'Bistro Charlotte, Charlotte', 'Midwood Smokehouse, Charlotte', 'The Charlotte Hotel & Restaurant, Charlotte', "Mac's Speed Shop, Charlotte", 'Charlotte Bakery, Charlotte', 'Charlotte & Fritz, Charlotte', '-'],
+Attractions (1 per day): ['Truist Field, Charlotte', 'Levine Museum of the New South, Charlotte', '-'],
+Accommodations (1 per city): ['Room with a king bed., Charlotte']

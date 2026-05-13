@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Francisco",
+    "transportation": "Flight Number: F3274088, from Miami to San Francisco, Departure Time: 08:41, Arrival Time: 11:43",
+    "breakfast": "-",
+    "lunch": "Mo's Grill, San Francisco",
+    "dinner": "Capital Restaurant, San Francisco",
+    "attraction": "California Academy of Sciences, San Francisco",
+    "accommodation": "Single Bed in 4-Bed Female Capsule Room, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Single Bed in 4-Bed Female Capsule Room, stay from 12:13 to 13:30, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away; Mo's Grill, San Francisco, visit from 14:00 to 15:00, ; California Academy of Sciences, San Francisco, visit from 15:30 to 19:00, ; Capital Restaurant, San Francisco, visit from 20:45 to 22:22, ; Single Bed in 4-Bed Female Capsule Room, stay from 22:52 to 06:52, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "City View Restaurant, San Francisco",
+    "lunch": "The Codmother Fish & Chips, San Francisco",
+    "dinner": "Honey Honey Cafe & Crepery, San Francisco",
+    "attraction": "Exploratorium, San Francisco",
+    "accommodation": "Single Bed in 4-Bed Female Capsule Room, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Single Bed in 4-Bed Female Capsule Room, stay from 07:22 to 07:52, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away; City View Restaurant, San Francisco, visit from 08:22 to 09:12, ; The Codmother Fish & Chips, San Francisco, visit from 13:13 to 14:13, ; Exploratorium, San Francisco, visit from 15:00 to 18:30, ; Honey Honey Cafe & Crepery, San Francisco, visit from 19:00 to 20:15, ; Single Bed in 4-Bed Female Capsule Room, stay from 20:45 to 04:45, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Miami",
+    "transportation": "Flight Number: F1938562, from San Francisco to Miami, Departure Time: 13:15, Arrival Time: 21:35",
+    "breakfast": "Good Mong Kok Bakery, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Single Bed in 4-Bed Female Capsule Room, stay from 06:00 to 06:30, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away; Good Mong Kok Bakery, San Francisco, visit from 08:00 to 08:50, "
+  }
+]

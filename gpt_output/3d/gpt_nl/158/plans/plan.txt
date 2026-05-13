@@ -1,0 +1,6 @@
+Destination cities: ['Nashville'],
+Transportation dates: ['2024-11-06', '2024-11-08'],
+Transportation methods between cities: ['Flight Number: F2105072, from Albany to Nashville, Departure Time: 11:04, Arrival Time: 12:47', 'Self-driving, from Nashville to Albany, duration: 1129.86, distance: 1615.2378, cost: 80'],
+Restaurants (3 meals per day): ['-', 'Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville', 'The Standard, Nashville', 'The Chef And I, Nashville', 'Luogo, Nashville', 'Deacon’s New South, Nashville', 'Old Hickory Steakhouse, Nashville', "Jeff Ruby's Steakhouse, Nashville, Nashville", 'Kayne Prime, Nashville'],
+Attractions (1 per day): ['The Johnny Cash Museum, Nashville', 'Cooter’s Museum and Store Nashville, Nashville', 'Tennessee State Museum, Nashville'],
+Accommodations (1 per city): ['Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville']

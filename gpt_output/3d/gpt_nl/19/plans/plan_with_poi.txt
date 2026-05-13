@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Houston",
+    "transportation": "Self-driving from Denver to Houston, duration: 1118.4283333333333, distance: 1657.4703, cost : 82.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 01:08 to 01:38, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; #4 Northwest Victory Single BR, stay from 02:08 to 08:00, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Phoenicia Specialty Foods, Houston",
+    "lunch": "Kenny & Ziggy's New York Deli, Houston",
+    "dinner": "Houston's Restaurant & Pub, Houston",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 08:30 to 09:00, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Phoenicia Specialty Foods, Houston, visit from 09:39 to 10:29, ; Kenny & Ziggy's New York Deli, Houston, visit from 14:30 to 15:30, ; Houston's Restaurant & Pub, Houston, visit from 19:31 to 20:46, ; #4 Northwest Victory Single BR, stay from 21:16 to 05:16, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Denver",
+    "transportation": "Flight Number: F1216382, from Houston to Denver, Departure Time: 08:22, Arrival Time: 09:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Seattle",
+    "transportation": "Flight Number: F3305579, from Oklahoma City to Seattle, Departure Time: 14:29, Arrival Time: 16:39",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Chan Seattle, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 17:09 to 20:15, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Chan Seattle, Seattle, visit from 20:45 to 22:48, ; Cozy room near UW, stay from 23:18 to 07:18, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Vons 1000 Spirits, Seattle",
+    "dinner": "13 Coins Restaurant, Seattle",
+    "attraction": "Sky View Observatory, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:48 to 08:18, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Noi Thai Cuisine, Seattle, visit from 08:48 to 09:38, ; Sky View Observatory, Seattle, visit from 10:08 to 13:38, ; Vons 1000 Spirits, Seattle, visit from 14:08 to 15:08, ; 13 Coins Restaurant, Seattle, visit from 19:09 to 20:24, ; Cozy room near UW, stay from 20:54 to 05:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Oklahoma City",
+    "transportation": "Flight Number: F1515441, from Seattle to Oklahoma City, Departure Time: 10:01, Arrival Time: 15:54",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 08:00 to 08:50, "
+  }
+]

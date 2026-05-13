@@ -1,0 +1,6 @@
+Destination cities: ['Greensboro', 'Wilmington'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Self-driving, from New York to Greensboro, duration: 640.7433333333333, distance: 863.0494, cost: 43', 'Self-driving, from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost: 16', 'Self-driving, from Wilmington to New York, duration: 695.64, distance: 956.862, cost: 47'],
+Restaurants (3 meals per day): ['-', '-', '-', "Stamey's Barbecue, Greensboro", 'Scrambled Southern Diner, Greensboro', "Mimi's Cafe, Greensboro", 'Golden Wok, Greensboro', 'Salvino Cucina Italiana Restaurant, Greensboro', "MJ's Steak and Seafood, Greensboro", 'Indochine Wilmington, Wilmington', 'Catch, Wilmington', "Flaming Amy's Burrito Barn, Wilmington", "Winnie's Tavern, Wilmington", 'The Anchor, Wilmington', "Casey's Buffet Barbecue & Home Cookin, Wilmington"],
+Attractions (1 per day): ['-', 'Carolina Theatre, Greensboro', 'Ambleside Gallery, Greensboro', 'Burgwin-Wright House and Gardens, Wilmington', 'Battleship North Carolina, Wilmington'],
+Accommodations (1 per city): ['Peaceful Place, Greensboro', 'The Native Garden Cottage, Wilmington']

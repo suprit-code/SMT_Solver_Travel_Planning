@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Seattle",
+    "transportation": "Flight Number: F0244901, from Charleston to Seattle, Departure Time: 18:43, Arrival Time: 21:30",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 22:00 to 23:03, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Cozy room near UW, stay from 23:33 to 07:33, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Place Pigalle Restaurant and Bar, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "Kerry Park, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:03 to 08:33, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Place Pigalle Restaurant and Bar, Seattle, visit from 09:03 to 09:59, ; Noi Thai Cuisine, Seattle, visit from 14:00 to 15:00, ; Kerry Park, Seattle, visit from 15:30 to 19:00, ; Il Terrazzo Carmine, Seattle, visit from 19:30 to 22:39, ; Cozy room near UW, stay from 23:09 to 07:09, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Charleston",
+    "transportation": "Flight Number: F1974763, from Seattle to Charleston, Departure Time: 09:59, Arrival Time: 18:23",
+    "breakfast": "JaK's Grill, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:39 to 08:09, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; JaK's Grill, Seattle, visit from 08:39 to 09:29, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['San Diego'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Flight Number: F2045101, from Seattle to San Diego, Departure Time: 11:34, Arrival Time: 14:23', 'Flight Number: F1517981, from San Diego to Seattle, Departure Time: 17:28, Arrival Time: 20:23'],
+Restaurants (3 meals per day): ['-', '-', "Mimmo's, San Diego", 'Cafe Coyote, San Diego', 'Pacific Beach AleHouse, San Diego', 'Morning Glory, San Diego', 'Juniper and Ivy, San Diego', 'Buon Appetito, San Diego', '-'],
+Attractions (1 per day): ['Coronado Bridge, San Diego', 'Seaport Village, San Diego', 'Cabrillo National Monument, San Diego'],
+Accommodations (1 per city): ['Private Room & Bath! Steps to Restaurants & Shops, San Diego']

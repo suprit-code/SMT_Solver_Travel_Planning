@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Ontario",
+    "transportation": "Flight Number: F0019711, from Las Vegas to Ontario, Departure Time: 13:02, Arrival Time: 13:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Joy Sushi, Ontario",
+    "attraction": "Niagara Falls Canada, Ontario",
+    "accommodation": "Cozy space in one of Toronto's best neighbourhoods, Ontario",
+    "event": "-",
+    "point_of_interest_list": "Cozy space in one of Toronto's best neighbourhoods, stay from 14:22 to 15:00, nearest transit: Union Station, 1632.76m away; Niagara Falls Canada, Ontario, visit from 15:30 to 20:15, ; Joy Sushi, Ontario, visit from 20:45 to 22:25, ; Cozy space in one of Toronto's best neighbourhoods, stay from 22:55 to 06:55, nearest transit: Union Station, 1632.76m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Ontario",
+    "transportation": "-",
+    "breakfast": "The Olde School Restaurant, Ontario",
+    "lunch": "Kel's Family Restaurant, Ontario",
+    "dinner": "On The Lam Restaurant, Ontario",
+    "attraction": "Toronto Island Park, Ontario",
+    "accommodation": "Cozy space in one of Toronto's best neighbourhoods, Ontario",
+    "event": "-",
+    "point_of_interest_list": "Cozy space in one of Toronto's best neighbourhoods, stay from 07:25 to 07:55, nearest transit: Union Station, 1632.76m away; The Olde School Restaurant, Ontario, visit from 08:25 to 10:00, ; Toronto Island Park, Ontario, visit from 10:30 to 14:00, ; Kel's Family Restaurant, Ontario, visit from 14:30 to 15:30, ; On The Lam Restaurant, Ontario, visit from 19:31 to 20:46, ; Cozy space in one of Toronto's best neighbourhoods, stay from 22:30 to 06:30, nearest transit: Union Station, 1632.76m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Ontario to Las Vegas",
+    "transportation": "Flight Number: F0050573, from Ontario to Las Vegas, Departure Time: 19:05, Arrival Time: 20:00",
+    "breakfast": "Sai Thai Kitchen, Ontario",
+    "lunch": "The Keg Steakhouse + Bar - Brantford, Ontario",
+    "dinner": "-",
+    "attraction": "White Water Walk, Ontario",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy space in one of Toronto's best neighbourhoods, stay from 07:00 to 07:30, nearest transit: Union Station, 1632.76m away; Sai Thai Kitchen, Ontario, visit from 08:00 to 08:50, ; The Keg Steakhouse + Bar - Brantford, Ontario, visit from 12:51 to 13:51, ; White Water Walk, Ontario, visit from 14:21 to 18:35, "
+  }
+]

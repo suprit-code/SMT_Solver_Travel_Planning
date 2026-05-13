@@ -1,0 +1,6 @@
+Destination cities: ['Chattanooga'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Flight Number: F3632122, from Washington to Chattanooga, Departure Time: 13:38, Arrival Time: 15:15', 'Self-driving, from Chattanooga to Washington, duration: 663.0733333333334, distance: 961.8596, cost: 48'],
+Restaurants (3 meals per day): ['-', '-', "Uncle Larry's Restaurant, Chattanooga", 'The Purple Daisy Picnic Cafe, Chattanooga', 'Hickory Pit Bar-B-Que, Chattanooga', 'Tupelo Honey Southern Kitchen & Bar, Chattanooga', 'Maple Street Biscuit Company - City Center, Chattanooga', 'Public House, Chattanooga', 'Mellow Mushroom Chattanooga, Chattanooga'],
+Attractions (1 per day): ['Walnut Street Bridge, Chattanooga', 'Tennessee Valley Railroad Museum, Chattanooga', 'Coolidge Park, Chattanooga'],
+Accommodations (1 per city): ['Cozy Stylish Studio, Chattanooga']

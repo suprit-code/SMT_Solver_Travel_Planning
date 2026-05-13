@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Burbank to Amarillo",
+    "transportation": "Taxi from Burbank to Amarillo, duration: 1112.3666666666666, distance: 1729.9941, cost : 1729.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Bunny Bungalow, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Bunny Bungalow, stay from 01:02 to 01:32, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 9737.26m away; The Bunny Bungalow, stay from 02:02 to 08:00, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 9737.26m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "It's a Punjabi Affair, Amarillo",
+    "lunch": "Six Car Pub & Brewery, Amarillo",
+    "dinner": "Metropolitan, Amarillo",
+    "attraction": "-",
+    "accommodation": "The Bunny Bungalow, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Bunny Bungalow, stay from 08:30 to 09:00, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 9737.26m away; It's a Punjabi Affair, Amarillo, visit from 09:34 to 10:29, ; Six Car Pub & Brewery, Amarillo, visit from 14:30 to 15:30, ; Metropolitan, Amarillo, visit from 19:45 to 21:00, ; The Bunny Bungalow, stay from 21:30 to 05:30, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 9737.26m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Taxi from Amarillo to Houston, duration: 649.365, distance: 961.8577, cost : 961.0",
+    "breakfast": "Drunken Oyster, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Secluded Suite in Southwest Houston, Houston",
+    "event": "-",
+    "point_of_interest_list": "The Bunny Bungalow, stay from 06:00 to 07:30, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 9737.26m away; Drunken Oyster, Amarillo, visit from 08:00 to 08:50, ; Secluded Suite in Southwest Houston, stay from 20:39 to 21:09, nearest transit: Bellaire Blvd @ Avenue B, 142.81m away; Secluded Suite in Southwest Houston, stay from 21:39 to 05:39, nearest transit: Bellaire Blvd @ Avenue B, 142.81m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Houstons Bar and Grill, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "Secluded Suite in Southwest Houston, Houston",
+    "event": "-",
+    "point_of_interest_list": "Secluded Suite in Southwest Houston, stay from 06:09 to 06:39, nearest transit: Bellaire Blvd @ Avenue B, 142.81m away; Kenny & Ziggy's New York Deli, Houston, visit from 09:10 to 10:00, ; NRG Stadium, Houston, visit from 10:30 to 14:00, ; Houston Restaurant, Houston, visit from 14:30 to 15:30, ; Houstons Bar and Grill, Houston, visit from 19:31 to 20:46, ; Secluded Suite in Southwest Houston, stay from 21:16 to 05:16, nearest transit: Bellaire Blvd @ Avenue B, 142.81m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F4039309, from Houston to San Antonio, Departure Time: 10:19, Arrival Time: 11:16",
+    "breakfast": "Brenner's on the Bayou, Houston",
+    "lunch": "-",
+    "dinner": "Dough Pizzeria Napoletana, San Antonio",
+    "attraction": "Tower Of The Americas, San Antonio",
+    "accommodation": "Six Flags/The Rim - Enchanting Modern Studio, King, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Secluded Suite in Southwest Houston, stay from 06:00 to 08:29, nearest transit: Bellaire Blvd @ Avenue B, 142.81m away; Brenner's on the Bayou, Houston, visit from 08:59 to 09:49, ; Six Flags/The Rim - Enchanting Modern Studio, King, stay from 11:46 to 15:00, nearest transit: HUEBNER & IH-10 W, 143.12m away; Tower Of The Americas, San Antonio, visit from 15:30 to 19:00, ; Dough Pizzeria Napoletana, San Antonio, visit from 19:30 to 20:45, ; Six Flags/The Rim - Enchanting Modern Studio, King, stay from 23:40 to 07:40, nearest transit: HUEBNER & IH-10 W, 143.12m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Biga on the Banks, San Antonio",
+    "lunch": "Pollos Asados Los Nortenos, San Antonio",
+    "dinner": "Bubba Gump Shrimp Co., San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "Six Flags/The Rim - Enchanting Modern Studio, King, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Six Flags/The Rim - Enchanting Modern Studio, King, stay from 08:10 to 08:40, nearest transit: HUEBNER & IH-10 W, 143.12m away; Biga on the Banks, San Antonio, visit from 09:10 to 10:00, ; The Alamo, San Antonio, visit from 10:30 to 14:00, ; Pollos Asados Los Nortenos, San Antonio, visit from 14:30 to 15:30, ; Bubba Gump Shrimp Co., San Antonio, visit from 19:31 to 20:46, ; Six Flags/The Rim - Enchanting Modern Studio, King, stay from 21:16 to 05:16, nearest transit: HUEBNER & IH-10 W, 143.12m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Burbank",
+    "transportation": "Taxi from San Antonio to Burbank, duration: 1391.655, distance: 2194.3542, cost : 2194.0",
+    "breakfast": "Boudro's Texas Bistro, San Antonio",
+    "lunch": "Schilo's, San Antonio",
+    "dinner": "Brenner's on the River Walk, San Antonio",
+    "attraction": "Pearl Brewery, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Six Flags/The Rim - Enchanting Modern Studio, King, stay from 06:00 to 06:30, nearest transit: HUEBNER & IH-10 W, 143.12m away; Boudro's Texas Bistro, San Antonio, visit from 08:00 to 08:50, ; Schilo's, San Antonio, visit from 12:51 to 13:51, ; Pearl Brewery, San Antonio, visit from 15:00 to 18:30, ; Brenner's on the River Walk, San Antonio, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Baltimore to San Diego",
+    "transportation": "Flight Number: F2628741, from Baltimore to San Diego, Departure Time: 10:43, Arrival Time: 12:59",
+    "breakfast": "-",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Casa Guadalajara, San Diego",
+    "attraction": "-",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 13:29 to 13:59, nearest transit: Upas St & 30th St, 403.13m away; Cowboy Star, San Diego, visit from 14:30 to 16:44, ; Casa Guadalajara, San Diego, visit from 20:45 to 22:24, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 22:54 to 06:54, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "Juniper and Ivy, San Diego",
+    "dinner": "Buon Appetito, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:24 to 07:54, nearest transit: Upas St & 30th St, 403.13m away; Ruth's Chris Steak House, San Diego, visit from 08:24 to 09:14, ; Juniper and Ivy, San Diego, visit from 13:15 to 14:15, ; Birch Aquarium at Scripps, San Diego, visit from 14:45 to 20:15, ; Buon Appetito, San Diego, visit from 20:45 to 22:00, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 22:30 to 06:30, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Flight Number: F3376675, from San Diego to Los Angeles, Departure Time: 10:54, Arrival Time: 11:55",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Cafe Gratitude Venice, Los Angeles",
+    "dinner": "-",
+    "attraction": "California Science Center, Los Angeles",
+    "accommodation": "*New! Historic Hollywood Hills Bungalow + Pool, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:00 to 07:30, nearest transit: Upas St & 30th St, 403.13m away; Mimmo's, San Diego, visit from 08:00 to 08:50, ; *New! Historic Hollywood Hills Bungalow + Pool, stay from 12:25 to 13:28, nearest transit:  Beachwood & Westshire , 320.82m away; Cafe Gratitude Venice, Los Angeles, visit from 13:58 to 14:58, ; California Science Center, Los Angeles, visit from 15:30 to 22:00, ; *New! Historic Hollywood Hills Bungalow + Pool, stay from 22:30 to 06:30, nearest transit:  Beachwood & Westshire , 320.82m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Water Grill, Los Angeles",
+    "lunch": "Ayara Thai Cuisine, Los Angeles",
+    "dinner": "Spire 73, Los Angeles",
+    "attraction": "Petersen Automotive Museum, Los Angeles",
+    "accommodation": "*New! Historic Hollywood Hills Bungalow + Pool, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "*New! Historic Hollywood Hills Bungalow + Pool, stay from 07:00 to 07:30, nearest transit:  Beachwood & Westshire , 320.82m away; Water Grill, Los Angeles, visit from 08:00 to 08:50, ; Petersen Automotive Museum, Los Angeles, visit from 09:20 to 12:50, ; Ayara Thai Cuisine, Los Angeles, visit from 14:30 to 15:30, ; Spire 73, Los Angeles, visit from 20:45 to 22:00, ; *New! Historic Hollywood Hills Bungalow + Pool, stay from 22:30 to 06:30, nearest transit:  Beachwood & Westshire , 320.82m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Flight Number: F0485512, from Los Angeles to San Francisco, Departure Time: 12:55, Arrival Time: 14:09",
+    "breakfast": "The Palm - L.A. Downtown, Los Angeles",
+    "lunch": "-",
+    "dinner": "Waterbar, San Francisco",
+    "attraction": "-",
+    "accommodation": "1 Queen bedded room w/full bath, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "*New! Historic Hollywood Hills Bungalow + Pool, stay from 07:00 to 09:00, nearest transit:  Beachwood & Westshire , 320.82m away; The Palm - L.A. Downtown, Los Angeles, visit from 09:40 to 12:25, ; 1 Queen bedded room w/full bath, stay from 14:39 to 15:09, nearest transit: Powell @ 22 4th, 458.48m away; Waterbar, San Francisco, visit from 19:00 to 20:15, ; 1 Queen bedded room w/full bath, stay from 20:45 to 06:37, nearest transit: Powell @ 22 4th, 458.48m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "The Codmother Fish & Chips, San Francisco",
+    "dinner": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "attraction": "Cable Car Museum, San Francisco",
+    "accommodation": "1 Queen bedded room w/full bath, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "1 Queen bedded room w/full bath, stay from 07:07 to 07:37, nearest transit: Powell @ 22 4th, 458.48m away; Quince, San Francisco, visit from 08:07 to 08:57, ; Cable Car Museum, San Francisco, visit from 09:27 to 12:57, ; The Codmother Fish & Chips, San Francisco, visit from 13:27 to 14:59, ; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 19:00 to 20:15, ; 1 Queen bedded room w/full bath, stay from 20:45 to 04:45, nearest transit: Powell @ 22 4th, 458.48m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to Baltimore",
+    "transportation": "Flight Number: F1834468, from San Francisco to Baltimore, Departure Time: 23:08, Arrival Time: 07:17",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "California Academy of Sciences, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 Queen bedded room w/full bath, stay from 06:00 to 06:30, nearest transit: Powell @ 22 4th, 458.48m away; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 08:00 to 08:50, ; California Academy of Sciences, San Francisco, visit from 09:20 to 12:50, "
+  }
+]

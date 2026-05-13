@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Memphis",
+    "transportation": "Flight Number: F2748427, from Boston to Memphis, Departure Time: 07:37, Arrival Time: 09:39",
+    "breakfast": "-",
+    "lunch": "Huey's Downtown, Memphis",
+    "dinner": "Silky O'sullivan's, Memphis",
+    "attraction": "Mud Island River Park, Memphis",
+    "accommodation": "Historic Cooper Young Midtown Shotgun House, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 10:09 to 10:39, nearest transit: YOUNG@MEDA, 88.72m away; Huey's Downtown, Memphis, visit from 14:00 to 15:00, ; Mud Island River Park, Memphis, visit from 15:30 to 19:00, ; Silky O'sullivan's, Memphis, visit from 19:30 to 20:45, ; Historic Cooper Young Midtown Shotgun House, stay from 21:15 to 05:15, nearest transit: YOUNG@MEDA, 88.72m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Memphis",
+    "transportation": "-",
+    "breakfast": "Memphis BBQ Grill, Memphis",
+    "lunch": "Corky's Ribs & BBQ, Memphis",
+    "dinner": "The BBQ Shop, Memphis",
+    "attraction": "Sun Studio, Memphis",
+    "accommodation": "Historic Cooper Young Midtown Shotgun House, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 06:00 to 06:30, nearest transit: YOUNG@MEDA, 88.72m away; Memphis BBQ Grill, Memphis, visit from 08:03 to 08:53, ; Corky's Ribs & BBQ, Memphis, visit from 12:54 to 13:54, ; Sun Studio, Memphis, visit from 14:24 to 18:30, ; The BBQ Shop, Memphis, visit from 19:00 to 20:15, ; Historic Cooper Young Midtown Shotgun House, stay from 20:45 to 04:45, nearest transit: YOUNG@MEDA, 88.72m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Memphis to Boston",
+    "transportation": "Flight Number: F1699917, from Memphis to Boston, Departure Time: 10:45, Arrival Time: 14:33",
+    "breakfast": "The Soul Fish Cafe Inc, Memphis",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 06:00 to 06:30, nearest transit: YOUNG@MEDA, 88.72m away; The Soul Fish Cafe Inc, Memphis, visit from 08:00 to 08:50, "
+  }
+]

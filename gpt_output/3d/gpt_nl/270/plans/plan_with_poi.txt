@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Madison",
+    "transportation": "Flight Number: F1172262, from Chicago to Madison, Departure Time: 08:54, Arrival Time: 09:52",
+    "breakfast": "-",
+    "lunch": "Madison, Madison",
+    "dinner": "L'Etoile Restaurant, Madison",
+    "attraction": "Olbrich Botanical Gardens, Madison",
+    "accommodation": "DT+Bikes+Pvt Suite+Jacuzzi+Parking+Near Campus, Madison",
+    "event": "-",
+    "point_of_interest_list": "DT+Bikes+Pvt Suite+Jacuzzi+Parking+Near Campus, stay from 10:22 to 10:52, nearest transit: Godfrey Walmart, 460246.24m away; Madison, Madison, visit from 14:00 to 15:00, ; Olbrich Botanical Gardens, Madison, visit from 15:30 to 20:15, ; L'Etoile Restaurant, Madison, visit from 20:45 to 23:10, ; DT+Bikes+Pvt Suite+Jacuzzi+Parking+Near Campus, stay from 23:40 to 07:40, nearest transit: Godfrey Walmart, 460246.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Madison",
+    "transportation": "-",
+    "breakfast": "The Madison, Madison",
+    "lunch": "Sant Ambroeus Madison, Madison",
+    "dinner": "Avra Madison Estiatorio, Madison",
+    "attraction": "Henry Vilas Zoo, Madison",
+    "accommodation": "DT+Bikes+Pvt Suite+Jacuzzi+Parking+Near Campus, Madison",
+    "event": "-",
+    "point_of_interest_list": "DT+Bikes+Pvt Suite+Jacuzzi+Parking+Near Campus, stay from 08:10 to 08:40, nearest transit: Godfrey Walmart, 460246.24m away; The Madison, Madison, visit from 09:10 to 10:00, ; Henry Vilas Zoo, Madison, visit from 10:30 to 14:00, ; Sant Ambroeus Madison, Madison, visit from 14:30 to 15:30, ; Avra Madison Estiatorio, Madison, visit from 19:31 to 20:46, ; DT+Bikes+Pvt Suite+Jacuzzi+Parking+Near Campus, stay from 21:16 to 05:16, nearest transit: Godfrey Walmart, 460246.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Madison to Chicago",
+    "transportation": "Flight Number: F0234937, from Madison to Chicago, Departure Time: 13:24, Arrival Time: 14:33",
+    "breakfast": "Babcock Hall Dairy Store, Madison",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "DT+Bikes+Pvt Suite+Jacuzzi+Parking+Near Campus, stay from 06:00 to 06:30, nearest transit: Godfrey Walmart, 460246.24m away; Babcock Hall Dairy Store, Madison, visit from 08:00 to 08:50, "
+  }
+]

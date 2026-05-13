@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-07', '2024-11-09'],
+Transportation methods between cities: ['Flight Number: F3860013, from El Paso to Seattle, Departure Time: 21:06, Arrival Time: 00:06', 'Flight Number: F3860425, from Seattle to El Paso, Departure Time: 13:53, Arrival Time: 18:02'],
+Restaurants (3 meals per day): ['Chan Seattle, Seattle', '13 Coins Restaurant, Seattle', 'Noi Thai Cuisine, Seattle', 'Purple Cafe and Wine Bar, Seattle', 'Dough Zone Dumpling House - Seattle International District, Seattle', 'Lola, Seattle', 'Vons 1000 Spirits, Seattle', 'The Pink Door, Seattle', '-'],
+Attractions (1 per day): ['Pike Place Market, Seattle', 'Klondike Gold Rush National Historical Park, Seattle', 'The Museum of Flight, Seattle'],
+Accommodations (1 per city): ['Ballard Greenwood Private Suite, Seattle']

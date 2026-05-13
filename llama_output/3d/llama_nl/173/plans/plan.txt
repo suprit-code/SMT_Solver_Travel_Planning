@@ -1,0 +1,6 @@
+Destination cities: ['Anchorage'],
+Transportation dates: ['2024-11-21', '2024-11-23'],
+Transportation methods between cities: ['Flight Number: F1981733, from Las Vegas to Anchorage, Departure Time: 19:41, Arrival Time: 00:12', 'Flight Number: F2889796, from Anchorage to Las Vegas, Departure Time: 23:41, Arrival Time: 05:30'],
+Restaurants (3 meals per day): ['Anchorage Tavern & Restaurant, Anchorage', 'Gwennies Old Alaska Restaurant, Anchorage', 'Wild Scoops, Anchorage', 'Fire Island Rustic Bakeshop, Anchorage', 'Kobuk Coffee Co, Anchorage', 'Orso, Anchorage', 'Kaladi Brothers Coffee, Anchorage', '-', '-'],
+Attractions (1 per day): ['Earthquake Park, Anchorage', 'Tony Knowles Coastal Trail, Anchorage', '-'],
+Accommodations (1 per city): ['South Anchorage .Kodiak Room-5 Min From Airport, Anchorage']

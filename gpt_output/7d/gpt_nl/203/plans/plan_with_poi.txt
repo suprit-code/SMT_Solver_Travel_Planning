@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Amarillo",
+    "transportation": "Taxi from Oklahoma City to Amarillo, duration: 268.945, distance: 415.9372, cost : 415.0",
+    "breakfast": "-",
+    "lunch": "Metropolitan, Amarillo",
+    "dinner": "Cracker Barrel, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "Studio Collin. Ideal DT property 4 work/play/relax, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Studio Collin. Ideal DT property 4 work/play/relax, stay from 10:58 to 11:28, nearest transit: SW 15th Ave & S Monroe St (Parking Lot across from Church), 194.58m away; Metropolitan, Amarillo, visit from 12:00 to 13:00, ; Cadillac Ranch, Amarillo, visit from 13:30 to 20:15, ; Cracker Barrel, Amarillo, visit from 20:45 to 22:00, ; Studio Collin. Ideal DT property 4 work/play/relax, stay from 22:30 to 06:30, nearest transit: SW 15th Ave & S Monroe St (Parking Lot across from Church), 194.58m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Macaroni Joes, Amarillo",
+    "lunch": "El Bracero Mexican Grill, Amarillo",
+    "dinner": "Ohms Cafe & Catering, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Studio Collin. Ideal DT property 4 work/play/relax, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Studio Collin. Ideal DT property 4 work/play/relax, stay from 07:00 to 07:30, nearest transit: SW 15th Ave & S Monroe St (Parking Lot across from Church), 194.58m away; Macaroni Joes, Amarillo, visit from 08:00 to 10:00, ; Route 66 Historic District, Amarillo, visit from 10:30 to 14:00, ; El Bracero Mexican Grill, Amarillo, visit from 14:30 to 16:44, ; Ohms Cafe & Catering, Amarillo, visit from 20:45 to 23:13, ; Studio Collin. Ideal DT property 4 work/play/relax, stay from 23:43 to 07:43, nearest transit: SW 15th Ave & S Monroe St (Parking Lot across from Church), 194.58m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "“The Cheap Seats” Entertainment Suite, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Studio Collin. Ideal DT property 4 work/play/relax, stay from 08:13 to 08:43, nearest transit: SW 15th Ave & S Monroe St (Parking Lot across from Church), 194.58m away; Golden Light Cafe & Cantina, Amarillo, visit from 09:13 to 10:03, ; “The Cheap Seats” Entertainment Suite, stay from 22:23 to 22:53, nearest transit: 869-Gollihar @ Dody, 315.13m away; “The Cheap Seats” Entertainment Suite, stay from 23:23 to 07:23, nearest transit: 869-Gollihar @ Dody, 315.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Executive Surf Club, Corpus Christi",
+    "lunch": "Andy's Kitchen, Corpus Christi",
+    "dinner": "DAO Authentic Asian Cuisine, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "“The Cheap Seats” Entertainment Suite, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "“The Cheap Seats” Entertainment Suite, stay from 07:53 to 08:23, nearest transit: 869-Gollihar @ Dody, 315.13m away; Executive Surf Club, Corpus Christi, visit from 08:53 to 09:43, ; Andy's Kitchen, Corpus Christi, visit from 13:44 to 14:44, ; USS Lexington Museum, Corpus Christi, visit from 15:14 to 18:44, ; DAO Authentic Asian Cuisine, Corpus Christi, visit from 19:14 to 20:29, ; “The Cheap Seats” Entertainment Suite, stay from 20:59 to 04:59, nearest transit: 869-Gollihar @ Dody, 315.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F3160235, from Corpus Christi to Houston, Departure Time: 16:35, Arrival Time: 17:28",
+    "breakfast": "Bellino Ristorante Italiano and Bottega, Corpus Christi",
+    "lunch": "Republic of Texas Bar & Grill, Corpus Christi",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Secluded Room with En-suite Bathroom Midtown, Houston",
+    "event": "-",
+    "point_of_interest_list": "“The Cheap Seats” Entertainment Suite, stay from 06:00 to 06:30, nearest transit: 869-Gollihar @ Dody, 315.13m away; Bellino Ristorante Italiano and Bottega, Corpus Christi, visit from 08:00 to 08:50, ; Republic of Texas Bar & Grill, Corpus Christi, visit from 14:30 to 15:31, ; Secluded Room with En-suite Bathroom Midtown, stay from 17:58 to 18:28, nearest transit: W Gray St @ Bailey St, 81.25m away; Secluded Room with En-suite Bathroom Midtown, stay from 19:30 to 06:42, nearest transit: W Gray St @ Bailey St, 81.25m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "Houston Restaurant, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "Secluded Room with En-suite Bathroom Midtown, Houston",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 07:12 to 07:42, nearest transit: W Gray St @ Bailey St, 81.25m away; Pappadeaux Seafood Kitchen, Houston, visit from 08:12 to 09:02, ; NRG Stadium, Houston, visit from 09:32 to 13:02, ; Market on Houston, Houston, visit from 13:32 to 14:32, ; Houston Restaurant, Houston, visit from 19:00 to 20:15, ; Secluded Room with En-suite Bathroom Midtown, stay from 20:45 to 04:45, nearest transit: W Gray St @ Bailey St, 81.25m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Oklahoma City",
+    "transportation": "Taxi from Houston to Oklahoma City, duration: 471.9616666666667, distance: 715.9145, cost : 715.0",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Niko Niko's Greek, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 06:00 to 06:30, nearest transit: W Gray St @ Bailey St, 81.25m away; Hugo's, Houston, visit from 08:00 to 08:50, ; Niko Niko's Greek, Houston, visit from 12:51 to 13:51, ; Downtown Aquarium, Houston, visit from 14:21 to 17:51, ; Brennan's of Houston, Houston, visit from 19:00 to 20:15, "
+  }
+]

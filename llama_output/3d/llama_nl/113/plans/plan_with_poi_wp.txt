@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Juan to Charlotte",
+    "transportation": "Flight Number: F3685856, from San Juan to Charlotte, Departure Time: 16:22, Arrival Time: 19:12",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Queen Charlotte, Charlotte",
+    "attraction": "-",
+    "accommodation": "Quiet Cozy Stay in CLT, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 19:42 to 20:12, nearest transit: Tryon St & Choate Rd, 121.01m away; Queen Charlotte, Charlotte, visit from 20:42 to 21:57, ; Quiet Cozy Stay in CLT, stay from 22:27 to 07:30, nearest transit: Tryon St & Choate Rd, 121.01m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Gaucho Charlotte Street, Charlotte",
+    "lunch": "The Terrace at The Charlotte Inn, Charlotte",
+    "dinner": "Charlotte Bakery, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "Quiet Cozy Stay in CLT, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 08:00 to 08:30, nearest transit: Tryon St & Choate Rd, 121.01m away; Gaucho Charlotte Street, Charlotte, visit from 09:00 to 09:59, ; The Terrace at The Charlotte Inn, Charlotte, visit from 14:00 to 15:00, ; Truist Field, Charlotte, visit from 15:30 to 19:00, ; Charlotte Bakery, Charlotte, visit from 19:30 to 20:45, ; Quiet Cozy Stay in CLT, stay from 21:15 to 06:30, nearest transit: Tryon St & Choate Rd, 121.01m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to San Juan",
+    "transportation": "Flight Number: F1913787, from Charlotte to San Juan, Departure Time: 18:38, Arrival Time: 21:56",
+    "breakfast": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "lunch": "Charlotte Lane, Charlotte",
+    "dinner": "-",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 07:00 to 07:30, nearest transit: Tryon St & Choate Rd, 121.01m away; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 08:00 to 08:50, ; Charlotte Lane, Charlotte, visit from 12:51 to 13:51, ; Discovery Place Science, Charlotte, visit from 14:21 to 18:08, "
+  }
+]

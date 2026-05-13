@@ -1,0 +1,6 @@
+Destination cities: ['New York'],
+Transportation dates: ['2024-11-26', '2024-11-28'],
+Transportation methods between cities: ['Flight Number: F3758802, from Sarasota to New York, Departure Time: 21:51, Arrival Time: 00:18', 'Flight Number: F0838385, from New York to Sarasota, Departure Time: 16:07, Arrival Time: 19:24'],
+Restaurants (3 meals per day): ['Manhatta, New York', 'Gallaghers Steakhouse, New York', "Rao's Restaurant, New York", 'Burger & Lobster, New York', 'Peak Restaurant & Bar, New York', "Del Frisco's Grille, New York", 'Times Square Diner, New York', 'BOOM, New York', 'La Grande Boucherie, New York'],
+Attractions (1 per day): ['American Museum of Natural History, New York', 'The National 9/11 Memorial & Museum, New York', 'New York Public Library, New York'],
+Accommodations (1 per city): ['East Village, Private room with access to garden, New York']

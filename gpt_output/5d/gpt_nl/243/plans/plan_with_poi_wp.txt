@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Greensboro",
+    "transportation": "Self-driving from New York to Greensboro, duration: 640.7433333333333, distance: 863.0494, cost : 43.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Stamey's Barbecue, Greensboro",
+    "attraction": "-",
+    "accommodation": "Peaceful Place, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Peaceful Place, stay from 19:45 to 20:15, nearest transit: Glendale/Allen Middle School, 40.68m away; Stamey's Barbecue, Greensboro, visit from 20:45 to 23:10, ; Peaceful Place, stay from 23:40 to 07:40, nearest transit: Glendale/Allen Middle School, 40.68m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Scrambled Southern Diner, Greensboro",
+    "lunch": "Mimi's Cafe, Greensboro",
+    "dinner": "Golden Wok, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "Peaceful Place, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Peaceful Place, stay from 08:10 to 08:40, nearest transit: Glendale/Allen Middle School, 40.68m away; Scrambled Southern Diner, Greensboro, visit from 09:10 to 10:00, ; Carolina Theatre, Greensboro, visit from 10:30 to 14:00, ; Mimi's Cafe, Greensboro, visit from 14:30 to 16:44, ; Golden Wok, Greensboro, visit from 20:45 to 22:27, ; Peaceful Place, stay from 22:57 to 06:57, nearest transit: Glendale/Allen Middle School, 40.68m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Self-driving from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 16.0",
+    "breakfast": "Salvino Cucina Italiana Restaurant, Greensboro",
+    "lunch": "MJ's Steak and Seafood, Greensboro",
+    "dinner": "Indochine Wilmington, Wilmington",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "The Native Garden Cottage, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Peaceful Place, stay from 07:27 to 07:57, nearest transit: Glendale/Allen Middle School, 40.68m away; Salvino Cucina Italiana Restaurant, Greensboro, visit from 08:27 to 09:17, ; Ambleside Gallery, Greensboro, visit from 09:47 to 13:17, ; MJ's Steak and Seafood, Greensboro, visit from 13:47 to 14:47, ; The Native Garden Cottage, stay from 19:45 to 20:15, nearest transit: Princess Place Dr WB at 21st St, 494.05m away; Indochine Wilmington, Wilmington, visit from 20:45 to 23:10, ; The Native Garden Cottage, stay from 23:40 to 07:40, nearest transit: Princess Place Dr WB at 21st St, 494.05m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Catch, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "Winnie's Tavern, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "The Native Garden Cottage, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Native Garden Cottage, stay from 08:10 to 08:40, nearest transit: Princess Place Dr WB at 21st St, 494.05m away; Catch, Wilmington, visit from 09:10 to 10:00, ; Burgwin-Wright House and Gardens, Wilmington, visit from 10:30 to 14:00, ; Flaming Amy's Burrito Barn, Wilmington, visit from 14:30 to 15:30, ; Winnie's Tavern, Wilmington, visit from 19:31 to 20:46, ; The Native Garden Cottage, stay from 21:16 to 05:16, nearest transit: Princess Place Dr WB at 21st St, 494.05m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to New York",
+    "transportation": "Self-driving from Wilmington to New York, duration: 695.64, distance: 956.862, cost : 47.0",
+    "breakfast": "-",
+    "lunch": "The Anchor, Wilmington",
+    "dinner": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Native Garden Cottage, stay from 06:00 to 06:30, nearest transit: Princess Place Dr WB at 21st St, 494.05m away; Battleship North Carolina, Wilmington, visit from 09:00 to 12:30, ; The Anchor, Wilmington, visit from 14:30 to 15:30, ; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 19:31 to 20:46, "
+  }
+]

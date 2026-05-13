@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Santa Fe to Durango",
+    "transportation": "Self-driving from Santa Fe to Durango, duration: 284.2033333333333, distance: 390.1447, cost : 19.0",
+    "breakfast": "-",
+    "lunch": "Oscar's Cafe, Durango",
+    "dinner": "College Drive Cafe, Durango",
+    "attraction": "Historic Downtown Durango, Durango",
+    "accommodation": "Sleek, Modern Studio in the heart of downtown., Durango",
+    "event": "-",
+    "point_of_interest_list": "Sleek, Modern Studio in the heart of downtown., stay from 13:00 to 13:30, nearest transit: Main Ave. & 11th St., 56.06m away; Oscar's Cafe, Durango, visit from 14:00 to 15:00, ; Historic Downtown Durango, Durango, visit from 15:30 to 19:00, ; College Drive Cafe, Durango, visit from 20:45 to 22:14, ; Sleek, Modern Studio in the heart of downtown., stay from 22:44 to 06:44, nearest transit: Main Ave. & 11th St., 56.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Durango",
+    "transportation": "-",
+    "breakfast": "Durango Joe's Coffee on College Dr., Durango",
+    "lunch": "Bread, Durango",
+    "dinner": "Durango Diner, Durango",
+    "attraction": "-",
+    "accommodation": "Sleek, Modern Studio in the heart of downtown., Durango",
+    "event": "-",
+    "point_of_interest_list": "Sleek, Modern Studio in the heart of downtown., stay from 07:14 to 07:44, nearest transit: Main Ave. & 11th St., 56.06m away; Durango Joe's Coffee on College Dr., Durango, visit from 08:14 to 09:04, ; Bread, Durango, visit from 14:00 to 15:00, ; Durango Diner, Durango, visit from 20:45 to 23:30, ; Sleek, Modern Studio in the heart of downtown., stay from 00:00 to 08:00, nearest transit: Main Ave. & 11th St., 56.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Durango to Colorado Springs",
+    "transportation": "Self-driving from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost : 25.0",
+    "breakfast": "-",
+    "lunch": "81301 Coffee House and Roasters, Durango",
+    "dinner": "-",
+    "attraction": "Mild to Wild Rafting and Jeep Tours, Durango",
+    "accommodation": "Cozy Cottage by ManitouSpringsPikesPk/GardenofGods, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Sleek, Modern Studio in the heart of downtown., stay from 08:30 to 09:00, nearest transit: Main Ave. & 11th St., 56.06m away; Mild to Wild Rafting and Jeep Tours, Durango, visit from 10:04 to 13:34, ; 81301 Coffee House and Roasters, Durango, visit from 14:04 to 15:04, ; Cozy Cottage by ManitouSpringsPikesPk/GardenofGods, stay from 22:38 to 23:08, nearest transit: Robinson/Bott, 348.52m away; Cozy Cottage by ManitouSpringsPikesPk/GardenofGods, stay from 23:38 to 07:38, nearest transit: Robinson/Bott, 348.52m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Garden of the God's Market & Cafe, Colorado Springs",
+    "lunch": "Front Range Barbeque, Colorado Springs",
+    "dinner": "Caspian Cafe Mediterranean, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "Cozy Cottage by ManitouSpringsPikesPk/GardenofGods, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Cozy Cottage by ManitouSpringsPikesPk/GardenofGods, stay from 08:08 to 08:38, nearest transit: Robinson/Bott, 348.52m away; Garden of the God's Market & Cafe, Colorado Springs, visit from 09:08 to 09:58, ; Front Range Barbeque, Colorado Springs, visit from 13:59 to 14:59, ; Garden of the Gods, Colorado Springs, visit from 15:29 to 18:59, ; Caspian Cafe Mediterranean, Colorado Springs, visit from 19:29 to 20:44, ; Cozy Cottage by ManitouSpringsPikesPk/GardenofGods, stay from 23:39 to 07:39, nearest transit: Robinson/Bott, 348.52m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Colorado Springs to Santa Fe",
+    "transportation": "Self-driving from Colorado Springs to Santa Fe, duration: 336.54833333333335, distance: 522.037, cost : 26.0",
+    "breakfast": "Restaurant 1858, Colorado Springs",
+    "lunch": "Pizzeria Rustica, Colorado Springs",
+    "dinner": "Mountain Shadows Restaurant, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Cottage by ManitouSpringsPikesPk/GardenofGods, stay from 08:09 to 08:39, nearest transit: Robinson/Bott, 348.52m away; Restaurant 1858, Colorado Springs, visit from 09:09 to 09:59, ; Pizzeria Rustica, Colorado Springs, visit from 14:00 to 15:00, ; Seven Falls, Colorado Springs, visit from 15:30 to 19:00, ; Mountain Shadows Restaurant, Colorado Springs, visit from 19:30 to 20:45, "
+  }
+]

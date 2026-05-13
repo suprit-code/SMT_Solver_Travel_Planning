@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-23', '2024-11-25'],
+Transportation methods between cities: ['Flight Number: F1983288, from San Diego to Seattle, Departure Time: 13:50, Arrival Time: 17:02', 'Flight Number: F0346358, from Seattle to San Diego, Departure Time: 15:28, Arrival Time: 18:03'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Dough Zone Dumpling House - Seattle International District, Seattle', "The Butcher's Table, Seattle", 'Il Terrazzo Carmine, Seattle', "Salty's On Alki Beach, Seattle", 'Vons 1000 Spirits, Seattle', '-'],
+Attractions (1 per day): ['Museum of Pop Culture, Seattle', 'Klondike Gold Rush National Historical Park, Seattle', 'Pike Place Market, Seattle'],
+Accommodations (1 per city): ['Treehouse with a VIEW, Seattle']

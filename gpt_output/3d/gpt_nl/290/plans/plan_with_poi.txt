@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Fort Wayne",
+    "transportation": "Flight Number: F0373120, from Las Vegas to Fort Wayne, Departure Time: 23:24, Arrival Time: 06:06",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Airy Studio Near Downtown, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 06:36 to 07:06, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away; Airy Studio Near Downtown, stay from 07:36 to 08:00, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Fort Wayne",
+    "transportation": "-",
+    "breakfast": "Casa Ristorante, Fort Wayne",
+    "lunch": "Fort Wayne's Famous Coney Island, Fort Wayne",
+    "dinner": "800 Degrees Wood Fired Pizza, Fort Wayne",
+    "attraction": "-",
+    "accommodation": "Airy Studio Near Downtown, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 08:30 to 09:00, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away; Casa Ristorante, Fort Wayne, visit from 09:39 to 10:29, ; Fort Wayne's Famous Coney Island, Fort Wayne, visit from 14:30 to 15:30, ; 800 Degrees Wood Fired Pizza, Fort Wayne, visit from 19:31 to 20:46, ; Airy Studio Near Downtown, stay from 21:16 to 05:30, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Fort Wayne to Las Vegas",
+    "transportation": "Flight Number: F2558843, from Fort Wayne to Las Vegas, Departure Time: 13:16, Arrival Time: 14:01",
+    "breakfast": "Copper Spoon, Fort Wayne",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 06:00 to 06:30, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away; Copper Spoon, Fort Wayne, visit from 08:00 to 08:50, "
+  }
+]

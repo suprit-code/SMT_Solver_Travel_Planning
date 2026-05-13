@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Reno",
+    "transportation": "Flight Number: F1227826, from Chicago to Reno, Departure Time: 20:09, Arrival Time: 22:12",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy, modern retreat steps from Midtown & Hospital, Reno",
+    "event": "-",
+    "point_of_interest_list": "Cozy, modern retreat steps from Midtown & Hospital, stay from 22:42 to 23:12, nearest transit: Kirman Avenue and Moran Street, 105.13m away; Cozy, modern retreat steps from Midtown & Hospital, stay from 23:42 to 07:42, nearest transit: Kirman Avenue and Moran Street, 105.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Reno",
+    "transportation": "-",
+    "breakfast": "Pho 777 Vietnamese Restaurant, Reno",
+    "lunch": "Smee's Alaskan Fish Bar, Reno",
+    "dinner": "Bertha Miranda's Mexican Restaurant, Reno",
+    "attraction": "-",
+    "accommodation": "Cozy, modern retreat steps from Midtown & Hospital, Reno",
+    "event": "-",
+    "point_of_interest_list": "Cozy, modern retreat steps from Midtown & Hospital, stay from 08:12 to 08:42, nearest transit: Kirman Avenue and Moran Street, 105.13m away; Pho 777 Vietnamese Restaurant, Reno, visit from 09:12 to 10:02, ; Smee's Alaskan Fish Bar, Reno, visit from 14:03 to 15:03, ; Bertha Miranda's Mexican Restaurant, Reno, visit from 19:04 to 20:19, ; Cozy, modern retreat steps from Midtown & Hospital, stay from 20:49 to 22:36, nearest transit: Kirman Avenue and Moran Street, 105.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Reno to Chicago",
+    "transportation": "Flight Number: F3896509, from Reno to Chicago, Departure Time: 00:06, Arrival Time: 05:55",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy, modern retreat steps from Midtown & Hospital, stay from 23:06 to 23:36, nearest transit: Kirman Avenue and Moran Street, 105.13m away"
+  }
+]

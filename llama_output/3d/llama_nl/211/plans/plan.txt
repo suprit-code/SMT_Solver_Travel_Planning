@@ -1,0 +1,6 @@
+Destination cities: ['Tampa'],
+Transportation dates: ['2024-11-18', '2024-11-20'],
+Transportation methods between cities: ['Self-driving, from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost: 52', 'Self-driving, from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost: 51'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Bernini Restaurant, Tampa', "Eddie V's Prime Seafood, Tampa", 'Oystercatchers, Tampa', 'Curry Leaves Indian Cuisine, Tampa', 'Rusty Pelican Tampa, Tampa', "Bern's Steak House, Tampa"],
+Attractions (1 per day): ['-', 'Bayshore Boulevard, Tampa', 'ZooTampa At Lowry Park, Tampa'],
+Accommodations (1 per city): ['Downtown Tampa Pool House! Walk to Armature Works!, Tampa']

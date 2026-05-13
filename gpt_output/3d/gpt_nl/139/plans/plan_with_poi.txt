@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Hartford",
+    "transportation": "Flight Number: F0554770, from Denver to Hartford, Departure Time: 18:09, Arrival Time: 23:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Loft - Queen Anne Row House in a historic district, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Loft - Queen Anne Row House in a historic district, stay from 23:57 to 00:27, nearest transit: Hartford, 1037.54m away; Loft - Queen Anne Row House in a historic district, stay from 00:57 to 08:00, nearest transit: Hartford, 1037.54m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "J Restaurant Bar, Hartford",
+    "lunch": "The Capital Grille, Hartford",
+    "dinner": "Max's Oyster Bar, Hartford",
+    "attraction": "-",
+    "accommodation": "Loft - Queen Anne Row House in a historic district, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Loft - Queen Anne Row House in a historic district, stay from 08:30 to 09:00, nearest transit: Hartford, 1037.54m away; J Restaurant Bar, Hartford, visit from 09:39 to 10:29, ; The Capital Grille, Hartford, visit from 14:30 to 15:30, ; Max's Oyster Bar, Hartford, visit from 19:31 to 20:46, ; Loft - Queen Anne Row House in a historic district, stay from 21:16 to 05:16, nearest transit: Hartford, 1037.54m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Denver",
+    "transportation": "Flight Number: F2422057, from Hartford to Denver, Departure Time: 06:55, Arrival Time: 09:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Loft - Queen Anne Row House in a historic district, stay from 05:55 to 06:25, nearest transit: Hartford, 1037.54m away"
+  }
+]

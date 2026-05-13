@@ -1,0 +1,47 @@
+
+    # Run TaxiSearch to get taxi info for Des Moines as origin and city_0
+    taxi_info = TaxiSearch(origin="Des Moines", destination="city_0")
+    
+    # Get specific taxi price info with Des Moines as origin and final destination, specific city, and departure date for 2 transportations
+    taxi_prices = []
+    for i in range(2):
+        taxi_price = taxi_info.get_taxi_price(origin="Des Moines", destination="city_0", city="specific_city", departure_date="2024-07-26")
+        taxi_prices.append(taxi_price)
+    
+    # Set 'taxi_index' variable for 2 transportations
+    taxi_indices = []
+    for i in range(2):
+        taxi_index = -1  # assuming taxi is not taken
+        taxi_indices.append(taxi_index)
+    
+    # Assert 2 'taxi_index' variables are within valid range if taking taxi, assert taxi index to be -1 if not taking taxi
+    for i in range(2):
+        if taxi_indices[i]!= -1:
+            assert 0 <= taxi_indices[i] < len(taxi_prices), "Taxi index is out of range"
+        else:
+            assert taxi_indices[i] == -1, "Taxi index should be -1 if not taking taxi"
+    
+    # Calculate taxi price for 7 people for 2 transportations based on taxi index variable
+    taxi_prices_7_people = []
+    for i in range(2):
+        if taxi_indices[i]!= -1:
+            taxi_price_7_people = taxi_prices[taxi_indices[i]] * 7
+            taxi_prices_7_people.append(taxi_price_7_people)
+        else:
+            taxi_prices_7_people.append(0)
+    
+    # Get specific taxi arrival time info with Des Moines as origin and final destination, specific city, and departure date for 2 transportations
+    taxi_arrival_times = []
+    for i in range(2):
+        taxi_arrival_time = taxi_info.get_taxi_arrival_time(origin="Des Moines", destination="city_0", city="specific_city", departure_date="2024-07-26")
+        taxi_arrival_times.append(taxi_arrival_time)
+    
+    # Calculate taxi arrival time for 2 transportations based on taxi index variable
+    taxi_arrival_times_7_people = []
+    for i in range(2):
+        if taxi_indices[i]!= -1:
+            taxi_arrival_time_7_people = taxi_arrival_times[taxi_indices[i]] + (taxi_prices[taxi_indices[i]] * 7) / 60  # assuming 60 minutes per dollar
+            taxi_arrival_times_7_people.append(taxi_arrival_time_7_people)
+        else:
+            taxi_arrival_times_7_people.append(0)
+    

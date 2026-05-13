@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Newburgh to Savannah",
+    "transportation": "Taxi from Newburgh to Savannah, duration: 993.655, distance: 1386.7442, cost : 1386.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Starlander Ltd.: The Coffee Suite, w/ private bath, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Starlander Ltd.: The Coffee Suite, w/ private bath, stay from 23:03 to 23:33, nearest transit: 40th & HABERSHAM EB, 40.35m away; Starlander Ltd.: The Coffee Suite, w/ private bath, stay from 00:03 to 08:00, nearest transit: 40th & HABERSHAM EB, 40.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Vinnie Van Go-Go's, Savannah",
+    "lunch": "Noble Fare, Savannah",
+    "dinner": "Belford's Savannah, Savannah",
+    "attraction": "-",
+    "accommodation": "Starlander Ltd.: The Coffee Suite, w/ private bath, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Starlander Ltd.: The Coffee Suite, w/ private bath, stay from 08:30 to 09:00, nearest transit: 40th & HABERSHAM EB, 40.35m away; Vinnie Van Go-Go's, Savannah, visit from 09:39 to 10:29, ; Noble Fare, Savannah, visit from 14:30 to 15:30, ; Belford's Savannah, Savannah, visit from 20:45 to 22:39, ; Starlander Ltd.: The Coffee Suite, w/ private bath, stay from 23:09 to 07:09, nearest transit: 40th & HABERSHAM EB, 40.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Newburgh",
+    "transportation": "Taxi from Savannah to Newburgh, duration: 989.985, distance: 1384.401, cost : 1384.0",
+    "breakfast": "Little Duck Diner, Savannah",
+    "lunch": "17 Hundred 90 Restaurant, Savannah",
+    "dinner": "Rocks on the Roof, Savannah",
+    "attraction": "Skidaway Island State Park, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Starlander Ltd.: The Coffee Suite, w/ private bath, stay from 07:39 to 08:09, nearest transit: 40th & HABERSHAM EB, 40.35m away; Little Duck Diner, Savannah, visit from 08:39 to 09:29, ; Skidaway Island State Park, Savannah, visit from 09:59 to 13:29, ; 17 Hundred 90 Restaurant, Savannah, visit from 13:59 to 14:59, ; Rocks on the Roof, Savannah, visit from 19:00 to 20:15, "
+  }
+]

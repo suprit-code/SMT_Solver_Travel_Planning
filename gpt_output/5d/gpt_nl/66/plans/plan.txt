@@ -1,0 +1,6 @@
+Destination cities: ['Nashville', 'Bristol'],
+Transportation dates: ['2024-11-10', '2024-11-12', '2024-11-14'],
+Transportation methods between cities: ['Self-driving, from Baltimore to Nashville, duration: 779.3066666666667, distance: 1129.8348, cost: 56', 'Self-driving, from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost: 23', 'Self-driving, from Bristol to Baltimore, duration: 465.6233333333333, distance: 665.7021, cost: 33'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Bourbon Street Blues and Boogie Bar, Nashville', "Harriet's Rooftop, Nashville", 'Henley, Nashville', 'Aquarium Restaurant, Nashville', 'The Stillery, Nashville', "Puckett's 5th & Church, Nashville", 'Little Bristol Beach Bar, Bristol', 'Raj, Bristol', 'Bravas, Bristol', 'Urban Tandoor, Bristol', 'Baba Ganoush Kitchen - Jerusalem Falafel, Bristol', 'Eat a Pitta, Bristol'],
+Attractions (1 per day): ['-', 'Belmont Mansion, Nashville', 'Ole Smoky Distillery & Yee-Haw Brewery, Nashville', 'Bristol Museum & Art Gallery, Bristol', 'Wills Memorial Building And Tower Tours, Bristol'],
+Accommodations (1 per city): ['Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville', 'The Budget Friendly Rest Easy (I-81 exit 5), Bristol']

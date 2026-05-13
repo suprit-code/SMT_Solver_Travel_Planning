@@ -1,0 +1,11 @@
+
+    # Run HouseRuleSearch to get house rules info for city_0
+    house_rules = HouseRuleSearch(city_0)
+    
+    # Set 'house_rule' variable for 1 (1 per city) house rules
+    house_rule = house_rules[0]
+    
+    # For each 'house_rule' variable, assert 'No visitors' is not allowed
+    for rule in house_rules:
+        assert 'No visitors' not in rule
+    

@@ -1,0 +1,6 @@
+Destination cities: ['San Francisco'],
+Transportation dates: ['2024-11-01', '2024-11-03'],
+Transportation methods between cities: ['Flight Number: F3274088, from Miami to San Francisco, Departure Time: 08:41, Arrival Time: 11:43', 'Flight Number: F1938562, from San Francisco to Miami, Departure Time: 13:15, Arrival Time: 21:35'],
+Restaurants (3 meals per day): ['-', '-', "Mo's Grill, San Francisco", "Luisa's Restaurant Wine Bar Since 1959, San Francisco", 'The Codmother Fish & Chips, San Francisco', 'Good Mong Kok Bakery, San Francisco', 'Capital Restaurant, San Francisco', 'Fog Harbor Fish House, San Francisco', '-'],
+Attractions (1 per day): ['Cable Car Museum, San Francisco', 'Walt Disney Family Museum, San Francisco', 'California Academy of Sciences, San Francisco'],
+Accommodations (1 per city): ['Single Bed in 4-Bed Female Capsule Room, San Francisco']

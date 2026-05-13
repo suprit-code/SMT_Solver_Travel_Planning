@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Bend to Las Vegas",
+    "transportation": "Taxi from Bend to Las Vegas, duration: 929.025, distance: 1318.6475, cost : 1318.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Studio 100% Private-Just 10 min. to Strip, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Studio 100% Private-Just 10 min. to Strip, stay from 22:34 to 23:04, nearest transit: The Strat, 3652.49m away; Studio 100% Private-Just 10 min. to Strip, stay from 23:34 to 07:34, nearest transit: The Strat, 3652.49m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Garden Court, Las Vegas",
+    "lunch": "Vic & Anthony's Steakhouse, Las Vegas",
+    "dinner": "Ameribrunch Cafe, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "Studio 100% Private-Just 10 min. to Strip, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Studio 100% Private-Just 10 min. to Strip, stay from 08:04 to 08:34, nearest transit: The Strat, 3652.49m away; Garden Court, Las Vegas, visit from 09:04 to 09:59, ; Vic & Anthony's Steakhouse, Las Vegas, visit from 14:00 to 15:00, ; Bellagio Conservatory & Botanical Garden, Las Vegas, visit from 15:30 to 19:00, ; Ameribrunch Cafe, Las Vegas, visit from 19:30 to 20:45, ; Studio 100% Private-Just 10 min. to Strip, stay from 23:40 to 07:40, nearest transit: The Strat, 3652.49m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Bend",
+    "transportation": "Taxi from Las Vegas to Bend, duration: 929.785, distance: 1318.8264, cost : 1318.0",
+    "breakfast": "Mr. Mamas, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "attraction": "The Mob Museum, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Studio 100% Private-Just 10 min. to Strip, stay from 08:10 to 08:40, nearest transit: The Strat, 3652.49m away; Mr. Mamas, Las Vegas, visit from 09:10 to 10:00, ; The Mob Museum, Las Vegas, visit from 10:30 to 14:00, ; Eggscellent, Las Vegas, visit from 14:30 to 15:30, ; Gordon Ramsay Hell's Kitchen, Las Vegas, visit from 19:31 to 20:46, "
+  }
+]

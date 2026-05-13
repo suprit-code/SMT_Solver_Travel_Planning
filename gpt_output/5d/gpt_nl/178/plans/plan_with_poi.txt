@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to New York",
+    "transportation": "Flight Number: F0261275, from Ontario to New York, Departure Time: 01:28, Arrival Time: 09:38",
+    "breakfast": "-",
+    "lunch": "Gallaghers Steakhouse, New York",
+    "dinner": "Del Frisco's Double Eagle Steakhouse, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "NYC Bliss | Sightseeing. Fitness Center, New York",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 10:08 to 10:38, nearest transit: W 34 ST/BROADWAY, 60.68m away; Gallaghers Steakhouse, New York, visit from 12:00 to 13:00, ; Central Park, New York, visit from 15:00 to 18:30, ; Del Frisco's Double Eagle Steakhouse, New York, visit from 19:00 to 20:15, ; NYC Bliss | Sightseeing. Fitness Center, stay from 21:30 to 05:30, nearest transit: W 34 ST/BROADWAY, 60.68m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Manhatta, New York",
+    "lunch": "BOOM, New York",
+    "dinner": "Peak Restaurant & Bar, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "NYC Bliss | Sightseeing. Fitness Center, New York",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 06:00 to 06:30, nearest transit: W 34 ST/BROADWAY, 60.68m away; Manhatta, New York, visit from 08:39 to 10:00, ; The High Line, New York, visit from 10:30 to 14:00, ; BOOM, New York, visit from 14:30 to 15:30, ; Peak Restaurant & Bar, New York, visit from 19:31 to 21:00, ; NYC Bliss | Sightseeing. Fitness Center, stay from 21:30 to 05:30, nearest transit: W 34 ST/BROADWAY, 60.68m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Rochester",
+    "transportation": "Taxi from New York to Rochester, duration: 404.6833333333333, distance: 511.5847, cost : 511.0",
+    "breakfast": "Del Frisco's Grille, New York",
+    "lunch": "Harry's, New York",
+    "dinner": "-",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "Seahorse House, Charlotte Beach, Rochester, NY, Rochester",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 06:00 to 06:30, nearest transit: W 34 ST/BROADWAY, 60.68m away; Del Frisco's Grille, New York, visit from 08:00 to 08:50, ; The Metropolitan Museum of Art, New York, visit from 09:20 to 12:50, ; Harry's, New York, visit from 13:20 to 14:20, ; Seahorse House, Charlotte Beach, Rochester, NY, stay from 22:05 to 22:35, nearest transit: Winona 61 & Hwy. 14, 1136951.56m away; Seahorse House, Charlotte Beach, Rochester, NY, stay from 23:29 to 07:29, nearest transit: Winona 61 & Hwy. 14, 1136951.56m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Rochester",
+    "transportation": "-",
+    "breakfast": "Rooney's Restaurant, Rochester",
+    "lunch": "Hunan Garden, Rochester",
+    "dinner": "Genesee Brew House, Rochester",
+    "attraction": "Rochester Castle, Rochester",
+    "accommodation": "Seahorse House, Charlotte Beach, Rochester, NY, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Seahorse House, Charlotte Beach, Rochester, NY, stay from 07:59 to 08:29, nearest transit: Winona 61 & Hwy. 14, 1136951.56m away; Rooney's Restaurant, Rochester, visit from 08:59 to 09:49, ; Hunan Garden, Rochester, visit from 13:50 to 14:50, ; Rochester Castle, Rochester, visit from 15:20 to 18:50, ; Genesee Brew House, Rochester, visit from 19:20 to 20:35, ; Seahorse House, Charlotte Beach, Rochester, NY, stay from 22:30 to 06:30, nearest transit: Winona 61 & Hwy. 14, 1136951.56m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Rochester to Ontario",
+    "transportation": "Taxi from Rochester to Ontario, duration: 30.27833333333333, distance: 32.2007, cost : 32.0",
+    "breakfast": "Dinosaur Bar-B-Que, Rochester",
+    "lunch": "Les Bouchons Rochester, Rochester",
+    "dinner": "Savoia Pastry Shoppe, Rochester",
+    "attraction": "Guildhall Museum, Rochester",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Seahorse House, Charlotte Beach, Rochester, NY, stay from 07:00 to 07:30, nearest transit: Winona 61 & Hwy. 14, 1136951.56m away; Dinosaur Bar-B-Que, Rochester, visit from 08:00 to 08:50, ; Guildhall Museum, Rochester, visit from 09:20 to 12:50, ; Les Bouchons Rochester, Rochester, visit from 14:30 to 15:30, ; Savoia Pastry Shoppe, Rochester, visit from 19:31 to 20:46, "
+  }
+]

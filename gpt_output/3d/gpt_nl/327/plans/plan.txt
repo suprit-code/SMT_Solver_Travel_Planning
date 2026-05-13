@@ -1,0 +1,6 @@
+Destination cities: ['Nashville'],
+Transportation dates: ['2024-11-25', '2024-11-27'],
+Transportation methods between cities: ['Flight Number: F3582435, from Sioux Falls to Nashville, Departure Time: 14:56, Arrival Time: 16:48', 'Self-driving, from Nashville to Sioux Falls, duration: 1007.0416666666666, distance: 1481.2943, cost: 74'],
+Restaurants (3 meals per day): ['-', '-', "Jeff Ruby's Steakhouse, Nashville, Nashville", 'The Standard, Nashville', 'The Catbird Seat, Nashville', 'Kayne Prime, Nashville', 'Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville', 'Deacon’s New South, Nashville', 'Old Hickory Steakhouse, Nashville'],
+Attractions (1 per day): ['Cheekwood, Nashville', 'Belmont Mansion, Nashville', 'Gaylord Opryland Garden Conservatory, Nashville'],
+Accommodations (1 per city): ['Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville']

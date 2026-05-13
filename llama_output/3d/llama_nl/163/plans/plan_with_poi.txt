@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Kansas City",
+    "transportation": "Flight Number: F2533199, from Detroit to Kansas City, Departure Time: 08:22, Arrival Time: 09:08",
+    "breakfast": "-",
+    "lunch": "The Big Biscuit, Kansas City",
+    "dinner": "801 Chophouse, Kansas City",
+    "attraction": "Country Club Plaza, Kansas City",
+    "accommodation": "Beautiful large King bedroom with luxury bedding, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Beautiful large King bedroom with luxury bedding, stay from 09:38 to 11:30, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away; The Big Biscuit, Kansas City, visit from 12:00 to 14:30, ; Country Club Plaza, Kansas City, visit from 15:00 to 18:30, ; 801 Chophouse, Kansas City, visit from 19:00 to 20:15, ; Beautiful large King bedroom with luxury bedding, stay from 20:45 to 07:21, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Chaz on the Plaza, Kansas City",
+    "lunch": "Pierpont's at Union Station, Kansas City",
+    "dinner": "KC Chop House, Kansas City",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "Beautiful large King bedroom with luxury bedding, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Beautiful large King bedroom with luxury bedding, stay from 07:51 to 08:21, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away; Chaz on the Plaza, Kansas City, visit from 08:51 to 09:41, ; Tom's Town Distilling Co., Kansas City, visit from 10:11 to 13:41, ; Pierpont's at Union Station, Kansas City, visit from 14:11 to 15:11, ; KC Chop House, Kansas City, visit from 19:12 to 20:27, ; Beautiful large King bedroom with luxury bedding, stay from 20:57 to 04:57, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Detroit",
+    "transportation": "Flight Number: F2079846, from Kansas City to Detroit, Departure Time: 06:27, Arrival Time: 09:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful large King bedroom with luxury bedding, stay from 05:27 to 05:57, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away"
+  }
+]

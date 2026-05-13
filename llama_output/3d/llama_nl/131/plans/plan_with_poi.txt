@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Charleston",
+    "transportation": "Flight Number: F2512613, from Detroit to Charleston, Departure Time: 10:04, Arrival Time: 12:20",
+    "breakfast": "-",
+    "lunch": "Amen Street Fish & Raw Bar, Charleston",
+    "dinner": "Frannie & The Fox, Charleston",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "Historic City Charm | Private Modern Luxe, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Historic City Charm | Private Modern Luxe, stay from 12:50 to 13:20, nearest transit: Wentworth St / Coming St, 469.86m away; Amen Street Fish & Raw Bar, Charleston, visit from 13:50 to 15:00, ; Charleston Waterfront Park, Charleston, visit from 15:30 to 20:15, ; Frannie & The Fox, Charleston, visit from 20:45 to 22:57, ; Historic City Charm | Private Modern Luxe, stay from 23:27 to 07:27, nearest transit: Wentworth St / Coming St, 469.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Hank's Seafood Restaurant, Charleston",
+    "lunch": "Poogan's Porch, Charleston",
+    "dinner": "Charleston Crab House-Market Street, Charleston",
+    "attraction": "Middleton Place, Charleston",
+    "accommodation": "Historic City Charm | Private Modern Luxe, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Historic City Charm | Private Modern Luxe, stay from 07:57 to 08:27, nearest transit: Wentworth St / Coming St, 469.86m away; Hank's Seafood Restaurant, Charleston, visit from 08:57 to 09:47, ; Poogan's Porch, Charleston, visit from 13:48 to 14:48, ; Middleton Place, Charleston, visit from 15:18 to 18:48, ; Charleston Crab House-Market Street, Charleston, visit from 20:45 to 23:10, ; Historic City Charm | Private Modern Luxe, stay from 23:40 to 07:40, nearest transit: Wentworth St / Coming St, 469.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Detroit",
+    "transportation": "Taxi from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost : 1366.0",
+    "breakfast": "Gingerline, Charleston",
+    "lunch": "High Cotton Charleston, Charleston",
+    "dinner": "The Ordinary, Charleston",
+    "attraction": "Battery & White Point Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic City Charm | Private Modern Luxe, stay from 08:10 to 08:40, nearest transit: Wentworth St / Coming St, 469.86m away; Gingerline, Charleston, visit from 09:10 to 10:00, ; Battery & White Point Gardens, Charleston, visit from 10:30 to 14:00, ; High Cotton Charleston, Charleston, visit from 14:30 to 15:30, ; The Ordinary, Charleston, visit from 19:31 to 20:46, "
+  }
+]

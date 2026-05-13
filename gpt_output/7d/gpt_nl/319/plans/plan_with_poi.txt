@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Mission to Nashville",
+    "transportation": "Taxi from Mission to Nashville, duration: 1263.165, distance: 1916.6776, cost : 1916.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 03:33 to 04:03, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; The Stewart House in 12th South - Half House, stay from 04:33 to 08:00, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "lunch": "Henley, Nashville",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "-",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 08:30 to 09:00, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 09:39 to 10:29, ; Henley, Nashville, visit from 14:30 to 15:30, ; Aquarium Restaurant, Nashville, visit from 19:45 to 21:00, ; The Stewart House in 12th South - Half House, stay from 21:30 to 05:30, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Chattanooga",
+    "transportation": "Taxi from Nashville to Chattanooga, duration: 148.23666666666668, distance: 211.4268, cost : 211.0",
+    "breakfast": "Kayne Prime, Nashville",
+    "lunch": "Luogo, Nashville",
+    "dinner": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "attraction": "Nashville Parthenon, Nashville",
+    "accommodation": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 06:00 to 06:30, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; Kayne Prime, Nashville, visit from 08:00 to 08:50, ; Nashville Parthenon, Nashville, visit from 09:20 to 14:00, ; Luogo, Nashville, visit from 14:30 to 15:30, ; *RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 18:58 to 19:28, nearest transit: MAIN + RIVERFRONT, 3475.51m away; The Purple Daisy Picnic Cafe, Chattanooga, visit from 19:58 to 21:13, ; *RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 22:35 to 06:35, nearest transit: MAIN + RIVERFRONT, 3475.51m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Mayan Kitchen, Chattanooga",
+    "lunch": "Public House, Chattanooga",
+    "dinner": "Frothy Monkey, Chattanooga",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 07:05 to 07:35, nearest transit: MAIN + RIVERFRONT, 3475.51m away; Mayan Kitchen, Chattanooga, visit from 08:05 to 08:55, ; Tennessee Valley Railroad Museum, Chattanooga, visit from 09:25 to 12:55, ; Public House, Chattanooga, visit from 14:30 to 15:30, ; Frothy Monkey, Chattanooga, visit from 19:31 to 20:46, ; *RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 21:16 to 05:30, nearest transit: MAIN + RIVERFRONT, 3475.51m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Chattanooga to Memphis",
+    "transportation": "Taxi from Chattanooga to Memphis, duration: 376.3683333333333, distance: 547.2609, cost : 547.0",
+    "breakfast": "Mellow Mushroom Chattanooga, Chattanooga",
+    "lunch": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "dinner": "-",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Super Central Location! Historic but Modern!, Memphis",
+    "event": "-",
+    "point_of_interest_list": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 06:00 to 06:30, nearest transit: MAIN + RIVERFRONT, 3475.51m away; Mellow Mushroom Chattanooga, Chattanooga, visit from 08:00 to 08:50, ; Coolidge Park, Chattanooga, visit from 09:20 to 12:50, ; Maple Street Biscuit Company - City Center, Chattanooga, visit from 13:20 to 14:20, ; Super Central Location! Historic but Modern!, stay from 21:36 to 22:06, nearest transit: HULING-MAIN/TRO SB, 250.55m away; Super Central Location! Historic but Modern!, stay from 22:51 to 06:51, nearest transit: HULING-MAIN/TRO SB, 250.55m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Memphis",
+    "transportation": "-",
+    "breakfast": "The Soul Fish Cafe Inc, Memphis",
+    "lunch": "Payne's Bar-B-Que, Memphis",
+    "dinner": "Itta Bena, Memphis",
+    "attraction": "Stax Museum of American Soul Music, Memphis",
+    "accommodation": "Super Central Location! Historic but Modern!, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Super Central Location! Historic but Modern!, stay from 07:21 to 07:51, nearest transit: HULING-MAIN/TRO SB, 250.55m away; The Soul Fish Cafe Inc, Memphis, visit from 09:10 to 10:00, ; Stax Museum of American Soul Music, Memphis, visit from 10:30 to 14:00, ; Payne's Bar-B-Que, Memphis, visit from 14:30 to 15:30, ; Itta Bena, Memphis, visit from 19:45 to 21:00, ; Super Central Location! Historic but Modern!, stay from 21:30 to 05:30, nearest transit: HULING-MAIN/TRO SB, 250.55m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Memphis to Mission",
+    "transportation": "Taxi from Memphis to Mission, duration: 1024.8366666666666, distance: 1481.7513, cost : 1481.0",
+    "breakfast": "The BBQ Shop, Memphis",
+    "lunch": "Memphis Blues Barbeque House, Memphis",
+    "dinner": "Central BBQ, Memphis",
+    "attraction": "National Civil Rights Museum - Lorraine Motel, Memphis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Super Central Location! Historic but Modern!, stay from 06:00 to 06:30, nearest transit: HULING-MAIN/TRO SB, 250.55m away; The BBQ Shop, Memphis, visit from 08:00 to 08:50, ; Memphis Blues Barbeque House, Memphis, visit from 12:51 to 13:51, ; National Civil Rights Museum - Lorraine Motel, Memphis, visit from 14:21 to 17:51, ; Central BBQ, Memphis, visit from 19:00 to 20:15, "
+  }
+]

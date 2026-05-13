@@ -1,0 +1,15 @@
+
+    # Set house rules to be ['No children under 10']
+    house_rules = ['No children under 10']
+    
+    # For each house rule, assert it is satisfied
+    for rule in house_rules:
+        # Assume we have a function to check if the rule is satisfied
+        def is_rule_satisfied(rule):
+            # For this example, we'll assume the rule is satisfied if it's a string
+            return isinstance(rule, str)
+        
+        assert is_rule_satisfied(rule), f"House rule '{rule}' is not satisfied"
+    
+    
+    In this example, we first define the `house_rules` list. Then, we use a `for` loop to iterate over each rule in the list. Inside the loop, we define a function `is_rule_satisfied` that checks if a given rule is satisfied (in this case, we're just checking if it's a string). We then use the `assert` statement to check if the rule is satisfied, and if not, we print an error message.

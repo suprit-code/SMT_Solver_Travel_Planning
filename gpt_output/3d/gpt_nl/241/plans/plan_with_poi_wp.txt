@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Santa Fe",
+    "transportation": "Flight Number: F2624236, from Denver to Santa Fe, Departure Time: 13:27, Arrival Time: 14:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Palacio Restaurant, Santa Fe",
+    "attraction": "-",
+    "accommodation": "Cactus Bdrm- Ray's Country Gardens, Santa Fe",
+    "event": "-",
+    "point_of_interest_list": "Cactus Bdrm- Ray's Country Gardens, stay from 14:59 to 15:29, nearest transit: Agua Fria @ Camino Maria Feliz IB, 1234.77m away; Palacio Restaurant, Santa Fe, visit from 19:00 to 21:00, ; Cactus Bdrm- Ray's Country Gardens, stay from 21:30 to 05:30, nearest transit: Agua Fria @ Camino Maria Feliz IB, 1234.77m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Santa Fe",
+    "transportation": "-",
+    "breakfast": "Tia Sophia's, Santa Fe",
+    "lunch": "India House, Santa Fe",
+    "dinner": "Clafoutis, Santa Fe",
+    "attraction": "The Cathedral Basilica of St. Francis of Assisi, Santa Fe",
+    "accommodation": "Cactus Bdrm- Ray's Country Gardens, Santa Fe",
+    "event": "-",
+    "point_of_interest_list": "Cactus Bdrm- Ray's Country Gardens, stay from 06:00 to 06:30, nearest transit: Agua Fria @ Camino Maria Feliz IB, 1234.77m away; Tia Sophia's, Santa Fe, visit from 08:14 to 09:04, ; India House, Santa Fe, visit from 14:00 to 15:00, ; The Cathedral Basilica of St. Francis of Assisi, Santa Fe, visit from 15:30 to 19:00, ; Clafoutis, Santa Fe, visit from 19:30 to 20:45, ; Cactus Bdrm- Ray's Country Gardens, stay from 22:30 to 06:30, nearest transit: Agua Fria @ Camino Maria Feliz IB, 1234.77m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Santa Fe to Denver",
+    "transportation": "Self-driving from Santa Fe to Denver, duration: 412.9866666666667, distance: 631.7925, cost : 31.0",
+    "breakfast": "La Boca, Santa Fe",
+    "lunch": "Rustica Fresh Italian Kitchen, Santa Fe",
+    "dinner": "Osteria D' Assissi, Santa Fe",
+    "attraction": "Canyon Road, Santa Fe",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cactus Bdrm- Ray's Country Gardens, stay from 07:00 to 07:30, nearest transit: Agua Fria @ Camino Maria Feliz IB, 1234.77m away; La Boca, Santa Fe, visit from 08:00 to 08:50, ; Canyon Road, Santa Fe, visit from 09:20 to 12:50, ; Rustica Fresh Italian Kitchen, Santa Fe, visit from 13:20 to 14:20, ; Osteria D' Assissi, Santa Fe, visit from 19:00 to 20:15, "
+  }
+]

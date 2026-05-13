@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F2944110, from Atlanta to San Diego, Departure Time: 10:57, Arrival Time: 12:23",
+    "breakfast": "-",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 12:53 to 13:23, nearest transit: Ulric St & Tait St, 283.34m away; Mimmo's, San Diego, visit from 13:53 to 14:53, ; SeaWorld, San Diego, visit from 15:30 to 20:15, ; Morning Glory, San Diego, visit from 20:45 to 22:40, ; No contact with host, separate, and close to town!, stay from 23:10 to 07:10, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Las Hadas Grill, San Diego",
+    "lunch": "Din Tai Fung, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 07:40 to 08:10, nearest transit: Ulric St & Tait St, 283.34m away; Las Hadas Grill, San Diego, visit from 08:40 to 09:59, ; Din Tai Fung, San Diego, visit from 14:00 to 15:00, ; San Diego Zoo, San Diego, visit from 15:30 to 19:00, ; Born & Raised, San Diego, visit from 19:30 to 20:45, ; No contact with host, separate, and close to town!, stay from 21:15 to 05:15, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Vessel Restaurant + Bar, San Diego",
+    "lunch": "-",
+    "dinner": "Tower Cafe, Sacramento",
+    "attraction": "-",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 06:00 to 06:30, nearest transit: Ulric St & Tait St, 283.34m away; Vessel Restaurant + Bar, San Diego, visit from 08:00 to 08:50, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 19:11 to 19:41, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Tower Cafe, Sacramento, visit from 20:11 to 21:26, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 21:56 to 05:56, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Grange Restaurant & Bar, Sacramento",
+    "lunch": "Paragary's, Sacramento",
+    "dinner": "Revival, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 06:26 to 06:56, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Grange Restaurant & Bar, Sacramento, visit from 08:05 to 08:55, ; California State Capitol Museum, Sacramento, visit from 09:25 to 12:55, ; Paragary's, Sacramento, visit from 14:30 to 15:30, ; Revival, Sacramento, visit from 19:31 to 20:46, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 21:16 to 05:16, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Flight Number: F3390091, from Sacramento to Los Angeles, Departure Time: 19:55, Arrival Time: 21:41",
+    "breakfast": "-",
+    "lunch": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Cozy Private Room In LA., Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 06:00 to 06:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Capitol Park, Sacramento, visit from 09:00 to 14:00, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 14:30 to 19:25, ; Cozy Private Room In LA., stay from 22:11 to 22:41, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Cozy Private Room In LA., stay from 23:11 to 07:11, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Republique, Los Angeles",
+    "lunch": "Ayara Thai Cuisine, Los Angeles",
+    "dinner": "Musso & Frank Grill, Los Angeles",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "Cozy Private Room In LA., Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 07:41 to 08:11, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Republique, Los Angeles, visit from 09:10 to 10:00, ; Griffith Park, Los Angeles, visit from 10:30 to 14:00, ; Ayara Thai Cuisine, Los Angeles, visit from 14:30 to 15:30, ; Musso & Frank Grill, Los Angeles, visit from 19:31 to 20:46, ; Cozy Private Room In LA., stay from 21:16 to 05:16, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Atlanta",
+    "transportation": "Flight Number: F3490019, from Los Angeles to Atlanta, Departure Time: 09:23, Arrival Time: 16:42",
+    "breakfast": "Yang Chow, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 06:00 to 06:30, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Yang Chow, Los Angeles, visit from 08:00 to 08:50, "
+  }
+]

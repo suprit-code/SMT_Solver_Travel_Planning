@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Amarillo",
+    "transportation": "Taxi from Oklahoma City to Amarillo, duration: 268.945, distance: 415.9372, cost : 415.0",
+    "breakfast": "-",
+    "lunch": "Texas Roadhouse, Amarillo",
+    "dinner": "Green Chile Willy's Grill, Amarillo",
+    "attraction": "Amarillo Museum of Art, Amarillo",
+    "accommodation": "The Pristine House, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Pristine House, stay from 10:58 to 11:28, nearest transit: S Georgia St & Curtis Dr (Amarillo National Bank), 871.29m away; Texas Roadhouse, Amarillo, visit from 12:00 to 13:00, ; Amarillo Museum of Art, Amarillo, visit from 15:00 to 18:30, ; Green Chile Willy's Grill, Amarillo, visit from 19:00 to 20:15, ; The Pristine House, stay from 20:45 to 04:45, nearest transit: S Georgia St & Curtis Dr (Amarillo National Bank), 871.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Joe Taco, Amarillo",
+    "lunch": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "dinner": "Metropolitan, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "The Pristine House, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Pristine House, stay from 06:00 to 06:30, nearest transit: S Georgia St & Curtis Dr (Amarillo National Bank), 871.29m away; Joe Taco, Amarillo, visit from 08:07 to 10:00, ; Cadillac Ranch, Amarillo, visit from 10:30 to 14:00, ; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 14:30 to 16:44, ; Metropolitan, Amarillo, visit from 20:45 to 23:29, ; The Pristine House, stay from 23:59 to 07:59, nearest transit: S Georgia St & Curtis Dr (Amarillo National Bank), 871.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Ohms Cafe & Catering, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "McCracken Bird and Beach Guesthouse., Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "The Pristine House, stay from 08:29 to 08:59, nearest transit: S Georgia St & Curtis Dr (Amarillo National Bank), 871.29m away; Ohms Cafe & Catering, Amarillo, visit from 09:29 to 10:19, ; McCracken Bird and Beach Guesthouse., stay from 22:39 to 23:09, nearest transit: 356-Santa Fe  @  Delmar, 237.76m away; McCracken Bird and Beach Guesthouse., stay from 23:39 to 07:39, nearest transit: 356-Santa Fe  @  Delmar, 237.76m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Republic of Texas Bar & Grill, Corpus Christi",
+    "lunch": "Yardarm Restaurant, Corpus Christi",
+    "dinner": "Island Time Sushi Bar & Seafood Grill, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "McCracken Bird and Beach Guesthouse., Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "McCracken Bird and Beach Guesthouse., stay from 08:09 to 08:39, nearest transit: 356-Santa Fe  @  Delmar, 237.76m away; Republic of Texas Bar & Grill, Corpus Christi, visit from 09:09 to 09:59, ; Yardarm Restaurant, Corpus Christi, visit from 14:00 to 15:00, ; USS Lexington Museum, Corpus Christi, visit from 15:30 to 19:10, ; Island Time Sushi Bar & Seafood Grill, Corpus Christi, visit from 19:40 to 20:55, ; McCracken Bird and Beach Guesthouse., stay from 21:25 to 05:25, nearest transit: 356-Santa Fe  @  Delmar, 237.76m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F2236093, from Corpus Christi to Houston, Departure Time: 06:55, Arrival Time: 07:54",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "dinner": "Eddie V's Prime Seafood, Houston",
+    "attraction": "-",
+    "accommodation": "Modern Guesthouse in the Heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "McCracken Bird and Beach Guesthouse., stay from 05:55 to 06:25, nearest transit: 356-Santa Fe  @  Delmar, 237.76m away; Modern Guesthouse in the Heart of the Heights, stay from 08:24 to 08:54, nearest transit: Heights Blvd @ W 15th St, 357.4m away; Brennan's of Houston, Houston, visit from 09:24 to 10:14, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 14:15 to 15:15, ; Eddie V's Prime Seafood, Houston, visit from 19:16 to 20:31, ; Modern Guesthouse in the Heart of the Heights, stay from 21:01 to 05:01, nearest transit: Heights Blvd @ W 15th St, 357.4m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Uchi Houston, Houston",
+    "lunch": "Brenner's on the Bayou, Houston",
+    "dinner": "Houston White Co, Houston",
+    "attraction": "The Houston Museum of Natural Science, Houston",
+    "accommodation": "Modern Guesthouse in the Heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 06:00 to 07:31, nearest transit: Heights Blvd @ W 15th St, 357.4m away; Uchi Houston, Houston, visit from 08:01 to 09:59, ; Brenner's on the Bayou, Houston, visit from 14:00 to 15:00, ; The Houston Museum of Natural Science, Houston, visit from 15:30 to 19:00, ; Houston White Co, Houston, visit from 19:30 to 20:45, ; Modern Guesthouse in the Heart of the Heights, stay from 22:30 to 06:30, nearest transit: Heights Blvd @ W 15th St, 357.4m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Oklahoma City",
+    "transportation": "Flight Number: F0085006, from Houston to Oklahoma City, Departure Time: 17:54, Arrival Time: 19:11",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Merrill & Houston's Steak Joint, Houston",
+    "dinner": "-",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 07:00 to 07:30, nearest transit: Heights Blvd @ W 15th St, 357.4m away; Pappas Bros. Steakhouse, Houston, visit from 08:00 to 08:50, ; Children's Museum Houston, Houston, visit from 09:20 to 12:50, ; Merrill & Houston's Steak Joint, Houston, visit from 13:20 to 14:20, "
+  }
+]

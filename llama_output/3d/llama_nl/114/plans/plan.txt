@@ -1,0 +1,6 @@
+Destination cities: ['Nantucket'],
+Transportation dates: ['2024-11-02', '2024-11-04'],
+Transportation methods between cities: ['Flight Number: F1254522, from Washington to Nantucket, Departure Time: 12:13, Arrival Time: 14:48', 'Flight Number: F1701497, from Nantucket to Washington, Departure Time: 17:05, Arrival Time: 18:34'],
+Restaurants (3 meals per day): ['-', '-', 'The Nautilus, Nantucket', 'Breeze Restaurant, Nantucket', 'Downyflake, Nantucket', 'Ventuno, Nantucket', 'Nantucket Grilll, Nantucket', 'The Charlie Noble, Nantucket', '-'],
+Attractions (1 per day): ['Nantucket Atheneum, Nantucket', 'Great Point Light, Nantucket', 'Sankaty Head Lighthouse, Nantucket'],
+Accommodations (1 per city): ['3 beautifully restored 17th-century buildings, Nantucket']

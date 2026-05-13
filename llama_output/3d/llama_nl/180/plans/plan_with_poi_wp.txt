@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Detroit",
+    "transportation": "Taxi from Indianapolis to Detroit, duration: 328.4183333333333, distance: 448.0768, cost : 448.0",
+    "breakfast": "-",
+    "lunch": "Ottava Via, Detroit",
+    "dinner": "-",
+    "attraction": "Comerica Park, Detroit",
+    "accommodation": "Upper unit with parking & private deck, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Upper unit with parking & private deck, stay from 11:58 to 12:28, nearest transit: Warren Ave - Southbound, 1190.47m away; Ottava Via, Detroit, visit from 12:58 to 13:58, ; Comerica Park, Detroit, visit from 14:28 to 22:03, ; Upper unit with parking & private deck, stay from 22:33 to 06:33, nearest transit: Warren Ave - Southbound, 1190.47m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Detroit",
+    "transportation": "-",
+    "breakfast": "Taqueria Mi Pueblo, Detroit",
+    "lunch": "Honest John's Bar & Grill - Selden St., Detroit",
+    "dinner": "Green Dot Stables, Detroit",
+    "attraction": "-",
+    "accommodation": "Upper unit with parking & private deck, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Upper unit with parking & private deck, stay from 07:03 to 07:33, nearest transit: Warren Ave - Southbound, 1190.47m away; Taqueria Mi Pueblo, Detroit, visit from 08:03 to 09:59, ; Honest John's Bar & Grill - Selden St., Detroit, visit from 14:00 to 15:00, ; Green Dot Stables, Detroit, visit from 19:30 to 20:45, ; Upper unit with parking & private deck, stay from 21:15 to 05:15, nearest transit: Warren Ave - Southbound, 1190.47m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Detroit to Indianapolis",
+    "transportation": "Flight Number: F3399752, from Detroit to Indianapolis, Departure Time: 08:30, Arrival Time: 09:49",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Upper unit with parking & private deck, stay from 06:00 to 06:30, nearest transit: Warren Ave - Southbound, 1190.47m away"
+  }
+]

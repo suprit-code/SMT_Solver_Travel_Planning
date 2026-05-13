@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Baltimore to Charleston",
+    "transportation": "Flight Number: F0643335, from Baltimore to Charleston, Departure Time: 16:13, Arrival Time: 17:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Fleet Landing Restaurant, Charleston",
+    "attraction": "-",
+    "accommodation": "Lodge Alley Inn Steps to Charleston Harbor -Studio, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 18:26 to 18:56, nearest transit: East Bay St / Vendue Range, 68.87m away; Fleet Landing Restaurant, Charleston, visit from 19:26 to 20:41, ; Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 21:11 to 05:11, nearest transit: East Bay St / Vendue Range, 68.87m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Poogan's Porch, Charleston",
+    "lunch": "Amen Street Fish & Raw Bar, Charleston",
+    "dinner": "Eli's Table, Charleston",
+    "attraction": "Middleton Place, Charleston",
+    "accommodation": "Lodge Alley Inn Steps to Charleston Harbor -Studio, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 06:00 to 06:30, nearest transit: East Bay St / Vendue Range, 68.87m away; Poogan's Porch, Charleston, visit from 08:03 to 08:53, ; Amen Street Fish & Raw Bar, Charleston, visit from 12:54 to 13:54, ; Middleton Place, Charleston, visit from 14:24 to 18:30, ; Eli's Table, Charleston, visit from 19:00 to 20:15, ; Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 20:45 to 04:45, nearest transit: East Bay St / Vendue Range, 68.87m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Baltimore",
+    "transportation": "Flight Number: F1633730, from Charleston to Baltimore, Departure Time: 16:43, Arrival Time: 18:01",
+    "breakfast": "-",
+    "lunch": "Virginia's on King, Charleston",
+    "dinner": "-",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 06:00 to 07:30, nearest transit: East Bay St / Vendue Range, 68.87m away; Charleston Waterfront Park, Charleston, visit from 09:00 to 12:30, ; Virginia's on King, Charleston, visit from 13:00 to 14:00, "
+  }
+]

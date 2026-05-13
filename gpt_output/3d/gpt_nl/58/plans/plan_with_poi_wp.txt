@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Indianapolis",
+    "transportation": "Flight Number: F0035972, from Denver to Indianapolis, Departure Time: 11:57, Arrival Time: 16:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Canal Bistro, Indianapolis",
+    "attraction": "-",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 16:39 to 17:09, nearest transit: New York St & State St, 65.71m away; Canal Bistro, Indianapolis, visit from 20:45 to 22:34, ; Queen Bed Getaway Room Downtown Indy, stay from 23:04 to 07:04, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Lincoln Square Pancake House, Indianapolis",
+    "lunch": "Conner's Kitchen + Bar, Indianapolis",
+    "dinner": "The Old Spaghetti Factory, Indianapolis",
+    "attraction": "The Eiteljorg Museum, Indianapolis",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 07:34 to 08:04, nearest transit: New York St & State St, 65.71m away; Lincoln Square Pancake House, Indianapolis, visit from 08:34 to 10:00, ; The Eiteljorg Museum, Indianapolis, visit from 10:30 to 14:00, ; Conner's Kitchen + Bar, Indianapolis, visit from 14:30 to 15:30, ; The Old Spaghetti Factory, Indianapolis, visit from 19:31 to 20:46, ; Queen Bed Getaway Room Downtown Indy, stay from 21:16 to 05:16, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Denver",
+    "transportation": "Self-driving from Indianapolis to Denver, duration: 1158.4233333333332, distance: 1745.8256, cost : 87.0",
+    "breakfast": "Maggiano's Little Italy, Indianapolis",
+    "lunch": "Nada, Indianapolis",
+    "dinner": "Agave & Rye Indianapolis, Indianapolis",
+    "attraction": "Indiana War Memorial, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 06:00 to 06:30, nearest transit: New York St & State St, 65.71m away; Maggiano's Little Italy, Indianapolis, visit from 08:00 to 08:50, ; Indiana War Memorial, Indianapolis, visit from 09:20 to 12:50, ; Nada, Indianapolis, visit from 13:59 to 14:59, ; Agave & Rye Indianapolis, Indianapolis, visit from 19:00 to 20:15, "
+  }
+]

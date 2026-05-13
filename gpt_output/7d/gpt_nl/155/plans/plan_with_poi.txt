@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Nashville",
+    "transportation": "Flight Number: F1935396, from Dallas to Nashville, Departure Time: 12:49, Arrival Time: 14:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "-",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 15:06 to 20:15, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Aquarium Restaurant, Nashville, visit from 20:45 to 23:10, ; Private Entrance near Airport in Safe neighborhood, stay from 23:40 to 07:40, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Honky Tonk – The Twelve Thirty Club, Nashville",
+    "lunch": "Adele's Nashville, Nashville",
+    "dinner": "Harriet's Rooftop, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 08:10 to 08:40, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Honky Tonk – The Twelve Thirty Club, Nashville, visit from 09:10 to 10:00, ; Centennial Park, Nashville, visit from 10:30 to 14:00, ; Adele's Nashville, Nashville, visit from 14:30 to 15:30, ; Harriet's Rooftop, Nashville, visit from 19:45 to 21:00, ; Private Entrance near Airport in Safe neighborhood, stay from 21:30 to 05:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Smiling Elephant, Nashville",
+    "lunch": "Henley, Nashville",
+    "dinner": "-",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Comfortable and cozy in the heart of Bristol, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 06:00 to 06:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Smiling Elephant, Nashville, visit from 08:00 to 08:50, ; Belmont Mansion, Nashville, visit from 09:20 to 12:50, ; Henley, Nashville, visit from 13:20 to 14:20, ; Comfortable and cozy in the heart of Bristol, stay from 20:39 to 21:09, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Comfortable and cozy in the heart of Bristol, stay from 23:24 to 07:24, nearest transit: Kroger-Gate City Hwy, 4622.18m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Bosco Pizzeria, Bristol",
+    "lunch": "Little Bristol Beach Bar, Bristol",
+    "dinner": "Baba Ganoush Kitchen - Jerusalem Falafel, Bristol",
+    "attraction": "Cycle the City, Bristol",
+    "accommodation": "Comfortable and cozy in the heart of Bristol, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Comfortable and cozy in the heart of Bristol, stay from 07:54 to 08:24, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Bosco Pizzeria, Bristol, visit from 09:08 to 09:58, ; Little Bristol Beach Bar, Bristol, visit from 13:59 to 14:59, ; Cycle the City, Bristol, visit from 15:29 to 18:59, ; Baba Ganoush Kitchen - Jerusalem Falafel, Bristol, visit from 19:29 to 20:44, ; Comfortable and cozy in the heart of Bristol, stay from 21:14 to 05:14, nearest transit: Kroger-Gate City Hwy, 4622.18m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Eat a Pitta, Bristol",
+    "lunch": "The Bristol Trader, Bristol",
+    "dinner": "Mellow Mushroom Chattanooga, Chattanooga",
+    "attraction": "Bristol Museum & Art Gallery, Bristol",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Comfortable and cozy in the heart of Bristol, stay from 06:00 to 06:30, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Eat a Pitta, Bristol, visit from 08:00 to 08:50, ; Bristol Museum & Art Gallery, Bristol, visit from 09:36 to 13:06, ; The Bristol Trader, Bristol, visit from 13:36 to 14:36, ; Cozy Stylish Studio, stay from 19:45 to 20:15, nearest transit: BONNOAK, 4223.21m away; Mellow Mushroom Chattanooga, Chattanooga, visit from 20:45 to 22:02, ; Cozy Stylish Studio, stay from 22:32 to 06:32, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Public House, Chattanooga",
+    "lunch": "Hickory Pit Bar-B-Que, Chattanooga",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 07:02 to 07:32, nearest transit: BONNOAK, 4223.21m away; Public House, Chattanooga, visit from 08:02 to 08:52, ; Coolidge Park, Chattanooga, visit from 09:22 to 12:52, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 13:22 to 14:22, ; Uncle Larry's Restaurant, Chattanooga, visit from 19:00 to 20:15, ; Cozy Stylish Studio, stay from 20:45 to 08:00, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Dallas",
+    "transportation": "Flight Number: F2121956, from Chattanooga to Dallas, Departure Time: 18:17, Arrival Time: 19:19",
+    "breakfast": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 08:30 to 09:00, nearest transit: BONNOAK, 4223.21m away; The Purple Daisy Picnic Cafe, Chattanooga, visit from 09:30 to 10:20, ; Tennessee Aquarium, Chattanooga, visit from 10:50 to 14:20, "
+  }
+]

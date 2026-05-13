@@ -1,0 +1,6 @@
+Destination cities: ['Indianapolis'],
+Transportation dates: ['2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F0161855, from Detroit to Indianapolis, Departure Time: 15:59, Arrival Time: 17:02', 'taxi, from Indianapolis to Detroit, duration: 328.4183333333333, distance: 448.0768, cost: 448'],
+Restaurants (3 meals per day): ['-', '-', "Maggiano's Little Italy, Indianapolis", 'Lincoln Square Pancake House, Indianapolis', 'Market Table, Indianapolis', 'The Old Spaghetti Factory, Indianapolis', 'Bluebeard, Indianapolis', 'Milktooth, Indianapolis', 'Canal Bistro, Indianapolis'],
+Attractions (1 per day): ['The Eiteljorg Museum, Indianapolis', 'Indianapolis Zoo, Indianapolis', "Children's Museum of Indianapolis, Indianapolis"],
+Accommodations (1 per city): ['Walk to Lucas Oil+Free Parking+Skywalk Access, Indianapolis']

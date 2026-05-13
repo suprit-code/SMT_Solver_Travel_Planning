@@ -1,0 +1,6 @@
+Destination cities: ['Nashville', 'Bristol'],
+Transportation dates: ['2024-11-10', '2024-11-12', '2024-11-14'],
+Transportation methods between cities: ['Flight Number: F2637476, from Savannah to Nashville, Departure Time: 15:33, Arrival Time: 15:51', 'taxi, from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost: 467', 'taxi, from Bristol to Savannah, duration: 457.4433333333333, distance: 637.0864, cost: 637'],
+Restaurants (3 meals per day): ['-', '-', "Puckett's 5th & Church, Nashville", 'Aquarium Restaurant, Nashville', 'Kayne Prime, Nashville', 'The Catbird Seat, Nashville', 'Old Hickory Steakhouse, Nashville', "Jeff Ruby's Steakhouse, Nashville, Nashville", 'Gannons Nashville, Nashville', 'Bristol Lounge, Bristol', 'Bristol Seafood Grill, Bristol', 'Bravas, Bristol', 'Bristol Seafood + Steak + Social, Bristol', 'Urban Tandoor, Bristol', 'Aqua Welsh Back, Bristol'],
+Attractions (1 per day): ['Nashville Parthenon, Nashville', 'Cheekwood, Nashville', "Andrew Jackson's Hermitage, Nashville", 'M Shed, Bristol', "Brunel's SS Great Britain, Bristol"],
+Accommodations (1 per city): ['Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville', 'Stunning & Very Comfortable 2 Bedroom Home, Bristol']

@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-22', '2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Self-driving, from Seattle to San Diego, duration: 1428.7183333333337, distance: 2018.8195, cost: 100', 'Self-driving, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 53', 'Self-driving, from Redding to Seattle, duration: 698.065, distance: 953.8918, cost: 47'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Covewood Restaurant, San Diego', "Mimmo's, San Diego", 'El Agave Restaurant & Tequileria, San Diego', 'Buon Appetito, San Diego', 'Vessel Restaurant + Bar, San Diego', 'Morning Glory, San Diego', 'New China, Redding', 'Los Gordos, Redding', 'Final Draft Brewing Company, Redding', 'Dam Burger, Redding', 'Champa Garden, Redding', "Trendy's, Redding"],
+Attractions (1 per day): ['-', 'La Jolla Shores Park, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Turtle Bay Exploration Park, Redding', 'Sundial Bridge, Redding'],
+Accommodations (1 per city): ['Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego', 'The Forest Room, Redding']

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to San Diego",
+    "transportation": "Flight Number: F3737122, from Portland to San Diego, Departure Time: 07:00, Arrival Time: 09:28",
+    "breakfast": "-",
+    "lunch": "Juniper and Ivy, San Diego",
+    "dinner": "The Fishery, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 09:58 to 10:28, nearest transit: Adams Av & Hawley Bl, 292.57m away; Juniper and Ivy, San Diego, visit from 12:00 to 13:00, ; SeaWorld, San Diego, visit from 15:00 to 18:30, ; The Fishery, San Diego, visit from 19:00 to 20:15, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 20:45 to 04:45, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "El Agave Restaurant & Tequileria, San Diego",
+    "lunch": "La Puerta, San Diego",
+    "dinner": "Alforon, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 06:00 to 06:30, nearest transit: Adams Av & Hawley Bl, 292.57m away; El Agave Restaurant & Tequileria, San Diego, visit from 08:38 to 09:29, ; San Diego Zoo, San Diego, visit from 09:59 to 13:29, ; La Puerta, San Diego, visit from 13:59 to 14:59, ; Alforon, San Diego, visit from 19:00 to 20:15, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 20:45 to 04:45, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Thai Hut, Redding",
+    "attraction": "-",
+    "accommodation": "Centrally located with private entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 06:00 to 06:31, nearest transit: Adams Av & Hawley Bl, 292.57m away; Centrally located with private entrance, stay from 19:45 to 20:15, nearest transit: Churn Creek Rd at Browning St, 382.27m away; Thai Hut, Redding, visit from 20:45 to 22:00, ; Centrally located with private entrance, stay from 23:34 to 07:34, nearest transit: Churn Creek Rd at Browning St, 382.27m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Priya Indian Cuisine, Redding",
+    "lunch": "Karlines, Redding",
+    "dinner": "Trendy's, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Centrally located with private entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "Centrally located with private entrance, stay from 08:04 to 08:34, nearest transit: Churn Creek Rd at Browning St, 382.27m away; Priya Indian Cuisine, Redding, visit from 09:04 to 09:54, ; Karlines, Redding, visit from 14:00 to 15:00, ; Turtle Bay Exploration Park, Redding, visit from 15:30 to 20:15, ; Trendy's, Redding, visit from 20:45 to 23:10, ; Centrally located with private entrance, stay from 23:40 to 07:40, nearest transit: Churn Creek Rd at Browning St, 382.27m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Taxi from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 259.0",
+    "breakfast": "Jeff's California Cattle Company Restaurant, Redding",
+    "lunch": "Champa Garden, Redding",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Centrally located with private entrance, stay from 08:10 to 08:40, nearest transit: Churn Creek Rd at Browning St, 382.27m away; Jeff's California Cattle Company Restaurant, Redding, visit from 09:10 to 10:00, ; Sundial Bridge, Redding, visit from 10:30 to 14:00, ; Champa Garden, Redding, visit from 14:30 to 15:30, ; Modern Apt Near Downtown Sac, stay from 19:26 to 19:56, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Paesano's Pizzeria, Sacramento, visit from 20:26 to 21:41, ; Modern Apt Near Downtown Sac, stay from 22:11 to 06:11, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Bacon & Butter, Sacramento",
+    "lunch": "Echo and Rig, Sacramento",
+    "dinner": "Scott's Seafood on The River, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 06:41 to 07:11, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Bacon & Butter, Sacramento, visit from 08:01 to 08:51, ; Echo and Rig, Sacramento, visit from 14:00 to 15:00, ; Capitol Park, Sacramento, visit from 15:30 to 19:00, ; Scott's Seafood on The River, Sacramento, visit from 19:30 to 20:45, ; Modern Apt Near Downtown Sac, stay from 21:15 to 05:15, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Portland",
+    "transportation": "Taxi from Sacramento to Portland, duration: 667.9300000000001, distance: 932.3056, cost : 932.0",
+    "breakfast": "Tipsy Putt, Sacramento",
+    "lunch": "Sauced BBQ & Spirits, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 06:00 to 06:30, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Tipsy Putt, Sacramento, visit from 08:00 to 08:50, ; California State Capitol Museum, Sacramento, visit from 09:20 to 12:50, ; Sauced BBQ & Spirits, Sacramento, visit from 14:30 to 15:30, "
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Key West to Greensboro",
+    "transportation": "Self-driving from Key West to Greensboro, duration: 1117.3233333333333, distance: 1530.6701, cost : 76.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 01:07 to 01:37, nearest transit: Glendale/Randleman Rd., 155.05m away; A little Southern Hospitality, stay from 02:07 to 08:00, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Golden Wok, Greensboro",
+    "lunch": "Dear Dad's, Greensboro",
+    "dinner": "Sarah's Kabob Shop, Greensboro",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:30 to 09:00, nearest transit: Glendale/Randleman Rd., 155.05m away; Golden Wok, Greensboro, visit from 09:36 to 10:29, ; Dear Dad's, Greensboro, visit from 14:30 to 15:30, ; Sarah's Kabob Shop, Greensboro, visit from 20:45 to 22:11, ; A little Southern Hospitality, stay from 22:41 to 06:41, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Self-driving from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 16.0",
+    "breakfast": "Carolina's Diner, Greensboro",
+    "lunch": "Stamey's Barbecue, Greensboro",
+    "dinner": "-",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:11 to 07:41, nearest transit: Glendale/Randleman Rd., 155.05m away; Carolina's Diner, Greensboro, visit from 08:11 to 09:01, ; Carolina Theatre, Greensboro, visit from 09:31 to 13:01, ; Stamey's Barbecue, Greensboro, visit from 13:31 to 14:31, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 19:29 to 19:59, nearest transit: Market St WB at 12th St, 326.9m away; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 20:29 to 07:39, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "lunch": "Winnie's Tavern, Wilmington",
+    "dinner": "Flaming Amy's Burrito Barn, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 08:09 to 08:39, nearest transit: Market St WB at 12th St, 326.9m away; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 09:09 to 09:59, ; Battleship North Carolina, Wilmington, visit from 10:29 to 13:59, ; Winnie's Tavern, Wilmington, visit from 14:29 to 15:29, ; Flaming Amy's Burrito Barn, Wilmington, visit from 19:30 to 20:45, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 21:15 to 05:15, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Key West",
+    "transportation": "Self-driving from Wilmington to Key West, duration: 1095.253333333333, distance: 1506.7018999999998, cost : 75.0",
+    "breakfast": "Copper Penny, Wilmington",
+    "lunch": "Savorez, Wilmington",
+    "dinner": "The Anchor, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 06:00 to 07:30, nearest transit: Market St WB at 12th St, 326.9m away; Copper Penny, Wilmington, visit from 08:00 to 08:50, ; Burgwin-Wright House and Gardens, Wilmington, visit from 09:20 to 13:29, ; Savorez, Wilmington, visit from 13:59 to 14:59, ; The Anchor, Wilmington, visit from 19:00 to 20:15, "
+  }
+]

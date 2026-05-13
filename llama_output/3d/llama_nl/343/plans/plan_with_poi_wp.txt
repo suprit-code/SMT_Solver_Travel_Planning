@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Wichita",
+    "transportation": "Self-driving from Denver to Wichita, duration: 533.1016666666667, distance: 834.2885, cost : 41.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Beacon Restaurant, Wichita",
+    "attraction": "-",
+    "accommodation": "Central ICT.Z, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Central ICT.Z, stay from 18:40 to 19:52, nearest transit: Waterman and Pattie IB, 93.9m away; Beacon Restaurant, Wichita, visit from 20:22 to 21:37, ; Central ICT.Z, stay from 22:07 to 06:40, nearest transit: Waterman and Pattie IB, 93.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wichita",
+    "transportation": "-",
+    "breakfast": "Little Saigon, Wichita",
+    "lunch": "Puero Vallarta Mexican Restaurant, Wichita",
+    "dinner": "Old Mill Tasty Shop, Wichita",
+    "attraction": "Mid-America All-Indian Center, Wichita",
+    "accommodation": "Central ICT.Z, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Central ICT.Z, stay from 07:10 to 07:40, nearest transit: Waterman and Pattie IB, 93.9m away; Little Saigon, Wichita, visit from 08:10 to 09:00, ; Mid-America All-Indian Center, Wichita, visit from 09:30 to 13:00, ; Puero Vallarta Mexican Restaurant, Wichita, visit from 14:30 to 15:30, ; Old Mill Tasty Shop, Wichita, visit from 19:31 to 20:46, ; Central ICT.Z, stay from 21:16 to 05:16, nearest transit: Waterman and Pattie IB, 93.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wichita to Denver",
+    "transportation": "Self-driving from Wichita to Denver, duration: 533.3983333333333, distance: 834.7207, cost : 41.0",
+    "breakfast": "-",
+    "lunch": "Doo-Dah Diner, Wichita",
+    "dinner": "Sabor Latin Bar & Grill, Wichita",
+    "attraction": "Wichita Art Museum, Wichita",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Central ICT.Z, stay from 06:00 to 06:30, nearest transit: Waterman and Pattie IB, 93.9m away; Wichita Art Museum, Wichita, visit from 09:00 to 12:30, ; Doo-Dah Diner, Wichita, visit from 13:00 to 14:00, ; Sabor Latin Bar & Grill, Wichita, visit from 19:00 to 20:15, "
+  }
+]

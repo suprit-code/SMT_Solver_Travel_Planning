@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F0254634, from San Diego to Seattle, Departure Time: 21:32, Arrival Time: 00:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Room#2 Seattle Spruce Street BnB, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Room#2 Seattle Spruce Street BnB, stay from 00:59 to 01:29, nearest transit: E Yesler Way & 17th Ave, 126.21m away; Room#2 Seattle Spruce Street BnB, stay from 01:59 to 08:00, nearest transit: E Yesler Way & 17th Ave, 126.21m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "-",
+    "accommodation": "Room#2 Seattle Spruce Street BnB, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Room#2 Seattle Spruce Street BnB, stay from 08:30 to 09:00, nearest transit: E Yesler Way & 17th Ave, 126.21m away; Noi Thai Cuisine, Seattle, visit from 09:39 to 10:29, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 14:30 to 15:30, ; Il Terrazzo Carmine, Seattle, visit from 20:45 to 22:00, ; Room#2 Seattle Spruce Street BnB, stay from 23:29 to 07:29, nearest transit: E Yesler Way & 17th Ave, 126.21m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F2981455, from Seattle to San Diego, Departure Time: 19:20, Arrival Time: 21:48",
+    "breakfast": "The Capital Grille, Seattle",
+    "lunch": "El Gaucho Seattle, Seattle",
+    "dinner": "-",
+    "attraction": "Kerry Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room#2 Seattle Spruce Street BnB, stay from 07:59 to 08:29, nearest transit: E Yesler Way & 17th Ave, 126.21m away; The Capital Grille, Seattle, visit from 08:59 to 09:49, ; El Gaucho Seattle, Seattle, visit from 13:50 to 14:50, ; Kerry Park, Seattle, visit from 15:20 to 18:50, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Tampa', 'Key West'],
+Transportation dates: ['2024-11-02', '2024-11-04', '2024-11-06'],
+Transportation methods between cities: ['Self-driving, from Greensboro to Tampa, duration: 732.8050000000001, distance: 1037.764, cost: 51', 'Self-driving, from Tampa to Key West, duration: 525.9166666666666, distance: 679.0339, cost: 33', 'Self-driving, from Key West to Greensboro, duration: 1117.3233333333333, distance: 1530.6701, cost: 76'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Green Lemon, Tampa', 'Columbia Restaurant, Tampa', "Eddie V's Prime Seafood, Tampa", 'Salt Shack On The Bay, Tampa', 'Columbia Cafe - Riverwalk Tampa, Tampa', "Whiskey Joe's Bar & Grill - Tampa, Tampa", "Frita's Cuban Burger Cafe, Key West", 'Key West Cuban Coffee Shop, Key West', 'Prime Steakhouse, Key West', 'Onlywood Grill, Key West', 'Latitudes - Sunset Key Cottages, Key West', 'Two Friends Patio Restaurant, Key West'],
+Attractions (1 per day): ['-', 'The Florida Aquarium, Tampa', 'ZooTampa At Lowry Park, Tampa', 'Smathers Beach, Key West', 'Key West Garden Club, Key West'],
+Accommodations (1 per city): ['Charming guest suite in West Tampa, Tampa', 'The Key West Sailboat, Key West']

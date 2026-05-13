@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Jackson to Atlanta",
+    "transportation": "Flight Number: F3965490, from Jackson to Atlanta, Departure Time: 15:25, Arrival Time: 17:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "-",
+    "accommodation": "Designer Den | Chic Luxury in a Hip Area, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Designer Den | Chic Luxury in a Hip Area, stay from 18:03 to 19:15, nearest transit: MORELAND AVE SE @ LYNDALE DR SE, 493.48m away; Home Grown, Atlanta, visit from 19:45 to 22:21, ; Designer Den | Chic Luxury in a Hip Area, stay from 22:51 to 06:51, nearest transit: MORELAND AVE SE @ LYNDALE DR SE, 493.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Aviva by Kameel, Atlanta",
+    "lunch": "Fox Bros. Bar-B-Q, Atlanta",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "Atlanta Botanical Garden, Atlanta",
+    "accommodation": "Designer Den | Chic Luxury in a Hip Area, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Designer Den | Chic Luxury in a Hip Area, stay from 07:21 to 07:51, nearest transit: MORELAND AVE SE @ LYNDALE DR SE, 493.48m away; Aviva by Kameel, Atlanta, visit from 08:21 to 09:11, ; Fox Bros. Bar-B-Q, Atlanta, visit from 13:12 to 14:12, ; Atlanta Botanical Garden, Atlanta, visit from 14:42 to 18:30, ; Cafe Agora, Atlanta, visit from 19:00 to 20:15, ; Designer Den | Chic Luxury in a Hip Area, stay from 00:00 to 08:00, nearest transit: MORELAND AVE SE @ LYNDALE DR SE, 493.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Jackson",
+    "transportation": "Flight Number: F3970669, from Atlanta to Jackson, Departure Time: 19:10, Arrival Time: 19:19",
+    "breakfast": "-",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "-",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Designer Den | Chic Luxury in a Hip Area, stay from 08:30 to 09:00, nearest transit: MORELAND AVE SE @ LYNDALE DR SE, 493.48m away; Steamhouse Lounge, Atlanta, visit from 13:40 to 14:40, ; Centennial Olympic Park, Atlanta, visit from 15:10 to 18:40, "
+  }
+]

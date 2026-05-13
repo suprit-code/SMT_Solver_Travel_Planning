@@ -1,0 +1,18 @@
+
+    # Get house rules info for each accommodation
+    accommodations = [
+        {"name": "House 1", "rules": ["No children under 10", "No pets"]},
+        {"name": "House 2", "rules": ["No smoking", "No children under 10"]},
+        {"name": "House 3", "rules": ["No pets", "No smoking"]}
+    ]
+    
+    # For each house rule, assert 'No children under 10' is not violated
+    for accommodation in accommodations:
+        for rule in accommodation["rules"]:
+            if rule == "No children under 10":
+                print(f"House {accommodation['name']} has a rule that is violated: {rule}")
+            else:
+                print(f"House {accommodation['name']} has a rule: {rule}")
+    
+    
+    In this example, we first define a list of accommodations with their respective rules. Then, we iterate over each accommodation and its rules. If a rule is "No children under 10", we print a message indicating that the rule is violated. Otherwise, we print a message indicating that the rule is present.

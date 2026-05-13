@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Los Angeles to Indianapolis",
+    "transportation": "Flight Number: F2527778, from Los Angeles to Indianapolis, Departure Time: 22:37, Arrival Time: 05:28",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 05:58 to 06:28, nearest transit: New York St & State St, 65.71m away; Queen Bed Getaway Room Downtown Indy, stay from 06:58 to 08:00, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Lincoln Square Pancake House, Indianapolis",
+    "lunch": "Thai Spice, Indianapolis",
+    "dinner": "Milktooth, Indianapolis",
+    "attraction": "-",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 08:30 to 09:00, nearest transit: New York St & State St, 65.71m away; Lincoln Square Pancake House, Indianapolis, visit from 09:33 to 10:23, ; Thai Spice, Indianapolis, visit from 14:24 to 15:24, ; Milktooth, Indianapolis, visit from 19:25 to 20:40, ; Queen Bed Getaway Room Downtown Indy, stay from 21:10 to 05:10, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Los Angeles",
+    "transportation": "Flight Number: F2946593, from Indianapolis to Los Angeles, Departure Time: 07:39, Arrival Time: 09:04",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 06:00 to 06:30, nearest transit: New York St & State St, 65.71m away"
+  }
+]

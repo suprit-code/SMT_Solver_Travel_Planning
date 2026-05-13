@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Burbank to Amarillo",
+    "transportation": "Taxi from Burbank to Amarillo, duration: 1112.3666666666666, distance: 1729.9941, cost : 1729.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cactus Patch Grain Bins, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Cactus Patch Grain Bins, stay from 01:02 to 01:32, nearest transit: S Soncy Rd & Bent Tree Dr (Sakura), 7412.95m away; Cactus Patch Grain Bins, stay from 02:02 to 08:00, nearest transit: S Soncy Rd & Bent Tree Dr (Sakura), 7412.95m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Ohms Cafe & Catering, Amarillo",
+    "lunch": "Metropolitan, Amarillo",
+    "dinner": "Big Texan Steak Ranch, Amarillo",
+    "attraction": "-",
+    "accommodation": "Cactus Patch Grain Bins, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Cactus Patch Grain Bins, stay from 08:30 to 09:00, nearest transit: S Soncy Rd & Bent Tree Dr (Sakura), 7412.95m away; Ohms Cafe & Catering, Amarillo, visit from 09:39 to 10:29, ; Metropolitan, Amarillo, visit from 14:30 to 15:30, ; Big Texan Steak Ranch, Amarillo, visit from 19:31 to 20:52, ; Cactus Patch Grain Bins, stay from 21:22 to 05:22, nearest transit: S Soncy Rd & Bent Tree Dr (Sakura), 7412.95m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F0493724, from Amarillo to Houston, Departure Time: 06:52, Arrival Time: 08:31",
+    "breakfast": "-",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "-",
+    "accommodation": "A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, Houston",
+    "event": "-",
+    "point_of_interest_list": "Cactus Patch Grain Bins, stay from 05:52 to 06:22, nearest transit: S Soncy Rd & Bent Tree Dr (Sakura), 7412.95m away; A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, stay from 09:01 to 09:31, nearest transit: Houston Ave @ Bingham St, 302.24m away; Pappadeaux Seafood Kitchen, Houston, visit from 12:00 to 13:00, ; Brennan's of Houston, Houston, visit from 19:00 to 20:15, ; A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, stay from 20:45 to 05:30, nearest transit: Houston Ave @ Bingham St, 302.24m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Niko Niko's Greek, Houston",
+    "dinner": "Uchi Houston, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, Houston",
+    "event": "-",
+    "point_of_interest_list": "A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, stay from 06:00 to 06:30, nearest transit: Houston Ave @ Bingham St, 302.24m away; Pappas Bros. Steakhouse, Houston, visit from 08:26 to 09:16, ; Niko Niko's Greek, Houston, visit from 13:17 to 14:17, ; Houston Zoo, Houston, visit from 14:47 to 18:30, ; Uchi Houston, Houston, visit from 19:00 to 20:15, ; A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, stay from 20:45 to 06:30, nearest transit: Houston Ave @ Bingham St, 302.24m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F2737606, from Houston to San Antonio, Departure Time: 16:34, Arrival Time: 17:26",
+    "breakfast": "Houston White Co, Houston",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "Pollos Asados Los Nortenos, San Antonio",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Hill Country Views, Close to La Cantera and Fiesta, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, stay from 07:00 to 07:30, nearest transit: Houston Ave @ Bingham St, 302.24m away; Houston White Co, Houston, visit from 08:00 to 10:00, ; Cockrell Butterfly Center, Houston, visit from 10:30 to 14:00, ; Eddie V's Prime Seafood, Houston, visit from 14:30 to 15:30, ; Hill Country Views, Close to La Cantera and Fiesta, stay from 17:56 to 18:26, nearest transit: LA CANTERA IN FRONT OF 16211, 7698.25m away; Pollos Asados Los Nortenos, San Antonio, visit from 19:31 to 20:46, ; Hill Country Views, Close to La Cantera and Fiesta, stay from 21:16 to 07:39, nearest transit: LA CANTERA IN FRONT OF 16211, 7698.25m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Brenner's on the River Walk, San Antonio",
+    "lunch": "Biga on the Banks, San Antonio",
+    "dinner": "Nonna Osteria, San Antonio",
+    "attraction": "San Antonio Zoo, San Antonio",
+    "accommodation": "Hill Country Views, Close to La Cantera and Fiesta, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Hill Country Views, Close to La Cantera and Fiesta, stay from 08:09 to 08:39, nearest transit: LA CANTERA IN FRONT OF 16211, 7698.25m away; Brenner's on the River Walk, San Antonio, visit from 09:09 to 09:59, ; San Antonio Zoo, San Antonio, visit from 10:29 to 13:59, ; Biga on the Banks, San Antonio, visit from 14:29 to 15:29, ; Nonna Osteria, San Antonio, visit from 19:30 to 20:45, ; Hill Country Views, Close to La Cantera and Fiesta, stay from 22:30 to 06:30, nearest transit: LA CANTERA IN FRONT OF 16211, 7698.25m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Burbank",
+    "transportation": "Taxi from San Antonio to Burbank, duration: 1391.655, distance: 2194.3542, cost : 2194.0",
+    "breakfast": "Mi Tierra Cafe y Panaderia, San Antonio",
+    "lunch": "Bliss, San Antonio",
+    "dinner": "-",
+    "attraction": "Natural Bridge Caverns, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hill Country Views, Close to La Cantera and Fiesta, stay from 07:00 to 07:30, nearest transit: LA CANTERA IN FRONT OF 16211, 7698.25m away; Mi Tierra Cafe y Panaderia, San Antonio, visit from 08:00 to 08:50, ; Bliss, San Antonio, visit from 14:00 to 15:00, ; Natural Bridge Caverns, San Antonio, visit from 15:30 to 20:17, "
+  }
+]

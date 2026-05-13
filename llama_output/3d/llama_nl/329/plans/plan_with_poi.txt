@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Reno",
+    "transportation": "Flight Number: F2895556, from New York to Reno, Departure Time: 20:13, Arrival Time: 23:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Foley Nest, Reno",
+    "event": "-",
+    "point_of_interest_list": "The Foley Nest, stay from 23:45 to 00:15, nearest transit: Plumas Street and Mountain View Drive, 783.82m away; The Foley Nest, stay from 00:45 to 08:00, nearest transit: Plumas Street and Mountain View Drive, 783.82m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Reno",
+    "transportation": "-",
+    "breakfast": "Smiling with hope Pizza, Reno",
+    "lunch": "Smee's Alaskan Fish Bar, Reno",
+    "dinner": "Pho 777 Vietnamese Restaurant, Reno",
+    "attraction": "-",
+    "accommodation": "The Foley Nest, Reno",
+    "event": "-",
+    "point_of_interest_list": "The Foley Nest, stay from 08:30 to 09:00, nearest transit: Plumas Street and Mountain View Drive, 783.82m away; Smiling with hope Pizza, Reno, visit from 09:32 to 10:29, ; Smee's Alaskan Fish Bar, Reno, visit from 14:30 to 15:30, ; Pho 777 Vietnamese Restaurant, Reno, visit from 19:31 to 20:46, ; The Foley Nest, stay from 21:16 to 05:16, nearest transit: Plumas Street and Mountain View Drive, 783.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Reno to New York",
+    "transportation": "Flight Number: F0270515, from Reno to New York, Departure Time: 00:00, Arrival Time: 07:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Johnny's Ristorante Italiano, Reno",
+    "attraction": "Truckee River Walk, Reno",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Foley Nest, stay from 06:00 to 06:30, nearest transit: Plumas Street and Mountain View Drive, 783.82m away; Truckee River Walk, Reno, visit from 09:00 to 12:30, ; Johnny's Ristorante Italiano, Reno, visit from 19:00 to 23:30, "
+  }
+]

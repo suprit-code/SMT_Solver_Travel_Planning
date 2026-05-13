@@ -1,0 +1,6 @@
+Destination cities: ['Albuquerque'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Self-driving, from San Diego to Albuquerque, duration: 860.8466666666667, distance: 1304.9912, cost: 65', 'Self-driving, from Albuquerque to San Diego, duration: 859.2716666666668, distance: 1302.2421000000002, cost: 65'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Two Fools Tavern, Albuquerque', 'High Noon Restaurant & Saloon, Albuquerque', "Padilla's Mexican Kitchen, Albuquerque", 'Dog House Drive In, Albuquerque', 'Rising Star Chinese Eatery, Albuquerque', 'Le Troquet Bistro, Albuquerque'],
+Attractions (1 per day): ['-', 'Petroglyph National Monument, Albuquerque', 'San Felipe de Neri Church, Albuquerque'],
+Accommodations (1 per city): ['Casita de Tierra - Slow, Intentional Living, Albuquerque']

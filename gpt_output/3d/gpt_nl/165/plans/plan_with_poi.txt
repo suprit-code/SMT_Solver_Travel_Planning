@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Jackson to New York",
+    "transportation": "Flight Number: F1493624, from Jackson to New York, Departure Time: 12:27, Arrival Time: 18:40",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "-",
+    "accommodation": "Big Apple Experience | Central Park. Gym, New York",
+    "event": "-",
+    "point_of_interest_list": "Big Apple Experience | Central Park. Gym, stay from 19:10 to 19:40, nearest transit: 8 AV/W 52 ST, 129.65m away; FIG & OLIVE, New York, visit from 20:10 to 21:25, ; Big Apple Experience | Central Park. Gym, stay from 21:55 to 07:33, nearest transit: 8 AV/W 52 ST, 129.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Rao's Restaurant, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Big Apple Experience | Central Park. Gym, New York",
+    "event": "-",
+    "point_of_interest_list": "Big Apple Experience | Central Park. Gym, stay from 08:03 to 08:33, nearest transit: 8 AV/W 52 ST, 129.65m away; Peak Restaurant & Bar, New York, visit from 09:03 to 09:53, ; The National 9/11 Memorial & Museum, New York, visit from 10:30 to 14:00, ; Rao's Restaurant, New York, visit from 14:30 to 15:44, ; Del Frisco's Grille, New York, visit from 19:45 to 21:00, ; Big Apple Experience | Central Park. Gym, stay from 21:30 to 05:30, nearest transit: 8 AV/W 52 ST, 129.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Jackson",
+    "transportation": "Taxi from New York to Jackson, duration: 1338.7966666666666, distance: 1930.066, cost : 1930.0",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "Gallaghers Steakhouse, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Big Apple Experience | Central Park. Gym, stay from 06:00 to 06:30, nearest transit: 8 AV/W 52 ST, 129.65m away; Sarge’s Delicatessen & Diner, New York, visit from 08:00 to 08:50, ; New York Public Library, New York, visit from 09:20 to 12:50, ; Gallaghers Steakhouse, New York, visit from 13:20 to 14:20, ; Times Square Diner, New York, visit from 19:00 to 20:15, "
+  }
+]

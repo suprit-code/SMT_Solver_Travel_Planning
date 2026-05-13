@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Nashville",
+    "transportation": "Flight Number: F3582435, from Sioux Falls to Nashville, Departure Time: 14:56, Arrival Time: 16:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Miranda Lambert's Casa Rosa, Nashville",
+    "attraction": "-",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 17:18 to 17:48, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Miranda Lambert's Casa Rosa, Nashville, visit from 19:00 to 22:22, ; Dave's Place, stay from 22:52 to 06:52, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Harriet's Rooftop, Nashville",
+    "lunch": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 07:22 to 07:52, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Harriet's Rooftop, Nashville, visit from 08:22 to 09:12, ; Bourbon Street Blues and Boogie Bar, Nashville, visit from 14:00 to 15:00, ; Belmont Mansion, Nashville, visit from 15:30 to 19:00, ; Aquarium Restaurant, Nashville, visit from 19:30 to 20:45, ; Dave's Place, stay from 21:15 to 05:15, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Sioux Falls",
+    "transportation": "Taxi from Nashville to Sioux Falls, duration: 1007.0416666666666, distance: 1481.2943, cost : 1481.0",
+    "breakfast": "The Standard, Nashville",
+    "lunch": "Puckett's 5th & Church, Nashville",
+    "dinner": "417 Union, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 06:00 to 06:30, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; The Standard, Nashville, visit from 08:00 to 08:50, ; Centennial Park, Nashville, visit from 09:20 to 12:50, ; Puckett's 5th & Church, Nashville, visit from 13:20 to 14:20, ; 417 Union, Nashville, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Greensboro",
+    "transportation": "Self-driving from Washington to Greensboro, duration: 357.2, distance: 497.6169, cost : 24.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 14:30 to 15:00, nearest transit: Elm/Fisher (OB), 111.24m away; Carolina Theatre, Greensboro, visit from 15:30 to 20:15, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 20:45 to 22:00, ; Leftwich St APT 2, stay from 22:30 to 06:30, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Golden Wok, Greensboro",
+    "lunch": "Mimi's Cafe, Greensboro",
+    "dinner": "Stamey's Barbecue, Greensboro",
+    "attraction": "-",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 07:00 to 07:30, nearest transit: Elm/Fisher (OB), 111.24m away; Golden Wok, Greensboro, visit from 08:00 to 09:29, ; Mimi's Cafe, Greensboro, visit from 13:30 to 14:30, ; Stamey's Barbecue, Greensboro, visit from 19:00 to 20:15, ; Leftwich St APT 2, stay from 20:45 to 04:45, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Washington",
+    "transportation": "Flight Number: F3065842, from Greensboro to Washington, Departure Time: 15:46, Arrival Time: 16:53",
+    "breakfast": "-",
+    "lunch": "Captain Bill's Seafood & Steak, Greensboro",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 06:00 to 06:30, nearest transit: Elm/Fisher (OB), 111.24m away; Captain Bill's Seafood & Steak, Greensboro, visit from 13:00 to 14:00, "
+  }
+]

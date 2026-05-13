@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sitka to Seattle",
+    "transportation": "Flight Number: F2878676, from Sitka to Seattle, Departure Time: 13:45, Arrival Time: 17:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Lola, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 17:33 to 18:03, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Lola, Seattle, visit from 19:00 to 20:15, ; Cozy room near UW, stay from 20:45 to 04:45, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "Chihuly Garden and Glass, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Noi Thai Cuisine, Seattle, visit from 08:01 to 08:51, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 12:52 to 13:52, ; Chihuly Garden and Glass, Seattle, visit from 15:30 to 19:00, ; Vons 1000 Spirits, Seattle, visit from 19:30 to 20:45, ; Cozy room near UW, stay from 21:15 to 05:15, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Sitka",
+    "transportation": "Flight Number: F2337064, from Seattle to Sitka, Departure Time: 17:12, Arrival Time: 18:31",
+    "breakfast": "-",
+    "lunch": "The Walrus and the Carpenter, Seattle",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Klondike Gold Rush National Historical Park, Seattle, visit from 09:00 to 12:30, ; The Walrus and the Carpenter, Seattle, visit from 13:00 to 14:00, "
+  }
+]

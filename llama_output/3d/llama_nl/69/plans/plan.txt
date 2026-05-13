@@ -1,0 +1,6 @@
+Destination cities: ['Los Angeles'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Flight Number: F3327836, from New York to Los Angeles, Departure Time: 13:57, Arrival Time: 17:05', 'Flight Number: F0284109, from Los Angeles to New York, Departure Time: 13:11, Arrival Time: 21:59'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Leo & Lily, Los Angeles', 'Bavel, Los Angeles', '25 Degrees, Los Angeles', 'Ayara Thai Cuisine, Los Angeles', "L'Antica Pizzeria Da Michele, Los Angeles", '-'],
+Attractions (1 per day): ['Venice Canals Walkway, Los Angeles', 'The Grove, Los Angeles', 'Citadel Outlets, Los Angeles'],
+Accommodations (1 per city): ['Pristine Mid Century Gem Near USC Hospital, Los Angeles']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Madison to New York",
+    "transportation": "Taxi from Madison to New York, duration: 1054.9716666666668, distance: 1514.6925, cost : 1514.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Standard Queen Room in Small Hotel, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 00:04 to 00:34, nearest transit: MADISON AV/E 129 ST, 97.09m away; Standard Queen Room in Small Hotel, stay from 01:04 to 08:00, nearest transit: MADISON AV/E 129 ST, 97.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Rao's Restaurant, New York",
+    "lunch": "Mari Vanna, New York",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "-",
+    "accommodation": "Standard Queen Room in Small Hotel, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 08:30 to 09:00, nearest transit: MADISON AV/E 129 ST, 97.09m away; Rao's Restaurant, New York, visit from 09:38 to 10:28, ; Mari Vanna, New York, visit from 14:29 to 15:29, ; Gallaghers Steakhouse, New York, visit from 19:30 to 20:45, ; Standard Queen Room in Small Hotel, stay from 21:15 to 05:15, nearest transit: MADISON AV/E 129 ST, 97.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Madison",
+    "transportation": "Flight Number: F0727671, from New York to Madison, Departure Time: 20:45, Arrival Time: 22:38",
+    "breakfast": "FIG & OLIVE, New York",
+    "lunch": "Sarge’s Delicatessen & Diner, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 06:00 to 06:30, nearest transit: MADISON AV/E 129 ST, 97.09m away; FIG & OLIVE, New York, visit from 08:00 to 08:50, ; Sarge’s Delicatessen & Diner, New York, visit from 12:51 to 13:51, ; Central Park, New York, visit from 14:21 to 17:51, ; Times Square Diner, New York, visit from 19:00 to 20:15, "
+  }
+]

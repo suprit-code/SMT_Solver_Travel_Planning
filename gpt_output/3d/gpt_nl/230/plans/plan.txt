@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-15', '2024-11-17'],
+Transportation methods between cities: ['Flight Number: F1078799, from Houston to Seattle, Departure Time: 09:39, Arrival Time: 12:22', 'Flight Number: F0811129, from Seattle to Houston, Departure Time: 17:31, Arrival Time: 23:28'],
+Restaurants (3 meals per day): ['-', '-', 'Spinasse, Seattle', 'Dough Zone Dumpling House - Seattle International District, Seattle', 'Metropolitan Grill, Seattle', "Salty's On Alki Beach, Seattle", 'Il Terrazzo Carmine, Seattle', 'The Capital Grille, Seattle', 'El Gaucho Seattle, Seattle'],
+Attractions (1 per day): ['Klondike Gold Rush National Historical Park, Seattle', 'Woodland Park Zoo, Seattle', 'Seattle Aquarium, Seattle'],
+Accommodations (1 per city): ['Detached Private Guest Cottage in Sought-After Neighborhood, Seattle']

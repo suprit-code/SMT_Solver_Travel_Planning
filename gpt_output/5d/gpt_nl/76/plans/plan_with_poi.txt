@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Asheville to Amarillo",
+    "transportation": "Taxi from Asheville to Amarillo, duration: 1322.18, distance: 1968.2969, cost : 1968.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cactus Patch Grain Bins, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Cactus Patch Grain Bins, stay from 04:32 to 05:02, nearest transit: S Soncy Rd & Bent Tree Dr (Sakura), 7412.95m away; Cactus Patch Grain Bins, stay from 05:32 to 08:00, nearest transit: S Soncy Rd & Bent Tree Dr (Sakura), 7412.95m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Ye Olde Pancake Station, Amarillo",
+    "lunch": "El Bracero Mexican Grill, Amarillo",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "-",
+    "accommodation": "Cactus Patch Grain Bins, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Cactus Patch Grain Bins, stay from 08:30 to 09:00, nearest transit: S Soncy Rd & Bent Tree Dr (Sakura), 7412.95m away; Ye Olde Pancake Station, Amarillo, visit from 09:39 to 10:29, ; El Bracero Mexican Grill, Amarillo, visit from 14:30 to 15:36, ; Golden Light Cafe & Cantina, Amarillo, visit from 19:37 to 20:52, ; Cactus Patch Grain Bins, stay from 21:22 to 05:22, nearest transit: S Soncy Rd & Bent Tree Dr (Sakura), 7412.95m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F0493724, from Amarillo to Houston, Departure Time: 06:52, Arrival Time: 08:31",
+    "breakfast": "-",
+    "lunch": "Taste of Texas, Houston",
+    "dinner": "Eddie V's Prime Seafood, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Cactus Patch Grain Bins, stay from 05:52 to 06:22, nearest transit: S Soncy Rd & Bent Tree Dr (Sakura), 7412.95m away; Entire Apt in the Heart of the City - Galleria, stay from 09:01 to 09:31, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Taste of Texas, Houston, visit from 12:00 to 13:00, ; Hermann Park, Houston, visit from 13:30 to 18:30, ; Eddie V's Prime Seafood, Houston, visit from 19:00 to 20:15, ; Entire Apt in the Heart of the City - Galleria, stay from 20:45 to 04:45, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston White Co, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "National Museum of Funeral History, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:00 to 07:37, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Houston White Co, Houston, visit from 08:07 to 08:57, ; National Museum of Funeral History, Houston, visit from 10:30 to 14:00, ; Pappadeaux Seafood Kitchen, Houston, visit from 14:30 to 15:30, ; Brennan's of Houston, Houston, visit from 19:31 to 20:46, ; Entire Apt in the Heart of the City - Galleria, stay from 21:16 to 06:43, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Asheville",
+    "transportation": "Flight Number: F2555751, from Houston to Asheville, Departure Time: 08:40, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 07:13 to 07:43, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  }
+]

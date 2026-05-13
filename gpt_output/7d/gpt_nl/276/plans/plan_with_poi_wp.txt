@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Amarillo",
+    "transportation": "Taxi from Oklahoma City to Amarillo, duration: 268.945, distance: 415.9372, cost : 415.0",
+    "breakfast": "-",
+    "lunch": "575° Pizzeria - Hillside, Amarillo",
+    "dinner": "Six Car Pub & Brewery, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "Rustic Ridge | Amazing Views of Palo Duro Canyon, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 10:58 to 11:28, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; 575° Pizzeria - Hillside, Amarillo, visit from 12:00 to 13:00, ; Cadillac Ranch, Amarillo, visit from 13:30 to 20:15, ; Six Car Pub & Brewery, Amarillo, visit from 20:45 to 22:00, ; Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 22:30 to 06:30, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Youngblood's Cafe, Amarillo",
+    "lunch": "Metropolitan, Amarillo",
+    "dinner": "Ohms Cafe & Catering, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Rustic Ridge | Amazing Views of Palo Duro Canyon, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 07:00 to 07:30, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Youngblood's Cafe, Amarillo, visit from 08:00 to 09:59, ; Metropolitan, Amarillo, visit from 14:00 to 15:00, ; Route 66 Historic District, Amarillo, visit from 15:30 to 20:15, ; Ohms Cafe & Catering, Amarillo, visit from 20:45 to 22:00, ; Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 22:30 to 06:30, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Joe Taco, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "McCracken Bird and Beach Guesthouse., Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 07:00 to 07:30, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Joe Taco, Amarillo, visit from 08:00 to 08:50, ; McCracken Bird and Beach Guesthouse., stay from 21:10 to 21:40, nearest transit: 356-Santa Fe  @  Delmar, 237.76m away; McCracken Bird and Beach Guesthouse., stay from 22:10 to 06:10, nearest transit: 356-Santa Fe  @  Delmar, 237.76m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Republic of Texas Bar & Grill, Corpus Christi",
+    "lunch": "Yardarm Restaurant, Corpus Christi",
+    "dinner": "Katz 21 Steak & Spirits, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "McCracken Bird and Beach Guesthouse., Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "McCracken Bird and Beach Guesthouse., stay from 06:40 to 07:10, nearest transit: 356-Santa Fe  @  Delmar, 237.76m away; Republic of Texas Bar & Grill, Corpus Christi, visit from 08:59 to 09:49, ; USS Lexington Museum, Corpus Christi, visit from 10:19 to 13:49, ; Yardarm Restaurant, Corpus Christi, visit from 14:19 to 15:19, ; Katz 21 Steak & Spirits, Corpus Christi, visit from 19:20 to 20:35, ; McCracken Bird and Beach Guesthouse., stay from 21:05 to 05:05, nearest transit: 356-Santa Fe  @  Delmar, 237.76m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F0579252, from Corpus Christi to Houston, Departure Time: 07:30, Arrival Time: 08:38",
+    "breakfast": "-",
+    "lunch": "Taste of Texas, Houston",
+    "dinner": "Uchi Houston, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "McCracken Bird and Beach Guesthouse., stay from 06:00 to 07:00, nearest transit: 356-Santa Fe  @  Delmar, 237.76m away; Modern Houston Heights Getaway, stay from 09:08 to 09:38, nearest transit: Yale St @ Thornton Rd, 203.09m away; Hermann Park, Houston, visit from 10:08 to 13:38, ; Taste of Texas, Houston, visit from 14:08 to 15:08, ; Uchi Houston, Houston, visit from 20:45 to 22:07, ; Modern Houston Heights Getaway, stay from 22:37 to 06:37, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Brenner's on the Bayou, Houston",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 07:07 to 07:37, nearest transit: Yale St @ Thornton Rd, 203.09m away; Brenner's on the Bayou, Houston, visit from 08:07 to 08:57, ; NRG Stadium, Houston, visit from 09:27 to 12:57, ; Eddie V's Prime Seafood, Houston, visit from 13:59 to 14:59, ; Pappas Bros. Steakhouse, Houston, visit from 19:00 to 20:15, ; Modern Houston Heights Getaway, stay from 21:30 to 05:30, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Oklahoma City",
+    "transportation": "Flight Number: F2283677, from Houston to Oklahoma City, Departure Time: 18:28, Arrival Time: 20:05",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "dinner": "-",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 06:00 to 06:30, nearest transit: Yale St @ Thornton Rd, 203.09m away; Brennan's of Houston, Houston, visit from 08:00 to 08:50, ; Cockrell Butterfly Center, Houston, visit from 09:20 to 12:50, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 13:20 to 14:20, "
+  }
+]

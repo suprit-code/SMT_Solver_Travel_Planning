@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to Sacramento",
+    "transportation": "Flight Number: F2674033, from Ontario to Sacramento, Departure Time: 09:18, Arrival Time: 10:27",
+    "breakfast": "-",
+    "lunch": "The Kitchen Restaurant, Sacramento",
+    "dinner": "Tower Cafe, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 10:57 to 13:30, nearest transit: 3RD ST & V ST (SB), 1612.57m away; The Kitchen Restaurant, Sacramento, visit from 14:00 to 15:00, ; California State Capitol Museum, Sacramento, visit from 15:30 to 19:00, ; Tower Cafe, Sacramento, visit from 19:30 to 20:45, ; Modern Apt Near Downtown Sac, stay from 23:40 to 07:40, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Grange Restaurant & Bar, Sacramento",
+    "lunch": "Il Fornaio, Sacramento",
+    "dinner": "The Firehouse Restaurant, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 08:10 to 08:40, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Grange Restaurant & Bar, Sacramento, visit from 09:10 to 10:00, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; Il Fornaio, Sacramento, visit from 14:30 to 15:30, ; The Firehouse Restaurant, Sacramento, visit from 19:31 to 20:46, ; Modern Apt Near Downtown Sac, stay from 21:16 to 05:16, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to Ontario",
+    "transportation": "Flight Number: F0054885, from Sacramento to Ontario, Departure Time: 19:44, Arrival Time: 20:48",
+    "breakfast": "Nopalitos, Sacramento",
+    "lunch": "Yue Huang Restaurant, Sacramento",
+    "dinner": "-",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 06:00 to 08:39, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Nopalitos, Sacramento, visit from 09:09 to 09:59, ; Yue Huang Restaurant, Sacramento, visit from 14:00 to 15:00, ; Sacramento History Museum, Sacramento, visit from 15:30 to 19:00, "
+  }
+]

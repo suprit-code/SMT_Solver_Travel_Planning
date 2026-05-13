@@ -1,0 +1,1 @@
+Design a 7-day travel itinerary for 2 people starting from Dallas and visiting 3 cities in Tennessee between November 4th and November 10th, 2024. The budget is $10,500. Accommodations should include an entire home, and the cuisine preference is American.

@@ -1,0 +1,6 @@
+Destination cities: ['Washington'],
+Transportation dates: ['2024-11-26', '2024-11-28'],
+Transportation methods between cities: ['Flight Number: F0109299, from Louisville to Washington, Departure Time: 09:23, Arrival Time: 10:51', 'Flight Number: F0107839, from Washington to Louisville, Departure Time: 18:27, Arrival Time: 20:04'],
+Restaurants (3 meals per day): ['-', 'RPM Italian, Washington', 'Smoke & Mirrors Rooftop Bar, Washington', 'Unconventional Diner, Washington', 'Fiola, Washington', 'The Dabney, Washington', 'Cafe Milano, Washington', 'Thip Khao, Washington', '-'],
+Attractions (1 per day): ["Ford's Theatre, Washington", 'United States Botanic Garden, Washington', 'National Mall, Washington'],
+Accommodations (1 per city): ['Cozy Capitol Hill English Basement, Washington']

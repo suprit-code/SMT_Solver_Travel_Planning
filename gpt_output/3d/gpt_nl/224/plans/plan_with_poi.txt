@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Las Vegas",
+    "transportation": "Flight Number: F2562339, from Memphis to Las Vegas, Departure Time: 22:46, Arrival Time: 00:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 00:43 to 01:13, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 01:43 to 08:00, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Vic & Anthony's Steakhouse, Las Vegas",
+    "lunch": "The Mayfair Supper Club, Las Vegas",
+    "dinner": "Kabuto, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:30 to 09:00, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Vic & Anthony's Steakhouse, Las Vegas, visit from 09:31 to 10:21, ; The Mayfair Supper Club, Las Vegas, visit from 14:22 to 15:22, ; Kabuto, Las Vegas, visit from 19:23 to 20:38, ; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 21:08 to 05:08, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Memphis",
+    "transportation": "Flight Number: F0376611, from Las Vegas to Memphis, Departure Time: 16:07, Arrival Time: 21:45",
+    "breakfast": "Top of the World, Las Vegas",
+    "lunch": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "dinner": "-",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 06:00 to 06:30, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Top of the World, Las Vegas, visit from 08:00 to 10:00, ; Hoover Dam Bypass, Las Vegas, visit from 10:30 to 14:00, ; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 14:30 to 15:37, "
+  }
+]

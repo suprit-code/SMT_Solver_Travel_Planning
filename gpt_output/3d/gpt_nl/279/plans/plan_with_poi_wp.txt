@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Manchester to Tampa",
+    "transportation": "Flight Number: F0932639, from Manchester to Tampa, Departure Time: 14:33, Arrival Time: 18:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bern's Steak House, Tampa",
+    "attraction": "-",
+    "accommodation": "The Treehouse: King Bed, Full Kitchen, New AC, Tampa",
+    "event": "-",
+    "point_of_interest_list": "The Treehouse: King Bed, Full Kitchen, New AC, stay from 18:48 to 19:18, nearest transit: Busch Gardens Employee Entrance, 5370.46m away; Bern's Steak House, Tampa, visit from 19:48 to 21:03, ; The Treehouse: King Bed, Full Kitchen, New AC, stay from 21:33 to 05:33, nearest transit: Busch Gardens Employee Entrance, 5370.46m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Al's Finger Licking Good Bar-B-Que, Tampa",
+    "lunch": "Eddie V's Prime Seafood, Tampa",
+    "dinner": "Green Lemon, Tampa",
+    "attraction": "Tampa Theatre, Tampa",
+    "accommodation": "The Treehouse: King Bed, Full Kitchen, New AC, Tampa",
+    "event": "-",
+    "point_of_interest_list": "The Treehouse: King Bed, Full Kitchen, New AC, stay from 06:03 to 06:33, nearest transit: Busch Gardens Employee Entrance, 5370.46m away; Al's Finger Licking Good Bar-B-Que, Tampa, visit from 08:07 to 08:57, ; Tampa Theatre, Tampa, visit from 09:27 to 12:57, ; Eddie V's Prime Seafood, Tampa, visit from 13:27 to 14:27, ; Green Lemon, Tampa, visit from 19:00 to 20:15, ; The Treehouse: King Bed, Full Kitchen, New AC, stay from 20:45 to 04:45, nearest transit: Busch Gardens Employee Entrance, 5370.46m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Manchester",
+    "transportation": "Flight Number: F3166481, from Tampa to Manchester, Departure Time: 10:57, Arrival Time: 13:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Treehouse: King Bed, Full Kitchen, New AC, stay from 06:00 to 06:30, nearest transit: Busch Gardens Employee Entrance, 5370.46m away"
+  }
+]

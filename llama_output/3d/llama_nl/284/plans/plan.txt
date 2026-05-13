@@ -1,0 +1,6 @@
+Destination cities: ['Sacramento'],
+Transportation dates: ['2024-11-20', '2024-11-22'],
+Transportation methods between cities: ['Flight Number: F2674033, from Ontario to Sacramento, Departure Time: 09:18, Arrival Time: 10:27', 'Flight Number: F0054885, from Sacramento to Ontario, Departure Time: 19:44, Arrival Time: 20:48'],
+Restaurants (3 meals per day): ['-', 'The Kitchen Restaurant, Sacramento', 'Tower Cafe, Sacramento', 'Grange Restaurant & Bar, Sacramento', 'Il Fornaio, Sacramento', 'The Firehouse Restaurant, Sacramento', 'Nopalitos, Sacramento', 'Yue Huang Restaurant, Sacramento', 'The Porch Restaurant and Bar, Sacramento'],
+Attractions (1 per day): ['California State Capitol Museum, Sacramento', 'Capitol Park, Sacramento', 'Sacramento History Museum, Sacramento'],
+Accommodations (1 per city): ['Modern Apt Near Downtown Sac, Sacramento']

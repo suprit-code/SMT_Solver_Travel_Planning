@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Seattle",
+    "transportation": "Flight Number: F3309401, from Charleston to Seattle, Departure Time: 17:05, Arrival Time: 20:04",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Nut House, Seattle",
+    "event": "-",
+    "point_of_interest_list": "The Nut House, stay from 20:34 to 22:24, nearest transit: 271st St NW & 101st Ave NW, 8426.62m away; The Nut House, stay from 22:54 to 06:54, nearest transit: 271st St NW & 101st Ave NW, 8426.62m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "Place Pigalle Restaurant and Bar, Seattle",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "The Nut House, Seattle",
+    "event": "-",
+    "point_of_interest_list": "The Nut House, stay from 07:24 to 07:54, nearest transit: 271st St NW & 101st Ave NW, 8426.62m away; Noi Thai Cuisine, Seattle, visit from 08:24 to 09:14, ; Seattle Aquarium, Seattle, visit from 09:44 to 13:14, ; Il Terrazzo Carmine, Seattle, visit from 13:44 to 14:44, ; Place Pigalle Restaurant and Bar, Seattle, visit from 19:00 to 20:15, ; The Nut House, stay from 20:45 to 05:30, nearest transit: 271st St NW & 101st Ave NW, 8426.62m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Charleston",
+    "transportation": "Flight Number: F1974763, from Seattle to Charleston, Departure Time: 09:59, Arrival Time: 18:23",
+    "breakfast": "El Gaucho Seattle, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Nut House, stay from 06:00 to 08:02, nearest transit: 271st St NW & 101st Ave NW, 8426.62m away; El Gaucho Seattle, Seattle, visit from 08:32 to 09:29, "
+  }
+]

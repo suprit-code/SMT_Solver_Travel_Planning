@@ -1,0 +1,6 @@
+Destination cities: ['Sacramento'],
+Transportation dates: ['2024-11-20', '2024-11-22'],
+Transportation methods between cities: ['Flight Number: F3954104, from Ontario to Sacramento, Departure Time: 13:58, Arrival Time: 15:17', 'Flight Number: F2705274, from Sacramento to Ontario, Departure Time: 19:02, Arrival Time: 20:17'],
+Restaurants (3 meals per day): ['-', '-', "Paesano's Pizzeria, Sacramento", 'Tower Cafe, Sacramento', 'Bangkok @12 Thai Restaurant, Sacramento', 'Nopalitos, Sacramento', 'Sauced BBQ & Spirits, Sacramento', 'Orphan, Sacramento', '-'],
+Attractions (1 per day): ['California State Capitol Museum, Sacramento', 'Sacramento History Museum, Sacramento', 'California State Railroad Museum, Sacramento'],
+Accommodations (1 per city): ['Home Away From Home, Sacramento']

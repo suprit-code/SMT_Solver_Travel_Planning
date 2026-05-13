@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Amarillo",
+    "transportation": "Taxi from Oklahoma City to Amarillo, duration: 268.945, distance: 415.9372, cost : 415.0",
+    "breakfast": "-",
+    "lunch": "Eddie's Napoli's Italian Restaurant, Amarillo",
+    "dinner": "El Manantial, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Downtown Luxury High-Rise Suite, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 13:00 to 13:30, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; Eddie's Napoli's Italian Restaurant, Amarillo, visit from 14:00 to 15:00, ; Route 66 Historic District, Amarillo, visit from 15:30 to 20:15, ; El Manantial, Amarillo, visit from 20:45 to 22:39, ; Downtown Luxury High-Rise Suite, stay from 23:09 to 07:09, nearest transit: SW 6th Ave & S Tyler St, 49.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Joe Taco, Amarillo",
+    "lunch": "Saltgrass Steak House, Amarillo",
+    "dinner": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "attraction": "Amarillo Museum of Art, Amarillo",
+    "accommodation": "Downtown Luxury High-Rise Suite, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 07:39 to 08:09, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; Joe Taco, Amarillo, visit from 08:39 to 10:00, ; Amarillo Museum of Art, Amarillo, visit from 10:30 to 14:00, ; Saltgrass Steak House, Amarillo, visit from 14:30 to 16:44, ; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 20:45 to 22:33, ; Downtown Luxury High-Rise Suite, stay from 23:03 to 07:03, nearest transit: SW 6th Ave & S Tyler St, 49.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 07:33 to 08:03, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; Golden Light Cafe & Cantina, Amarillo, visit from 08:33 to 09:23, ; Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, stay from 21:43 to 22:13, nearest transit: 2601-15209 Leeward, 433.78m away; Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, stay from 22:43 to 06:43, nearest transit: 2601-15209 Leeward, 433.78m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Executive Surf Club, Corpus Christi",
+    "lunch": "Yardarm Restaurant, Corpus Christi",
+    "dinner": "Island Time Sushi Bar & Seafood Grill, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, stay from 07:13 to 07:43, nearest transit: 2601-15209 Leeward, 433.78m away; Executive Surf Club, Corpus Christi, visit from 08:13 to 09:03, ; Yardarm Restaurant, Corpus Christi, visit from 13:04 to 14:04, ; USS Lexington Museum, Corpus Christi, visit from 14:34 to 18:30, ; Island Time Sushi Bar & Seafood Grill, Corpus Christi, visit from 19:00 to 20:15, ; Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, stay from 20:45 to 04:45, nearest transit: 2601-15209 Leeward, 433.78m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F3160234, from Corpus Christi to Houston, Departure Time: 10:20, Arrival Time: 11:06",
+    "breakfast": "Bien Merite, Corpus Christi",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "Space Center Houston, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, stay from 06:00 to 06:30, nearest transit: 2601-15209 Leeward, 433.78m away; Bien Merite, Corpus Christi, visit from 08:00 to 08:50, ; Entire Apt in the Heart of the City - Galleria, stay from 11:36 to 12:06, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Fogo de Chao Brazilian Steakhouse, Houston, visit from 12:51 to 13:51, ; Space Center Houston, Houston, visit from 14:21 to 18:30, ; Kenny & Ziggy's New York Deli, Houston, visit from 19:00 to 20:15, ; Entire Apt in the Heart of the City - Galleria, stay from 21:30 to 05:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Uchi Houston, Houston",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "Brenner's on the Bayou, Houston",
+    "attraction": "The Menil Collection, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:00 to 06:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Uchi Houston, Houston, visit from 09:10 to 10:00, ; The Menil Collection, Houston, visit from 10:30 to 14:00, ; Market on Houston, Houston, visit from 14:30 to 15:30, ; Brenner's on the Bayou, Houston, visit from 19:31 to 20:46, ; Entire Apt in the Heart of the City - Galleria, stay from 21:16 to 05:16, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Oklahoma City",
+    "transportation": "Taxi from Houston to Oklahoma City, duration: 471.9616666666667, distance: 715.9145, cost : 715.0",
+    "breakfast": "Houston's Trail's End, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "Holocaust Museum Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:00 to 06:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Houston's Trail's End, Houston, visit from 08:00 to 08:50, ; Brennan's of Houston, Houston, visit from 12:51 to 13:51, ; Holocaust Museum Houston, Houston, visit from 14:21 to 17:51, ; Pappas Bros. Steakhouse, Houston, visit from 19:00 to 20:15, "
+  }
+]

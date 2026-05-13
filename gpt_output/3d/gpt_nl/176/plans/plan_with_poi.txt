@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Nantucket",
+    "transportation": "Flight Number: F1700363, from Washington to Nantucket, Departure Time: 09:57, Arrival Time: 11:30",
+    "breakfast": "-",
+    "lunch": "Lola 41, Nantucket",
+    "dinner": "The Charlie Noble, Nantucket",
+    "attraction": "Great Point Light, Nantucket",
+    "accommodation": "Kerstin Swedish House, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "Kerstin Swedish House, stay from 12:00 to 13:00, nearest transit: Downtown (Washington Street, Greenhound Stop), 176.05m away; Lola 41, Nantucket, visit from 13:30 to 14:30, ; Great Point Light, Nantucket, visit from 15:00 to 18:30, ; The Charlie Noble, Nantucket, visit from 19:00 to 20:15, ; Kerstin Swedish House, stay from 22:03 to 06:03, nearest transit: Downtown (Washington Street, Greenhound Stop), 176.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nantucket",
+    "transportation": "-",
+    "breakfast": "Breeze Restaurant, Nantucket",
+    "lunch": "Ships Inn Restaurant, Nantucket",
+    "dinner": "Nantucket Grill-Durham, Nantucket",
+    "attraction": "Sankaty Head Lighthouse, Nantucket",
+    "accommodation": "Kerstin Swedish House, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "Kerstin Swedish House, stay from 06:33 to 08:40, nearest transit: Downtown (Washington Street, Greenhound Stop), 176.05m away; Breeze Restaurant, Nantucket, visit from 09:10 to 10:00, ; Sankaty Head Lighthouse, Nantucket, visit from 10:30 to 14:00, ; Ships Inn Restaurant, Nantucket, visit from 14:30 to 15:30, ; Nantucket Grill-Durham, Nantucket, visit from 20:45 to 22:00, ; Kerstin Swedish House, stay from 22:30 to 06:30, nearest transit: Downtown (Washington Street, Greenhound Stop), 176.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nantucket to Washington",
+    "transportation": "Flight Number: F1536771, from Nantucket to Washington, Departure Time: 10:01, Arrival Time: 11:28",
+    "breakfast": "Nantucket Grilll, Nantucket",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Kerstin Swedish House, stay from 07:00 to 07:30, nearest transit: Downtown (Washington Street, Greenhound Stop), 176.05m away; Nantucket Grilll, Nantucket, visit from 08:00 to 09:31, "
+  }
+]

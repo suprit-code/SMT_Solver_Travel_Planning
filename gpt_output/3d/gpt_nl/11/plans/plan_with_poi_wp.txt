@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Baltimore",
+    "transportation": "Flight Number: F0054984, from Sarasota to Baltimore, Departure Time: 06:15, Arrival Time: 08:53",
+    "breakfast": "-",
+    "lunch": "The Abbey Burger Bistro, Baltimore",
+    "dinner": "Amicci's, Baltimore",
+    "attraction": "Inner Harbor, Baltimore",
+    "accommodation": "Guesthouse Bedroom 2/Private Parking - Mt. Vernon, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Guesthouse Bedroom 2/Private Parking - Mt. Vernon, stay from 09:23 to 09:53, nearest transit: STATE CENTER (METRO) sb, 639.84m away; The Abbey Burger Bistro, Baltimore, visit from 14:00 to 15:00, ; Inner Harbor, Baltimore, visit from 15:30 to 19:00, ; Amicci's, Baltimore, visit from 20:45 to 22:53, ; Guesthouse Bedroom 2/Private Parking - Mt. Vernon, stay from 23:23 to 07:23, nearest transit: STATE CENTER (METRO) sb, 639.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Tagliata, Baltimore",
+    "lunch": "Magdalena, A Maryland Bistro, Baltimore",
+    "dinner": "Gertrude's Chesapeake Kitchen, Baltimore",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "Guesthouse Bedroom 2/Private Parking - Mt. Vernon, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Guesthouse Bedroom 2/Private Parking - Mt. Vernon, stay from 07:53 to 08:23, nearest transit: STATE CENTER (METRO) sb, 639.84m away; Tagliata, Baltimore, visit from 08:53 to 09:43, ; The Maryland Zoo, Baltimore, visit from 10:13 to 13:43, ; Magdalena, A Maryland Bistro, Baltimore, visit from 14:30 to 15:30, ; Gertrude's Chesapeake Kitchen, Baltimore, visit from 19:31 to 22:00, ; Guesthouse Bedroom 2/Private Parking - Mt. Vernon, stay from 22:30 to 06:30, nearest transit: STATE CENTER (METRO) sb, 639.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Sarasota",
+    "transportation": "Self-driving from Baltimore to Sarasota, duration: 1124.4833333333331, distance: 1604.5779, cost : 80.0",
+    "breakfast": "Alexander's Tavern, Baltimore",
+    "lunch": "Cypriana of Roland Park, Baltimore",
+    "dinner": "One-Eyed Mike's, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Guesthouse Bedroom 2/Private Parking - Mt. Vernon, stay from 07:00 to 07:30, nearest transit: STATE CENTER (METRO) sb, 639.84m away; Alexander's Tavern, Baltimore, visit from 08:00 to 08:50, ; National Aquarium, Baltimore, visit from 09:20 to 12:50, ; Cypriana of Roland Park, Baltimore, visit from 13:20 to 14:20, ; One-Eyed Mike's, Baltimore, visit from 19:00 to 20:15, "
+  }
+]

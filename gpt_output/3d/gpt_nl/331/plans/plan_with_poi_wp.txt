@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sitka to Seattle",
+    "transportation": "Flight Number: F2878676, from Sitka to Seattle, Departure Time: 13:45, Arrival Time: 17:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Pike Pub and Brewery, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 17:33 to 19:15, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; The Pike Pub and Brewery, Seattle, visit from 19:45 to 21:00, ; Cozy room near UW, stay from 21:30 to 05:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Barolo Ristorante, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Museum of Pop Culture, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Barolo Ristorante, Seattle, visit from 08:19 to 09:29, ; Noi Thai Cuisine, Seattle, visit from 13:30 to 14:30, ; Museum of Pop Culture, Seattle, visit from 15:00 to 18:30, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 19:00 to 20:15, ; Cozy room near UW, stay from 20:45 to 04:45, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Sitka",
+    "transportation": "Flight Number: F2337064, from Seattle to Sitka, Departure Time: 17:12, Arrival Time: 18:31",
+    "breakfast": "All Water Seafood & Oyster Bar, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "The Museum of Flight, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; All Water Seafood & Oyster Bar, Seattle, visit from 08:00 to 08:50, ; The Museum of Flight, Seattle, visit from 09:20 to 12:50, "
+  }
+]

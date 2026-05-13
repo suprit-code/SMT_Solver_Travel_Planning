@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to San Diego",
+    "transportation": "Flight Number: F3261583, from Dallas to San Diego, Departure Time: 17:01, Arrival Time: 17:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 18:26 to 20:17, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; South Mission Beach - Hotel Style Unit w/ AC, stay from 22:30 to 06:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 07:00 to 07:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Pacific Beach AleHouse, San Diego, visit from 08:00 to 09:29, ; Birch Aquarium at Scripps, San Diego, visit from 09:59 to 13:29, ; Mimmo's, San Diego, visit from 13:59 to 14:59, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 19:00 to 20:15, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 21:23 to 05:23, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F1764861, from San Diego to Sacramento, Departure Time: 06:53, Arrival Time: 08:33",
+    "breakfast": "-",
+    "lunch": "Zocalo, Sacramento",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 05:53 to 06:23, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Private Guest Bed 'N Bath near Downtown, stay from 09:03 to 09:33, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Sacramento History Museum, Sacramento, visit from 10:03 to 13:33, ; Zocalo, Sacramento, visit from 14:03 to 15:03, ; Paesano's Pizzeria, Sacramento, visit from 19:04 to 20:19, ; Private Guest Bed 'N Bath near Downtown, stay from 20:49 to 04:49, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Ella Dining Room & Bar, Sacramento",
+    "lunch": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "dinner": "Dawson's Steakhouse, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Ella Dining Room & Bar, Sacramento, visit from 08:01 to 08:51, ; California State Capitol Museum, Sacramento, visit from 09:21 to 12:51, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 13:21 to 14:21, ; Dawson's Steakhouse, Sacramento, visit from 19:00 to 20:15, ; Private Guest Bed 'N Bath near Downtown, stay from 20:45 to 04:45, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Dallas",
+    "transportation": "Flight Number: F2845838, from Sacramento to Dallas, Departure Time: 14:55, Arrival Time: 20:09",
+    "breakfast": "Grange Restaurant & Bar, Sacramento",
+    "lunch": "The Waterboy, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Railroad Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 07:00 to 07:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Grange Restaurant & Bar, Sacramento, visit from 08:00 to 08:50, ; California State Railroad Museum, Sacramento, visit from 09:25 to 12:55, ; The Waterboy, Sacramento, visit from 13:25 to 14:25, "
+  }
+]

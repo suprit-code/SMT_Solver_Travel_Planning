@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Nashville",
+    "transportation": "Flight Number: F3971144, from Dallas to Nashville, Departure Time: 13:03, Arrival Time: 14:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Catbird Seat, Nashville",
+    "attraction": "-",
+    "accommodation": "Historic Dream In East Nashville, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Historic Dream In East Nashville, stay from 15:15 to 15:45, nearest transit: SHELBY AVE & S 9TH ST WB, 67.91m away; The Catbird Seat, Nashville, visit from 19:00 to 20:15, ; Historic Dream In East Nashville, stay from 20:45 to 04:45, nearest transit: SHELBY AVE & S 9TH ST WB, 67.91m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "The Standard, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "attraction": "Andrew Jackson's Hermitage, Nashville",
+    "accommodation": "Historic Dream In East Nashville, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Historic Dream In East Nashville, stay from 06:00 to 06:30, nearest transit: SHELBY AVE & S 9TH ST WB, 67.91m away; The Standard, Nashville, visit from 09:10 to 10:00, ; Andrew Jackson's Hermitage, Nashville, visit from 10:30 to 14:00, ; Kayne Prime, Nashville, visit from 14:30 to 15:30, ; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 20:45 to 22:00, ; Historic Dream In East Nashville, stay from 22:30 to 06:30, nearest transit: SHELBY AVE & S 9TH ST WB, 67.91m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Adele's Nashville, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "-",
+    "attraction": "Nashville Parthenon, Nashville",
+    "accommodation": "The Secret Society Suite, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Historic Dream In East Nashville, stay from 07:00 to 07:30, nearest transit: SHELBY AVE & S 9TH ST WB, 67.91m away; Adele's Nashville, Nashville, visit from 08:00 to 08:50, ; Nashville Parthenon, Nashville, visit from 09:20 to 12:50, ; Aquarium Restaurant, Nashville, visit from 13:20 to 14:20, ; The Secret Society Suite, stay from 20:39 to 21:09, nearest transit: Cumberland St & Waters Alley, 149.61m away; The Secret Society Suite, stay from 21:39 to 05:39, nearest transit: Cumberland St & Waters Alley, 149.61m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Eat a Pitta, Bristol",
+    "lunch": "Bravas, Bristol",
+    "dinner": "Bosco Pizzeria, Bristol",
+    "attraction": "Bristol Museum & Art Gallery, Bristol",
+    "accommodation": "The Secret Society Suite, Bristol",
+    "event": "-",
+    "point_of_interest_list": "The Secret Society Suite, stay from 06:09 to 06:39, nearest transit: Cumberland St & Waters Alley, 149.61m away; Eat a Pitta, Bristol, visit from 08:04 to 08:54, ; Bristol Museum & Art Gallery, Bristol, visit from 09:24 to 12:54, ; Bravas, Bristol, visit from 14:30 to 15:30, ; Bosco Pizzeria, Bristol, visit from 20:45 to 22:00, ; The Secret Society Suite, stay from 22:30 to 06:30, nearest transit: Cumberland St & Waters Alley, 149.61m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Bristol Lounge, Bristol",
+    "lunch": "Little Bristol Beach Bar, Bristol",
+    "dinner": "Public House, Chattanooga",
+    "attraction": "Brunel's SS Great Britain, Bristol",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "The Secret Society Suite, stay from 07:00 to 07:30, nearest transit: Cumberland St & Waters Alley, 149.61m away; Bristol Lounge, Bristol, visit from 08:00 to 08:50, ; Brunel's SS Great Britain, Bristol, visit from 09:20 to 12:50, ; Little Bristol Beach Bar, Bristol, visit from 13:20 to 14:36, ; Wren’s nest on the ridge, stay from 19:45 to 20:15, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Public House, Chattanooga, visit from 20:45 to 22:16, ; Wren’s nest on the ridge, stay from 22:46 to 06:46, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Stir, Chattanooga",
+    "lunch": "Zaya 1943 Korean Steakhouse, Chattanooga",
+    "dinner": "Mellow Mushroom Chattanooga, Chattanooga",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 07:16 to 07:46, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Stir, Chattanooga, visit from 08:16 to 09:06, ; Zaya 1943 Korean Steakhouse, Chattanooga, visit from 13:07 to 14:07, ; Tennessee Valley Railroad Museum, Chattanooga, visit from 15:00 to 18:30, ; Mellow Mushroom Chattanooga, Chattanooga, visit from 19:00 to 20:15, ; Wren’s nest on the ridge, stay from 20:45 to 04:45, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Dallas",
+    "transportation": "Taxi from Chattanooga to Dallas, duration: 850.02, distance: 1274.8416000000002, cost : 1274.0",
+    "breakfast": "-",
+    "lunch": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "dinner": "Ruth's Chris Steak House, Chattanooga",
+    "attraction": "Walnut Street Bridge, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 06:00 to 07:30, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Walnut Street Bridge, Chattanooga, visit from 09:00 to 12:30, ; The Purple Daisy Picnic Cafe, Chattanooga, visit from 13:00 to 14:00, ; Ruth's Chris Steak House, Chattanooga, visit from 19:00 to 20:15, "
+  }
+]

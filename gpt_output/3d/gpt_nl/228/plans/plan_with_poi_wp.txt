@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Santa Rosa",
+    "transportation": "Flight Number: F0400302, from Dallas to Santa Rosa, Departure Time: 11:25, Arrival Time: 13:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Piner Cafe, Santa Rosa",
+    "attraction": "Harvest Moon Winery, Santa Rosa",
+    "accommodation": "Lovely older home w/ private rm and bath/tub., Santa Rosa",
+    "event": "-",
+    "point_of_interest_list": "Lovely older home w/ private rm and bath/tub., stay from 13:46 to 15:00, nearest transit: Fourth St @ Talbot Ave, 237.09m away; Harvest Moon Winery, Santa Rosa, visit from 15:30 to 19:15, ; Piner Cafe, Santa Rosa, visit from 19:45 to 21:00, ; Lovely older home w/ private rm and bath/tub., stay from 21:30 to 05:30, nearest transit: Fourth St @ Talbot Ave, 237.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Santa Rosa",
+    "transportation": "-",
+    "breakfast": "Pho Vietnam, Santa Rosa",
+    "lunch": "The Spinster Sisters, Santa Rosa",
+    "dinner": "Jeffreys Hillside Cafe, Santa Rosa",
+    "attraction": "Safari West, Santa Rosa",
+    "accommodation": "Lovely older home w/ private rm and bath/tub., Santa Rosa",
+    "event": "-",
+    "point_of_interest_list": "Lovely older home w/ private rm and bath/tub., stay from 06:00 to 06:30, nearest transit: Fourth St @ Talbot Ave, 237.09m away; Pho Vietnam, Santa Rosa, visit from 09:10 to 10:00, ; Safari West, Santa Rosa, visit from 10:30 to 14:00, ; The Spinster Sisters, Santa Rosa, visit from 14:30 to 15:30, ; Jeffreys Hillside Cafe, Santa Rosa, visit from 19:31 to 20:46, ; Lovely older home w/ private rm and bath/tub., stay from 21:16 to 05:16, nearest transit: Fourth St @ Talbot Ave, 237.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Santa Rosa to Dallas",
+    "transportation": "Flight Number: F1376968, from Santa Rosa to Dallas, Departure Time: 13:33, Arrival Time: 18:57",
+    "breakfast": "Yeti Restaurant, Santa Rosa",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "St. Francis Winery and Vineyards, Santa Rosa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lovely older home w/ private rm and bath/tub., stay from 06:00 to 06:30, nearest transit: Fourth St @ Talbot Ave, 237.09m away; Yeti Restaurant, Santa Rosa, visit from 08:00 to 08:50, ; St. Francis Winery and Vineyards, Santa Rosa, visit from 09:33 to 13:03, "
+  }
+]

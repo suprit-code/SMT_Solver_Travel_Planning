@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Las Vegas",
+    "transportation": "Flight Number: F0919318, from Sioux Falls to Las Vegas, Departure Time: 15:40, Arrival Time: 16:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Eggslut, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Hidden Oasis, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Hidden Oasis, stay from 16:41 to 19:15, nearest transit: The Strat, 8594.91m away; Eggslut, Las Vegas, visit from 19:45 to 21:00, ; Hidden Oasis, stay from 21:30 to 05:30, nearest transit: The Strat, 8594.91m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Ameribrunch Cafe, Las Vegas",
+    "attraction": "The Neon Museum, Las Vegas",
+    "accommodation": "Hidden Oasis, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Hidden Oasis, stay from 06:00 to 06:30, nearest transit: The Strat, 8594.91m away; Gordon Ramsay Hell's Kitchen, Las Vegas, visit from 08:03 to 09:59, ; Eggscellent, Las Vegas, visit from 14:00 to 15:00, ; The Neon Museum, Las Vegas, visit from 15:30 to 20:15, ; Ameribrunch Cafe, Las Vegas, visit from 20:45 to 22:00, ; Hidden Oasis, stay from 22:30 to 06:30, nearest transit: The Strat, 8594.91m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Sioux Falls",
+    "transportation": "Flight Number: F2560739, from Las Vegas to Sioux Falls, Departure Time: 16:07, Arrival Time: 20:39",
+    "breakfast": "Mr. Mamas, Las Vegas",
+    "lunch": "Garden Court, Las Vegas",
+    "dinner": "-",
+    "attraction": "Titanic: The Artifact Exhibition, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hidden Oasis, stay from 07:00 to 07:30, nearest transit: The Strat, 8594.91m away; Mr. Mamas, Las Vegas, visit from 08:00 to 10:00, ; Titanic: The Artifact Exhibition, Las Vegas, visit from 10:30 to 14:00, ; Garden Court, Las Vegas, visit from 14:30 to 15:30, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Greensboro'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Self-driving, from Washington to Greensboro, duration: 357.2, distance: 497.6169, cost: 24', 'Flight Number: F3065842, from Greensboro to Washington, Departure Time: 15:46, Arrival Time: 16:53'],
+Restaurants (3 meals per day): ['-', '-', '-', "Fleming's Prime Steakhouse & Wine Bar, Greensboro", 'Golden Wok, Greensboro', "Mimi's Cafe, Greensboro", "Stamey's Barbecue, Greensboro", "Captain Bill's Seafood & Steak, Greensboro", '-'],
+Attractions (1 per day): ['-', 'Carolina Theatre, Greensboro', '-'],
+Accommodations (1 per city): ['Leftwich St APT 2, Greensboro']

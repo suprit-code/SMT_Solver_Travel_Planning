@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Las Vegas",
+    "transportation": "Flight Number: F1672101, from Cleveland to Las Vegas, Departure Time: 15:03, Arrival Time: 16:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Clean Cozy Room w/att'd Private Bath, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Clean Cozy Room w/att'd Private Bath, stay from 16:39 to 17:09, nearest transit: The Strat, 11509.56m away; Clean Cozy Room w/att'd Private Bath, stay from 17:39 to 01:39, nearest transit: The Strat, 11509.56m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Garden Court, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "Clean Cozy Room w/att'd Private Bath, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Clean Cozy Room w/att'd Private Bath, stay from 06:00 to 07:33, nearest transit: The Strat, 11509.56m away; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 08:03 to 09:29, ; Bellagio Conservatory & Botanical Garden, Las Vegas, visit from 09:59 to 13:29, ; Eggscellent, Las Vegas, visit from 13:59 to 14:59, ; Garden Court, Las Vegas, visit from 19:00 to 20:15, ; Clean Cozy Room w/att'd Private Bath, stay from 00:00 to 08:00, nearest transit: The Strat, 11509.56m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Cleveland",
+    "transportation": "Flight Number: F3883892, from Las Vegas to Cleveland, Departure Time: 23:05, Arrival Time: 05:55",
+    "breakfast": "-",
+    "lunch": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "dinner": "-",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Clean Cozy Room w/att'd Private Bath, stay from 08:30 to 09:00, nearest transit: The Strat, 11509.56m away; Hoover Dam Bypass, Las Vegas, visit from 09:30 to 14:00, ; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 14:30 to 22:35, "
+  }
+]

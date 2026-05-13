@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Nantucket",
+    "transportation": "Flight Number: F1700363, from Washington to Nantucket, Departure Time: 09:57, Arrival Time: 11:30",
+    "breakfast": "-",
+    "lunch": "Nantucket Grill-Chapel Hill, Nantucket",
+    "dinner": "Company of the Cauldron, Nantucket",
+    "attraction": "Sankaty Head Lighthouse, Nantucket",
+    "accommodation": "Kerstin Swedish House, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "Kerstin Swedish House, stay from 12:00 to 13:30, nearest transit: Downtown (Washington Street, Greenhound Stop), 176.05m away; Nantucket Grill-Chapel Hill, Nantucket, visit from 14:00 to 15:00, ; Sankaty Head Lighthouse, Nantucket, visit from 15:30 to 20:15, ; Company of the Cauldron, Nantucket, visit from 20:45 to 22:00, ; Kerstin Swedish House, stay from 22:30 to 06:30, nearest transit: Downtown (Washington Street, Greenhound Stop), 176.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nantucket",
+    "transportation": "-",
+    "breakfast": "Nantucket Grilll, Nantucket",
+    "lunch": "Ventuno, Nantucket",
+    "dinner": "The Charlie Noble, Nantucket",
+    "attraction": "Great Point Light, Nantucket",
+    "accommodation": "Kerstin Swedish House, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "Kerstin Swedish House, stay from 07:00 to 07:30, nearest transit: Downtown (Washington Street, Greenhound Stop), 176.05m away; Nantucket Grilll, Nantucket, visit from 08:00 to 09:29, ; Ventuno, Nantucket, visit from 13:30 to 14:30, ; Great Point Light, Nantucket, visit from 15:00 to 18:30, ; The Charlie Noble, Nantucket, visit from 19:00 to 20:15, ; Kerstin Swedish House, stay from 20:45 to 06:30, nearest transit: Downtown (Washington Street, Greenhound Stop), 176.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nantucket to Washington",
+    "transportation": "Flight Number: F2471861, from Nantucket to Washington, Departure Time: 14:31, Arrival Time: 16:12",
+    "breakfast": "The Chanticleer, Nantucket",
+    "lunch": "Le Languedoc Inn & Bistro, Nantucket",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Kerstin Swedish House, stay from 07:00 to 07:30, nearest transit: Downtown (Washington Street, Greenhound Stop), 176.05m away; The Chanticleer, Nantucket, visit from 08:00 to 08:50, ; Le Languedoc Inn & Bistro, Nantucket, visit from 12:51 to 13:51, "
+  }
+]

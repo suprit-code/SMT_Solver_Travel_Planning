@@ -1,0 +1,6 @@
+Destination cities: ['Kansas City'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['taxi, from Detroit to Kansas City, duration: 854.0949999999999, distance: 1230.7483, cost: 1230', 'Flight Number: F3548003, from Kansas City to Detroit, Departure Time: 18:52, Arrival Time: 21:32'],
+Restaurants (3 meals per day): ['-', '-', '-', 'eggtc., Kansas City', "Eddie V's Prime Seafood, Kansas City", 'Fogo de Chao Brazilian Steakhouse, Kansas City', 'Beer Kitchen, Kansas City', 'KC Chop House, Kansas City', "Lidia's, Kansas City"],
+Attractions (1 per day): ['-', 'Kauffman Stadium, Kansas City', "Tom's Town Distilling Co., Kansas City"],
+Accommodations (1 per city): ['Broadway private room (2 min walk from KU Med), Kansas City']

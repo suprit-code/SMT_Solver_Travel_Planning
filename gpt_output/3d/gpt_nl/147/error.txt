@@ -1,0 +1,11 @@
+
+--- JOB 147 FAILED ---
+Error: name 'arrives' is not defined
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 190, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 96, in <module>
+NameError: name 'arrives' is not defined
+
+----------------------------------------

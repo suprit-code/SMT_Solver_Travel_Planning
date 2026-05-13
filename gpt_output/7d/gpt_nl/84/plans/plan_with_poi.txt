@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Greensboro",
+    "transportation": "Taxi from Hartford to Greensboro, duration: 783.4616666666666, distance: 1043.7665, cost : 1043.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Golden Wok, Greensboro",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 19:33 to 20:15, nearest transit: Glendale/Randleman Rd., 155.05m away; Golden Wok, Greensboro, visit from 20:45 to 22:00, ; A little Southern Hospitality, stay from 22:30 to 06:30, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Sarah's Kabob Shop, Greensboro",
+    "lunch": "Stamey's Barbecue, Greensboro",
+    "dinner": "Carolina's Diner, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:00 to 07:30, nearest transit: Glendale/Randleman Rd., 155.05m away; Sarah's Kabob Shop, Greensboro, visit from 08:00 to 09:59, ; Stamey's Barbecue, Greensboro, visit from 14:00 to 15:00, ; International Civil Rights Center & Museum, Greensboro, visit from 15:30 to 20:15, ; Carolina's Diner, Greensboro, visit from 20:45 to 22:00, ; A little Southern Hospitality, stay from 22:30 to 06:30, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Dear Dad's, Greensboro",
+    "lunch": "Mythos Grill, Greensboro",
+    "dinner": "Winnie's Tavern, Wilmington",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:00 to 07:30, nearest transit: Glendale/Randleman Rd., 155.05m away; Dear Dad's, Greensboro, visit from 08:00 to 08:50, ; Ambleside Gallery, Greensboro, visit from 09:20 to 12:50, ; Mythos Grill, Greensboro, visit from 13:20 to 14:20, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 19:45 to 20:15, nearest transit: Market St WB at 12th St, 326.9m away; Winnie's Tavern, Wilmington, visit from 20:45 to 22:36, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 23:06 to 07:06, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "The Anchor, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "Manna, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 07:36 to 08:06, nearest transit: Market St WB at 12th St, 326.9m away; The Anchor, Wilmington, visit from 08:36 to 09:26, ; Flaming Amy's Burrito Barn, Wilmington, visit from 13:27 to 14:27, ; Burgwin-Wright House and Gardens, Wilmington, visit from 15:00 to 18:30, ; Manna, Wilmington, visit from 19:00 to 20:15, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 20:45 to 04:45, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F1014254, from Wilmington to Charlotte, Departure Time: 16:09, Arrival Time: 17:09",
+    "breakfast": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "lunch": "Circa 1922, Wilmington",
+    "dinner": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "attraction": "-",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 06:00 to 06:30, nearest transit: Market St WB at 12th St, 326.9m away; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 08:00 to 08:50, ; Circa 1922, Wilmington, visit from 14:30 to 15:30, ; Comfy private bed and bath, stay from 17:39 to 18:09, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 19:31 to 20:46, ; Comfy private bed and bath, stay from 21:16 to 07:17, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Mac's Speed Shop, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "Pinky's Westside Grill, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 07:47 to 08:17, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Mac's Speed Shop, Charlotte, visit from 08:47 to 09:37, ; Levine Museum of the New South, Charlotte, visit from 10:07 to 14:00, ; Charlotte's Eats and Sweets, Charlotte, visit from 14:30 to 15:30, ; Pinky's Westside Grill, Charlotte, visit from 20:45 to 23:30, ; Comfy private bed and bath, stay from 00:00 to 08:00, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Hartford",
+    "transportation": "Flight Number: F3693562, from Charlotte to Hartford, Departure Time: 16:32, Arrival Time: 18:15",
+    "breakfast": "Charlotte Bakery, Charlotte",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 08:30 to 09:00, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Charlotte Bakery, Charlotte, visit from 09:30 to 10:20, ; Discovery Place Science, Charlotte, visit from 10:50 to 14:20, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Las Vegas",
+    "transportation": "Flight Number: F3577733, from Sioux Falls to Las Vegas, Departure Time: 12:16, Arrival Time: 13:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "The Neon Museum, Las Vegas",
+    "accommodation": "Super cozy brand new furnished private room! 2, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Super cozy brand new furnished private room! 2, stay from 13:41 to 14:11, nearest transit: The Strat, 5032.45m away; The Neon Museum, Las Vegas, visit from 15:00 to 18:30, ; Mr. Mamas, Las Vegas, visit from 19:00 to 20:15, ; Super cozy brand new furnished private room! 2, stay from 20:45 to 04:45, nearest transit: The Strat, 5032.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Hash House a Go Go, Las Vegas",
+    "lunch": "Carmine's, Las Vegas",
+    "dinner": "Eggslut, Las Vegas",
+    "attraction": "The Mob Museum, Las Vegas",
+    "accommodation": "Super cozy brand new furnished private room! 2, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Super cozy brand new furnished private room! 2, stay from 06:00 to 06:30, nearest transit: The Strat, 5032.45m away; Hash House a Go Go, Las Vegas, visit from 08:22 to 09:12, ; The Mob Museum, Las Vegas, visit from 09:42 to 13:12, ; Carmine's, Las Vegas, visit from 13:42 to 14:42, ; Eggslut, Las Vegas, visit from 19:00 to 20:15, ; Super cozy brand new furnished private room! 2, stay from 23:40 to 07:40, nearest transit: The Strat, 5032.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Sioux Falls",
+    "transportation": "Flight Number: F2560739, from Las Vegas to Sioux Falls, Departure Time: 16:07, Arrival Time: 20:39",
+    "breakfast": "Eggscellent, Las Vegas",
+    "lunch": "Ameribrunch Cafe, Las Vegas",
+    "dinner": "-",
+    "attraction": "Titanic: The Artifact Exhibition, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Super cozy brand new furnished private room! 2, stay from 08:10 to 08:40, nearest transit: The Strat, 5032.45m away; Eggscellent, Las Vegas, visit from 09:10 to 10:00, ; Titanic: The Artifact Exhibition, Las Vegas, visit from 10:30 to 14:00, ; Ameribrunch Cafe, Las Vegas, visit from 14:30 to 15:30, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Colorado Springs",
+    "transportation": "Self-driving from Las Vegas to Colorado Springs, duration: 844.2, distance: 1309.3198, cost : 65.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Casa De Mariposas, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 21:38 to 22:08, nearest transit: Galley/Ford, 862.13m away; Casa De Mariposas, stay from 22:38 to 06:38, nearest transit: Galley/Ford, 862.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "The Steakhouse At Flying Horse, Colorado Springs",
+    "lunch": "Cowboy Star, Colorado Springs",
+    "dinner": "The Melting Pot, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "Casa De Mariposas, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 07:08 to 07:38, nearest transit: Galley/Ford, 862.13m away; The Steakhouse At Flying Horse, Colorado Springs, visit from 08:08 to 09:59, ; Cowboy Star, Colorado Springs, visit from 14:00 to 15:00, ; Seven Falls, Colorado Springs, visit from 15:30 to 19:00, ; The Melting Pot, Colorado Springs, visit from 19:30 to 22:39, ; Casa De Mariposas, stay from 23:09 to 07:09, nearest transit: Galley/Ford, 862.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Colorado Springs to Las Vegas",
+    "transportation": "Self-driving from Colorado Springs to Las Vegas, duration: 842.7216666666667, distance: 1310.3347, cost : 65.0",
+    "breakfast": "MacKenzie's Chop House, Colorado Springs",
+    "lunch": "Summit at The Broadmoor, Colorado Springs",
+    "dinner": "Carlos Bistro, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 07:39 to 08:09, nearest transit: Galley/Ford, 862.13m away; MacKenzie's Chop House, Colorado Springs, visit from 08:39 to 09:29, ; Summit at The Broadmoor, Colorado Springs, visit from 13:30 to 14:30, ; Garden of the Gods, Colorado Springs, visit from 15:00 to 18:30, ; Carlos Bistro, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

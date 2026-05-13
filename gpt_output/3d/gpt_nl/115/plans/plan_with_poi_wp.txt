@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Seattle",
+    "transportation": "Flight Number: F3309401, from Charleston to Seattle, Departure Time: 17:05, Arrival Time: 20:04",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Nut House, Seattle",
+    "event": "-",
+    "point_of_interest_list": "The Nut House, stay from 20:34 to 21:04, nearest transit: 271st St NW & 101st Ave NW, 8426.62m away; The Nut House, stay from 21:34 to 06:33, nearest transit: 271st St NW & 101st Ave NW, 8426.62m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "JaK's Grill, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "Metropolitan Grill, Seattle",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "The Nut House, Seattle",
+    "event": "-",
+    "point_of_interest_list": "The Nut House, stay from 07:03 to 07:33, nearest transit: 271st St NW & 101st Ave NW, 8426.62m away; JaK's Grill, Seattle, visit from 08:03 to 10:00, ; Pike Place Market, Seattle, visit from 10:30 to 14:00, ; Noi Thai Cuisine, Seattle, visit from 14:30 to 15:30, ; Metropolitan Grill, Seattle, visit from 19:31 to 20:46, ; The Nut House, stay from 21:16 to 07:01, nearest transit: 271st St NW & 101st Ave NW, 8426.62m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Charleston",
+    "transportation": "Flight Number: F0246154, from Seattle to Charleston, Departure Time: 09:13, Arrival Time: 17:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Nut House, stay from 07:31 to 08:01, nearest transit: 271st St NW & 101st Ave NW, 8426.62m away"
+  }
+]

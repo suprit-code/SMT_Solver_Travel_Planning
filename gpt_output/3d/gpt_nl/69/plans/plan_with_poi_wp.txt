@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Los Angeles",
+    "transportation": "Flight Number: F3327836, from New York to Los Angeles, Departure Time: 13:57, Arrival Time: 17:05",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ayara Thai Cuisine, Los Angeles",
+    "attraction": "-",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 17:35 to 18:05, nearest transit: Oxnard St & Radford Ave, 386.65m away; Ayara Thai Cuisine, Los Angeles, visit from 19:00 to 20:15, ; Hollywood Hideaway, stay from 20:45 to 04:45, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "The Boiling Crab, Los Angeles",
+    "lunch": "Yang Chow, Los Angeles",
+    "dinner": "Raffaello Ristorante, Los Angeles",
+    "attraction": "Citadel Outlets, Los Angeles",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 06:00 to 06:30, nearest transit: Oxnard St & Radford Ave, 386.65m away; The Boiling Crab, Los Angeles, visit from 08:20 to 10:00, ; Citadel Outlets, Los Angeles, visit from 10:30 to 14:00, ; Yang Chow, Los Angeles, visit from 14:30 to 15:30, ; Raffaello Ristorante, Los Angeles, visit from 19:31 to 20:46, ; Hollywood Hideaway, stay from 21:16 to 05:16, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to New York",
+    "transportation": "Flight Number: F0284109, from Los Angeles to New York, Departure Time: 13:11, Arrival Time: 21:59",
+    "breakfast": "Republique, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 06:00 to 06:30, nearest transit: Oxnard St & Radford Ave, 386.65m away; Republique, Los Angeles, visit from 08:00 to 08:50, "
+  }
+]

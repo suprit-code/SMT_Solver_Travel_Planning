@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Reno to San Diego",
+    "transportation": "Self-driving from Reno to San Diego, duration: 678.895, distance: 897.9218000000001, cost : 44.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "-",
+    "accommodation": "Great Beach Fun and Rest in Pacific Beach!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 19:45 to 20:15, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Ruth's Chris Steak House, San Diego, visit from 20:45 to 22:01, ; Great Beach Fun and Rest in Pacific Beach!, stay from 22:31 to 06:31, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mister A'S, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Great Beach Fun and Rest in Pacific Beach!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 07:01 to 07:31, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Mister A'S, San Diego, visit from 08:01 to 08:51, ; Born & Raised, San Diego, visit from 12:52 to 13:52, ; SeaWorld, San Diego, visit from 15:00 to 18:30, ; Cowboy Star, San Diego, visit from 19:00 to 22:00, ; Great Beach Fun and Rest in Pacific Beach!, stay from 22:30 to 06:30, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Self-driving from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 53.0",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Master Suite w/Private Entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 07:00 to 07:30, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Juniper and Ivy, San Diego, visit from 08:00 to 08:50, ; Master Suite w/Private Entrance, stay from 22:04 to 22:34, nearest transit: College View Dr at Bethel, 514.81m away; Master Suite w/Private Entrance, stay from 23:40 to 07:40, nearest transit: College View Dr at Bethel, 514.81m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Vintage Public House, Redding",
+    "lunch": "View 202, Redding",
+    "dinner": "Thai Hut, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Master Suite w/Private Entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "Master Suite w/Private Entrance, stay from 08:10 to 08:40, nearest transit: College View Dr at Bethel, 514.81m away; Vintage Public House, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; View 202, Redding, visit from 14:30 to 15:30, ; Thai Hut, Redding, visit from 19:31 to 20:46, ; Master Suite w/Private Entrance, stay from 21:16 to 05:16, nearest transit: College View Dr at Bethel, 514.81m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Reno",
+    "transportation": "Self-driving from Redding to Reno, duration: 248.73166666666663, distance: 319.7163, cost : 15.0",
+    "breakfast": "Guadalajara Mexican Restaurant, Redding",
+    "lunch": "Jack's Grill, Redding",
+    "dinner": "Jeff's California Cattle Company Restaurant, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Master Suite w/Private Entrance, stay from 06:00 to 06:30, nearest transit: College View Dr at Bethel, 514.81m away; Guadalajara Mexican Restaurant, Redding, visit from 08:00 to 08:50, ; Sundial Bridge, Redding, visit from 09:20 to 12:50, ; Jack's Grill, Redding, visit from 14:30 to 15:30, ; Jeff's California Cattle Company Restaurant, Redding, visit from 19:31 to 20:46, "
+  }
+]

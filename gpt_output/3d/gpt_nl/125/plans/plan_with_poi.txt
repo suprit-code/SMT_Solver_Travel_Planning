@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Washington",
+    "transportation": "Flight Number: F4039411, from Houston to Washington, Departure Time: 07:26, Arrival Time: 11:17",
+    "breakfast": "-",
+    "lunch": "Smoke & Mirrors Rooftop Bar, Washington",
+    "dinner": "Cafe Milano, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "Attractive 2 Twin Beds Near Capitol, Washington",
+    "event": "-",
+    "point_of_interest_list": "Attractive 2 Twin Beds Near Capitol, stay from 11:47 to 12:17, nearest transit: POTOMAC AVE METRORAIL STATION, 500.7m away; Smoke & Mirrors Rooftop Bar, Washington, visit from 13:30 to 14:30, ; United States Botanic Garden, Washington, visit from 15:00 to 18:30, ; Cafe Milano, Washington, visit from 19:00 to 20:15, ; Attractive 2 Twin Beds Near Capitol, stay from 20:45 to 04:45, nearest transit: POTOMAC AVE METRORAIL STATION, 500.7m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Thip Khao, Washington",
+    "lunch": "La Grande Boucherie, Washington",
+    "dinner": "L'Ardente, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "Attractive 2 Twin Beds Near Capitol, Washington",
+    "event": "-",
+    "point_of_interest_list": "Attractive 2 Twin Beds Near Capitol, stay from 06:00 to 06:30, nearest transit: POTOMAC AVE METRORAIL STATION, 500.7m away; Thip Khao, Washington, visit from 08:00 to 08:50, ; National Mall, Washington, visit from 09:20 to 12:50, ; La Grande Boucherie, Washington, visit from 13:20 to 14:20, ; L'Ardente, Washington, visit from 19:00 to 20:15, ; Attractive 2 Twin Beds Near Capitol, stay from 20:45 to 04:36, nearest transit: POTOMAC AVE METRORAIL STATION, 500.7m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Houston",
+    "transportation": "Flight Number: F4040727, from Washington to Houston, Departure Time: 06:06, Arrival Time: 08:46",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Attractive 2 Twin Beds Near Capitol, stay from 05:06 to 05:36, nearest transit: POTOMAC AVE METRORAIL STATION, 500.7m away"
+  }
+]

@@ -1,0 +1,1 @@
+Design a 7-day travel itinerary for 1 person starting from Chicago and visiting 3 cities in Iowa between November 11th and November 17th, 2024. The budget is $7,500. Accommodations should be in an entire home, and dining options should include American and Mexican cuisines.

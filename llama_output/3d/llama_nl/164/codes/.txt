@@ -1,0 +1,15 @@
+
+    # Run HouseRuleSearch to get house rules info for city_0
+    house_rules = HouseRuleSearch(city_0)
+    
+    # Set 'house_rule' variables for 1 (1 per city) house rules
+    house_rule = house_rules[0]
+    
+    # For each 'house_rule', get specific house rule info
+    for rule in house_rules:
+        # Get specific house rule info
+        rule_info = rule.get_info()
+    
+        # Assert 'No parties' does not exist for all house rules
+        assert 'No parties' not in rule_info
+    

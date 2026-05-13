@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Santa Rosa to Seattle",
+    "transportation": "Flight Number: F1797554, from Santa Rosa to Seattle, Departure Time: 06:58, Arrival Time: 08:58",
+    "breakfast": "-",
+    "lunch": "The Capital Grille, Seattle",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "Cozy Studio with Kitchenette and Laundry, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 09:28 to 09:58, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; The Capital Grille, Seattle, visit from 12:00 to 13:00, ; Pike Place Market, Seattle, visit from 13:30 to 19:15, ; Il Terrazzo Carmine, Seattle, visit from 19:45 to 21:00, ; Cozy Studio with Kitchenette and Laundry, stay from 21:30 to 05:30, nearest transit: 8th Ave SW & SW Barton St, 278.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Matt's in the Market, Seattle",
+    "lunch": "Six Seven Restaurant, Seattle",
+    "dinner": "The Pink Door, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Cozy Studio with Kitchenette and Laundry, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 06:00 to 06:30, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; Matt's in the Market, Seattle, visit from 08:22 to 09:12, ; Woodland Park Zoo, Seattle, visit from 09:42 to 13:12, ; Six Seven Restaurant, Seattle, visit from 14:30 to 15:30, ; The Pink Door, Seattle, visit from 19:31 to 20:46, ; Cozy Studio with Kitchenette and Laundry, stay from 23:38 to 07:38, nearest transit: 8th Ave SW & SW Barton St, 278.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Santa Rosa",
+    "transportation": "Flight Number: F3864799, from Seattle to Santa Rosa, Departure Time: 15:58, Arrival Time: 18:10",
+    "breakfast": "Spinasse, Seattle",
+    "lunch": "Salty's On Alki Beach, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 08:08 to 08:38, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; Spinasse, Seattle, visit from 09:08 to 09:58, ; Seattle Aquarium, Seattle, visit from 10:28 to 13:58, ; Salty's On Alki Beach, Seattle, visit from 14:28 to 15:28, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tampa to Bloomington",
+    "transportation": "Taxi from Tampa to Bloomington, duration: 1228.5449999999998, distance: 1769.4128, cost : 1769.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "BNB Barker # 1, Bloomington",
+    "event": "-",
+    "point_of_interest_list": "BNB Barker # 1, stay from 02:58 to 03:28, nearest transit: Belle & Park Square, 252902.74m away; BNB Barker # 1, stay from 03:58 to 08:00, nearest transit: Belle & Park Square, 252902.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Bloomington",
+    "transportation": "-",
+    "breakfast": "Bub's Burgers and Ice Cream, Bloomington",
+    "lunch": "Malibu Grill, Bloomington",
+    "dinner": "Epiphany Farms Restaurant, Bloomington",
+    "attraction": "-",
+    "accommodation": "BNB Barker # 1, Bloomington",
+    "event": "-",
+    "point_of_interest_list": "BNB Barker # 1, stay from 08:30 to 09:00, nearest transit: Belle & Park Square, 252902.74m away; Bub's Burgers and Ice Cream, Bloomington, visit from 09:33 to 10:29, ; Malibu Grill, Bloomington, visit from 14:30 to 15:44, ; Epiphany Farms Restaurant, Bloomington, visit from 19:45 to 21:00, ; BNB Barker # 1, stay from 21:30 to 05:30, nearest transit: Belle & Park Square, 252902.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Bloomington to Tampa",
+    "transportation": "Taxi from Bloomington to Tampa, duration: 1224.335, distance: 1765.7608, cost : 1765.0",
+    "breakfast": "Big Woods Bloomington, Bloomington",
+    "lunch": "The Chocolate Moose, Bloomington",
+    "dinner": "My Thai Cafe & Sushi Bar, Bloomington",
+    "attraction": "Miller Park Zoo, Bloomington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "BNB Barker # 1, stay from 06:00 to 06:30, nearest transit: Belle & Park Square, 252902.74m away; Big Woods Bloomington, Bloomington, visit from 08:00 to 10:00, ; Miller Park Zoo, Bloomington, visit from 10:30 to 14:00, ; The Chocolate Moose, Bloomington, visit from 14:30 to 15:30, ; My Thai Cafe & Sushi Bar, Bloomington, visit from 19:31 to 20:46, "
+  }
+]

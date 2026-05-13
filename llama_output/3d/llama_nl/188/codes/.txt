@@ -1,0 +1,25 @@
+
+    # Run HouseRuleSearch to get house rules info for city_0
+    house_rules_info = HouseRuleSearch(city_0).get_house_rules()
+    
+    # Set 'house_rule' variables for each house rule ['No children under 10', 'No parties', 'No pets', 'No smoking', 'No visitors'] 
+    house_rules = [
+        'No children under 10',
+        'No parties',
+        'No pets',
+        'No smoking',
+        'No visitors'
+    ]
+    
+    # For each 'house_rule' variable, assert it to be either allowed or not allowed based on house rules info
+    for house_rule in house_rules:
+        # Check if the house rule is allowed or not allowed
+        if house_rule in house_rules_info['allowed']:
+            assert house_rules_info['allowed'][house_rule], f"House rule '{house_rule}' is allowed but should not be"
+        elif house_rule in house_rules_info['not_allowed']:
+            assert house_rules_info['not_allowed'][house_rule], f"House rule '{house_rule}' is not allowed but should be"
+        else:
+            assert False, f"House rule '{house_rule}' is neither allowed nor not allowed"
+    
+    
+    This code assumes that `HouseRuleSearch` is a class with a `get_house_rules` method that returns a dictionary with 'allowed' and 'not_allowed' keys. The 'allowed' key maps to another dictionary where the keys are the allowed house rules and the values are boolean indicating whether the rule is allowed. The 'not_allowed' key maps to another dictionary where the keys are the not allowed house rules and the values are boolean indicating whether the rule is not allowed.

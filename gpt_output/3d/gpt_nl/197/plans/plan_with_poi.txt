@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Hartford",
+    "transportation": "Taxi from Washington to Hartford, duration: 426.4883333333333, distance: 540.9555, cost : 540.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Capital Grille, Hartford",
+    "attraction": "Hartford Stage, Hartford",
+    "accommodation": "The Silhouette in Hartford, Hartford",
+    "event": "-",
+    "point_of_interest_list": "The Silhouette in Hartford, stay from 13:36 to 14:06, nearest transit: Hartford, 1462.73m away; Hartford Stage, Hartford, visit from 14:36 to 18:30, ; The Capital Grille, Hartford, visit from 19:00 to 20:15, ; The Silhouette in Hartford, stay from 23:39 to 07:39, nearest transit: Hartford, 1462.73m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "Max's Oyster Bar, Hartford",
+    "lunch": "Max Downtown, Hartford",
+    "dinner": "Hartford Baking Company, Hartford",
+    "attraction": "-",
+    "accommodation": "The Silhouette in Hartford, Hartford",
+    "event": "-",
+    "point_of_interest_list": "The Silhouette in Hartford, stay from 08:09 to 08:39, nearest transit: Hartford, 1462.73m away; Max's Oyster Bar, Hartford, visit from 09:09 to 10:29, ; Max Downtown, Hartford, visit from 14:30 to 15:30, ; Hartford Baking Company, Hartford, visit from 19:31 to 20:46, ; The Silhouette in Hartford, stay from 21:16 to 08:00, nearest transit: Hartford, 1462.73m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Washington",
+    "transportation": "Flight Number: F0527373, from Hartford to Washington, Departure Time: 10:20, Arrival Time: 11:37",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Silhouette in Hartford, stay from 08:30 to 09:00, nearest transit: Hartford, 1462.73m away"
+  }
+]

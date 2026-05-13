@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Savannah to Baltimore",
+    "transportation": "Flight Number: F2188653, from Savannah to Baltimore, Departure Time: 06:17, Arrival Time: 07:44",
+    "breakfast": "-",
+    "lunch": "One-Eyed Mike's, Baltimore",
+    "dinner": "LP Steamers, Baltimore",
+    "attraction": "Edgar Allan Poe's Grave Site and Memorial, Baltimore",
+    "accommodation": "Luxe Houseboat: Stunning Inner Harbor 360 Views, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 08:14 to 08:44, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; Edgar Allan Poe's Grave Site and Memorial, Baltimore, visit from 10:30 to 14:00, ; One-Eyed Mike's, Baltimore, visit from 14:30 to 15:30, ; LP Steamers, Baltimore, visit from 19:31 to 20:46, ; Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 21:30 to 05:30, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "The Helmand, Baltimore",
+    "lunch": "Blue Moon Cafe, Baltimore",
+    "dinner": "Angies Seafood, Baltimore",
+    "attraction": "Baltimore Museum of Art, Baltimore",
+    "accommodation": "Luxe Houseboat: Stunning Inner Harbor 360 Views, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 06:00 to 06:30, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; The Helmand, Baltimore, visit from 09:09 to 09:59, ; Blue Moon Cafe, Baltimore, visit from 14:00 to 15:00, ; Baltimore Museum of Art, Baltimore, visit from 15:30 to 19:00, ; Angies Seafood, Baltimore, visit from 19:30 to 20:45, ; Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 21:30 to 05:30, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Savannah",
+    "transportation": "Flight Number: F3149443, from Baltimore to Savannah, Departure Time: 19:14, Arrival Time: 21:04",
+    "breakfast": "The Abbey Burger Bistro, Baltimore",
+    "lunch": "La Scala, Baltimore",
+    "dinner": "-",
+    "attraction": "Fort McHenry National Monument And Historic Shrine, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 06:00 to 06:30, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; The Abbey Burger Bistro, Baltimore, visit from 08:00 to 08:50, ; Fort McHenry National Monument And Historic Shrine, Baltimore, visit from 09:20 to 12:50, ; La Scala, Baltimore, visit from 13:20 to 18:44, "
+  }
+]

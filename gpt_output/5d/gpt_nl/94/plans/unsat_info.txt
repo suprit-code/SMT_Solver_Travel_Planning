@@ -1,0 +1,7 @@
+not ok
+Unsatisfiable core:
+valid flight index for flight 2
+travel end date
+visit city in cities list
+driving is possible for transportation 2
+either flight, self-driving, or taxi for third transportation

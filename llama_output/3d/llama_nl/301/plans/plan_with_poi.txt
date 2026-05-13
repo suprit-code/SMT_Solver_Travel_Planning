@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F0509097, from Everett to San Diego, Departure Time: 10:22, Arrival Time: 13:06",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "Torrey Pines State Natural Reserve, San Diego",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 13:36 to 14:06, nearest transit: Jewell St & Garnet Av, 578.25m away; Torrey Pines State Natural Reserve, San Diego, visit from 15:00 to 18:30, ; Lou & Mickey's, San Diego, visit from 19:00 to 20:15, ; charming, colorful, close to beach, stay from 20:45 to 04:45, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Cafe Coyote, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 06:00 to 06:30, nearest transit: Jewell St & Garnet Av, 578.25m away; Pacific Beach AleHouse, San Diego, visit from 08:09 to 08:59, ; La Jolla Shores Park, San Diego, visit from 09:29 to 12:59, ; Cafe Coyote, San Diego, visit from 13:29 to 14:29, ; Din Tai Fung, San Diego, visit from 19:00 to 20:15, ; charming, colorful, close to beach, stay from 20:45 to 05:30, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Everett",
+    "transportation": "Flight Number: F1175780, from San Diego to Everett, Departure Time: 17:55, Arrival Time: 20:40",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 06:00 to 06:30, nearest transit: Jewell St & Garnet Av, 578.25m away; Mimmo's, San Diego, visit from 08:00 to 08:50, ; San Diego Zoo, San Diego, visit from 09:20 to 12:50, ; Born & Raised, San Diego, visit from 13:20 to 14:20, "
+  }
+]

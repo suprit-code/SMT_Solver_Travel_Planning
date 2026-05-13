@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Albuquerque to San Francisco",
+    "transportation": "Flight Number: F0616416, from Albuquerque to San Francisco, Departure Time: 15:47, Arrival Time: 17:19",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Stinking Rose, San Francisco",
+    "attraction": "-",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 17:49 to 18:19, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; The Stinking Rose, San Francisco, visit from 19:45 to 21:00, ; Updated Private Bedroom with Ensuite Bathroom., stay from 21:30 to 05:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "The Codmother Fish & Chips, San Francisco",
+    "lunch": "Mo's Grill, San Francisco",
+    "dinner": "Good Mong Kok Bakery, San Francisco",
+    "attraction": "Exploratorium, San Francisco",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 06:00 to 06:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; The Codmother Fish & Chips, San Francisco, visit from 08:11 to 09:01, ; Exploratorium, San Francisco, visit from 09:31 to 14:00, ; Mo's Grill, San Francisco, visit from 14:30 to 15:30, ; Good Mong Kok Bakery, San Francisco, visit from 19:31 to 23:08, ; Updated Private Bedroom with Ensuite Bathroom., stay from 23:38 to 07:38, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Albuquerque",
+    "transportation": "Flight Number: F0584696, from San Francisco to Albuquerque, Departure Time: 19:29, Arrival Time: 22:47",
+    "breakfast": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "lunch": "Capital Restaurant, San Francisco",
+    "dinner": "-",
+    "attraction": "Ghirardelli Square, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 08:08 to 08:38, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 09:08 to 09:58, ; Capital Restaurant, San Francisco, visit from 13:59 to 14:59, ; Ghirardelli Square, San Francisco, visit from 15:29 to 18:59, "
+  }
+]

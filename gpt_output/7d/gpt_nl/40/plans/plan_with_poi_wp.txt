@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to San Diego",
+    "transportation": "Flight Number: F1514570, from Portland to San Diego, Departure Time: 10:58, Arrival Time: 13:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Fishery, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 14:18 to 15:00, nearest transit: 30th St & Dwight St, 360.48m away; SeaWorld, San Diego, visit from 15:30 to 20:15, ; The Fishery, San Diego, visit from 20:45 to 22:00, ; Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 22:30 to 06:30, nearest transit: 30th St & Dwight St, 360.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Casa Guadalajara, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 07:00 to 07:30, nearest transit: 30th St & Dwight St, 360.48m away; Din Tai Fung, San Diego, visit from 08:00 to 09:54, ; San Diego Zoo, San Diego, visit from 10:24 to 13:54, ; Casa Guadalajara, San Diego, visit from 14:24 to 15:24, ; Born & Raised, San Diego, visit from 19:25 to 20:40, ; Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 21:10 to 05:10, nearest transit: 30th St & Dwight St, 360.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "deja vu, Redding",
+    "attraction": "-",
+    "accommodation": "The Cottage, 3 bedroom 2 bath w/ garden view, Redding",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 06:00 to 06:30, nearest transit: 30th St & Dwight St, 360.48m away; The Cottage, 3 bedroom 2 bath w/ garden view, stay from 19:44 to 20:15, nearest transit: Lake Blvd at Black Marble Way, 533.52m away; deja vu, Redding, visit from 20:45 to 22:00, ; The Cottage, 3 bedroom 2 bath w/ garden view, stay from 22:30 to 06:30, nearest transit: Lake Blvd at Black Marble Way, 533.52m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "View 202, Redding",
+    "lunch": "Thai Hut, Redding",
+    "dinner": "Cicada Cantina, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "The Cottage, 3 bedroom 2 bath w/ garden view, Redding",
+    "event": "-",
+    "point_of_interest_list": "The Cottage, 3 bedroom 2 bath w/ garden view, stay from 07:00 to 07:30, nearest transit: Lake Blvd at Black Marble Way, 533.52m away; View 202, Redding, visit from 08:34 to 09:24, ; Thai Hut, Redding, visit from 13:30 to 14:30, ; Turtle Bay Exploration Park, Redding, visit from 15:00 to 18:30, ; Cicada Cantina, Redding, visit from 19:00 to 20:15, ; The Cottage, 3 bedroom 2 bath w/ garden view, stay from 20:45 to 06:30, nearest transit: Lake Blvd at Black Marble Way, 533.52m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Taxi from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 259.0",
+    "breakfast": "Jack's Grill, Redding",
+    "lunch": "Guadalajara Mexican Restaurant, Redding",
+    "dinner": "Chicago Fire, Sacramento",
+    "attraction": "Redding Civic Auditorium, Redding",
+    "accommodation": "Top Floor Studio in a Victorian Mansion, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "The Cottage, 3 bedroom 2 bath w/ garden view, stay from 07:00 to 07:30, nearest transit: Lake Blvd at Black Marble Way, 533.52m away; Jack's Grill, Redding, visit from 08:00 to 08:50, ; Redding Civic Auditorium, Redding, visit from 09:20 to 12:50, ; Guadalajara Mexican Restaurant, Redding, visit from 14:30 to 15:49, ; Top Floor Studio in a Victorian Mansion, stay from 19:45 to 20:15, nearest transit: F ST & 14TH ST (EB), 122.21m away; Chicago Fire, Sacramento, visit from 20:45 to 22:08, ; Top Floor Studio in a Victorian Mansion, stay from 22:38 to 06:38, nearest transit: F ST & 14TH ST (EB), 122.21m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "lunch": "Tower Cafe, Sacramento",
+    "dinner": "Echo and Rig, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Top Floor Studio in a Victorian Mansion, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Top Floor Studio in a Victorian Mansion, stay from 07:08 to 07:38, nearest transit: F ST & 14TH ST (EB), 122.21m away; Kru Contemporary Japanese Cuisine, Sacramento, visit from 08:08 to 08:58, ; Tower Cafe, Sacramento, visit from 12:59 to 13:59, ; California State Capitol Museum, Sacramento, visit from 14:29 to 17:59, ; Echo and Rig, Sacramento, visit from 19:00 to 20:15, ; Top Floor Studio in a Victorian Mansion, stay from 22:30 to 06:30, nearest transit: F ST & 14TH ST (EB), 122.21m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Portland",
+    "transportation": "Taxi from Sacramento to Portland, duration: 667.9300000000001, distance: 932.3056, cost : 932.0",
+    "breakfast": "Moxie, Sacramento",
+    "lunch": "-",
+    "dinner": "Yue Huang Restaurant, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Top Floor Studio in a Victorian Mansion, stay from 07:00 to 07:30, nearest transit: F ST & 14TH ST (EB), 122.21m away; Moxie, Sacramento, visit from 08:00 to 08:50, ; Capitol Park, Sacramento, visit from 09:20 to 12:50, ; Yue Huang Restaurant, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

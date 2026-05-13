@@ -1,0 +1,6 @@
+Destination cities: ['Kansas City'],
+Transportation dates: ['2024-11-25', '2024-11-27'],
+Transportation methods between cities: ['Flight Number: F1045980, from Denver to Kansas City, Departure Time: 13:56, Arrival Time: 16:15', 'Flight Number: F1197829, from Kansas City to Denver, Departure Time: 16:57, Arrival Time: 18:01'],
+Restaurants (3 meals per day): ['-', '-', 'KC Chop House, Kansas City', 'Q39 - Midtown, Kansas City', "Garozzo's Ristorante, Kansas City", 'The Big Biscuit, Kansas City', 'Bella Napoli, Kansas City', 'Gram & Dun, Kansas City', '-'],
+Attractions (1 per day): ['Country Club Plaza, Kansas City', "Tom's Town Distilling Co., Kansas City", 'Crown Center, Kansas City'],
+Accommodations (1 per city): ['Private King Room + Bath - (The Collins), Kansas City']

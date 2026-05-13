@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to San Francisco",
+    "transportation": "Flight Number: F1474906, from Charlotte to San Francisco, Departure Time: 13:11, Arrival Time: 15:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Waterbar, San Francisco",
+    "attraction": "-",
+    "accommodation": "Single Bed in 4-Bed Female Capsule Room, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Single Bed in 4-Bed Female Capsule Room, stay from 15:50 to 19:15, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away; Waterbar, San Francisco, visit from 19:45 to 21:00, ; Single Bed in 4-Bed Female Capsule Room, stay from 21:30 to 05:30, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Capital Restaurant, San Francisco",
+    "lunch": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "dinner": "Good Mong Kok Bakery, San Francisco",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "Single Bed in 4-Bed Female Capsule Room, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Single Bed in 4-Bed Female Capsule Room, stay from 06:00 to 06:30, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away; Capital Restaurant, San Francisco, visit from 08:00 to 10:00, ; Pier 39, San Francisco, visit from 10:30 to 14:00, ; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 14:30 to 15:44, ; Good Mong Kok Bakery, San Francisco, visit from 19:45 to 21:00, ; Single Bed in 4-Bed Female Capsule Room, stay from 21:30 to 05:30, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Charlotte",
+    "transportation": "Flight Number: F2811338, from San Francisco to Charlotte, Departure Time: 13:20, Arrival Time: 21:04",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Single Bed in 4-Bed Female Capsule Room, stay from 06:00 to 06:30, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 08:00 to 08:50, ; Golden Gate Park, San Francisco, visit from 09:20 to 12:50, "
+  }
+]

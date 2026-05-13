@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Kansas City",
+    "transportation": "Flight Number: F3553982, from Detroit to Kansas City, Departure Time: 14:06, Arrival Time: 14:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Garozzo's Ristorante, Kansas City",
+    "attraction": "-",
+    "accommodation": "Beautiful large King bedroom with luxury bedding, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Beautiful large King bedroom with luxury bedding, stay from 15:29 to 20:15, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away; Garozzo's Ristorante, Kansas City, visit from 20:45 to 22:04, ; Beautiful large King bedroom with luxury bedding, stay from 22:34 to 06:34, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Bristol Seafood + Steak + Social, Kansas City",
+    "lunch": "Gram & Dun, Kansas City",
+    "dinner": "Lidia's, Kansas City",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "Beautiful large King bedroom with luxury bedding, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Beautiful large King bedroom with luxury bedding, stay from 07:04 to 07:34, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away; Bristol Seafood + Steak + Social, Kansas City, visit from 08:04 to 10:00, ; Tom's Town Distilling Co., Kansas City, visit from 10:30 to 14:00, ; Gram & Dun, Kansas City, visit from 14:30 to 15:44, ; Lidia's, Kansas City, visit from 19:45 to 21:00, ; Beautiful large King bedroom with luxury bedding, stay from 21:30 to 05:30, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Detroit",
+    "transportation": "Self-driving from Kansas City to Detroit, duration: 852.385, distance: 1228.0826000000002, cost : 61.0",
+    "breakfast": "Trezo Mare Restaurant & Lounge, Kansas City",
+    "lunch": "KC Chop House, Kansas City",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Kansas City",
+    "attraction": "Kauffman Stadium, Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful large King bedroom with luxury bedding, stay from 06:00 to 06:30, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away; Trezo Mare Restaurant & Lounge, Kansas City, visit from 08:00 to 08:50, ; KC Chop House, Kansas City, visit from 12:51 to 13:51, ; Kauffman Stadium, Kansas City, visit from 14:21 to 17:51, ; Fogo de Chao Brazilian Steakhouse, Kansas City, visit from 19:00 to 20:15, "
+  }
+]

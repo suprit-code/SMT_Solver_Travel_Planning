@@ -1,0 +1,6 @@
+Destination cities: ['Charleston'],
+Transportation dates: ['2024-11-11', '2024-11-13'],
+Transportation methods between cities: ['Flight Number: F0643335, from Baltimore to Charleston, Departure Time: 16:13, Arrival Time: 17:56', 'Flight Number: F1633730, from Charleston to Baltimore, Departure Time: 16:43, Arrival Time: 18:01'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Stars Restaurant-Rooftop & Grill Room, Charleston', "Eli's Table, Charleston", 'Chubby Fish, Charleston', "Poogan's Porch, Charleston", 'Frannie & The Fox, Charleston', '-'],
+Attractions (1 per day): ['Charleston Waterfront Park, Charleston', 'South Carolina Aquarium, Charleston', 'Middleton Place, Charleston'],
+Accommodations (1 per city): ['Lodge Alley Inn Steps to Charleston Harbor -Studio, Charleston']

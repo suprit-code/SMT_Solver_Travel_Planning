@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to New York",
+    "transportation": "Flight Number: F2776895, from Nashville to New York, Departure Time: 07:30, Arrival Time: 10:41",
+    "breakfast": "-",
+    "lunch": "Gallaghers Steakhouse, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 11:11 to 11:41, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Gallaghers Steakhouse, New York, visit from 12:11 to 13:11, ; The High Line, New York, visit from 13:41 to 17:11, ; Del Frisco's Grille, New York, visit from 19:00 to 20:15, ; Church view bedroom in Harlem brownstone, stay from 20:45 to 05:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "RH Rooftop Restaurant New York, New York",
+    "lunch": "Rao's Restaurant, New York",
+    "dinner": "Piccola Cucina Estiatorio, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 06:00 to 06:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; RH Rooftop Restaurant New York, New York, visit from 09:10 to 10:00, ; Central Park, New York, visit from 10:30 to 14:00, ; Rao's Restaurant, New York, visit from 14:30 to 15:30, ; Piccola Cucina Estiatorio, New York, visit from 19:31 to 20:46, ; Church view bedroom in Harlem brownstone, stay from 21:16 to 05:16, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Nashville",
+    "transportation": "Flight Number: F4058947, from New York to Nashville, Departure Time: 10:38, Arrival Time: 12:32",
+    "breakfast": "Central Park Boathouse, New York",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 06:00 to 06:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Central Park Boathouse, New York, visit from 08:00 to 10:08, "
+  }
+]

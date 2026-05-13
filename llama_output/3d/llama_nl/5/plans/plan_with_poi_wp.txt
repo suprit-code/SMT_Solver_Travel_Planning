@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sacramento to Atlanta",
+    "transportation": "Flight Number: F0311431, from Sacramento to Atlanta, Departure Time: 06:54, Arrival Time: 13:55",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Marcel, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 14:25 to 14:55, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Zoo Atlanta, Atlanta, visit from 15:25 to 18:55, ; Marcel, Atlanta, visit from 19:25 to 20:40, ; Historic Lounge - Private BR in the Heart of ATL#2, stay from 23:16 to 07:16, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Ted's Montana Grill, Atlanta",
+    "lunch": "Bangkok Station, Atlanta",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 07:46 to 08:16, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Ted's Montana Grill, Atlanta, visit from 08:46 to 09:36, ; Bangkok Station, Atlanta, visit from 13:37 to 14:37, ; Georgia Aquarium, Atlanta, visit from 15:07 to 18:37, ; Aviva by Kameel, Atlanta, visit from 19:07 to 20:22, ; Historic Lounge - Private BR in the Heart of ATL#2, stay from 21:30 to 05:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Sacramento",
+    "transportation": "Flight Number: F3513053, from Atlanta to Sacramento, Departure Time: 16:59, Arrival Time: 18:59",
+    "breakfast": "South City Kitchen Midtown, Atlanta",
+    "lunch": "The Capital Grille, Atlanta",
+    "dinner": "-",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 06:00 to 06:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; South City Kitchen Midtown, Atlanta, visit from 09:10 to 10:00, ; Centennial Olympic Park, Atlanta, visit from 10:30 to 14:00, ; The Capital Grille, Atlanta, visit from 14:30 to 15:30, "
+  }
+]

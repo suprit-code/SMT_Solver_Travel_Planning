@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Wilmington to New York",
+    "transportation": "Flight Number: F1424792, from Wilmington to New York, Departure Time: 12:09, Arrival Time: 14:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Westway Diner, New York",
+    "attraction": "-",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 14:43 to 15:13, nearest transit: 9 AV/W 30 ST, 139.35m away; Westway Diner, New York, visit from 19:00 to 20:15, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 20:45 to 06:43, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sylvia's Restaurant, New York",
+    "lunch": "Sarge’s Delicatessen & Diner, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 07:13 to 07:43, nearest transit: 9 AV/W 30 ST, 139.35m away; Sylvia's Restaurant, New York, visit from 08:13 to 09:03, ; Sarge’s Delicatessen & Diner, New York, visit from 13:30 to 14:30, ; Central Park, New York, visit from 15:00 to 18:30, ; FIG & OLIVE, New York, visit from 19:00 to 20:15, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 20:45 to 04:45, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Rochester",
+    "transportation": "Flight Number: F1412049, from New York to Rochester, Departure Time: 17:20, Arrival Time: 18:38",
+    "breakfast": "Bryant Park Grill, New York",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "Tiny Tim's Tea Rooms, Rochester",
+    "attraction": "The High Line, New York",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 06:00 to 06:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Bryant Park Grill, New York, visit from 08:00 to 08:50, ; The High Line, New York, visit from 10:30 to 14:00, ; Times Square Diner, New York, visit from 14:30 to 15:30, ; Historic Henrietta Apartment, stay from 19:08 to 19:38, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Tiny Tim's Tea Rooms, Rochester, visit from 20:08 to 21:23, ; Historic Henrietta Apartment, stay from 22:41 to 06:41, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Rochester",
+    "transportation": "-",
+    "breakfast": "Canadian Honker Restaurant & Lounge, Rochester",
+    "lunch": "Lipuma's Coney Island, Rochester",
+    "dinner": "The Eagle Tavern, Rochester",
+    "attraction": "Restoration House, Rochester",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 07:11 to 07:41, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Canadian Honker Restaurant & Lounge, Rochester, visit from 08:11 to 09:01, ; Restoration House, Rochester, visit from 09:31 to 13:01, ; Lipuma's Coney Island, Rochester, visit from 13:31 to 14:31, ; The Eagle Tavern, Rochester, visit from 19:00 to 20:15, ; Historic Henrietta Apartment, stay from 20:45 to 04:45, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Rochester to Wilmington",
+    "transportation": "Taxi from Rochester to Wilmington, duration: 892.495, distance: 1194.6867, cost : 1194.0",
+    "breakfast": "Nick Tahou Hots, Rochester",
+    "lunch": "Restaurant Fiorella, Rochester",
+    "dinner": "Rochester Mills Beer, Rochester",
+    "attraction": "Six Poor Travellers House, Rochester",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 06:00 to 06:30, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Nick Tahou Hots, Rochester, visit from 08:00 to 08:50, ; Six Poor Travellers House, Rochester, visit from 09:20 to 12:50, ; Restaurant Fiorella, Rochester, visit from 13:20 to 14:20, ; Rochester Mills Beer, Rochester, visit from 19:00 to 20:15, "
+  }
+]

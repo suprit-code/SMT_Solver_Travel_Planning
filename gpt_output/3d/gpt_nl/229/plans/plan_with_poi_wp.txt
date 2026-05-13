@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Atlanta",
+    "transportation": "Flight Number: F0321830, from Sarasota to Atlanta, Departure Time: 11:24, Arrival Time: 12:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "World of Coca-Cola, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 13:29 to 13:59, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; World of Coca-Cola, Atlanta, visit from 14:29 to 19:02, ; Aviva by Kameel, Atlanta, visit from 19:32 to 20:47, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 21:17 to 05:17, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Fox Bros. Bar-B-Q, Atlanta",
+    "lunch": "Home Grown, Atlanta",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "National Center for Civil and Human Rights, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 06:00 to 06:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Fox Bros. Bar-B-Q, Atlanta, visit from 08:40 to 09:30, ; National Center for Civil and Human Rights, Atlanta, visit from 10:00 to 13:30, ; Home Grown, Atlanta, visit from 14:00 to 15:00, ; Cafe Agora, Atlanta, visit from 19:01 to 20:16, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 20:46 to 04:46, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Sarasota",
+    "transportation": "Self-driving from Atlanta to Sarasota, duration: 552.7933333333333, distance: 816.1573000000001, cost : 40.0",
+    "breakfast": "Steamhouse Lounge, Atlanta",
+    "lunch": "Bangkok Station, Atlanta",
+    "dinner": "Ted's Montana Grill, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 06:00 to 06:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Steamhouse Lounge, Atlanta, visit from 08:00 to 08:50, ; Atlanta History Center, Atlanta, visit from 09:20 to 12:50, ; Bangkok Station, Atlanta, visit from 13:20 to 14:20, ; Ted's Montana Grill, Atlanta, visit from 19:00 to 20:15, "
+  }
+]

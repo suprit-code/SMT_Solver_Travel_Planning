@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to San Diego",
+    "transportation": "Flight Number: F1851099, from Washington to San Diego, Departure Time: 08:51, Arrival Time: 11:39",
+    "breakfast": "-",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Meze Greek Fusion, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 12:09 to 12:39, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Cowboy Star, San Diego, visit from 13:09 to 14:09, ; San Diego Zoo, San Diego, visit from 14:39 to 18:09, ; Meze Greek Fusion, San Diego, visit from 19:00 to 20:15, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 20:45 to 04:45, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Union Kitchen and Tap Gaslamp, San Diego",
+    "lunch": "Barbusa, San Diego",
+    "dinner": "Alforon, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 07:13 to 07:43, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Union Kitchen and Tap Gaslamp, San Diego, visit from 08:13 to 10:00, ; SeaWorld, San Diego, visit from 10:30 to 14:00, ; Barbusa, San Diego, visit from 14:30 to 16:44, ; Alforon, San Diego, visit from 20:45 to 22:00, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 22:30 to 06:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F3818147, from San Diego to Sacramento, Departure Time: 21:38, Arrival Time: 23:23",
+    "breakfast": "Las Hadas Grill, San Diego",
+    "lunch": "Dockside 1953, San Diego",
+    "dinner": "El Agave Restaurant & Tequileria, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 07:00 to 07:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Las Hadas Grill, San Diego, visit from 08:00 to 08:50, ; Dockside 1953, San Diego, visit from 12:51 to 13:51, ; Cabrillo National Monument, San Diego, visit from 14:21 to 17:51, ; El Agave Restaurant & Tequileria, San Diego, visit from 19:00 to 20:15, ; Modern Apt Near Downtown Sac, stay from 23:53 to 00:23, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Modern Apt Near Downtown Sac, stay from 00:53 to 08:00, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Localis, Sacramento",
+    "lunch": "The Kitchen Restaurant, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "-",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 08:30 to 09:00, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Localis, Sacramento, visit from 09:39 to 10:29, ; The Kitchen Restaurant, Sacramento, visit from 14:30 to 15:30, ; Grange Restaurant & Bar, Sacramento, visit from 19:31 to 22:00, ; Modern Apt Near Downtown Sac, stay from 22:30 to 06:30, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Flight Number: F3996483, from Sacramento to Los Angeles, Departure Time: 17:31, Arrival Time: 18:51",
+    "breakfast": "The Firehouse Restaurant, Sacramento",
+    "lunch": "Zocalo, Sacramento",
+    "dinner": "Musso & Frank Grill, Los Angeles",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 07:00 to 07:30, nearest transit: 3RD ST & V ST (SB), 1612.57m away; The Firehouse Restaurant, Sacramento, visit from 08:00 to 10:00, ; California State Capitol Museum, Sacramento, visit from 10:30 to 14:00, ; Zocalo, Sacramento, visit from 14:30 to 16:20, ; Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 19:21 to 19:51, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away; Musso & Frank Grill, Los Angeles, visit from 20:21 to 21:36, ; Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 22:06 to 06:06, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Pizzeria Mozza, Los Angeles",
+    "lunch": "Providence, Los Angeles",
+    "dinner": "Bavel, Los Angeles",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 08:10 to 08:40, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away; Pizzeria Mozza, Los Angeles, visit from 09:10 to 10:00, ; Griffith Park, Los Angeles, visit from 10:30 to 14:00, ; Providence, Los Angeles, visit from 14:30 to 15:30, ; Bavel, Los Angeles, visit from 19:31 to 20:46, ; Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 22:30 to 06:30, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Washington",
+    "transportation": "Flight Number: F3891167, from Los Angeles to Washington, Departure Time: 13:23, Arrival Time: 20:52",
+    "breakfast": "n/naka, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Venice Canals Walkway, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 07:00 to 07:30, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away; n/naka, Los Angeles, visit from 08:00 to 08:50, ; Venice Canals Walkway, Los Angeles, visit from 09:20 to 12:50, "
+  }
+]

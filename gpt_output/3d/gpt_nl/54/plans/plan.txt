@@ -1,0 +1,6 @@
+Destination cities: ['Cincinnati'],
+Transportation dates: ['2024-11-02', '2024-11-04'],
+Transportation methods between cities: ['Flight Number: F2026883, from Atlanta to Cincinnati, Departure Time: 08:37, Arrival Time: 09:56', 'Self-driving, from Cincinnati to Atlanta, duration: 510.5, distance: 722.769, cost: 36'],
+Restaurants (3 meals per day): ["Jeff Ruby's Steakhouse, Cincinnati", "Nicola's Ristorante, Cincinnati", "Jeff Ruby's Carlo & Johnny, Cincinnati", "Alfio's Buon Cibo, Cincinnati", 'Agave & Rye Rookwood, Cincinnati', 'Boca, Cincinnati', 'The Blind Lemon, Cincinnati', 'Sleepy Bee Cafe - Oakley, Cincinnati', 'Ambar India, Cincinnati'],
+Attractions (1 per day): ['Cincinnati Museum Center, Cincinnati', 'National Underground Railroad Freedom Center, Cincinnati', 'Rhinegeist Brewery, Cincinnati'],
+Accommodations (1 per city): ['Northside Hideaway, Cincinnati']

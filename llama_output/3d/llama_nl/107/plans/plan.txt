@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F2534674, from Milwaukee to Atlanta, Departure Time: 15:01, Arrival Time: 17:53', 'Flight Number: F4015475, from Atlanta to Milwaukee, Departure Time: 17:12, Arrival Time: 18:07'],
+Restaurants (3 meals per day): ['-', '-', 'Cafe Agora, Atlanta', 'Steamhouse Lounge, Atlanta', 'No Mas! Cantina, Atlanta', "Max's Coal Oven Pizzeria, Atlanta", "Murphy's Restaurant, Atlanta", 'Home Grown, Atlanta', '-'],
+Attractions (1 per day): ['Zoo Atlanta, Atlanta', 'Centennial Olympic Park, Atlanta', 'Atlanta History Center, Atlanta'],
+Accommodations (1 per city): ['Charm in the Heart of Va-Hi: Serene Studio Retreat, Atlanta']

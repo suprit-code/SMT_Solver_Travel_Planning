@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Fort Wayne",
+    "transportation": "Flight Number: F1728459, from Dallas to Fort Wayne, Departure Time: 16:51, Arrival Time: 20:24",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Airy Studio Near Downtown, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 20:54 to 21:24, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away; Airy Studio Near Downtown, stay from 21:54 to 05:54, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Fort Wayne",
+    "transportation": "-",
+    "breakfast": "The Lucky Moose, Fort Wayne",
+    "lunch": "Fort Wayne's Famous Coney Island, Fort Wayne",
+    "dinner": "The Bluebird Restaurant, Fort Wayne",
+    "attraction": "Fort Wayne Firefighters Museum, Fort Wayne",
+    "accommodation": "Airy Studio Near Downtown, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 06:24 to 07:42, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away; The Lucky Moose, Fort Wayne, visit from 08:12 to 09:02, ; Fort Wayne's Famous Coney Island, Fort Wayne, visit from 13:03 to 14:03, ; Fort Wayne Firefighters Museum, Fort Wayne, visit from 14:33 to 18:30, ; The Bluebird Restaurant, Fort Wayne, visit from 19:00 to 20:15, ; Airy Studio Near Downtown, stay from 20:45 to 05:30, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Fort Wayne to Dallas",
+    "transportation": "Flight Number: F1752275, from Fort Wayne to Dallas, Departure Time: 08:36, Arrival Time: 10:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 06:00 to 06:30, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away"
+  }
+]

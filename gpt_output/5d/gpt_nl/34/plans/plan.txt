@@ -1,0 +1,6 @@
+Destination cities: ['Durango', 'Colorado Springs'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Self-driving, from Santa Fe to Durango, duration: 284.2033333333333, distance: 390.1447, cost: 19', 'Self-driving, from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost: 25', 'Self-driving, from Colorado Springs to Santa Fe, duration: 336.54833333333335, distance: 522.037, cost: 26'],
+Restaurants (3 meals per day): ['-', '-', '-', "Oscar's Cafe, Durango", 'College Drive Cafe, Durango', "Durango Joe's Coffee on College Dr., Durango", 'Bread, Durango', 'Durango Diner, Durango', '81301 Coffee House and Roasters, Durango', "Garden of the God's Market & Cafe, Colorado Springs", 'Front Range Barbeque, Colorado Springs', 'Caspian Cafe Mediterranean, Colorado Springs', 'Restaurant 1858, Colorado Springs', 'Pizzeria Rustica, Colorado Springs', 'Mountain Shadows Restaurant, Colorado Springs'],
+Attractions (1 per day): ['-', 'Historic Downtown Durango, Durango', 'Mild to Wild Rafting and Jeep Tours, Durango', 'Garden of the Gods, Colorado Springs', 'Seven Falls, Colorado Springs'],
+Accommodations (1 per city): ['Sleek, Modern Studio in the heart of downtown., Durango', 'Cozy Cottage by ManitouSpringsPikesPk/GardenofGods, Colorado Springs']

@@ -1,0 +1,6 @@
+Destination cities: ['Nashville', 'Bristol'],
+Transportation dates: ['2024-11-10', '2024-11-12', '2024-11-14'],
+Transportation methods between cities: ['Self-driving, from Baltimore to Nashville, duration: 779.3066666666667, distance: 1129.8348, cost: 56', 'Self-driving, from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost: 23', 'Self-driving, from Bristol to Baltimore, duration: 465.6233333333333, distance: 665.7021, cost: 33'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Bourbon Street Blues and Boogie Bar, Nashville', "Adele's Nashville, Nashville", 'The Stillery, Nashville', "Puckett's 5th & Church, Nashville", 'Kayne Prime, Nashville', 'Henley, Nashville', 'Bosco Pizzeria, Bristol', "Giuseppe's, Bristol", 'Turtle Bay Bristol Broad Quay, Bristol', 'Bravas, Bristol', 'Bristol Seafood + Steak + Social, Bristol', 'Cafe Bristol, Bristol'],
+Attractions (1 per day): ['-', 'Belle Meade Historic Site & Winery, Nashville', 'Belmont Mansion, Nashville', 'Blackbeard to Banksy the Ultimate Bristol Walking Tour, Bristol', 'Cycle the City, Bristol'],
+Accommodations (1 per city): ['The Stewart House in 12th South - Half House, Nashville', 'Mountain Music Loft Downtown,Walkable,Restaurants, Bristol']

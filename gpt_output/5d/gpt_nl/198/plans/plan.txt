@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Self-driving, from Las Vegas to San Diego, duration: 367.3033333333333, distance: 532.4798000000001, cost: 26', 'Self-driving, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 53', 'Self-driving, from Redding to Las Vegas, duration: 756.2466666666667, distance: 1007.9322, cost: 50'],
+Restaurants (3 meals per day): ['-', '-', '-', "Mimmo's, San Diego", "Filippi's Pizza Grotto Little Italy, San Diego", 'Morning Glory, San Diego', 'Juniper and Ivy, San Diego', 'Pacific Beach AleHouse, San Diego', 'Din Tai Fung, San Diego', 'Thai Hut, Redding', 'New China, Redding', 'View 202, Redding', 'Los Gordos, Redding', "Woody's Brewing Co, Redding", 'Karlines, Redding'],
+Attractions (1 per day): ['-', 'Birch Aquarium at Scripps, San Diego', 'Cabrillo National Monument, San Diego', 'Turtle Bay Exploration Park, Redding', 'Sundial Bridge, Redding'],
+Accommodations (1 per city): ['Private Hideaway, Shelter Island, Beach  & Bay, San Diego', 'Newly remodeled studio w/private entrance, 2 beds, Redding']

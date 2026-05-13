@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Kansas City",
+    "transportation": "Flight Number: F1045980, from Denver to Kansas City, Departure Time: 13:56, Arrival Time: 16:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cascone's Italian Restaurant, Kansas City",
+    "attraction": "-",
+    "accommodation": "AJ's Little Ranch Guest Suite in Hyde Park, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "AJ's Little Ranch Guest Suite in Hyde Park, stay from 16:45 to 18:30, nearest transit: ON ARMOUR AT HOLMES WESTBOUND, 88.9m away; Cascone's Italian Restaurant, Kansas City, visit from 19:00 to 22:05, ; AJ's Little Ranch Guest Suite in Hyde Park, stay from 22:35 to 06:35, nearest transit: ON ARMOUR AT HOLMES WESTBOUND, 88.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Char Bar - Westport, Kansas City",
+    "lunch": "Q39 - Midtown, Kansas City",
+    "dinner": "Trezo Mare Restaurant & Lounge, Kansas City",
+    "attraction": "Country Club Plaza, Kansas City",
+    "accommodation": "AJ's Little Ranch Guest Suite in Hyde Park, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "AJ's Little Ranch Guest Suite in Hyde Park, stay from 07:05 to 07:35, nearest transit: ON ARMOUR AT HOLMES WESTBOUND, 88.9m away; Char Bar - Westport, Kansas City, visit from 08:05 to 10:00, ; Country Club Plaza, Kansas City, visit from 10:30 to 14:00, ; Q39 - Midtown, Kansas City, visit from 14:30 to 15:30, ; Trezo Mare Restaurant & Lounge, Kansas City, visit from 19:31 to 21:00, ; AJ's Little Ranch Guest Suite in Hyde Park, stay from 21:30 to 05:30, nearest transit: ON ARMOUR AT HOLMES WESTBOUND, 88.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Denver",
+    "transportation": "Self-driving from Kansas City to Denver, duration: 619.8383333333334, distance: 969.6244, cost : 48.0",
+    "breakfast": "Garozzo's Ristorante, Kansas City",
+    "lunch": "KC Chop House, Kansas City",
+    "dinner": "The Big Biscuit, Kansas City",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "AJ's Little Ranch Guest Suite in Hyde Park, stay from 06:00 to 06:30, nearest transit: ON ARMOUR AT HOLMES WESTBOUND, 88.9m away; Garozzo's Ristorante, Kansas City, visit from 08:00 to 08:50, ; Tom's Town Distilling Co., Kansas City, visit from 09:20 to 12:50, ; KC Chop House, Kansas City, visit from 13:20 to 14:20, ; The Big Biscuit, Kansas City, visit from 19:00 to 20:15, "
+  }
+]

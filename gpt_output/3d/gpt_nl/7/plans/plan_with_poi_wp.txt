@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to New York",
+    "transportation": "Flight Number: F1014617, from Raleigh to New York, Departure Time: 15:44, Arrival Time: 17:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Westway Diner, New York",
+    "attraction": "-",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 17:47 to 18:17, nearest transit: 9 AV/W 30 ST, 139.35m away; Westway Diner, New York, visit from 19:00 to 22:03, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 22:33 to 06:33, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "Lillie's Victorian Establishment, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "American Museum of Natural History, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 07:03 to 07:33, nearest transit: 9 AV/W 30 ST, 139.35m away; Sarge’s Delicatessen & Diner, New York, visit from 08:03 to 08:53, ; Lillie's Victorian Establishment, New York, visit from 12:54 to 15:00, ; American Museum of Natural History, New York, visit from 15:30 to 19:00, ; Times Square Diner, New York, visit from 20:45 to 22:00, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 00:00 to 08:00, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Raleigh",
+    "transportation": "Flight Number: F3200896, from New York to Raleigh, Departure Time: 18:55, Arrival Time: 20:37",
+    "breakfast": "Sylvia's Restaurant, New York",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 08:30 to 09:00, nearest transit: 9 AV/W 30 ST, 139.35m away; Sylvia's Restaurant, New York, visit from 09:30 to 10:20, ; The Metropolitan Museum of Art, New York, visit from 10:50 to 14:20, "
+  }
+]

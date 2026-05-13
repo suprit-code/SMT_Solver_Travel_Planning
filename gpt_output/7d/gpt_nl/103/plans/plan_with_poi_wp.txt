@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F3087671, from Atlanta to San Diego, Departure Time: 15:20, Arrival Time: 17:06",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "-",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 17:36 to 20:15, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Ruth's Chris Steak House, San Diego, visit from 20:45 to 22:07, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 22:37 to 06:37, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mister A'S, San Diego",
+    "lunch": "Lou & Mickey's, San Diego",
+    "dinner": "Meze Greek Fusion, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 07:07 to 07:37, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Mister A'S, San Diego, visit from 08:07 to 08:57, ; Lou & Mickey's, San Diego, visit from 12:58 to 13:58, ; San Diego Zoo, San Diego, visit from 15:30 to 19:00, ; Meze Greek Fusion, San Diego, visit from 19:30 to 20:45, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 21:15 to 05:15, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Large Comfy Cottage- Close to Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 06:00 to 06:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Pacific Beach AleHouse, San Diego, visit from 08:00 to 08:50, ; Large Comfy Cottage- Close to Downtown, stay from 19:11 to 21:00, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Large Comfy Cottage- Close to Downtown, stay from 21:30 to 05:30, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Revival, Sacramento",
+    "lunch": "Yue Huang Restaurant, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Large Comfy Cottage- Close to Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Large Comfy Cottage- Close to Downtown, stay from 06:00 to 06:30, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Revival, Sacramento, visit from 08:43 to 09:33, ; Capitol Park, Sacramento, visit from 10:03 to 13:33, ; Yue Huang Restaurant, Sacramento, visit from 14:03 to 16:44, ; Grange Restaurant & Bar, Sacramento, visit from 20:45 to 22:00, ; Large Comfy Cottage- Close to Downtown, stay from 23:40 to 07:40, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Flight Number: F2341064, from Sacramento to Los Angeles, Departure Time: 17:44, Arrival Time: 19:01",
+    "breakfast": "Paragary's, Sacramento",
+    "lunch": "Zocalo, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Oceanfront Sunset Serenity in Malibu, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Large Comfy Cottage- Close to Downtown, stay from 08:10 to 08:40, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Paragary's, Sacramento, visit from 09:10 to 10:00, ; California State Capitol Museum, Sacramento, visit from 10:30 to 14:00, ; Zocalo, Sacramento, visit from 14:30 to 15:30, ; Oceanfront Sunset Serenity in Malibu, stay from 19:31 to 20:01, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away; Oceanfront Sunset Serenity in Malibu, stay from 20:31 to 04:31, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Bavel, Los Angeles",
+    "lunch": "Leo & Lily, Los Angeles",
+    "dinner": "The Butcher's Daughter, Los Angeles",
+    "attraction": "-",
+    "accommodation": "Oceanfront Sunset Serenity in Malibu, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Oceanfront Sunset Serenity in Malibu, stay from 06:00 to 06:30, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away; Bavel, Los Angeles, visit from 08:18 to 09:08, ; Leo & Lily, Los Angeles, visit from 13:09 to 14:09, ; The Butcher's Daughter, Los Angeles, visit from 19:00 to 20:15, ; Oceanfront Sunset Serenity in Malibu, stay from 20:45 to 04:45, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Atlanta",
+    "transportation": "Flight Number: F2015348, from Los Angeles to Atlanta, Departure Time: 23:48, Arrival Time: 07:31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Spire 73, Los Angeles",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Oceanfront Sunset Serenity in Malibu, stay from 06:00 to 09:00, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away; Griffith Park, Los Angeles, visit from 15:00 to 18:30, ; Spire 73, Los Angeles, visit from 19:00 to 20:15, "
+  }
+]

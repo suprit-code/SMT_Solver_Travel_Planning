@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Los Angeles",
+    "transportation": "Flight Number: F3629308, from Kansas City to Los Angeles, Departure Time: 15:55, Arrival Time: 17:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "25 Degrees, Los Angeles",
+    "attraction": "-",
+    "accommodation": "Cozy Private Room In LA., Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 17:46 to 18:16, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; 25 Degrees, Los Angeles, visit from 19:00 to 22:08, ; Cozy Private Room In LA., stay from 22:38 to 06:38, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Langer's Delicatessen Restaurant, Los Angeles",
+    "lunch": "Cafe Gratitude Venice, Los Angeles",
+    "dinner": "Republique, Los Angeles",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "Cozy Private Room In LA., Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 07:08 to 07:38, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Langer's Delicatessen Restaurant, Los Angeles, visit from 08:08 to 08:58, ; Cafe Gratitude Venice, Los Angeles, visit from 12:59 to 13:59, ; Walt Disney Concert Hall, Los Angeles, visit from 14:29 to 17:59, ; Republique, Los Angeles, visit from 19:00 to 20:15, ; Cozy Private Room In LA., stay from 20:45 to 04:45, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Kansas City",
+    "transportation": "Flight Number: F1398303, from Los Angeles to Kansas City, Departure Time: 14:58, Arrival Time: 20:09",
+    "breakfast": "-",
+    "lunch": "Yang Chow, Los Angeles",
+    "dinner": "-",
+    "attraction": "Hollywood Sign, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 06:00 to 06:30, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Hollywood Sign, Los Angeles, visit from 09:00 to 12:30, ; Yang Chow, Los Angeles, visit from 13:00 to 14:00, "
+  }
+]

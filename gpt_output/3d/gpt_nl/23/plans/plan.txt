@@ -1,0 +1,6 @@
+Destination cities: ['New York'],
+Transportation dates: ['2024-11-21', '2024-11-23'],
+Transportation methods between cities: ['Flight Number: F3212115, from Madison to New York, Departure Time: 06:08, Arrival Time: 09:21', 'taxi, from New York to Madison, duration: 1065.7733333333333, distance: 1519.9384, cost: 1519'],
+Restaurants (3 meals per day): ['Mari Vanna, New York', "Sylvia's Restaurant, New York", "Rao's Restaurant, New York", 'Westway Diner, New York', 'Manhatta, New York', 'Peak Restaurant & Bar, New York', 'Sarge’s Delicatessen & Diner, New York', "Del Frisco's Double Eagle Steakhouse, New York", "Carmine's, New York"],
+Attractions (1 per day): ['American Museum of Natural History, New York', 'New York Public Library, New York', 'The Metropolitan Museum of Art, New York'],
+Accommodations (1 per city): ['High Rise haven + Free Breakfast, New York']

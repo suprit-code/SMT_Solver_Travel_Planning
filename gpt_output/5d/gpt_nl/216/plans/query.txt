@@ -1,0 +1,1 @@
+Design a 5-day travel itinerary for 2 people starting from Greensboro and visiting 2 cities in Florida between November 2nd and November 6th, 2024. The budget is $3,500. Accommodations should be an entire home that allows visitors. Include options for Chinese and American cuisine. Transportation should exclude flights.

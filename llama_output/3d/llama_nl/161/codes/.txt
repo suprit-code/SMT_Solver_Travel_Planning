@@ -1,0 +1,19 @@
+
+    # Set house rules to be ['No parties']
+    house_rules = ['No parties']
+    
+    # For each 'accommodation_index', get specific house rules info
+    accommodation_indices = [1, 2, 3]  # Replace with actual accommodation indices
+    for accommodation_index in accommodation_indices:
+        # Get specific house rules info for the current accommodation index
+        accommodation_rules = get_accommodation_rules(accommodation_index)
+        
+        # Assert 'No parties' exist for the current accommodation
+        assert 'No parties' in accommodation_rules, f"No parties rule not found for accommodation {accommodation_index}"
+    
+    def get_accommodation_rules(accommodation_index):
+        # Replace with actual logic to get accommodation rules
+        return house_rules
+    
+    
+    In this example, we first set the `house_rules` variable to `['No parties']`. Then, we define a list of `accommodation_indices` that we want to check. We use a `for` loop to iterate over each `accommodation_index`, get the specific house rules for that accommodation using the `get_accommodation_rules` function, and assert that the `'No parties'` rule exists for that accommodation. If the rule is not found, an `AssertionError` is raised with a message indicating which accommodation is missing the rule.

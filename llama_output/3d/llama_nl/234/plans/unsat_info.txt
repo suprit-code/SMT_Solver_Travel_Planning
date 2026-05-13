@@ -1,0 +1,10 @@
+not ok
+Unsatisfiable core:
+eat in which city b
+eat in which city l
+eat in which city d
+valid restaurant index
+Indiantype restaurant
+Indiantype restaurant is visited
+attraction in which city
+valid attraction index

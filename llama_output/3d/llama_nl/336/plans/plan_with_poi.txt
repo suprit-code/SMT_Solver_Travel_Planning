@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Nashville",
+    "transportation": "Flight Number: F4006547, from San Diego to Nashville, Departure Time: 17:50, Arrival Time: 23:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "King Room at  Downtown Convention Center, Nashville",
+    "event": "-",
+    "point_of_interest_list": "King Room at  Downtown Convention Center, stay from 23:57 to 00:27, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 92.89m away; King Room at  Downtown Convention Center, stay from 00:57 to 08:00, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 92.89m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "The Bluebird Cafe, Nashville",
+    "lunch": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "dinner": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "attraction": "-",
+    "accommodation": "King Room at  Downtown Convention Center, Nashville",
+    "event": "-",
+    "point_of_interest_list": "King Room at  Downtown Convention Center, stay from 08:30 to 09:00, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 92.89m away; The Bluebird Cafe, Nashville, visit from 09:39 to 10:29, ; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 14:30 to 15:30, ; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 19:31 to 20:46, ; King Room at  Downtown Convention Center, stay from 21:16 to 05:16, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 92.89m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to San Diego",
+    "transportation": "Flight Number: F0971317, from Nashville to San Diego, Departure Time: 12:29, Arrival Time: 14:55",
+    "breakfast": "The Farm House, Nashville",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "King Room at  Downtown Convention Center, stay from 06:00 to 06:30, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 92.89m away; The Farm House, Nashville, visit from 08:00 to 08:50, "
+  }
+]

@@ -1,0 +1,13 @@
+
+--- JOB 44 FAILED ---
+Error: invalid syntax (<string>, line 172)
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 172
+    This code defines a function `check_house_rule` to check if a house rule is satisfied for an accommodation. It then uses a nested loop to check each house rule for each accommodation. If a house rule is not satisfied for an accommodation, it raises an `AssertionError` with a message indicating which rule and accommodation are causing the issue.
+         ^
+SyntaxError: invalid syntax
+
+----------------------------------------

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to Baltimore",
+    "transportation": "Flight Number: F3993064, from Portland to Baltimore, Departure Time: 15:37, Arrival Time: 17:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Abbey Burger Bistro, Baltimore",
+    "attraction": "-",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 17:33 to 20:15, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; The Abbey Burger Bistro, Baltimore, visit from 20:45 to 22:01, ; The basement, stay from 22:31 to 06:31, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Angies Seafood, Baltimore",
+    "lunch": "Mama's On the Half Shell, Baltimore",
+    "dinner": "LP Steamers, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 07:01 to 07:31, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Angies Seafood, Baltimore, visit from 08:01 to 09:59, ; Mama's On the Half Shell, Baltimore, visit from 14:00 to 15:00, ; National Aquarium, Baltimore, visit from 15:30 to 19:15, ; LP Steamers, Baltimore, visit from 19:45 to 21:00, ; The basement, stay from 21:30 to 05:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Portland",
+    "transportation": "Flight Number: F1656412, from Baltimore to Portland, Departure Time: 20:20, Arrival Time: 21:31",
+    "breakfast": "-",
+    "lunch": "The Helmand, Baltimore",
+    "dinner": "-",
+    "attraction": "Inner Harbor, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 06:00 to 06:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; The Helmand, Baltimore, visit from 12:51 to 15:00, ; Inner Harbor, Baltimore, visit from 15:30 to 19:50, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Las Vegas",
+    "transportation": "Flight Number: F2592774, from Cleveland to Las Vegas, Departure Time: 06:55, Arrival Time: 08:18",
+    "breakfast": "-",
+    "lunch": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "dinner": "Kabuto, Las Vegas",
+    "attraction": "Eiffel Tower Viewing Deck, Las Vegas",
+    "accommodation": "Clean Cozy Room w/att'd Private Bath, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Clean Cozy Room w/att'd Private Bath, stay from 08:48 to 09:18, nearest transit: The Strat, 11509.56m away; Eiffel Tower Viewing Deck, Las Vegas, visit from 09:48 to 14:00, ; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 14:30 to 16:44, ; Kabuto, Las Vegas, visit from 20:45 to 23:10, ; Clean Cozy Room w/att'd Private Bath, stay from 23:40 to 07:40, nearest transit: The Strat, 11509.56m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Garden Court, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "The Las Vegas Strip, Las Vegas",
+    "accommodation": "Clean Cozy Room w/att'd Private Bath, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Clean Cozy Room w/att'd Private Bath, stay from 08:10 to 08:40, nearest transit: The Strat, 11509.56m away; Garden Court, Las Vegas, visit from 09:10 to 10:00, ; The Las Vegas Strip, Las Vegas, visit from 10:30 to 14:00, ; Eggscellent, Las Vegas, visit from 14:30 to 15:30, ; Mr. Mamas, Las Vegas, visit from 19:31 to 20:46, ; Clean Cozy Room w/att'd Private Bath, stay from 21:16 to 05:16, nearest transit: The Strat, 11509.56m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Cleveland",
+    "transportation": "Flight Number: F2140286, from Las Vegas to Cleveland, Departure Time: 23:47, Arrival Time: 06:57",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Clean Cozy Room w/att'd Private Bath, stay from 06:00 to 06:30, nearest transit: The Strat, 11509.56m away; Ameribrunch Cafe, Las Vegas, visit from 08:00 to 08:50, "
+  }
+]

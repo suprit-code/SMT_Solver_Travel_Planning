@@ -1,0 +1,6 @@
+Destination cities: ['Las Vegas'],
+Transportation dates: ['2024-11-23', '2024-11-25'],
+Transportation methods between cities: ['Flight Number: F0834281, from Hartford to Las Vegas, Departure Time: 16:52, Arrival Time: 20:24', 'Flight Number: F0278234, from Las Vegas to Hartford, Departure Time: 23:01, Arrival Time: 06:35'],
+Restaurants (3 meals per day): ['-', '-', "Carmine's, Las Vegas", 'Firefly Tapas Kitchen & Bar, Las Vegas', 'Eggscellent, Las Vegas', 'Golden Steer Steakhouse Las Vegas, Las Vegas', "Gordon Ramsay Hell's Kitchen, Las Vegas", '-', '-'],
+Attractions (1 per day): ['-', 'Wynn Las Vegas Casino, Las Vegas', '-'],
+Accommodations (1 per city): ['MGM Grand! Vegas Strip 16th Floor Renovated Suite, Las Vegas']

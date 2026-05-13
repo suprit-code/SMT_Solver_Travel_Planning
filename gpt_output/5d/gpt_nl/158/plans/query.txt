@@ -1,0 +1,1 @@
+Design a 5-day travel itinerary for 1 person starting from St. Louis and visiting 2 cities in Iowa between November 5th and November 9th, 2024. The budget is $2,550. Accommodations should be an entire home, and the mode of transportation should exclude flights.

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Nashville",
+    "transportation": "Flight Number: F0118796, from New York to Nashville, Departure Time: 15:51, Arrival Time: 17:24",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "-",
+    "accommodation": "Broadway Honky Tonk| Pool | Courtviews | Firepit, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 17:54 to 18:30, nearest transit: PEABODY STATION OUTBOUND, 153.69m away; Aquarium Restaurant, Nashville, visit from 19:00 to 22:06, ; Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 22:36 to 06:36, nearest transit: PEABODY STATION OUTBOUND, 153.69m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Luogo, Nashville",
+    "lunch": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "dinner": "417 Union, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Broadway Honky Tonk| Pool | Courtviews | Firepit, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 07:06 to 07:36, nearest transit: PEABODY STATION OUTBOUND, 153.69m away; Luogo, Nashville, visit from 08:06 to 10:00, ; Centennial Park, Nashville, visit from 10:30 to 14:00, ; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 14:30 to 15:30, ; 417 Union, Nashville, visit from 19:31 to 20:46, ; Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 21:16 to 05:16, nearest transit: PEABODY STATION OUTBOUND, 153.69m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to New York",
+    "transportation": "Flight Number: F0158170, from Nashville to New York, Departure Time: 16:29, Arrival Time: 19:40",
+    "breakfast": "Hand Cut Chophouse, Nashville",
+    "lunch": "Smiling Elephant, Nashville",
+    "dinner": "-",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 06:00 to 06:30, nearest transit: PEABODY STATION OUTBOUND, 153.69m away; Hand Cut Chophouse, Nashville, visit from 08:00 to 08:50, ; Belmont Mansion, Nashville, visit from 09:20 to 12:50, ; Smiling Elephant, Nashville, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,26 @@
+
+    # Import the necessary library
+    import pandas as pd
+    
+    # Assuming 'accommodations' is a DataFrame with 'house_rules' column
+    accommodations = pd.DataFrame({
+        'accommodation_index': [1, 2, 3],
+        'house_rules': [
+            {'rule': 'No visitors', 'description': 'No visitors allowed'},
+            {'rule': 'No pets', 'description': 'No pets allowed'},
+            {'rule': 'No smoking', 'description': 'No smoking allowed'}
+        ]
+    })
+    
+    # For each 'accommodation_index', get specific house rules info
+    for accommodation_index, house_rules in accommodations.groupby('accommodation_index')['house_rules'].apply(list):
+        # Assert 'No visitors' does not exist for all accommodations
+        assert 'No visitors' not in [rule['rule'] for rule in house_rules], f"'No visitors' exists in accommodation {accommodation_index}"
+    
+    
+    In this code:
+    
+    - We first import the necessary library, `pandas`, which is used for data manipulation and analysis.
+    - We create a sample DataFrame `accommodations` with 'accommodation_index' and 'house_rules' columns.
+    - We use the `groupby` method to group the DataFrame by 'accommodation_index' and then apply the `list` function to the 'house_rules' column to get a list of house rules for each accommodation.
+    - We use a for-loop to iterate over the grouped data and assert that 'No visitors' does not exist in the house rules for each accommodation. If 'No visitors' exists in any accommodation, an AssertionError will be raised with a message indicating the accommodation index.

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Montgomery to Washington",
+    "transportation": "Self-driving from Montgomery to Washington, duration: 906.42, distance: 1284.9725, cost : 64.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Mellow travelers welcome, share bathroom, Washington",
+    "event": "-",
+    "point_of_interest_list": "Mellow travelers welcome, share bathroom, stay from 22:22 to 22:52, nearest transit: ROSSLYN, 1687.87m away; Mellow travelers welcome, share bathroom, stay from 23:22 to 07:22, nearest transit: ROSSLYN, 1687.87m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Thip Khao, Washington",
+    "lunch": "Kingbird, Washington",
+    "dinner": "Ambar Shaw, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "Mellow travelers welcome, share bathroom, Washington",
+    "event": "-",
+    "point_of_interest_list": "Mellow travelers welcome, share bathroom, stay from 07:52 to 08:22, nearest transit: ROSSLYN, 1687.87m away; Thip Khao, Washington, visit from 08:52 to 10:00, ; National Mall, Washington, visit from 10:30 to 14:00, ; Kingbird, Washington, visit from 14:30 to 15:30, ; Ambar Shaw, Washington, visit from 20:45 to 22:00, ; Mellow travelers welcome, share bathroom, stay from 23:40 to 07:40, nearest transit: ROSSLYN, 1687.87m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Montgomery",
+    "transportation": "Self-driving from Washington to Montgomery, duration: 910.0733333333334, distance: 1287.7221000000002, cost : 64.0",
+    "breakfast": "Unconventional Diner, Washington",
+    "lunch": "Smoke & Mirrors Rooftop Bar, Washington",
+    "dinner": "Succotash Prime, Washington",
+    "attraction": "Ford's Theatre, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Mellow travelers welcome, share bathroom, stay from 08:10 to 08:40, nearest transit: ROSSLYN, 1687.87m away; Unconventional Diner, Washington, visit from 09:10 to 10:00, ; Ford's Theatre, Washington, visit from 10:30 to 14:00, ; Smoke & Mirrors Rooftop Bar, Washington, visit from 14:30 to 15:30, ; Succotash Prime, Washington, visit from 19:31 to 20:46, "
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Victoria to Amarillo",
+    "transportation": "Taxi from Victoria to Amarillo, duration: 663.5933333333334, distance: 1000.8854, cost : 1000.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "attraction": "-",
+    "accommodation": "Downtown Luxury High-Rise Suite, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 19:45 to 20:15, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 20:45 to 22:00, ; Downtown Luxury High-Rise Suite, stay from 22:30 to 06:30, nearest transit: SW 6th Ave & S Tyler St, 49.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Metropolitan, Amarillo",
+    "lunch": "Ye Olde Pancake Station, Amarillo",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "Downtown Luxury High-Rise Suite, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 07:00 to 07:30, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; Metropolitan, Amarillo, visit from 08:00 to 08:50, ; Ye Olde Pancake Station, Amarillo, visit from 12:51 to 15:00, ; Cadillac Ranch, Amarillo, visit from 15:30 to 20:10, ; Golden Light Cafe & Cantina, Amarillo, visit from 20:40 to 21:55, ; Downtown Luxury High-Rise Suite, stay from 22:25 to 06:25, nearest transit: SW 6th Ave & S Tyler St, 49.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Pier 99 Restaurant, Corpus Christi",
+    "attraction": "-",
+    "accommodation": "b/walk to beach/fishing dock/Ground floor/King bed, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 06:55 to 07:25, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; b/walk to beach/fishing dock/Ground floor/King bed, stay from 19:45 to 20:15, nearest transit: 2601-15209 Leeward, 21.45m away; Pier 99 Restaurant, Corpus Christi, visit from 20:45 to 22:00, ; b/walk to beach/fishing dock/Ground floor/King bed, stay from 22:30 to 06:30, nearest transit: 2601-15209 Leeward, 21.45m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Acapulco Restaurant, Corpus Christi",
+    "lunch": "Authentic New York Pizza company, Corpus Christi",
+    "dinner": "Executive Surf Club, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "b/walk to beach/fishing dock/Ground floor/King bed, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "b/walk to beach/fishing dock/Ground floor/King bed, stay from 07:00 to 07:30, nearest transit: 2601-15209 Leeward, 21.45m away; Acapulco Restaurant, Corpus Christi, visit from 09:10 to 10:00, ; USS Lexington Museum, Corpus Christi, visit from 10:30 to 14:00, ; Authentic New York Pizza company, Corpus Christi, visit from 14:30 to 15:30, ; Executive Surf Club, Corpus Christi, visit from 20:45 to 22:00, ; b/walk to beach/fishing dock/Ground floor/King bed, stay from 22:30 to 06:30, nearest transit: 2601-15209 Leeward, 21.45m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F2378143, from Corpus Christi to Houston, Departure Time: 16:42, Arrival Time: 17:43",
+    "breakfast": "Yardarm Restaurant, Corpus Christi",
+    "lunch": "Republic of Texas Bar & Grill, Corpus Christi",
+    "dinner": "Niko Niko's Greek, Houston",
+    "attraction": "-",
+    "accommodation": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, Houston",
+    "event": "-",
+    "point_of_interest_list": "b/walk to beach/fishing dock/Ground floor/King bed, stay from 07:00 to 07:30, nearest transit: 2601-15209 Leeward, 21.45m away; Yardarm Restaurant, Corpus Christi, visit from 08:00 to 08:50, ; Republic of Texas Bar & Grill, Corpus Christi, visit from 14:12 to 15:12, ; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 18:13 to 18:43, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Niko Niko's Greek, Houston, visit from 19:13 to 20:28, ; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 20:58 to 05:30, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Houstons Bar and Grill, Houston",
+    "dinner": "Houston's Restaurant & Pub, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, Houston",
+    "event": "-",
+    "point_of_interest_list": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 06:00 to 07:45, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Kenny & Ziggy's New York Deli, Houston, visit from 08:15 to 09:05, ; Downtown Aquarium, Houston, visit from 09:35 to 13:05, ; Houstons Bar and Grill, Houston, visit from 13:35 to 14:35, ; Houston's Restaurant & Pub, Houston, visit from 19:00 to 20:15, ; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 20:45 to 04:45, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Victoria",
+    "transportation": "Flight Number: F2351364, from Houston to Victoria, Departure Time: 18:23, Arrival Time: 19:11",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 06:00 to 06:30, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Pappadeaux Seafood Kitchen, Houston, visit from 08:00 to 08:50, ; Houston Restaurant, Houston, visit from 12:51 to 13:51, ; Houston Zoo, Houston, visit from 14:21 to 17:51, "
+  }
+]

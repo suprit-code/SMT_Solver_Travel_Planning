@@ -1,0 +1,6 @@
+Destination cities: ['New York'],
+Transportation dates: ['2024-11-16', '2024-11-18'],
+Transportation methods between cities: ['Self-driving, from Asheville to New York, duration: 790.7416666666667, distance: 1110.8215, cost: 55', 'Self-driving, from New York to Asheville, duration: 791.7216666666667, distance: 1103.1263, cost: 55'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Sarge’s Delicatessen & Diner, New York', "Carmine's, New York", 'Westway Diner, New York', 'FIG & OLIVE, New York', 'Times Square Diner, New York', "Sylvia's Restaurant, New York"],
+Attractions (1 per day): ['-', 'The High Line, New York', 'Central Park, New York'],
+Accommodations (1 per city): ['Minimal room 1 SofaBed + loft bed in Manhattan, New York']

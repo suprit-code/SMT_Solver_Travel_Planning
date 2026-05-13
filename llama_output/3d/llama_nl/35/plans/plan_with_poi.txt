@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to Sioux Falls",
+    "transportation": "Taxi from Nashville to Sioux Falls, duration: 1007.0416666666666, distance: 1481.2943, cost : 1481.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Centrally-Located Charmer, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "Centrally-Located Charmer, stay from 23:17 to 23:47, nearest transit: Minnesota/22nd SE corner, 83.37m away; Centrally-Located Charmer, stay from 00:17 to 08:00, nearest transit: Minnesota/22nd SE corner, 83.37m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sioux Falls",
+    "transportation": "-",
+    "breakfast": "Minerva's, Sioux Falls",
+    "lunch": "Harvester Kitchen, Sioux Falls",
+    "dinner": "Tarquin Argentinian Restaurant, Sioux Falls",
+    "attraction": "-",
+    "accommodation": "Centrally-Located Charmer, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "Centrally-Located Charmer, stay from 08:30 to 09:00, nearest transit: Minnesota/22nd SE corner, 83.37m away; Minerva's, Sioux Falls, visit from 09:38 to 10:28, ; Harvester Kitchen, Sioux Falls, visit from 14:29 to 16:44, ; Tarquin Argentinian Restaurant, Sioux Falls, visit from 20:45 to 22:00, ; Centrally-Located Charmer, stay from 22:30 to 06:30, nearest transit: Minnesota/22nd SE corner, 83.37m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sioux Falls to Nashville",
+    "transportation": "Flight Number: F2562961, from Sioux Falls to Nashville, Departure Time: 21:34, Arrival Time: 23:42",
+    "breakfast": "Morrie’s Steakhouse, Sioux Falls",
+    "lunch": "Tomacelli's Pizza & Pasta, Sioux Falls",
+    "dinner": "Parker's Bistro, Sioux Falls",
+    "attraction": "Falls Park, Sioux Falls",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Centrally-Located Charmer, stay from 07:00 to 07:30, nearest transit: Minnesota/22nd SE corner, 83.37m away; Morrie’s Steakhouse, Sioux Falls, visit from 08:00 to 08:50, ; Tomacelli's Pizza & Pasta, Sioux Falls, visit from 12:51 to 13:51, ; Falls Park, Sioux Falls, visit from 14:21 to 17:51, ; Parker's Bistro, Sioux Falls, visit from 19:00 to 20:15, "
+  }
+]

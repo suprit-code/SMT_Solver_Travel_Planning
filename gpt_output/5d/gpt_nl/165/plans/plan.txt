@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-22', '2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Self-driving, from Tucson to San Diego, duration: 431.81166666666667, distance: 656.4621999999999, cost: 32', 'Self-driving, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 53', 'Self-driving, from Redding to Tucson, duration: 1112.86, distance: 1653.3025, cost: 82'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Cowboy Star, San Diego', 'Juniper and Ivy, San Diego', 'Born & Raised, San Diego', 'Addison Restaurant, San Diego', "Lou & Mickey's, San Diego", "Mister A'S, San Diego", 'Vintage Public House, Redding', "Trendy's, Redding", 'View 202, Redding', 'New China, Redding', "Jack's Grill, Redding", 'Dam Burger, Redding'],
+Attractions (1 per day): ['-', 'USS Midway Museum, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Turtle Bay Exploration Park, Redding', 'Sundial Bridge, Redding'],
+Accommodations (1 per city): ['No contact with host, separate, and close to town!, San Diego', 'Centrally located with private entrance, Redding']

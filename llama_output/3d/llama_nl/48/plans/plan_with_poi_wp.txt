@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Kansas City",
+    "transportation": "Taxi from Detroit to Kansas City, duration: 854.0949999999999, distance: 1230.7483, cost : 1230.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Broadway private room (2 min walk from KU Med), Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Broadway private room (2 min walk from KU Med), stay from 21:33 to 22:03, nearest transit: ON 39TH AT WYOMING WESTBOUND, 634.68m away; Broadway private room (2 min walk from KU Med), stay from 22:33 to 06:33, nearest transit: ON 39TH AT WYOMING WESTBOUND, 634.68m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "eggtc., Kansas City",
+    "lunch": "Eddie V's Prime Seafood, Kansas City",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Kansas City",
+    "attraction": "Kauffman Stadium, Kansas City",
+    "accommodation": "Broadway private room (2 min walk from KU Med), Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Broadway private room (2 min walk from KU Med), stay from 07:03 to 07:33, nearest transit: ON 39TH AT WYOMING WESTBOUND, 634.68m away; eggtc., Kansas City, visit from 08:03 to 08:53, ; Eddie V's Prime Seafood, Kansas City, visit from 12:54 to 13:54, ; Kauffman Stadium, Kansas City, visit from 15:00 to 18:30, ; Fogo de Chao Brazilian Steakhouse, Kansas City, visit from 19:00 to 20:15, ; Broadway private room (2 min walk from KU Med), stay from 20:45 to 04:45, nearest transit: ON 39TH AT WYOMING WESTBOUND, 634.68m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Detroit",
+    "transportation": "Flight Number: F3548003, from Kansas City to Detroit, Departure Time: 18:52, Arrival Time: 21:32",
+    "breakfast": "Beer Kitchen, Kansas City",
+    "lunch": "KC Chop House, Kansas City",
+    "dinner": "-",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Broadway private room (2 min walk from KU Med), stay from 06:00 to 06:30, nearest transit: ON 39TH AT WYOMING WESTBOUND, 634.68m away; Beer Kitchen, Kansas City, visit from 08:00 to 08:50, ; KC Chop House, Kansas City, visit from 12:51 to 13:51, ; Tom's Town Distilling Co., Kansas City, visit from 14:21 to 17:51, "
+  }
+]

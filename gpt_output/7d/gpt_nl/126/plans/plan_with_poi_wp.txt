@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Antonio to San Diego",
+    "transportation": "Flight Number: F3940771, from San Antonio to San Diego, Departure Time: 11:23, Arrival Time: 12:12",
+    "breakfast": "-",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Private Hideaway, Shelter Island, Beach  & Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 12:42 to 13:12, nearest transit: Canon St & Evergreen St, 448.33m away; Pacific Beach AleHouse, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 19:15, ; Ruth's Chris Steak House, San Diego, visit from 19:45 to 21:00, ; Private Hideaway, Shelter Island, Beach  & Bay, stay from 21:30 to 05:30, nearest transit: Canon St & Evergreen St, 448.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Private Hideaway, Shelter Island, Beach  & Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 06:00 to 06:30, nearest transit: Canon St & Evergreen St, 448.33m away; Lou & Mickey's, San Diego, visit from 09:09 to 09:59, ; Cowboy Star, San Diego, visit from 14:00 to 15:00, ; San Diego Zoo, San Diego, visit from 15:30 to 19:15, ; Morning Glory, San Diego, visit from 19:45 to 21:00, ; Private Hideaway, Shelter Island, Beach  & Bay, stay from 21:30 to 05:30, nearest transit: Canon St & Evergreen St, 448.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Taxi from San Diego to Los Angeles, duration: 142.59166666666667, distance: 193.5707, cost : 193.0",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "MidCity private suite w/ fireplace & HOT TUB!, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 06:00 to 07:30, nearest transit: Canon St & Evergreen St, 448.33m away; Juniper and Ivy, San Diego, visit from 08:00 to 08:50, ; Birch Aquarium at Scripps, San Diego, visit from 09:20 to 12:50, ; Mimmo's, San Diego, visit from 13:20 to 14:20, ; MidCity private suite w/ fireplace & HOT TUB!, stay from 17:42 to 18:12, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away; MidCity private suite w/ fireplace & HOT TUB!, stay from 18:42 to 02:42, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Maccheroni Republic, Los Angeles",
+    "lunch": "Yang Chow, Los Angeles",
+    "dinner": "Bavel, Los Angeles",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "MidCity private suite w/ fireplace & HOT TUB!, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "MidCity private suite w/ fireplace & HOT TUB!, stay from 06:00 to 06:30, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away; Maccheroni Republic, Los Angeles, visit from 08:39 to 09:29, ; Griffith Park, Los Angeles, visit from 09:59 to 13:29, ; Yang Chow, Los Angeles, visit from 14:30 to 15:30, ; Bavel, Los Angeles, visit from 19:31 to 20:46, ; MidCity private suite w/ fireplace & HOT TUB!, stay from 21:16 to 05:16, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Flight Number: F3436916, from Los Angeles to San Francisco, Departure Time: 08:38, Arrival Time: 09:47",
+    "breakfast": "-",
+    "lunch": "House of Prime Rib, San Francisco",
+    "dinner": "Capital Restaurant, San Francisco",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "MidCity private suite w/ fireplace & HOT TUB!, stay from 06:00 to 08:08, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away; Spacious and charming 1bd apartment on Ocean Beach, stay from 10:17 to 10:47, nearest transit: Civic Center BART (9th and Market), 8766.73m away; House of Prime Rib, San Francisco, visit from 12:00 to 13:00, ; Alcatraz Island, San Francisco, visit from 13:30 to 17:00, ; Capital Restaurant, San Francisco, visit from 19:00 to 20:15, ; Spacious and charming 1bd apartment on Ocean Beach, stay from 20:45 to 04:45, nearest transit: Civic Center BART (9th and Market), 8766.73m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Mo's Grill, San Francisco",
+    "lunch": "Kokkari Estiatorio, San Francisco",
+    "dinner": "Z & Y Restaurant, San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Mo's Grill, San Francisco, visit from 08:30 to 09:20, ; Lands End, San Francisco, visit from 09:50 to 13:20, ; Kokkari Estiatorio, San Francisco, visit from 13:50 to 14:50, ; Z & Y Restaurant, San Francisco, visit from 19:00 to 20:15, ; Spacious and charming 1bd apartment on Ocean Beach, stay from 20:45 to 04:45, nearest transit: Civic Center BART (9th and Market), 8766.73m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to San Antonio",
+    "transportation": "Flight Number: F0454808, from San Francisco to San Antonio, Departure Time: 12:50, Arrival Time: 18:19",
+    "breakfast": "Scoma's Restaurant, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Scoma's Restaurant, San Francisco, visit from 08:00 to 08:50, "
+  }
+]

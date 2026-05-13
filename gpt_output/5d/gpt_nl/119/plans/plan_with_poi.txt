@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F1175786, from Everett to San Diego, Departure Time: 14:28, Arrival Time: 17:12",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "-",
+    "accommodation": "Bed in 4-Bed room in Stylish Hostel, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 17:42 to 18:12, nearest transit: Cable St & Newport Av, 118.17m away; Pacific Beach AleHouse, San Diego, visit from 19:00 to 22:02, ; Bed in 4-Bed room in Stylish Hostel, stay from 22:32 to 06:32, nearest transit: Cable St & Newport Av, 118.17m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Covewood Restaurant, San Diego",
+    "lunch": "El Agave Restaurant & Tequileria, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Bed in 4-Bed room in Stylish Hostel, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 07:02 to 07:32, nearest transit: Cable St & Newport Av, 118.17m away; Covewood Restaurant, San Diego, visit from 08:02 to 10:00, ; SeaWorld, San Diego, visit from 10:30 to 14:00, ; El Agave Restaurant & Tequileria, San Diego, visit from 14:30 to 16:44, ; Lou & Mickey's, San Diego, visit from 20:45 to 23:00, ; Bed in 4-Bed room in Stylish Hostel, stay from 23:30 to 07:30, nearest transit: Cable St & Newport Av, 118.17m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F3368962, from San Diego to Sacramento, Departure Time: 17:49, Arrival Time: 19:30",
+    "breakfast": "-",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Beautiful home in W. Sacramento, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 08:30 to 09:00, nearest transit: Cable St & Newport Av, 118.17m away; Mimmo's, San Diego, visit from 12:19 to 13:19, ; San Diego Zoo, San Diego, visit from 13:49 to 17:19, ; Beautiful home in W. Sacramento, stay from 20:00 to 20:30, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Beautiful home in W. Sacramento, stay from 21:00 to 05:00, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Bangkok @12 Thai Restaurant, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "Zocalo, Sacramento",
+    "attraction": "California State Railroad Museum, Sacramento",
+    "accommodation": "Beautiful home in W. Sacramento, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Beautiful home in W. Sacramento, stay from 06:00 to 07:35, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Bangkok @12 Thai Restaurant, Sacramento, visit from 08:05 to 09:59, ; Nopalitos, Sacramento, visit from 14:00 to 15:00, ; California State Railroad Museum, Sacramento, visit from 15:30 to 19:00, ; Zocalo, Sacramento, visit from 19:30 to 20:45, ; Beautiful home in W. Sacramento, stay from 21:15 to 05:15, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Everett",
+    "transportation": "Taxi from Sacramento to Everett, duration: 905.6966666666668, distance: 1256.0839, cost : 1256.0",
+    "breakfast": "Frank Fat's Restaurant, Sacramento",
+    "lunch": "Firestone Public House, Sacramento",
+    "dinner": "Ella Dining Room & Bar, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful home in W. Sacramento, stay from 06:00 to 07:30, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Frank Fat's Restaurant, Sacramento, visit from 08:00 to 08:50, ; Sacramento History Museum, Sacramento, visit from 09:20 to 12:50, ; Firestone Public House, Sacramento, visit from 13:20 to 14:20, ; Ella Dining Room & Bar, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

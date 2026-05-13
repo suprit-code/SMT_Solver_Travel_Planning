@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Amarillo",
+    "transportation": "Flight Number: F2626059, from Las Vegas to Amarillo, Departure Time: 13:58, Arrival Time: 17:44",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Nifty Nest Oasis / Impeccable Studio + Garden, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Nifty Nest Oasis / Impeccable Studio + Garden, stay from 18:14 to 21:00, nearest transit: S Washington St & SW 28th Ave, 362.01m away; Nifty Nest Oasis / Impeccable Studio + Garden, stay from 21:30 to 05:30, nearest transit: S Washington St & SW 28th Ave, 362.01m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Tejavan, Amarillo",
+    "lunch": "Golden Light Cafe & Cantina, Amarillo",
+    "dinner": "Ohms Cafe & Catering, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Nifty Nest Oasis / Impeccable Studio + Garden, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Nifty Nest Oasis / Impeccable Studio + Garden, stay from 06:00 to 06:30, nearest transit: S Washington St & SW 28th Ave, 362.01m away; El Tejavan, Amarillo, visit from 09:02 to 09:52, ; Route 66 Historic District, Amarillo, visit from 10:22 to 14:00, ; Golden Light Cafe & Cantina, Amarillo, visit from 14:30 to 15:30, ; Ohms Cafe & Catering, Amarillo, visit from 19:31 to 20:57, ; Nifty Nest Oasis / Impeccable Studio + Garden, stay from 21:27 to 05:27, nearest transit: S Washington St & SW 28th Ave, 362.01m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F3932873, from Amarillo to Houston, Departure Time: 06:57, Arrival Time: 08:28",
+    "breakfast": "-",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "Brenner's on the Bayou, Houston",
+    "attraction": "The Menil Collection, Houston",
+    "accommodation": "Garage Apt & Patio Near Rail and FREE EGGS!, Houston",
+    "event": "-",
+    "point_of_interest_list": "Nifty Nest Oasis / Impeccable Studio + Garden, stay from 05:57 to 06:27, nearest transit: S Washington St & SW 28th Ave, 362.01m away; Garage Apt & Patio Near Rail and FREE EGGS!, stay from 08:58 to 09:28, nearest transit: Irvington Blvd @ English, 356.07m away; The Menil Collection, Houston, visit from 09:58 to 13:28, ; Market on Houston, Houston, visit from 13:58 to 14:58, ; Brenner's on the Bayou, Houston, visit from 19:00 to 20:15, ; Garage Apt & Patio Near Rail and FREE EGGS!, stay from 21:30 to 05:30, nearest transit: Irvington Blvd @ English, 356.07m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "Houston's Restaurant & Pub, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "Garage Apt & Patio Near Rail and FREE EGGS!, Houston",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 06:00 to 06:30, nearest transit: Irvington Blvd @ English, 356.07m away; Brennan's of Houston, Houston, visit from 08:10 to 09:00, ; NRG Stadium, Houston, visit from 09:30 to 13:00, ; Houston's Restaurant & Pub, Houston, visit from 13:30 to 14:30, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 19:00 to 20:15, ; Garage Apt & Patio Near Rail and FREE EGGS!, stay from 20:45 to 04:45, nearest transit: Irvington Blvd @ English, 356.07m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F3971648, from Houston to San Antonio, Departure Time: 08:47, Arrival Time: 09:36",
+    "breakfast": "-",
+    "lunch": "Dough Pizzeria Napoletana, San Antonio",
+    "dinner": "J Prime Steakhouse, San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 06:00 to 06:30, nearest transit: Irvington Blvd @ English, 356.07m away; Couples getaway kink dungeon, stay from 10:06 to 10:36, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Dough Pizzeria Napoletana, San Antonio, visit from 12:00 to 13:00, ; The Alamo, San Antonio, visit from 15:30 to 20:15, ; J Prime Steakhouse, San Antonio, visit from 20:45 to 22:03, ; Couples getaway kink dungeon, stay from 22:33 to 06:33, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Perry's Steakhouse & Grille- San Antonio, San Antonio",
+    "lunch": "Bliss, San Antonio",
+    "dinner": "Pollos Asados Los Nortenos, San Antonio",
+    "attraction": "San Antonio Missions National Historical Park, San Antonio",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 07:03 to 07:33, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Perry's Steakhouse & Grille- San Antonio, San Antonio, visit from 08:03 to 08:53, ; San Antonio Missions National Historical Park, San Antonio, visit from 09:23 to 12:53, ; Bliss, San Antonio, visit from 14:30 to 15:30, ; Pollos Asados Los Nortenos, San Antonio, visit from 20:45 to 22:00, ; Couples getaway kink dungeon, stay from 22:30 to 06:30, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Las Vegas",
+    "transportation": "Flight Number: F1659058, from San Antonio to Las Vegas, Departure Time: 20:18, Arrival Time: 20:48",
+    "breakfast": "Domingo Restaurant, San Antonio",
+    "lunch": "Schilo's, San Antonio",
+    "dinner": "-",
+    "attraction": "San Fernando De Bexar Cathedral, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 07:00 to 07:30, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Domingo Restaurant, San Antonio, visit from 08:00 to 08:50, ; San Fernando De Bexar Cathedral, San Antonio, visit from 09:20 to 12:50, ; Schilo's, San Antonio, visit from 13:20 to 14:20, "
+  }
+]

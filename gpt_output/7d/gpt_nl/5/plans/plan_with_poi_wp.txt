@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F0312221, from Atlanta to San Diego, Departure Time: 08:18, Arrival Time: 10:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 10:31 to 11:01, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; SeaWorld, San Diego, visit from 15:00 to 18:30, ; Morning Glory, San Diego, visit from 19:00 to 20:15, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 21:30 to 05:30, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Buon Appetito, San Diego",
+    "lunch": "Vessel Restaurant + Bar, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 06:00 to 06:30, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Buon Appetito, San Diego, visit from 08:14 to 09:04, ; Vessel Restaurant + Bar, San Diego, visit from 13:30 to 14:30, ; Birch Aquarium at Scripps, San Diego, visit from 15:00 to 18:30, ; Pacific Beach AleHouse, San Diego, visit from 19:00 to 20:15, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 20:45 to 04:45, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F2370229, from San Diego to Sacramento, Departure Time: 18:18, Arrival Time: 20:06",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Room with private bathroom, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 06:00 to 06:30, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Din Tai Fung, San Diego, visit from 08:00 to 08:50, ; San Diego Zoo, San Diego, visit from 09:20 to 12:50, ; Mimmo's, San Diego, visit from 13:20 to 14:20, ; Room with private bathroom, stay from 20:36 to 21:06, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away; Room with private bathroom, stay from 21:36 to 06:56, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Pilothouse Restaurant on the Delta King, Sacramento",
+    "lunch": "Paesano's Pizzeria, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Room with private bathroom, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Room with private bathroom, stay from 07:26 to 07:56, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away; Pilothouse Restaurant on the Delta King, Sacramento, visit from 08:26 to 09:16, ; Paesano's Pizzeria, Sacramento, visit from 13:17 to 14:17, ; California State Capitol Museum, Sacramento, visit from 14:47 to 18:17, ; Nopalitos, Sacramento, visit from 20:45 to 22:21, ; Room with private bathroom, stay from 22:51 to 06:51, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Flight Number: F3382189, from Sacramento to Los Angeles, Departure Time: 18:42, Arrival Time: 20:18",
+    "breakfast": "Orphan, Sacramento",
+    "lunch": "Zocalo, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "the mid city . registration : HSR19-002172, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Room with private bathroom, stay from 07:21 to 07:51, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away; Orphan, Sacramento, visit from 08:21 to 09:11, ; Zocalo, Sacramento, visit from 13:12 to 14:12, ; Capitol Park, Sacramento, visit from 14:42 to 18:12, ; the mid city . registration : HSR19-002172, stay from 20:48 to 21:18, nearest transit: West & Buckingham (southbound), 428.03m away; the mid city . registration : HSR19-002172, stay from 21:48 to 05:48, nearest transit: West & Buckingham (southbound), 428.03m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Belles Beach House, Los Angeles",
+    "lunch": "Leo & Lily, Los Angeles",
+    "dinner": "Ayara Thai Cuisine, Los Angeles",
+    "attraction": "-",
+    "accommodation": "the mid city . registration : HSR19-002172, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "the mid city . registration : HSR19-002172, stay from 06:18 to 06:48, nearest transit: West & Buckingham (southbound), 428.03m away; Belles Beach House, Los Angeles, visit from 08:16 to 09:06, ; Leo & Lily, Los Angeles, visit from 13:07 to 14:07, ; Ayara Thai Cuisine, Los Angeles, visit from 19:30 to 20:45, ; the mid city . registration : HSR19-002172, stay from 21:15 to 05:15, nearest transit: West & Buckingham (southbound), 428.03m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Atlanta",
+    "transportation": "Flight Number: F2017521, from Los Angeles to Atlanta, Departure Time: 17:56, Arrival Time: 00:53",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "the mid city . registration : HSR19-002172, stay from 06:00 to 06:30, nearest transit: West & Buckingham (southbound), 428.03m away; Griffith Park, Los Angeles, visit from 09:00 to 12:30, "
+  }
+]

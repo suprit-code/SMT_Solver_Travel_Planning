@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Birmingham to Detroit",
+    "transportation": "Flight Number: F0508126, from Birmingham to Detroit, Departure Time: 07:03, Arrival Time: 10:15",
+    "breakfast": "-",
+    "lunch": "Prime + Proper, Detroit",
+    "dinner": "Andiamo Detroit Riverfront, Detroit",
+    "attraction": "Detroit Institute of Arts, Detroit",
+    "accommodation": "Modern Comfort - Lake Huron Room, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Modern Comfort - Lake Huron Room, stay from 10:45 to 13:00, nearest transit: Grand Blvd, 9490.36m away; Prime + Proper, Detroit, visit from 13:30 to 14:30, ; Detroit Institute of Arts, Detroit, visit from 15:00 to 18:30, ; Andiamo Detroit Riverfront, Detroit, visit from 19:00 to 20:15, ; Modern Comfort - Lake Huron Room, stay from 20:45 to 04:45, nearest transit: Grand Blvd, 9490.36m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Detroit",
+    "transportation": "-",
+    "breakfast": "London Chop House, Detroit",
+    "lunch": "Ottava Via, Detroit",
+    "dinner": "Honest John's Bar & Grill - Selden St., Detroit",
+    "attraction": "Comerica Park, Detroit",
+    "accommodation": "Modern Comfort - Lake Huron Room, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Modern Comfort - Lake Huron Room, stay from 08:10 to 08:40, nearest transit: Grand Blvd, 9490.36m away; London Chop House, Detroit, visit from 09:10 to 10:00, ; Comerica Park, Detroit, visit from 10:30 to 14:00, ; Ottava Via, Detroit, visit from 14:30 to 15:30, ; Honest John's Bar & Grill - Selden St., Detroit, visit from 19:31 to 20:46, ; Modern Comfort - Lake Huron Room, stay from 21:16 to 05:16, nearest transit: Grand Blvd, 9490.36m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Detroit to Birmingham",
+    "transportation": "Flight Number: F1123078, from Detroit to Birmingham, Departure Time: 10:17, Arrival Time: 11:09",
+    "breakfast": "Texas de Brazil - Detroit, Detroit",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Comfort - Lake Huron Room, stay from 06:00 to 06:30, nearest transit: Grand Blvd, 9490.36m away; Texas de Brazil - Detroit, Detroit, visit from 08:00 to 08:50, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Milwaukee to Atlanta",
+    "transportation": "Flight Number: F2534674, from Milwaukee to Atlanta, Departure Time: 15:01, Arrival Time: 17:53",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "-",
+    "accommodation": "Charm in the Heart of Va-Hi: Serene Studio Retreat, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 18:23 to 20:15, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away; Cafe Agora, Atlanta, visit from 20:45 to 22:41, ; Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 23:11 to 07:11, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Steamhouse Lounge, Atlanta",
+    "lunch": "No Mas! Cantina, Atlanta",
+    "dinner": "Max's Coal Oven Pizzeria, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Charm in the Heart of Va-Hi: Serene Studio Retreat, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 07:41 to 08:11, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away; Steamhouse Lounge, Atlanta, visit from 08:41 to 09:31, ; No Mas! Cantina, Atlanta, visit from 13:32 to 14:32, ; Zoo Atlanta, Atlanta, visit from 15:02 to 20:15, ; Max's Coal Oven Pizzeria, Atlanta, visit from 20:45 to 22:00, ; Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 22:30 to 06:30, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Milwaukee",
+    "transportation": "Flight Number: F4015475, from Atlanta to Milwaukee, Departure Time: 17:12, Arrival Time: 18:07",
+    "breakfast": "Murphy's Restaurant, Atlanta",
+    "lunch": "Home Grown, Atlanta",
+    "dinner": "-",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 07:00 to 07:30, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away; Murphy's Restaurant, Atlanta, visit from 08:00 to 08:50, ; Centennial Olympic Park, Atlanta, visit from 09:20 to 12:50, ; Home Grown, Atlanta, visit from 13:20 to 14:20, "
+  }
+]

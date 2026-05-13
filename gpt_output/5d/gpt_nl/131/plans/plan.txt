@@ -1,0 +1,6 @@
+Destination cities: ['Greensboro', 'Wilmington'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Self-driving, from Key West to Greensboro, duration: 1117.3233333333333, distance: 1530.6701, cost: 76', 'Self-driving, from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost: 16', 'Self-driving, from Wilmington to Key West, duration: 1095.253333333333, distance: 1506.7018999999998, cost: 75'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Golden Wok, Greensboro', "Dear Dad's, Greensboro", "Sarah's Kabob Shop, Greensboro", "Carolina's Diner, Greensboro", "Stamey's Barbecue, Greensboro", 'Mythos Grill, Greensboro', "Casey's Buffet Barbecue & Home Cookin, Wilmington", "Winnie's Tavern, Wilmington", "Flaming Amy's Burrito Barn, Wilmington", 'Copper Penny, Wilmington', 'Savorez, Wilmington', 'The Anchor, Wilmington'],
+Attractions (1 per day): ['-', 'Carolina Theatre, Greensboro', 'Ambleside Gallery, Greensboro', 'Battleship North Carolina, Wilmington', 'Burgwin-Wright House and Gardens, Wilmington'],
+Accommodations (1 per city): ['A little Southern Hospitality, Greensboro', 'The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington']

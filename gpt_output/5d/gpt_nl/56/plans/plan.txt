@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Self-driving, from El Paso to San Diego, duration: 760.0183333333333, distance: 1166.8763, cost: 58', 'Self-driving, from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost: 40', 'Self-driving, from Sacramento to El Paso, duration: 1267.745, distance: 1906.2027, cost: 95'],
+Restaurants (3 meals per day): ['-', '-', '-', "Mimmo's, San Diego", 'Buon Appetito, San Diego', 'Vessel Restaurant + Bar, San Diego', 'Morning Glory, San Diego', 'Din Tai Fung, San Diego', 'Pacific Beach AleHouse, San Diego', 'Firestone Public House, Sacramento', 'Kru Contemporary Japanese Cuisine, Sacramento', 'Nopalitos, Sacramento', 'Mikuni Japanese Restaurant & Sushi Bar, Sacramento', "Paragary's, Sacramento", 'Zocalo, Sacramento'],
+Attractions (1 per day): ['-', 'USS Midway Museum, San Diego', 'SeaWorld, San Diego', 'Capitol Park, Sacramento', 'Sacramento History Museum, Sacramento'],
+Accommodations (1 per city): ['Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego', '1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento']

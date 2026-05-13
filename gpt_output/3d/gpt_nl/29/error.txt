@@ -1,0 +1,15 @@
+
+--- JOB 29 FAILED ---
+Error: 'NoneType' object has no attribute 'split'
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 190, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 178, in <module>
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/tools/attractions/apisv3.py", line 273, in add_weighted_category_scores
+    category_weight_map = self.get_persona_category_weights(user_persona)
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/tools/attractions/apisv3.py", line 244, in get_persona_category_weights
+    persona_parts = [part.strip() for part in user_persona.split(';')]
+AttributeError: 'NoneType' object has no attribute 'split'
+
+----------------------------------------

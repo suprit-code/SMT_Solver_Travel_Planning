@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Los Angeles to Durango",
+    "transportation": "Taxi from Los Angeles to Durango, duration: 869.7733333333333, distance: 1250.4541000000002, cost : 1250.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Horse Gulch Loft 2Bd InTown, near Trails & FLC, Durango",
+    "event": "-",
+    "point_of_interest_list": "Horse Gulch Loft 2Bd InTown, near Trails & FLC, stay from 22:34 to 23:04, nearest transit: College Dr. & 8th Ave, 244.78m away; Horse Gulch Loft 2Bd InTown, near Trails & FLC, stay from 23:34 to 07:34, nearest transit: College Dr. & 8th Ave, 244.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Durango",
+    "transportation": "-",
+    "breakfast": "Durango's Mexican, Durango",
+    "lunch": "Durango Doughworks, Durango",
+    "dinner": "Mahogany Grille, Durango",
+    "attraction": "Historic Downtown Durango, Durango",
+    "accommodation": "Horse Gulch Loft 2Bd InTown, near Trails & FLC, Durango",
+    "event": "-",
+    "point_of_interest_list": "Horse Gulch Loft 2Bd InTown, near Trails & FLC, stay from 08:04 to 08:34, nearest transit: College Dr. & 8th Ave, 244.78m away; Durango's Mexican, Durango, visit from 09:04 to 09:59, ; Durango Doughworks, Durango, visit from 14:00 to 15:00, ; Historic Downtown Durango, Durango, visit from 15:30 to 20:15, ; Mahogany Grille, Durango, visit from 20:45 to 22:00, ; Horse Gulch Loft 2Bd InTown, near Trails & FLC, stay from 22:30 to 06:30, nearest transit: College Dr. & 8th Ave, 244.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Durango to Colorado Springs",
+    "transportation": "Taxi from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost : 506.0",
+    "breakfast": "T's Smokehouse and Grill, Durango",
+    "lunch": "Seasons of Durango, Durango",
+    "dinner": "-",
+    "attraction": "Mild to Wild Rafting and Jeep Tours, Durango",
+    "accommodation": "Private guest suite that is all yours!, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Horse Gulch Loft 2Bd InTown, near Trails & FLC, stay from 07:00 to 07:30, nearest transit: College Dr. & 8th Ave, 244.78m away; T's Smokehouse and Grill, Durango, visit from 08:00 to 08:50, ; Mild to Wild Rafting and Jeep Tours, Durango, visit from 09:20 to 12:50, ; Seasons of Durango, Durango, visit from 13:20 to 14:20, ; Private guest suite that is all yours!, stay from 21:54 to 22:24, nearest transit: Corporate/Corporate Center, 2273.34m away; Private guest suite that is all yours!, stay from 22:54 to 06:54, nearest transit: Corporate/Corporate Center, 2273.34m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "The Famous Steak House, Colorado Springs",
+    "lunch": "MacKenzie's Chop House, Colorado Springs",
+    "dinner": "The Melting Pot, Colorado Springs",
+    "attraction": "U.S. Olympic & Paralympic Museum, Colorado Springs",
+    "accommodation": "Private guest suite that is all yours!, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Private guest suite that is all yours!, stay from 07:24 to 07:54, nearest transit: Corporate/Corporate Center, 2273.34m away; The Famous Steak House, Colorado Springs, visit from 09:10 to 10:00, ; U.S. Olympic & Paralympic Museum, Colorado Springs, visit from 10:30 to 14:00, ; MacKenzie's Chop House, Colorado Springs, visit from 14:30 to 15:30, ; The Melting Pot, Colorado Springs, visit from 19:31 to 20:46, ; Private guest suite that is all yours!, stay from 22:30 to 06:30, nearest transit: Corporate/Corporate Center, 2273.34m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Colorado Springs to Los Angeles",
+    "transportation": "Taxi from Colorado Springs to Los Angeles, duration: 1135.4466666666667, distance: 1742.9415, cost : 1742.0",
+    "breakfast": "Prime 25, Colorado Springs",
+    "lunch": "Pizzeria Rustica, Colorado Springs",
+    "dinner": "Paravicini's Italian Bistro, Colorado Springs",
+    "attraction": "United States Air Force Academy, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private guest suite that is all yours!, stay from 07:00 to 07:30, nearest transit: Corporate/Corporate Center, 2273.34m away; Prime 25, Colorado Springs, visit from 08:00 to 08:50, ; Pizzeria Rustica, Colorado Springs, visit from 12:51 to 13:51, ; United States Air Force Academy, Colorado Springs, visit from 14:21 to 17:51, ; Paravicini's Italian Bistro, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

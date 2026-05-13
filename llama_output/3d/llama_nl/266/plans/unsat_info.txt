@@ -1,0 +1,15 @@
+not ok
+Unsatisfiable core:
+valid flight index for flight 0
+visit city in cities list
+travel start date
+travel end date
+eat in which city b
+eat in which city l
+eat in which city d
+valid restaurant index
+non repeating restaurant index
+Indiantype restaurant
+Indiantype restaurant is visited
+attraction in which city
+valid attraction index

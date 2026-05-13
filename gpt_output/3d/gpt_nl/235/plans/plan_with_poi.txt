@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Los Angeles to Reno",
+    "transportation": "Self-driving from Los Angeles to Reno, duration: 577.24, distance: 830.7624000000001, cost : 41.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Sealy Super Comfy Mattress 4.1 Stars, Reno",
+    "event": "-",
+    "point_of_interest_list": "Sealy Super Comfy Mattress 4.1 Stars, stay from 21:52 to 22:22, nearest transit: Kietzke Lane and Vassar Street, 22.16m away; Sealy Super Comfy Mattress 4.1 Stars, stay from 22:52 to 06:52, nearest transit: Kietzke Lane and Vassar Street, 22.16m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Reno",
+    "transportation": "-",
+    "breakfast": "Bertha Miranda's Mexican Restaurant, Reno",
+    "lunch": "Smee's Alaskan Fish Bar, Reno",
+    "dinner": "Pho 777 Vietnamese Restaurant, Reno",
+    "attraction": "Truckee River Walk, Reno",
+    "accommodation": "Sealy Super Comfy Mattress 4.1 Stars, Reno",
+    "event": "-",
+    "point_of_interest_list": "Sealy Super Comfy Mattress 4.1 Stars, stay from 07:22 to 07:52, nearest transit: Kietzke Lane and Vassar Street, 22.16m away; Bertha Miranda's Mexican Restaurant, Reno, visit from 08:22 to 09:12, ; Truckee River Walk, Reno, visit from 09:42 to 13:12, ; Smee's Alaskan Fish Bar, Reno, visit from 13:42 to 14:42, ; Pho 777 Vietnamese Restaurant, Reno, visit from 19:00 to 20:15, ; Sealy Super Comfy Mattress 4.1 Stars, stay from 20:45 to 05:30, nearest transit: Kietzke Lane and Vassar Street, 22.16m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Reno to Los Angeles",
+    "transportation": "Flight Number: F3833091, from Reno to Los Angeles, Departure Time: 07:27, Arrival Time: 09:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sealy Super Comfy Mattress 4.1 Stars, stay from 06:00 to 06:57, nearest transit: Kietzke Lane and Vassar Street, 22.16m away"
+  }
+]

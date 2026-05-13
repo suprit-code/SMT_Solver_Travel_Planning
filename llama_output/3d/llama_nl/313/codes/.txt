@@ -1,0 +1,8 @@
+
+    # Set house rules to be ['No children under 10', 'No parties', 'No pets', 'No smoking']
+    house_rules = ['No children under 10', 'No parties', 'No pets', 'No smoking']
+    
+    # For each house rule, assert it to be False
+    for rule in house_rules:
+        assert not rule.startswith('Yes'), f"House rule '{rule}' should be False"
+    

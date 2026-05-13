@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Greensboro",
+    "transportation": "Taxi from Hartford to Greensboro, duration: 783.4616666666666, distance: 1043.7665, cost : 1043.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mac's Speed Shop, Greensboro",
+    "attraction": "-",
+    "accommodation": "Will's Place - Close to Downtown!, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Will's Place - Close to Downtown!, stay from 19:45 to 20:15, nearest transit: Battleground/Mill St, 534.7m away; Mac's Speed Shop, Greensboro, visit from 20:45 to 22:18, ; Will's Place - Close to Downtown!, stay from 22:48 to 06:48, nearest transit: Battleground/Mill St, 534.7m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "MJ's Steak and Seafood, Greensboro",
+    "lunch": "Mimi's Cafe, Greensboro",
+    "dinner": "Mythos Grill, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Will's Place - Close to Downtown!, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Will's Place - Close to Downtown!, stay from 07:18 to 07:48, nearest transit: Battleground/Mill St, 534.7m away; MJ's Steak and Seafood, Greensboro, visit from 08:18 to 09:59, ; Mimi's Cafe, Greensboro, visit from 14:00 to 15:00, ; International Civil Rights Center & Museum, Greensboro, visit from 15:30 to 19:00, ; Mythos Grill, Greensboro, visit from 20:45 to 22:00, ; Will's Place - Close to Downtown!, stay from 22:30 to 06:30, nearest transit: Battleground/Mill St, 534.7m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Dear Dad's, Greensboro",
+    "lunch": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "dinner": "-",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Downtown | Balcony | River views | Free parking, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Will's Place - Close to Downtown!, stay from 07:00 to 07:30, nearest transit: Battleground/Mill St, 534.7m away; Dear Dad's, Greensboro, visit from 08:00 to 08:50, ; Ambleside Gallery, Greensboro, visit from 09:20 to 12:50, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 13:20 to 14:20, ; Downtown | Balcony | River views | Free parking, stay from 19:18 to 19:48, nearest transit: Front St SB at Market St, 127.7m away; Downtown | Balcony | River views | Free parking, stay from 20:18 to 04:18, nearest transit: Front St SB at Market St, 127.7m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Flaming Amy's Burrito Barn, Wilmington",
+    "lunch": "Winnie's Tavern, Wilmington",
+    "dinner": "The George on the Riverwalk, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Downtown | Balcony | River views | Free parking, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Downtown | Balcony | River views | Free parking, stay from 06:00 to 06:30, nearest transit: Front St SB at Market St, 127.7m away; Flaming Amy's Burrito Barn, Wilmington, visit from 08:01 to 08:51, ; Winnie's Tavern, Wilmington, visit from 13:30 to 14:30, ; Burgwin-Wright House and Gardens, Wilmington, visit from 15:00 to 18:30, ; The George on the Riverwalk, Wilmington, visit from 19:00 to 20:15, ; Downtown | Balcony | River views | Free parking, stay from 20:45 to 04:23, nearest transit: Front St SB at Market St, 127.7m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F4051027, from Wilmington to Charlotte, Departure Time: 04:53, Arrival Time: 05:48",
+    "breakfast": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "Midwood Smokehouse, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "Modern Walkable Uptown Flat- 7 blocks to Panthers, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 06:18 to 06:48, nearest transit: Graham St & 10th St, 28.34m away; Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 07:18 to 07:48, nearest transit: Graham St & 10th St, 28.34m away; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 08:18 to 09:08, ; Charlotte's Eats and Sweets, Charlotte, visit from 13:09 to 14:09, ; Levine Museum of the New South, Charlotte, visit from 14:39 to 18:30, ; Midwood Smokehouse, Charlotte, visit from 19:00 to 20:15, ; Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 20:45 to 04:45, nearest transit: Graham St & 10th St, 28.34m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Gaucho Charlotte Street, Charlotte",
+    "lunch": "Princess Charlotte, Charlotte",
+    "dinner": "The Capital Grille, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "Modern Walkable Uptown Flat- 7 blocks to Panthers, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 06:00 to 06:30, nearest transit: Graham St & 10th St, 28.34m away; Gaucho Charlotte Street, Charlotte, visit from 08:00 to 08:50, ; Princess Charlotte, Charlotte, visit from 12:51 to 13:51, ; Discovery Place Science, Charlotte, visit from 14:21 to 17:51, ; The Capital Grille, Charlotte, visit from 19:00 to 22:00, ; Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 22:30 to 06:30, nearest transit: Graham St & 10th St, 28.34m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Hartford",
+    "transportation": "Taxi from Charlotte to Hartford, duration: 880.2583333333333, distance: 1178.0703, cost : 1178.0",
+    "breakfast": "Pinky's Westside Grill, Charlotte",
+    "lunch": "Charlotte's Legendary Lobster Pound, Charlotte",
+    "dinner": "Mert's Heart and Soul, Charlotte",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 07:00 to 07:30, nearest transit: Graham St & 10th St, 28.34m away; Pinky's Westside Grill, Charlotte, visit from 08:00 to 08:50, ; Charlotte's Legendary Lobster Pound, Charlotte, visit from 12:51 to 13:51, ; Mint Museum Uptown, Charlotte, visit from 14:21 to 17:51, ; Mert's Heart and Soul, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

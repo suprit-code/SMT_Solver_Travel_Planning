@@ -1,0 +1,6 @@
+Destination cities: ['New York', 'Rochester'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F3934972, from Nashville to New York, Departure Time: 05:55, Arrival Time: 09:05', 'Flight Number: F3219135, from New York to Rochester, Departure Time: 17:33, Arrival Time: 19:05', 'taxi, from Rochester to Nashville, duration: 878.5083333333333, distance: 1244.6226, cost: 1244'],
+Restaurants (3 meals per day): ['Rainbow Room, New York', 'FIG & OLIVE, New York', 'Piccola Cucina Osteria, New York', 'Manhatta, New York', 'Westway Diner, New York', "Del Frisco's Double Eagle Steakhouse, New York", "Rao's Restaurant, New York", 'Azalea Ristorante, New York', 'Peak Restaurant & Bar, New York', 'Ichi Tokyo, Rochester', "Rooney's Restaurant, Rochester", 'The Eagle Tavern, Rochester', 'The Cheese Room Botanicals, Rochester', "Lipuma's Coney Island, Rochester", "Tiny Tim's Tea Rooms, Rochester"],
+Attractions (1 per day): ['The National 9/11 Memorial & Museum, New York', 'American Museum of Natural History, New York', 'New York Public Library, New York', 'Guildhall Museum, Rochester', 'The Strong National Museum of Play, Rochester'],
+Accommodations (1 per city): ['Dazzling Oasis | Times Square.  Restaurant, New York', 'Private ,furnished ,modern Roch suburb apt !, Rochester']

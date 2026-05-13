@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to San Diego",
+    "transportation": "Flight Number: F1988724, from Boston to San Diego, Departure Time: 08:31, Arrival Time: 11:43",
+    "breakfast": "-",
+    "lunch": "La Puerta, San Diego",
+    "dinner": "Ironside Fish & Oyster, San Diego",
+    "attraction": "Old Town San Diego, San Diego",
+    "accommodation": "Blue Beach House 🏖 5 blocks to Beach /Restaurants, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Blue Beach House 🏖 5 blocks to Beach /Restaurants, stay from 12:13 to 12:43, nearest transit: Mission Bl & Sapphire St, 920.18m away; La Puerta, San Diego, visit from 14:00 to 15:00, ; Old Town San Diego, San Diego, visit from 15:30 to 20:15, ; Ironside Fish & Oyster, San Diego, visit from 20:45 to 22:19, ; Blue Beach House 🏖 5 blocks to Beach /Restaurants, stay from 22:49 to 06:49, nearest transit: Mission Bl & Sapphire St, 920.18m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "Din Tai Fung, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "-",
+    "accommodation": "Blue Beach House 🏖 5 blocks to Beach /Restaurants, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Blue Beach House 🏖 5 blocks to Beach /Restaurants, stay from 07:19 to 07:49, nearest transit: Mission Bl & Sapphire St, 920.18m away; Ruth's Chris Steak House, San Diego, visit from 08:19 to 09:29, ; Din Tai Fung, San Diego, visit from 13:30 to 14:30, ; Pacific Beach AleHouse, San Diego, visit from 19:00 to 20:15, ; Blue Beach House 🏖 5 blocks to Beach /Restaurants, stay from 23:40 to 07:40, nearest transit: Mission Bl & Sapphire St, 920.18m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F1567536, from San Diego to Sacramento, Departure Time: 16:02, Arrival Time: 17:31",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Las Hadas Grill, San Diego",
+    "dinner": "-",
+    "attraction": "Seaport Village, San Diego",
+    "accommodation": "Sac City Loft, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Blue Beach House 🏖 5 blocks to Beach /Restaurants, stay from 08:10 to 08:40, nearest transit: Mission Bl & Sapphire St, 920.18m away; Juniper and Ivy, San Diego, visit from 09:10 to 10:00, ; Seaport Village, San Diego, visit from 10:30 to 14:00, ; Las Hadas Grill, San Diego, visit from 14:30 to 15:30, ; Sac City Loft, stay from 18:01 to 18:31, nearest transit: 21ST ST & P ST (NB), 176.77m away; Sac City Loft, stay from 19:01 to 06:46, nearest transit: 21ST ST & P ST (NB), 176.77m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Orphan, Sacramento",
+    "lunch": "The Porch Restaurant and Bar, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Sac City Loft, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Sac City Loft, stay from 07:16 to 07:46, nearest transit: 21ST ST & P ST (NB), 176.77m away; Orphan, Sacramento, visit from 08:16 to 09:06, ; The Porch Restaurant and Bar, Sacramento, visit from 13:30 to 14:30, ; Capitol Park, Sacramento, visit from 15:00 to 18:30, ; Nopalitos, Sacramento, visit from 19:00 to 20:15, ; Sac City Loft, stay from 20:45 to 04:28, nearest transit: 21ST ST & P ST (NB), 176.77m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Flight Number: F2374755, from Sacramento to Los Angeles, Departure Time: 05:58, Arrival Time: 07:18",
+    "breakfast": "Pizzeria Mozza, Los Angeles",
+    "lunch": "Spire 73, Los Angeles",
+    "dinner": "Bubba Gump Shrimp Co., Los Angeles",
+    "attraction": "Venice Canals Walkway, Los Angeles",
+    "accommodation": "Topanga Pool House, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Sac City Loft, stay from 04:58 to 05:28, nearest transit: 21ST ST & P ST (NB), 176.77m away; Topanga Pool House, stay from 07:48 to 08:18, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away; Pizzeria Mozza, Los Angeles, visit from 08:48 to 09:38, ; Venice Canals Walkway, Los Angeles, visit from 10:08 to 13:38, ; Spire 73, Los Angeles, visit from 14:08 to 15:08, ; Bubba Gump Shrimp Co., Los Angeles, visit from 19:09 to 20:24, ; Topanga Pool House, stay from 20:54 to 05:30, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Maccheroni Republic, Los Angeles",
+    "lunch": "Ayara Thai Cuisine, Los Angeles",
+    "dinner": "Leo & Lily, Los Angeles",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "Topanga Pool House, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Topanga Pool House, stay from 06:00 to 06:30, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away; Maccheroni Republic, Los Angeles, visit from 08:56 to 09:46, ; Ayara Thai Cuisine, Los Angeles, visit from 13:47 to 14:47, ; Walt Disney Concert Hall, Los Angeles, visit from 15:17 to 20:15, ; Leo & Lily, Los Angeles, visit from 20:45 to 22:00, ; Topanga Pool House, stay from 22:30 to 06:30, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Boston",
+    "transportation": "Flight Number: F3660009, from Los Angeles to Boston, Departure Time: 14:51, Arrival Time: 22:55",
+    "breakfast": "The Palm - L.A. Downtown, Los Angeles",
+    "lunch": "Raffaello Ristorante, Los Angeles",
+    "dinner": "-",
+    "attraction": "Hollywood Sign, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Topanga Pool House, stay from 07:00 to 07:30, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away; The Palm - L.A. Downtown, Los Angeles, visit from 08:00 to 08:50, ; Hollywood Sign, Los Angeles, visit from 09:20 to 12:50, ; Raffaello Ristorante, Los Angeles, visit from 13:20 to 14:21, "
+  }
+]

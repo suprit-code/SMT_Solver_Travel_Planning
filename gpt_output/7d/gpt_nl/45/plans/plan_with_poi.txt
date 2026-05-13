@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to San Diego",
+    "transportation": "Flight Number: F2895037, from Boston to San Diego, Departure Time: 09:37, Arrival Time: 12:34",
+    "breakfast": "-",
+    "lunch": "Lou & Mickey's, San Diego",
+    "dinner": "Buon Appetito, San Diego",
+    "attraction": "-",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 13:04 to 13:34, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Lou & Mickey's, San Diego, visit from 14:30 to 16:44, ; Buon Appetito, San Diego, visit from 20:45 to 23:10, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 23:40 to 07:40, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "The Butcher Shop, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "Old Town San Diego, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 08:10 to 08:40, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; The Butcher Shop, San Diego, visit from 09:10 to 10:00, ; Old Town San Diego, San Diego, visit from 10:30 to 14:00, ; Pacific Beach AleHouse, San Diego, visit from 14:30 to 16:44, ; Mimmo's, San Diego, visit from 20:45 to 22:00, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 22:30 to 06:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Morning Glory, San Diego",
+    "lunch": "-",
+    "dinner": "The Waterboy, Sacramento",
+    "attraction": "-",
+    "accommodation": "Modern Boho Efficiency Studio in Midtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 07:00 to 07:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Morning Glory, San Diego, visit from 08:00 to 08:50, ; Modern Boho Efficiency Studio in Midtown, stay from 19:11 to 19:41, nearest transit: F ST & 27TH ST (WB), 162.19m away; The Waterboy, Sacramento, visit from 20:11 to 21:26, ; Modern Boho Efficiency Studio in Midtown, stay from 21:56 to 05:56, nearest transit: F ST & 27TH ST (WB), 162.19m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Il Fornaio, Sacramento",
+    "lunch": "Ella Dining Room & Bar, Sacramento",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Modern Boho Efficiency Studio in Midtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern Boho Efficiency Studio in Midtown, stay from 06:26 to 06:56, nearest transit: F ST & 27TH ST (WB), 162.19m away; Il Fornaio, Sacramento, visit from 09:10 to 10:00, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; Ella Dining Room & Bar, Sacramento, visit from 14:30 to 15:30, ; Paesano's Pizzeria, Sacramento, visit from 20:45 to 22:00, ; Modern Boho Efficiency Studio in Midtown, stay from 22:30 to 06:30, nearest transit: F ST & 27TH ST (WB), 162.19m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Taxi from Sacramento to Los Angeles, duration: 423.9133333333333, distance: 617.7728000000001, cost : 617.0",
+    "breakfast": "Grange Restaurant & Bar, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "-",
+    "attraction": "Old Sacramento, Sacramento",
+    "accommodation": "Topanga Pool House, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Modern Boho Efficiency Studio in Midtown, stay from 07:00 to 07:30, nearest transit: F ST & 27TH ST (WB), 162.19m away; Grange Restaurant & Bar, Sacramento, visit from 08:00 to 08:50, ; Old Sacramento, Sacramento, visit from 09:20 to 12:50, ; Nopalitos, Sacramento, visit from 13:20 to 14:20, ; Topanga Pool House, stay from 22:23 to 22:53, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away; Topanga Pool House, stay from 23:23 to 07:29, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Ayara Thai Cuisine, Los Angeles",
+    "lunch": "Bavel, Los Angeles",
+    "dinner": "Bestia, Los Angeles",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "Topanga Pool House, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Topanga Pool House, stay from 07:59 to 08:29, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away; Ayara Thai Cuisine, Los Angeles, visit from 08:59 to 09:49, ; Walt Disney Concert Hall, Los Angeles, visit from 10:30 to 14:00, ; Bavel, Los Angeles, visit from 14:30 to 15:30, ; Bestia, Los Angeles, visit from 19:31 to 20:46, ; Topanga Pool House, stay from 21:16 to 05:16, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Boston",
+    "transportation": "Flight Number: F3776737, from Los Angeles to Boston, Departure Time: 12:27, Arrival Time: 20:30",
+    "breakfast": "Raffaello Ristorante, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Topanga Pool House, stay from 06:00 to 06:30, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away; Raffaello Ristorante, Los Angeles, visit from 08:00 to 11:57, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Asheville to New York",
+    "transportation": "Self-driving from Asheville to New York, duration: 790.7416666666667, distance: 1110.8215, cost : 55.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Sarge’s Delicatessen & Diner, New York",
+    "attraction": "-",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 19:45 to 20:15, nearest transit: 9 AV/W 30 ST, 139.35m away; Sarge’s Delicatessen & Diner, New York, visit from 20:45 to 22:51, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 23:21 to 07:21, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Carmine's, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 07:51 to 08:21, nearest transit: 9 AV/W 30 ST, 139.35m away; Carmine's, New York, visit from 08:51 to 09:41, ; Westway Diner, New York, visit from 13:42 to 14:42, ; The High Line, New York, visit from 15:12 to 18:42, ; FIG & OLIVE, New York, visit from 19:12 to 20:27, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 20:57 to 04:57, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Asheville",
+    "transportation": "Self-driving from New York to Asheville, duration: 791.7216666666667, distance: 1103.1263, cost : 55.0",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "-",
+    "dinner": "Sylvia's Restaurant, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 06:00 to 06:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Times Square Diner, New York, visit from 08:00 to 08:50, ; Central Park, New York, visit from 09:20 to 18:30, ; Sylvia's Restaurant, New York, visit from 19:00 to 20:15, "
+  }
+]

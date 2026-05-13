@@ -1,0 +1,6 @@
+Destination cities: ['Detroit'],
+Transportation dates: ['2024-11-18', '2024-11-20'],
+Transportation methods between cities: ['taxi, from Indianapolis to Detroit, duration: 328.4183333333333, distance: 448.0768, cost: 448', 'Flight Number: F3399752, from Detroit to Indianapolis, Departure Time: 08:30, Arrival Time: 09:49'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Ottava Via, Detroit', 'Taqueria Mi Pueblo, Detroit', "Honest John's Bar & Grill - Selden St., Detroit", 'Green Dot Stables, Detroit', '-', '-'],
+Attractions (1 per day): ['-', 'Comerica Park, Detroit', '-'],
+Accommodations (1 per city): ['Upper unit with parking & private deck, Detroit']

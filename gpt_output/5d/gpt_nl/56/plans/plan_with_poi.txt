@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to San Diego",
+    "transportation": "Self-driving from El Paso to San Diego, duration: 760.0183333333333, distance: 1166.8763, cost : 58.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "-",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 19:10 to 19:40, nearest transit: Imperial Av & 54th St, 396.9m away; Mimmo's, San Diego, visit from 20:10 to 21:25, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 21:55 to 05:55, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Buon Appetito, San Diego",
+    "lunch": "Vessel Restaurant + Bar, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 06:25 to 06:55, nearest transit: Imperial Av & 54th St, 396.9m away; Buon Appetito, San Diego, visit from 08:00 to 09:59, ; Vessel Restaurant + Bar, San Diego, visit from 14:00 to 15:00, ; USS Midway Museum, San Diego, visit from 15:30 to 19:00, ; Morning Glory, San Diego, visit from 19:30 to 20:45, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 21:15 to 05:30, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Self-driving from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 40.0",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 06:00 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away; Din Tai Fung, San Diego, visit from 08:00 to 09:24, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 19:45 to 20:15, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 20:45 to 04:45, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Firestone Public House, Sacramento",
+    "lunch": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Firestone Public House, Sacramento, visit from 09:06 to 09:56, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 13:57 to 14:57, ; Capitol Park, Sacramento, visit from 15:30 to 19:00, ; Nopalitos, Sacramento, visit from 19:30 to 20:45, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 21:15 to 05:15, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to El Paso",
+    "transportation": "Self-driving from Sacramento to El Paso, duration: 1267.745, distance: 1906.2027, cost : 95.0",
+    "breakfast": "Mikuni Japanese Restaurant & Sushi Bar, Sacramento",
+    "lunch": "Paragary's, Sacramento",
+    "dinner": "Zocalo, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Mikuni Japanese Restaurant & Sushi Bar, Sacramento, visit from 09:10 to 10:00, ; Sacramento History Museum, Sacramento, visit from 10:30 to 14:00, ; Paragary's, Sacramento, visit from 14:30 to 15:30, ; Zocalo, Sacramento, visit from 19:31 to 20:46, "
+  }
+]

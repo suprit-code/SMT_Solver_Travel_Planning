@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Amarillo",
+    "transportation": "Flight Number: F2626059, from Las Vegas to Amarillo, Departure Time: 13:58, Arrival Time: 17:44",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Joe Taco, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 18:14 to 19:15, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Joe Taco, Amarillo, visit from 19:45 to 21:00, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:30 to 05:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Manantial, Amarillo",
+    "lunch": "Ohms Cafe & Catering, Amarillo",
+    "dinner": "Metropolitan, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 06:00 to 06:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Manantial, Amarillo, visit from 08:32 to 09:22, ; Route 66 Historic District, Amarillo, visit from 09:52 to 13:22, ; Ohms Cafe & Catering, Amarillo, visit from 13:52 to 14:52, ; Metropolitan, Amarillo, visit from 20:45 to 22:00, ; Relaxing Place to Stay with Guest Living Room!, stay from 22:30 to 06:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F3933152, from Amarillo to Houston, Departure Time: 12:55, Arrival Time: 14:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Eddie V's Prime Seafood, Houston",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 07:00 to 07:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; #4 Northwest Victory Single BR, stay from 14:59 to 15:29, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Eddie V's Prime Seafood, Houston, visit from 19:00 to 20:15, ; #4 Northwest Victory Single BR, stay from 20:45 to 04:45, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "Uchi Houston, Houston",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "The Menil Collection, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Brennan's of Houston, Houston, visit from 08:48 to 10:00, ; The Menil Collection, Houston, visit from 10:30 to 14:00, ; Uchi Houston, Houston, visit from 14:30 to 16:44, ; Pappadeaux Seafood Kitchen, Houston, visit from 20:45 to 23:10, ; #4 Northwest Victory Single BR, stay from 23:40 to 07:40, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F3120004, from Houston to San Antonio, Departure Time: 19:40, Arrival Time: 20:26",
+    "breakfast": "Merrill & Houston's Steak Joint, Houston",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "dinner": "-",
+    "attraction": "Space Center Houston, Houston",
+    "accommodation": "Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 08:10 to 08:40, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Merrill & Houston's Steak Joint, Houston, visit from 09:10 to 10:00, ; Space Center Houston, Houston, visit from 10:30 to 14:00, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 14:30 to 15:30, ; Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, stay from 20:56 to 21:26, nearest transit: BROADWAY & PERSHING, 95.3m away; Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, stay from 21:56 to 05:56, nearest transit: BROADWAY & PERSHING, 95.3m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Dough Pizzeria Napoletana, San Antonio",
+    "lunch": "Biga on the Banks, San Antonio",
+    "dinner": "Schilo's, San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, stay from 06:26 to 06:56, nearest transit: BROADWAY & PERSHING, 95.3m away; Dough Pizzeria Napoletana, San Antonio, visit from 08:03 to 08:53, ; The Alamo, San Antonio, visit from 09:23 to 12:53, ; Biga on the Banks, San Antonio, visit from 14:30 to 15:30, ; Schilo's, San Antonio, visit from 19:31 to 20:46, ; Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, stay from 23:39 to 07:39, nearest transit: BROADWAY & PERSHING, 95.3m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Las Vegas",
+    "transportation": "Taxi from San Antonio to Las Vegas, duration: 1336.2283333333332, distance: 2051.5727, cost : 2051.0",
+    "breakfast": "Brenner's on the River Walk, San Antonio",
+    "lunch": "Boudro's Texas Bistro, San Antonio",
+    "dinner": "The Guenther House, San Antonio",
+    "attraction": "Tower Of The Americas, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, stay from 08:09 to 08:39, nearest transit: BROADWAY & PERSHING, 95.3m away; Brenner's on the River Walk, San Antonio, visit from 09:09 to 09:59, ; Boudro's Texas Bistro, San Antonio, visit from 14:00 to 15:00, ; Tower Of The Americas, San Antonio, visit from 15:30 to 19:00, ; The Guenther House, San Antonio, visit from 19:30 to 20:45, "
+  }
+]

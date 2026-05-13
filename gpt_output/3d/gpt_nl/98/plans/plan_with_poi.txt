@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Lexington",
+    "transportation": "Flight Number: F2320713, from Detroit to Lexington, Departure Time: 16:45, Arrival Time: 17:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 18:26 to 18:56, nearest transit: Chandler Hospital, 202.96m away; A single room for your stay, stay from 22:36 to 06:36, nearest transit: Chandler Hospital, 202.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Lexington",
+    "transportation": "-",
+    "breakfast": "Sutton's Family Italian Restaurant, Lexington",
+    "lunch": "Keeneland Track Kitchen, Lexington",
+    "dinner": "Red State BBQ, Lexington",
+    "attraction": "James E. Pepper Distillery, Lexington",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 07:06 to 07:36, nearest transit: Chandler Hospital, 202.96m away; Sutton's Family Italian Restaurant, Lexington, visit from 08:06 to 09:37, ; James E. Pepper Distillery, Lexington, visit from 10:07 to 13:37, ; Keeneland Track Kitchen, Lexington, visit from 14:07 to 15:07, ; Red State BBQ, Lexington, visit from 19:08 to 20:23, ; A single room for your stay, stay from 20:53 to 04:53, nearest transit: Chandler Hospital, 202.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Lexington to Detroit",
+    "transportation": "Flight Number: F3640695, from Lexington to Detroit, Departure Time: 06:23, Arrival Time: 07:54",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 05:23 to 05:53, nearest transit: Chandler Hospital, 202.96m away"
+  }
+]

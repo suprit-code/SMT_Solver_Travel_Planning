@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Las Vegas",
+    "transportation": "Flight Number: F3721420, from Washington to Las Vegas, Departure Time: 10:19, Arrival Time: 12:14",
+    "breakfast": "-",
+    "lunch": "Mercato Della Pescheria Las Vegas, Las Vegas",
+    "dinner": "Vic & Anthony's Steakhouse, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 12:44 to 13:14, nearest transit: Fremont East Entertainment District, 1810.6m away; Mercato Della Pescheria Las Vegas, Las Vegas, visit from 14:00 to 15:00, ; Bellagio Conservatory & Botanical Garden, Las Vegas, visit from 15:30 to 19:00, ; Vic & Anthony's Steakhouse, Las Vegas, visit from 19:30 to 20:45, ; Room in Down Town Las Vegas., stay from 22:54 to 06:54, nearest transit: Fremont East Entertainment District, 1810.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "lunch": "Eiffel Tower Restaurant, Las Vegas",
+    "dinner": "Cafe Berlin, Las Vegas",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 07:24 to 07:54, nearest transit: Fremont East Entertainment District, 1810.6m away; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 08:24 to 09:14, ; Red Rock Canyon National Conservation Area, Las Vegas, visit from 10:30 to 14:00, ; Eiffel Tower Restaurant, Las Vegas, visit from 14:30 to 15:30, ; Cafe Berlin, Las Vegas, visit from 19:31 to 20:46, ; Room in Down Town Las Vegas., stay from 21:16 to 05:30, nearest transit: Fremont East Entertainment District, 1810.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Washington",
+    "transportation": "Flight Number: F3913378, from Las Vegas to Washington, Departure Time: 13:41, Arrival Time: 20:54",
+    "breakfast": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 06:00 to 06:30, nearest transit: Fremont East Entertainment District, 1810.6m away; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 08:00 to 09:11, ; Hoover Dam Bypass, Las Vegas, visit from 09:41 to 13:11, "
+  }
+]

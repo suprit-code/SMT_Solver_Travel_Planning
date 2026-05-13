@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to San Diego",
+    "transportation": "Self-driving from Las Vegas to San Diego, duration: 367.3033333333333, distance: 532.4798000000001, cost : 26.0",
+    "breakfast": "-",
+    "lunch": "Alforon, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 13:00 to 13:30, nearest transit: Imperial Av & 54th St, 396.9m away; Alforon, San Diego, visit from 14:00 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 20:15, ; Morning Glory, San Diego, visit from 20:45 to 23:10, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 23:40 to 07:40, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 08:10 to 08:40, nearest transit: Imperial Av & 54th St, 396.9m away; Pacific Beach AleHouse, San Diego, visit from 09:10 to 10:00, ; USS Midway Museum, San Diego, visit from 10:30 to 14:00, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 14:30 to 16:44, ; Din Tai Fung, San Diego, visit from 20:45 to 22:00, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 22:30 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Self-driving from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 53.0",
+    "breakfast": "Covewood Restaurant, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Forest Room, Redding",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 07:00 to 07:30, nearest transit: Imperial Av & 54th St, 396.9m away; Covewood Restaurant, San Diego, visit from 08:00 to 08:50, ; The Forest Room, stay from 22:04 to 22:34, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; The Forest Room, stay from 23:40 to 07:40, nearest transit: Hartnell Ave at Churn Ct, 100.85m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Thai Hut, Redding",
+    "lunch": "New China, Redding",
+    "dinner": "Los Gordos, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "The Forest Room, Redding",
+    "event": "-",
+    "point_of_interest_list": "The Forest Room, stay from 08:10 to 08:40, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; Thai Hut, Redding, visit from 09:10 to 10:00, ; Sundial Bridge, Redding, visit from 10:30 to 14:00, ; New China, Redding, visit from 14:30 to 16:44, ; Los Gordos, Redding, visit from 20:45 to 23:10, ; The Forest Room, stay from 23:40 to 07:40, nearest transit: Hartnell Ave at Churn Ct, 100.85m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Las Vegas",
+    "transportation": "Self-driving from Redding to Las Vegas, duration: 756.2466666666667, distance: 1007.9322, cost : 50.0",
+    "breakfast": "Trendy's, Redding",
+    "lunch": "Dam Burger, Redding",
+    "dinner": "Champa Garden, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Forest Room, stay from 08:10 to 08:40, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; Trendy's, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; Dam Burger, Redding, visit from 14:30 to 15:30, ; Champa Garden, Redding, visit from 19:31 to 20:46, "
+  }
+]

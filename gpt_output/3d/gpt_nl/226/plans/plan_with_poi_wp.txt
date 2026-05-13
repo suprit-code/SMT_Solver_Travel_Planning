@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Birmingham to Detroit",
+    "transportation": "Flight Number: F0508126, from Birmingham to Detroit, Departure Time: 07:03, Arrival Time: 10:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "London Chop House, Detroit",
+    "attraction": "Comerica Park, Detroit",
+    "accommodation": "Aveline's Abode - N. Corktown, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Aveline's Abode - N. Corktown, stay from 10:45 to 13:29, nearest transit: Mack Ave - Southbound, 1678.02m away; Comerica Park, Detroit, visit from 15:00 to 18:30, ; London Chop House, Detroit, visit from 19:00 to 20:15, ; Aveline's Abode - N. Corktown, stay from 23:40 to 07:40, nearest transit: Mack Ave - Southbound, 1678.02m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Detroit",
+    "transportation": "-",
+    "breakfast": "Ottava Via, Detroit",
+    "lunch": "Taqueria Mi Pueblo, Detroit",
+    "dinner": "Green Dot Stables, Detroit",
+    "attraction": "Detroit Institute of Arts, Detroit",
+    "accommodation": "Aveline's Abode - N. Corktown, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Aveline's Abode - N. Corktown, stay from 08:10 to 08:40, nearest transit: Mack Ave - Southbound, 1678.02m away; Ottava Via, Detroit, visit from 09:10 to 10:00, ; Detroit Institute of Arts, Detroit, visit from 10:30 to 14:00, ; Taqueria Mi Pueblo, Detroit, visit from 14:30 to 15:30, ; Green Dot Stables, Detroit, visit from 19:31 to 20:46, ; Aveline's Abode - N. Corktown, stay from 23:27 to 07:27, nearest transit: Mack Ave - Southbound, 1678.02m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Detroit to Birmingham",
+    "transportation": "Flight Number: F1123078, from Detroit to Birmingham, Departure Time: 10:17, Arrival Time: 11:09",
+    "breakfast": "Honest John's Bar & Grill - Selden St., Detroit",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Aveline's Abode - N. Corktown, stay from 07:57 to 08:27, nearest transit: Mack Ave - Southbound, 1678.02m away; Honest John's Bar & Grill - Selden St., Detroit, visit from 08:57 to 09:47, "
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F0312221, from Atlanta to San Diego, Departure Time: 08:18, Arrival Time: 10:01",
+    "breakfast": "-",
+    "lunch": "Barbusa, San Diego",
+    "dinner": "-",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 10:31 to 11:01, nearest transit: Imperial Av & 54th St, 396.9m away; Barbusa, San Diego, visit from 12:00 to 13:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 21:00, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 21:30 to 05:30, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 06:00 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away; Din Tai Fung, San Diego, visit from 08:37 to 09:27, ; SeaWorld, San Diego, visit from 09:57 to 14:00, ; Mimmo's, San Diego, visit from 14:30 to 15:30, ; Pacific Beach AleHouse, San Diego, visit from 20:45 to 22:00, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 23:40 to 07:40, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F2370229, from San Diego to Sacramento, Departure Time: 18:18, Arrival Time: 20:06",
+    "breakfast": "Buon Appetito, San Diego",
+    "lunch": "The Fishery, San Diego",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 08:10 to 08:40, nearest transit: Imperial Av & 54th St, 396.9m away; Buon Appetito, San Diego, visit from 09:10 to 10:00, ; San Diego Zoo, San Diego, visit from 10:30 to 14:00, ; The Fishery, San Diego, visit from 14:30 to 17:48, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 20:36 to 21:06, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 21:36 to 05:36, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Tower Cafe, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 06:06 to 06:36, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Tower Cafe, Sacramento, visit from 09:10 to 10:00, ; California State Capitol Museum, Sacramento, visit from 10:30 to 14:00, ; Nopalitos, Sacramento, visit from 14:30 to 15:30, ; Paesano's Pizzeria, Sacramento, visit from 20:45 to 22:00, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 22:51 to 06:51, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Flight Number: F3382189, from Sacramento to Los Angeles, Departure Time: 18:42, Arrival Time: 20:18",
+    "breakfast": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "lunch": "Frank Fat's Restaurant, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Cozy Private Room In LA., Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 07:21 to 07:51, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Kru Contemporary Japanese Cuisine, Sacramento, visit from 08:21 to 09:11, ; Frank Fat's Restaurant, Sacramento, visit from 13:12 to 14:12, ; Capitol Park, Sacramento, visit from 14:42 to 18:12, ; Cozy Private Room In LA., stay from 20:48 to 21:18, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Cozy Private Room In LA., stay from 21:48 to 05:48, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Republique, Los Angeles",
+    "lunch": "Leo & Lily, Los Angeles",
+    "dinner": "The Boiling Crab, Los Angeles",
+    "attraction": "-",
+    "accommodation": "Cozy Private Room In LA., Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 06:18 to 06:48, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Republique, Los Angeles, visit from 09:39 to 10:29, ; Leo & Lily, Los Angeles, visit from 14:30 to 15:30, ; The Boiling Crab, Los Angeles, visit from 20:00 to 21:15, ; Cozy Private Room In LA., stay from 21:45 to 05:45, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Atlanta",
+    "transportation": "Flight Number: F2017521, from Los Angeles to Atlanta, Departure Time: 17:56, Arrival Time: 00:53",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 08:30 to 09:00, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Griffith Park, Los Angeles, visit from 09:30 to 16:09, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-07', '2024-11-09'],
+Transportation methods between cities: ['Flight Number: F3860013, from El Paso to Seattle, Departure Time: 21:06, Arrival Time: 00:06', 'Flight Number: F3078361, from Seattle to El Paso, Departure Time: 14:11, Arrival Time: 18:26'],
+Restaurants (3 meals per day): ['Noi Thai Cuisine, Seattle', 'The Capital Grille, Seattle', 'Vons 1000 Spirits, Seattle', 'Metropolitan Grill, Seattle', "The Butcher's Table, Seattle", 'Canlis Restaurant, Seattle', 'Il Terrazzo Carmine, Seattle', 'Dough Zone Dumpling House - Seattle International District, Seattle', "Salty's On Alki Beach, Seattle"],
+Attractions (1 per day): ['Hiram M. Chittenden Locks, Seattle', 'Seattle Center, Seattle', 'Klondike Gold Rush National Historical Park, Seattle'],
+Accommodations (1 per city): ['At Mine - Studio Apartment In Seattle., Seattle']

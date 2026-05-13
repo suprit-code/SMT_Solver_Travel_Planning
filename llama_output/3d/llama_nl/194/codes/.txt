@@ -1,0 +1,32 @@
+
+    # Set house rules to be ['No children under 10', 'No parties', 'No pets', 'No smoking', 'No visitors']
+    house_rules = ['No children under 10', 'No parties', 'No pets', 'No smoking', 'No visitors']
+    
+    # Define a function to check if a house rule is satisfied for an accommodation
+    def check_house_rule(accommodation, rule):
+        # For this example, we'll assume we have a dictionary of accommodations with their properties
+        accommodation_properties = {
+            'accommodation1': {'children_allowed': True, 'parties_allowed': False, 'pets_allowed': False,'smoking_allowed': False, 'visitors_allowed': True},
+            'accommodation2': {'children_allowed': False, 'parties_allowed': False, 'pets_allowed': False,'smoking_allowed': False, 'visitors_allowed': True},
+            # Add more accommodations as needed
+        }
+    
+        # Check if the rule is satisfied for the accommodation
+        if rule == 'No children under 10':
+            return accommodation_properties[accommodation]['children_allowed']
+        elif rule == 'No parties':
+            return accommodation_properties[accommodation]['parties_allowed']
+        elif rule == 'No pets':
+            return accommodation_properties[accommodation]['pets_allowed']
+        elif rule == 'No smoking':
+            return accommodation_properties[accommodation]['smoking_allowed']
+        elif rule == 'No visitors':
+            return accommodation_properties[accommodation]['visitors_allowed']
+    
+    # For each house rule, assert it is satisfied for all accommodations
+    for rule in house_rules:
+        for accommodation in accommodation_properties:
+            assert check_house_rule(accommodation, rule), f"House rule '{rule}' is not satisfied for accommodation '{accommodation}'"
+    
+    
+    This code defines a function `check_house_rule` to check if a house rule is satisfied for an accommodation. It then uses a nested loop to check each house rule for each accommodation. If a house rule is not satisfied for an accommodation, it raises an `AssertionError` with a message indicating which rule and accommodation are causing the issue.

@@ -1,0 +1,6 @@
+Destination cities: ['Baltimore'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Flight Number: F3993064, from Portland to Baltimore, Departure Time: 15:37, Arrival Time: 17:03', 'Flight Number: F1656412, from Baltimore to Portland, Departure Time: 20:20, Arrival Time: 21:31'],
+Restaurants (3 meals per day): ['-', '-', '-', 'The Abbey Burger Bistro, Baltimore', 'Angies Seafood, Baltimore', "Mama's On the Half Shell, Baltimore", 'LP Steamers, Baltimore', 'The Helmand, Baltimore', '-'],
+Attractions (1 per day): ['National Aquarium, Baltimore', 'Inner Harbor, Baltimore', 'The Maryland Zoo, Baltimore'],
+Accommodations (1 per city): ['The basement, Baltimore']

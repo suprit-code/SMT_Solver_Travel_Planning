@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['taxi, from El Paso to San Diego, duration: 760.0183333333333, distance: 1166.8763, cost: 1166', 'Flight Number: F0034346, from San Diego to Sacramento, Departure Time: 22:33, Arrival Time: 00:09', 'taxi, from Sacramento to El Paso, duration: 1267.745, distance: 1906.2027, cost: 1906'],
+Restaurants (3 meals per day): ['-', '-', '-', "Mister A'S, San Diego", 'Din Tai Fung, San Diego', 'Cowboy Star, San Diego', 'Kru Contemporary Japanese Cuisine, Sacramento', "Paragary's, Sacramento", 'Firestone Public House, Sacramento', 'Chicago Fire, Sacramento', "Mulvaney's Building & Loan, Sacramento", 'Ella Dining Room & Bar, Sacramento', 'Nopalitos, Sacramento', 'Grange Restaurant & Bar, Sacramento', 'Tower Cafe, Sacramento'],
+Attractions (1 per day): ['-', 'SeaWorld, San Diego', 'Capitol Park, Sacramento', 'Sacramento History Museum, Sacramento', 'California State Capitol Museum, Sacramento'],
+Accommodations (1 per city): ['Safe Private Sanctuary - TOWER STUDIO/ Northpark, San Diego', 'Cozy Private Bedroom with Pool & Spa, Sacramento']

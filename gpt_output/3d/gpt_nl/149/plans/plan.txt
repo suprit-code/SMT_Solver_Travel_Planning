@@ -1,0 +1,6 @@
+Destination cities: ['New York'],
+Transportation dates: ['2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F1014617, from Raleigh to New York, Departure Time: 15:44, Arrival Time: 17:17', 'Flight Number: F3200896, from New York to Raleigh, Departure Time: 18:55, Arrival Time: 20:37'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Bryant Park Grill, New York', 'Sarge’s Delicatessen & Diner, New York', "Sylvia's Restaurant, New York", 'Westway Diner, New York', 'Times Square Diner, New York', '-'],
+Attractions (1 per day): ['The National 9/11 Memorial & Museum, New York', 'The Metropolitan Museum of Art, New York', 'New York Public Library, New York'],
+Accommodations (1 per city): ['Minimal room 1 SofaBed + loft bed in Manhattan, New York']

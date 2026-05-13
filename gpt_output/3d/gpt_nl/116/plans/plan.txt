@@ -1,0 +1,6 @@
+Destination cities: ['Colorado Springs'],
+Transportation dates: ['2024-11-10', '2024-11-12'],
+Transportation methods between cities: ['Flight Number: F1156847, from Chicago to Colorado Springs, Departure Time: 19:46, Arrival Time: 21:26', 'Flight Number: F1153765, from Colorado Springs to Chicago, Departure Time: 08:26, Arrival Time: 11:56'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Pizzeria Rustica, Colorado Springs', 'Sushi Ato, Colorado Springs', 'Carlos Bistro, Colorado Springs', 'Restaurant 1858, Colorado Springs', 'The Melting Pot, Colorado Springs', '-'],
+Attractions (1 per day): ['-', 'Garden of the Gods, Colorado Springs', '-'],
+Accommodations (1 per city): ['Two-Bed Two-Bath house, walk to Garden of the Gods, Colorado Springs']

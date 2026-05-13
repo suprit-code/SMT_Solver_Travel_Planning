@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to Charleston",
+    "transportation": "Flight Number: F0051870, from Nashville to Charleston, Departure Time: 10:05, Arrival Time: 12:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Amen Street Fish & Raw Bar, Charleston",
+    "attraction": "Cathedral of Saint John the Baptist, Charleston",
+    "accommodation": "Historic B&B Veranda King Suite Walk to King, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Historic B&B Veranda King Suite Walk to King, stay from 12:50 to 15:00, nearest transit: Wentworth St / Coming St, 158.78m away; Cathedral of Saint John the Baptist, Charleston, visit from 15:30 to 19:00, ; Amen Street Fish & Raw Bar, Charleston, visit from 19:30 to 20:45, ; Historic B&B Veranda King Suite Walk to King, stay from 21:30 to 05:30, nearest transit: Wentworth St / Coming St, 158.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Husk Restaurant, Charleston",
+    "lunch": "Poogan's Porch, Charleston",
+    "dinner": "High Cotton Charleston, Charleston",
+    "attraction": "Charleston City Market, Charleston",
+    "accommodation": "Historic B&B Veranda King Suite Walk to King, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Historic B&B Veranda King Suite Walk to King, stay from 06:00 to 06:30, nearest transit: Wentworth St / Coming St, 158.78m away; Husk Restaurant, Charleston, visit from 08:53 to 09:43, ; Charleston City Market, Charleston, visit from 10:13 to 13:43, ; Poogan's Porch, Charleston, visit from 14:13 to 15:13, ; High Cotton Charleston, Charleston, visit from 19:14 to 20:29, ; Historic B&B Veranda King Suite Walk to King, stay from 20:59 to 04:59, nearest transit: Wentworth St / Coming St, 158.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Nashville",
+    "transportation": "Flight Number: F2729734, from Charleston to Nashville, Departure Time: 06:29, Arrival Time: 06:49",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic B&B Veranda King Suite Walk to King, stay from 05:29 to 05:59, nearest transit: Wentworth St / Coming St, 158.78m away"
+  }
+]

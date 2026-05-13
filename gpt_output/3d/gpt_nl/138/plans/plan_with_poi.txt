@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Colorado Springs",
+    "transportation": "Self-driving from Chicago to Colorado Springs, duration: 1134.3316666666665, distance: 1729.9226, cost : 86.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Casa De Mariposas, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 01:24 to 01:54, nearest transit: Galley/Ford, 862.13m away; Casa De Mariposas, stay from 02:24 to 08:00, nearest transit: Galley/Ford, 862.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Carlos Bistro, Colorado Springs",
+    "lunch": "Shuga's Restaurant, Colorado Springs",
+    "dinner": "Mountain Shadows Restaurant, Colorado Springs",
+    "attraction": "-",
+    "accommodation": "Casa De Mariposas, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 08:30 to 09:00, nearest transit: Galley/Ford, 862.13m away; Carlos Bistro, Colorado Springs, visit from 09:39 to 10:29, ; Shuga's Restaurant, Colorado Springs, visit from 14:30 to 15:30, ; Mountain Shadows Restaurant, Colorado Springs, visit from 19:31 to 20:46, ; Casa De Mariposas, stay from 22:30 to 06:30, nearest transit: Galley/Ford, 862.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Colorado Springs to Chicago",
+    "transportation": "Taxi from Colorado Springs to Chicago, duration: 1133.75, distance: 1729.5706, cost : 1729.0",
+    "breakfast": "MacKenzie's Chop House, Colorado Springs",
+    "lunch": "Restaurant 1858, Colorado Springs",
+    "dinner": "Paravicini's Italian Bistro, Colorado Springs",
+    "attraction": "U.S. Olympic & Paralympic Museum, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 07:00 to 07:30, nearest transit: Galley/Ford, 862.13m away; MacKenzie's Chop House, Colorado Springs, visit from 08:00 to 08:50, ; U.S. Olympic & Paralympic Museum, Colorado Springs, visit from 09:20 to 12:50, ; Restaurant 1858, Colorado Springs, visit from 13:20 to 14:20, ; Paravicini's Italian Bistro, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

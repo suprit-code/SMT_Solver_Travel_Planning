@@ -1,0 +1,12 @@
+not ok
+Unsatisfiable core:
+visit city in cities list
+eat in which city d
+travel end date
+Mediterraneantype restaurant is visited
+eat in which city l
+eat in which city b
+valid restaurant index
+valid attraction index
+Mediterraneantype restaurant
+attraction in which city

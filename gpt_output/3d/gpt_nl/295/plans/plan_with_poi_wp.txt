@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to Sacramento",
+    "transportation": "Flight Number: F3954104, from Ontario to Sacramento, Departure Time: 13:58, Arrival Time: 15:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "-",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 15:47 to 16:17, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Nopalitos, Sacramento, visit from 19:00 to 20:15, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 20:45 to 04:45, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "El Novillero Restaurant, Sacramento",
+    "dinner": "Chicago Fire, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Paesano's Pizzeria, Sacramento, visit from 09:09 to 09:59, ; El Novillero Restaurant, Sacramento, visit from 14:00 to 15:00, ; Sacramento History Museum, Sacramento, visit from 15:30 to 19:00, ; Chicago Fire, Sacramento, visit from 19:30 to 20:45, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 23:40 to 07:40, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to Ontario",
+    "transportation": "Flight Number: F2705274, from Sacramento to Ontario, Departure Time: 19:02, Arrival Time: 20:17",
+    "breakfast": "Bacon & Butter, Sacramento",
+    "lunch": "Aviators Restaurant, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 08:10 to 08:40, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Bacon & Butter, Sacramento, visit from 09:10 to 10:00, ; California State Capitol Museum, Sacramento, visit from 10:30 to 14:00, ; Aviators Restaurant, Sacramento, visit from 14:30 to 15:30, "
+  }
+]

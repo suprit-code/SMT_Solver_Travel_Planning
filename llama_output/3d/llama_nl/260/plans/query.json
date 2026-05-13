@@ -1,0 +1,1 @@
+{"org": "St. Louis", "dest": "San Diego", "days": 3, "visiting_city_number": 1, "date": ["2024-11-25", "2024-11-26", "2024-11-27"], "people_number": 2, "local_constraint": {"house rule": null, "cuisine": ["Mexican", "Chinese", "Mediterranean", "Latin"], "room type": "entire home", "transportation": "no self-driving"}, "budget": 2400}

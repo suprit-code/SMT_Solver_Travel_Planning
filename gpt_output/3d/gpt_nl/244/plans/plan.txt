@@ -1,0 +1,6 @@
+Destination cities: ['Wichita'],
+Transportation dates: ['2024-11-18', '2024-11-20'],
+Transportation methods between cities: ['Flight Number: F0572682, from Houston to Wichita, Departure Time: 10:11, Arrival Time: 11:54', 'Flight Number: F3839093, from Wichita to Houston, Departure Time: 16:47, Arrival Time: 18:41'],
+Restaurants (3 meals per day): ['-', 'Chicken N Pickle- Wichita, Wichita', 'Little Saigon, Wichita', 'Sabor Latin Bar & Grill, Wichita', 'The Sweet Spot, Wichita', 'Old Mill Tasty Shop, Wichita', 'Homegrown, Wichita', "Chester's Chophouse and Wine Bar, Wichita", '-'],
+Attractions (1 per day): ['The Keeper of the Plains, Wichita', 'Wichita Art Museum, Wichita', 'Mid-America All-Indian Center, Wichita'],
+Accommodations (1 per city): ['Comfortable large bedroom in residential home,, Wichita']

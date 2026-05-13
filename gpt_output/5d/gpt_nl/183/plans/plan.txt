@@ -1,0 +1,6 @@
+Destination cities: ['New York', 'Rochester'],
+Transportation dates: ['2024-11-03', '2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Self-driving, from St. Louis to New York, duration: 1093.5649999999998, distance: 1533.6645, cost: 76', 'Self-driving, from New York to Rochester, duration: 404.6833333333333, distance: 511.5847, cost: 25', 'Self-driving, from Rochester to St. Louis, duration: 916.39, distance: 1303.6043, cost: 65'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Bryant Park Grill, New York', 'Sarge’s Delicatessen & Diner, New York', 'Westway Diner, New York', 'Times Square Diner, New York', 'FIG & OLIVE, New York', "Carmine's, New York", "Lipuma's Coney Island, Rochester", "Tiny Tim's Tea Rooms, Rochester", 'Good Luck, Rochester', 'Mamma Mia, Rochester', 'Nick Tahou Hots, Rochester', 'The Eagle Tavern, Rochester'],
+Attractions (1 per day): ['-', 'The High Line, New York', 'Central Park, New York', 'Eastman Theatre, Rochester', 'Restoration House, Rochester'],
+Accommodations (1 per city): ['Minimal room 1 SofaBed + loft bed in Manhattan, New York', 'Historic Henrietta Apartment, Rochester']

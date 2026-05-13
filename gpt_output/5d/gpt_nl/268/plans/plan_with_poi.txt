@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F3511787, from Atlanta to San Diego, Departure Time: 08:21, Arrival Time: 09:54",
+    "breakfast": "-",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 10:24 to 11:30, nearest transit: Upas St & 30th St, 403.13m away; Pacific Beach AleHouse, San Diego, visit from 12:00 to 13:00, ; SeaWorld, San Diego, visit from 15:00 to 18:30, ; Addison Restaurant, San Diego, visit from 19:00 to 20:15, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 23:21 to 07:21, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "World Famous, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:51 to 08:21, nearest transit: Upas St & 30th St, 403.13m away; Ruth's Chris Steak House, San Diego, visit from 08:51 to 09:41, ; World Famous, San Diego, visit from 13:42 to 14:42, ; San Diego Zoo, San Diego, visit from 15:12 to 18:42, ; Morning Glory, San Diego, visit from 19:12 to 22:34, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 23:04 to 07:04, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "-",
+    "dinner": "Zocalo, Sacramento",
+    "attraction": "-",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:34 to 08:04, nearest transit: Upas St & 30th St, 403.13m away; Juniper and Ivy, San Diego, visit from 08:34 to 09:24, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 19:45 to 20:15, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Zocalo, Sacramento, visit from 20:45 to 22:00, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 22:30 to 06:53, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Grange Restaurant & Bar, Sacramento",
+    "lunch": "The Firehouse Restaurant, Sacramento",
+    "dinner": "Scott's Seafood on The River, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 07:23 to 07:53, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Grange Restaurant & Bar, Sacramento, visit from 08:23 to 09:13, ; Capitol Park, Sacramento, visit from 09:43 to 13:13, ; The Firehouse Restaurant, Sacramento, visit from 13:43 to 14:43, ; Scott's Seafood on The River, Sacramento, visit from 19:00 to 20:15, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 20:45 to 04:45, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Atlanta",
+    "transportation": "Flight Number: F2955269, from Sacramento to Atlanta, Departure Time: 12:36, Arrival Time: 20:04",
+    "breakfast": "Ella Dining Room & Bar, Sacramento",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 06:00 to 06:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Ella Dining Room & Bar, Sacramento, visit from 08:00 to 12:06, "
+  }
+]

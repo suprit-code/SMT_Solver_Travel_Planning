@@ -1,0 +1,6 @@
+Destination cities: ['Durango', 'Colorado Springs'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Self-driving, from Helena to Durango, duration: 938.795, distance: 1407.4631000000002, cost: 70', 'Self-driving, from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost: 25', 'Self-driving, from Colorado Springs to Helena, duration: 879.4416666666667, distance: 1384.2815, cost: 69'],
+Restaurants (3 meals per day): ['-', '-', '-', 'College Drive Cafe, Durango', 'Bread, Durango', "Durango's Mexican Grill, Durango", 'Durango Diner, Durango', "Durango Joe's Coffee on College Dr., Durango", '81301 Coffee House and Roasters, Durango', "Shuga's Restaurant, Colorado Springs", 'Mountain Shadows Restaurant, Colorado Springs', 'The Warehouse Restaurant & Gallery, Colorado Springs', 'Sushi Ato, Colorado Springs', 'Marigold Cafe & Bakery, Colorado Springs', 'Restaurant 1858, Colorado Springs'],
+Attractions (1 per day): ['-', 'The Colorado Trail, Durango', 'San Juan National Forest, Durango', 'Garden of the Gods, Colorado Springs', 'Seven Falls, Colorado Springs'],
+Accommodations (1 per city): ['Sleek, Modern Studio in the heart of downtown., Durango', 'Cozy Cottage by ManitouSpringsPikesPk/GardenofGods, Colorado Springs']

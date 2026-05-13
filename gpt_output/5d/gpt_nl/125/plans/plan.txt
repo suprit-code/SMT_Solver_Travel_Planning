@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-18', '2024-11-20', '2024-11-22'],
+Transportation methods between cities: ['Flight Number: F1524816, from Spokane to San Diego, Departure Time: 08:25, Arrival Time: 11:08', 'Flight Number: F0024604, from San Diego to Sacramento, Departure Time: 12:49, Arrival Time: 14:16', 'taxi, from Sacramento to Spokane, duration: 957.6233333333332, distance: 1319.0158, cost: 1319'],
+Restaurants (3 meals per day): ['-', '-', "Lou & Mickey's, San Diego", 'Buon Appetito, San Diego', 'La Puerta, San Diego', 'Morning Glory, San Diego', 'Addison Restaurant, San Diego', 'Bangkok @12 Thai Restaurant, Sacramento', 'Zocalo, Sacramento', 'Chicago Fire, Sacramento', "Paragary's, Sacramento", 'Grange Restaurant & Bar, Sacramento', 'Nopalitos, Sacramento', 'Mikuni Japanese Restaurant & Sushi Bar, Sacramento', 'Aviators Restaurant, Sacramento'],
+Attractions (1 per day): ['USS Midway Museum, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Sacramento History Museum, Sacramento', 'California State Capitol Museum, Sacramento', 'California State Railroad Museum, Sacramento'],
+Accommodations (1 per city): ['Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego', 'Peaceful and Cozy Studio, Sacramento']

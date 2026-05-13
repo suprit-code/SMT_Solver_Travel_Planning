@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Houston",
+    "transportation": "Flight Number: F2425786, from Cleveland to Houston, Departure Time: 06:53, Arrival Time: 08:30",
+    "breakfast": "-",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "National Museum of Funeral History, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 09:00 to 11:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston Restaurant, Houston, visit from 12:00 to 13:00, ; National Museum of Funeral History, Houston, visit from 15:00 to 18:30, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 19:00 to 20:15, ; #4 Northwest Victory Single BR, stay from 22:41 to 06:41, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston's Restaurant, Houston",
+    "lunch": "Niko Niko's Greek, Houston",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:11 to 07:41, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston's Restaurant, Houston, visit from 08:11 to 09:59, ; Niko Niko's Greek, Houston, visit from 14:00 to 15:00, ; Children's Museum Houston, Houston, visit from 15:30 to 20:15, ; Pappadeaux Seafood Kitchen, Houston, visit from 20:45 to 22:00, ; #4 Northwest Victory Single BR, stay from 22:30 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Cleveland",
+    "transportation": "Flight Number: F1806270, from Houston to Cleveland, Departure Time: 14:30, Arrival Time: 18:03",
+    "breakfast": "Phoenicia Specialty Foods, Houston",
+    "lunch": "Houston's Restaurant & Pub, Houston",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:00 to 07:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Phoenicia Specialty Foods, Houston, visit from 08:00 to 08:50, ; Houston's Restaurant & Pub, Houston, visit from 12:51 to 14:00, "
+  }
+]

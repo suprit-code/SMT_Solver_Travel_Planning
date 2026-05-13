@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Indianapolis",
+    "transportation": "Flight Number: F0035972, from Denver to Indianapolis, Departure Time: 11:57, Arrival Time: 16:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Old Spaghetti Factory, Indianapolis",
+    "attraction": "-",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 16:39 to 17:09, nearest transit: New York St & State St, 65.71m away; The Old Spaghetti Factory, Indianapolis, visit from 19:00 to 20:15, ; Queen Bed Getaway Room Downtown Indy, stay from 20:45 to 04:45, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Canal Bistro, Indianapolis",
+    "lunch": "Milktooth, Indianapolis",
+    "dinner": "Lincoln Square Pancake House, Indianapolis",
+    "attraction": "Indianapolis Motor Speedway Museum, Indianapolis",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 06:00 to 06:30, nearest transit: New York St & State St, 65.71m away; Canal Bistro, Indianapolis, visit from 08:22 to 09:12, ; Milktooth, Indianapolis, visit from 14:00 to 15:00, ; Indianapolis Motor Speedway Museum, Indianapolis, visit from 15:30 to 19:00, ; Lincoln Square Pancake House, Indianapolis, visit from 19:30 to 20:45, ; Queen Bed Getaway Room Downtown Indy, stay from 21:15 to 05:15, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Denver",
+    "transportation": "Self-driving from Indianapolis to Denver, duration: 1158.4233333333332, distance: 1745.8256, cost : 87.0",
+    "breakfast": "Nada, Indianapolis",
+    "lunch": "Conner's Kitchen + Bar, Indianapolis",
+    "dinner": "Agave & Rye Indianapolis, Indianapolis",
+    "attraction": "The Eiteljorg Museum, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 06:00 to 06:30, nearest transit: New York St & State St, 65.71m away; Nada, Indianapolis, visit from 08:00 to 08:50, ; The Eiteljorg Museum, Indianapolis, visit from 09:20 to 12:50, ; Conner's Kitchen + Bar, Indianapolis, visit from 14:30 to 15:30, ; Agave & Rye Indianapolis, Indianapolis, visit from 19:31 to 20:46, "
+  }
+]

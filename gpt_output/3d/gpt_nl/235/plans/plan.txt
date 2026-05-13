@@ -1,0 +1,6 @@
+Destination cities: ['Reno'],
+Transportation dates: ['2024-11-07', '2024-11-09'],
+Transportation methods between cities: ['Self-driving, from Los Angeles to Reno, duration: 577.24, distance: 830.7624000000001, cost: 41', 'Flight Number: F3833091, from Reno to Los Angeles, Departure Time: 07:27, Arrival Time: 09:15'],
+Restaurants (3 meals per day): ['-', '-', '-', "Bertha Miranda's Mexican Restaurant, Reno", "Smee's Alaskan Fish Bar, Reno", 'Pho 777 Vietnamese Restaurant, Reno', '-', '-', '-'],
+Attractions (1 per day): ['-', 'Truckee River Walk, Reno', '-'],
+Accommodations (1 per city): ['Sealy Super Comfy Mattress 4.1 Stars, Reno']

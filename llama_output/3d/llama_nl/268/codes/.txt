@@ -1,0 +1,19 @@
+
+    # Set house rules to be ['No children under 10', 'No parties', 'No pets', 'No smoking', 'No visitors']
+    house_rules = ['No children under 10', 'No parties', 'No pets', 'No smoking', 'No visitors']
+    
+    # For each 'accommodation_index', get specific house rules info
+    for accommodation_index in range(len(house_rules)):
+        # Get specific house rules info for the current accommodation
+        accommodation_rules = house_rules[accommodation_index]
+        
+        # Assert 'No parties' exist for all accommodations
+        assert 'No parties' in accommodation_rules, f"Accommodation {accommodation_index} does not have 'No parties' rule"
+    
+    
+    In this code:
+    
+    - We first define the `house_rules` list.
+    - We then use a `for` loop to iterate over the indices of the `house_rules` list.
+    - For each index, we get the corresponding house rules info and store it in the `accommodation_rules` variable.
+    - We then use an `assert` statement to check if the `accommodation_rules` contain the string `'No parties'`. If it does not, an `AssertionError` is raised with a message indicating which accommodation does not have the rule.

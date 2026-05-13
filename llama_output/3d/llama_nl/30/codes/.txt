@@ -1,0 +1,29 @@
+
+    # Run TaxiSearch to get taxi info for San Diego as origin and city_0
+    taxi_search_result = TaxiSearch(origin="San Diego", destination="city_0")
+    
+    # Get specific taxi price info with San Diego as origin and final destination, specific city, and departure date for 2 transportations
+    taxi_price_info = taxi_search_result.get_taxi_price_info(origin="San Diego", destination="city_0", city="specific_city", departure_date="2024-07-26")
+    taxi_price_info_2 = taxi_search_result.get_taxi_price_info(origin="San Diego", destination="city_0", city="specific_city", departure_date="2024-07-27")
+    
+    # Set 'taxi_index' variable for 2 transportations
+    taxi_index = 0
+    taxi_index_2 = 1
+    
+    # Assert 2 'taxi_index' variables are within valid range if taking taxi, assert taxi index to be -1 if not taking taxi
+    assert 0 <= taxi_index <= 2, "Invalid taxi index"
+    assert 0 <= taxi_index_2 <= 2, "Invalid taxi index"
+    assert taxi_index == 0 or taxi_index == 1, "Not taking taxi"
+    
+    # Calculate taxi price for 2 people for 2 transportations based on taxi index variable
+    taxi_price = taxi_search_result.calculate_taxi_price(taxi_index, num_passengers=2)
+    taxi_price_2 = taxi_search_result.calculate_taxi_price(taxi_index_2, num_passengers=2)
+    
+    # Get specific taxi arrival time info with San Diego as origin and final destination, specific city, and departure date for 2 transportations
+    taxi_arrival_time_info = taxi_search_result.get_taxi_arrival_time_info(origin="San Diego", destination="city_0", city="specific_city", departure_date="2024-07-26")
+    taxi_arrival_time_info_2 = taxi_search_result.get_taxi_arrival_time_info(origin="San Diego", destination="city_0", city="specific_city", departure_date="2024-07-27")
+    
+    # Calculate taxi arrival time for 2 transportations based on taxi index variable
+    taxi_arrival_time = taxi_search_result.calculate_taxi_arrival_time(taxi_index)
+    taxi_arrival_time_2 = taxi_search_result.calculate_taxi_arrival_time(taxi_index_2)
+    

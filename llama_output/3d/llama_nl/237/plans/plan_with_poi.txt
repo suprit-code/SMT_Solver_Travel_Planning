@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Francisco to Atlanta",
+    "transportation": "Flight Number: F3532677, from San Francisco to Atlanta, Departure Time: 07:54, Arrival Time: 15:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "White Oak Kitchen & Cocktails, Atlanta",
+    "attraction": "-",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 15:41 to 16:11, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; White Oak Kitchen & Cocktails, Atlanta, visit from 19:00 to 22:06, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 22:36 to 06:36, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Kevin Rathbun Steak, Atlanta",
+    "lunch": "Aria, Atlanta",
+    "dinner": "Fox Bros. Bar-B-Q, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 07:06 to 07:36, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Kevin Rathbun Steak, Atlanta, visit from 08:06 to 08:56, ; Centennial Olympic Park, Atlanta, visit from 09:26 to 12:56, ; Aria, Atlanta, visit from 14:30 to 16:44, ; Fox Bros. Bar-B-Q, Atlanta, visit from 20:45 to 22:00, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 22:30 to 06:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to San Francisco",
+    "transportation": "Flight Number: F2929834, from Atlanta to San Francisco, Departure Time: 15:43, Arrival Time: 18:02",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "Pasta Da Pulcinella, Atlanta",
+    "dinner": "-",
+    "attraction": "Atlanta Botanical Garden, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 07:00 to 07:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Canoe, Atlanta, visit from 08:00 to 08:50, ; Atlanta Botanical Garden, Atlanta, visit from 09:20 to 12:50, ; Pasta Da Pulcinella, Atlanta, visit from 13:20 to 14:20, "
+  }
+]

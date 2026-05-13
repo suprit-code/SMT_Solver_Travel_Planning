@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Jackson to San Francisco",
+    "transportation": "Flight Number: F0612301, from Jackson to San Francisco, Departure Time: 16:15, Arrival Time: 17:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Good Mong Kok Bakery, San Francisco",
+    "attraction": "-",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 18:26 to 18:56, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Good Mong Kok Bakery, San Francisco, visit from 19:26 to 20:41, ; Updated Private Bedroom with Ensuite Bathroom., stay from 21:11 to 05:11, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Fog Harbor Fish House, San Francisco",
+    "lunch": "The Codmother Fish & Chips, San Francisco",
+    "dinner": "Mo's Grill, San Francisco",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 06:00 to 07:50, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Fog Harbor Fish House, San Francisco, visit from 08:20 to 09:10, ; Golden Gate Park, San Francisco, visit from 09:40 to 13:10, ; The Codmother Fish & Chips, San Francisco, visit from 13:40 to 14:40, ; Mo's Grill, San Francisco, visit from 20:45 to 23:30, ; Updated Private Bedroom with Ensuite Bathroom., stay from 00:00 to 08:00, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Jackson",
+    "transportation": "Flight Number: F1204257, from San Francisco to Jackson, Departure Time: 18:20, Arrival Time: 21:14",
+    "breakfast": "-",
+    "lunch": "Capital Restaurant, San Francisco",
+    "dinner": "-",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 08:30 to 09:00, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Capital Restaurant, San Francisco, visit from 12:00 to 13:00, ; Pier 39, San Francisco, visit from 13:30 to 17:00, "
+  }
+]

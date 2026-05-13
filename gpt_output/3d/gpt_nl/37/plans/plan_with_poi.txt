@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Greensboro",
+    "transportation": "Flight Number: F3788392, from Washington to Greensboro, Departure Time: 12:52, Arrival Time: 13:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Carolina's Diner, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Cozy Friendly Duplex, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Cozy Friendly Duplex, stay from 14:22 to 14:52, nearest transit: West Friendly/Aberdeen (IB), 140.76m away; International Civil Rights Center & Museum, Greensboro, visit from 15:22 to 18:52, ; Carolina's Diner, Greensboro, visit from 19:22 to 20:37, ; Cozy Friendly Duplex, stay from 21:07 to 05:07, nearest transit: West Friendly/Aberdeen (IB), 140.76m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Mimi's Cafe, Greensboro",
+    "lunch": "Sarah's Kabob Shop, Greensboro",
+    "dinner": "Stamey's Barbecue, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Cozy Friendly Duplex, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Cozy Friendly Duplex, stay from 07:00 to 07:30, nearest transit: West Friendly/Aberdeen (IB), 140.76m away; Mimi's Cafe, Greensboro, visit from 08:00 to 08:50, ; Sarah's Kabob Shop, Greensboro, visit from 12:51 to 13:51, ; Ambleside Gallery, Greensboro, visit from 14:21 to 17:51, ; Stamey's Barbecue, Greensboro, visit from 19:00 to 20:15, ; Cozy Friendly Duplex, stay from 20:45 to 04:45, nearest transit: West Friendly/Aberdeen (IB), 140.76m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Washington",
+    "transportation": "Self-driving from Greensboro to Washington, duration: 357.15833333333336, distance: 496.6706, cost : 24.0",
+    "breakfast": "Golden Wok, Greensboro",
+    "lunch": "Scrambled Southern Diner, Greensboro",
+    "dinner": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Friendly Duplex, stay from 06:00 to 06:30, nearest transit: West Friendly/Aberdeen (IB), 140.76m away; Golden Wok, Greensboro, visit from 08:00 to 08:50, ; Carolina Theatre, Greensboro, visit from 09:20 to 12:50, ; Scrambled Southern Diner, Greensboro, visit from 14:30 to 15:30, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 19:31 to 20:46, "
+  }
+]

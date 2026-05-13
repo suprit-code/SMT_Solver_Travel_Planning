@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Washington",
+    "transportation": "Flight Number: F1683538, from New York to Washington, Departure Time: 05:56, Arrival Time: 07:06",
+    "breakfast": "Unconventional Diner, Washington",
+    "lunch": "Cafe Milano, Washington",
+    "dinner": "The Dabney, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "The Half Note Bedroom at HUM District Music, Washington",
+    "event": "-",
+    "point_of_interest_list": "The Half Note Bedroom at HUM District Music, stay from 07:36 to 08:40, nearest transit: GEORGIA AVE-PETWORTH, 456.48m away; Unconventional Diner, Washington, visit from 09:10 to 10:00, ; United States Botanic Garden, Washington, visit from 10:30 to 14:00, ; Cafe Milano, Washington, visit from 14:30 to 15:30, ; The Dabney, Washington, visit from 19:31 to 20:46, ; The Half Note Bedroom at HUM District Music, stay from 21:30 to 05:30, nearest transit: GEORGIA AVE-PETWORTH, 456.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Clyde's of Georgetown, Washington",
+    "lunch": "Ambar Shaw, Washington",
+    "dinner": "RPM Italian, Washington",
+    "attraction": "-",
+    "accommodation": "The Half Note Bedroom at HUM District Music, Washington",
+    "event": "-",
+    "point_of_interest_list": "The Half Note Bedroom at HUM District Music, stay from 06:00 to 06:30, nearest transit: GEORGIA AVE-PETWORTH, 456.48m away; Clyde's of Georgetown, Washington, visit from 08:59 to 09:49, ; Ambar Shaw, Washington, visit from 13:50 to 14:50, ; RPM Italian, Washington, visit from 19:20 to 20:35, ; The Half Note Bedroom at HUM District Music, stay from 21:05 to 05:05, nearest transit: GEORGIA AVE-PETWORTH, 456.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to New York",
+    "transportation": "Flight Number: F4069005, from Washington to New York, Departure Time: 13:20, Arrival Time: 14:37",
+    "breakfast": "Zaytinya by Jose Andres, Washington",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "National Mall, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Half Note Bedroom at HUM District Music, stay from 06:00 to 06:30, nearest transit: GEORGIA AVE-PETWORTH, 456.48m away; Zaytinya by Jose Andres, Washington, visit from 08:00 to 08:50, ; National Mall, Washington, visit from 09:20 to 12:50, "
+  }
+]

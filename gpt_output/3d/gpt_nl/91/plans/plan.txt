@@ -1,0 +1,6 @@
+Destination cities: ["Martha's Vineyard"],
+Transportation dates: ['2024-11-22', '2024-11-24'],
+Transportation methods between cities: ["Self-driving, from Charlotte to Martha's Vineyard, duration: 1122.7316666666666, distance: 1420.8184, cost: 71", "Self-driving, from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost: 71"],
+Restaurants (3 meals per day): ['-', '-', '-', "Lucky Hank's Restaurant & Cafe, Martha's Vineyard", "Little House Cafe, Martha's Vineyard", "Bobby B's Restaurant & Bakery, Martha's Vineyard", "Wharf Pub & Restaurant, Martha's Vineyard", "The Attic, Martha's Vineyard", "Biscuits, Martha's Vineyard"],
+Attractions (1 per day): ['-', "Aquinnah Cliffs, Martha's Vineyard", "Martha's Vineyard Tours and Excursions, Martha's Vineyard"],
+Accommodations (1 per city): ['"Ferry\'s Landing" Private Bed & Bath w/Harbor View, Martha\'s Vineyard']

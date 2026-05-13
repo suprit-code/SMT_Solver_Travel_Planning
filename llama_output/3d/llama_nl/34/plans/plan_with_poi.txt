@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to Charleston",
+    "transportation": "Flight Number: F2222186, from Nashville to Charleston, Departure Time: 10:35, Arrival Time: 13:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Poogan's Porch, Charleston",
+    "attraction": "Middleton Place, Charleston",
+    "accommodation": "Lodge Alley Inn Steps to Charleston Harbor -Studio, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 13:39 to 14:09, nearest transit: East Bay St / Vendue Range, 68.87m away; Middleton Place, Charleston, visit from 14:39 to 18:30, ; Poogan's Porch, Charleston, visit from 19:00 to 20:15, ; Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 22:53 to 06:53, nearest transit: East Bay St / Vendue Range, 68.87m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Peninsula Grill, Charleston",
+    "lunch": "Hank's Seafood Restaurant, Charleston",
+    "dinner": "High Cotton Charleston, Charleston",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "Lodge Alley Inn Steps to Charleston Harbor -Studio, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 07:23 to 07:53, nearest transit: East Bay St / Vendue Range, 68.87m away; Peninsula Grill, Charleston, visit from 08:23 to 09:59, ; Hank's Seafood Restaurant, Charleston, visit from 14:00 to 15:00, ; Charleston Waterfront Park, Charleston, visit from 15:30 to 19:00, ; High Cotton Charleston, Charleston, visit from 19:30 to 20:45, ; Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 21:15 to 06:30, nearest transit: East Bay St / Vendue Range, 68.87m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Nashville",
+    "transportation": "Taxi from Charleston to Nashville, duration: 627.7, distance: 880.8774000000001, cost : 880.0",
+    "breakfast": "Husk Restaurant, Charleston",
+    "lunch": "Fleet Landing Restaurant, Charleston",
+    "dinner": "Gingerline, Charleston",
+    "attraction": "South Carolina Aquarium, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 07:00 to 07:30, nearest transit: East Bay St / Vendue Range, 68.87m away; Husk Restaurant, Charleston, visit from 08:00 to 08:50, ; Fleet Landing Restaurant, Charleston, visit from 12:51 to 13:51, ; South Carolina Aquarium, Charleston, visit from 14:21 to 17:51, ; Gingerline, Charleston, visit from 19:00 to 20:15, "
+  }
+]

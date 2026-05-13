@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Houston",
+    "transportation": "Flight Number: F2282061, from Charleston to Houston, Departure Time: 11:43, Arrival Time: 13:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "National Museum of Funeral History, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 13:39 to 14:09, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; National Museum of Funeral History, Houston, visit from 14:39 to 18:09, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 20:45 to 22:38, ; #4 Northwest Victory Single BR, stay from 23:08 to 07:08, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston Restaurant, Houston",
+    "lunch": "Houstons Bar and Grill, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:38 to 08:08, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston Restaurant, Houston, visit from 08:38 to 09:28, ; NRG Stadium, Houston, visit from 09:58 to 13:28, ; Houstons Bar and Grill, Houston, visit from 14:30 to 16:44, ; Brennan's of Houston, Houston, visit from 20:45 to 23:10, ; #4 Northwest Victory Single BR, stay from 23:40 to 07:40, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Charleston",
+    "transportation": "Self-driving from Houston to Charleston, duration: 1211.9216666666666, distance: 1713.136, cost : 85.0",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Merrill & Houston's Steak Joint, Houston",
+    "dinner": "Taste of Texas, Houston",
+    "attraction": "Space Center Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 08:10 to 08:40, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Pappas Bros. Steakhouse, Houston, visit from 09:10 to 10:00, ; Space Center Houston, Houston, visit from 10:30 to 14:00, ; Merrill & Houston's Steak Joint, Houston, visit from 14:30 to 15:30, ; Taste of Texas, Houston, visit from 19:31 to 20:46, "
+  }
+]

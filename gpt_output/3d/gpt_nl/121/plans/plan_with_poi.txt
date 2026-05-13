@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to New York",
+    "transportation": "Flight Number: F0278767, from Ontario to New York, Departure Time: 01:01, Arrival Time: 08:45",
+    "breakfast": "-",
+    "lunch": "La Grande Boucherie, New York",
+    "dinner": "Manhatta, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Lamartine Chelsea 1B, New York",
+    "event": "-",
+    "point_of_interest_list": "Lamartine Chelsea 1B, stay from 09:15 to 09:45, nearest transit: 8 AV/W 31 ST, 59.3m away; The National 9/11 Memorial & Museum, New York, visit from 10:15 to 13:45, ; La Grande Boucherie, New York, visit from 14:15 to 15:15, ; Manhatta, New York, visit from 20:45 to 22:03, ; Lamartine Chelsea 1B, stay from 22:33 to 06:33, nearest transit: 8 AV/W 31 ST, 59.3m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "BOOM, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Lamartine Chelsea 1B, New York",
+    "event": "-",
+    "point_of_interest_list": "Lamartine Chelsea 1B, stay from 07:03 to 07:33, nearest transit: 8 AV/W 31 ST, 59.3m away; Times Square Diner, New York, visit from 08:03 to 08:53, ; Westway Diner, New York, visit from 12:54 to 13:54, ; Central Park, New York, visit from 14:24 to 17:54, ; BOOM, New York, visit from 19:00 to 20:15, ; Lamartine Chelsea 1B, stay from 20:45 to 07:40, nearest transit: 8 AV/W 31 ST, 59.3m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Ontario",
+    "transportation": "Flight Number: F0282875, from New York to Ontario, Departure Time: 18:47, Arrival Time: 22:10",
+    "breakfast": "Del Frisco's Double Eagle Steakhouse, New York",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "-",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lamartine Chelsea 1B, stay from 08:10 to 08:40, nearest transit: 8 AV/W 31 ST, 59.3m away; Del Frisco's Double Eagle Steakhouse, New York, visit from 09:10 to 10:00, ; The High Line, New York, visit from 10:30 to 14:00, ; Peak Restaurant & Bar, New York, visit from 14:30 to 15:30, "
+  }
+]

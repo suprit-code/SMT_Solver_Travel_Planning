@@ -1,0 +1,6 @@
+Destination cities: ['Savannah'],
+Transportation dates: ['2024-11-18', '2024-11-20'],
+Transportation methods between cities: ['Flight Number: F0500662, from Denver to Savannah, Departure Time: 09:36, Arrival Time: 14:38', 'Flight Number: F0614770, from Savannah to Denver, Departure Time: 16:09, Arrival Time: 18:12'],
+Restaurants (3 meals per day): ['-', '-', "Vinnie Van Go-Go's, Savannah", "Vic's On the River, Savannah", 'Goose Feathers Cafe & Bakery, Savannah', "Wiley's Championship BBQ, Savannah", "Belford's Savannah, Savannah", 'Mrs. Wilkes Dining Room, Savannah', '-'],
+Attractions (1 per day): ['Chippewa Square, Savannah', 'Skidaway Island State Park, Savannah', 'Wormsloe Historic Site, Savannah'],
+Accommodations (1 per city): ['Beautiful Sunny  Room, Savannah']

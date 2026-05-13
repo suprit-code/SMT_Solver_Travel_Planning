@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-07', '2024-11-09'],
+Transportation methods between cities: ['Flight Number: F1258791, from Tucson to Seattle, Departure Time: 13:33, Arrival Time: 16:36', 'Flight Number: F3372672, from Seattle to Tucson, Departure Time: 19:08, Arrival Time: 23:21'],
+Restaurants (3 meals per day): ['-', '-', 'Dough Zone Dumpling House - Seattle International District, Seattle', 'Il Terrazzo Carmine, Seattle', 'Noi Thai Cuisine, Seattle', "Salty's On Alki Beach, Seattle", 'Metropolitan Grill, Seattle', 'Chan Seattle, Seattle', 'The Pike Pub and Brewery, Seattle'],
+Attractions (1 per day): ['Hiram M. Chittenden Locks, Seattle', 'Seattle Aquarium, Seattle', 'Discovery Park, Seattle'],
+Accommodations (1 per city): ['Cozy room near UW, Seattle']

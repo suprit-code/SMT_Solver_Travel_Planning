@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Victoria to Amarillo",
+    "transportation": "Taxi from Victoria to Amarillo, duration: 663.5933333333334, distance: 1000.8854, cost : 1000.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Tyler's Barbeque, Amarillo",
+    "attraction": "-",
+    "accommodation": "Rustic Ridge | Amazing Views of Palo Duro Canyon, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 19:45 to 20:15, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Tyler's Barbeque, Amarillo, visit from 20:45 to 23:10, ; Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 23:40 to 07:40, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Jorge's Mexican Restaurant, Amarillo",
+    "lunch": "Ohms Cafe & Catering, Amarillo",
+    "dinner": "Cracker Barrel, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "Rustic Ridge | Amazing Views of Palo Duro Canyon, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 08:10 to 08:40, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Jorge's Mexican Restaurant, Amarillo, visit from 09:10 to 10:00, ; Cadillac Ranch, Amarillo, visit from 10:30 to 14:00, ; Ohms Cafe & Catering, Amarillo, visit from 14:30 to 15:30, ; Cracker Barrel, Amarillo, visit from 19:45 to 21:00, ; Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 21:30 to 05:30, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Lone Star Bar & Grill, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "b/walk to beach/fishing dock/Ground floor/King bed, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 06:00 to 06:30, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Lone Star Bar & Grill, Amarillo, visit from 08:00 to 08:50, ; b/walk to beach/fishing dock/Ground floor/King bed, stay from 21:10 to 21:40, nearest transit: 2601-15209 Leeward, 21.45m away; b/walk to beach/fishing dock/Ground floor/King bed, stay from 22:10 to 06:10, nearest transit: 2601-15209 Leeward, 21.45m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Island Time Sushi Bar & Seafood Grill, Corpus Christi",
+    "lunch": "Republic of Texas Bar & Grill, Corpus Christi",
+    "dinner": "Guajillo's On The Island, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "b/walk to beach/fishing dock/Ground floor/King bed, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "b/walk to beach/fishing dock/Ground floor/King bed, stay from 06:40 to 07:10, nearest transit: 2601-15209 Leeward, 21.45m away; Island Time Sushi Bar & Seafood Grill, Corpus Christi, visit from 09:10 to 10:00, ; USS Lexington Museum, Corpus Christi, visit from 10:30 to 14:00, ; Republic of Texas Bar & Grill, Corpus Christi, visit from 14:30 to 16:01, ; Guajillo's On The Island, Corpus Christi, visit from 20:02 to 21:17, ; b/walk to beach/fishing dock/Ground floor/King bed, stay from 21:47 to 05:47, nearest transit: 2601-15209 Leeward, 21.45m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F2283087, from Corpus Christi to Houston, Departure Time: 07:17, Arrival Time: 08:25",
+    "breakfast": "-",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Eddie V's Prime Seafood, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Charming Studio Apt in the heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "b/walk to beach/fishing dock/Ground floor/King bed, stay from 06:17 to 06:47, nearest transit: 2601-15209 Leeward, 21.45m away; Charming Studio Apt in the heart of the Heights, stay from 08:55 to 09:25, nearest transit: E 20th St @ Oxford St, 367.79m away; Houston Zoo, Houston, visit from 09:55 to 13:25, ; Houston Restaurant, Houston, visit from 13:55 to 14:55, ; Eddie V's Prime Seafood, Houston, visit from 19:45 to 21:00, ; Charming Studio Apt in the heart of the Heights, stay from 21:30 to 05:30, nearest transit: E 20th St @ Oxford St, 367.79m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "lunch": "Merrill & Houston's Steak Joint, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Charming Studio Apt in the heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Charming Studio Apt in the heart of the Heights, stay from 06:00 to 06:30, nearest transit: E 20th St @ Oxford St, 367.79m away; Fogo de Chao Brazilian Steakhouse, Houston, visit from 08:25 to 09:15, ; Downtown Aquarium, Houston, visit from 10:30 to 14:00, ; Merrill & Houston's Steak Joint, Houston, visit from 14:30 to 15:30, ; Pappas Bros. Steakhouse, Houston, visit from 20:45 to 22:00, ; Charming Studio Apt in the heart of the Heights, stay from 23:39 to 07:39, nearest transit: E 20th St @ Oxford St, 367.79m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Victoria",
+    "transportation": "Taxi from Houston to Victoria, duration: 148.28, distance: 202.0761, cost : 202.0",
+    "breakfast": "Brenner's on the Bayou, Houston",
+    "lunch": "Houston White Co, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "Discovery Green, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charming Studio Apt in the heart of the Heights, stay from 08:09 to 08:39, nearest transit: E 20th St @ Oxford St, 367.79m away; Brenner's on the Bayou, Houston, visit from 09:09 to 09:59, ; Houston White Co, Houston, visit from 14:00 to 15:00, ; Discovery Green, Houston, visit from 15:30 to 19:00, ; Brennan's of Houston, Houston, visit from 19:30 to 20:45, "
+  }
+]

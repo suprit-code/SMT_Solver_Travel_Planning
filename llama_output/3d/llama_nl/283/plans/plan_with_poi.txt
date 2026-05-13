@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Indianapolis",
+    "transportation": "Flight Number: F0161855, from Detroit to Indianapolis, Departure Time: 15:59, Arrival Time: 17:02",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Historic Private Guest Suite, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Historic Private Guest Suite, stay from 17:32 to 18:02, nearest transit: Michigan St & Spring St, 70.02m away; Historic Private Guest Suite, stay from 18:32 to 06:33, nearest transit: Michigan St & Spring St, 70.02m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Late Harvest, Indianapolis",
+    "lunch": "Tony's of Indianapolis, Indianapolis",
+    "dinner": "Vida, Indianapolis",
+    "attraction": "The Eiteljorg Museum, Indianapolis",
+    "accommodation": "Historic Private Guest Suite, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Historic Private Guest Suite, stay from 07:03 to 07:33, nearest transit: Michigan St & Spring St, 70.02m away; Late Harvest, Indianapolis, visit from 08:03 to 08:53, ; The Eiteljorg Museum, Indianapolis, visit from 09:23 to 12:53, ; Tony's of Indianapolis, Indianapolis, visit from 13:23 to 14:23, ; Vida, Indianapolis, visit from 19:00 to 20:15, ; Historic Private Guest Suite, stay from 20:45 to 04:32, nearest transit: Michigan St & Spring St, 70.02m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Detroit",
+    "transportation": "Flight Number: F0338034, from Indianapolis to Detroit, Departure Time: 06:02, Arrival Time: 07:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Private Guest Suite, stay from 05:02 to 05:32, nearest transit: Michigan St & Spring St, 70.02m away"
+  }
+]

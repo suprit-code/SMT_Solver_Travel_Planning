@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Key West to Nashville",
+    "transportation": "Flight Number: F0913613, from Key West to Nashville, Departure Time: 12:10, Arrival Time: 13:28",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Deacon’s New South, Nashville",
+    "attraction": "Ryman Auditorium, Nashville",
+    "accommodation": "Cute Cottage Apartment Downtown, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Cute Cottage Apartment Downtown, stay from 13:58 to 15:00, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away; Ryman Auditorium, Nashville, visit from 15:30 to 19:15, ; Deacon’s New South, Nashville, visit from 19:45 to 21:00, ; Cute Cottage Apartment Downtown, stay from 21:30 to 05:30, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Harriet's Rooftop, Nashville",
+    "lunch": "The Bluebird Cafe, Nashville",
+    "dinner": "The Catbird Seat, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Cute Cottage Apartment Downtown, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Cute Cottage Apartment Downtown, stay from 06:00 to 06:30, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away; Harriet's Rooftop, Nashville, visit from 09:10 to 10:00, ; Centennial Park, Nashville, visit from 10:30 to 14:00, ; The Bluebird Cafe, Nashville, visit from 14:30 to 16:44, ; The Catbird Seat, Nashville, visit from 20:45 to 22:03, ; Cute Cottage Apartment Downtown, stay from 22:33 to 06:33, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Miranda Lambert's Casa Rosa, Nashville",
+    "lunch": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "dinner": "-",
+    "attraction": "Grand Ole Opry, Nashville",
+    "accommodation": "The Budget Friendly Rest Easy (I-81 exit 5), Bristol",
+    "event": "-",
+    "point_of_interest_list": "Cute Cottage Apartment Downtown, stay from 07:03 to 07:33, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away; Miranda Lambert's Casa Rosa, Nashville, visit from 08:03 to 08:53, ; Grand Ole Opry, Nashville, visit from 09:23 to 12:53, ; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 13:23 to 14:23, ; The Budget Friendly Rest Easy (I-81 exit 5), stay from 20:42 to 21:12, nearest transit: E Valley Dr & Texas Ave, 170.89m away; The Budget Friendly Rest Easy (I-81 exit 5), stay from 21:42 to 05:42, nearest transit: E Valley Dr & Texas Ave, 170.89m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Little Bristol Beach Bar, Bristol",
+    "lunch": "Raj, Bristol",
+    "dinner": "Bristol Lounge, Bristol",
+    "attraction": "Cycle the City, Bristol",
+    "accommodation": "The Budget Friendly Rest Easy (I-81 exit 5), Bristol",
+    "event": "-",
+    "point_of_interest_list": "The Budget Friendly Rest Easy (I-81 exit 5), stay from 06:12 to 06:42, nearest transit: E Valley Dr & Texas Ave, 170.89m away; Little Bristol Beach Bar, Bristol, visit from 09:10 to 10:00, ; Cycle the City, Bristol, visit from 10:30 to 14:00, ; Raj, Bristol, visit from 14:30 to 15:30, ; Bristol Lounge, Bristol, visit from 19:31 to 20:46, ; The Budget Friendly Rest Easy (I-81 exit 5), stay from 21:16 to 05:16, nearest transit: E Valley Dr & Texas Ave, 170.89m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Bravas, Bristol",
+    "lunch": "Baba Ganoush Kitchen - Jerusalem Falafel, Bristol",
+    "dinner": "-",
+    "attraction": "Bristol Museum & Art Gallery, Bristol",
+    "accommodation": "Urban Cottage - Cozy -10 mins. from downtown, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "The Budget Friendly Rest Easy (I-81 exit 5), stay from 06:00 to 06:30, nearest transit: E Valley Dr & Texas Ave, 170.89m away; Bravas, Bristol, visit from 08:00 to 08:50, ; Bristol Museum & Art Gallery, Bristol, visit from 09:20 to 12:50, ; Baba Ganoush Kitchen - Jerusalem Falafel, Bristol, visit from 13:20 to 14:20, ; Urban Cottage - Cozy -10 mins. from downtown, stay from 19:29 to 19:59, nearest transit: TUNNEL BLVD + LASALLE, 464.15m away; Urban Cottage - Cozy -10 mins. from downtown, stay from 20:29 to 04:29, nearest transit: TUNNEL BLVD + LASALLE, 464.15m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Hickory Pit Bar-B-Que, Chattanooga",
+    "lunch": "Stir, Chattanooga",
+    "dinner": "St. John's Restaurant, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Urban Cottage - Cozy -10 mins. from downtown, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Urban Cottage - Cozy -10 mins. from downtown, stay from 06:00 to 06:30, nearest transit: TUNNEL BLVD + LASALLE, 464.15m away; Hickory Pit Bar-B-Que, Chattanooga, visit from 08:57 to 09:47, ; Stir, Chattanooga, visit from 13:48 to 14:48, ; Coolidge Park, Chattanooga, visit from 15:18 to 18:48, ; St. John's Restaurant, Chattanooga, visit from 19:18 to 20:33, ; Urban Cottage - Cozy -10 mins. from downtown, stay from 21:03 to 05:03, nearest transit: TUNNEL BLVD + LASALLE, 464.15m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Key West",
+    "transportation": "Taxi from Chattanooga to Key West, duration: 1085.9233333333334, distance: 1509.1929, cost : 1509.0",
+    "breakfast": "Public House, Chattanooga",
+    "lunch": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Urban Cottage - Cozy -10 mins. from downtown, stay from 06:00 to 06:30, nearest transit: TUNNEL BLVD + LASALLE, 464.15m away; Public House, Chattanooga, visit from 08:00 to 08:50, ; Maple Street Biscuit Company - City Center, Chattanooga, visit from 12:51 to 13:51, ; Tennessee Aquarium, Chattanooga, visit from 14:21 to 17:51, ; Uncle Larry's Restaurant, Chattanooga, visit from 19:00 to 20:15, "
+  }
+]

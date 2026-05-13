@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F3772502, from Hartford to Las Vegas, Departure Time: 17:08, Arrival Time: 19:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Luxury Suite - Balcony & Las Vegas Strip Views!, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Luxury Suite - Balcony & Las Vegas Strip Views!, stay from 19:47 to 22:43, nearest transit: The Strat, 4778.06m away; Luxury Suite - Balcony & Las Vegas Strip Views!, stay from 23:13 to 07:13, nearest transit: The Strat, 4778.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Garden Court, Las Vegas",
+    "lunch": "Primal Steakhouse, Las Vegas",
+    "dinner": "Eggslut, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Luxury Suite - Balcony & Las Vegas Strip Views!, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Luxury Suite - Balcony & Las Vegas Strip Views!, stay from 07:43 to 08:13, nearest transit: The Strat, 4778.06m away; Garden Court, Las Vegas, visit from 08:43 to 10:00, ; Primal Steakhouse, Las Vegas, visit from 14:30 to 16:44, ; Eggslut, Las Vegas, visit from 20:45 to 23:30, ; Luxury Suite - Balcony & Las Vegas Strip Views!, stay from 00:00 to 08:00, nearest transit: The Strat, 4778.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F3770462, from Las Vegas to Hartford, Departure Time: 21:26, Arrival Time: 05:08",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "The LINQ Promenade, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Luxury Suite - Balcony & Las Vegas Strip Views!, stay from 08:30 to 09:00, nearest transit: The Strat, 4778.06m away; The LINQ Promenade, Las Vegas, visit from 09:30 to 20:56, "
+  }
+]

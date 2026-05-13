@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F0509619, from Everett to San Diego, Departure Time: 12:07, Arrival Time: 14:37",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "-",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 15:07 to 20:15, nearest transit: Adams Av & Hawley Bl, 292.57m away; Cowboy Star, San Diego, visit from 20:45 to 22:33, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 23:03 to 07:03, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Alforon, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 07:33 to 08:03, nearest transit: Adams Av & Hawley Bl, 292.57m away; Lou & Mickey's, San Diego, visit from 08:33 to 09:59, ; Alforon, San Diego, visit from 14:00 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 19:00, ; Juniper and Ivy, San Diego, visit from 20:45 to 23:10, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 23:40 to 07:40, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F3996248, from San Diego to Sacramento, Departure Time: 16:51, Arrival Time: 18:15",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Vessel Restaurant + Bar, San Diego",
+    "dinner": "Paragary's, Sacramento",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Private Bath & Private Balcony *420-Friendly*, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 08:10 to 08:40, nearest transit: Adams Av & Hawley Bl, 292.57m away; Mimmo's, San Diego, visit from 09:10 to 10:00, ; San Diego Zoo, San Diego, visit from 10:30 to 14:00, ; Vessel Restaurant + Bar, San Diego, visit from 14:30 to 15:30, ; Private Bath & Private Balcony *420-Friendly*, stay from 18:45 to 19:15, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away; Paragary's, Sacramento, visit from 19:45 to 21:00, ; Private Bath & Private Balcony *420-Friendly*, stay from 21:30 to 05:30, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "dinner": "The Porch Restaurant and Bar, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Private Bath & Private Balcony *420-Friendly*, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Bath & Private Balcony *420-Friendly*, stay from 06:00 to 06:30, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away; Paesano's Pizzeria, Sacramento, visit from 09:10 to 10:00, ; California State Capitol Museum, Sacramento, visit from 10:30 to 14:00, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 14:30 to 16:44, ; The Porch Restaurant and Bar, Sacramento, visit from 20:45 to 22:00, ; Private Bath & Private Balcony *420-Friendly*, stay from 22:30 to 06:30, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Everett",
+    "transportation": "Taxi from Sacramento to Everett, duration: 905.6966666666668, distance: 1256.0839, cost : 1256.0",
+    "breakfast": "Orphan, Sacramento",
+    "lunch": "Tower Cafe, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Bath & Private Balcony *420-Friendly*, stay from 07:00 to 07:30, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away; Orphan, Sacramento, visit from 08:00 to 08:50, ; Tower Cafe, Sacramento, visit from 12:51 to 13:51, ; Sacramento History Museum, Sacramento, visit from 14:21 to 17:51, ; Nopalitos, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

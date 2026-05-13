@@ -1,0 +1,10 @@
+
+    # Get house rules info for city_0
+    house_rules = get_house_rules_info(city_0)
+    
+    # Set 'house_rule' variable for house rules
+    house_rule = house_rules
+    
+    # Assert 'No children under 10' is in house rules
+    assert 'No children under 10' in house_rule
+    

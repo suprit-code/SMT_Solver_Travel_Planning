@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Albany to Nashville",
+    "transportation": "Flight Number: F2564746, from Albany to Nashville, Departure Time: 11:10, Arrival Time: 12:20",
+    "breakfast": "-",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "Deacon’s New South, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 12:50 to 13:20, nearest transit: PEABODY STATION INBOUND, 149.43m away; Kayne Prime, Nashville, visit from 13:50 to 14:50, ; Belmont Mansion, Nashville, visit from 15:20 to 20:15, ; Deacon’s New South, Nashville, visit from 20:45 to 22:14, ; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 22:44 to 06:44, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "lunch": "The Farm House, Nashville",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 07:14 to 07:44, nearest transit: PEABODY STATION INBOUND, 149.43m away; Bourbon Street Blues and Boogie Bar, Nashville, visit from 08:14 to 09:04, ; The Farm House, Nashville, visit from 13:05 to 14:05, ; Cheekwood, Nashville, visit from 14:35 to 18:05, ; Aquarium Restaurant, Nashville, visit from 20:45 to 22:00, ; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 22:30 to 06:30, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Albany",
+    "transportation": "Taxi from Nashville to Albany, duration: 1129.86, distance: 1615.2378, cost : 1615.0",
+    "breakfast": "Henley, Nashville",
+    "lunch": "Puckett's 5th & Church, Nashville",
+    "dinner": "The Stillery, Nashville",
+    "attraction": "Gaylord Opryland Garden Conservatory, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 07:00 to 07:30, nearest transit: PEABODY STATION INBOUND, 149.43m away; Henley, Nashville, visit from 08:00 to 08:50, ; Puckett's 5th & Church, Nashville, visit from 12:51 to 13:51, ; Gaylord Opryland Garden Conservatory, Nashville, visit from 14:21 to 17:51, ; The Stillery, Nashville, visit from 19:00 to 20:15, "
+  }
+]

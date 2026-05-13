@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Albuquerque to San Francisco",
+    "transportation": "Flight Number: F0616416, from Albuquerque to San Francisco, Departure Time: 15:47, Arrival Time: 17:19",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Good Mong Kok Bakery, San Francisco",
+    "attraction": "-",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 17:49 to 20:15, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Good Mong Kok Bakery, San Francisco, visit from 20:45 to 22:44, ; Updated Private Bedroom with Ensuite Bathroom., stay from 23:14 to 07:14, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Mo's Grill, San Francisco",
+    "lunch": "The Codmother Fish & Chips, San Francisco",
+    "dinner": "Fog Harbor Fish House, San Francisco",
+    "attraction": "Exploratorium, San Francisco",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 07:44 to 08:14, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Mo's Grill, San Francisco, visit from 08:44 to 09:34, ; The Codmother Fish & Chips, San Francisco, visit from 13:35 to 14:35, ; Exploratorium, San Francisco, visit from 15:05 to 18:35, ; Fog Harbor Fish House, San Francisco, visit from 19:05 to 20:20, ; Updated Private Bedroom with Ensuite Bathroom., stay from 20:50 to 05:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Albuquerque",
+    "transportation": "Flight Number: F0584696, from San Francisco to Albuquerque, Departure Time: 19:29, Arrival Time: 22:47",
+    "breakfast": "Honey Honey Cafe & Crepery, San Francisco",
+    "lunch": "Capital Restaurant, San Francisco",
+    "dinner": "-",
+    "attraction": "Ghirardelli Square, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 06:00 to 06:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Honey Honey Cafe & Crepery, San Francisco, visit from 08:00 to 08:50, ; Capital Restaurant, San Francisco, visit from 12:51 to 13:51, ; Ghirardelli Square, San Francisco, visit from 14:21 to 18:59, "
+  }
+]

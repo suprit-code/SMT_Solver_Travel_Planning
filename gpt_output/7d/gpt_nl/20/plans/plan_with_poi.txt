@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Champaign to Amarillo",
+    "transportation": "Taxi from Champaign to Amarillo, duration: 996.6283333333332, distance: 1503.3516000000002, cost : 1503.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy Country Cottage, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Cozy Country Cottage, stay from 23:06 to 23:36, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 10039.42m away; Cozy Country Cottage, stay from 00:06 to 08:00, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 10039.42m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Pacific Rim, Amarillo",
+    "lunch": "Golden Light Cafe & Cantina, Amarillo",
+    "dinner": "Metropolitan, Amarillo",
+    "attraction": "-",
+    "accommodation": "Cozy Country Cottage, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Cozy Country Cottage, stay from 08:30 to 09:00, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 10039.42m away; Pacific Rim, Amarillo, visit from 09:33 to 10:23, ; Golden Light Cafe & Cantina, Amarillo, visit from 14:24 to 16:44, ; Metropolitan, Amarillo, visit from 20:45 to 22:00, ; Cozy Country Cottage, stay from 22:30 to 06:30, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 10039.42m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Crush, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Geraldine's Petite Chateau, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Cozy Country Cottage, stay from 07:00 to 07:30, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 10039.42m away; Crush, Amarillo, visit from 08:00 to 08:50, ; Geraldine's Petite Chateau, stay from 21:10 to 21:40, nearest transit: 412-Alameda @ Louisiana, 244.45m away; Geraldine's Petite Chateau, stay from 22:10 to 06:10, nearest transit: 412-Alameda @ Louisiana, 244.45m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Island Time Sushi Bar & Seafood Grill, Corpus Christi",
+    "lunch": "Yardarm Restaurant, Corpus Christi",
+    "dinner": "Kuzina Lebanese Grill, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "Geraldine's Petite Chateau, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Geraldine's Petite Chateau, stay from 06:40 to 08:33, nearest transit: 412-Alameda @ Louisiana, 244.45m away; Island Time Sushi Bar & Seafood Grill, Corpus Christi, visit from 09:03 to 09:53, ; Yardarm Restaurant, Corpus Christi, visit from 13:54 to 14:54, ; USS Lexington Museum, Corpus Christi, visit from 15:24 to 18:54, ; Kuzina Lebanese Grill, Corpus Christi, visit from 19:24 to 20:39, ; Geraldine's Petite Chateau, stay from 21:09 to 05:09, nearest transit: 412-Alameda @ Louisiana, 244.45m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F2367452, from Corpus Christi to Houston, Departure Time: 16:08, Arrival Time: 17:03",
+    "breakfast": "Bien Merite, Corpus Christi",
+    "lunch": "Republic of Texas Bar & Grill, Corpus Christi",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "-",
+    "accommodation": "Modern Guesthouse in the Heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Geraldine's Petite Chateau, stay from 06:00 to 06:30, nearest transit: 412-Alameda @ Louisiana, 244.45m away; Bien Merite, Corpus Christi, visit from 08:00 to 08:50, ; Republic of Texas Bar & Grill, Corpus Christi, visit from 13:59 to 14:59, ; Modern Guesthouse in the Heart of the Heights, stay from 17:33 to 18:03, nearest transit: Heights Blvd @ W 15th St, 357.4m away; Brennan's of Houston, Houston, visit from 19:00 to 20:15, ; Modern Guesthouse in the Heart of the Heights, stay from 20:45 to 07:03, nearest transit: Heights Blvd @ W 15th St, 357.4m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston's Restaurant, Houston",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "Houston's Restaurant & Pub, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Modern Guesthouse in the Heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 07:33 to 08:03, nearest transit: Heights Blvd @ W 15th St, 357.4m away; Houston's Restaurant, Houston, visit from 08:33 to 09:23, ; Market on Houston, Houston, visit from 13:24 to 14:30, ; Cockrell Butterfly Center, Houston, visit from 15:00 to 18:30, ; Houston's Restaurant & Pub, Houston, visit from 19:00 to 20:15, ; Modern Guesthouse in the Heart of the Heights, stay from 20:45 to 04:45, nearest transit: Heights Blvd @ W 15th St, 357.4m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Champaign",
+    "transportation": "Taxi from Houston to Champaign, duration: 1031.7916666666667, distance: 1511.9677, cost : 1511.0",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Uchi Houston, Houston",
+    "attraction": "Holocaust Museum Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 06:00 to 08:39, nearest transit: Heights Blvd @ W 15th St, 357.4m away; Kenny & Ziggy's New York Deli, Houston, visit from 09:09 to 09:59, ; Houston Restaurant, Houston, visit from 14:00 to 15:00, ; Holocaust Museum Houston, Houston, visit from 15:30 to 19:00, ; Uchi Houston, Houston, visit from 19:30 to 20:45, "
+  }
+]

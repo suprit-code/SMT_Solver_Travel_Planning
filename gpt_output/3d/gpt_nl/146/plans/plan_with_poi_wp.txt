@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Atlanta",
+    "transportation": "Flight Number: F1635752, from Oklahoma City to Atlanta, Departure Time: 11:10, Arrival Time: 14:06",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Stoney River Steakhouse and Grill, Atlanta",
+    "attraction": "-",
+    "accommodation": "New Sky Views HighRise, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 14:36 to 15:06, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away; Stoney River Steakhouse and Grill, Atlanta, visit from 19:00 to 20:15, ; New Sky Views HighRise, stay from 20:45 to 05:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Aviva by Kameel, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "New Sky Views HighRise, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 06:00 to 06:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away; Aviva by Kameel, Atlanta, visit from 08:42 to 09:32, ; Cafe Agora, Atlanta, visit from 13:33 to 14:33, ; Georgia Aquarium, Atlanta, visit from 15:30 to 20:15, ; Home Grown, Atlanta, visit from 20:45 to 23:10, ; New Sky Views HighRise, stay from 23:40 to 07:40, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Oklahoma City",
+    "transportation": "Flight Number: F2081568, from Atlanta to Oklahoma City, Departure Time: 22:56, Arrival Time: 00:00",
+    "breakfast": "Copeland's of New Orleans Atlanta, Atlanta",
+    "lunch": "La Grotta Ristorante Italiano, Atlanta",
+    "dinner": "Aria, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 08:10 to 08:40, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away; Copeland's of New Orleans Atlanta, Atlanta, visit from 09:10 to 10:00, ; Atlanta History Center, Atlanta, visit from 10:30 to 14:00, ; La Grotta Ristorante Italiano, Atlanta, visit from 14:30 to 15:30, ; Aria, Atlanta, visit from 19:31 to 20:46, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Houston",
+    "transportation": "Flight Number: F2442594, from Boston to Houston, Departure Time: 17:29, Arrival Time: 20:40",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Secluded Room with En-suite Bathroom Midtown, Houston",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 21:10 to 21:40, nearest transit: W Gray St @ Bailey St, 81.25m away; Secluded Room with En-suite Bathroom Midtown, stay from 22:10 to 06:10, nearest transit: W Gray St @ Bailey St, 81.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Houston White Co, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Secluded Room with En-suite Bathroom Midtown, Houston",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 06:40 to 07:31, nearest transit: W Gray St @ Bailey St, 81.25m away; Pappas Bros. Steakhouse, Houston, visit from 08:01 to 09:59, ; Houston White Co, Houston, visit from 14:00 to 15:00, ; Hermann Park, Houston, visit from 15:30 to 19:00, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 19:30 to 20:45, ; Secluded Room with En-suite Bathroom Midtown, stay from 21:15 to 05:15, nearest transit: W Gray St @ Bailey St, 81.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Boston",
+    "transportation": "Flight Number: F1065923, from Houston to Boston, Departure Time: 09:32, Arrival Time: 14:09",
+    "breakfast": "Eddie V's Prime Seafood, Houston",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 06:00 to 06:30, nearest transit: W Gray St @ Bailey St, 81.25m away; Eddie V's Prime Seafood, Houston, visit from 08:00 to 09:02, "
+  }
+]

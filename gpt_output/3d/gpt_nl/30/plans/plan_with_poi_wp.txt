@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Albuquerque",
+    "transportation": "Self-driving from San Diego to Albuquerque, duration: 860.8466666666667, distance: 1304.9912, cost : 65.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Casita de Tierra - Slow, Intentional Living, Albuquerque",
+    "event": "-",
+    "point_of_interest_list": "Casita de Tierra - Slow, Intentional Living, stay from 22:26 to 22:56, nearest transit: Central @ Monroe, 304.75m away; Casita de Tierra - Slow, Intentional Living, stay from 23:26 to 07:26, nearest transit: Central @ Monroe, 304.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Albuquerque",
+    "transportation": "-",
+    "breakfast": "Two Fools Tavern, Albuquerque",
+    "lunch": "High Noon Restaurant & Saloon, Albuquerque",
+    "dinner": "Padilla's Mexican Kitchen, Albuquerque",
+    "attraction": "Petroglyph National Monument, Albuquerque",
+    "accommodation": "Casita de Tierra - Slow, Intentional Living, Albuquerque",
+    "event": "-",
+    "point_of_interest_list": "Casita de Tierra - Slow, Intentional Living, stay from 07:56 to 08:26, nearest transit: Central @ Monroe, 304.75m away; Two Fools Tavern, Albuquerque, visit from 08:56 to 09:59, ; High Noon Restaurant & Saloon, Albuquerque, visit from 14:00 to 15:00, ; Petroglyph National Monument, Albuquerque, visit from 15:30 to 19:00, ; Padilla's Mexican Kitchen, Albuquerque, visit from 19:45 to 21:00, ; Casita de Tierra - Slow, Intentional Living, stay from 21:30 to 05:30, nearest transit: Central @ Monroe, 304.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Albuquerque to San Diego",
+    "transportation": "Self-driving from Albuquerque to San Diego, duration: 859.2716666666668, distance: 1302.2421000000002, cost : 65.0",
+    "breakfast": "Dog House Drive In, Albuquerque",
+    "lunch": "Rising Star Chinese Eatery, Albuquerque",
+    "dinner": "Le Troquet Bistro, Albuquerque",
+    "attraction": "San Felipe de Neri Church, Albuquerque",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Casita de Tierra - Slow, Intentional Living, stay from 06:00 to 06:30, nearest transit: Central @ Monroe, 304.75m away; Dog House Drive In, Albuquerque, visit from 08:00 to 08:50, ; San Felipe de Neri Church, Albuquerque, visit from 09:20 to 12:50, ; Rising Star Chinese Eatery, Albuquerque, visit from 13:20 to 14:20, ; Le Troquet Bistro, Albuquerque, visit from 19:00 to 20:15, "
+  }
+]

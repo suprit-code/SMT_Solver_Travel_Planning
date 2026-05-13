@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to San Diego",
+    "transportation": "Self-driving from Las Vegas to San Diego, duration: 367.3033333333333, distance: 532.4798000000001, cost : 26.0",
+    "breakfast": "-",
+    "lunch": "Civico 1845, San Diego",
+    "dinner": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 13:00 to 13:30, nearest transit: Imperial Av & 54th St, 396.9m away; Civico 1845, San Diego, visit from 14:00 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 20:15, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 20:45 to 22:26, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 22:56 to 06:56, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Buon Appetito, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 07:26 to 07:56, nearest transit: Imperial Av & 54th St, 396.9m away; Din Tai Fung, San Diego, visit from 08:26 to 10:00, ; USS Midway Museum, San Diego, visit from 10:30 to 14:00, ; Buon Appetito, San Diego, visit from 14:30 to 16:44, ; Morning Glory, San Diego, visit from 20:45 to 22:26, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 22:56 to 06:56, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Self-driving from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 53.0",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Forest Room, Redding",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 07:26 to 07:56, nearest transit: Imperial Av & 54th St, 396.9m away; Mimmo's, San Diego, visit from 08:26 to 09:16, ; The Forest Room, stay from 22:30 to 23:00, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; The Forest Room, stay from 23:30 to 07:30, nearest transit: Hartnell Ave at Churn Ct, 100.85m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Champa Garden, Redding",
+    "lunch": "Trendy's, Redding",
+    "dinner": "New China, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "The Forest Room, Redding",
+    "event": "-",
+    "point_of_interest_list": "The Forest Room, stay from 08:00 to 08:30, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; Champa Garden, Redding, visit from 09:00 to 09:50, ; Sundial Bridge, Redding, visit from 10:20 to 13:50, ; Trendy's, Redding, visit from 14:20 to 15:20, ; New China, Redding, visit from 19:21 to 20:36, ; The Forest Room, stay from 21:06 to 05:06, nearest transit: Hartnell Ave at Churn Ct, 100.85m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Las Vegas",
+    "transportation": "Self-driving from Redding to Las Vegas, duration: 756.2466666666667, distance: 1007.9322, cost : 50.0",
+    "breakfast": "Dam Burger, Redding",
+    "lunch": "Los Gordos, Redding",
+    "dinner": "Vintage Public House, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Forest Room, stay from 06:00 to 06:30, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; Dam Burger, Redding, visit from 08:00 to 08:50, ; Turtle Bay Exploration Park, Redding, visit from 09:20 to 12:50, ; Los Gordos, Redding, visit from 13:20 to 14:20, ; Vintage Public House, Redding, visit from 19:00 to 20:15, "
+  }
+]

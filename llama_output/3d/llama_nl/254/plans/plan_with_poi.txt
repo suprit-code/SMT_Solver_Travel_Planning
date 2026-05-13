@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to Seattle",
+    "transportation": "Flight Number: F2926186, from Tucson to Seattle, Departure Time: 14:48, Arrival Time: 17:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "-",
+    "accommodation": "Private Room in Townhome near Capitol Hill, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Private Room in Townhome near Capitol Hill, stay from 17:31 to 18:01, nearest transit: E Madison St & 22nd Ave E, 94.31m away; Noi Thai Cuisine, Seattle, visit from 19:00 to 20:15, ; Private Room in Townhome near Capitol Hill, stay from 20:45 to 04:45, nearest transit: E Madison St & 22nd Ave E, 94.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "The Pink Door, Seattle",
+    "dinner": "Salty's On Alki Beach, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Private Room in Townhome near Capitol Hill, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Private Room in Townhome near Capitol Hill, stay from 06:00 to 06:30, nearest transit: E Madison St & 22nd Ave E, 94.31m away; Vons 1000 Spirits, Seattle, visit from 08:12 to 09:59, ; The Pink Door, Seattle, visit from 14:00 to 15:00, ; Seattle Center, Seattle, visit from 15:30 to 19:00, ; Salty's On Alki Beach, Seattle, visit from 20:45 to 22:00, ; Private Room in Townhome near Capitol Hill, stay from 00:00 to 08:00, nearest transit: E Madison St & 22nd Ave E, 94.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Tucson",
+    "transportation": "Flight Number: F0452615, from Seattle to Tucson, Departure Time: 17:57, Arrival Time: 20:46",
+    "breakfast": "-",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "-",
+    "attraction": "Discovery Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Room in Townhome near Capitol Hill, stay from 08:30 to 09:00, nearest transit: E Madison St & 22nd Ave E, 94.31m away; Discovery Park, Seattle, visit from 09:30 to 14:00, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 14:30 to 17:27, "
+  }
+]

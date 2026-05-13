@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Baltimore",
+    "transportation": "Flight Number: F2173317, from Indianapolis to Baltimore, Departure Time: 10:18, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "Chiapparelli's Restaurant, Baltimore",
+    "dinner": "Pratt Street Ale House, Baltimore",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 12:22 to 13:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Chiapparelli's Restaurant, Baltimore, visit from 14:00 to 15:00, ; The Maryland Zoo, Baltimore, visit from 15:30 to 20:15, ; Pratt Street Ale House, Baltimore, visit from 20:45 to 22:06, ; The basement, stay from 22:36 to 06:36, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Mama's On the Half Shell, Baltimore",
+    "lunch": "Alexander's Tavern, Baltimore",
+    "dinner": "The Helmand, Baltimore",
+    "attraction": "Fort McHenry National Monument And Historic Shrine, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 07:06 to 07:36, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Mama's On the Half Shell, Baltimore, visit from 08:06 to 09:59, ; Alexander's Tavern, Baltimore, visit from 14:00 to 15:00, ; Fort McHenry National Monument And Historic Shrine, Baltimore, visit from 15:30 to 20:15, ; The Helmand, Baltimore, visit from 20:45 to 23:30, ; The basement, stay from 00:00 to 08:00, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Indianapolis",
+    "transportation": "Self-driving from Baltimore to Indianapolis, duration: 663.8933333333333, distance: 928.8094, cost : 46.0",
+    "breakfast": "-",
+    "lunch": "Gertrude's Chesapeake Kitchen, Baltimore",
+    "dinner": "Angies Seafood, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 08:30 to 09:00, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; National Aquarium, Baltimore, visit from 09:30 to 13:00, ; Gertrude's Chesapeake Kitchen, Baltimore, visit from 14:21 to 15:21, ; Angies Seafood, Baltimore, visit from 19:22 to 20:37, "
+  }
+]

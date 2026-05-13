@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Nashville",
+    "transportation": "Flight Number: F0789876, from Miami to Nashville, Departure Time: 08:40, Arrival Time: 10:03",
+    "breakfast": "-",
+    "lunch": "Henley, Nashville",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "Grand Ole Opry, Nashville",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 10:33 to 13:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Henley, Nashville, visit from 14:00 to 15:00, ; Grand Ole Opry, Nashville, visit from 15:30 to 19:00, ; Aquarium Restaurant, Nashville, visit from 19:30 to 20:45, ; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 22:38 to 06:38, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Central Bar + Kitchen, Nashville",
+    "lunch": "The Mockingbird, Nashville",
+    "dinner": "Kayne Prime, Nashville",
+    "attraction": "Ryman Auditorium, Nashville",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 07:08 to 07:38, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Central Bar + Kitchen, Nashville, visit from 08:08 to 09:29, ; The Mockingbird, Nashville, visit from 13:30 to 14:30, ; Ryman Auditorium, Nashville, visit from 15:00 to 18:30, ; Kayne Prime, Nashville, visit from 19:00 to 20:15, ; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 20:45 to 04:45, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Miami",
+    "transportation": "Flight Number: F1911298, from Nashville to Miami, Departure Time: 16:32, Arrival Time: 19:46",
+    "breakfast": "Luogo, Nashville",
+    "lunch": "The Stillery, Nashville",
+    "dinner": "-",
+    "attraction": "Ole Smoky Distillery & Yee-Haw Brewery, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 08:10 to 08:40, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Luogo, Nashville, visit from 09:10 to 10:00, ; Ole Smoky Distillery & Yee-Haw Brewery, Nashville, visit from 10:30 to 14:00, ; The Stillery, Nashville, visit from 14:30 to 15:30, "
+  }
+]

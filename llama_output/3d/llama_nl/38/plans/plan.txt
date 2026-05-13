@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-23', '2024-11-25'],
+Transportation methods between cities: ['Flight Number: F0254634, from San Diego to Seattle, Departure Time: 21:32, Arrival Time: 00:29', 'Flight Number: F2981455, from Seattle to San Diego, Departure Time: 19:20, Arrival Time: 21:48'],
+Restaurants (3 meals per day): ['Noi Thai Cuisine, Seattle', 'Dough Zone Dumpling House - Seattle International District, Seattle', 'Il Terrazzo Carmine, Seattle', 'The Capital Grille, Seattle', 'El Gaucho Seattle, Seattle', "Rocco's, Seattle", "Salty's On Alki Beach, Seattle", 'Canlis Restaurant, Seattle', '-'],
+Attractions (1 per day): ['Kerry Park, Seattle', 'Klondike Gold Rush National Historical Park, Seattle', 'Hiram M. Chittenden Locks, Seattle'],
+Accommodations (1 per city): ['Room#2 Seattle Spruce Street BnB, Seattle']

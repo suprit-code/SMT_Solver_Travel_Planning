@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Baltimore",
+    "transportation": "Flight Number: F2173317, from Indianapolis to Baltimore, Departure Time: 10:18, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Luna Del Sea Steak & Seafood Bistro, Baltimore",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 12:22 to 12:52, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; The Maryland Zoo, Baltimore, visit from 15:00 to 18:30, ; Luna Del Sea Steak & Seafood Bistro, Baltimore, visit from 19:00 to 20:15, ; The basement, stay from 22:31 to 06:31, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Angies Seafood, Baltimore",
+    "lunch": "The Helmand, Baltimore",
+    "dinner": "Amicci's, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 07:01 to 07:31, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Angies Seafood, Baltimore, visit from 08:01 to 08:51, ; National Aquarium, Baltimore, visit from 09:21 to 12:51, ; The Helmand, Baltimore, visit from 13:21 to 14:21, ; Amicci's, Baltimore, visit from 19:00 to 20:15, ; The basement, stay from 20:45 to 04:45, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Indianapolis",
+    "transportation": "Self-driving from Baltimore to Indianapolis, duration: 663.8933333333333, distance: 928.8094, cost : 46.0",
+    "breakfast": "Cypriana of Roland Park, Baltimore",
+    "lunch": "The Abbey Burger Bistro, Baltimore",
+    "dinner": "LP Steamers, Baltimore",
+    "attraction": "Federal Hill Park, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 06:00 to 06:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Cypriana of Roland Park, Baltimore, visit from 08:00 to 08:50, ; Federal Hill Park, Baltimore, visit from 09:20 to 14:00, ; The Abbey Burger Bistro, Baltimore, visit from 14:30 to 15:30, ; LP Steamers, Baltimore, visit from 19:31 to 20:46, "
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cedar Rapids to Amarillo",
+    "transportation": "Taxi from Cedar Rapids to Amarillo, duration: 969.0383333333334, distance: 1439.1213, cost : 1439.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 22:39 to 23:09, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Relaxing Place to Stay with Guest Living Room!, stay from 23:39 to 07:39, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "El Bracero Mexican Grill, Amarillo",
+    "dinner": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:09 to 08:39, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Golden Light Cafe & Cantina, Amarillo, visit from 09:10 to 10:00, ; Cadillac Ranch, Amarillo, visit from 10:30 to 14:00, ; El Bracero Mexican Grill, Amarillo, visit from 14:30 to 16:39, ; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 20:40 to 21:55, ; Relaxing Place to Stay with Guest Living Room!, stay from 22:25 to 06:25, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ol' Steakhouse Co., Corpus Christi",
+    "attraction": "-",
+    "accommodation": "Private room - Khang, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 06:55 to 07:25, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Private room - Khang, stay from 19:45 to 20:15, nearest transit: 235-Airline @ St. Marks, 143.03m away; Ol' Steakhouse Co., Corpus Christi, visit from 20:45 to 22:48, ; Private room - Khang, stay from 23:18 to 07:18, nearest transit: 235-Airline @ St. Marks, 143.03m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Andy's Kitchen, Corpus Christi",
+    "lunch": "Executive Surf Club, Corpus Christi",
+    "dinner": "Acapulco Restaurant, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "Private room - Khang, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Private room - Khang, stay from 07:48 to 08:18, nearest transit: 235-Airline @ St. Marks, 143.03m away; Andy's Kitchen, Corpus Christi, visit from 08:48 to 09:59, ; Executive Surf Club, Corpus Christi, visit from 14:00 to 15:00, ; USS Lexington Museum, Corpus Christi, visit from 15:30 to 20:15, ; Acapulco Restaurant, Corpus Christi, visit from 20:45 to 23:00, ; Private room - Khang, stay from 23:30 to 07:30, nearest transit: 235-Airline @ St. Marks, 143.03m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F3160234, from Corpus Christi to Houston, Departure Time: 10:20, Arrival Time: 11:06",
+    "breakfast": "Taqueria El Potro, Corpus Christi",
+    "lunch": "Houstons Bar and Grill, Houston",
+    "dinner": "The Breakfast Klub, Houston",
+    "attraction": "Space Center Houston, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private room - Khang, stay from 08:00 to 08:30, nearest transit: 235-Airline @ St. Marks, 143.03m away; Taqueria El Potro, Corpus Christi, visit from 09:00 to 09:50, ; #4 Northwest Victory Single BR, stay from 11:36 to 12:06, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houstons Bar and Grill, Houston, visit from 13:51 to 14:51, ; Space Center Houston, Houston, visit from 15:21 to 18:51, ; The Breakfast Klub, Houston, visit from 19:21 to 20:36, ; #4 Northwest Victory Single BR, stay from 21:06 to 07:08, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "The Original Ninfa's, Houston",
+    "lunch": "Kenny & Ziggy's New York Deli, Houston",
+    "dinner": "Market on Houston, Houston",
+    "attraction": "Holocaust Museum Houston, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:38 to 08:08, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; The Original Ninfa's, Houston, visit from 08:38 to 09:28, ; Holocaust Museum Houston, Houston, visit from 09:58 to 13:28, ; Kenny & Ziggy's New York Deli, Houston, visit from 13:58 to 14:58, ; Market on Houston, Houston, visit from 19:00 to 20:15, ; #4 Northwest Victory Single BR, stay from 20:45 to 04:45, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Cedar Rapids",
+    "transportation": "Taxi from Houston to Cedar Rapids, duration: 1161.5716666666667, distance: 1705.9161, cost : 1705.0",
+    "breakfast": "Houston's Restaurant, Houston",
+    "lunch": "-",
+    "dinner": "Houston Restaurant, Houston",
+    "attraction": "Museum of Fine Arts, Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 07:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston's Restaurant, Houston, visit from 08:00 to 08:50, ; Museum of Fine Arts, Houston, Houston, visit from 09:20 to 12:50, ; Houston Restaurant, Houston, visit from 19:00 to 20:15, "
+  }
+]

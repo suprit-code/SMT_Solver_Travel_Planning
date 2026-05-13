@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Chattanooga",
+    "transportation": "Flight Number: F3632122, from Washington to Chattanooga, Departure Time: 13:38, Arrival Time: 15:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "-",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 15:45 to 16:15, nearest transit: BONNOAK, 4223.21m away; Uncle Larry's Restaurant, Chattanooga, visit from 20:45 to 22:11, ; Cozy Stylish Studio, stay from 22:41 to 06:41, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "lunch": "Hickory Pit Bar-B-Que, Chattanooga",
+    "dinner": "Tupelo Honey Southern Kitchen & Bar, Chattanooga",
+    "attraction": "Walnut Street Bridge, Chattanooga",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 07:11 to 07:41, nearest transit: BONNOAK, 4223.21m away; The Purple Daisy Picnic Cafe, Chattanooga, visit from 08:11 to 09:01, ; Walnut Street Bridge, Chattanooga, visit from 09:31 to 13:01, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 14:30 to 15:44, ; Tupelo Honey Southern Kitchen & Bar, Chattanooga, visit from 19:45 to 21:00, ; Cozy Stylish Studio, stay from 21:30 to 05:30, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Washington",
+    "transportation": "Self-driving from Chattanooga to Washington, duration: 663.0733333333334, distance: 961.8596, cost : 48.0",
+    "breakfast": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "lunch": "Public House, Chattanooga",
+    "dinner": "Mellow Mushroom Chattanooga, Chattanooga",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 06:00 to 06:30, nearest transit: BONNOAK, 4223.21m away; Maple Street Biscuit Company - City Center, Chattanooga, visit from 08:00 to 08:50, ; Tennessee Valley Railroad Museum, Chattanooga, visit from 09:20 to 12:50, ; Public House, Chattanooga, visit from 14:30 to 15:30, ; Mellow Mushroom Chattanooga, Chattanooga, visit from 19:31 to 20:46, "
+  }
+]

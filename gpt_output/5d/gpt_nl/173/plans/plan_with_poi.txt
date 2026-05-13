@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to San Diego",
+    "transportation": "Flight Number: F1232089, from Washington to San Diego, Departure Time: 17:57, Arrival Time: 20:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Great Beach Fun and Rest in Pacific Beach!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 20:39 to 21:09, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Great Beach Fun and Rest in Pacific Beach!, stay from 21:39 to 05:39, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Great Beach Fun and Rest in Pacific Beach!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 06:09 to 06:39, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Born & Raised, San Diego, visit from 08:18 to 09:59, ; Addison Restaurant, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 19:15, ; Pacific Beach AleHouse, San Diego, visit from 19:45 to 21:00, ; Great Beach Fun and Rest in Pacific Beach!, stay from 21:30 to 05:30, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F1659027, from San Diego to Sacramento, Departure Time: 08:26, Arrival Time: 10:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 06:00 to 06:30, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Private Guest Bed 'N Bath near Downtown, stay from 10:30 to 11:00, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Capitol Park, Sacramento, visit from 11:30 to 21:00, ; Private Guest Bed 'N Bath near Downtown, stay from 21:30 to 05:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Zocalo, Sacramento",
+    "lunch": "Tres Hermanas Mexican Restaurant, Sacramento",
+    "dinner": "Localis, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Zocalo, Sacramento, visit from 08:25 to 09:15, ; Tres Hermanas Mexican Restaurant, Sacramento, visit from 13:16 to 14:16, ; Sacramento History Museum, Sacramento, visit from 14:46 to 18:16, ; Localis, Sacramento, visit from 19:00 to 20:15, ; Private Guest Bed 'N Bath near Downtown, stay from 20:45 to 05:48, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Washington",
+    "transportation": "Flight Number: F3890171, from Sacramento to Washington, Departure Time: 22:31, Arrival Time: 06:02",
+    "breakfast": "El Novillero Restaurant, Sacramento",
+    "lunch": "-",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 06:18 to 06:48, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; El Novillero Restaurant, Sacramento, visit from 08:00 to 08:50, ; Nopalitos, Sacramento, visit from 20:45 to 22:01, "
+  }
+]

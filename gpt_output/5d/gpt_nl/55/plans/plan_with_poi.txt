@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Helena to Durango",
+    "transportation": "Taxi from Helena to Durango, duration: 938.795, distance: 1407.4631000000002, cost : 1407.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "2ndWind Ranch Country Casita Outside Durango 12mi., Durango",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Casita Outside Durango 12mi., stay from 22:08 to 22:38, nearest transit: Sunnyside, 11231.77m away; 2ndWind Ranch Country Casita Outside Durango 12mi., stay from 23:08 to 07:08, nearest transit: Sunnyside, 11231.77m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Durango",
+    "transportation": "-",
+    "breakfast": "Zia Taqueria, Durango",
+    "lunch": "Diamond Belle Saloon, Durango",
+    "dinner": "Durango Joe's Coffee on College Dr., Durango",
+    "attraction": "Mild to Wild Rafting and Jeep Tours, Durango",
+    "accommodation": "2ndWind Ranch Country Casita Outside Durango 12mi., Durango",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Casita Outside Durango 12mi., stay from 07:38 to 08:08, nearest transit: Sunnyside, 11231.77m away; Zia Taqueria, Durango, visit from 09:10 to 10:00, ; Mild to Wild Rafting and Jeep Tours, Durango, visit from 10:30 to 14:00, ; Diamond Belle Saloon, Durango, visit from 14:30 to 15:30, ; Durango Joe's Coffee on College Dr., Durango, visit from 19:45 to 21:00, ; 2ndWind Ranch Country Casita Outside Durango 12mi., stay from 21:30 to 05:30, nearest transit: Sunnyside, 11231.77m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Durango to Colorado Springs",
+    "transportation": "Taxi from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost : 506.0",
+    "breakfast": "Steamworks Brewing Co, Durango",
+    "lunch": "Oscar's Cafe, Durango",
+    "dinner": "-",
+    "attraction": "Durango Rivertrippers & Adventure Tours, Durango",
+    "accommodation": "Creekside Cowboy Cabin with 360° Mountain Views, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Casita Outside Durango 12mi., stay from 06:00 to 06:30, nearest transit: Sunnyside, 11231.77m away; Steamworks Brewing Co, Durango, visit from 08:00 to 08:50, ; Durango Rivertrippers & Adventure Tours, Durango, visit from 09:20 to 12:50, ; Oscar's Cafe, Durango, visit from 13:20 to 14:20, ; Creekside Cowboy Cabin with 360° Mountain Views, stay from 21:54 to 22:24, nearest transit: Ruxton/Fairview, 10061.41m away; Creekside Cowboy Cabin with 360° Mountain Views, stay from 22:54 to 06:54, nearest transit: Ruxton/Fairview, 10061.41m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Denver Biscuit Company, Colorado Springs",
+    "lunch": "MacKenzie's Chop House, Colorado Springs",
+    "dinner": "The Melting Pot, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "Creekside Cowboy Cabin with 360° Mountain Views, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Creekside Cowboy Cabin with 360° Mountain Views, stay from 07:24 to 07:54, nearest transit: Ruxton/Fairview, 10061.41m away; Denver Biscuit Company, Colorado Springs, visit from 09:10 to 10:00, ; Seven Falls, Colorado Springs, visit from 10:30 to 14:00, ; MacKenzie's Chop House, Colorado Springs, visit from 14:30 to 15:44, ; The Melting Pot, Colorado Springs, visit from 19:45 to 21:00, ; Creekside Cowboy Cabin with 360° Mountain Views, stay from 21:30 to 05:30, nearest transit: Ruxton/Fairview, 10061.41m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Colorado Springs to Helena",
+    "transportation": "Taxi from Colorado Springs to Helena, duration: 879.4416666666667, distance: 1384.2815, cost : 1384.0",
+    "breakfast": "NaRai Thai Restaurant, Colorado Springs",
+    "lunch": "Saltgrass Steak House, Colorado Springs",
+    "dinner": "Front Range Barbeque, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Creekside Cowboy Cabin with 360° Mountain Views, stay from 06:00 to 06:30, nearest transit: Ruxton/Fairview, 10061.41m away; NaRai Thai Restaurant, Colorado Springs, visit from 08:00 to 08:50, ; Saltgrass Steak House, Colorado Springs, visit from 12:51 to 13:51, ; Garden of the Gods, Colorado Springs, visit from 14:21 to 17:51, ; Front Range Barbeque, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

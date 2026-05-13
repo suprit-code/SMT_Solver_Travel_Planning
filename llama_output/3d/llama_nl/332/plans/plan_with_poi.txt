@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Houston",
+    "transportation": "Flight Number: F1200363, from Cleveland to Houston, Departure Time: 15:30, Arrival Time: 17:21",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "-",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 17:51 to 20:15, nearest transit: Yale St @ Thornton Rd, 203.09m away; Brennan's of Houston, Houston, visit from 20:45 to 22:59, ; Modern Houston Heights Getaway, stay from 23:29 to 07:29, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Houston's Trail's End, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 07:59 to 08:29, nearest transit: Yale St @ Thornton Rd, 203.09m away; Kenny & Ziggy's New York Deli, Houston, visit from 08:59 to 09:59, ; Houston Restaurant, Houston, visit from 14:00 to 15:00, ; Cockrell Butterfly Center, Houston, visit from 15:30 to 19:00, ; Houston's Trail's End, Houston, visit from 19:30 to 20:45, ; Modern Houston Heights Getaway, stay from 21:15 to 05:15, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Cleveland",
+    "transportation": "Flight Number: F3871809, from Houston to Cleveland, Departure Time: 14:36, Arrival Time: 18:21",
+    "breakfast": "Houstons Bar and Grill, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 06:00 to 07:30, nearest transit: Yale St @ Thornton Rd, 203.09m away; Houstons Bar and Grill, Houston, visit from 08:00 to 08:50, ; Pappadeaux Seafood Kitchen, Houston, visit from 12:51 to 14:06, "
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F3511787, from Atlanta to San Diego, Departure Time: 08:21, Arrival Time: 09:54",
+    "breakfast": "-",
+    "lunch": "Mister A'S, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 10:24 to 11:30, nearest transit: Upas St & 30th St, 403.13m away; Mister A'S, San Diego, visit from 12:00 to 13:00, ; Birch Aquarium at Scripps, San Diego, visit from 13:30 to 20:15, ; Born & Raised, San Diego, visit from 20:45 to 22:44, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 23:14 to 07:14, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:44 to 08:14, nearest transit: Upas St & 30th St, 403.13m away; Juniper and Ivy, San Diego, visit from 08:44 to 09:34, ; San Diego Zoo, San Diego, visit from 10:04 to 13:34, ; Addison Restaurant, San Diego, visit from 14:30 to 16:44, ; Cowboy Star, San Diego, visit from 20:45 to 22:00, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 22:30 to 06:30, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Morning Glory, San Diego",
+    "lunch": "-",
+    "dinner": "Localis, Sacramento",
+    "attraction": "-",
+    "accommodation": "Beautiful home in W. Sacramento, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:00 to 07:30, nearest transit: Upas St & 30th St, 403.13m away; Morning Glory, San Diego, visit from 08:00 to 08:50, ; Beautiful home in W. Sacramento, stay from 19:45 to 20:15, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Localis, Sacramento, visit from 20:45 to 22:13, ; Beautiful home in W. Sacramento, stay from 22:43 to 06:43, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Il Fornaio, Sacramento",
+    "lunch": "Moxie, Sacramento",
+    "dinner": "The Firehouse Restaurant, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Beautiful home in W. Sacramento, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Beautiful home in W. Sacramento, stay from 07:13 to 07:43, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Il Fornaio, Sacramento, visit from 08:13 to 09:59, ; Moxie, Sacramento, visit from 14:00 to 15:00, ; California State Capitol Museum, Sacramento, visit from 15:30 to 19:00, ; The Firehouse Restaurant, Sacramento, visit from 19:30 to 20:45, ; Beautiful home in W. Sacramento, stay from 21:15 to 05:15, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Atlanta",
+    "transportation": "Flight Number: F2955269, from Sacramento to Atlanta, Departure Time: 12:36, Arrival Time: 20:04",
+    "breakfast": "Dawson's Steakhouse, Sacramento",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful home in W. Sacramento, stay from 06:00 to 06:30, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Dawson's Steakhouse, Sacramento, visit from 08:00 to 08:50, "
+  }
+]

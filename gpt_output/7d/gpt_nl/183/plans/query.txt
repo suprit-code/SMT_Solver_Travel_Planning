@@ -1,0 +1,1 @@
+Design a 7-day travel itinerary for 1 person starting from San Antonio and visiting 3 cities in Tennessee between November 3rd and November 9th, 2024. The budget is $7,050. The trip should avoid flights and include dining options featuring American and French cuisine.

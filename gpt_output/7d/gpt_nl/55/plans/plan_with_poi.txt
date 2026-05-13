@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Nashville",
+    "transportation": "Flight Number: F0005853, from Charleston to Nashville, Departure Time: 07:18, Arrival Time: 07:37",
+    "breakfast": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "lunch": "The Farm House, Nashville",
+    "dinner": "Adele's Nashville, Nashville",
+    "attraction": "Gaylord Opryland Garden Conservatory, Nashville",
+    "accommodation": "1.5 mile to DT & 12th South: Beautiful Studio, Nashville",
+    "event": "-",
+    "point_of_interest_list": "1.5 mile to DT & 12th South: Beautiful Studio, stay from 08:07 to 08:37, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away; Bourbon Street Blues and Boogie Bar, Nashville, visit from 09:07 to 09:57, ; The Farm House, Nashville, visit from 13:58 to 14:58, ; Gaylord Opryland Garden Conservatory, Nashville, visit from 15:28 to 18:58, ; Adele's Nashville, Nashville, visit from 19:28 to 20:43, ; 1.5 mile to DT & 12th South: Beautiful Studio, stay from 21:13 to 05:13, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "Harriet's Rooftop, Nashville",
+    "dinner": "Puckett's 5th & Church, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "1.5 mile to DT & 12th South: Beautiful Studio, Nashville",
+    "event": "-",
+    "point_of_interest_list": "1.5 mile to DT & 12th South: Beautiful Studio, stay from 06:00 to 06:30, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away; Aquarium Restaurant, Nashville, visit from 08:00 to 10:00, ; Cheekwood, Nashville, visit from 10:30 to 14:00, ; Harriet's Rooftop, Nashville, visit from 14:30 to 15:30, ; Puckett's 5th & Church, Nashville, visit from 19:31 to 20:46, ; 1.5 mile to DT & 12th South: Beautiful Studio, stay from 22:30 to 06:30, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Henley, Nashville",
+    "lunch": "The Stillery, Nashville",
+    "dinner": "-",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "The Secret Society Suite, Bristol",
+    "event": "-",
+    "point_of_interest_list": "1.5 mile to DT & 12th South: Beautiful Studio, stay from 07:00 to 07:30, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away; Henley, Nashville, visit from 08:00 to 08:50, ; Belmont Mansion, Nashville, visit from 09:20 to 12:50, ; The Stillery, Nashville, visit from 13:20 to 14:20, ; The Secret Society Suite, stay from 20:39 to 21:09, nearest transit: Cumberland St & Waters Alley, 149.61m away; The Secret Society Suite, stay from 23:24 to 07:24, nearest transit: Cumberland St & Waters Alley, 149.61m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Little Bristol Beach Bar, Bristol",
+    "lunch": "Cafe Bristol, Bristol",
+    "dinner": "Bravas, Bristol",
+    "attraction": "Clifton Suspension Bridge, Bristol",
+    "accommodation": "The Secret Society Suite, Bristol",
+    "event": "-",
+    "point_of_interest_list": "The Secret Society Suite, stay from 07:54 to 08:24, nearest transit: Cumberland St & Waters Alley, 149.61m away; Little Bristol Beach Bar, Bristol, visit from 08:54 to 09:44, ; Clifton Suspension Bridge, Bristol, visit from 10:14 to 13:44, ; Cafe Bristol, Bristol, visit from 14:14 to 15:14, ; Bravas, Bristol, visit from 19:15 to 20:30, ; The Secret Society Suite, stay from 21:30 to 05:30, nearest transit: Cumberland St & Waters Alley, 149.61m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Fishers Restaurant - Bristol, Bristol",
+    "lunch": "Baba Ganoush Kitchen - Jerusalem Falafel, Bristol",
+    "dinner": "Hickory Pit Bar-B-Que, Chattanooga",
+    "attraction": "Wills Memorial Building And Tower Tours, Bristol",
+    "accommodation": "The Overlook Cabin: Breath-taking Views & King Bed, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "The Secret Society Suite, stay from 06:00 to 06:30, nearest transit: Cumberland St & Waters Alley, 149.61m away; Fishers Restaurant - Bristol, Bristol, visit from 08:00 to 08:50, ; Wills Memorial Building And Tower Tours, Bristol, visit from 09:36 to 13:06, ; Baba Ganoush Kitchen - Jerusalem Falafel, Bristol, visit from 13:36 to 14:36, ; The Overlook Cabin: Breath-taking Views & King Bed, stay from 19:45 to 20:15, nearest transit: N Point Blvd & Lowe's, 20172.75m away; Hickory Pit Bar-B-Que, Chattanooga, visit from 20:45 to 22:21, ; The Overlook Cabin: Breath-taking Views & King Bed, stay from 22:51 to 06:51, nearest transit: N Point Blvd & Lowe's, 20172.75m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Firebirds Wood Fired Grill, Chattanooga",
+    "lunch": "Public House, Chattanooga",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "The Overlook Cabin: Breath-taking Views & King Bed, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "The Overlook Cabin: Breath-taking Views & King Bed, stay from 07:21 to 07:51, nearest transit: N Point Blvd & Lowe's, 20172.75m away; Firebirds Wood Fired Grill, Chattanooga, visit from 08:21 to 10:00, ; Coolidge Park, Chattanooga, visit from 10:30 to 14:00, ; Public House, Chattanooga, visit from 14:30 to 15:30, ; Uncle Larry's Restaurant, Chattanooga, visit from 19:31 to 20:46, ; The Overlook Cabin: Breath-taking Views & King Bed, stay from 21:16 to 05:16, nearest transit: N Point Blvd & Lowe's, 20172.75m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Charleston",
+    "transportation": "Taxi from Chattanooga to Charleston, duration: 481.5883333333333, distance: 671.6777, cost : 671.0",
+    "breakfast": "-",
+    "lunch": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "dinner": "La Cabriole, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Overlook Cabin: Breath-taking Views & King Bed, stay from 06:00 to 06:30, nearest transit: N Point Blvd & Lowe's, 20172.75m away; Tennessee Aquarium, Chattanooga, visit from 09:00 to 12:30, ; The Purple Daisy Picnic Cafe, Chattanooga, visit from 13:00 to 14:00, ; La Cabriole, Chattanooga, visit from 19:00 to 20:15, "
+  }
+]

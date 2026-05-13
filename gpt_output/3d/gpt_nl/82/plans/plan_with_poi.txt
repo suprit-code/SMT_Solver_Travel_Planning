@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Fort Wayne",
+    "transportation": "Flight Number: F1728459, from Dallas to Fort Wayne, Departure Time: 16:51, Arrival Time: 20:24",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Airy Studio Near Downtown, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 20:54 to 21:24, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away; Airy Studio Near Downtown, stay from 21:54 to 05:54, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Fort Wayne",
+    "transportation": "-",
+    "breakfast": "Han Dynasty, Fort Wayne",
+    "lunch": "Fort Wayne's Famous Coney Island, Fort Wayne",
+    "dinner": "The Bluebird Restaurant, Fort Wayne",
+    "attraction": "Fort Wayne Museum of Art, Fort Wayne",
+    "accommodation": "Airy Studio Near Downtown, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 06:24 to 06:54, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away; Han Dynasty, Fort Wayne, visit from 08:31 to 09:21, ; Fort Wayne Museum of Art, Fort Wayne, visit from 09:51 to 14:00, ; Fort Wayne's Famous Coney Island, Fort Wayne, visit from 14:30 to 15:30, ; The Bluebird Restaurant, Fort Wayne, visit from 19:31 to 20:46, ; Airy Studio Near Downtown, stay from 21:16 to 05:16, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Fort Wayne to Dallas",
+    "transportation": "Flight Number: F1752275, from Fort Wayne to Dallas, Departure Time: 08:36, Arrival Time: 10:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 06:00 to 08:06, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away"
+  }
+]

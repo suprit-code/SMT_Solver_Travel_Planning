@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Seattle",
+    "transportation": "Flight Number: F1078799, from Houston to Seattle, Departure Time: 09:39, Arrival Time: 12:22",
+    "breakfast": "-",
+    "lunch": "Spinasse, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "Detached Private Guest Cottage in Sought-After Neighborhood, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Detached Private Guest Cottage in Sought-After Neighborhood, stay from 12:52 to 13:30, nearest transit: 6th Ave W & W Galer St, 148.02m away; Spinasse, Seattle, visit from 14:00 to 15:00, ; Klondike Gold Rush National Historical Park, Seattle, visit from 15:30 to 20:15, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 20:45 to 23:01, ; Detached Private Guest Cottage in Sought-After Neighborhood, stay from 23:31 to 07:31, nearest transit: 6th Ave W & W Galer St, 148.02m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Metropolitan Grill, Seattle",
+    "lunch": "Salty's On Alki Beach, Seattle",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Detached Private Guest Cottage in Sought-After Neighborhood, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Detached Private Guest Cottage in Sought-After Neighborhood, stay from 08:01 to 08:31, nearest transit: 6th Ave W & W Galer St, 148.02m away; Metropolitan Grill, Seattle, visit from 09:01 to 09:51, ; Salty's On Alki Beach, Seattle, visit from 13:52 to 14:52, ; Woodland Park Zoo, Seattle, visit from 15:22 to 18:52, ; Il Terrazzo Carmine, Seattle, visit from 19:22 to 20:37, ; Detached Private Guest Cottage in Sought-After Neighborhood, stay from 21:07 to 05:30, nearest transit: 6th Ave W & W Galer St, 148.02m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Houston",
+    "transportation": "Flight Number: F0811129, from Seattle to Houston, Departure Time: 17:31, Arrival Time: 23:28",
+    "breakfast": "The Capital Grille, Seattle",
+    "lunch": "El Gaucho Seattle, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Detached Private Guest Cottage in Sought-After Neighborhood, stay from 06:00 to 06:30, nearest transit: 6th Ave W & W Galer St, 148.02m away; The Capital Grille, Seattle, visit from 08:00 to 08:50, ; Seattle Aquarium, Seattle, visit from 09:20 to 12:50, ; El Gaucho Seattle, Seattle, visit from 13:20 to 17:01, "
+  }
+]

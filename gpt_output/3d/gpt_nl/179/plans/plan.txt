@@ -1,0 +1,6 @@
+Destination cities: ['Houston'],
+Transportation dates: ['2024-11-01', '2024-11-03'],
+Transportation methods between cities: ['Flight Number: F3451692, from Boston to Houston, Departure Time: 05:27, Arrival Time: 08:46', 'Flight Number: F0555008, from Houston to Boston, Departure Time: 17:26, Arrival Time: 21:58'],
+Restaurants (3 meals per day): ["Brenner's on the Bayou, Houston", 'Pappas Bros. Steakhouse, Houston', "Kenny & Ziggy's New York Deli, Houston", 'Taste of Texas, Houston', "Eddie V's Prime Seafood, Houston", 'Fogo de Chao Brazilian Steakhouse, Houston', 'Houston Restaurant, Houston', "Brennan's of Houston, Houston", '-'],
+Attractions (1 per day): ['Cockrell Butterfly Center, Houston', 'Discovery Green, Houston', 'Hermann Park, Houston'],
+Accommodations (1 per city): ['Heights Craftsman Bungalow in the Trees, Houston']

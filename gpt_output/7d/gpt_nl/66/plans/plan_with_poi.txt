@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to San Diego",
+    "transportation": "Flight Number: F2624868, from Nashville to San Diego, Departure Time: 11:44, Arrival Time: 13:53",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "Torrey Pines State Natural Reserve, San Diego",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 14:23 to 14:53, nearest transit: 30th St & A St, 427.5m away; Torrey Pines State Natural Reserve, San Diego, visit from 15:23 to 18:53, ; Lou & Mickey's, San Diego, visit from 19:23 to 20:38, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 21:08 to 05:08, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 06:00 to 06:30, nearest transit: 30th St & A St, 427.5m away; Juniper and Ivy, San Diego, visit from 09:09 to 10:00, ; La Jolla Shores Park, San Diego, visit from 10:30 to 14:00, ; Born & Raised, San Diego, visit from 14:30 to 15:30, ; Pacific Beach AleHouse, San Diego, visit from 19:31 to 20:46, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 21:16 to 05:16, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Taxi from San Diego to Los Angeles, duration: 142.59166666666667, distance: 193.5707, cost : 193.0",
+    "breakfast": "Addison Restaurant, San Diego",
+    "lunch": "Morning Glory, San Diego",
+    "dinner": "Yang Chow, Los Angeles",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 06:00 to 06:30, nearest transit: 30th St & A St, 427.5m away; Addison Restaurant, San Diego, visit from 08:00 to 10:00, ; San Diego Zoo, San Diego, visit from 10:30 to 14:00, ; Morning Glory, San Diego, visit from 14:30 to 15:30, ; Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 18:52 to 20:15, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away; Yang Chow, Los Angeles, visit from 20:45 to 22:32, ; Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 23:02 to 07:02, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Water Grill, Los Angeles",
+    "lunch": "22nd Street Landing Seafood Grill & Bar, Los Angeles",
+    "dinner": "Spire 73, Los Angeles",
+    "attraction": "-",
+    "accommodation": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 07:32 to 08:02, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away; Water Grill, Los Angeles, visit from 08:32 to 09:22, ; 22nd Street Landing Seafood Grill & Bar, Los Angeles, visit from 14:00 to 15:00, ; Spire 73, Los Angeles, visit from 19:45 to 21:00, ; Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 21:30 to 05:30, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Flight Number: F0589199, from Los Angeles to San Francisco, Departure Time: 16:23, Arrival Time: 17:34",
+    "breakfast": "Republique, Los Angeles",
+    "lunch": "Raffaello Ristorante, Los Angeles",
+    "dinner": "Waterbar, San Francisco",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "Peaceful Studio in the Trees, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 06:00 to 06:30, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away; Republique, Los Angeles, visit from 08:00 to 08:50, ; Griffith Park, Los Angeles, visit from 10:03 to 13:33, ; Raffaello Ristorante, Los Angeles, visit from 14:03 to 15:03, ; Peaceful Studio in the Trees, stay from 18:04 to 18:34, nearest transit: Civic Center BART (9th and Market), 2057.84m away; Waterbar, San Francisco, visit from 19:04 to 20:19, ; Peaceful Studio in the Trees, stay from 20:49 to 04:49, nearest transit: Civic Center BART (9th and Market), 2057.84m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Kokkari Estiatorio, San Francisco",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "dinner": "Quince, San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Peaceful Studio in the Trees, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Peaceful Studio in the Trees, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 2057.84m away; Kokkari Estiatorio, San Francisco, visit from 09:10 to 10:00, ; Lands End, San Francisco, visit from 10:30 to 14:00, ; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 14:30 to 15:30, ; Quince, San Francisco, visit from 19:31 to 20:46, ; Peaceful Studio in the Trees, stay from 00:00 to 08:00, nearest transit: Civic Center BART (9th and Market), 2057.84m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to Nashville",
+    "transportation": "Flight Number: F2417567, from San Francisco to Nashville, Departure Time: 10:56, Arrival Time: 18:07",
+    "breakfast": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Peaceful Studio in the Trees, stay from 08:30 to 09:00, nearest transit: Civic Center BART (9th and Market), 2057.84m away; Harris' Restaurant - The San Francisco Steakhouse, San Francisco, visit from 09:30 to 10:20, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Nashville'],
+Transportation dates: ['2024-11-14', '2024-11-16'],
+Transportation methods between cities: ['Flight Number: F3038646, from Los Angeles to Nashville, Departure Time: 05:44, Arrival Time: 11:33', 'Flight Number: F2020410, from Nashville to Los Angeles, Departure Time: 16:49, Arrival Time: 19:14'],
+Restaurants (3 meals per day): ['-', 'Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville', "Jeff Ruby's Steakhouse, Nashville, Nashville", 'Henley, Nashville', 'The Bluebird Cafe, Nashville', 'Luogo, Nashville', "Puckett's 5th & Church, Nashville", 'Kayne Prime, Nashville', 'Aquarium Restaurant, Nashville'],
+Attractions (1 per day): ['Gaylord Opryland Garden Conservatory, Nashville', 'Belmont Mansion, Nashville', 'Centennial Park, Nashville'],
+Accommodations (1 per city): ['Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville']

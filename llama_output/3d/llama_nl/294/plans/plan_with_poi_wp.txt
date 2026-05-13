@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to San Francisco",
+    "transportation": "Flight Number: F3816303, from Boise to San Francisco, Departure Time: 07:36, Arrival Time: 08:22",
+    "breakfast": "-",
+    "lunch": "Scoma's Restaurant, San Francisco",
+    "dinner": "Original Joe's, San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Glorious Room in Victorian Home, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Glorious Room in Victorian Home, stay from 08:52 to 09:22, nearest transit: Civic Center BART (9th and Market), 1469.83m away; Scoma's Restaurant, San Francisco, visit from 14:00 to 15:00, ; Lands End, San Francisco, visit from 15:30 to 20:15, ; Original Joe's, San Francisco, visit from 20:45 to 22:28, ; Glorious Room in Victorian Home, stay from 22:58 to 06:58, nearest transit: Civic Center BART (9th and Market), 1469.83m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Mo's Grill, San Francisco",
+    "lunch": "Waterbar, San Francisco",
+    "dinner": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "attraction": "Japanese Tea Garden, San Francisco",
+    "accommodation": "Glorious Room in Victorian Home, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Glorious Room in Victorian Home, stay from 07:28 to 07:58, nearest transit: Civic Center BART (9th and Market), 1469.83m away; Mo's Grill, San Francisco, visit from 08:28 to 09:29, ; Waterbar, San Francisco, visit from 13:30 to 14:30, ; Japanese Tea Garden, San Francisco, visit from 15:00 to 18:30, ; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 19:00 to 20:15, ; Glorious Room in Victorian Home, stay from 20:45 to 05:30, nearest transit: Civic Center BART (9th and Market), 1469.83m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Boise",
+    "transportation": "Flight Number: F2351520, from San Francisco to Boise, Departure Time: 18:21, Arrival Time: 20:54",
+    "breakfast": "House of Prime Rib, San Francisco",
+    "lunch": "Kokkari Estiatorio, San Francisco",
+    "dinner": "-",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Glorious Room in Victorian Home, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 1469.83m away; House of Prime Rib, San Francisco, visit from 08:00 to 08:50, ; Golden Gate Park, San Francisco, visit from 09:20 to 12:50, ; Kokkari Estiatorio, San Francisco, visit from 14:30 to 16:46, "
+  }
+]

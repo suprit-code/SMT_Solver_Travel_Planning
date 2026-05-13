@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F0254634, from San Diego to Seattle, Departure Time: 21:32, Arrival Time: 00:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Inviting heart of Seattle hidaway, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Inviting heart of Seattle hidaway, stay from 00:59 to 01:29, nearest transit: 3rd Ave & Bell St, 135.88m away; Inviting heart of Seattle hidaway, stay from 01:59 to 08:00, nearest transit: 3rd Ave & Bell St, 135.88m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Il Terrazzo Carmine, Seattle",
+    "lunch": "Rocco's, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "-",
+    "accommodation": "Inviting heart of Seattle hidaway, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Inviting heart of Seattle hidaway, stay from 08:30 to 09:00, nearest transit: 3rd Ave & Bell St, 135.88m away; Il Terrazzo Carmine, Seattle, visit from 09:38 to 10:28, ; Rocco's, Seattle, visit from 14:29 to 15:29, ; Noi Thai Cuisine, Seattle, visit from 19:30 to 20:45, ; Inviting heart of Seattle hidaway, stay from 21:15 to 05:15, nearest transit: 3rd Ave & Bell St, 135.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F0895129, from Seattle to San Diego, Departure Time: 19:18, Arrival Time: 21:37",
+    "breakfast": "Spinasse, Seattle",
+    "lunch": "Vons 1000 Spirits, Seattle",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Inviting heart of Seattle hidaway, stay from 06:00 to 06:30, nearest transit: 3rd Ave & Bell St, 135.88m away; Spinasse, Seattle, visit from 08:00 to 08:50, ; Vons 1000 Spirits, Seattle, visit from 12:51 to 14:48, ; Klondike Gold Rush National Historical Park, Seattle, visit from 15:18 to 18:48, "
+  }
+]

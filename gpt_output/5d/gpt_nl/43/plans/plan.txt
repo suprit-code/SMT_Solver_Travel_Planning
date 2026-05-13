@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-21', '2024-11-23', '2024-11-25'],
+Transportation methods between cities: ['Self-driving, from Boise to San Diego, duration: 1058.236666666667, distance: 1533.7257, cost: 76', 'Self-driving, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 53', 'Self-driving, from Redding to Boise, duration: 689.16, distance: 840.3919000000001, cost: 42'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Buon Appetito, San Diego', "Mister A'S, San Diego", 'World Famous, San Diego', 'Din Tai Fung, San Diego', 'Pacific Beach AleHouse, San Diego', "Lou & Mickey's, San Diego", 'New China, Redding', 'Los Gordos, Redding', 'Dam Burger, Redding', 'Champa Garden, Redding', "Trendy's, Redding", 'Market Street Steakhouse, Redding'],
+Attractions (1 per day): ['-', 'Birch Aquarium at Scripps, San Diego', 'USS Midway Museum, San Diego', 'Sundial Bridge, Redding', 'Turtle Bay Exploration Park, Redding'],
+Accommodations (1 per city): ['Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego', 'Relax and Enjoy!, Redding']

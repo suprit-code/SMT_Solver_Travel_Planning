@@ -1,0 +1,6 @@
+Destination cities: ['Hartford'],
+Transportation dates: ['2024-11-10', '2024-11-12'],
+Transportation methods between cities: ['taxi, from Washington to Hartford, duration: 426.4883333333333, distance: 540.9555, cost: 540', 'Flight Number: F0527373, from Hartford to Washington, Departure Time: 10:20, Arrival Time: 11:37'],
+Restaurants (3 meals per day): ['-', '-', '-', 'The Capital Grille, Hartford', "Max's Oyster Bar, Hartford", 'Max Downtown, Hartford', 'Hartford Baking Company, Hartford', '-', '-'],
+Attractions (1 per day): ['-', 'Hartford Stage, Hartford', '-'],
+Accommodations (1 per city): ['The Silhouette in Hartford, Hartford']

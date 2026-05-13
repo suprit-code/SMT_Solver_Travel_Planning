@@ -1,0 +1,6 @@
+Destination cities: ['Fort Wayne'],
+Transportation dates: ['2024-11-17', '2024-11-19'],
+Transportation methods between cities: ['Flight Number: F0373120, from Las Vegas to Fort Wayne, Departure Time: 23:24, Arrival Time: 06:06', 'Flight Number: F2558843, from Fort Wayne to Las Vegas, Departure Time: 13:16, Arrival Time: 14:01'],
+Restaurants (3 meals per day): ['-', 'Casa Ristorante, Fort Wayne', "Fort Wayne's Famous Coney Island, Fort Wayne", '800 Degrees Wood Fired Pizza, Fort Wayne', 'Copper Spoon, Fort Wayne', 'Agaves Mexican Grill, Fort Wayne', 'The Bluebird Restaurant, Fort Wayne', '-', '-'],
+Attractions (1 per day): ['Fort Wayne Museum of Art, Fort Wayne', 'Fort Wayne Firefighters Museum, Fort Wayne', '-'],
+Accommodations (1 per city): ['Airy Studio Near Downtown, Fort Wayne']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Charlotte",
+    "transportation": "Flight Number: F3250894, from Dallas to Charlotte, Departure Time: 04:53, Arrival Time: 08:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "Modern Walkable Uptown Flat- 7 blocks to Panthers, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 08:43 to 09:13, nearest transit: Graham St & 10th St, 28.34m away; Discovery Place Science, Charlotte, visit from 15:30 to 20:15, ; Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 20:45 to 04:45, nearest transit: Graham St & 10th St, 28.34m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Mac's Speed Shop, Charlotte",
+    "lunch": "The Charlotte Hotel & Restaurant, Charlotte",
+    "dinner": "Charlotte's Eats and Sweets, Charlotte",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "Modern Walkable Uptown Flat- 7 blocks to Panthers, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 06:00 to 06:30, nearest transit: Graham St & 10th St, 28.34m away; Mac's Speed Shop, Charlotte, visit from 08:15 to 09:05, ; Mint Museum Uptown, Charlotte, visit from 09:35 to 13:05, ; The Charlotte Hotel & Restaurant, Charlotte, visit from 13:35 to 14:35, ; Charlotte's Eats and Sweets, Charlotte, visit from 19:00 to 20:15, ; Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 20:45 to 04:45, nearest transit: Graham St & 10th St, 28.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Dallas",
+    "transportation": "Flight Number: F3663608, from Charlotte to Dallas, Departure Time: 22:54, Arrival Time: 00:48",
+    "breakfast": "Pinky's Westside Grill, Charlotte",
+    "lunch": "Charlotte's, Charlotte",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 06:00 to 06:30, nearest transit: Graham St & 10th St, 28.34m away; Pinky's Westside Grill, Charlotte, visit from 08:00 to 08:50, ; Charlotte's, Charlotte, visit from 14:30 to 20:42, "
+  }
+]

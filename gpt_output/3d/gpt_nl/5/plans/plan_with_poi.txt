@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sacramento to Atlanta",
+    "transportation": "Flight Number: F0311431, from Sacramento to Atlanta, Departure Time: 06:54, Arrival Time: 13:55",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 14:25 to 14:55, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Zoo Atlanta, Atlanta, visit from 15:30 to 20:15, ; Home Grown, Atlanta, visit from 20:45 to 22:21, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 22:51 to 06:51, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Aviva by Kameel, Atlanta",
+    "lunch": "Bangkok Station, Atlanta",
+    "dinner": "Fox Bros. Bar-B-Q, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 07:21 to 07:51, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Aviva by Kameel, Atlanta, visit from 08:21 to 09:11, ; Georgia Aquarium, Atlanta, visit from 09:41 to 13:11, ; Bangkok Station, Atlanta, visit from 13:41 to 14:41, ; Fox Bros. Bar-B-Q, Atlanta, visit from 19:00 to 20:15, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 20:45 to 04:45, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Sacramento",
+    "transportation": "Flight Number: F2495358, from Atlanta to Sacramento, Departure Time: 16:56, Arrival Time: 18:38",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "-",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 06:00 to 06:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Cafe Agora, Atlanta, visit from 09:10 to 10:00, ; Atlanta History Center, Atlanta, visit from 10:30 to 14:00, ; Steamhouse Lounge, Atlanta, visit from 14:30 to 16:26, "
+  }
+]

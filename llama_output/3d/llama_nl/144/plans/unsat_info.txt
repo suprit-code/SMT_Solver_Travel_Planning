@@ -1,0 +1,9 @@
+not ok
+Unsatisfiable core:
+driving is possible for transportation 1
+valid attraction index
+attraction in which city
+valid accomodation index
+room type exists
+flight, self-driving, and taxi not simultaneously for second transportation
+visit city in cities list

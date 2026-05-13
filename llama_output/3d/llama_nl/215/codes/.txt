@@ -1,0 +1,21 @@
+
+    # Run HouseRuleSearch to get house rules info for city_0
+    house_rules_info = HouseRuleSearch(city_0)
+    
+    # Set 'house_rule' variables for house rules ['No children under 10', 'No parties', 'No pets', 'No smoking', 'No visitors']
+    house_rules = ['No children under 10', 'No parties', 'No pets', 'No smoking', 'No visitors']
+    
+    # For each 'house_rule' variable, assert it to be either allowed or not allowed based on house rules info
+    for house_rule in house_rules:
+        if house_rule in house_rules_info.allowed:
+            assert house_rules_info.allowed[house_rule], f"House rule '{house_rule}' is allowed but not allowed according to house rules info"
+        else:
+            assert not house_rules_info.allowed[house_rule], f"House rule '{house_rule}' is not allowed but allowed according to house rules info"
+    
+    
+    In this code:
+    
+    - We first run the `HouseRuleSearch` function to get the house rules info for `city_0`.
+    - We then define a list of house rules.
+    - We use a `for` loop to iterate over each house rule.
+    - For each house rule, we check if it is in the `allowed` dictionary of the house rules info. If it is, we assert that the corresponding value is `False` (i.e., the house rule is not allowed). If it is not, we assert that the corresponding value is `True` (i.e., the house rule is allowed).

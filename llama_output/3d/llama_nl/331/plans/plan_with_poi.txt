@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sitka to Seattle",
+    "transportation": "Flight Number: F2878676, from Sitka to Seattle, Departure Time: 13:45, Arrival Time: 17:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "-",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 17:33 to 18:03, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 20:45 to 22:06, ; Ballard Greenwood Private Suite, stay from 22:36 to 06:36, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Rocco's, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "Chan Seattle, Seattle",
+    "attraction": "Museum of Pop Culture, Seattle",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 07:06 to 07:36, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Rocco's, Seattle, visit from 08:06 to 09:29, ; Museum of Pop Culture, Seattle, visit from 09:59 to 13:29, ; Noi Thai Cuisine, Seattle, visit from 13:59 to 14:59, ; Chan Seattle, Seattle, visit from 19:00 to 23:30, ; Ballard Greenwood Private Suite, stay from 00:00 to 08:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Sitka",
+    "transportation": "Flight Number: F2337064, from Seattle to Sitka, Departure Time: 17:12, Arrival Time: 18:31",
+    "breakfast": "The Crab Pot Seafood Restaurant, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:30 to 09:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; The Crab Pot Seafood Restaurant, Seattle, visit from 09:30 to 10:20, ; Klondike Gold Rush National Historical Park, Seattle, visit from 10:50 to 16:42, "
+  }
+]

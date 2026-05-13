@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Seattle",
+    "transportation": "Flight Number: F2880336, from Charleston to Seattle, Departure Time: 19:15, Arrival Time: 22:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Room#2 Seattle Spruce Street BnB, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Room#2 Seattle Spruce Street BnB, stay from 22:48 to 23:30, nearest transit: E Yesler Way & 17th Ave, 126.21m away; Room#2 Seattle Spruce Street BnB, stay from 00:00 to 08:00, nearest transit: E Yesler Way & 17th Ave, 126.21m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "El Gaucho Seattle, Seattle",
+    "lunch": "Spinasse, Seattle",
+    "dinner": "Salty's On Alki Beach, Seattle",
+    "attraction": "-",
+    "accommodation": "Room#2 Seattle Spruce Street BnB, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Room#2 Seattle Spruce Street BnB, stay from 08:30 to 09:00, nearest transit: E Yesler Way & 17th Ave, 126.21m away; El Gaucho Seattle, Seattle, visit from 09:39 to 10:29, ; Spinasse, Seattle, visit from 14:30 to 16:44, ; Salty's On Alki Beach, Seattle, visit from 20:45 to 22:39, ; Room#2 Seattle Spruce Street BnB, stay from 23:09 to 07:09, nearest transit: E Yesler Way & 17th Ave, 126.21m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Charleston",
+    "transportation": "Flight Number: F1974763, from Seattle to Charleston, Departure Time: 09:59, Arrival Time: 18:23",
+    "breakfast": "Six Seven Restaurant, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room#2 Seattle Spruce Street BnB, stay from 07:39 to 08:09, nearest transit: E Yesler Way & 17th Ave, 126.21m away; Six Seven Restaurant, Seattle, visit from 08:39 to 09:29, "
+  }
+]

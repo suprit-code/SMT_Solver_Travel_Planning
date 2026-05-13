@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F2400925, from Everett to San Diego, Departure Time: 09:16, Arrival Time: 11:54",
+    "breakfast": "-",
+    "lunch": "Vessel Restaurant + Bar, San Diego",
+    "dinner": "Mister A'S, San Diego",
+    "attraction": "Balboa Park, San Diego",
+    "accommodation": "Bed in 4-Bed room in Stylish Hostel, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 12:24 to 12:54, nearest transit: Cable St & Newport Av, 118.17m away; Vessel Restaurant + Bar, San Diego, visit from 13:24 to 14:24, ; Balboa Park, San Diego, visit from 14:54 to 18:24, ; Mister A'S, San Diego, visit from 20:45 to 22:36, ; Bed in 4-Bed room in Stylish Hostel, stay from 23:06 to 07:06, nearest transit: Cable St & Newport Av, 118.17m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Din Tai Fung, San Diego",
+    "dinner": "El Agave Restaurant & Tequileria, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Bed in 4-Bed room in Stylish Hostel, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 07:36 to 08:06, nearest transit: Cable St & Newport Av, 118.17m away; Pacific Beach AleHouse, San Diego, visit from 08:36 to 09:59, ; Din Tai Fung, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 20:15, ; El Agave Restaurant & Tequileria, San Diego, visit from 20:45 to 22:00, ; Bed in 4-Bed room in Stylish Hostel, stay from 22:30 to 06:30, nearest transit: Cable St & Newport Av, 118.17m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Central, 65\" TV, Kitchen, Fast Wi-Fi | Red Room, Redding",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 07:00 to 07:30, nearest transit: Cable St & Newport Av, 118.17m away; Mimmo's, San Diego, visit from 08:00 to 08:50, ; Central, 65\" TV, Kitchen, Fast Wi-Fi | Red Room, stay from 22:04 to 22:34, nearest transit: Hilltop Dr at Palisades Ave, 611.35m away; Central, 65\" TV, Kitchen, Fast Wi-Fi | Red Room, stay from 23:04 to 07:04, nearest transit: Hilltop Dr at Palisades Ave, 611.35m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "deja vu, Redding",
+    "lunch": "Dam Burger, Redding",
+    "dinner": "Kobe Seafood & Steakhouse, Redding",
+    "attraction": "Redding Civic Auditorium, Redding",
+    "accommodation": "Central, 65\" TV, Kitchen, Fast Wi-Fi | Red Room, Redding",
+    "event": "-",
+    "point_of_interest_list": "Central, 65\" TV, Kitchen, Fast Wi-Fi | Red Room, stay from 07:34 to 08:04, nearest transit: Hilltop Dr at Palisades Ave, 611.35m away; deja vu, Redding, visit from 08:56 to 09:46, ; Dam Burger, Redding, visit from 13:47 to 14:47, ; Redding Civic Auditorium, Redding, visit from 15:17 to 18:47, ; Kobe Seafood & Steakhouse, Redding, visit from 19:17 to 20:32, ; Central, 65\" TV, Kitchen, Fast Wi-Fi | Red Room, stay from 21:02 to 05:02, nearest transit: Hilltop Dr at Palisades Ave, 611.35m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Everett",
+    "transportation": "Taxi from Redding to Everett, duration: 735.17, distance: 1000.015, cost : 1000.0",
+    "breakfast": "View 202, Redding",
+    "lunch": "Jack's Grill, Redding",
+    "dinner": "Los Gordos, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Central, 65\" TV, Kitchen, Fast Wi-Fi | Red Room, stay from 06:00 to 06:30, nearest transit: Hilltop Dr at Palisades Ave, 611.35m away; View 202, Redding, visit from 08:00 to 08:50, ; Jack's Grill, Redding, visit from 12:51 to 13:51, ; Turtle Bay Exploration Park, Redding, visit from 14:21 to 18:30, ; Los Gordos, Redding, visit from 19:00 to 20:15, "
+  }
+]

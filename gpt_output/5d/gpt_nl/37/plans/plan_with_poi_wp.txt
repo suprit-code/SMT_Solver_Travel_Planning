@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Lynchburg to Greensboro",
+    "transportation": "Self-driving from Lynchburg to Greensboro, duration: 143.46166666666667, distance: 183.1366, cost : 9.0",
+    "breakfast": "-",
+    "lunch": "Stamey's Barbecue, Greensboro",
+    "dinner": "Print Works Bistro, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 13:00 to 13:30, nearest transit: Merritt/Clifton, 637.24m away; Stamey's Barbecue, Greensboro, visit from 14:00 to 15:00, ; Carolina Theatre, Greensboro, visit from 15:30 to 20:15, ; Print Works Bistro, Greensboro, visit from 20:45 to 22:02, ; ⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 22:32 to 06:32, nearest transit: Merritt/Clifton, 637.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Golden Wok, Greensboro",
+    "lunch": "Captain Bill's Seafood & Steak, Greensboro",
+    "dinner": "Mythos Grill, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 07:02 to 07:32, nearest transit: Merritt/Clifton, 637.24m away; Golden Wok, Greensboro, visit from 08:02 to 09:59, ; Captain Bill's Seafood & Steak, Greensboro, visit from 14:00 to 15:00, ; Ambleside Gallery, Greensboro, visit from 15:30 to 19:00, ; Mythos Grill, Greensboro, visit from 19:30 to 20:45, ; ⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 22:30 to 06:30, nearest transit: Merritt/Clifton, 637.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Self-driving from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 16.0",
+    "breakfast": "Salvino Cucina Italiana Restaurant, Greensboro",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Dockside at The Cove, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 07:00 to 07:30, nearest transit: Merritt/Clifton, 637.24m away; Salvino Cucina Italiana Restaurant, Greensboro, visit from 08:00 to 08:50, ; Dockside at The Cove, stay from 13:48 to 15:00, nearest transit: Harnett St WB at Live Oak Bank Pavilion, 251.42m away; Burgwin-Wright House and Gardens, Wilmington, visit from 15:30 to 19:00, ; Dockside at The Cove, stay from 19:30 to 06:51, nearest transit: Harnett St WB at Live Oak Bank Pavilion, 251.42m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "lunch": "Catch, Wilmington",
+    "dinner": "Ruth's Chris Steak House, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "Dockside at The Cove, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Dockside at The Cove, stay from 07:21 to 07:51, nearest transit: Harnett St WB at Live Oak Bank Pavilion, 251.42m away; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 08:21 to 09:11, ; Battleship North Carolina, Wilmington, visit from 09:41 to 14:00, ; Catch, Wilmington, visit from 14:30 to 15:30, ; Ruth's Chris Steak House, Wilmington, visit from 19:31 to 20:46, ; Dockside at The Cove, stay from 21:16 to 05:16, nearest transit: Harnett St WB at Live Oak Bank Pavilion, 251.42m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Lynchburg",
+    "transportation": "Self-driving from Wilmington to Lynchburg, duration: 337.39666666666665, distance: 448.5329, cost : 22.0",
+    "breakfast": "Fork N Cork, Wilmington",
+    "lunch": "The Peppered Cupcake, Wilmington",
+    "dinner": "Hieronymus Seafood Restaurant & Oyster Bar, Wilmington",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Dockside at The Cove, stay from 06:00 to 06:30, nearest transit: Harnett St WB at Live Oak Bank Pavilion, 251.42m away; Fork N Cork, Wilmington, visit from 08:00 to 08:50, ; The Peppered Cupcake, Wilmington, visit from 13:00 to 14:00, ; Hieronymus Seafood Restaurant & Oyster Bar, Wilmington, visit from 19:00 to 20:15, "
+  }
+]

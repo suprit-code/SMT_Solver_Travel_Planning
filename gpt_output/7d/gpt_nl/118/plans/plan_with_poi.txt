@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Champaign to Amarillo",
+    "transportation": "Taxi from Champaign to Amarillo, duration: 996.6283333333332, distance: 1503.3516000000002, cost : 1503.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Rustic Ridge | Amazing Views of Palo Duro Canyon, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 23:06 to 23:36, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 00:06 to 08:00, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Tejavan, Amarillo",
+    "lunch": "Metropolitan, Amarillo",
+    "dinner": "Cracker Barrel, Amarillo",
+    "attraction": "-",
+    "accommodation": "Rustic Ridge | Amazing Views of Palo Duro Canyon, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 08:30 to 09:00, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; El Tejavan, Amarillo, visit from 09:38 to 10:29, ; Metropolitan, Amarillo, visit from 14:30 to 16:44, ; Cracker Barrel, Amarillo, visit from 20:45 to 22:00, ; Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 22:30 to 06:30, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Coyote Bluff Cafe, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 07:00 to 07:30, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Coyote Bluff Cafe, Amarillo, visit from 08:00 to 08:50, ; Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, stay from 21:10 to 21:40, nearest transit: 2601-15209 Leeward, 433.78m away; Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, stay from 22:10 to 06:10, nearest transit: 2601-15209 Leeward, 433.78m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Yardarm Restaurant, Corpus Christi",
+    "lunch": "Republic of Texas Bar & Grill, Corpus Christi",
+    "dinner": "Katz 21 Steak & Spirits, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, stay from 06:40 to 07:10, nearest transit: 2601-15209 Leeward, 433.78m away; Yardarm Restaurant, Corpus Christi, visit from 08:59 to 09:49, ; Republic of Texas Bar & Grill, Corpus Christi, visit from 13:50 to 14:50, ; USS Lexington Museum, Corpus Christi, visit from 15:20 to 18:50, ; Katz 21 Steak & Spirits, Corpus Christi, visit from 19:20 to 20:35, ; Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, stay from 21:05 to 05:05, nearest transit: 2601-15209 Leeward, 433.78m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F3931966, from Corpus Christi to Houston, Departure Time: 07:19, Arrival Time: 08:37",
+    "breakfast": "-",
+    "lunch": "Pappas Bros. Steakhouse, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "National Museum of Funeral History, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Ocean View! ‘Blue Haven’ (End Unit) N.Padre Island, stay from 06:00 to 06:49, nearest transit: 2601-15209 Leeward, 433.78m away; Modern Houston Heights Getaway, stay from 09:07 to 09:37, nearest transit: Yale St @ Thornton Rd, 203.09m away; Pappas Bros. Steakhouse, Houston, visit from 12:00 to 13:00, ; National Museum of Funeral History, Houston, visit from 13:30 to 18:30, ; Brennan's of Houston, Houston, visit from 19:00 to 20:15, ; Modern Houston Heights Getaway, stay from 20:45 to 04:45, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Brenner's on the Bayou, Houston",
+    "lunch": "Taste of Texas, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 06:00 to 07:42, nearest transit: Yale St @ Thornton Rd, 203.09m away; Brenner's on the Bayou, Houston, visit from 08:12 to 10:00, ; NRG Stadium, Houston, visit from 10:30 to 14:00, ; Taste of Texas, Houston, visit from 14:30 to 15:30, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 19:31 to 20:46, ; Modern Houston Heights Getaway, stay from 21:16 to 05:16, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Champaign",
+    "transportation": "Taxi from Houston to Champaign, duration: 1031.7916666666667, distance: 1511.9677, cost : 1511.0",
+    "breakfast": "Houston White Co, Houston",
+    "lunch": "Merrill & Houston's Steak Joint, Houston",
+    "dinner": "Uchi Houston, Houston",
+    "attraction": "Museum of Fine Arts, Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 06:00 to 07:30, nearest transit: Yale St @ Thornton Rd, 203.09m away; Houston White Co, Houston, visit from 08:00 to 08:50, ; Museum of Fine Arts, Houston, Houston, visit from 09:20 to 12:50, ; Merrill & Houston's Steak Joint, Houston, visit from 13:20 to 14:20, ; Uchi Houston, Houston, visit from 19:00 to 20:15, "
+  }
+]

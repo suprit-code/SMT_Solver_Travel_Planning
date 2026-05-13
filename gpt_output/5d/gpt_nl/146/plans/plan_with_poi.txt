@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to New York",
+    "transportation": "Self-driving from Cleveland to New York, duration: 533.4150000000001, distance: 751.1306, cost : 37.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Sylvia's Restaurant, New York",
+    "attraction": "-",
+    "accommodation": "Private Studio with Shared Bath, New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio with Shared Bath, stay from 19:45 to 20:15, nearest transit: 3 AV/E 14 ST, 30.6m away; Sylvia's Restaurant, New York, visit from 20:45 to 23:07, ; Private Studio with Shared Bath, stay from 23:37 to 07:37, nearest transit: 3 AV/E 14 ST, 30.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Private Studio with Shared Bath, New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio with Shared Bath, stay from 08:07 to 08:37, nearest transit: 3 AV/E 14 ST, 30.6m away; Times Square Diner, New York, visit from 09:07 to 09:57, ; The High Line, New York, visit from 10:27 to 13:57, ; Westway Diner, New York, visit from 14:30 to 15:30, ; FIG & OLIVE, New York, visit from 19:45 to 21:00, ; Private Studio with Shared Bath, stay from 21:30 to 05:30, nearest transit: 3 AV/E 14 ST, 30.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Rochester",
+    "transportation": "Self-driving from New York to Rochester, duration: 404.6833333333333, distance: 511.5847, cost : 25.0",
+    "breakfast": "The Skylark - Rooftop Bar, New York",
+    "lunch": "Gallaghers Steakhouse, New York",
+    "dinner": "-",
+    "attraction": "Central Park, New York",
+    "accommodation": "Arts & Crafts In-law Suite, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Private Studio with Shared Bath, stay from 06:00 to 06:30, nearest transit: 3 AV/E 14 ST, 30.6m away; The Skylark - Rooftop Bar, New York, visit from 08:00 to 08:50, ; Central Park, New York, visit from 09:20 to 12:50, ; Gallaghers Steakhouse, New York, visit from 13:20 to 14:20, ; Arts & Crafts In-law Suite, stay from 22:04 to 22:34, nearest transit: Winona 61 & Hwy. 14, 1138481.56m away; Arts & Crafts In-law Suite, stay from 23:04 to 07:04, nearest transit: Winona 61 & Hwy. 14, 1138481.56m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Rochester",
+    "transportation": "-",
+    "breakfast": "Lipuma's Coney Island, Rochester",
+    "lunch": "Rochester's Barbecue & Grill, Rochester",
+    "dinner": "Rooney's Restaurant, Rochester",
+    "attraction": "Rochester Castle, Rochester",
+    "accommodation": "Arts & Crafts In-law Suite, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Arts & Crafts In-law Suite, stay from 07:34 to 08:04, nearest transit: Winona 61 & Hwy. 14, 1138481.56m away; Lipuma's Coney Island, Rochester, visit from 08:44 to 09:59, ; Rochester's Barbecue & Grill, Rochester, visit from 14:00 to 15:00, ; Rochester Castle, Rochester, visit from 15:30 to 19:00, ; Rooney's Restaurant, Rochester, visit from 19:30 to 20:45, ; Arts & Crafts In-law Suite, stay from 23:09 to 07:09, nearest transit: Winona 61 & Hwy. 14, 1138481.56m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Rochester to Cleveland",
+    "transportation": "Self-driving from Rochester to Cleveland, duration: 306.565, distance: 415.7125, cost : 20.0",
+    "breakfast": "Good Luck, Rochester",
+    "lunch": "Mamma Mia, Rochester",
+    "dinner": "Savoia Pastry Shoppe, Rochester",
+    "attraction": "Rochester Cathedral, Rochester",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Arts & Crafts In-law Suite, stay from 07:39 to 08:09, nearest transit: Winona 61 & Hwy. 14, 1138481.56m away; Good Luck, Rochester, visit from 08:39 to 09:29, ; Rochester Cathedral, Rochester, visit from 09:59 to 13:29, ; Mamma Mia, Rochester, visit from 13:59 to 14:59, ; Savoia Pastry Shoppe, Rochester, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Burbank to Amarillo",
+    "transportation": "Taxi from Burbank to Amarillo, duration: 1112.3666666666666, distance: 1729.9941, cost : 1729.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Nifty Nest Oasis / Impeccable Studio + Garden, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Nifty Nest Oasis / Impeccable Studio + Garden, stay from 01:02 to 01:32, nearest transit: S Washington St & SW 28th Ave, 362.01m away; Nifty Nest Oasis / Impeccable Studio + Garden, stay from 02:02 to 08:00, nearest transit: S Washington St & SW 28th Ave, 362.01m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Cracker Barrel, Amarillo",
+    "lunch": "El Bracero Mexican Grill, Amarillo",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "-",
+    "accommodation": "Nifty Nest Oasis / Impeccable Studio + Garden, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Nifty Nest Oasis / Impeccable Studio + Garden, stay from 08:30 to 09:00, nearest transit: S Washington St & SW 28th Ave, 362.01m away; Cracker Barrel, Amarillo, visit from 09:39 to 10:29, ; El Bracero Mexican Grill, Amarillo, visit from 14:30 to 15:44, ; Golden Light Cafe & Cantina, Amarillo, visit from 19:45 to 21:00, ; Nifty Nest Oasis / Impeccable Studio + Garden, stay from 21:30 to 05:30, nearest transit: S Washington St & SW 28th Ave, 362.01m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F1740720, from Amarillo to Houston, Departure Time: 13:21, Arrival Time: 15:04",
+    "breakfast": "Six Car Pub & Brewery, Amarillo",
+    "lunch": "-",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "Amarillo Museum of Art, Amarillo",
+    "accommodation": "EaDo Room | Private Entrance | Walk 2 Astros Games, Houston",
+    "event": "-",
+    "point_of_interest_list": "Nifty Nest Oasis / Impeccable Studio + Garden, stay from 06:00 to 06:30, nearest transit: S Washington St & SW 28th Ave, 362.01m away; Six Car Pub & Brewery, Amarillo, visit from 08:00 to 08:50, ; Amarillo Museum of Art, Amarillo, visit from 09:20 to 12:51, ; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 15:34 to 16:04, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Fogo de Chao Brazilian Steakhouse, Houston, visit from 19:00 to 20:15, ; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 20:45 to 06:30, nearest transit: Navigation Blvd @ Canal St, 329.09m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston's, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "EaDo Room | Private Entrance | Walk 2 Astros Games, Houston",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 07:00 to 07:30, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Houston's, Houston, visit from 08:00 to 08:50, ; Children's Museum Houston, Houston, visit from 09:20 to 12:50, ; Houston Restaurant, Houston, visit from 13:20 to 14:59, ; Kenny & Ziggy's New York Deli, Houston, visit from 19:00 to 20:15, ; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 20:45 to 04:45, nearest transit: Navigation Blvd @ Canal St, 329.09m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F3901023, from Houston to San Antonio, Departure Time: 18:36, Arrival Time: 19:32",
+    "breakfast": "Houston's Restaurant & Pub, Houston",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "-",
+    "attraction": "The Menil Collection, Houston",
+    "accommodation": "The Tobin Hill Maids Quarters by The Pearl, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 06:00 to 06:30, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Houston's Restaurant & Pub, Houston, visit from 08:15 to 09:05, ; Market on Houston, Houston, visit from 13:06 to 14:06, ; The Menil Collection, Houston, visit from 14:36 to 18:06, ; The Tobin Hill Maids Quarters by The Pearl, stay from 20:02 to 20:32, nearest transit: MCCULLOUGH & MYRTLE, 84.94m away; The Tobin Hill Maids Quarters by The Pearl, stay from 21:02 to 07:32, nearest transit: MCCULLOUGH & MYRTLE, 84.94m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Boudro's Texas Bistro, San Antonio",
+    "lunch": "Pollos Asados Los Nortenos, San Antonio",
+    "dinner": "Schilo's, San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "The Tobin Hill Maids Quarters by The Pearl, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "The Tobin Hill Maids Quarters by The Pearl, stay from 08:02 to 08:32, nearest transit: MCCULLOUGH & MYRTLE, 84.94m away; Boudro's Texas Bistro, San Antonio, visit from 09:02 to 10:00, ; The Alamo, San Antonio, visit from 10:30 to 14:00, ; Pollos Asados Los Nortenos, San Antonio, visit from 14:30 to 15:30, ; Schilo's, San Antonio, visit from 19:31 to 20:46, ; The Tobin Hill Maids Quarters by The Pearl, stay from 21:16 to 05:16, nearest transit: MCCULLOUGH & MYRTLE, 84.94m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Burbank",
+    "transportation": "Taxi from San Antonio to Burbank, duration: 1391.655, distance: 2194.3542, cost : 2194.0",
+    "breakfast": "Pinkerton's Barbecue, San Antonio",
+    "lunch": "Domingo Restaurant, San Antonio",
+    "dinner": "Perry's Steakhouse & Grille- San Antonio, San Antonio",
+    "attraction": "Majestic & Empire Theatres, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Tobin Hill Maids Quarters by The Pearl, stay from 06:00 to 06:30, nearest transit: MCCULLOUGH & MYRTLE, 84.94m away; Pinkerton's Barbecue, San Antonio, visit from 08:00 to 08:50, ; Majestic & Empire Theatres, San Antonio, visit from 09:20 to 12:50, ; Domingo Restaurant, San Antonio, visit from 13:20 to 14:20, ; Perry's Steakhouse & Grille- San Antonio, San Antonio, visit from 19:00 to 20:15, "
+  }
+]

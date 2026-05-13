@@ -1,0 +1,6 @@
+Destination cities: ['San Francisco'],
+Transportation dates: ['2024-11-14', '2024-11-16'],
+Transportation methods between cities: ['Flight Number: F0612301, from Jackson to San Francisco, Departure Time: 16:15, Arrival Time: 17:56', 'Flight Number: F1204257, from San Francisco to Jackson, Departure Time: 18:20, Arrival Time: 21:14'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Capital Restaurant, San Francisco', "Luisa's Restaurant Wine Bar Since 1959, San Francisco", 'Good Mong Kok Bakery, San Francisco', 'The Codmother Fish & Chips, San Francisco', "Mo's Grill, San Francisco", '-'],
+Attractions (1 per day): ['Japanese Tea Garden, San Francisco', 'Golden Gate Park, San Francisco', 'Lands End, San Francisco'],
+Accommodations (1 per city): ['Immaculate studio space  with free parking, San Francisco']

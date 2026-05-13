@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to San Diego",
+    "transportation": "Flight Number: F3528552, from Detroit to San Diego, Departure Time: 08:25, Arrival Time: 10:02",
+    "breakfast": "-",
+    "lunch": "Barbusa, San Diego",
+    "dinner": "Alforon, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 10:32 to 11:02, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Barbusa, San Diego, visit from 12:00 to 13:00, ; USS Midway Museum, San Diego, visit from 15:00 to 18:30, ; Alforon, San Diego, visit from 19:00 to 20:15, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 21:30 to 05:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Cafe Coyote, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 06:00 to 06:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Juniper and Ivy, San Diego, visit from 08:11 to 09:59, ; Cowboy Star, San Diego, visit from 14:00 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 19:00, ; Cafe Coyote, San Diego, visit from 19:30 to 23:09, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 23:39 to 07:39, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Flight Number: F3809470, from San Diego to Los Angeles, Departure Time: 10:50, Arrival Time: 11:39",
+    "breakfast": "Mister A'S, San Diego",
+    "lunch": "The Palm - L.A. Downtown, Los Angeles",
+    "dinner": "-",
+    "attraction": "La Brea Tar Pits and Museum, Los Angeles",
+    "accommodation": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 08:09 to 08:39, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Mister A'S, San Diego, visit from 09:09 to 09:59, ; Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 12:09 to 12:39, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away; The Palm - L.A. Downtown, Los Angeles, visit from 14:00 to 15:00, ; La Brea Tar Pits and Museum, Los Angeles, visit from 15:30 to 19:00, ; Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 22:49 to 06:49, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "The Lobster, Los Angeles",
+    "lunch": "El Compadre, Los Angeles",
+    "dinner": "Bavel, Los Angeles",
+    "attraction": "The Getty Center, Los Angeles",
+    "accommodation": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 07:19 to 07:49, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away; The Lobster, Los Angeles, visit from 08:19 to 09:09, ; The Getty Center, Los Angeles, visit from 09:39 to 13:09, ; El Compadre, Los Angeles, visit from 14:30 to 15:30, ; Bavel, Los Angeles, visit from 19:31 to 20:46, ; Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 21:16 to 05:16, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Flight Number: F3834652, from Los Angeles to San Francisco, Departure Time: 08:03, Arrival Time: 09:32",
+    "breakfast": "-",
+    "lunch": "Trattoria Contadina, San Francisco",
+    "dinner": "Original Joe's, San Francisco",
+    "attraction": "Walt Disney Family Museum, San Francisco",
+    "accommodation": "1 Queen bedded room w/full bath, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Secluded & Charming Hillside Studio+Pool+SkyDeck✨, stay from 07:03 to 07:33, nearest transit: Alameda Ave & Buena Vista St (Westbound), 5106.54m away; 1 Queen bedded room w/full bath, stay from 10:02 to 10:32, nearest transit: Powell @ 22 4th, 458.48m away; Trattoria Contadina, San Francisco, visit from 12:00 to 13:00, ; Walt Disney Family Museum, San Francisco, visit from 13:30 to 17:00, ; Original Joe's, San Francisco, visit from 19:00 to 20:15, ; 1 Queen bedded room w/full bath, stay from 20:45 to 04:45, nearest transit: Powell @ 22 4th, 458.48m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Honey Honey Cafe & Crepery, San Francisco",
+    "lunch": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "dinner": "Eagle Cafe, San Francisco",
+    "attraction": "California Academy of Sciences, San Francisco",
+    "accommodation": "1 Queen bedded room w/full bath, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "1 Queen bedded room w/full bath, stay from 06:00 to 06:30, nearest transit: Powell @ 22 4th, 458.48m away; Honey Honey Cafe & Crepery, San Francisco, visit from 08:00 to 08:50, ; California Academy of Sciences, San Francisco, visit from 09:20 to 12:50, ; Harris' Restaurant - The San Francisco Steakhouse, San Francisco, visit from 13:20 to 14:20, ; Eagle Cafe, San Francisco, visit from 19:00 to 20:15, ; 1 Queen bedded room w/full bath, stay from 20:45 to 04:45, nearest transit: Powell @ 22 4th, 458.48m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to Detroit",
+    "transportation": "Flight Number: F3504340, from San Francisco to Detroit, Departure Time: 12:45, Arrival Time: 19:57",
+    "breakfast": "Pier Market Seafood Restaurant, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 Queen bedded room w/full bath, stay from 06:00 to 06:30, nearest transit: Powell @ 22 4th, 458.48m away; Pier Market Seafood Restaurant, San Francisco, visit from 08:00 to 08:50, "
+  }
+]

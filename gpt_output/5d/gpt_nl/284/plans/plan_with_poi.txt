@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Peoria to Amarillo",
+    "transportation": "Self-driving from Peoria to Amarillo, duration: 983.8333333333334, distance: 1485.595, cost : 74.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 22:53 to 23:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Relaxing Place to Stay with Guest Living Room!, stay from 00:00 to 08:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Manantial, Amarillo",
+    "lunch": "Ye Olde Pancake Station, Amarillo",
+    "dinner": "Six Car Pub & Brewery, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:30 to 09:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Manantial, Amarillo, visit from 09:39 to 10:29, ; Ye Olde Pancake Station, Amarillo, visit from 14:30 to 16:44, ; Six Car Pub & Brewery, Amarillo, visit from 20:45 to 22:00, ; Relaxing Place to Stay with Guest Living Room!, stay from 22:30 to 06:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Self-driving from Amarillo to Houston, duration: 649.365, distance: 961.8577, cost : 48.0",
+    "breakfast": "El Bracero Mexican Grill, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 07:00 to 07:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Bracero Mexican Grill, Amarillo, visit from 08:00 to 08:50, ; #4 Northwest Victory Single BR, stay from 20:39 to 21:09, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; #4 Northwest Victory Single BR, stay from 23:24 to 07:24, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Market on Houston, Houston",
+    "lunch": "The Original Ninfa's, Houston",
+    "dinner": "Houston Restaurant, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:54 to 08:24, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Market on Houston, Houston, visit from 09:09 to 09:59, ; Houston Zoo, Houston, visit from 10:29 to 14:00, ; The Original Ninfa's, Houston, visit from 14:30 to 16:44, ; Houston Restaurant, Houston, visit from 20:45 to 22:39, ; #4 Northwest Victory Single BR, stay from 23:09 to 07:09, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Peoria",
+    "transportation": "Self-driving from Houston to Peoria, duration: 1047.755, distance: 1518.975, cost : 75.0",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Houstons Bar and Grill, Houston",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:39 to 08:09, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Pappadeaux Seafood Kitchen, Houston, visit from 08:39 to 09:29, ; Houstons Bar and Grill, Houston, visit from 13:30 to 14:30, ; Downtown Aquarium, Houston, visit from 15:00 to 18:30, ; Kenny & Ziggy's New York Deli, Houston, visit from 19:00 to 20:15, "
+  }
+]

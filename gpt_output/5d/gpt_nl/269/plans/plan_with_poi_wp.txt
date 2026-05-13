@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to San Diego",
+    "transportation": "Self-driving from Las Vegas to San Diego, duration: 367.3033333333333, distance: 532.4798000000001, cost : 26.0",
+    "breakfast": "-",
+    "lunch": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 13:00 to 13:30, nearest transit: Imperial Av & 54th St, 396.9m away; Filippi's Pizza Grotto Little Italy, San Diego, visit from 14:00 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 20:15, ; Morning Glory, San Diego, visit from 20:45 to 23:09, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 23:39 to 07:39, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Civico 1845, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "The Butcher Shop, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 08:09 to 08:39, nearest transit: Imperial Av & 54th St, 396.9m away; Civico 1845, San Diego, visit from 09:09 to 09:59, ; Mimmo's, San Diego, visit from 14:00 to 15:00, ; USS Midway Museum, San Diego, visit from 15:30 to 19:00, ; The Butcher Shop, San Diego, visit from 19:30 to 20:45, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 21:15 to 05:15, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Self-driving from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 53.0",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Forest Room, Redding",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 06:00 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away; Pacific Beach AleHouse, San Diego, visit from 08:00 to 08:50, ; The Forest Room, stay from 22:04 to 22:34, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; The Forest Room, stay from 23:04 to 07:04, nearest transit: Hartnell Ave at Churn Ct, 100.85m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Dam Burger, Redding",
+    "lunch": "Trendy's, Redding",
+    "dinner": "Jeff's California Cattle Company Restaurant, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "The Forest Room, Redding",
+    "event": "-",
+    "point_of_interest_list": "The Forest Room, stay from 07:34 to 08:04, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; Dam Burger, Redding, visit from 08:59 to 09:49, ; Turtle Bay Exploration Park, Redding, visit from 10:19 to 13:49, ; Trendy's, Redding, visit from 14:19 to 15:19, ; Jeff's California Cattle Company Restaurant, Redding, visit from 20:45 to 22:00, ; The Forest Room, stay from 23:39 to 07:39, nearest transit: Hartnell Ave at Churn Ct, 100.85m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Las Vegas",
+    "transportation": "Self-driving from Redding to Las Vegas, duration: 756.2466666666667, distance: 1007.9322, cost : 50.0",
+    "breakfast": "New China, Redding",
+    "lunch": "Champa Garden, Redding",
+    "dinner": "Los Gordos, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Forest Room, stay from 08:09 to 08:39, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; New China, Redding, visit from 09:09 to 09:59, ; Champa Garden, Redding, visit from 14:00 to 15:00, ; Sundial Bridge, Redding, visit from 15:30 to 19:00, ; Los Gordos, Redding, visit from 19:30 to 20:45, "
+  }
+]

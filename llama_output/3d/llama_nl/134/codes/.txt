@@ -1,0 +1,15 @@
+
+    # Run HouseRuleSearch to get house rule info for city_0
+    house_rule_info = HouseRuleSearch(city_0)
+    
+    # Set 'house_rule' variable for 1 (1 per city) house rules
+    house_rules = house_rule_info.get_house_rules()
+    
+    # For each 'house_rule' variable, get specific house rule info
+    for house_rule in house_rules:
+        # Get specific house rule info
+        house_rule_info = house_rule.get_info()
+        
+        # Assert 'No smoking' is not exist for all house rules
+        assert 'No smoking' not in house_rule_info
+    

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Greensboro",
+    "transportation": "Taxi from Sarasota to Greensboro, duration: 790.9466666666667, distance: 1113.121, cost : 1113.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Undercurrent Restaurant, Greensboro",
+    "attraction": "-",
+    "accommodation": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 19:45 to 20:15, nearest transit: Merritt/Clifton, 637.24m away; Undercurrent Restaurant, Greensboro, visit from 20:45 to 22:00, ; ⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 22:30 to 06:30, nearest transit: Merritt/Clifton, 637.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "1618 West Seafood Grill, Greensboro",
+    "lunch": "MJ's Steak and Seafood, Greensboro",
+    "dinner": "Print Works Bistro, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 07:00 to 07:30, nearest transit: Merritt/Clifton, 637.24m away; 1618 West Seafood Grill, Greensboro, visit from 08:00 to 09:59, ; MJ's Steak and Seafood, Greensboro, visit from 14:00 to 15:00, ; International Civil Rights Center & Museum, Greensboro, visit from 15:30 to 20:15, ; Print Works Bistro, Greensboro, visit from 20:45 to 23:10, ; ⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 23:40 to 07:40, nearest transit: Merritt/Clifton, 637.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "B. Christopher's, Greensboro",
+    "lunch": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "dinner": "-",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Clarity at The Cove, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 08:10 to 08:40, nearest transit: Merritt/Clifton, 637.24m away; B. Christopher's, Greensboro, visit from 09:10 to 10:00, ; Ambleside Gallery, Greensboro, visit from 10:30 to 14:00, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 14:30 to 17:11, ; Clarity at The Cove, stay from 22:09 to 22:39, nearest transit: Nutt St SB at Convention Center, 160.95m away; Clarity at The Cove, stay from 23:09 to 07:09, nearest transit: Nutt St SB at Convention Center, 160.95m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Banks' Seafood Kitchen, Wilmington",
+    "lunch": "Catch, Wilmington",
+    "dinner": "Ruth's Chris Steak House, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Clarity at The Cove, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Clarity at The Cove, stay from 07:39 to 08:09, nearest transit: Nutt St SB at Convention Center, 160.95m away; Banks' Seafood Kitchen, Wilmington, visit from 08:39 to 09:29, ; Burgwin-Wright House and Gardens, Wilmington, visit from 09:59 to 13:29, ; Catch, Wilmington, visit from 13:59 to 14:59, ; Ruth's Chris Steak House, Wilmington, visit from 19:00 to 20:15, ; Clarity at The Cove, stay from 20:45 to 04:29, nearest transit: Nutt St SB at Convention Center, 160.95m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F4050013, from Wilmington to Charlotte, Departure Time: 04:59, Arrival Time: 05:59",
+    "breakfast": "The Charlotte Hotel & Restaurant, Charlotte",
+    "lunch": "ROKA Charlotte Street, Charlotte",
+    "dinner": "The Capital Grille, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Chic Industrial Loft in the Heart of NoDa, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Chic Industrial Loft in the Heart of NoDa, stay from 06:29 to 06:59, nearest transit: Davidson St & 36th St, 70.89m away; Chic Industrial Loft in the Heart of NoDa, stay from 07:29 to 07:59, nearest transit: Davidson St & 36th St, 70.89m away; The Charlotte Hotel & Restaurant, Charlotte, visit from 09:09 to 09:59, ; ROKA Charlotte Street, Charlotte, visit from 14:00 to 15:00, ; NASCAR Hall of Fame, Charlotte, visit from 15:30 to 19:00, ; The Capital Grille, Charlotte, visit from 19:30 to 20:45, ; Chic Industrial Loft in the Heart of NoDa, stay from 21:15 to 05:15, nearest transit: Davidson St & 36th St, 70.89m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "The Terrace at The Charlotte Inn, Charlotte",
+    "lunch": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "dinner": "Gaucho Charlotte Street, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "Chic Industrial Loft in the Heart of NoDa, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Chic Industrial Loft in the Heart of NoDa, stay from 06:00 to 06:30, nearest transit: Davidson St & 36th St, 70.89m away; The Terrace at The Charlotte Inn, Charlotte, visit from 08:05 to 08:55, ; Discovery Place Science, Charlotte, visit from 10:30 to 14:00, ; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 14:30 to 15:30, ; Gaucho Charlotte Street, Charlotte, visit from 19:31 to 20:46, ; Chic Industrial Loft in the Heart of NoDa, stay from 21:16 to 06:30, nearest transit: Davidson St & 36th St, 70.89m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Sarasota",
+    "transportation": "Taxi from Charlotte to Sarasota, duration: 711.625, distance: 1015.2705, cost : 1015.0",
+    "breakfast": "The Fig Tree Restaurant, Charlotte",
+    "lunch": "Charlotte & Fritz, Charlotte",
+    "dinner": "Charlotte's, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Chic Industrial Loft in the Heart of NoDa, stay from 07:00 to 07:30, nearest transit: Davidson St & 36th St, 70.89m away; The Fig Tree Restaurant, Charlotte, visit from 08:00 to 08:50, ; Levine Museum of the New South, Charlotte, visit from 09:20 to 12:50, ; Charlotte & Fritz, Charlotte, visit from 13:20 to 14:20, ; Charlotte's, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

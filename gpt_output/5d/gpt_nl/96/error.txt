@@ -1,0 +1,11 @@
+
+--- JOB 96 FAILED ---
+Error: check_exists_any() got an unexpected keyword argument 'subcategories'
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 205, in <module>
+TypeError: check_exists_any() got an unexpected keyword argument 'subcategories'
+
+----------------------------------------

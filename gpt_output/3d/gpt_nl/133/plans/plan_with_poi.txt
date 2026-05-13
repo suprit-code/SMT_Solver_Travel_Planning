@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F1983288, from San Diego to Seattle, Departure Time: 13:50, Arrival Time: 17:02",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "-",
+    "accommodation": "Treehouse with a VIEW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Treehouse with a VIEW, stay from 17:32 to 18:02, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 19:00 to 20:15, ; Treehouse with a VIEW, stay from 20:45 to 04:45, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "The Butcher's Table, Seattle",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "Salty's On Alki Beach, Seattle",
+    "attraction": "Museum of Pop Culture, Seattle",
+    "accommodation": "Treehouse with a VIEW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Treehouse with a VIEW, stay from 06:00 to 06:30, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away; The Butcher's Table, Seattle, visit from 08:17 to 09:07, ; Museum of Pop Culture, Seattle, visit from 09:37 to 13:07, ; Il Terrazzo Carmine, Seattle, visit from 13:37 to 16:44, ; Salty's On Alki Beach, Seattle, visit from 20:45 to 22:00, ; Treehouse with a VIEW, stay from 22:30 to 06:30, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F0346358, from Seattle to San Diego, Departure Time: 15:28, Arrival Time: 18:03",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Treehouse with a VIEW, stay from 07:00 to 08:37, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away; Vons 1000 Spirits, Seattle, visit from 09:07 to 09:57, ; Klondike Gold Rush National Historical Park, Seattle, visit from 10:27 to 13:57, "
+  }
+]

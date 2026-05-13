@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to San Diego",
+    "transportation": "Flight Number: F2877960, from Portland to San Diego, Departure Time: 05:49, Arrival Time: 08:15",
+    "breakfast": "-",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 08:45 to 09:15, nearest transit: Upas St & 30th St, 403.13m away; USS Midway Museum, San Diego, visit from 10:30 to 14:00, ; Mimmo's, San Diego, visit from 14:30 to 16:44, ; Ruth's Chris Steak House, San Diego, visit from 20:45 to 22:05, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 22:35 to 06:35, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mister A'S, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:05 to 07:35, nearest transit: Upas St & 30th St, 403.13m away; Mister A'S, San Diego, visit from 08:05 to 08:55, ; Pacific Beach AleHouse, San Diego, visit from 12:56 to 13:56, ; Birch Aquarium at Scripps, San Diego, visit from 14:26 to 17:56, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 19:00 to 20:15, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 20:45 to 04:45, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Portland",
+    "transportation": "Flight Number: F0804989, from San Diego to Portland, Departure Time: 16:41, Arrival Time: 19:03",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Din Tai Fung, San Diego",
+    "dinner": "-",
+    "attraction": "Old Town San Diego, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 06:00 to 06:30, nearest transit: Upas St & 30th St, 403.13m away; Born & Raised, San Diego, visit from 08:00 to 08:50, ; Old Town San Diego, San Diego, visit from 09:20 to 14:00, ; Din Tai Fung, San Diego, visit from 14:30 to 15:30, "
+  }
+]

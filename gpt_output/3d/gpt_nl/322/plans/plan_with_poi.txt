@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Shreveport to Los Angeles",
+    "transportation": "Flight Number: F2553584, from Shreveport to Los Angeles, Departure Time: 23:01, Arrival Time: 00:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "*New! Historic Hollywood Hills Bungalow + Pool, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "*New! Historic Hollywood Hills Bungalow + Pool, stay from 00:53 to 01:23, nearest transit:  Beachwood & Westshire , 320.82m away; *New! Historic Hollywood Hills Bungalow + Pool, stay from 01:53 to 08:00, nearest transit:  Beachwood & Westshire , 320.82m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "n/naka, Los Angeles",
+    "lunch": "Providence, Los Angeles",
+    "dinner": "The Lobster, Los Angeles",
+    "attraction": "-",
+    "accommodation": "*New! Historic Hollywood Hills Bungalow + Pool, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "*New! Historic Hollywood Hills Bungalow + Pool, stay from 08:30 to 09:00, nearest transit:  Beachwood & Westshire , 320.82m away; n/naka, Los Angeles, visit from 09:30 to 10:20, ; Providence, Los Angeles, visit from 14:21 to 15:21, ; The Lobster, Los Angeles, visit from 19:22 to 20:37, ; *New! Historic Hollywood Hills Bungalow + Pool, stay from 21:07 to 05:07, nearest transit:  Beachwood & Westshire , 320.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Shreveport",
+    "transportation": "Flight Number: F1349406, from Los Angeles to Shreveport, Departure Time: 06:37, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "*New! Historic Hollywood Hills Bungalow + Pool, stay from 05:37 to 06:07, nearest transit:  Beachwood & Westshire , 320.82m away"
+  }
+]

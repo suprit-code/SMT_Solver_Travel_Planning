@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Baltimore",
+    "transportation": "Flight Number: F0403657, from Miami to Baltimore, Departure Time: 14:20, Arrival Time: 17:02",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Sotto Sopra, Baltimore",
+    "attraction": "-",
+    "accommodation": "Loaded Home - Heart Of Fells Point Waterfront Area, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Loaded Home - Heart Of Fells Point Waterfront Area, stay from 17:32 to 20:15, nearest transit: SHOT TOWER STATION (METRO) sb, 1528.18m away; Sotto Sopra, Baltimore, visit from 20:45 to 22:40, ; Loaded Home - Heart Of Fells Point Waterfront Area, stay from 23:10 to 07:10, nearest transit: SHOT TOWER STATION (METRO) sb, 1528.18m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "La Scala, Baltimore",
+    "lunch": "Amicci's, Baltimore",
+    "dinner": "Cinghiale, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "Loaded Home - Heart Of Fells Point Waterfront Area, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Loaded Home - Heart Of Fells Point Waterfront Area, stay from 07:40 to 08:10, nearest transit: SHOT TOWER STATION (METRO) sb, 1528.18m away; La Scala, Baltimore, visit from 08:40 to 09:30, ; Amicci's, Baltimore, visit from 13:31 to 14:31, ; National Aquarium, Baltimore, visit from 15:01 to 18:31, ; Cinghiale, Baltimore, visit from 19:45 to 21:00, ; Loaded Home - Heart Of Fells Point Waterfront Area, stay from 21:30 to 05:30, nearest transit: SHOT TOWER STATION (METRO) sb, 1528.18m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Miami",
+    "transportation": "Flight Number: F3047273, from Baltimore to Miami, Departure Time: 20:09, Arrival Time: 22:39",
+    "breakfast": "Luna Del Sea Steak & Seafood Bistro, Baltimore",
+    "lunch": "Blue Moon Cafe, Baltimore",
+    "dinner": "-",
+    "attraction": "Fort McHenry National Monument And Historic Shrine, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Loaded Home - Heart Of Fells Point Waterfront Area, stay from 06:00 to 06:30, nearest transit: SHOT TOWER STATION (METRO) sb, 1528.18m away; Luna Del Sea Steak & Seafood Bistro, Baltimore, visit from 09:09 to 09:59, ; Blue Moon Cafe, Baltimore, visit from 14:00 to 15:00, ; Fort McHenry National Monument And Historic Shrine, Baltimore, visit from 15:30 to 19:00, "
+  }
+]

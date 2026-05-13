@@ -1,0 +1,13 @@
+not ok
+Unsatisfiable core:
+visit city in cities list
+travel start date
+eat in which city b
+eat in which city l
+eat in which city d
+valid restaurant index
+non repeating restaurant index
+Mexicantype restaurant
+Mexicantype restaurant is visited
+attraction in which city
+valid attraction index

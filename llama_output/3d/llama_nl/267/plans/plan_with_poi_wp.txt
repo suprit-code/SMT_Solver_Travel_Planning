@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Bend to Seattle",
+    "transportation": "Flight Number: F2394861, from Bend to Seattle, Departure Time: 13:30, Arrival Time: 14:32",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Tulio, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 15:02 to 15:32, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Tulio, Seattle, visit from 19:00 to 20:15, ; Cozy room near UW, stay from 20:45 to 04:45, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "The Pike Pub and Brewery, Seattle",
+    "lunch": "Chan Seattle, Seattle",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; The Pike Pub and Brewery, Seattle, visit from 08:04 to 10:00, ; Woodland Park Zoo, Seattle, visit from 10:30 to 14:00, ; Chan Seattle, Seattle, visit from 14:30 to 15:30, ; Vons 1000 Spirits, Seattle, visit from 19:31 to 22:00, ; Cozy room near UW, stay from 22:30 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Bend",
+    "transportation": "Flight Number: F0627503, from Seattle to Bend, Departure Time: 19:44, Arrival Time: 20:52",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:00 to 07:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Noi Thai Cuisine, Seattle, visit from 08:00 to 08:50, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 12:51 to 15:00, ; Klondike Gold Rush National Historical Park, Seattle, visit from 15:30 to 19:00, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to Washington",
+    "transportation": "Flight Number: F2458656, from Louisville to Washington, Departure Time: 15:18, Arrival Time: 16:51",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Clyde's of Georgetown, Washington",
+    "attraction": "-",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 17:21 to 20:15, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away; Clyde's of Georgetown, Washington, visit from 20:45 to 22:07, ; A Cozy room, stay from 22:37 to 06:37, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Zaytinya by Jose Andres, Washington",
+    "lunch": "Unconventional Diner, Washington",
+    "dinner": "Old Ebbitt Grill, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 07:07 to 07:37, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away; Zaytinya by Jose Andres, Washington, visit from 08:07 to 08:57, ; Unconventional Diner, Washington, visit from 12:58 to 13:58, ; United States Botanic Garden, Washington, visit from 14:28 to 17:58, ; Old Ebbitt Grill, Washington, visit from 20:45 to 22:00, ; A Cozy room, stay from 22:30 to 06:30, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Louisville",
+    "transportation": "Flight Number: F3188311, from Washington to Louisville, Departure Time: 17:45, Arrival Time: 21:10",
+    "breakfast": "Thip Khao, Washington",
+    "lunch": "Succotash Prime, Washington",
+    "dinner": "-",
+    "attraction": "National Mall, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 07:00 to 07:30, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away; Thip Khao, Washington, visit from 08:00 to 08:50, ; National Mall, Washington, visit from 09:20 to 12:50, ; Succotash Prime, Washington, visit from 13:20 to 14:20, "
+  }
+]

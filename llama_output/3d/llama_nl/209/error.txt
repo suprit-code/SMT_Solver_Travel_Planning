@@ -1,0 +1,13 @@
+
+--- JOB 209 FAILED ---
+Error: invalid syntax (<string>, line 186)
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 186
+    This code will print out the house rules for each accommodation, check if 'No smoking' exists for each accommodation, and then assert that 'No smoking' does not exist for all accommodations and exists for at least one accommodation. If the assertions fail, it will raise an AssertionError.
+         ^
+SyntaxError: invalid syntax
+
+----------------------------------------

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F1815368, from Denver to San Diego, Departure Time: 08:11, Arrival Time: 09:16",
+    "breakfast": "-",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 09:46 to 13:30, nearest transit: Upas St & 30th St, 403.13m away; Born & Raised, San Diego, visit from 14:00 to 15:00, ; USS Midway Museum, San Diego, visit from 15:30 to 20:15, ; Ruth's Chris Steak House, San Diego, visit from 20:45 to 22:38, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 23:08 to 07:08, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Lou & Mickey's, San Diego",
+    "dinner": "Mister A'S, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:38 to 08:08, nearest transit: Upas St & 30th St, 403.13m away; Juniper and Ivy, San Diego, visit from 08:38 to 09:59, ; Lou & Mickey's, San Diego, visit from 14:00 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 19:00, ; Mister A'S, San Diego, visit from 19:30 to 20:45, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 21:15 to 07:06, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Denver",
+    "transportation": "Flight Number: F3417164, from San Diego to Denver, Departure Time: 08:53, Arrival Time: 12:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:36 to 08:23, nearest transit: Upas St & 30th St, 403.13m away"
+  }
+]

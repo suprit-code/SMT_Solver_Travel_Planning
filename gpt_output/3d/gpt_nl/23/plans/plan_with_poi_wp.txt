@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Madison to New York",
+    "transportation": "Flight Number: F3212115, from Madison to New York, Departure Time: 06:08, Arrival Time: 09:21",
+    "breakfast": "-",
+    "lunch": "Mari Vanna, New York",
+    "dinner": "Sylvia's Restaurant, New York",
+    "attraction": "American Museum of Natural History, New York",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 09:51 to 10:21, nearest transit: 6 AV/W 45 ST, 155.74m away; Mari Vanna, New York, visit from 14:00 to 15:00, ; American Museum of Natural History, New York, visit from 15:30 to 19:00, ; Sylvia's Restaurant, New York, visit from 19:30 to 20:45, ; High Rise haven + Free Breakfast, stay from 21:30 to 05:30, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Rao's Restaurant, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Manhatta, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 06:00 to 07:38, nearest transit: 6 AV/W 45 ST, 155.74m away; Rao's Restaurant, New York, visit from 08:08 to 08:58, ; Westway Diner, New York, visit from 12:59 to 13:59, ; New York Public Library, New York, visit from 14:29 to 20:15, ; Manhatta, New York, visit from 20:45 to 22:00, ; High Rise haven + Free Breakfast, stay from 22:30 to 06:30, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Madison",
+    "transportation": "Taxi from New York to Madison, duration: 1065.7733333333333, distance: 1519.9384, cost : 1519.0",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Sarge’s Delicatessen & Diner, New York",
+    "dinner": "Del Frisco's Double Eagle Steakhouse, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 07:00 to 07:30, nearest transit: 6 AV/W 45 ST, 155.74m away; Peak Restaurant & Bar, New York, visit from 08:00 to 08:50, ; The Metropolitan Museum of Art, New York, visit from 09:20 to 12:50, ; Sarge’s Delicatessen & Diner, New York, visit from 14:30 to 15:30, ; Del Frisco's Double Eagle Steakhouse, New York, visit from 19:31 to 20:46, "
+  }
+]

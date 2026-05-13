@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Nashville",
+    "transportation": "Flight Number: F0639058, from Chicago to Nashville, Departure Time: 12:33, Arrival Time: 14:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Standard, Nashville",
+    "attraction": "-",
+    "accommodation": "Lofts At 30th-Nashville Charm -In West End, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 15:26 to 15:56, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; The Standard, Nashville, visit from 19:00 to 20:15, ; Lofts At 30th-Nashville Charm -In West End, stay from 20:45 to 04:45, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "lunch": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "dinner": "Deacon’s New South, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Lofts At 30th-Nashville Charm -In West End, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 06:00 to 06:30, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; Bourbon Street Blues and Boogie Bar, Nashville, visit from 08:57 to 09:47, ; Cheekwood, Nashville, visit from 10:17 to 13:47, ; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 14:17 to 15:17, ; Deacon’s New South, Nashville, visit from 19:18 to 20:33, ; Lofts At 30th-Nashville Charm -In West End, stay from 21:03 to 05:03, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "The Chef And I, Nashville",
+    "lunch": "Old Hickory Steakhouse, Nashville",
+    "dinner": "-",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "CozyUrbanLoft Downtown-Walk to Restaurants-Fun, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 06:00 to 06:30, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; The Chef And I, Nashville, visit from 08:00 to 08:50, ; Belmont Mansion, Nashville, visit from 09:20 to 12:50, ; Old Hickory Steakhouse, Nashville, visit from 14:00 to 15:00, ; CozyUrbanLoft Downtown-Walk to Restaurants-Fun, stay from 21:19 to 21:49, nearest transit: Downtown Transfer Center, 126.2m away; CozyUrbanLoft Downtown-Walk to Restaurants-Fun, stay from 22:19 to 06:19, nearest transit: Downtown Transfer Center, 126.2m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Bristol Lounge, Bristol",
+    "lunch": "Bristol Seafood + Steak + Social, Bristol",
+    "dinner": "Blackbird Bakery, Bristol",
+    "attraction": "Clifton Suspension Bridge, Bristol",
+    "accommodation": "CozyUrbanLoft Downtown-Walk to Restaurants-Fun, Bristol",
+    "event": "-",
+    "point_of_interest_list": "CozyUrbanLoft Downtown-Walk to Restaurants-Fun, stay from 06:49 to 07:19, nearest transit: Downtown Transfer Center, 126.2m away; Bristol Lounge, Bristol, visit from 08:01 to 08:51, ; Clifton Suspension Bridge, Bristol, visit from 09:21 to 14:00, ; Bristol Seafood + Steak + Social, Bristol, visit from 14:30 to 15:30, ; Blackbird Bakery, Bristol, visit from 20:45 to 23:09, ; CozyUrbanLoft Downtown-Walk to Restaurants-Fun, stay from 23:39 to 07:39, nearest transit: Downtown Transfer Center, 126.2m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chicago",
+    "transportation": "Taxi from Bristol to Chicago, duration: 691.9866666666666, distance: 965.0259, cost : 965.0",
+    "breakfast": "Bravas, Bristol",
+    "lunch": "Bristol Seafood Grill, Bristol",
+    "dinner": "Bristol Seafood Restaurant, Bristol",
+    "attraction": "Wills Memorial Building And Tower Tours, Bristol",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "CozyUrbanLoft Downtown-Walk to Restaurants-Fun, stay from 08:09 to 08:39, nearest transit: Downtown Transfer Center, 126.2m away; Bravas, Bristol, visit from 09:09 to 09:59, ; Bristol Seafood Grill, Bristol, visit from 14:00 to 15:00, ; Wills Memorial Building And Tower Tours, Bristol, visit from 15:30 to 19:00, ; Bristol Seafood Restaurant, Bristol, visit from 19:30 to 20:45, "
+  }
+]

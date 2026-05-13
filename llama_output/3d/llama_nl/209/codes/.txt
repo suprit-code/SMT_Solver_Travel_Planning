@@ -1,0 +1,26 @@
+
+    # Define the list of accommodations
+    accommodations = [
+        {'name': 'Accommodation 1', 'house_rules': ['No pets', 'No smoking']},
+        {'name': 'Accommodation 2', 'house_rules': ['No pets']},
+        {'name': 'Accommodation 3', 'house_rules': ['No smoking']}
+    ]
+    
+    # For each 'accommodation_index', get specific house rules info
+    for accommodation_index, accommodation in enumerate(accommodations):
+        print(f"Accommodation {accommodation_index + 1}: {accommodation['name']}")
+    
+        # Check if 'No smoking' exists in the house rules
+        if 'No smoking' in accommodation['house_rules']:
+            print(f"'No smoking' exists for Accommodation {accommodation_index + 1}")
+        else:
+            print(f"'No smoking' does not exist for Accommodation {accommodation_index + 1}")
+    
+    # Assert 'No smoking' does not exist for all accommodations
+    assert all('No smoking' not in accommodation['house_rules'] for accommodation in accommodations), "'No smoking' exists for at least one accommodation"
+    
+    # Assert 'No smoking' exists for at least one accommodation
+    assert any('No smoking' in accommodation['house_rules'] for accommodation in accommodations), "'No smoking' does not exist for any accommodation"
+    
+    
+    This code will print out the house rules for each accommodation, check if 'No smoking' exists for each accommodation, and then assert that 'No smoking' does not exist for all accommodations and exists for at least one accommodation. If the assertions fail, it will raise an AssertionError.

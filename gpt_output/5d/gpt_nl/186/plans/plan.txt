@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-07', '2024-11-09', '2024-11-11'],
+Transportation methods between cities: ['Flight Number: F3373256, from Boise to San Diego, Departure Time: 12:04, Arrival Time: 13:26', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Boise, duration: 689.16, distance: 840.3919000000001, cost: 840'],
+Restaurants (3 meals per day): ['-', 'Juniper and Ivy, San Diego', "Filippi's Pizza Grotto Little Italy, San Diego", "Lou & Mickey's, San Diego", 'Born & Raised, San Diego', 'Morning Glory, San Diego', 'Pacific Beach AleHouse, San Diego', "Mimmo's, San Diego", "Ruth's Chris Steak House, San Diego", "Nello's Place, Redding", 'Vintage Public House, Redding', 'Cicada Cantina, Redding', 'Thai Hut, Redding', "Jack's Grill, Redding", 'Dam Burger, Redding'],
+Attractions (1 per day): ['SeaWorld, San Diego', 'San Diego Zoo, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Turtle Bay Exploration Park, Redding', 'Sundial Bridge, Redding'],
+Accommodations (1 per city): ['Private Hideaway, Shelter Island, Beach  & Bay, San Diego', 'Hello, Redding!, Redding']

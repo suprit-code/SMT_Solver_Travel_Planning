@@ -1,0 +1,6 @@
+Destination cities: ['Las Vegas'],
+Transportation dates: ['2024-11-04', '2024-11-06'],
+Transportation methods between cities: ['Flight Number: F0270992, from Hartford to Las Vegas, Departure Time: 19:00, Arrival Time: 21:44', 'Flight Number: F0821771, from Las Vegas to Hartford, Departure Time: 23:55, Arrival Time: 07:40'],
+Restaurants (3 meals per day): ['-', '-', 'Primal Steakhouse, Las Vegas', 'Firefly Tapas Kitchen & Bar, Las Vegas', "Vic & Anthony's Steakhouse, Las Vegas", "Gordon Ramsay Hell's Kitchen, Las Vegas", 'PRIME Steakhouse, Las Vegas', '-', '-'],
+Attractions (1 per day): ['-', 'The Grand Canal Shoppes at The Venetian Resort, Las Vegas', '-'],
+Accommodations (1 per city): ['Vdara Studio 52nd FL Bellagio Ftns NO RESORT FEES, Las Vegas']

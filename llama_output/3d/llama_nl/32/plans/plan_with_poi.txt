@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Albany to Nashville",
+    "transportation": "Flight Number: F2105072, from Albany to Nashville, Departure Time: 11:04, Arrival Time: 12:47",
+    "breakfast": "-",
+    "lunch": "Gannons Nashville, Nashville",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "-",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 13:17 to 13:47, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Gannons Nashville, Nashville, visit from 14:17 to 15:17, ; Aquarium Restaurant, Nashville, visit from 19:18 to 20:33, ; Private Entrance near Airport in Safe neighborhood, stay from 21:03 to 05:03, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Harriet's Rooftop, Nashville",
+    "lunch": "Honky Tonk – The Twelve Thirty Club, Nashville",
+    "dinner": "Paula Deen's Family Kitchen, Nashville",
+    "attraction": "Gaylord Opryland Garden Conservatory, Nashville",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 06:00 to 06:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Harriet's Rooftop, Nashville, visit from 08:03 to 08:53, ; Honky Tonk – The Twelve Thirty Club, Nashville, visit from 12:54 to 13:54, ; Gaylord Opryland Garden Conservatory, Nashville, visit from 14:24 to 17:54, ; Paula Deen's Family Kitchen, Nashville, visit from 19:00 to 20:15, ; Private Entrance near Airport in Safe neighborhood, stay from 20:45 to 04:45, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Albany",
+    "transportation": "Taxi from Nashville to Albany, duration: 1129.86, distance: 1615.2378, cost : 1615.0",
+    "breakfast": "The Southern Steak & Oyster, Nashville",
+    "lunch": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "dinner": "Kayne Prime, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 06:00 to 06:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; The Southern Steak & Oyster, Nashville, visit from 08:00 to 08:50, ; Cheekwood, Nashville, visit from 09:20 to 12:50, ; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 13:20 to 14:20, ; Kayne Prime, Nashville, visit from 19:00 to 20:15, "
+  }
+]

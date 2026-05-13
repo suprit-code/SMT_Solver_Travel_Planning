@@ -1,0 +1,6 @@
+Destination cities: ['Bloomington'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['taxi, from Tampa to Bloomington, duration: 1228.5449999999998, distance: 1769.4128, cost: 1769', 'taxi, from Bloomington to Tampa, duration: 1224.335, distance: 1765.7608, cost: 1765'],
+Restaurants (3 meals per day): ['-', '-', '-', "Bub's Burgers and Ice Cream, Bloomington", 'Malibu Grill, Bloomington', 'Epiphany Farms Restaurant, Bloomington', 'Big Woods Bloomington, Bloomington', 'The Chocolate Moose, Bloomington', 'My Thai Cafe & Sushi Bar, Bloomington'],
+Attractions (1 per day): ['-', 'Miller Park Zoo, Bloomington', 'Monroe County History Center and Research Library, Bloomington'],
+Accommodations (1 per city): ['BNB Barker # 1, Bloomington']

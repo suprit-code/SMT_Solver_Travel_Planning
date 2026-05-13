@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to San Francisco",
+    "transportation": "Flight Number: F1787344, from Boise to San Francisco, Departure Time: 06:37, Arrival Time: 07:42",
+    "breakfast": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "lunch": "Mo's Grill, San Francisco",
+    "dinner": "House of Prime Rib, San Francisco",
+    "attraction": "-",
+    "accommodation": "Style & Comfort-Private Suite near UCSF and GGPark, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Style & Comfort-Private Suite near UCSF and GGPark, stay from 08:12 to 08:42, nearest transit: Civic Center BART (9th and Market), 5178.06m away; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 09:12 to 10:02, ; Mo's Grill, San Francisco, visit from 14:03 to 15:03, ; House of Prime Rib, San Francisco, visit from 19:04 to 20:19, ; Style & Comfort-Private Suite near UCSF and GGPark, stay from 20:49 to 04:49, nearest transit: Civic Center BART (9th and Market), 5178.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "The Codmother Fish & Chips, San Francisco",
+    "dinner": "Fog Harbor Fish House, San Francisco",
+    "attraction": "Japanese Tea Garden, San Francisco",
+    "accommodation": "Style & Comfort-Private Suite near UCSF and GGPark, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Style & Comfort-Private Suite near UCSF and GGPark, stay from 06:00 to 08:20, nearest transit: Civic Center BART (9th and Market), 5178.06m away; Quince, San Francisco, visit from 08:50 to 09:40, ; Japanese Tea Garden, San Francisco, visit from 10:10 to 14:00, ; The Codmother Fish & Chips, San Francisco, visit from 14:30 to 15:30, ; Fog Harbor Fish House, San Francisco, visit from 19:31 to 20:46, ; Style & Comfort-Private Suite near UCSF and GGPark, stay from 21:16 to 07:40, nearest transit: Civic Center BART (9th and Market), 5178.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Boise",
+    "transportation": "Flight Number: F2351520, from San Francisco to Boise, Departure Time: 18:21, Arrival Time: 20:54",
+    "breakfast": "Capital Restaurant, San Francisco",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "dinner": "-",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Style & Comfort-Private Suite near UCSF and GGPark, stay from 08:10 to 08:40, nearest transit: Civic Center BART (9th and Market), 5178.06m away; Capital Restaurant, San Francisco, visit from 09:10 to 10:00, ; Lands End, San Francisco, visit from 10:30 to 14:00, ; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 14:30 to 15:30, "
+  }
+]

@@ -1,0 +1,7 @@
+########## Driving response ##########
+    driving_info = DistanceSearch.run_for_all_cities('Seattle', cities, [city_0])  # use driving_info, do not customize
+    driving_0_distance, driving_0_length = DistanceSearch.get_info(driving_info, 'Seattle', variables['city'][0], 'Distance')
+    driving_1_distance, driving_1_length = DistanceSearch.get_info(driving_info, variables['city'][0], 'Seattle', 'Distance')
+    s.assert_and_track(Implies(Or(variables['taxi'][0], variables['uber'][0]), driving_0_length > 0), 'driving is possible for transportation 0')
+    s.assert_and_track(Implies(Or(variables['taxi'][1], variables['uber'][1]), driving_1_length > 0), 'driving is possible for transportation 1')
+    ########## Driving response ends ##########

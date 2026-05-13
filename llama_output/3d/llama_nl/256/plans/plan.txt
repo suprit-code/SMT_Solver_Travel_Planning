@@ -1,0 +1,6 @@
+Destination cities: ['Colorado Springs'],
+Transportation dates: ['2024-11-17', '2024-11-19'],
+Transportation methods between cities: ['Self-driving, from Las Vegas to Colorado Springs, duration: 844.2, distance: 1309.3198, cost: 65', 'Self-driving, from Colorado Springs to Las Vegas, duration: 842.7216666666667, distance: 1310.3347, cost: 65'],
+Restaurants (3 meals per day): ['-', '-', '-', 'The Steakhouse At Flying Horse, Colorado Springs', 'Cowboy Star, Colorado Springs', 'The Melting Pot, Colorado Springs', "MacKenzie's Chop House, Colorado Springs", 'Summit at The Broadmoor, Colorado Springs', 'Carlos Bistro, Colorado Springs'],
+Attractions (1 per day): ['-', 'Seven Falls, Colorado Springs', 'Garden of the Gods, Colorado Springs'],
+Accommodations (1 per city): ['Casa De Mariposas, Colorado Springs']

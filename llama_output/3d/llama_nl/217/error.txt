@@ -1,0 +1,13 @@
+
+--- JOB 217 FAILED ---
+Error: invalid syntax (<string>, line 168)
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 168
+    In this example, we first define the `house_rules` list. Then, we use a `for` loop to iterate over each rule in the list. Inside the loop, we define a function `is_rule_satisfied` that checks if a given rule is satisfied (in this case, we're just checking if it's a string). We then use the `assert` statement to check if the rule is satisfied, and if not, we print an error message.
+       ^
+SyntaxError: invalid syntax
+
+----------------------------------------

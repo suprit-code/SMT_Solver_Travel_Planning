@@ -1,0 +1,13 @@
+
+--- JOB 106 FAILED ---
+Error: invalid syntax (<string>, line 185)
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 185
+    In this example, we define a function `get_house_rules` to get the specific house rules info for a given accommodation index. We then define a test function `test_no_parties_exist` to assert that 'No parties' exist in the house rules for all accommodations. The `assert` statement is used to check if 'No parties' is present in the house rules. If it's not found, an `AssertionError` is raised with a message indicating the accommodation index where 'No parties' was not found.
+       ^
+SyntaxError: invalid syntax
+
+----------------------------------------

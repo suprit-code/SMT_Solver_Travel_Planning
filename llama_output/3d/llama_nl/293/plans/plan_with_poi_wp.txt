@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Indianapolis",
+    "transportation": "Taxi from Detroit to Indianapolis, duration: 328.28, distance: 447.7004, cost : 447.0",
+    "breakfast": "-",
+    "lunch": "Late Harvest, Indianapolis",
+    "dinner": "Agave & Rye Indianapolis, Indianapolis",
+    "attraction": "-",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 12:30 to 13:00, nearest transit: New York St & State St, 65.71m away; Late Harvest, Indianapolis, visit from 13:30 to 14:30, ; Agave & Rye Indianapolis, Indianapolis, visit from 19:00 to 20:15, ; Queen Bed Getaway Room Downtown Indy, stay from 23:34 to 07:34, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Tony's of Indianapolis, Indianapolis",
+    "lunch": "The Capital Grille, Indianapolis",
+    "dinner": "Canal Bistro, Indianapolis",
+    "attraction": "Indianapolis Zoo, Indianapolis",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 08:04 to 08:34, nearest transit: New York St & State St, 65.71m away; Tony's of Indianapolis, Indianapolis, visit from 09:04 to 10:00, ; Indianapolis Zoo, Indianapolis, visit from 10:30 to 14:00, ; The Capital Grille, Indianapolis, visit from 14:30 to 16:44, ; Canal Bistro, Indianapolis, visit from 20:45 to 23:30, ; Queen Bed Getaway Room Downtown Indy, stay from 00:00 to 08:00, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Detroit",
+    "transportation": "Flight Number: F2774459, from Indianapolis to Detroit, Departure Time: 18:11, Arrival Time: 19:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Lucas Oil Stadium, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 08:30 to 09:00, nearest transit: New York St & State St, 65.71m away; Lucas Oil Stadium, Indianapolis, visit from 09:30 to 13:00, "
+  }
+]

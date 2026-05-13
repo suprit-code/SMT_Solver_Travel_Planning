@@ -1,0 +1,13 @@
+
+    # Get house rules info for city_0
+    house_rules = get_house_rules(city_0)
+    
+    # Set 'house_rule' variable for house rules
+    house_rule = house_rules
+    
+    # Assert 'No children under 10' is satisfied for all accommodations
+    for accommodation in house_rule['accommodations']:
+        for rule in accommodation['rules']:
+            if rule['name'] == 'No children under 10':
+                assert rule['satisfied'] == True
+    

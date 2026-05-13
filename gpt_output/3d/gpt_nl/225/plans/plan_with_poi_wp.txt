@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Houston",
+    "transportation": "Flight Number: F4040940, from New York to Houston, Departure Time: 06:00, Arrival Time: 08:55",
+    "breakfast": "-",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "Hugo's, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Secluded Room with En-suite Bathroom Midtown, Houston",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 09:25 to 10:00, nearest transit: W Gray St @ Bailey St, 81.25m away; Hermann Park, Houston, visit from 10:30 to 14:00, ; Eddie V's Prime Seafood, Houston, visit from 14:30 to 16:44, ; Hugo's, Houston, visit from 20:45 to 22:35, ; Secluded Room with En-suite Bathroom Midtown, stay from 23:05 to 07:05, nearest transit: W Gray St @ Bailey St, 81.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Secluded Room with En-suite Bathroom Midtown, Houston",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 07:35 to 08:05, nearest transit: W Gray St @ Bailey St, 81.25m away; Brennan's of Houston, Houston, visit from 08:35 to 09:25, ; Houston Zoo, Houston, visit from 09:55 to 13:25, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 13:55 to 14:59, ; Pappas Bros. Steakhouse, Houston, visit from 19:00 to 22:59, ; Secluded Room with En-suite Bathroom Midtown, stay from 23:29 to 07:29, nearest transit: W Gray St @ Bailey St, 81.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to New York",
+    "transportation": "Flight Number: F0988929, from Houston to New York, Departure Time: 14:19, Arrival Time: 18:17",
+    "breakfast": "Houston White Co, Houston",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 07:59 to 08:29, nearest transit: W Gray St @ Bailey St, 81.25m away; Houston White Co, Houston, visit from 08:59 to 09:49, ; Downtown Aquarium, Houston, visit from 10:19 to 13:49, "
+  }
+]

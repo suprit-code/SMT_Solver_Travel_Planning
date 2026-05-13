@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Newburgh to Savannah",
+    "transportation": "Self-driving from Newburgh to Savannah, duration: 993.655, distance: 1386.7442, cost : 69.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Beautiful Sunny  Room, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 23:03 to 23:33, nearest transit: MLK & 37th NB, 104.53m away; Beautiful Sunny  Room, stay from 00:03 to 08:00, nearest transit: MLK & 37th NB, 104.53m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Goose Feathers Cafe & Bakery, Savannah",
+    "lunch": "Rocks on the Roof, Savannah",
+    "dinner": "Little Duck Diner, Savannah",
+    "attraction": "-",
+    "accommodation": "Beautiful Sunny  Room, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 08:30 to 09:00, nearest transit: MLK & 37th NB, 104.53m away; Goose Feathers Cafe & Bakery, Savannah, visit from 09:37 to 10:29, ; Rocks on the Roof, Savannah, visit from 14:30 to 15:30, ; Little Duck Diner, Savannah, visit from 20:45 to 22:00, ; Beautiful Sunny  Room, stay from 22:30 to 06:30, nearest transit: MLK & 37th NB, 104.53m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Newburgh",
+    "transportation": "Self-driving from Savannah to Newburgh, duration: 989.985, distance: 1384.401, cost : 69.0",
+    "breakfast": "Vinnie Van Go-Go's, Savannah",
+    "lunch": "Huey's On The River, Savannah",
+    "dinner": "Madame Butterfly, Savannah",
+    "attraction": "Old Fort Jackson, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 07:00 to 08:40, nearest transit: MLK & 37th NB, 104.53m away; Vinnie Van Go-Go's, Savannah, visit from 09:10 to 10:00, ; Old Fort Jackson, Savannah, visit from 10:30 to 14:00, ; Huey's On The River, Savannah, visit from 14:30 to 15:30, ; Madame Butterfly, Savannah, visit from 19:31 to 20:46, "
+  }
+]

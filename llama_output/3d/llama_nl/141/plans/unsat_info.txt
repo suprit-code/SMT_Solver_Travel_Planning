@@ -1,0 +1,6 @@
+not ok
+Unsatisfiable core:
+visit city in cities list
+valid accomodation index
+Private roomtypes accomadation visited
+No children under 10rules accomadation visited

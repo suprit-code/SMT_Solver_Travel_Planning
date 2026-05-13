@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F3772502, from Hartford to Las Vegas, Departure Time: 17:08, Arrival Time: 19:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 19:47 to 21:00, nearest transit: Fremont East Entertainment District, 1810.6m away; Room in Down Town Las Vegas., stay from 21:30 to 05:30, nearest transit: Fremont East Entertainment District, 1810.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Eggscellent, Las Vegas",
+    "lunch": "Carmine's, Las Vegas",
+    "dinner": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 06:00 to 06:30, nearest transit: Fremont East Entertainment District, 1810.6m away; Eggscellent, Las Vegas, visit from 08:01 to 09:59, ; Carmine's, Las Vegas, visit from 14:00 to 15:00, ; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 19:45 to 21:00, ; Room in Down Town Las Vegas., stay from 21:30 to 05:30, nearest transit: Fremont East Entertainment District, 1810.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F3770462, from Las Vegas to Hartford, Departure Time: 21:26, Arrival Time: 05:08",
+    "breakfast": "-",
+    "lunch": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "dinner": "Mon Ami Gabi, Las Vegas",
+    "attraction": "The LINQ Promenade, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 06:00 to 06:30, nearest transit: Fremont East Entertainment District, 1810.6m away; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 12:51 to 13:51, ; The LINQ Promenade, Las Vegas, visit from 15:00 to 18:30, ; Mon Ami Gabi, Las Vegas, visit from 19:00 to 20:15, "
+  }
+]

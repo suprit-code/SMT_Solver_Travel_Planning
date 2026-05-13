@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Houston",
+    "transportation": "Flight Number: F3151548, from New York to Houston, Departure Time: 09:04, Arrival Time: 12:09",
+    "breakfast": "-",
+    "lunch": "The Original Ninfa's, Houston",
+    "dinner": "Houstons Bar and Grill, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Modern Guesthouse in the Heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 12:39 to 13:09, nearest transit: Heights Blvd @ W 15th St, 357.4m away; The Original Ninfa's, Houston, visit from 13:39 to 14:39, ; Hermann Park, Houston, visit from 15:09 to 18:39, ; Houstons Bar and Grill, Houston, visit from 20:45 to 23:00, ; Modern Guesthouse in the Heart of the Heights, stay from 23:30 to 07:30, nearest transit: Heights Blvd @ W 15th St, 357.4m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Modern Guesthouse in the Heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 08:00 to 08:30, nearest transit: Heights Blvd @ W 15th St, 357.4m away; Brennan's of Houston, Houston, visit from 09:00 to 09:50, ; Pappadeaux Seafood Kitchen, Houston, visit from 13:51 to 14:51, ; Downtown Aquarium, Houston, visit from 15:21 to 18:51, ; Pappas Bros. Steakhouse, Houston, visit from 19:21 to 22:00, ; Modern Guesthouse in the Heart of the Heights, stay from 22:30 to 06:30, nearest transit: Heights Blvd @ W 15th St, 357.4m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to New York",
+    "transportation": "Flight Number: F4060003, from Houston to New York, Departure Time: 18:52, Arrival Time: 23:23",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "lunch": "Houston's, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 07:00 to 07:30, nearest transit: Heights Blvd @ W 15th St, 357.4m away; Fogo de Chao Brazilian Steakhouse, Houston, visit from 08:00 to 08:50, ; Houston's, Houston, visit from 12:51 to 13:51, ; Houston Zoo, Houston, visit from 14:21 to 17:51, "
+  }
+]

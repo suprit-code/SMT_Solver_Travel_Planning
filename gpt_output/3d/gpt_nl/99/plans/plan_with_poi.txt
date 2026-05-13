@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Las Vegas",
+    "transportation": "Flight Number: F2562339, from Memphis to Las Vegas, Departure Time: 22:46, Arrival Time: 00:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 00:43 to 01:13, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 01:43 to 08:00, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Kabuto, Las Vegas",
+    "lunch": "THE Steak House, Las Vegas",
+    "dinner": "Top of the World, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:30 to 09:00, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Kabuto, Las Vegas, visit from 09:39 to 10:29, ; THE Steak House, Las Vegas, visit from 14:30 to 16:44, ; Top of the World, Las Vegas, visit from 20:45 to 23:10, ; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 23:40 to 07:40, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Memphis",
+    "transportation": "Flight Number: F0376611, from Las Vegas to Memphis, Departure Time: 16:07, Arrival Time: 21:45",
+    "breakfast": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "lunch": "Vic & Anthony's Steakhouse, Las Vegas",
+    "dinner": "-",
+    "attraction": "Fashion Show Las Vegas, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:10 to 08:40, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 09:10 to 10:00, ; Fashion Show Las Vegas, Las Vegas, visit from 10:30 to 14:00, ; Vic & Anthony's Steakhouse, Las Vegas, visit from 14:30 to 15:30, "
+  }
+]

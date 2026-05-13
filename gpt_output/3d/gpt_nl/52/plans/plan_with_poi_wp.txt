@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Albuquerque to San Francisco",
+    "transportation": "Flight Number: F0616416, from Albuquerque to San Francisco, Departure Time: 15:47, Arrival Time: 17:19",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mo's Grill, San Francisco",
+    "attraction": "-",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 17:49 to 18:36, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Mo's Grill, San Francisco, visit from 19:06 to 20:46, ; Updated Private Bedroom with Ensuite Bathroom., stay from 21:16 to 07:25, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Fog Harbor Fish House, San Francisco",
+    "lunch": "The Codmother Fish & Chips, San Francisco",
+    "dinner": "Blue Mermaid Restaurant, San Francisco",
+    "attraction": "Ferry Building Marketplace, San Francisco",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 07:55 to 08:25, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Fog Harbor Fish House, San Francisco, visit from 08:55 to 09:59, ; The Codmother Fish & Chips, San Francisco, visit from 14:00 to 15:00, ; Ferry Building Marketplace, San Francisco, visit from 15:30 to 19:00, ; Blue Mermaid Restaurant, San Francisco, visit from 19:30 to 20:45, ; Updated Private Bedroom with Ensuite Bathroom., stay from 21:15 to 05:15, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Albuquerque",
+    "transportation": "Flight Number: F0584696, from San Francisco to Albuquerque, Departure Time: 19:29, Arrival Time: 22:47",
+    "breakfast": "Capital Restaurant, San Francisco",
+    "lunch": "Good Mong Kok Bakery, San Francisco",
+    "dinner": "-",
+    "attraction": "Exploratorium, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 06:00 to 06:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Capital Restaurant, San Francisco, visit from 08:00 to 08:50, ; Good Mong Kok Bakery, San Francisco, visit from 12:51 to 13:51, ; Exploratorium, San Francisco, visit from 14:21 to 18:59, "
+  }
+]

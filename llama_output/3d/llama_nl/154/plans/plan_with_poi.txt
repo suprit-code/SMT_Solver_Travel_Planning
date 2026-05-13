@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to San Francisco",
+    "transportation": "Flight Number: F3828340, from Boise to San Francisco, Departure Time: 16:25, Arrival Time: 16:58",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Quince, San Francisco",
+    "attraction": "-",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 17:28 to 17:58, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Quince, San Francisco, visit from 19:00 to 20:15, ; Spacious and charming 1bd apartment on Ocean Beach, stay from 20:45 to 04:45, nearest transit: Civic Center BART (9th and Market), 8766.73m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Good Mong Kok Bakery, San Francisco",
+    "lunch": "The Codmother Fish & Chips, San Francisco",
+    "dinner": "Mo's Grill, San Francisco",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 06:00 to 07:32, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Good Mong Kok Bakery, San Francisco, visit from 08:02 to 09:59, ; The Codmother Fish & Chips, San Francisco, visit from 14:00 to 15:00, ; Golden Gate Park, San Francisco, visit from 15:30 to 19:00, ; Mo's Grill, San Francisco, visit from 19:30 to 20:45, ; Spacious and charming 1bd apartment on Ocean Beach, stay from 21:30 to 05:30, nearest transit: Civic Center BART (9th and Market), 8766.73m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Boise",
+    "transportation": "Flight Number: F0614625, from San Francisco to Boise, Departure Time: 19:39, Arrival Time: 22:11",
+    "breakfast": "Waterbar, San Francisco",
+    "lunch": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "dinner": "-",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Waterbar, San Francisco, visit from 09:09 to 09:59, ; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 14:00 to 15:00, ; Pier 39, San Francisco, visit from 15:30 to 19:00, "
+  }
+]

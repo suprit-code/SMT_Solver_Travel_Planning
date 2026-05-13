@@ -1,0 +1,1 @@
+Design a 7-day travel itinerary for 1 person starting from Atlanta and visiting 3 cities in Tennessee between November 6th and November 12th, 2024. The budget is $5,700. Accommodations should be in an entire home, and the mode of transportation should exclude flights.

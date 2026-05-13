@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Baltimore to San Diego",
+    "transportation": "Flight Number: F2176037, from Baltimore to San Diego, Departure Time: 10:31, Arrival Time: 12:49",
+    "breakfast": "-",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "-",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 13:19 to 13:49, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Mimmo's, San Diego, visit from 14:19 to 16:44, ; Born & Raised, San Diego, visit from 20:45 to 22:00, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 22:30 to 06:30, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Dockside 1953, San Diego",
+    "dinner": "Barbusa, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 07:00 to 07:30, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Din Tai Fung, San Diego, visit from 08:00 to 08:50, ; Dockside 1953, San Diego, visit from 12:51 to 13:51, ; Cabrillo National Monument, San Diego, visit from 14:21 to 18:30, ; Barbusa, San Diego, visit from 19:00 to 20:37, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 21:07 to 05:07, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Flight Number: F3840708, from San Diego to Los Angeles, Departure Time: 06:37, Arrival Time: 08:20",
+    "breakfast": "-",
+    "lunch": "Spire 73, Los Angeles",
+    "dinner": "The Lobster, Los Angeles",
+    "attraction": "Hollywood Walk of Fame, Los Angeles",
+    "accommodation": "MidCity private suite w/ fireplace & HOT TUB!, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 05:37 to 06:07, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; MidCity private suite w/ fireplace & HOT TUB!, stay from 08:50 to 09:20, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away; Hollywood Walk of Fame, Los Angeles, visit from 09:50 to 13:20, ; Spire 73, Los Angeles, visit from 13:50 to 14:50, ; The Lobster, Los Angeles, visit from 19:00 to 20:15, ; MidCity private suite w/ fireplace & HOT TUB!, stay from 20:45 to 07:37, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Yang Chow, Los Angeles",
+    "lunch": "Water Grill, Los Angeles",
+    "dinner": "Providence, Los Angeles",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "MidCity private suite w/ fireplace & HOT TUB!, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "MidCity private suite w/ fireplace & HOT TUB!, stay from 08:07 to 08:37, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away; Yang Chow, Los Angeles, visit from 09:07 to 09:57, ; Walt Disney Concert Hall, Los Angeles, visit from 10:27 to 13:57, ; Water Grill, Los Angeles, visit from 14:27 to 15:27, ; Providence, Los Angeles, visit from 19:28 to 20:43, ; MidCity private suite w/ fireplace & HOT TUB!, stay from 21:13 to 05:13, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Flight Number: F3995184, from Los Angeles to San Francisco, Departure Time: 22:26, Arrival Time: 23:38",
+    "breakfast": "The Boiling Crab, Los Angeles",
+    "lunch": "n/naka, Los Angeles",
+    "dinner": "Langer's Delicatessen Restaurant, Los Angeles",
+    "attraction": "Hollywood Sign, Los Angeles",
+    "accommodation": "Glorious Room in Victorian Home, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "MidCity private suite w/ fireplace & HOT TUB!, stay from 06:00 to 06:30, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away; The Boiling Crab, Los Angeles, visit from 08:00 to 10:00, ; Hollywood Sign, Los Angeles, visit from 10:30 to 14:00, ; n/naka, Los Angeles, visit from 14:30 to 16:40, ; Langer's Delicatessen Restaurant, Los Angeles, visit from 20:41 to 21:56, ; Glorious Room in Victorian Home, stay from 00:08 to 00:38, nearest transit: Civic Center BART (9th and Market), 1469.83m away; Glorious Room in Victorian Home, stay from 01:08 to 08:00, nearest transit: Civic Center BART (9th and Market), 1469.83m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Waterbar, San Francisco",
+    "lunch": "Kokkari Estiatorio, San Francisco",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "attraction": "-",
+    "accommodation": "Glorious Room in Victorian Home, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Glorious Room in Victorian Home, stay from 08:30 to 09:00, nearest transit: Civic Center BART (9th and Market), 1469.83m away; Waterbar, San Francisco, visit from 09:39 to 10:29, ; Kokkari Estiatorio, San Francisco, visit from 14:30 to 15:30, ; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 19:31 to 20:46, ; Glorious Room in Victorian Home, stay from 21:16 to 05:16, nearest transit: Civic Center BART (9th and Market), 1469.83m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to Baltimore",
+    "transportation": "Flight Number: F0539461, from San Francisco to Baltimore, Departure Time: 23:00, Arrival Time: 07:14",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Ghirardelli Square, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Glorious Room in Victorian Home, stay from 06:00 to 09:00, nearest transit: Civic Center BART (9th and Market), 1469.83m away; Ghirardelli Square, San Francisco, visit from 09:30 to 13:00, "
+  }
+]

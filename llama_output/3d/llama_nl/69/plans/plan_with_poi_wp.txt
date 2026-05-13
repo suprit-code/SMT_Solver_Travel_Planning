@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Los Angeles",
+    "transportation": "Flight Number: F3327836, from New York to Los Angeles, Departure Time: 13:57, Arrival Time: 17:05",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Leo & Lily, Los Angeles",
+    "attraction": "-",
+    "accommodation": "Pristine Mid Century Gem Near USC Hospital, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Pristine Mid Century Gem Near USC Hospital, stay from 17:35 to 18:30, nearest transit: Wabash Ave & Forest Ave (Westbound) (4319), 326.49m away; Leo & Lily, Los Angeles, visit from 19:00 to 22:15, ; Pristine Mid Century Gem Near USC Hospital, stay from 22:45 to 06:45, nearest transit: Wabash Ave & Forest Ave (Westbound) (4319), 326.49m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Bavel, Los Angeles",
+    "lunch": "25 Degrees, Los Angeles",
+    "dinner": "Ayara Thai Cuisine, Los Angeles",
+    "attraction": "Venice Canals Walkway, Los Angeles",
+    "accommodation": "Pristine Mid Century Gem Near USC Hospital, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Pristine Mid Century Gem Near USC Hospital, stay from 07:15 to 07:45, nearest transit: Wabash Ave & Forest Ave (Westbound) (4319), 326.49m away; Bavel, Los Angeles, visit from 08:15 to 10:00, ; Venice Canals Walkway, Los Angeles, visit from 10:30 to 14:00, ; 25 Degrees, Los Angeles, visit from 14:30 to 15:30, ; Ayara Thai Cuisine, Los Angeles, visit from 19:31 to 20:46, ; Pristine Mid Century Gem Near USC Hospital, stay from 21:16 to 05:16, nearest transit: Wabash Ave & Forest Ave (Westbound) (4319), 326.49m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to New York",
+    "transportation": "Flight Number: F0284109, from Los Angeles to New York, Departure Time: 13:11, Arrival Time: 21:59",
+    "breakfast": "L'Antica Pizzeria Da Michele, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Pristine Mid Century Gem Near USC Hospital, stay from 06:00 to 06:30, nearest transit: Wabash Ave & Forest Ave (Westbound) (4319), 326.49m away; L'Antica Pizzeria Da Michele, Los Angeles, visit from 08:00 to 08:50, "
+  }
+]

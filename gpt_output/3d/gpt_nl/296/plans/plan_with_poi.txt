@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Seattle",
+    "transportation": "Flight Number: F3305579, from Oklahoma City to Seattle, Departure Time: 14:29, Arrival Time: 16:39",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bacco Cafe, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 17:09 to 18:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Bacco Cafe, Seattle, visit from 19:00 to 22:42, ; Cozy room near UW, stay from 23:12 to 07:12, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:42 to 08:39, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Vons 1000 Spirits, Seattle, visit from 09:09 to 09:59, ; Noi Thai Cuisine, Seattle, visit from 14:00 to 15:00, ; Hiram M. Chittenden Locks, Seattle, visit from 15:30 to 19:00, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 19:30 to 20:45, ; Cozy room near UW, stay from 21:15 to 05:15, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Oklahoma City",
+    "transportation": "Flight Number: F1515441, from Seattle to Oklahoma City, Departure Time: 10:01, Arrival Time: 15:54",
+    "breakfast": "Chan Seattle, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Chan Seattle, Seattle, visit from 08:00 to 08:50, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to Nashville",
+    "transportation": "Flight Number: F0317757, from Atlanta to Nashville, Departure Time: 17:19, Arrival Time: 17:28",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Paula Deen's Family Kitchen, Nashville",
+    "attraction": "-",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 17:58 to 18:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Paula Deen's Family Kitchen, Nashville, visit from 19:00 to 22:43, ; Private Entrance near Airport in Safe neighborhood, stay from 23:13 to 07:13, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "1 Kitchen, Nashville",
+    "lunch": "Harriet's Rooftop, Nashville",
+    "dinner": "Honky Tonk – The Twelve Thirty Club, Nashville",
+    "attraction": "Bridgestone Arena, Nashville",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 07:43 to 08:13, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; 1 Kitchen, Nashville, visit from 08:43 to 10:00, ; Bridgestone Arena, Nashville, visit from 10:30 to 14:00, ; Harriet's Rooftop, Nashville, visit from 14:30 to 15:30, ; Honky Tonk – The Twelve Thirty Club, Nashville, visit from 19:31 to 20:46, ; Private Entrance near Airport in Safe neighborhood, stay from 21:16 to 05:16, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Atlanta",
+    "transportation": "Flight Number: F0866441, from Nashville to Atlanta, Departure Time: 17:54, Arrival Time: 20:00",
+    "breakfast": "Hand Cut Chophouse, Nashville",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 06:00 to 06:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Hand Cut Chophouse, Nashville, visit from 09:39 to 10:29, ; Belmont Mansion, Nashville, visit from 10:59 to 14:29, "
+  }
+]

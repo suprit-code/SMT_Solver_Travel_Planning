@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Key West to Nashville",
+    "transportation": "Flight Number: F0913613, from Key West to Nashville, Departure Time: 12:10, Arrival Time: 13:28",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Gannons Nashville, Nashville",
+    "attraction": "Belle Meade Historic Site & Winery, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 13:58 to 14:30, nearest transit: PEABODY STATION INBOUND, 149.43m away; Belle Meade Historic Site & Winery, Nashville, visit from 15:00 to 18:30, ; Gannons Nashville, Nashville, visit from 19:00 to 20:15, ; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 23:40 to 07:40, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Kayne Prime, Nashville",
+    "lunch": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "dinner": "Luogo, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 08:10 to 08:40, nearest transit: PEABODY STATION INBOUND, 149.43m away; Kayne Prime, Nashville, visit from 09:10 to 10:00, ; Belmont Mansion, Nashville, visit from 10:30 to 14:00, ; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 14:30 to 15:44, ; Luogo, Nashville, visit from 19:45 to 21:00, ; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 21:30 to 05:30, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "The Stillery, Nashville",
+    "lunch": "-",
+    "dinner": "Bristol Seafood Grill, Bristol",
+    "attraction": "Downtown Nashville, Nashville",
+    "accommodation": "Hard Rock Cottage - 3 Bedrooms, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 06:00 to 06:30, nearest transit: PEABODY STATION INBOUND, 149.43m away; The Stillery, Nashville, visit from 08:00 to 08:50, ; Downtown Nashville, Nashville, visit from 09:56 to 13:26, ; Hard Rock Cottage - 3 Bedrooms, stay from 19:45 to 20:15, nearest transit: Euclid Ave @ Grace Medical, 655.29m away; Bristol Seafood Grill, Bristol, visit from 20:45 to 22:26, ; Hard Rock Cottage - 3 Bedrooms, stay from 22:56 to 06:56, nearest transit: Euclid Ave @ Grace Medical, 655.29m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Bristol Lounge, Bristol",
+    "lunch": "Bristol Seafood Restaurant, Bristol",
+    "dinner": "Don Giovanni's Restaurant, Bristol",
+    "attraction": "Wills Memorial Building And Tower Tours, Bristol",
+    "accommodation": "Hard Rock Cottage - 3 Bedrooms, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Hard Rock Cottage - 3 Bedrooms, stay from 07:26 to 07:56, nearest transit: Euclid Ave @ Grace Medical, 655.29m away; Bristol Lounge, Bristol, visit from 08:26 to 10:00, ; Wills Memorial Building And Tower Tours, Bristol, visit from 10:30 to 14:00, ; Bristol Seafood Restaurant, Bristol, visit from 14:30 to 15:30, ; Don Giovanni's Restaurant, Bristol, visit from 19:31 to 20:46, ; Hard Rock Cottage - 3 Bedrooms, stay from 21:16 to 05:16, nearest transit: Euclid Ave @ Grace Medical, 655.29m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Bristol Seafood + Steak + Social, Bristol",
+    "lunch": "The Bristol Trader, Bristol",
+    "dinner": "Zaya 1943 Korean Steakhouse, Chattanooga",
+    "attraction": "Clifton Suspension Bridge, Bristol",
+    "accommodation": "Tadpole Cabin at Creek Road Farm, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Hard Rock Cottage - 3 Bedrooms, stay from 06:00 to 06:30, nearest transit: Euclid Ave @ Grace Medical, 655.29m away; Bristol Seafood + Steak + Social, Bristol, visit from 08:00 to 08:50, ; Clifton Suspension Bridge, Bristol, visit from 09:20 to 12:50, ; The Bristol Trader, Bristol, visit from 13:20 to 14:20, ; Tadpole Cabin at Creek Road Farm, stay from 19:29 to 19:59, nearest transit: ALABAMA + 56TH, 7628.82m away; Zaya 1943 Korean Steakhouse, Chattanooga, visit from 20:29 to 21:44, ; Tadpole Cabin at Creek Road Farm, stay from 22:14 to 06:14, nearest transit: ALABAMA + 56TH, 7628.82m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Public House, Chattanooga",
+    "lunch": "Alleia, Chattanooga",
+    "dinner": "Ruth's Chris Steak House, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "Tadpole Cabin at Creek Road Farm, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Tadpole Cabin at Creek Road Farm, stay from 06:44 to 07:14, nearest transit: ALABAMA + 56TH, 7628.82m away; Public House, Chattanooga, visit from 09:10 to 10:00, ; Tennessee Aquarium, Chattanooga, visit from 10:30 to 14:00, ; Alleia, Chattanooga, visit from 14:30 to 16:44, ; Ruth's Chris Steak House, Chattanooga, visit from 20:45 to 23:30, ; Tadpole Cabin at Creek Road Farm, stay from 00:00 to 08:00, nearest transit: ALABAMA + 56TH, 7628.82m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Key West",
+    "transportation": "Taxi from Chattanooga to Key West, duration: 1085.9233333333334, distance: 1509.1929, cost : 1509.0",
+    "breakfast": "-",
+    "lunch": "Hickory Pit Bar-B-Que, Chattanooga",
+    "dinner": "Mellow Mushroom Chattanooga, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tadpole Cabin at Creek Road Farm, stay from 08:30 to 09:00, nearest transit: ALABAMA + 56TH, 7628.82m away; Hickory Pit Bar-B-Que, Chattanooga, visit from 12:00 to 13:00, ; Coolidge Park, Chattanooga, visit from 13:30 to 18:30, ; Mellow Mushroom Chattanooga, Chattanooga, visit from 19:00 to 20:15, "
+  }
+]

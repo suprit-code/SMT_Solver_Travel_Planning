@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Washington",
+    "transportation": "Flight Number: F0120849, from Charleston to Washington, Departure Time: 16:16, Arrival Time: 17:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Unconventional Diner, Washington",
+    "attraction": "-",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 18:17 to 20:15, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away; Unconventional Diner, Washington, visit from 20:45 to 22:02, ; A Cozy room, stay from 22:32 to 06:32, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Ambar Shaw, Washington",
+    "lunch": "Thip Khao, Washington",
+    "dinner": "RPM Italian, Washington",
+    "attraction": "National Air and Space Museum, Washington",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 07:02 to 07:32, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away; Ambar Shaw, Washington, visit from 08:02 to 09:29, ; Thip Khao, Washington, visit from 13:30 to 14:30, ; National Air and Space Museum, Washington, visit from 15:00 to 18:30, ; RPM Italian, Washington, visit from 19:00 to 20:15, ; A Cozy room, stay from 23:40 to 07:40, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Charleston",
+    "transportation": "Flight Number: F1404529, from Washington to Charleston, Departure Time: 20:33, Arrival Time: 21:44",
+    "breakfast": "Smoke & Mirrors Rooftop Bar, Washington",
+    "lunch": "La Grande Boucherie, Washington",
+    "dinner": "-",
+    "attraction": "National Museum of American History, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 08:10 to 08:40, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away; Smoke & Mirrors Rooftop Bar, Washington, visit from 09:10 to 10:00, ; National Museum of American History, Washington, visit from 10:30 to 14:00, ; La Grande Boucherie, Washington, visit from 14:30 to 15:30, "
+  }
+]

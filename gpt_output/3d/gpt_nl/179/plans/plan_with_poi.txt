@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Houston",
+    "transportation": "Flight Number: F3451692, from Boston to Houston, Departure Time: 05:27, Arrival Time: 08:46",
+    "breakfast": "-",
+    "lunch": "Brenner's on the Bayou, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Heights Craftsman Bungalow in the Trees, Houston",
+    "event": "-",
+    "point_of_interest_list": "Heights Craftsman Bungalow in the Trees, stay from 09:16 to 11:18, nearest transit: Heights Blvd @ E 16th St, 163.72m away; Brenner's on the Bayou, Houston, visit from 12:00 to 13:00, ; Cockrell Butterfly Center, Houston, visit from 13:30 to 20:15, ; Pappas Bros. Steakhouse, Houston, visit from 20:45 to 23:09, ; Heights Craftsman Bungalow in the Trees, stay from 23:39 to 07:39, nearest transit: Heights Blvd @ E 16th St, 163.72m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Taste of Texas, Houston",
+    "dinner": "Eddie V's Prime Seafood, Houston",
+    "attraction": "Discovery Green, Houston",
+    "accommodation": "Heights Craftsman Bungalow in the Trees, Houston",
+    "event": "-",
+    "point_of_interest_list": "Heights Craftsman Bungalow in the Trees, stay from 08:09 to 08:39, nearest transit: Heights Blvd @ E 16th St, 163.72m away; Kenny & Ziggy's New York Deli, Houston, visit from 09:09 to 09:59, ; Taste of Texas, Houston, visit from 14:00 to 15:00, ; Discovery Green, Houston, visit from 15:30 to 19:00, ; Eddie V's Prime Seafood, Houston, visit from 19:30 to 20:45, ; Heights Craftsman Bungalow in the Trees, stay from 21:15 to 05:15, nearest transit: Heights Blvd @ E 16th St, 163.72m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Boston",
+    "transportation": "Flight Number: F0555008, from Houston to Boston, Departure Time: 17:26, Arrival Time: 21:58",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "-",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Heights Craftsman Bungalow in the Trees, stay from 06:00 to 06:30, nearest transit: Heights Blvd @ E 16th St, 163.72m away; Fogo de Chao Brazilian Steakhouse, Houston, visit from 08:00 to 08:50, ; Hermann Park, Houston, visit from 09:20 to 14:00, ; Houston Restaurant, Houston, visit from 14:30 to 15:30, "
+  }
+]

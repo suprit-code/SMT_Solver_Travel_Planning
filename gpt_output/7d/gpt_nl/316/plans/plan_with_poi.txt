@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Mission to Nashville",
+    "transportation": "Taxi from Mission to Nashville, duration: 1263.165, distance: 1916.6776, cost : 1916.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 03:33 to 04:03, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 04:33 to 08:00, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Puckett's 5th & Church, Nashville",
+    "lunch": "Henley, Nashville",
+    "dinner": "The Southern Steak & Oyster, Nashville",
+    "attraction": "-",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 08:30 to 09:00, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Puckett's 5th & Church, Nashville, visit from 09:39 to 10:29, ; Henley, Nashville, visit from 14:30 to 16:44, ; The Southern Steak & Oyster, Nashville, visit from 20:45 to 23:10, ; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 23:40 to 07:40, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Chattanooga",
+    "transportation": "Taxi from Nashville to Chattanooga, duration: 148.23666666666668, distance: 211.4268, cost : 211.0",
+    "breakfast": "Kayne Prime, Nashville",
+    "lunch": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "dinner": "Mellow Mushroom Chattanooga, Chattanooga",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Chattanooga - The Isbill House, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 08:10 to 08:40, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Kayne Prime, Nashville, visit from 09:10 to 10:00, ; Cheekwood, Nashville, visit from 10:30 to 14:00, ; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 14:30 to 15:30, ; Chattanooga - The Isbill House, stay from 19:45 to 20:15, nearest transit: Tenn Ave & 38th-0, 4598.95m away; Mellow Mushroom Chattanooga, Chattanooga, visit from 20:45 to 22:00, ; Chattanooga - The Isbill House, stay from 22:37 to 06:37, nearest transit: Tenn Ave & 38th-0, 4598.95m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "lunch": "Puckett's Chattanooga, Chattanooga",
+    "dinner": "Ruth's Chris Steak House, Chattanooga",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "Chattanooga - The Isbill House, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Chattanooga - The Isbill House, stay from 07:07 to 07:37, nearest transit: Tenn Ave & 38th-0, 4598.95m away; Maple Street Biscuit Company - City Center, Chattanooga, visit from 08:07 to 10:00, ; Tennessee Valley Railroad Museum, Chattanooga, visit from 10:30 to 14:00, ; Puckett's Chattanooga, Chattanooga, visit from 14:30 to 15:30, ; Ruth's Chris Steak House, Chattanooga, visit from 19:31 to 20:46, ; Chattanooga - The Isbill House, stay from 21:30 to 05:30, nearest transit: Tenn Ave & 38th-0, 4598.95m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Chattanooga to Memphis",
+    "transportation": "Taxi from Chattanooga to Memphis, duration: 376.3683333333333, distance: 547.2609, cost : 547.0",
+    "breakfast": "Molcajete Mexican Restaurant, Chattanooga",
+    "lunch": "Stir, Chattanooga",
+    "dinner": "-",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Affordable Comfy Home Away From Home, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Chattanooga - The Isbill House, stay from 06:00 to 06:30, nearest transit: Tenn Ave & 38th-0, 4598.95m away; Molcajete Mexican Restaurant, Chattanooga, visit from 08:00 to 08:50, ; Coolidge Park, Chattanooga, visit from 09:20 to 12:50, ; Stir, Chattanooga, visit from 13:20 to 14:20, ; Affordable Comfy Home Away From Home, stay from 21:36 to 22:06, nearest transit: BREEDLOVE@CHELSEA, 181.79m away; Affordable Comfy Home Away From Home, stay from 22:36 to 07:40, nearest transit: BREEDLOVE@CHELSEA, 181.79m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Memphis",
+    "transportation": "-",
+    "breakfast": "Memphis Blues Barbeque House, Memphis",
+    "lunch": "The BBQ Shop, Memphis",
+    "dinner": "Gibson's Donuts, Memphis",
+    "attraction": "Graceland, Memphis",
+    "accommodation": "Affordable Comfy Home Away From Home, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Affordable Comfy Home Away From Home, stay from 08:10 to 08:40, nearest transit: BREEDLOVE@CHELSEA, 181.79m away; Memphis Blues Barbeque House, Memphis, visit from 09:10 to 10:00, ; Graceland, Memphis, visit from 10:30 to 14:00, ; The BBQ Shop, Memphis, visit from 14:30 to 15:30, ; Gibson's Donuts, Memphis, visit from 19:31 to 20:46, ; Affordable Comfy Home Away From Home, stay from 21:16 to 05:16, nearest transit: BREEDLOVE@CHELSEA, 181.79m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Memphis to Mission",
+    "transportation": "Taxi from Memphis to Mission, duration: 1024.8366666666666, distance: 1481.7513, cost : 1481.0",
+    "breakfast": "Silky O'sullivan's, Memphis",
+    "lunch": "Itta Bena, Memphis",
+    "dinner": "Interstate Barbecue, Memphis",
+    "attraction": "Stax Museum of American Soul Music, Memphis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Affordable Comfy Home Away From Home, stay from 06:00 to 08:40, nearest transit: BREEDLOVE@CHELSEA, 181.79m away; Silky O'sullivan's, Memphis, visit from 09:10 to 10:00, ; Stax Museum of American Soul Music, Memphis, visit from 10:30 to 14:00, ; Itta Bena, Memphis, visit from 14:30 to 15:30, ; Interstate Barbecue, Memphis, visit from 19:31 to 20:46, "
+  }
+]

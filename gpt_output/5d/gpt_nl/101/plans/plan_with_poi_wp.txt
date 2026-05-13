@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F0344616, from Atlanta to San Diego, Departure Time: 11:00, Arrival Time: 13:02",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 13:32 to 14:02, nearest transit: Ulric St & Tait St, 283.34m away; San Diego Zoo, San Diego, visit from 15:00 to 18:30, ; Juniper and Ivy, San Diego, visit from 19:00 to 23:06, ; No contact with host, separate, and close to town!, stay from 23:36 to 07:36, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Din Tai Fung, San Diego",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 08:06 to 08:36, nearest transit: Ulric St & Tait St, 283.34m away; Lou & Mickey's, San Diego, visit from 09:06 to 09:59, ; Din Tai Fung, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 20:15, ; Cowboy Star, San Diego, visit from 20:45 to 23:10, ; No contact with host, separate, and close to town!, stay from 23:40 to 07:40, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F2192207, from San Diego to Sacramento, Departure Time: 16:50, Arrival Time: 18:17",
+    "breakfast": "Union Kitchen and Tap Gaslamp, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Aviators Restaurant, Sacramento",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 08:10 to 08:40, nearest transit: Ulric St & Tait St, 283.34m away; Union Kitchen and Tap Gaslamp, San Diego, visit from 09:10 to 10:00, ; Birch Aquarium at Scripps, San Diego, visit from 10:30 to 14:00, ; Mimmo's, San Diego, visit from 14:30 to 16:20, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 18:47 to 19:17, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Aviators Restaurant, Sacramento, visit from 20:30 to 22:19, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 22:49 to 06:49, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Chicago Fire, Sacramento",
+    "lunch": "Grange Restaurant & Bar, Sacramento",
+    "dinner": "Il Fornaio, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 07:19 to 07:49, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Chicago Fire, Sacramento, visit from 08:19 to 09:29, ; California State Capitol Museum, Sacramento, visit from 09:59 to 13:29, ; Grange Restaurant & Bar, Sacramento, visit from 13:59 to 14:59, ; Il Fornaio, Sacramento, visit from 19:00 to 20:15, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 20:45 to 08:00, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Atlanta",
+    "transportation": "Flight Number: F3527038, from Sacramento to Atlanta, Departure Time: 12:18, Arrival Time: 19:54",
+    "breakfast": "The Firehouse Restaurant, Sacramento",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 08:30 to 09:00, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; The Firehouse Restaurant, Sacramento, visit from 09:30 to 11:48, "
+  }
+]

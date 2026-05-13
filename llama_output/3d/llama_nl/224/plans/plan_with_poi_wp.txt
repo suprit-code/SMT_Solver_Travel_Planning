@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Las Vegas",
+    "transportation": "Flight Number: F3006264, from Memphis to Las Vegas, Departure Time: 12:40, Arrival Time: 14:22",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 14:52 to 15:22, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Eggscellent, Las Vegas, visit from 19:00 to 20:15, ; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 20:45 to 07:23, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Water Grill Las Vegas, Las Vegas",
+    "lunch": "Vic & Anthony's Steakhouse, Las Vegas",
+    "dinner": "Primal Steakhouse, Las Vegas",
+    "attraction": "Titanic: The Artifact Exhibition, Las Vegas",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 07:53 to 08:23, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Water Grill Las Vegas, Las Vegas, visit from 08:53 to 09:43, ; Titanic: The Artifact Exhibition, Las Vegas, visit from 10:13 to 13:43, ; Vic & Anthony's Steakhouse, Las Vegas, visit from 14:30 to 16:44, ; Primal Steakhouse, Las Vegas, visit from 20:45 to 23:10, ; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 23:40 to 07:40, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Memphis",
+    "transportation": "Flight Number: F0376611, from Las Vegas to Memphis, Departure Time: 16:07, Arrival Time: 21:45",
+    "breakfast": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "lunch": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "dinner": "-",
+    "attraction": "The Neon Museum, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:10 to 08:40, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 09:10 to 10:00, ; The Neon Museum, Las Vegas, visit from 10:30 to 14:00, ; Gordon Ramsay Hell's Kitchen, Las Vegas, visit from 14:30 to 15:30, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Alexandria to Atlanta",
+    "transportation": "Flight Number: F0157329, from Alexandria to Atlanta, Departure Time: 07:40, Arrival Time: 10:18",
+    "breakfast": "-",
+    "lunch": "Home Grown, Atlanta",
+    "dinner": "Steamhouse Lounge, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 10:48 to 11:18, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Home Grown, Atlanta, visit from 12:00 to 13:00, ; Georgia Aquarium, Atlanta, visit from 13:30 to 18:30, ; Steamhouse Lounge, Atlanta, visit from 19:00 to 20:15, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 22:32 to 06:32, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Aviva by Kameel, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "Murphy's Restaurant, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 07:02 to 07:32, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Aviva by Kameel, Atlanta, visit from 08:02 to 08:52, ; Zoo Atlanta, Atlanta, visit from 09:22 to 13:29, ; Cafe Agora, Atlanta, visit from 13:59 to 14:59, ; Murphy's Restaurant, Atlanta, visit from 19:00 to 23:30, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 00:00 to 08:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Alexandria",
+    "transportation": "Flight Number: F3211735, from Atlanta to Alexandria, Departure Time: 19:24, Arrival Time: 20:09",
+    "breakfast": "-",
+    "lunch": "Fox Bros. Bar-B-Q, Atlanta",
+    "dinner": "-",
+    "attraction": "College Football Hall of Fame, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 08:30 to 09:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; College Football Hall of Fame, Atlanta, visit from 09:30 to 13:00, ; Fox Bros. Bar-B-Q, Atlanta, visit from 14:21 to 15:21, "
+  }
+]

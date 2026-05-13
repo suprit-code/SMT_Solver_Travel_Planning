@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to New York",
+    "transportation": "Taxi from Ontario to New York, duration: 396.88, distance: 510.3208, cost : 510.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "NYC Bliss | Sightseeing. Fitness Center, New York",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 14:30 to 15:00, nearest transit: W 34 ST/BROADWAY, 60.68m away; NYC Bliss | Sightseeing. Fitness Center, stay from 23:06 to 07:06, nearest transit: W 34 ST/BROADWAY, 60.68m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Sarge’s Delicatessen & Diner, New York",
+    "dinner": "Carmine's, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "NYC Bliss | Sightseeing. Fitness Center, New York",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 07:36 to 08:06, nearest transit: W 34 ST/BROADWAY, 60.68m away; Peak Restaurant & Bar, New York, visit from 08:36 to 10:00, ; The High Line, New York, visit from 10:30 to 14:00, ; Sarge’s Delicatessen & Diner, New York, visit from 14:30 to 15:30, ; Carmine's, New York, visit from 20:45 to 23:10, ; NYC Bliss | Sightseeing. Fitness Center, stay from 23:40 to 07:40, nearest transit: W 34 ST/BROADWAY, 60.68m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Rochester",
+    "transportation": "Flight Number: F0721988, from New York to Rochester, Departure Time: 17:12, Arrival Time: 18:28",
+    "breakfast": "R Lounge, New York",
+    "lunch": "Bstro 38, New York",
+    "dinner": "The Quills, Rochester",
+    "attraction": "Central Park, New York",
+    "accommodation": "Seaglass Cottage, Rochester",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 08:10 to 08:40, nearest transit: W 34 ST/BROADWAY, 60.68m away; R Lounge, New York, visit from 09:10 to 10:00, ; Central Park, New York, visit from 10:30 to 14:00, ; Bstro 38, New York, visit from 14:30 to 15:30, ; Seaglass Cottage, stay from 18:58 to 19:28, nearest transit: Winona 61 & Hwy. 14, 1139330.14m away; The Quills, Rochester, visit from 19:58 to 22:05, ; Seaglass Cottage, stay from 22:35 to 06:35, nearest transit: Winona 61 & Hwy. 14, 1139330.14m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Rochester",
+    "transportation": "-",
+    "breakfast": "Dinosaur Bar-B-Que, Rochester",
+    "lunch": "Tiny Tim's Tea Rooms, Rochester",
+    "dinner": "Rooney's Restaurant, Rochester",
+    "attraction": "Guildhall Museum, Rochester",
+    "accommodation": "Seaglass Cottage, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Seaglass Cottage, stay from 07:05 to 07:35, nearest transit: Winona 61 & Hwy. 14, 1139330.14m away; Dinosaur Bar-B-Que, Rochester, visit from 08:05 to 08:55, ; Guildhall Museum, Rochester, visit from 09:25 to 12:55, ; Tiny Tim's Tea Rooms, Rochester, visit from 13:25 to 14:25, ; Rooney's Restaurant, Rochester, visit from 20:45 to 23:09, ; Seaglass Cottage, stay from 23:39 to 07:39, nearest transit: Winona 61 & Hwy. 14, 1139330.14m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Rochester to Ontario",
+    "transportation": "Taxi from Rochester to Ontario, duration: 30.27833333333333, distance: 32.2007, cost : 32.0",
+    "breakfast": "Savoia Pastry Shoppe, Rochester",
+    "lunch": "Canadian Honker Restaurant & Lounge, Rochester",
+    "dinner": "Lipuma's Coney Island, Rochester",
+    "attraction": "Six Poor Travellers House, Rochester",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Seaglass Cottage, stay from 08:09 to 08:39, nearest transit: Winona 61 & Hwy. 14, 1139330.14m away; Savoia Pastry Shoppe, Rochester, visit from 09:09 to 09:59, ; Canadian Honker Restaurant & Lounge, Rochester, visit from 14:00 to 15:00, ; Six Poor Travellers House, Rochester, visit from 15:30 to 19:00, ; Lipuma's Coney Island, Rochester, visit from 19:30 to 20:45, "
+  }
+]

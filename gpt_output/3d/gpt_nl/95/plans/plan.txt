@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-26', '2024-11-28'],
+Transportation methods between cities: ['Flight Number: F1286239, from Boise to Atlanta, Departure Time: 23:59, Arrival Time: 05:47', 'Flight Number: F1295674, from Atlanta to Boise, Departure Time: 20:21, Arrival Time: 22:34'],
+Restaurants (3 meals per day): ['-', 'Home Grown, Atlanta', 'Steamhouse Lounge, Atlanta', 'Cafe Agora, Atlanta', 'Aviva by Kameel, Atlanta', 'Canoe, Atlanta', 'The Optimist, Atlanta', 'Kevin Rathbun Steak, Atlanta', 'Aria, Atlanta'],
+Attractions (1 per day): ['Georgia Aquarium, Atlanta', 'Zoo Atlanta, Atlanta', 'Centennial Olympic Park, Atlanta'],
+Accommodations (1 per city): ['Urban Nature Retreat |  Pets | Insurance, Atlanta']

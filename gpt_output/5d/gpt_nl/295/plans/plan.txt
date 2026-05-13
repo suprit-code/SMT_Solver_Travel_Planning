@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-24', '2024-11-26', '2024-11-28'],
+Transportation methods between cities: ['Self-driving, from Tucson to San Diego, duration: 431.81166666666667, distance: 656.4621999999999, cost: 32', 'Self-driving, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 53', 'Self-driving, from Redding to Tucson, duration: 1112.86, distance: 1653.3025, cost: 82'],
+Restaurants (3 meals per day): ['-', '-', '-', "Lou & Mickey's, San Diego", 'Morning Glory, San Diego', 'Addison Restaurant, San Diego', "Mimmo's, San Diego", 'Pacific Beach AleHouse, San Diego', 'Born & Raised, San Diego', 'Dam Burger, Redding', 'Karlines, Redding', 'New China, Redding', 'Thai Hut, Redding', 'Champa Garden, Redding', 'View 202, Redding'],
+Attractions (1 per day): ['-', 'San Diego Zoo, San Diego', 'Cabrillo National Monument, San Diego', 'Sundial Bridge, Redding', 'Turtle Bay Exploration Park, Redding'],
+Accommodations (1 per city): ['South Mission Beach - Hotel Style Unit w/ AC, San Diego', '★ Spacious Modern Peaceful || 2 Bedroom, Redding']

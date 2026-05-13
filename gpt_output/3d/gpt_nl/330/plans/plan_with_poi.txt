@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F0834281, from Hartford to Las Vegas, Departure Time: 16:52, Arrival Time: 20:24",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "MGM Grand! Vegas Strip 16th Floor Renovated Suite, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "MGM Grand! Vegas Strip 16th Floor Renovated Suite, stay from 20:54 to 21:24, nearest transit: The Strat, 4676.22m away; MGM Grand! Vegas Strip 16th Floor Renovated Suite, stay from 21:54 to 05:54, nearest transit: The Strat, 4676.22m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Carmine's, Las Vegas",
+    "lunch": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "Wynn Las Vegas Casino, Las Vegas",
+    "accommodation": "MGM Grand! Vegas Strip 16th Floor Renovated Suite, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "MGM Grand! Vegas Strip 16th Floor Renovated Suite, stay from 06:24 to 07:47, nearest transit: The Strat, 4676.22m away; Carmine's, Las Vegas, visit from 08:17 to 09:59, ; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 14:00 to 15:00, ; Wynn Las Vegas Casino, Las Vegas, visit from 15:30 to 20:15, ; Eggscellent, Las Vegas, visit from 20:45 to 23:30, ; MGM Grand! Vegas Strip 16th Floor Renovated Suite, stay from 00:00 to 08:00, nearest transit: The Strat, 4676.22m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F0278234, from Las Vegas to Hartford, Departure Time: 23:01, Arrival Time: 06:35",
+    "breakfast": "-",
+    "lunch": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "dinner": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "MGM Grand! Vegas Strip 16th Floor Renovated Suite, stay from 08:30 to 09:00, nearest transit: The Strat, 4676.22m away; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 14:21 to 15:21, ; Gordon Ramsay Hell's Kitchen, Las Vegas, visit from 19:22 to 20:37, "
+  }
+]

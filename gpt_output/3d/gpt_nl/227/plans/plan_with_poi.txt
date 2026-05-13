@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Monterey",
+    "transportation": "Flight Number: F3819018, from Seattle to Monterey, Departure Time: 11:25, Arrival Time: 13:44",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Gianni's Pizza, Monterey",
+    "attraction": "Doc Rickett's Pacific Biological Laboratories, Monterey",
+    "accommodation": "Private romantic 1 br in Carmel Woods- love dogs, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Private romantic 1 br in Carmel Woods- love dogs, stay from 14:14 to 14:44, nearest transit: Holman / 23795 Holman Highway, 533.98m away; Doc Rickett's Pacific Biological Laboratories, Monterey, visit from 15:30 to 20:15, ; Gianni's Pizza, Monterey, visit from 20:45 to 22:14, ; Private romantic 1 br in Carmel Woods- love dogs, stay from 22:44 to 06:44, nearest transit: Holman / 23795 Holman Highway, 533.98m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Monterey",
+    "transportation": "-",
+    "breakfast": "Compagno's Market & Deli, Monterey",
+    "lunch": "Monterey's Little Mexico, Monterey",
+    "dinner": "Cibo Ristorante Italiano, Monterey",
+    "attraction": "Monterey Bay Aquarium, Monterey",
+    "accommodation": "Private romantic 1 br in Carmel Woods- love dogs, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Private romantic 1 br in Carmel Woods- love dogs, stay from 07:14 to 07:44, nearest transit: Holman / 23795 Holman Highway, 533.98m away; Compagno's Market & Deli, Monterey, visit from 08:14 to 09:59, ; Monterey's Little Mexico, Monterey, visit from 14:00 to 15:00, ; Monterey Bay Aquarium, Monterey, visit from 15:30 to 19:00, ; Cibo Ristorante Italiano, Monterey, visit from 19:30 to 21:00, ; Private romantic 1 br in Carmel Woods- love dogs, stay from 21:30 to 05:30, nearest transit: Holman / 23795 Holman Highway, 533.98m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Monterey to Seattle",
+    "transportation": "Self-driving from Monterey to Seattle, duration: 1120.0633333333333, distance: 1514.4771, cost : 75.0",
+    "breakfast": "Monterey Bay Fish Grotto, Monterey",
+    "lunch": "Monterey's Pizza, Monterey",
+    "dinner": "Chart House, Monterey",
+    "attraction": "17-Mile Drive, Monterey",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private romantic 1 br in Carmel Woods- love dogs, stay from 06:00 to 06:30, nearest transit: Holman / 23795 Holman Highway, 533.98m away; Monterey Bay Fish Grotto, Monterey, visit from 08:00 to 08:50, ; 17-Mile Drive, Monterey, visit from 09:20 to 12:50, ; Monterey's Pizza, Monterey, visit from 13:20 to 14:20, ; Chart House, Monterey, visit from 19:00 to 20:15, "
+  }
+]

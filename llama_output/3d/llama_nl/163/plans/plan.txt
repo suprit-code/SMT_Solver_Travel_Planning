@@ -1,0 +1,6 @@
+Destination cities: ['Kansas City'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F2533199, from Detroit to Kansas City, Departure Time: 08:22, Arrival Time: 09:08', 'Flight Number: F2079846, from Kansas City to Detroit, Departure Time: 06:27, Arrival Time: 09:11'],
+Restaurants (3 meals per day): ['The Big Biscuit, Kansas City', '801 Chophouse, Kansas City', 'Chaz on the Plaza, Kansas City', "Pierpont's at Union Station, Kansas City", 'KC Chop House, Kansas City', 'Bristol Seafood + Steak + Social, Kansas City', '-', '-', '-'],
+Attractions (1 per day): ['Country Club Plaza, Kansas City', "Tom's Town Distilling Co., Kansas City", '-'],
+Accommodations (1 per city): ['Beautiful large King bedroom with luxury bedding, Kansas City']

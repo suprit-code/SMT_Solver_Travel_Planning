@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Wichita",
+    "transportation": "Self-driving from Denver to Wichita, duration: 533.1016666666667, distance: 834.2885, cost : 41.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Central ICT.Z, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Central ICT.Z, stay from 17:22 to 18:34, nearest transit: Waterman and Pattie IB, 93.9m away; Central ICT.Z, stay from 20:49 to 05:30, nearest transit: Waterman and Pattie IB, 93.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wichita",
+    "transportation": "-",
+    "breakfast": "Old Mill Tasty Shop, Wichita",
+    "lunch": "Puero Vallarta Mexican Restaurant, Wichita",
+    "dinner": "Little Saigon, Wichita",
+    "attraction": "Mid-America All-Indian Center, Wichita",
+    "accommodation": "Central ICT.Z, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Central ICT.Z, stay from 06:00 to 06:30, nearest transit: Waterman and Pattie IB, 93.9m away; Old Mill Tasty Shop, Wichita, visit from 08:00 to 08:50, ; Puero Vallarta Mexican Restaurant, Wichita, visit from 14:00 to 15:00, ; Mid-America All-Indian Center, Wichita, visit from 15:30 to 20:15, ; Little Saigon, Wichita, visit from 20:45 to 22:00, ; Central ICT.Z, stay from 22:30 to 06:30, nearest transit: Waterman and Pattie IB, 93.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wichita to Denver",
+    "transportation": "Self-driving from Wichita to Denver, duration: 533.3983333333333, distance: 834.7207, cost : 41.0",
+    "breakfast": "Beacon Restaurant, Wichita",
+    "lunch": "Cafe Bel Ami, Wichita",
+    "dinner": "Doo-Dah Diner, Wichita",
+    "attraction": "The Keeper of the Plains, Wichita",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Central ICT.Z, stay from 07:00 to 07:30, nearest transit: Waterman and Pattie IB, 93.9m away; Beacon Restaurant, Wichita, visit from 08:00 to 08:50, ; The Keeper of the Plains, Wichita, visit from 09:20 to 12:50, ; Cafe Bel Ami, Wichita, visit from 13:20 to 14:20, ; Doo-Dah Diner, Wichita, visit from 19:00 to 20:15, "
+  }
+]

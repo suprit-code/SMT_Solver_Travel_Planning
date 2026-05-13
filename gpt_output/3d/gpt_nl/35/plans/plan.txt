@@ -1,0 +1,6 @@
+Destination cities: ['Sioux Falls'],
+Transportation dates: ['2024-11-17', '2024-11-19'],
+Transportation methods between cities: ['Self-driving, from Nashville to Sioux Falls, duration: 1007.0416666666666, distance: 1481.2943, cost: 74', 'Flight Number: F2562961, from Sioux Falls to Nashville, Departure Time: 21:34, Arrival Time: 23:42'],
+Restaurants (3 meals per day): ['-', '-', '-', 'MacKenzie River Pizza, Grill & Pub, Sioux Falls', 'Sanaa s Gourmet Mediterranean, Sioux Falls', "Parker's Bistro, Sioux Falls", "Minerva's, Sioux Falls", 'Harvester Kitchen, Sioux Falls', 'Morrie’s Steakhouse, Sioux Falls'],
+Attractions (1 per day): ['-', 'Falls Park, Sioux Falls', 'Old Courthouse Museum, Sioux Falls'],
+Accommodations (1 per city): ['Southeast Retreat 4Beds 3bath Family/Pet friendly!, Sioux Falls']

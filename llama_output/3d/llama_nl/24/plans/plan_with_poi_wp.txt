@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to Washington",
+    "transportation": "Flight Number: F0109299, from Louisville to Washington, Departure Time: 09:23, Arrival Time: 10:51",
+    "breakfast": "-",
+    "lunch": "RPM Italian, Washington",
+    "dinner": "Smoke & Mirrors Rooftop Bar, Washington",
+    "attraction": "Ford's Theatre, Washington",
+    "accommodation": "Cozy Capitol Hill English Basement, Washington",
+    "event": "-",
+    "point_of_interest_list": "Cozy Capitol Hill English Basement, stay from 11:21 to 11:51, nearest transit: STADIUM ARMORY, 209.07m away; RPM Italian, Washington, visit from 13:30 to 14:30, ; Ford's Theatre, Washington, visit from 15:00 to 18:30, ; Smoke & Mirrors Rooftop Bar, Washington, visit from 19:00 to 20:15, ; Cozy Capitol Hill English Basement, stay from 20:45 to 06:32, nearest transit: STADIUM ARMORY, 209.07m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Unconventional Diner, Washington",
+    "lunch": "Fiola, Washington",
+    "dinner": "The Dabney, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "Cozy Capitol Hill English Basement, Washington",
+    "event": "-",
+    "point_of_interest_list": "Cozy Capitol Hill English Basement, stay from 07:02 to 07:32, nearest transit: STADIUM ARMORY, 209.07m away; Unconventional Diner, Washington, visit from 08:02 to 08:52, ; United States Botanic Garden, Washington, visit from 09:22 to 12:52, ; Fiola, Washington, visit from 13:59 to 14:59, ; The Dabney, Washington, visit from 19:00 to 20:15, ; Cozy Capitol Hill English Basement, stay from 22:36 to 06:36, nearest transit: STADIUM ARMORY, 209.07m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Louisville",
+    "transportation": "Flight Number: F0107839, from Washington to Louisville, Departure Time: 18:27, Arrival Time: 20:04",
+    "breakfast": "Cafe Milano, Washington",
+    "lunch": "Thip Khao, Washington",
+    "dinner": "-",
+    "attraction": "National Mall, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Capitol Hill English Basement, stay from 07:06 to 07:36, nearest transit: STADIUM ARMORY, 209.07m away; Cafe Milano, Washington, visit from 08:06 to 08:56, ; Thip Khao, Washington, visit from 12:57 to 13:57, ; National Mall, Washington, visit from 14:27 to 17:57, "
+  }
+]

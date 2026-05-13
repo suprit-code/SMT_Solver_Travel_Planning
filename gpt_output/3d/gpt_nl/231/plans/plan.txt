@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-04', '2024-11-06'],
+Transportation methods between cities: ['Flight Number: F2520868, from Anchorage to Atlanta, Departure Time: 20:05, Arrival Time: 06:44', 'Flight Number: F2067743, from Atlanta to Anchorage, Departure Time: 15:20, Arrival Time: 18:33'],
+Restaurants (3 meals per day): ['By George restaurant and bar, Atlanta', 'Pasta Da Pulcinella, Atlanta', 'Home Grown, Atlanta', 'Fox Bros. Bar-B-Q, Atlanta', 'The Optimist, Atlanta', 'Aviva by Kameel, Atlanta', 'Cafe Agora, Atlanta', 'Fogo de Chao Brazilian Steakhouse, Atlanta', 'Steamhouse Lounge, Atlanta'],
+Attractions (1 per day): ['Atlanta History Center, Atlanta', 'College Football Hall of Fame, Atlanta', 'World of Coca-Cola, Atlanta'],
+Accommodations (1 per city): ['Hampton Guest House, Atlanta']

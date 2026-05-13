@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to Seattle",
+    "transportation": "Flight Number: F1776769, from Portland to Seattle, Departure Time: 16:54, Arrival Time: 17:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Pike Pub and Brewery, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 18:17 to 20:15, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; The Pike Pub and Brewery, Seattle, visit from 20:45 to 22:11, ; Cozy room near UW, stay from 22:41 to 06:41, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Bacco Cafe, Seattle",
+    "lunch": "Lola, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:11 to 07:41, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Bacco Cafe, Seattle, visit from 08:11 to 09:01, ; Seattle Center, Seattle, visit from 09:31 to 14:00, ; Lola, Seattle, visit from 14:30 to 15:30, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 19:31 to 20:46, ; Cozy room near UW, stay from 21:16 to 05:16, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Portland",
+    "transportation": "Flight Number: F2890008, from Seattle to Portland, Departure Time: 20:10, Arrival Time: 21:18",
+    "breakfast": "-",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "-",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Noi Thai Cuisine, Seattle, visit from 12:51 to 13:51, ; Hiram M. Chittenden Locks, Seattle, visit from 14:21 to 17:51, "
+  }
+]

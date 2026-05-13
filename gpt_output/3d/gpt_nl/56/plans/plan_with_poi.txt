@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Savannah",
+    "transportation": "Flight Number: F1864207, from Washington to Savannah, Departure Time: 08:23, Arrival Time: 10:49",
+    "breakfast": "-",
+    "lunch": "Noble Fare, Savannah",
+    "dinner": "Planters Tavern, Savannah",
+    "attraction": "The Old Sorrel Weed House Museum & Tours, Savannah",
+    "accommodation": "Timeless, Reimagined Cottage | Midnight Garden Inn, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 11:19 to 11:49, nearest transit: WHITAKER & GASTON, 90.64m away; Noble Fare, Savannah, visit from 12:19 to 13:19, ; The Old Sorrel Weed House Museum & Tours, Savannah, visit from 15:30 to 20:15, ; Planters Tavern, Savannah, visit from 20:45 to 22:30, ; Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 23:00 to 07:00, nearest transit: WHITAKER & GASTON, 90.64m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Stone & Webster Chophouse, Savannah",
+    "lunch": "Vinnie Van Go-Go's, Savannah",
+    "dinner": "Alligator Soul, Savannah",
+    "attraction": "Old Fort Jackson, Savannah",
+    "accommodation": "Timeless, Reimagined Cottage | Midnight Garden Inn, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 07:30 to 08:00, nearest transit: WHITAKER & GASTON, 90.64m away; Stone & Webster Chophouse, Savannah, visit from 08:30 to 09:20, ; Old Fort Jackson, Savannah, visit from 09:50 to 13:20, ; Vinnie Van Go-Go's, Savannah, visit from 14:30 to 16:44, ; Alligator Soul, Savannah, visit from 20:45 to 23:10, ; Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 23:40 to 07:40, nearest transit: WHITAKER & GASTON, 90.64m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Washington",
+    "transportation": "Flight Number: F2757266, from Savannah to Washington, Departure Time: 20:22, Arrival Time: 21:58",
+    "breakfast": "Little Duck Diner, Savannah",
+    "lunch": "Garibaldi's Cafe, Savannah",
+    "dinner": "-",
+    "attraction": "SCADstory, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 08:10 to 08:40, nearest transit: WHITAKER & GASTON, 90.64m away; Little Duck Diner, Savannah, visit from 09:10 to 10:00, ; SCADstory, Savannah, visit from 10:30 to 14:00, ; Garibaldi's Cafe, Savannah, visit from 14:30 to 15:30, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Indianapolis",
+    "transportation": "Flight Number: F0161855, from Detroit to Indianapolis, Departure Time: 15:59, Arrival Time: 17:02",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Maggiano's Little Italy, Indianapolis",
+    "attraction": "-",
+    "accommodation": "Walk to Lucas Oil+Free Parking+Skywalk Access, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Walk to Lucas Oil+Free Parking+Skywalk Access, stay from 17:32 to 18:02, nearest transit: Statehouse Station NB, 140.65m away; Maggiano's Little Italy, Indianapolis, visit from 19:00 to 20:15, ; Walk to Lucas Oil+Free Parking+Skywalk Access, stay from 20:45 to 04:45, nearest transit: Statehouse Station NB, 140.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Lincoln Square Pancake House, Indianapolis",
+    "lunch": "Market Table, Indianapolis",
+    "dinner": "The Old Spaghetti Factory, Indianapolis",
+    "attraction": "The Eiteljorg Museum, Indianapolis",
+    "accommodation": "Walk to Lucas Oil+Free Parking+Skywalk Access, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Walk to Lucas Oil+Free Parking+Skywalk Access, stay from 06:00 to 08:24, nearest transit: Statehouse Station NB, 140.65m away; Lincoln Square Pancake House, Indianapolis, visit from 08:54 to 09:44, ; The Eiteljorg Museum, Indianapolis, visit from 10:14 to 13:44, ; Market Table, Indianapolis, visit from 14:14 to 15:14, ; The Old Spaghetti Factory, Indianapolis, visit from 19:15 to 20:30, ; Walk to Lucas Oil+Free Parking+Skywalk Access, stay from 22:30 to 06:30, nearest transit: Statehouse Station NB, 140.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Detroit",
+    "transportation": "Taxi from Indianapolis to Detroit, duration: 328.4183333333333, distance: 448.0768, cost : 448.0",
+    "breakfast": "Bluebeard, Indianapolis",
+    "lunch": "Milktooth, Indianapolis",
+    "dinner": "Canal Bistro, Indianapolis",
+    "attraction": "Indianapolis Zoo, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Walk to Lucas Oil+Free Parking+Skywalk Access, stay from 07:00 to 07:30, nearest transit: Statehouse Station NB, 140.65m away; Bluebeard, Indianapolis, visit from 08:00 to 08:50, ; Indianapolis Zoo, Indianapolis, visit from 09:20 to 12:50, ; Milktooth, Indianapolis, visit from 13:20 to 14:20, ; Canal Bistro, Indianapolis, visit from 19:00 to 20:15, "
+  }
+]

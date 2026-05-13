@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to Seattle",
+    "transportation": "Flight Number: F3860013, from El Paso to Seattle, Departure Time: 21:06, Arrival Time: 00:06",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "At Mine - Studio Apartment In Seattle., Seattle",
+    "event": "-",
+    "point_of_interest_list": "At Mine - Studio Apartment In Seattle., stay from 00:36 to 01:06, nearest transit: 2nd Ave & Stewart St, 93.13m away; At Mine - Studio Apartment In Seattle., stay from 01:36 to 08:00, nearest transit: 2nd Ave & Stewart St, 93.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "The Capital Grille, Seattle",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "-",
+    "accommodation": "At Mine - Studio Apartment In Seattle., Seattle",
+    "event": "-",
+    "point_of_interest_list": "At Mine - Studio Apartment In Seattle., stay from 08:30 to 09:00, nearest transit: 2nd Ave & Stewart St, 93.13m away; Noi Thai Cuisine, Seattle, visit from 09:39 to 10:29, ; The Capital Grille, Seattle, visit from 14:30 to 16:44, ; Vons 1000 Spirits, Seattle, visit from 20:45 to 22:00, ; At Mine - Studio Apartment In Seattle., stay from 23:21 to 07:21, nearest transit: 2nd Ave & Stewart St, 93.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to El Paso",
+    "transportation": "Flight Number: F3078361, from Seattle to El Paso, Departure Time: 14:11, Arrival Time: 18:26",
+    "breakfast": "Metropolitan Grill, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "At Mine - Studio Apartment In Seattle., stay from 07:51 to 08:21, nearest transit: 2nd Ave & Stewart St, 93.13m away; Metropolitan Grill, Seattle, visit from 08:51 to 09:41, ; Hiram M. Chittenden Locks, Seattle, visit from 10:11 to 13:41, "
+  }
+]

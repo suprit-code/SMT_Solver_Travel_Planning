@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to San Diego",
+    "transportation": "Flight Number: F3438102, from Washington to San Diego, Departure Time: 10:49, Arrival Time: 13:21",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Meze Greek Fusion, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 13:51 to 14:21, nearest transit: Imperial Av & 54th St, 396.9m away; SeaWorld, San Diego, visit from 15:30 to 20:15, ; Meze Greek Fusion, San Diego, visit from 20:45 to 23:10, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 23:40 to 07:40, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Morning Glory, San Diego",
+    "lunch": "Din Tai Fung, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "Little Italy, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 08:10 to 08:40, nearest transit: Imperial Av & 54th St, 396.9m away; Morning Glory, San Diego, visit from 09:10 to 10:00, ; Little Italy, San Diego, visit from 10:30 to 14:00, ; Din Tai Fung, San Diego, visit from 14:30 to 15:30, ; Mimmo's, San Diego, visit from 19:31 to 20:46, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 21:23 to 05:23, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F1764861, from San Diego to Sacramento, Departure Time: 06:53, Arrival Time: 08:33",
+    "breakfast": "-",
+    "lunch": "El Novillero Restaurant, Sacramento",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 05:53 to 06:23, nearest transit: Imperial Av & 54th St, 396.9m away; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 09:03 to 09:33, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; El Novillero Restaurant, Sacramento, visit from 14:03 to 15:03, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 15:33 to 23:33, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Pilothouse Restaurant on the Delta King, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "Chicago Fire, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 06:00 to 07:48, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Pilothouse Restaurant on the Delta King, Sacramento, visit from 08:18 to 09:08, ; Nopalitos, Sacramento, visit from 13:09 to 14:30, ; Capitol Park, Sacramento, visit from 15:00 to 18:30, ; Chicago Fire, Sacramento, visit from 19:00 to 20:15, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 20:45 to 04:45, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Washington",
+    "transportation": "Flight Number: F1811260, from Sacramento to Washington, Departure Time: 22:33, Arrival Time: 06:05",
+    "breakfast": "-",
+    "lunch": "Revival, Sacramento",
+    "dinner": "Tower Cafe, Sacramento",
+    "attraction": "California State Railroad Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 06:00 to 06:42, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Revival, Sacramento, visit from 12:00 to 13:00, ; California State Railroad Museum, Sacramento, visit from 13:30 to 17:00, ; Tower Cafe, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

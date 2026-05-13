@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Manchester to Charlotte",
+    "transportation": "Flight Number: F3791546, from Manchester to Charlotte, Departure Time: 05:31, Arrival Time: 08:05",
+    "breakfast": "Gaucho Charlotte Street, Charlotte",
+    "lunch": "Charlotte's, Charlotte",
+    "dinner": "Pinky's Westside Grill, Charlotte",
+    "attraction": "-",
+    "accommodation": "Cozy & Convenient Loft on Lakeshore LKN 1-Bed, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Cozy & Convenient Loft on Lakeshore LKN 1-Bed, stay from 08:35 to 09:05, nearest transit: Davidson Gateway Dr & Griffith St, 3201.67m away; Gaucho Charlotte Street, Charlotte, visit from 09:35 to 10:29, ; Charlotte's, Charlotte, visit from 14:30 to 16:44, ; Pinky's Westside Grill, Charlotte, visit from 20:45 to 22:33, ; Cozy & Convenient Loft on Lakeshore LKN 1-Bed, stay from 23:03 to 07:03, nearest transit: Davidson Gateway Dr & Griffith St, 3201.67m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "The Capital Grille, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "The Fig Tree Restaurant, Charlotte",
+    "attraction": "Belk Theater at Blumenthal Performing Arts Center, Charlotte",
+    "accommodation": "Cozy & Convenient Loft on Lakeshore LKN 1-Bed, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Cozy & Convenient Loft on Lakeshore LKN 1-Bed, stay from 07:33 to 08:03, nearest transit: Davidson Gateway Dr & Griffith St, 3201.67m away; The Capital Grille, Charlotte, visit from 08:33 to 09:23, ; Charlotte's Eats and Sweets, Charlotte, visit from 13:24 to 14:24, ; Belk Theater at Blumenthal Performing Arts Center, Charlotte, visit from 14:54 to 18:30, ; The Fig Tree Restaurant, Charlotte, visit from 19:00 to 20:15, ; Cozy & Convenient Loft on Lakeshore LKN 1-Bed, stay from 20:45 to 05:16, nearest transit: Davidson Gateway Dr & Griffith St, 3201.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Manchester",
+    "transportation": "Flight Number: F0439237, from Charlotte to Manchester, Departure Time: 09:43, Arrival Time: 11:52",
+    "breakfast": "The Terrace at The Charlotte Inn, Charlotte",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy & Convenient Loft on Lakeshore LKN 1-Bed, stay from 06:00 to 06:30, nearest transit: Davidson Gateway Dr & Griffith St, 3201.67m away; The Terrace at The Charlotte Inn, Charlotte, visit from 08:00 to 09:13, "
+  }
+]

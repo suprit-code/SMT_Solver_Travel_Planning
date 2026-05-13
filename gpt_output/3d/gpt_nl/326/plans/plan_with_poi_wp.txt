@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Tampa",
+    "transportation": "Flight Number: F1996187, from Boston to Tampa, Departure Time: 14:55, Arrival Time: 17:42",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bern's Steak House, Tampa",
+    "attraction": "-",
+    "accommodation": "Charming Tampa Retreat: 2BD/2BA Centrally Located, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Charming Tampa Retreat: 2BD/2BA Centrally Located, stay from 18:12 to 19:15, nearest transit: Busch Gardens Employee Entrance, 6708.65m away; Bern's Steak House, Tampa, visit from 19:45 to 21:00, ; Charming Tampa Retreat: 2BD/2BA Centrally Located, stay from 21:30 to 05:30, nearest transit: Busch Gardens Employee Entrance, 6708.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Yummy House China Bistro, Tampa",
+    "lunch": "Charley’s Steak House & Market Fresh Fish, Tampa",
+    "dinner": "Rusty Pelican Tampa, Tampa",
+    "attraction": "ZooTampa At Lowry Park, Tampa",
+    "accommodation": "Charming Tampa Retreat: 2BD/2BA Centrally Located, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Charming Tampa Retreat: 2BD/2BA Centrally Located, stay from 06:00 to 06:30, nearest transit: Busch Gardens Employee Entrance, 6708.65m away; Yummy House China Bistro, Tampa, visit from 08:07 to 08:57, ; Charley’s Steak House & Market Fresh Fish, Tampa, visit from 12:58 to 13:58, ; ZooTampa At Lowry Park, Tampa, visit from 14:28 to 17:58, ; Rusty Pelican Tampa, Tampa, visit from 19:00 to 20:15, ; Charming Tampa Retreat: 2BD/2BA Centrally Located, stay from 20:45 to 04:45, nearest transit: Busch Gardens Employee Entrance, 6708.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Boston",
+    "transportation": "Flight Number: F0278933, from Tampa to Boston, Departure Time: 15:53, Arrival Time: 18:50",
+    "breakfast": "Whiskey Joe's Bar & Grill - Tampa, Tampa",
+    "lunch": "The Capital Grille, Tampa",
+    "dinner": "-",
+    "attraction": "Glazer Children's Museum, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charming Tampa Retreat: 2BD/2BA Centrally Located, stay from 06:00 to 06:30, nearest transit: Busch Gardens Employee Entrance, 6708.65m away; Whiskey Joe's Bar & Grill - Tampa, Tampa, visit from 08:00 to 08:50, ; Glazer Children's Museum, Tampa, visit from 09:20 to 12:50, ; The Capital Grille, Tampa, visit from 13:20 to 15:23, "
+  }
+]

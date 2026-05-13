@@ -1,0 +1,6 @@
+Destination cities: ['Sioux Falls'],
+Transportation dates: ['2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Self-driving, from Atlanta to Sioux Falls, duration: 1284.4, distance: 1878.1144, cost: 93', 'Self-driving, from Sioux Falls to Atlanta, duration: 1278.0216666666668, distance: 1875.394, cost: 93'],
+Restaurants (3 meals per day): ['-', '-', '-', "Tomacelli's Pizza & Pasta, Sioux Falls", 'Tarquin Argentinian Restaurant, Sioux Falls', 'Carnaval Brazilian Grill, Sioux Falls', "Swamp Daddy's Cajun Kitchen, Sioux Falls", "Crack'd Pot Restaurant & Bakery, Sioux Falls", 'Sickies Garage Burgers & Brews, Sioux Falls'],
+Attractions (1 per day): ['-', 'Old Courthouse Museum, Sioux Falls', 'Falls Park, Sioux Falls'],
+Accommodations (1 per city): ['The Bunkhouse\nRoom #3, Sioux Falls']

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Santa Fe to Durango",
+    "transportation": "Taxi from Santa Fe to Durango, duration: 284.2033333333333, distance: 390.1447, cost : 390.0",
+    "breakfast": "-",
+    "lunch": "81301 Coffee House and Roasters, Durango",
+    "dinner": "East by Southwest, Durango",
+    "attraction": "-",
+    "accommodation": "2ndWind Ranch Country Casita Outside Durango 12mi., Durango",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Casita Outside Durango 12mi., stay from 12:30 to 13:00, nearest transit: Sunnyside, 11231.77m away; 81301 Coffee House and Roasters, Durango, visit from 13:30 to 14:30, ; East by Southwest, Durango, visit from 19:00 to 22:19, ; 2ndWind Ranch Country Casita Outside Durango 12mi., stay from 22:49 to 06:49, nearest transit: Sunnyside, 11231.77m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Durango",
+    "transportation": "-",
+    "breakfast": "College Drive Cafe, Durango",
+    "lunch": "Durango's Mexican Restaurant, Durango",
+    "dinner": "Eolus Bar & Dining, Durango",
+    "attraction": "Historic Downtown Durango, Durango",
+    "accommodation": "2ndWind Ranch Country Casita Outside Durango 12mi., Durango",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Casita Outside Durango 12mi., stay from 07:19 to 07:49, nearest transit: Sunnyside, 11231.77m away; College Drive Cafe, Durango, visit from 08:19 to 09:09, ; Durango's Mexican Restaurant, Durango, visit from 13:10 to 14:10, ; Historic Downtown Durango, Durango, visit from 15:30 to 20:15, ; Eolus Bar & Dining, Durango, visit from 20:45 to 22:00, ; 2ndWind Ranch Country Casita Outside Durango 12mi., stay from 22:30 to 06:30, nearest transit: Sunnyside, 11231.77m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Durango to Colorado Springs",
+    "transportation": "Taxi from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost : 506.0",
+    "breakfast": "Serious Texas Bar-B-Q, Durango",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Mild to Wild Rafting and Jeep Tours, Durango",
+    "accommodation": "Historic Craftsman ★ Fire pit┃Waffle Maker┃Near CC, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Casita Outside Durango 12mi., stay from 07:00 to 07:30, nearest transit: Sunnyside, 11231.77m away; Serious Texas Bar-B-Q, Durango, visit from 08:00 to 08:50, ; Mild to Wild Rafting and Jeep Tours, Durango, visit from 09:20 to 13:56, ; Historic Craftsman ★ Fire pit┃Waffle Maker┃Near CC, stay from 21:30 to 22:00, nearest transit: Cache La Poudre/Institute, 116.09m away; Historic Craftsman ★ Fire pit┃Waffle Maker┃Near CC, stay from 22:30 to 06:30, nearest transit: Cache La Poudre/Institute, 116.09m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Pizzeria Rustica, Colorado Springs",
+    "lunch": "Shuga's Restaurant, Colorado Springs",
+    "dinner": "Cowboy Star, Colorado Springs",
+    "attraction": "United States Air Force Academy, Colorado Springs",
+    "accommodation": "Historic Craftsman ★ Fire pit┃Waffle Maker┃Near CC, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Historic Craftsman ★ Fire pit┃Waffle Maker┃Near CC, stay from 07:00 to 07:30, nearest transit: Cache La Poudre/Institute, 116.09m away; Pizzeria Rustica, Colorado Springs, visit from 08:00 to 08:50, ; Shuga's Restaurant, Colorado Springs, visit from 12:51 to 13:51, ; United States Air Force Academy, Colorado Springs, visit from 14:21 to 17:51, ; Cowboy Star, Colorado Springs, visit from 19:00 to 20:15, ; Historic Craftsman ★ Fire pit┃Waffle Maker┃Near CC, stay from 21:30 to 05:30, nearest transit: Cache La Poudre/Institute, 116.09m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Colorado Springs to Santa Fe",
+    "transportation": "Taxi from Colorado Springs to Santa Fe, duration: 336.54833333333335, distance: 522.037, cost : 522.0",
+    "breakfast": "Uwe's German Restaurant, Colorado Springs",
+    "lunch": "Front Range Barbeque, Colorado Springs",
+    "dinner": "The Steakhouse At Flying Horse, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Craftsman ★ Fire pit┃Waffle Maker┃Near CC, stay from 06:00 to 06:30, nearest transit: Cache La Poudre/Institute, 116.09m away; Uwe's German Restaurant, Colorado Springs, visit from 08:00 to 08:50, ; Front Range Barbeque, Colorado Springs, visit from 12:51 to 13:51, ; Seven Falls, Colorado Springs, visit from 15:00 to 18:30, ; The Steakhouse At Flying Horse, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

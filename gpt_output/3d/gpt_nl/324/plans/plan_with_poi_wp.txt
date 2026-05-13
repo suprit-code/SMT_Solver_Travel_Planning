@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Los Angeles to Nashville",
+    "transportation": "Flight Number: F3038646, from Los Angeles to Nashville, Departure Time: 05:44, Arrival Time: 11:33",
+    "breakfast": "-",
+    "lunch": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "dinner": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "attraction": "Gaylord Opryland Garden Conservatory, Nashville",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 12:03 to 12:33, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 13:03 to 14:03, ; Gaylord Opryland Garden Conservatory, Nashville, visit from 14:33 to 18:30, ; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 19:00 to 20:15, ; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 20:45 to 04:45, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Henley, Nashville",
+    "lunch": "The Bluebird Cafe, Nashville",
+    "dinner": "Luogo, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 07:03 to 07:33, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Henley, Nashville, visit from 08:03 to 09:59, ; The Bluebird Cafe, Nashville, visit from 14:00 to 15:00, ; Belmont Mansion, Nashville, visit from 15:30 to 19:00, ; Luogo, Nashville, visit from 19:30 to 20:45, ; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 21:15 to 06:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Los Angeles",
+    "transportation": "Flight Number: F2020410, from Nashville to Los Angeles, Departure Time: 16:49, Arrival Time: 19:14",
+    "breakfast": "Puckett's 5th & Church, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "-",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 07:00 to 07:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Puckett's 5th & Church, Nashville, visit from 08:00 to 08:50, ; Centennial Park, Nashville, visit from 09:20 to 12:50, ; Kayne Prime, Nashville, visit from 13:20 to 14:20, "
+  }
+]

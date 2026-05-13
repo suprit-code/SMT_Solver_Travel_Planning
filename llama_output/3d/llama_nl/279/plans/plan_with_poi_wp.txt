@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Manchester to Tampa",
+    "transportation": "Flight Number: F0932639, from Manchester to Tampa, Departure Time: 14:33, Arrival Time: 18:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Daily Eats, Tampa",
+    "attraction": "-",
+    "accommodation": "The Gardens, Tampa",
+    "event": "-",
+    "point_of_interest_list": "The Gardens, stay from 18:48 to 19:18, nearest transit: U Mall to MSC, 13888.49m away; Daily Eats, Tampa, visit from 19:48 to 21:03, ; The Gardens, stay from 21:33 to 05:33, nearest transit: U Mall to MSC, 13888.49m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Columbia Cafe - Riverwalk Tampa, Tampa",
+    "lunch": "The Pearl Tampa, Tampa",
+    "dinner": "Green Lemon, Tampa",
+    "attraction": "Tampa Theatre, Tampa",
+    "accommodation": "The Gardens, Tampa",
+    "event": "-",
+    "point_of_interest_list": "The Gardens, stay from 06:03 to 06:33, nearest transit: U Mall to MSC, 13888.49m away; Columbia Cafe - Riverwalk Tampa, Tampa, visit from 08:02 to 08:52, ; Tampa Theatre, Tampa, visit from 09:22 to 12:52, ; The Pearl Tampa, Tampa, visit from 13:22 to 14:22, ; Green Lemon, Tampa, visit from 19:00 to 23:30, ; The Gardens, stay from 00:00 to 08:00, nearest transit: U Mall to MSC, 13888.49m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Manchester",
+    "transportation": "Flight Number: F3166481, from Tampa to Manchester, Departure Time: 10:57, Arrival Time: 13:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Gardens, stay from 08:30 to 09:00, nearest transit: U Mall to MSC, 13888.49m away"
+  }
+]

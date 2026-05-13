@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Indianapolis",
+    "transportation": "Taxi from Detroit to Indianapolis, duration: 328.28, distance: 447.7004, cost : 447.0",
+    "breakfast": "-",
+    "lunch": "The Melting Pot, Indianapolis",
+    "dinner": "The Capital Grille, Indianapolis",
+    "attraction": "Indiana State Museum, Indianapolis",
+    "accommodation": "Historic Private Guest Suite, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Historic Private Guest Suite, stay from 13:00 to 13:30, nearest transit: Michigan St & Spring St, 70.02m away; The Melting Pot, Indianapolis, visit from 14:00 to 15:00, ; Indiana State Museum, Indianapolis, visit from 15:30 to 20:15, ; The Capital Grille, Indianapolis, visit from 20:45 to 22:47, ; Historic Private Guest Suite, stay from 23:17 to 07:17, nearest transit: Michigan St & Spring St, 70.02m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Tony's of Indianapolis, Indianapolis",
+    "lunch": "St. Elmo Steak House, Indianapolis",
+    "dinner": "Mesh Indy, Indianapolis",
+    "attraction": "-",
+    "accommodation": "Historic Private Guest Suite, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Historic Private Guest Suite, stay from 07:47 to 08:17, nearest transit: Michigan St & Spring St, 70.02m away; Tony's of Indianapolis, Indianapolis, visit from 08:47 to 09:59, ; St. Elmo Steak House, Indianapolis, visit from 14:00 to 15:00, ; Mesh Indy, Indianapolis, visit from 19:30 to 20:45, ; Historic Private Guest Suite, stay from 21:15 to 05:15, nearest transit: Michigan St & Spring St, 70.02m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Detroit",
+    "transportation": "Flight Number: F2774459, from Indianapolis to Detroit, Departure Time: 18:11, Arrival Time: 19:13",
+    "breakfast": "-",
+    "lunch": "Brozinni Pizzeria, Indianapolis",
+    "dinner": "-",
+    "attraction": "Indianapolis Zoo, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Private Guest Suite, stay from 06:00 to 09:00, nearest transit: Michigan St & Spring St, 70.02m away; Indianapolis Zoo, Indianapolis, visit from 09:30 to 13:00, ; Brozinni Pizzeria, Indianapolis, visit from 14:21 to 15:21, "
+  }
+]

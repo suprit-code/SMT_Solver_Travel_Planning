@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Charleston",
+    "transportation": "Flight Number: F3542575, from Detroit to Charleston, Departure Time: 15:10, Arrival Time: 17:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Rooftop at the Vendue, Charleston",
+    "attraction": "-",
+    "accommodation": "Studio on the Alley in The Jacobson Building, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Studio on the Alley in The Jacobson Building, stay from 17:39 to 18:30, nearest transit: Broad St / Church St, 104.41m away; The Rooftop at the Vendue, Charleston, visit from 19:00 to 20:15, ; Studio on the Alley in The Jacobson Building, stay from 23:40 to 07:40, nearest transit: Broad St / Church St, 104.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "The Palmetto Cafe, Charleston",
+    "lunch": "Poogan's Porch, Charleston",
+    "dinner": "82 Queen, Charleston",
+    "attraction": "The Citadel, Charleston",
+    "accommodation": "Studio on the Alley in The Jacobson Building, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Studio on the Alley in The Jacobson Building, stay from 08:10 to 08:40, nearest transit: Broad St / Church St, 104.41m away; The Palmetto Cafe, Charleston, visit from 09:10 to 10:00, ; The Citadel, Charleston, visit from 10:30 to 14:00, ; Poogan's Porch, Charleston, visit from 14:30 to 15:30, ; 82 Queen, Charleston, visit from 20:45 to 22:00, ; Studio on the Alley in The Jacobson Building, stay from 00:00 to 08:00, nearest transit: Broad St / Church St, 104.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Detroit",
+    "transportation": "Flight Number: F2059225, from Charleston to Detroit, Departure Time: 13:10, Arrival Time: 15:10",
+    "breakfast": "Husk Restaurant, Charleston",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Studio on the Alley in The Jacobson Building, stay from 08:30 to 09:00, nearest transit: Broad St / Church St, 104.41m away; Husk Restaurant, Charleston, visit from 09:40 to 10:30, "
+  }
+]

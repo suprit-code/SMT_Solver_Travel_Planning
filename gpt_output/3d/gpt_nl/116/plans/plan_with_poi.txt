@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Colorado Springs",
+    "transportation": "Flight Number: F1156847, from Chicago to Colorado Springs, Departure Time: 19:46, Arrival Time: 21:26",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Two-Bed Two-Bath house, walk to Garden of the Gods, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 21:56 to 23:08, nearest transit: Colorado/34th, 175.71m away; Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 23:38 to 07:40, nearest transit: Colorado/34th, 175.71m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Pizzeria Rustica, Colorado Springs",
+    "lunch": "Sushi Ato, Colorado Springs",
+    "dinner": "Carlos Bistro, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "Two-Bed Two-Bath house, walk to Garden of the Gods, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 08:10 to 08:40, nearest transit: Colorado/34th, 175.71m away; Pizzeria Rustica, Colorado Springs, visit from 09:10 to 10:00, ; Garden of the Gods, Colorado Springs, visit from 10:30 to 14:00, ; Sushi Ato, Colorado Springs, visit from 14:30 to 15:30, ; Carlos Bistro, Colorado Springs, visit from 19:31 to 20:46, ; Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 21:16 to 05:16, nearest transit: Colorado/34th, 175.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Colorado Springs to Chicago",
+    "transportation": "Flight Number: F1153765, from Colorado Springs to Chicago, Departure Time: 08:26, Arrival Time: 11:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 06:00 to 07:56, nearest transit: Colorado/34th, 175.71m away"
+  }
+]

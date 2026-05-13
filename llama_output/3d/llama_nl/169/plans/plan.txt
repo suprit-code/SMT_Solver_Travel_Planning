@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F1181158, from Santa Rosa to Seattle, Departure Time: 10:59, Arrival Time: 12:54', 'Flight Number: F0515222, from Seattle to Santa Rosa, Departure Time: 18:08, Arrival Time: 20:01'],
+Restaurants (3 meals per day): ['-', '-', 'Vons 1000 Spirits, Seattle', "Salty's On Alki Beach, Seattle", 'The Capital Grille, Seattle', "Rocco's, Seattle", 'Noi Thai Cuisine, Seattle', 'Toulouse Petit Kitchen & Lounge, Seattle', 'Dough Zone Dumpling House - Seattle International District, Seattle'],
+Attractions (1 per day): ['Klondike Gold Rush National Historical Park, Seattle', 'Woodland Park Zoo, Seattle', 'Seattle Aquarium, Seattle'],
+Accommodations (1 per city): ['Ballard Greenwood Private Suite, Seattle']

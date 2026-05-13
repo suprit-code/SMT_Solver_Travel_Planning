@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Houston",
+    "transportation": "Flight Number: F2739889, from Cleveland to Houston, Departure Time: 11:48, Arrival Time: 13:35",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Uchi Houston, Houston",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "Garage Apt & Patio Near Rail and FREE EGGS!, Houston",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 14:05 to 14:35, nearest transit: Irvington Blvd @ English, 356.07m away; Children's Museum Houston, Houston, visit from 15:05 to 18:35, ; Uchi Houston, Houston, visit from 19:05 to 20:20, ; Garage Apt & Patio Near Rail and FREE EGGS!, stay from 20:50 to 04:50, nearest transit: Irvington Blvd @ English, 356.07m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Goode Company Seafood, Houston",
+    "dinner": "Houston White Co, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Garage Apt & Patio Near Rail and FREE EGGS!, Houston",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 06:00 to 06:30, nearest transit: Irvington Blvd @ English, 356.07m away; Pappas Bros. Steakhouse, Houston, visit from 08:31 to 09:21, ; Goode Company Seafood, Houston, visit from 13:22 to 14:22, ; Cockrell Butterfly Center, Houston, visit from 15:00 to 18:30, ; Houston White Co, Houston, visit from 19:00 to 20:15, ; Garage Apt & Patio Near Rail and FREE EGGS!, stay from 20:45 to 04:45, nearest transit: Irvington Blvd @ English, 356.07m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Cleveland",
+    "transportation": "Flight Number: F1806270, from Houston to Cleveland, Departure Time: 14:30, Arrival Time: 18:03",
+    "breakfast": "Houston Restaurant, Houston",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 06:00 to 06:30, nearest transit: Irvington Blvd @ English, 356.07m away; Houston Restaurant, Houston, visit from 08:00 to 08:50, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 12:51 to 14:00, "
+  }
+]

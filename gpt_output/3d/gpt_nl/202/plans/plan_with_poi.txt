@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Francisco to New York",
+    "transportation": "Flight Number: F3433692, from San Francisco to New York, Departure Time: 08:35, Arrival Time: 16:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Azalea Ristorante, New York",
+    "attraction": "-",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 17:22 to 17:52, nearest transit: 9 AV/W 30 ST, 139.35m away; Azalea Ristorante, New York, visit from 19:00 to 20:15, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 20:45 to 04:45, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "Bstro 38, New York",
+    "dinner": "Westway Diner, New York",
+    "attraction": "American Museum of Natural History, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 06:00 to 06:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Sarge’s Delicatessen & Diner, New York, visit from 08:04 to 10:00, ; American Museum of Natural History, New York, visit from 10:30 to 14:00, ; Bstro 38, New York, visit from 14:30 to 15:30, ; Westway Diner, New York, visit from 19:31 to 20:46, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 21:16 to 05:16, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to San Francisco",
+    "transportation": "Flight Number: F3330572, from New York to San Francisco, Departure Time: 16:15, Arrival Time: 19:33",
+    "breakfast": "Carmine's, New York",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "-",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 06:00 to 06:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Carmine's, New York, visit from 08:00 to 08:50, ; The National 9/11 Memorial & Museum, New York, visit from 09:20 to 12:50, ; Times Square Diner, New York, visit from 14:30 to 15:45, "
+  }
+]

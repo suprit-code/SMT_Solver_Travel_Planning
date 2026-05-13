@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Valparaiso to Greensboro",
+    "transportation": "Self-driving from Valparaiso to Greensboro, duration: 798.6066666666667, distance: 1108.9996, cost : 55.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cottage at Three Magnolias, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 21:30 to 22:00, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; Cottage at Three Magnolias, stay from 22:30 to 06:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Sarah's Kabob Shop, Greensboro",
+    "lunch": "Carolina's Diner, Greensboro",
+    "dinner": "Mythos Grill, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Cottage at Three Magnolias, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 07:00 to 07:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; Sarah's Kabob Shop, Greensboro, visit from 08:00 to 09:29, ; Carolina's Diner, Greensboro, visit from 13:30 to 14:30, ; International Civil Rights Center & Museum, Greensboro, visit from 15:00 to 18:30, ; Mythos Grill, Greensboro, visit from 19:00 to 20:15, ; Cottage at Three Magnolias, stay from 20:45 to 06:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Self-driving from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 16.0",
+    "breakfast": "Golden Wok, Greensboro",
+    "lunch": "Stamey's Barbecue, Greensboro",
+    "dinner": "Winnie's Tavern, Wilmington",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 07:00 to 07:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; Golden Wok, Greensboro, visit from 08:00 to 08:50, ; Carolina Theatre, Greensboro, visit from 09:20 to 13:17, ; Stamey's Barbecue, Greensboro, visit from 13:47 to 14:47, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 19:45 to 20:15, nearest transit: Market St WB at 12th St, 326.9m away; Winnie's Tavern, Wilmington, visit from 20:45 to 22:06, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 22:36 to 06:36, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Roko Italian Cuisine, Wilmington",
+    "lunch": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "dinner": "Flaming Amy's Burrito Barn, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 07:06 to 07:36, nearest transit: Market St WB at 12th St, 326.9m away; Roko Italian Cuisine, Wilmington, visit from 08:06 to 08:56, ; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 12:57 to 13:57, ; Battleship North Carolina, Wilmington, visit from 14:27 to 18:30, ; Flaming Amy's Burrito Barn, Wilmington, visit from 19:00 to 22:00, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 22:30 to 06:30, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Self-driving from Wilmington to Charlotte, duration: 245.71, distance: 318.6171, cost : 15.0",
+    "breakfast": "Fish Bites Seafood, Wilmington",
+    "lunch": "Elijah's Restaurant, Wilmington",
+    "dinner": "Pinky's Westside Grill, Charlotte",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 07:00 to 07:30, nearest transit: Market St WB at 12th St, 326.9m away; Fish Bites Seafood, Wilmington, visit from 08:00 to 08:50, ; Burgwin-Wright House and Gardens, Wilmington, visit from 09:40 to 13:10, ; Elijah's Restaurant, Wilmington, visit from 13:40 to 14:40, ; Comfy private bed and bath, stay from 19:45 to 20:15, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Pinky's Westside Grill, Charlotte, visit from 20:45 to 22:05, ; Comfy private bed and bath, stay from 22:35 to 06:35, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte’s Kitchen, Charlotte",
+    "lunch": "Charlotte Bakery, Charlotte",
+    "dinner": "Mac's Speed Shop, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 07:05 to 07:35, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Charlotte’s Kitchen, Charlotte, visit from 08:05 to 09:59, ; Charlotte Bakery, Charlotte, visit from 14:00 to 15:00, ; Truist Field, Charlotte, visit from 15:30 to 19:00, ; Mac's Speed Shop, Charlotte, visit from 19:30 to 20:45, ; Comfy private bed and bath, stay from 00:00 to 08:00, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Valparaiso",
+    "transportation": "Self-driving from Charlotte to Valparaiso, duration: 836.4466666666667, distance: 1151.8786, cost : 57.0",
+    "breakfast": "Charlotte's Eats and Sweets, Charlotte",
+    "lunch": "-",
+    "dinner": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 08:30 to 09:00, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Charlotte's Eats and Sweets, Charlotte, visit from 09:30 to 10:20, ; Levine Museum of the New South, Charlotte, visit from 10:50 to 14:20, ; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

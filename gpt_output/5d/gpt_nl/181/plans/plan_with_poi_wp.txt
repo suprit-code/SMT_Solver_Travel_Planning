@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Flight Number: F2759026, from Martha's Vineyard to New York, Departure Time: 15:51, Arrival Time: 17:08",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Broadway Lounge, New York",
+    "attraction": "-",
+    "accommodation": "New Cozy Escape, Heart of Times Square, New York",
+    "event": "-",
+    "point_of_interest_list": "New Cozy Escape, Heart of Times Square, stay from 17:38 to 18:08, nearest transit: 9 AV/W 52 ST, 137.31m away; Broadway Lounge, New York, visit from 20:45 to 22:24, ; New Cozy Escape, Heart of Times Square, stay from 22:54 to 06:54, nearest transit: 9 AV/W 52 ST, 137.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "Bryant Park Grill, New York",
+    "dinner": "Westway Diner, New York",
+    "attraction": "Chelsea Market, New York",
+    "accommodation": "New Cozy Escape, Heart of Times Square, New York",
+    "event": "-",
+    "point_of_interest_list": "New Cozy Escape, Heart of Times Square, stay from 07:24 to 07:54, nearest transit: 9 AV/W 52 ST, 137.31m away; Sarge’s Delicatessen & Diner, New York, visit from 08:24 to 09:59, ; Bryant Park Grill, New York, visit from 14:00 to 15:00, ; Chelsea Market, New York, visit from 15:30 to 19:15, ; Westway Diner, New York, visit from 19:45 to 21:00, ; New Cozy Escape, Heart of Times Square, stay from 21:30 to 05:30, nearest transit: 9 AV/W 52 ST, 137.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Rochester",
+    "transportation": "Flight Number: F1412048, from New York to Rochester, Departure Time: 16:50, Arrival Time: 18:36",
+    "breakfast": "-",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "Good Luck, Rochester",
+    "attraction": "The High Line, New York",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "New Cozy Escape, Heart of Times Square, stay from 06:00 to 06:30, nearest transit: 9 AV/W 52 ST, 137.31m away; The High Line, New York, visit from 09:00 to 12:30, ; Times Square Diner, New York, visit from 14:30 to 16:05, ; Historic Henrietta Apartment, stay from 19:06 to 19:36, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Good Luck, Rochester, visit from 20:06 to 21:21, ; Historic Henrietta Apartment, stay from 21:51 to 05:51, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Rochester",
+    "transportation": "-",
+    "breakfast": "The Eagle Tavern, Rochester",
+    "lunch": "Jines Restaurant, Rochester",
+    "dinner": "Jaggers Rochester, Rochester",
+    "attraction": "Rochester Cathedral, Rochester",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 06:21 to 06:51, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; The Eagle Tavern, Rochester, visit from 08:30 to 09:20, ; Rochester Cathedral, Rochester, visit from 09:50 to 13:20, ; Jines Restaurant, Rochester, visit from 13:50 to 14:50, ; Jaggers Rochester, Rochester, visit from 19:00 to 20:15, ; Historic Henrietta Apartment, stay from 20:45 to 04:45, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Rochester to Martha's Vineyard",
+    "transportation": "Taxi from Rochester to Martha's Vineyard, duration: 603.14, distance: 746.2836, cost : 746.0",
+    "breakfast": "Nick Tahou Hots, Rochester",
+    "lunch": "Tiny Tim's Tea Rooms, Rochester",
+    "dinner": "Lipuma's Coney Island, Rochester",
+    "attraction": "Rochester Castle, Rochester",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 06:00 to 06:30, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Nick Tahou Hots, Rochester, visit from 08:00 to 08:50, ; Rochester Castle, Rochester, visit from 09:20 to 12:50, ; Tiny Tim's Tea Rooms, Rochester, visit from 13:20 to 14:20, ; Lipuma's Coney Island, Rochester, visit from 19:00 to 20:15, "
+  }
+]

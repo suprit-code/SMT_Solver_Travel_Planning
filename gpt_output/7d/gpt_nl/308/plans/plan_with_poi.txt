@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Burbank to Amarillo",
+    "transportation": "Taxi from Burbank to Amarillo, duration: 1112.3666666666666, distance: 1729.9941, cost : 1729.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "❤️Relax in charming 1920s Bohemian Bungalow❤️, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 01:02 to 01:32, nearest transit: S Washington St & SW 28th Ave, 319.2m away; ❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 02:02 to 08:00, nearest transit: S Washington St & SW 28th Ave, 319.2m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Macaroni Joes, Amarillo",
+    "lunch": "Golden Light Cafe & Cantina, Amarillo",
+    "dinner": "Ohms Cafe & Catering, Amarillo",
+    "attraction": "-",
+    "accommodation": "❤️Relax in charming 1920s Bohemian Bungalow❤️, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 08:30 to 09:00, nearest transit: S Washington St & SW 28th Ave, 319.2m away; Macaroni Joes, Amarillo, visit from 09:38 to 10:28, ; Golden Light Cafe & Cantina, Amarillo, visit from 14:29 to 15:29, ; Ohms Cafe & Catering, Amarillo, visit from 20:45 to 22:15, ; ❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 22:45 to 06:45, nearest transit: S Washington St & SW 28th Ave, 319.2m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F1098240, from Amarillo to Houston, Departure Time: 13:35, Arrival Time: 15:36",
+    "breakfast": "Jorge's Mexican Restaurant, Amarillo",
+    "lunch": "-",
+    "dinner": "Houston Restaurant, Houston",
+    "attraction": "Amarillo Museum of Art, Amarillo",
+    "accommodation": "💥Perfectly located walkable to Wash- Ave. Parks🌞, Houston",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 07:15 to 07:45, nearest transit: S Washington St & SW 28th Ave, 319.2m away; Jorge's Mexican Restaurant, Amarillo, visit from 08:15 to 09:05, ; Amarillo Museum of Art, Amarillo, visit from 09:35 to 13:05, ; 💥Perfectly located walkable to Wash- Ave. Parks🌞, stay from 16:06 to 16:36, nearest transit: Washington Ave @ Reinerman St, 142.31m away; Houston Restaurant, Houston, visit from 19:00 to 20:15, ; 💥Perfectly located walkable to Wash- Ave. Parks🌞, stay from 20:45 to 04:45, nearest transit: Washington Ave @ Reinerman St, 142.31m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Goode Company BBQ, Houston",
+    "dinner": "Houston's Restaurant & Pub, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "💥Perfectly located walkable to Wash- Ave. Parks🌞, Houston",
+    "event": "-",
+    "point_of_interest_list": "💥Perfectly located walkable to Wash- Ave. Parks🌞, stay from 06:00 to 06:30, nearest transit: Washington Ave @ Reinerman St, 142.31m away; Kenny & Ziggy's New York Deli, Houston, visit from 09:00 to 09:50, ; Goode Company BBQ, Houston, visit from 13:51 to 14:51, ; Cockrell Butterfly Center, Houston, visit from 15:30 to 19:00, ; Houston's Restaurant & Pub, Houston, visit from 19:30 to 20:45, ; 💥Perfectly located walkable to Wash- Ave. Parks🌞, stay from 21:15 to 05:15, nearest transit: Washington Ave @ Reinerman St, 142.31m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Taxi from Houston to San Antonio, duration: 211.06833333333333, distance: 315.3022, cost : 315.0",
+    "breakfast": "Market on Houston, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "-",
+    "attraction": "Holocaust Museum Houston, Houston",
+    "accommodation": "Cozy Cottage, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "💥Perfectly located walkable to Wash- Ave. Parks🌞, stay from 06:00 to 07:30, nearest transit: Washington Ave @ Reinerman St, 142.31m away; Market on Houston, Houston, visit from 08:00 to 08:50, ; Holocaust Museum Houston, Houston, visit from 09:20 to 12:50, ; Pappadeaux Seafood Kitchen, Houston, visit from 13:20 to 14:20, ; Cozy Cottage, stay from 18:51 to 19:21, nearest transit: DONALDSON OPPOSITE MABRY, 246.46m away; Cozy Cottage, stay from 19:51 to 03:51, nearest transit: DONALDSON OPPOSITE MABRY, 246.46m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Santa Diabla - Cocina Mexicana, San Antonio",
+    "lunch": "Bliss, San Antonio",
+    "dinner": "Bohanan's Prime Steak and Seafood, San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "Cozy Cottage, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Cottage, stay from 06:00 to 06:30, nearest transit: DONALDSON OPPOSITE MABRY, 246.46m away; Santa Diabla - Cocina Mexicana, San Antonio, visit from 08:20 to 09:10, ; Bliss, San Antonio, visit from 14:00 to 15:00, ; The Alamo, San Antonio, visit from 15:30 to 19:00, ; Bohanan's Prime Steak and Seafood, San Antonio, visit from 19:30 to 20:45, ; Cozy Cottage, stay from 21:15 to 05:15, nearest transit: DONALDSON OPPOSITE MABRY, 246.46m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Burbank",
+    "transportation": "Taxi from San Antonio to Burbank, duration: 1391.655, distance: 2194.3542, cost : 2194.0",
+    "breakfast": "Pinkerton's Barbecue, San Antonio",
+    "lunch": "Biga on the Banks, San Antonio",
+    "dinner": "Perry's Steakhouse & Grille- San Antonio, San Antonio",
+    "attraction": "Tower Of The Americas, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Cottage, stay from 06:00 to 06:30, nearest transit: DONALDSON OPPOSITE MABRY, 246.46m away; Pinkerton's Barbecue, San Antonio, visit from 08:00 to 08:50, ; Biga on the Banks, San Antonio, visit from 12:51 to 13:51, ; Tower Of The Americas, San Antonio, visit from 14:21 to 17:51, ; Perry's Steakhouse & Grille- San Antonio, San Antonio, visit from 19:00 to 20:15, "
+  }
+]

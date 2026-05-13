@@ -1,0 +1,6 @@
+Destination cities: ['Fort Wayne'],
+Transportation dates: ['2024-11-20', '2024-11-22'],
+Transportation methods between cities: ['Flight Number: F1728459, from Dallas to Fort Wayne, Departure Time: 16:51, Arrival Time: 20:24', 'Flight Number: F1752275, from Fort Wayne to Dallas, Departure Time: 08:36, Arrival Time: 10:00'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Han Dynasty, Fort Wayne', "Fort Wayne's Famous Coney Island, Fort Wayne", 'The Bluebird Restaurant, Fort Wayne', '-', '-', '-'],
+Attractions (1 per day): ['-', 'Fort Wayne Museum of Art, Fort Wayne', '-'],
+Accommodations (1 per city): ['Airy Studio Near Downtown, Fort Wayne']

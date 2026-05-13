@@ -1,0 +1,6 @@
+Destination cities: ['Kansas City'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F3553982, from Detroit to Kansas City, Departure Time: 14:06, Arrival Time: 14:59', 'Self-driving, from Kansas City to Detroit, duration: 852.385, distance: 1228.0826000000002, cost: 61'],
+Restaurants (3 meals per day): ['-', '-', "Garozzo's Ristorante, Kansas City", 'Bristol Seafood + Steak + Social, Kansas City', 'Gram & Dun, Kansas City', "Lidia's, Kansas City", 'Trezo Mare Restaurant & Lounge, Kansas City', 'KC Chop House, Kansas City', 'Fogo de Chao Brazilian Steakhouse, Kansas City'],
+Attractions (1 per day): ["Tom's Town Distilling Co., Kansas City", 'Kauffman Stadium, Kansas City', 'Country Club Plaza, Kansas City'],
+Accommodations (1 per city): ['Beautiful large King bedroom with luxury bedding, Kansas City']

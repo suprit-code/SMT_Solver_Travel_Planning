@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Amarillo",
+    "transportation": "Self-driving from Memphis to Amarillo, duration: 751.4483333333334, distance: 1165.9254, cost : 58.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "El Manantial, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 19:45 to 20:15, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Manantial, Amarillo, visit from 20:45 to 22:50, ; Relaxing Place to Stay with Guest Living Room!, stay from 23:20 to 07:20, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "Ye Olde Pancake Station, Amarillo",
+    "dinner": "575° Pizzeria - Hillside, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 07:50 to 08:20, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Golden Light Cafe & Cantina, Amarillo, visit from 08:50 to 10:00, ; Route 66 Historic District, Amarillo, visit from 10:30 to 14:00, ; Ye Olde Pancake Station, Amarillo, visit from 14:30 to 16:44, ; 575° Pizzeria - Hillside, Amarillo, visit from 20:45 to 22:00, ; Relaxing Place to Stay with Guest Living Room!, stay from 22:30 to 06:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Self-driving from Amarillo to Houston, duration: 649.365, distance: 961.8577, cost : 48.0",
+    "breakfast": "Jorge's Mexican Restaurant, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 07:00 to 07:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Jorge's Mexican Restaurant, Amarillo, visit from 08:00 to 08:50, ; #4 Northwest Victory Single BR, stay from 20:39 to 21:09, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; #4 Northwest Victory Single BR, stay from 21:39 to 05:39, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston's Trail's End, Houston",
+    "lunch": "Houston's Restaurant & Pub, Houston",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:09 to 06:39, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston's Trail's End, Houston, visit from 08:48 to 09:38, ; Houston's Restaurant & Pub, Houston, visit from 13:39 to 14:39, ; NRG Stadium, Houston, visit from 15:09 to 18:39, ; Pappadeaux Seafood Kitchen, Houston, visit from 19:09 to 20:24, ; #4 Northwest Victory Single BR, stay from 20:54 to 04:54, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Memphis",
+    "transportation": "Self-driving from Houston to Memphis, duration: 625.0183333333333, distance: 911.4177, cost : 45.0",
+    "breakfast": "Houston Restaurant, Houston",
+    "lunch": "Houston's, Houston",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 07:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston Restaurant, Houston, visit from 08:00 to 08:50, ; Houston's, Houston, visit from 13:30 to 14:30, ; Downtown Aquarium, Houston, visit from 15:00 to 18:30, ; Kenny & Ziggy's New York Deli, Houston, visit from 19:00 to 20:15, "
+  }
+]
