@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Birmingham to Detroit",
+    "transportation": "Flight Number: F3362365, from Birmingham to Detroit, Departure Time: 06:07, Arrival Time: 09:04",
+    "breakfast": "SheWolf, Detroit",
+    "lunch": "Townhouse, Detroit",
+    "dinner": "Grey Ghost Detroit, Detroit",
+    "attraction": "Detroit Institute of Arts, Detroit",
+    "accommodation": "Historic Corktown Loft at Old Tiger Stadium, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Historic Corktown Loft at Old Tiger Stadium, stay from 09:29 to 09:35, nearest transit: Montcalm St - Southbound, 1676.02m away; SheWolf, visit from 10:00 to 10:40, nearest transit: Mack Ave - Southbound, 444.39m away; Detroit Institute of Arts, visit from 11:05 to 13:05, nearest transit: Warren Ave - Northbound, 171.21m away; Townhouse, visit from 14:40 to 15:20, nearest transit: Congress St, 45.65m away; Grey Ghost Detroit, visit from 19:20 to 20:00, nearest transit: Mack Ave - Northbound, 279.12m away; Historic Corktown Loft at Old Tiger Stadium, stay from 20:25 to 08:00, nearest transit: Montcalm St - Southbound, 1676.02m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Detroit",
+    "transportation": "-",
+    "breakfast": "Besa, Detroit",
+    "lunch": "Parc, Detroit",
+    "dinner": "Pegasus Taverna, Detroit",
+    "attraction": "Comerica Park, Detroit",
+    "accommodation": "Historic Corktown Loft at Old Tiger Stadium, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Historic Corktown Loft at Old Tiger Stadium, stay from 08:00 to 08:30, nearest transit: Montcalm St - Southbound, 1676.02m away; Besa, visit from 08:55 to 09:35, nearest transit: Congress St, 71.32m away; Comerica Park, visit from 10:00 to 12:00, nearest transit: Montcalm St - Northbound, 304.26m away; Parc, visit from 13:35 to 14:15, nearest transit: Campus Martius - Southbound, 82.17m away; Pegasus Taverna, visit from 19:00 to 19:40, nearest transit: Campus Martius - Northbound, 565.19m away; Historic Corktown Loft at Old Tiger Stadium, stay from 20:05 to 08:00, nearest transit: Montcalm St - Southbound, 1676.02m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Detroit to Birmingham",
+    "transportation": "Flight Number: F1123078, from Detroit to Birmingham, Departure Time: 10:17, Arrival Time: 11:09",
+    "breakfast": "Texas de Brazil - Detroit, Detroit",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Corktown Loft at Old Tiger Stadium, stay from 08:00 to 08:30, nearest transit: Montcalm St - Southbound, 1676.02m away; Texas de Brazil - Detroit, visit from 08:55 to 09:35, nearest transit: Campus Martius - Southbound, 47.58m away"
+  }
+]

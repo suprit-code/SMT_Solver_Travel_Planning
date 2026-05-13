@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Tampa",
+    "transportation": "Flight Number: F3773579, from Boston to Tampa, Departure Time: 20:58, Arrival Time: 00:22",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Downtown Tampa Pool House! Walk to Armature Works!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Downtown Tampa Pool House! Walk to Armature Works!, stay from 00:52 to 01:22, nearest transit: Busch Gardens Employee Entrance, 9918.32m away; Downtown Tampa Pool House! Walk to Armature Works!, stay from 01:52 to 08:00, nearest transit: Busch Gardens Employee Entrance, 9918.32m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Green Lemon, Tampa",
+    "lunch": "Charley’s Steak House & Market Fresh Fish, Tampa",
+    "dinner": "Eddie V's Prime Seafood, Tampa",
+    "attraction": "-",
+    "accommodation": "Downtown Tampa Pool House! Walk to Armature Works!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Downtown Tampa Pool House! Walk to Armature Works!, stay from 08:30 to 09:00, nearest transit: Busch Gardens Employee Entrance, 9918.32m away; Green Lemon, Tampa, visit from 09:39 to 10:29, ; Charley’s Steak House & Market Fresh Fish, Tampa, visit from 14:30 to 15:30, ; Eddie V's Prime Seafood, Tampa, visit from 19:31 to 20:46, ; Downtown Tampa Pool House! Walk to Armature Works!, stay from 21:16 to 06:50, nearest transit: Busch Gardens Employee Entrance, 9918.32m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Boston",
+    "transportation": "Flight Number: F2903351, from Tampa to Boston, Departure Time: 15:10, Arrival Time: 18:23",
+    "breakfast": "Oystercatchers, Tampa",
+    "lunch": "Salt Shack On The Bay, Tampa",
+    "dinner": "-",
+    "attraction": "Glazer Children's Museum, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Tampa Pool House! Walk to Armature Works!, stay from 07:20 to 07:50, nearest transit: Busch Gardens Employee Entrance, 9918.32m away; Oystercatchers, Tampa, visit from 08:20 to 09:10, ; Glazer Children's Museum, Tampa, visit from 09:40 to 13:10, ; Salt Shack On The Bay, Tampa, visit from 13:40 to 14:40, "
+  }
+]

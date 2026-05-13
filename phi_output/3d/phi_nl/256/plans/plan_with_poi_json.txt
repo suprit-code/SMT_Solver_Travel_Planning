@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Colorado Springs",
+    "transportation": "Flight Number: F0092583, from Las Vegas to Colorado Springs, Departure Time: 09:41, Arrival Time: 12:27",
+    "breakfast": "-",
+    "lunch": "Carlos Bistro, Colorado Springs",
+    "dinner": "Cowboy Star, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "The Master Suite at the Fisher House, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "The Master Suite at the Fisher House, stay from 12:57 to 13:27, nearest transit: Uintah/24th, 223.24m away; Carlos Bistro, visit from 13:57 to 14:37, nearest transit: 21st/Broadway, 62.57m away; Garden of the Gods, visit from 15:07 to 17:07, nearest transit: Fillmore/Grand Vista, 1350.56m away; Cowboy Star, visit from 19:00 to 19:40, nearest transit: Nevada/Eagle Rock, 261.61m away; The Master Suite at the Fisher House, stay from 23:00 to 08:00, nearest transit: Uintah/24th, 223.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Shuga's Restaurant, Colorado Springs",
+    "lunch": "Restaurant 1858, Colorado Springs",
+    "dinner": "Summit at The Broadmoor, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "The Master Suite at the Fisher House, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "The Master Suite at the Fisher House, stay from 08:00 to 08:30, nearest transit: Uintah/24th, 223.24m away; Shuga's Restaurant, visit from 09:00 to 09:40, nearest transit: Nevada/Rio Grande, 327.62m away; Seven Falls, visit from 10:10 to 12:10, nearest transit: Mesa/Lake, 2799.21m away; Restaurant 1858, visit from 13:40 to 14:20, nearest transit: Moreno/Communication, 320.84m away; Summit at The Broadmoor, visit from 19:00 to 19:40, nearest transit: Broadmoor Hotel, 68.55m away; The Master Suite at the Fisher House, stay from 23:00 to 08:00, nearest transit: Uintah/24th, 223.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Colorado Springs to Las Vegas",
+    "transportation": "Flight Number: F3565531, from Colorado Springs to Las Vegas, Departure Time: 19:14, Arrival Time: 20:08",
+    "breakfast": "The Famous Steak House, Colorado Springs",
+    "lunch": "Prime 25, Colorado Springs",
+    "dinner": "The Melting Pot, Colorado Springs",
+    "attraction": "United States Air Force Academy, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Master Suite at the Fisher House, stay from 08:00 to 08:30, nearest transit: Uintah/24th, 223.24m away; The Famous Steak House, visit from 09:00 to 09:40, nearest transit: Terminal, 131.95m away; United States Air Force Academy, visit from 10:10 to 12:10, nearest transit: 1155 Kelly Johnson, 10025.33m away; Prime 25, visit from 13:24 to 14:04, nearest transit: Brookside/Cascade, 181.96m away; The Melting Pot, visit from 18:04 to 18:44, nearest transit: Cascade/Colorado, 160.80m away"
+  }
+]

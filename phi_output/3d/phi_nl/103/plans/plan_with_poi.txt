@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Anchorage",
+    "transportation": "Flight Number: F1981733, from Las Vegas to Anchorage, Departure Time: 19:41, Arrival Time: 00:12",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "South Anchorage .Kodiak Room-5 Min From Airport, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "South Anchorage .Kodiak Room-5 Min From Airport, stay from 00:42 to 01:12, nearest transit: ARLENE & 88TH AVENUE SSW, 842.75m away; South Anchorage .Kodiak Room-5 Min From Airport, stay from 01:42 to 08:00, nearest transit: ARLENE & 88TH AVENUE SSW, 842.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Anchorage",
+    "transportation": "-",
+    "breakfast": "Kaladi Brothers Coffee, Anchorage",
+    "lunch": "Anchorage Restaurant, Anchorage",
+    "dinner": "Kobuk Coffee Co, Anchorage",
+    "attraction": "-",
+    "accommodation": "South Anchorage .Kodiak Room-5 Min From Airport, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "South Anchorage .Kodiak Room-5 Min From Airport, stay from 08:30 to 09:00, nearest transit: ARLENE & 88TH AVENUE SSW, 842.75m away; Kaladi Brothers Coffee, Anchorage, visit from 09:38 to 10:28, ; Anchorage Restaurant, Anchorage, visit from 14:29 to 15:29, ; Kobuk Coffee Co, Anchorage, visit from 19:30 to 20:45, ; South Anchorage .Kodiak Room-5 Min From Airport, stay from 21:15 to 05:30, nearest transit: ARLENE & 88TH AVENUE SSW, 842.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Anchorage to Las Vegas",
+    "transportation": "Flight Number: F2889796, from Anchorage to Las Vegas, Departure Time: 23:41, Arrival Time: 05:30",
+    "breakfast": "Sushi & Sushi Restaurant, Anchorage",
+    "lunch": "Ray's Place, Anchorage",
+    "dinner": "Pho Lena, Anchorage",
+    "attraction": "Tony Knowles Coastal Trail, Anchorage",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "South Anchorage .Kodiak Room-5 Min From Airport, stay from 06:00 to 06:30, nearest transit: ARLENE & 88TH AVENUE SSW, 842.75m away; Sushi & Sushi Restaurant, Anchorage, visit from 08:00 to 08:50, ; Tony Knowles Coastal Trail, Anchorage, visit from 09:20 to 12:50, ; Ray's Place, Anchorage, visit from 13:20 to 14:20, ; Pho Lena, Anchorage, visit from 19:00 to 20:15, "
+  }
+]

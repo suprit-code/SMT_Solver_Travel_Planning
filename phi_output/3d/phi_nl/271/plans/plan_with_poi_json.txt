@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Key West",
+    "transportation": "Flight Number: F3476719, from Houston to Key West, Departure Time: 10:49, Arrival Time: 14:30",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Waterfront Brewery, Key West",
+    "attraction": "Fort Zachary Taylor Historic State Park, Key West",
+    "accommodation": "Hidden Beach unit 1 The Perfect Place to stay, Key West",
+    "event": "-",
+    "point_of_interest_list": "Hidden Beach unit 1 The Perfect Place to stay, stay from 15:00 to 15:30, nearest transit: South & Simonton, 238.65m away; Fort Zachary Taylor Historic State Park, visit from 16:00 to 18:00, nearest transit: Truman Waterfront Park- Water Park Area, 710.74m away; Waterfront Brewery, visit from 19:00 to 19:40, nearest transit: Caroline & William, 119.49m away; Hidden Beach unit 1 The Perfect Place to stay, stay from 23:00 to 08:00, nearest transit: South & Simonton, 238.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Key West",
+    "transportation": "-",
+    "breakfast": "Seaside Cafe at the Mansion, Key West",
+    "lunch": "Prime Steakhouse, Key West",
+    "dinner": "Harpoon Harry's, Key West",
+    "attraction": "Florida Keys Eco-Discovery Center, Key West",
+    "accommodation": "Hidden Beach unit 1 The Perfect Place to stay, Key West",
+    "event": "-",
+    "point_of_interest_list": "Hidden Beach unit 1 The Perfect Place to stay, stay from 08:00 to 08:30, nearest transit: South & Simonton, 238.65m away; Seaside Cafe at the Mansion, visit from 09:00 to 09:40, nearest transit: United & Duval St., 164.82m away; Florida Keys Eco-Discovery Center, visit from 10:10 to 12:10, nearest transit: Truman Waterfront Park- Water Park Area, 160.86m away; Prime Steakhouse, visit from 13:40 to 14:20, nearest transit: Caroline & Grinnell, 4.21m away; Harpoon Harry's, visit from 19:00 to 19:40, nearest transit: Caroline & Grinnell, 83.92m away; Hidden Beach unit 1 The Perfect Place to stay, stay from 23:00 to 08:00, nearest transit: South & Simonton, 238.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Key West to Houston",
+    "transportation": "Flight Number: F0987158, from Key West to Houston, Departure Time: 16:45, Arrival Time: 19:01",
+    "breakfast": "The Breakfast Club, Too, Key West",
+    "lunch": "The Lobster Shack Key West, Key West",
+    "dinner": "Onlywood Grill, Key West",
+    "attraction": "Smathers Beach, Key West",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hidden Beach unit 1 The Perfect Place to stay, stay from 08:00 to 08:30, nearest transit: South & Simonton, 238.65m away; The Breakfast Club, Too, visit from 09:00 to 09:40, nearest transit: Simonton & Dey St., 85.42m away; Smathers Beach, visit from 10:10 to 12:10, nearest transit: S Roosevelt - Key West by the Sea, 124.77m away; The Lobster Shack Key West, visit from 12:40 to 13:20, nearest transit: South & Simonton, 95.85m away; Onlywood Grill, visit from 15:35 to 16:15, nearest transit: Caroline & William, 28.22m away"
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-07', '2024-11-09'],
+Transportation methods between cities: ['Flight Number: F0292124, from Tucson to Seattle, Departure Time: 13:22, Arrival Time: 16:42', 'Flight Number: F3819338, from Seattle to Tucson, Departure Time: 17:44, Arrival Time: 21:39'],
+Restaurants (3 meals per day): ['-', '-', 'El Gaucho Seattle, Seattle', 'The Capital Grille, Seattle', 'Spinasse, Seattle', "Matt's in the Market, Seattle", 'Il Terrazzo Carmine, Seattle', "Salty's On Alki Beach, Seattle", 'Place Pigalle Restaurant and Bar, Seattle'],
+Attractions (1 per day): ['Seattle Aquarium, Seattle', 'Kerry Park, Seattle', 'Hiram M. Chittenden Locks, Seattle'],
+Accommodations (1 per city): ['Cascade Room @ Judkins Park Inn - Next to Downtown, Seattle']

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Greensboro",
+    "transportation": "Self-driving from Hartford to Greensboro, duration: 783.4616666666666, distance: 1043.7665, cost : 52.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Sarah's Kabob Shop, Greensboro",
+    "attraction": "-",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 19:45 to 20:15, nearest transit: Elm/Fisher (OB), 111.24m away; Sarah's Kabob Shop, Greensboro, visit from 20:45 to 22:00, ; Leftwich St APT 2, stay from 22:41 to 06:41, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Stamey's Barbecue, Greensboro",
+    "lunch": "Mythos Grill, Greensboro",
+    "dinner": "Golden Wok, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 07:11 to 07:41, nearest transit: Elm/Fisher (OB), 111.24m away; Stamey's Barbecue, Greensboro, visit from 08:11 to 09:29, ; International Civil Rights Center & Museum, Greensboro, visit from 09:59 to 13:29, ; Mythos Grill, Greensboro, visit from 13:59 to 14:59, ; Golden Wok, Greensboro, visit from 19:00 to 20:15, ; Leftwich St APT 2, stay from 21:30 to 05:30, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Self-driving from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 16.0",
+    "breakfast": "Carolina's Diner, Greensboro",
+    "lunch": "Dear Dad's, Greensboro",
+    "dinner": "-",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Hawks Nest 3 @UNCW, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 06:00 to 06:30, nearest transit: Elm/Fisher (OB), 111.24m away; Carolina's Diner, Greensboro, visit from 08:00 to 08:50, ; Ambleside Gallery, Greensboro, visit from 09:31 to 13:01, ; Dear Dad's, Greensboro, visit from 13:31 to 14:31, ; Hawks Nest 3 @UNCW, stay from 19:29 to 19:59, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; Hawks Nest 3 @UNCW, stay from 22:32 to 06:32, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Winnie's Tavern, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Hawks Nest 3 @UNCW, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Hawks Nest 3 @UNCW, stay from 07:02 to 07:32, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; Winnie's Tavern, Wilmington, visit from 08:02 to 08:52, ; Flaming Amy's Burrito Barn, Wilmington, visit from 12:53 to 13:53, ; Burgwin-Wright House and Gardens, Wilmington, visit from 15:00 to 18:30, ; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 19:00 to 20:15, ; Hawks Nest 3 @UNCW, stay from 21:30 to 05:30, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Self-driving from Wilmington to Charlotte, duration: 245.71, distance: 318.6171, cost : 15.0",
+    "breakfast": "-",
+    "lunch": "Pinky's Westside Grill, Charlotte",
+    "dinner": "Charlotte's Legendary Lobster Pound, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Hawks Nest 3 @UNCW, stay from 06:00 to 06:30, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; Comfy private bed and bath, stay from 11:35 to 12:05, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Pinky's Westside Grill, Charlotte, visit from 12:35 to 13:35, ; NASCAR Hall of Fame, Charlotte, visit from 14:05 to 17:35, ; Charlotte's Legendary Lobster Pound, Charlotte, visit from 19:00 to 20:15, ; Comfy private bed and bath, stay from 20:45 to 04:45, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Teahouse, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "Charlotte Plummer's Seafare Restaurant, Charlotte",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 06:00 to 06:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Charlotte's Teahouse, Charlotte, visit from 09:06 to 09:56, ; Charlotte's Eats and Sweets, Charlotte, visit from 14:00 to 15:00, ; Mint Museum Uptown, Charlotte, visit from 15:30 to 19:00, ; Charlotte Plummer's Seafare Restaurant, Charlotte, visit from 19:30 to 20:45, ; Comfy private bed and bath, stay from 21:15 to 05:15, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Hartford",
+    "transportation": "Self-driving from Charlotte to Hartford, duration: 880.2583333333333, distance: 1178.0703, cost : 58.0",
+    "breakfast": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "lunch": "Charlotte Bakery, Charlotte",
+    "dinner": "Charlotte's Tavern, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 06:00 to 06:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 08:00 to 08:50, ; Levine Museum of the New South, Charlotte, visit from 09:20 to 12:50, ; Charlotte Bakery, Charlotte, visit from 13:20 to 14:20, ; Charlotte's Tavern, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

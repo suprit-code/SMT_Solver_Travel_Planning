@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Montgomery to Atlanta",
+    "transportation": "Self-driving from Montgomery to Atlanta, duration: 179.01166666666668, distance: 259.3936, cost : 12.0",
+    "breakfast": "-",
+    "lunch": "By George restaurant and bar, Atlanta",
+    "dinner": "-",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 13:00 to 13:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; By George restaurant and bar, Atlanta, visit from 14:00 to 15:00, ; Georgia Aquarium, Atlanta, visit from 15:30 to 22:54, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 23:24 to 07:24, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Kevin Rathbun Steak, Atlanta",
+    "lunch": "Home Grown, Atlanta",
+    "dinner": "No Mas! Cantina, Atlanta",
+    "attraction": "-",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 07:54 to 08:24, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Kevin Rathbun Steak, Atlanta, visit from 08:54 to 09:59, ; Home Grown, Atlanta, visit from 14:00 to 15:00, ; No Mas! Cantina, Atlanta, visit from 19:30 to 20:45, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 00:00 to 08:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Montgomery",
+    "transportation": "Self-driving from Atlanta to Montgomery, duration: 178.06833333333333, distance: 258.9032, cost : 12.0",
+    "breakfast": "-",
+    "lunch": "La Tavola Trattoria, Atlanta",
+    "dinner": "Stoney River Steakhouse and Grill, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 08:30 to 09:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Zoo Atlanta, Atlanta, visit from 10:30 to 14:00, ; La Tavola Trattoria, Atlanta, visit from 14:30 to 15:30, ; Stoney River Steakhouse and Grill, Atlanta, visit from 19:31 to 20:46, "
+  }
+]

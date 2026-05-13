@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Las Vegas",
+    "transportation": "Flight Number: F2139496, from Cleveland to Las Vegas, Departure Time: 07:39, Arrival Time: 09:21",
+    "breakfast": "-",
+    "lunch": "Carmine's, Las Vegas",
+    "dinner": "Skyfall Lounge, Las Vegas",
+    "attraction": "The Las Vegas Strip, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 09:51 to 10:21, nearest transit: The Strat, 5367.88m away; The Las Vegas Strip, visit from 10:51 to 12:51, nearest transit: The Strat, 4134.07m away; Carmine's, visit from 13:21 to 14:01, nearest transit: The Strat, 3610.12m away; Skyfall Lounge, visit from 19:00 to 19:40, nearest transit: The Strat, 6368.08m away; Gamble Adventure | Restaurant. Outside Pool, stay from 23:00 to 08:00, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Vic & Anthony's Steakhouse, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Vic & Anthony's Steakhouse, visit from 09:00 to 09:40, nearest transit: Fremont Street Experience, 213.11m away; Hoover Dam Bypass, visit from 10:10 to 12:10, nearest transit: Fremont East Entertainment District, 39777.46m away; Eggscellent, visit from 13:40 to 14:20, nearest transit: The Strat, 4208.46m away; Mr. Mamas, visit from 19:00 to 19:40, nearest transit: The Strat, 9224.85m away; Gamble Adventure | Restaurant. Outside Pool, stay from 23:00 to 08:00, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Cleveland",
+    "transportation": "Flight Number: F1336792, from Las Vegas to Cleveland, Departure Time: 22:15, Arrival Time: 05:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away"
+  }
+]

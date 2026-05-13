@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Los Angeles",
+    "transportation": "Flight Number: F3629308, from Kansas City to Los Angeles, Departure Time: 15:55, Arrival Time: 17:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Venice Canals Walkway, Los Angeles",
+    "accommodation": "Cozy Private Room In LA., Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Raffaello Ristorante, Los Angeles",
+    "lunch": "Ayara Thai Cuisine, Los Angeles",
+    "dinner": "Leo & Lily, Los Angeles",
+    "attraction": "Hollywood Sign, Los Angeles",
+    "accommodation": "Cozy Private Room In LA., Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 08:00 to 08:30, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Raffaello Ristorante, visit from 09:00 to 09:40, nearest transit: 7th St & Pacific Ave (Westbound), 71.28m away; Hollywood Sign, visit from 10:10 to 12:10, nearest transit:  Beachwood & Westshire , 1574.74m away; Ayara Thai Cuisine, visit from 13:40 to 14:20, nearest transit: Sepulveda Blvd & Manchester Ave (Northbound), 181.70m away; Leo & Lily, visit from 19:00 to 19:40, nearest transit: Ventura Blvd & Shoup Ave (Eastbound), 52.03m away; Cozy Private Room In LA., stay from 23:00 to 08:00, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Kansas City",
+    "transportation": "Flight Number: F1398303, from Los Angeles to Kansas City, Departure Time: 14:58, Arrival Time: 20:09",
+    "breakfast": "Cafe Gratitude Venice, Los Angeles",
+    "lunch": "Bavel, Los Angeles",
+    "dinner": "-",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 08:00 to 08:30, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Cafe Gratitude Venice, visit from 09:00 to 09:40, nearest transit: Pacific Ave & Washington Blvd (Arriving), 2169.02m away; Walt Disney Concert Hall, visit from 10:10 to 12:10, nearest transit: Hope St & 1st St (Northbound), 80.77m away; Bavel, visit from 13:40 to 14:20, nearest transit: Molino St & Palmetto St, 153.71m away"
+  }
+]

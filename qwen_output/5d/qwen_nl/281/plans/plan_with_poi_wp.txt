@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to San Diego",
+    "transportation": "Flight Number: F0195816, from Dallas to San Diego, Departure Time: 16:53, Arrival Time: 17:54",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "-",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 18:24 to 18:54, nearest transit: Upas St & 30th St, 403.13m away; Din Tai Fung, San Diego, visit from 19:24 to 21:51, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 22:21 to 07:40, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 08:10 to 08:40, nearest transit: Upas St & 30th St, 403.13m away; Juniper and Ivy, San Diego, visit from 09:10 to 10:00, ; Cabrillo National Monument, San Diego, visit from 10:30 to 14:00, ; Born & Raised, San Diego, visit from 14:30 to 15:30, ; Lou & Mickey's, San Diego, visit from 19:45 to 21:00, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 21:30 to 05:30, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Addison Restaurant, San Diego",
+    "lunch": "-",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "-",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 06:00 to 06:30, nearest transit: Upas St & 30th St, 403.13m away; Addison Restaurant, San Diego, visit from 08:00 to 08:50, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 19:11 to 20:15, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Grange Restaurant & Bar, Sacramento, visit from 20:45 to 22:03, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 22:33 to 06:33, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Ella Dining Room & Bar, Sacramento",
+    "lunch": "Scott's Seafood on The River, Sacramento",
+    "dinner": "The Waterboy, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 07:03 to 07:33, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Ella Dining Room & Bar, Sacramento, visit from 08:03 to 08:53, ; Capitol Park, Sacramento, visit from 09:23 to 12:53, ; Scott's Seafood on The River, Sacramento, visit from 13:23 to 14:23, ; The Waterboy, Sacramento, visit from 19:00 to 20:15, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 20:45 to 04:45, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Dallas",
+    "transportation": "Flight Number: F2845838, from Sacramento to Dallas, Departure Time: 14:55, Arrival Time: 20:09",
+    "breakfast": "The Kitchen Restaurant, Sacramento",
+    "lunch": "The Firehouse Restaurant, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; The Kitchen Restaurant, Sacramento, visit from 08:00 to 08:50, ; California State Capitol Museum, Sacramento, visit from 09:25 to 12:55, ; The Firehouse Restaurant, Sacramento, visit from 13:25 to 14:25, "
+  }
+]

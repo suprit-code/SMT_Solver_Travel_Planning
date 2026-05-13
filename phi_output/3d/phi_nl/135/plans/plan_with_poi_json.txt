@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Flight Number: F1547631, from Martha's Vineyard to New York, Departure Time: 13:22, Arrival Time: 14:39",
+    "breakfast": "-",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "Lillie's Victorian Establishment, New York",
+    "attraction": "One World Observatory, New York",
+    "accommodation": "Standard 1 King at Hotel Indigo Williamsburg, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard 1 King at Hotel Indigo Williamsburg, stay from 15:09 to 15:39, nearest transit: FDR DR/555 FDR DR, 1963.47m away; One World Observatory, visit from 16:09 to 18:09, nearest transit: VESEY ST/NORTH END AV, 231.75m away; Times Square Diner, visit from 18:39 to 19:19, nearest transit: W 49 ST/8 AV, 51.46m away; Lillie's Victorian Establishment, visit from 21:20 to 22:00, nearest transit: 8 AV/W 49 ST, 40.41m away; Standard 1 King at Hotel Indigo Williamsburg, stay from 23:00 to 08:00, nearest transit: FDR DR/555 FDR DR, 1963.47m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge\u2019s Delicatessen & Diner, New York",
+    "lunch": "FIG & OLIVE, New York",
+    "dinner": "Piccola Cucina Estiatorio, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Standard 1 King at Hotel Indigo Williamsburg, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard 1 King at Hotel Indigo Williamsburg, stay from 08:00 to 08:30, nearest transit: FDR DR/555 FDR DR, 1963.47m away; Sarge\u2019s Delicatessen & Diner, visit from 09:00 to 09:40, nearest transit: 3 AV/E 37 ST, 101.41m away; The High Line, visit from 10:10 to 12:10, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; FIG & OLIVE, visit from 13:40 to 14:20, nearest transit: 5 AV/W 52 ST, 84.16m away; Piccola Cucina Estiatorio, visit from 19:00 to 19:40, nearest transit: 6 AV/BROOME ST, 118.93m away; Standard 1 King at Hotel Indigo Williamsburg, stay from 23:00 to 08:00, nearest transit: FDR DR/555 FDR DR, 1963.47m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Martha's Vineyard",
+    "transportation": "taxi, from New York to Martha's Vineyard, duration: 404.8333333333333, distance: 425.9981, cost: 425",
+    "breakfast": "Burger & Lobster, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Azalea Ristorante, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Standard 1 King at Hotel Indigo Williamsburg, stay from 08:00 to 08:30, nearest transit: FDR DR/555 FDR DR, 1963.47m away; Burger & Lobster, visit from 09:00 to 09:40, nearest transit: W 42 ST/BROADWAY, 75.08m away; Central Park, visit from 10:10 to 12:10, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; Westway Diner, visit from 13:40 to 14:20, nearest transit: 9 AV/W 44 ST, 44.32m away; Azalea Ristorante, visit from 19:00 to 19:40, nearest transit: W 50 ST/8 AV, 83.22m away"
+  }
+]

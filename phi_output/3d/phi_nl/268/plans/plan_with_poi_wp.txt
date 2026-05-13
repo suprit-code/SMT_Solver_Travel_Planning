@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from St. Louis to Atlanta",
+    "transportation": "Flight Number: F1311495, from St. Louis to Atlanta, Departure Time: 05:39, Arrival Time: 08:00",
+    "breakfast": "Ray's in the City, Atlanta",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "No Mas! Cantina, Atlanta",
+    "attraction": "-",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 08:30 to 09:00, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away; Ray's in the City, Atlanta, visit from 09:39 to 10:29, ; Aviva by Kameel, Atlanta, visit from 14:30 to 16:44, ; No Mas! Cantina, Atlanta, visit from 20:45 to 22:00, ; Tiny House Retreat * Stock Tank Pool, stay from 23:22 to 07:22, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Fox Bros. Bar-B-Q, Atlanta",
+    "lunch": "La Grotta Ristorante Italiano, Atlanta",
+    "dinner": "Max's Coal Oven Pizzeria, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 07:52 to 08:22, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away; Fox Bros. Bar-B-Q, Atlanta, visit from 08:52 to 10:00, ; Atlanta History Center, Atlanta, visit from 10:30 to 14:00, ; La Grotta Ristorante Italiano, Atlanta, visit from 14:30 to 16:44, ; Max's Coal Oven Pizzeria, Atlanta, visit from 20:45 to 22:00, ; Tiny House Retreat * Stock Tank Pool, stay from 22:30 to 06:30, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to St. Louis",
+    "transportation": "Flight Number: F1271024, from Atlanta to St. Louis, Departure Time: 18:38, Arrival Time: 19:02",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "Bone's Restaurant, Atlanta",
+    "dinner": "-",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 07:00 to 07:30, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away; Cafe Agora, Atlanta, visit from 08:00 to 08:50, ; Bone's Restaurant, Atlanta, visit from 12:51 to 13:51, ; Zoo Atlanta, Atlanta, visit from 14:21 to 18:08, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Jackson to Atlanta",
+    "transportation": "Flight Number: F3965490, from Jackson to Atlanta, Departure Time: 15:25, Arrival Time: 17:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "-",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 18:03 to 20:15, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Cafe Agora, Atlanta, visit from 20:45 to 22:04, ; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 22:34 to 06:34, nearest transit: CASCADE AVE SW @ 1113, 82.4m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Max's Coal Oven Pizzeria, Atlanta",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "Steamhouse Lounge, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 07:04 to 07:34, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Max's Coal Oven Pizzeria, Atlanta, visit from 08:04 to 08:54, ; Atlanta History Center, Atlanta, visit from 09:24 to 14:00, ; Aviva by Kameel, Atlanta, visit from 14:30 to 15:30, ; Steamhouse Lounge, Atlanta, visit from 19:31 to 20:46, ; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 21:16 to 05:16, nearest transit: CASCADE AVE SW @ 1113, 82.4m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Jackson",
+    "transportation": "Flight Number: F3970669, from Atlanta to Jackson, Departure Time: 19:10, Arrival Time: 19:19",
+    "breakfast": "-",
+    "lunch": "Home Grown, Atlanta",
+    "dinner": "-",
+    "attraction": "Atlanta Botanical Garden, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 08:30 to 09:00, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Atlanta Botanical Garden, Atlanta, visit from 09:30 to 13:00, ; Home Grown, Atlanta, visit from 14:30 to 16:58, "
+  }
+]

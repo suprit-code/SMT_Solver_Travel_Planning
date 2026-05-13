@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to Seattle",
+    "transportation": "Flight Number: F3860013, from El Paso to Seattle, Departure Time: 21:06, Arrival Time: 00:06",
+    "breakfast": "Wild Ginger, Seattle",
+    "lunch": "The Pike Pub and Brewery, Seattle",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "13 Coins Restaurant, Seattle",
+    "lunch": "Rocco's, Seattle",
+    "dinner": "Chan Seattle, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:00 to 08:30, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; 13 Coins Restaurant, visit from 09:00 to 09:40, nearest transit: King Street Station, 107.40m away; Woodland Park Zoo, visit from 10:10 to 12:10, nearest transit: Phinney Ave N & N 55th St, 257.77m away; Rocco's, visit from 13:40 to 14:20, nearest transit: 3rd Ave & Bell St, 90.96m away; Chan Seattle, visit from 19:00 to 19:40, nearest transit: Pine St & 9th Ave, 68.08m away; Ballard Greenwood Private Suite, stay from 23:00 to 08:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to El Paso",
+    "transportation": "Flight Number: F3860425, from Seattle to El Paso, Departure Time: 13:53, Arrival Time: 18:02",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:00 to 08:30, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Dough Zone Dumpling House - Seattle International District, visit from 09:00 to 09:40, nearest transit: 5th Ave S & S Weller St, 26.54m away; Seattle Center, visit from 10:10 to 12:10, nearest transit: Seattle Center, 84.22m away; Noi Thai Cuisine, visit from 12:43 to 13:23, nearest transit: 2nd Ave & Seneca St, 181.65m away"
+  }
+]

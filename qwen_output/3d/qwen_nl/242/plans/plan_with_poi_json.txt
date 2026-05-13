@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to New York",
+    "transportation": "Self-driving, from Nashville to New York, duration: 994.2066666666668, distance: 1424.3848, cost: 71",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Dazzling Oasis | Times Square.  Restaurant, New York",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 00:59 to 01:05, nearest transit: W 50 ST/7 AV, 82.76m away; Dazzling Oasis | Times Square.  Restaurant, stay from 01:30 to 08:00, nearest transit: W 50 ST/7 AV, 82.76m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Rao's Restaurant, New York",
+    "lunch": "Manhatta, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Dazzling Oasis | Times Square.  Restaurant, New York",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 08:00 to 08:30, nearest transit: W 50 ST/7 AV, 82.76m away; Rao's Restaurant, visit from 08:55 to 09:35, nearest transit: E 116 ST/PLEASANT AV, 168.60m away; The High Line, visit from 10:00 to 12:00, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Manhatta, visit from 13:35 to 14:15, nearest transit: BROADWAY/THAMES ST, 199.51m away; Del Frisco's Grille, visit from 19:00 to 19:40, nearest transit: 5 AV/W 50 ST, 139.24m away; Dazzling Oasis | Times Square.  Restaurant, stay from 20:05 to 08:00, nearest transit: W 50 ST/7 AV, 82.76m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Nashville",
+    "transportation": "Self-driving, from New York to Nashville, duration: 993.97, distance: 1424.3275, cost: 71",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "BOOM, New York",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 08:00 to 08:30, nearest transit: W 50 ST/7 AV, 82.76m away; Peak Restaurant & Bar, visit from 08:55 to 09:35, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; Central Park, visit from 10:00 to 12:00, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; BOOM, visit from 13:35 to 14:15, nearest transit: W 14 ST/WASHINGTON ST, 126.07m away; Gallaghers Steakhouse, visit from 19:00 to 19:40, nearest transit: 7 AV/W 52 ST, 131.50m away"
+  }
+]

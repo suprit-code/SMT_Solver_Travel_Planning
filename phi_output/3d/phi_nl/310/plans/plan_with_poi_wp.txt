@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Ontario",
+    "transportation": "Flight Number: F4030780, from Las Vegas to Ontario, Departure Time: 15:19, Arrival Time: 16:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Nine North Viet-Thai Cuisine, Ontario",
+    "attraction": "-",
+    "accommodation": "Beautiful clean and bright apartment, Ontario",
+    "event": "-",
+    "point_of_interest_list": "Beautiful clean and bright apartment, stay from 16:43 to 18:30, nearest transit: Danforth GO, 4296.71m away; Nine North Viet-Thai Cuisine, Ontario, visit from 19:00 to 22:05, ; Beautiful clean and bright apartment, stay from 22:35 to 06:35, nearest transit: Danforth GO, 4296.71m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Ontario",
+    "transportation": "-",
+    "breakfast": "Hudson Public Kitchen + Bar, Ontario",
+    "lunch": "Sunset Grill, Ontario",
+    "dinner": "The Olde School Restaurant, Ontario",
+    "attraction": "Ripley's Aquarium of Canada, Ontario",
+    "accommodation": "Beautiful clean and bright apartment, Ontario",
+    "event": "-",
+    "point_of_interest_list": "Beautiful clean and bright apartment, stay from 07:05 to 07:35, nearest transit: Danforth GO, 4296.71m away; Hudson Public Kitchen + Bar, Ontario, visit from 08:05 to 09:59, ; Sunset Grill, Ontario, visit from 14:00 to 15:00, ; Ripley's Aquarium of Canada, Ontario, visit from 15:30 to 19:00, ; The Olde School Restaurant, Ontario, visit from 20:45 to 22:00, ; Beautiful clean and bright apartment, stay from 23:40 to 07:40, nearest transit: Danforth GO, 4296.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Ontario to Las Vegas",
+    "transportation": "Flight Number: F3102939, from Ontario to Las Vegas, Departure Time: 22:01, Arrival Time: 23:14",
+    "breakfast": "China King Restaurant, Ontario",
+    "lunch": "Cafe Andreou, Ontario",
+    "dinner": "Crazy Canuck Smokehouse, Ontario",
+    "attraction": "White Water Walk, Ontario",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful clean and bright apartment, stay from 08:10 to 08:40, nearest transit: Danforth GO, 4296.71m away; China King Restaurant, Ontario, visit from 09:10 to 10:00, ; White Water Walk, Ontario, visit from 10:30 to 14:00, ; Cafe Andreou, Ontario, visit from 14:30 to 15:30, ; Crazy Canuck Smokehouse, Ontario, visit from 19:31 to 20:46, "
+  }
+]

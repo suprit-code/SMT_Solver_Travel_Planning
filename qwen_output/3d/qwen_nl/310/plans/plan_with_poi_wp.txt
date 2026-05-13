@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Ontario",
+    "transportation": "Flight Number: F0975748, from Las Vegas to Ontario, Departure Time: 08:08, Arrival Time: 08:57",
+    "breakfast": "-",
+    "lunch": "Gran Sasso Restaurant, Ontario",
+    "dinner": "Kel's Family Restaurant, Ontario",
+    "attraction": "Ripley's Aquarium of Canada, Ontario",
+    "accommodation": "Amazing Condo Heart of Downtown + 1 Free Parking, Ontario",
+    "event": "-",
+    "point_of_interest_list": "Amazing Condo Heart of Downtown + 1 Free Parking, stay from 09:27 to 09:57, nearest transit: Union Station, 1935.82m away; Ripley's Aquarium of Canada, Ontario, visit from 10:27 to 13:57, ; Gran Sasso Restaurant, Ontario, visit from 14:27 to 15:27, ; Kel's Family Restaurant, Ontario, visit from 19:28 to 20:43, ; Amazing Condo Heart of Downtown + 1 Free Parking, stay from 21:13 to 05:13, nearest transit: Union Station, 1935.82m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Ontario",
+    "transportation": "-",
+    "breakfast": "Jumbo Dragon Chinese Restaurant, Ontario",
+    "lunch": "Shanghai Restaurant, Ontario",
+    "dinner": "Zaza's Pizzzeria, Ontario",
+    "attraction": "Niagara Falls Canada, Ontario",
+    "accommodation": "Amazing Condo Heart of Downtown + 1 Free Parking, Ontario",
+    "event": "-",
+    "point_of_interest_list": "Amazing Condo Heart of Downtown + 1 Free Parking, stay from 06:00 to 06:30, nearest transit: Union Station, 1935.82m away; Jumbo Dragon Chinese Restaurant, Ontario, visit from 08:21 to 09:11, ; Niagara Falls Canada, Ontario, visit from 09:41 to 13:11, ; Shanghai Restaurant, Ontario, visit from 14:30 to 15:30, ; Zaza's Pizzzeria, Ontario, visit from 19:31 to 20:46, ; Amazing Condo Heart of Downtown + 1 Free Parking, stay from 21:16 to 05:16, nearest transit: Union Station, 1935.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Ontario to Las Vegas",
+    "transportation": "Flight Number: F0654879, from Ontario to Las Vegas, Departure Time: 17:41, Arrival Time: 18:51",
+    "breakfast": "Nine North Viet-Thai Cuisine, Ontario",
+    "lunch": "The Keg Steakhouse + Bar - Brantford, Ontario",
+    "dinner": "-",
+    "attraction": "White Water Walk, Ontario",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Amazing Condo Heart of Downtown + 1 Free Parking, stay from 06:00 to 06:30, nearest transit: Union Station, 1935.82m away; Nine North Viet-Thai Cuisine, Ontario, visit from 08:00 to 08:50, ; White Water Walk, Ontario, visit from 09:20 to 12:50, ; The Keg Steakhouse + Bar - Brantford, Ontario, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Mission to Nashville",
+    "transportation": "Self-driving from Mission to Nashville, duration: 1263.165, distance: 1916.6776, cost : 95.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 03:33 to 04:03, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 04:33 to 08:00, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "The Stillery, Nashville",
+    "dinner": "The Bluebird Cafe, Nashville",
+    "attraction": "-",
+    "accommodation": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 08:30 to 09:00, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; Aquarium Restaurant, Nashville, visit from 09:39 to 10:29, ; The Stillery, Nashville, visit from 14:30 to 16:44, ; The Bluebird Cafe, Nashville, visit from 20:45 to 23:10, ; Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 23:40 to 07:40, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Chattanooga",
+    "transportation": "Self-driving from Nashville to Chattanooga, duration: 148.23666666666668, distance: 211.4268, cost : 10.0",
+    "breakfast": "Hand Cut Chophouse, Nashville",
+    "lunch": "Puckett's 5th & Church, Nashville",
+    "dinner": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "attraction": "Nashville Parthenon, Nashville",
+    "accommodation": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 08:10 to 08:40, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; Hand Cut Chophouse, Nashville, visit from 09:10 to 10:00, ; Nashville Parthenon, Nashville, visit from 10:30 to 14:00, ; Puckett's 5th & Church, Nashville, visit from 14:30 to 15:30, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 18:58 to 19:28, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; Maple Street Biscuit Company - City Center, Chattanooga, visit from 19:58 to 22:00, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 22:30 to 06:30, nearest transit: Boynton & 953 Boynton-0, 3119.08m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "1885 Grill, Chattanooga",
+    "lunch": "Easy Bistro & Bar, Chattanooga",
+    "dinner": "Hickory Pit Bar-B-Que, Chattanooga",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 07:00 to 07:30, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; 1885 Grill, Chattanooga, visit from 08:00 to 08:50, ; Easy Bistro & Bar, Chattanooga, visit from 12:51 to 13:51, ; Tennessee Valley Railroad Museum, Chattanooga, visit from 15:00 to 18:30, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 19:00 to 20:15, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 20:45 to 05:30, nearest transit: Boynton & 953 Boynton-0, 3119.08m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Chattanooga to Memphis",
+    "transportation": "Self-driving from Chattanooga to Memphis, duration: 376.3683333333333, distance: 547.2609, cost : 27.0",
+    "breakfast": "Mellow Mushroom Chattanooga, Chattanooga",
+    "lunch": "Uncle Larry's Restaurant, Chattanooga",
+    "dinner": "-",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Historic Cooper Young Midtown Shotgun House, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 06:00 to 07:30, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; Mellow Mushroom Chattanooga, Chattanooga, visit from 08:00 to 08:50, ; Coolidge Park, Chattanooga, visit from 09:20 to 12:50, ; Uncle Larry's Restaurant, Chattanooga, visit from 13:20 to 14:20, ; Historic Cooper Young Midtown Shotgun House, stay from 21:36 to 22:06, nearest transit: YOUNG@MEDA, 88.72m away; Historic Cooper Young Midtown Shotgun House, stay from 22:36 to 06:36, nearest transit: YOUNG@MEDA, 88.72m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Memphis",
+    "transportation": "-",
+    "breakfast": "Gus's World Famous Fried Chicken, Memphis",
+    "lunch": "Gibson's Donuts, Memphis",
+    "dinner": "Silky O'sullivan's, Memphis",
+    "attraction": "National Civil Rights Museum - Lorraine Motel, Memphis",
+    "accommodation": "Historic Cooper Young Midtown Shotgun House, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 07:06 to 07:36, nearest transit: YOUNG@MEDA, 88.72m away; Gus's World Famous Fried Chicken, Memphis, visit from 09:10 to 10:00, ; National Civil Rights Museum - Lorraine Motel, Memphis, visit from 10:30 to 14:00, ; Gibson's Donuts, Memphis, visit from 14:30 to 15:30, ; Silky O'sullivan's, Memphis, visit from 19:31 to 20:46, ; Historic Cooper Young Midtown Shotgun House, stay from 21:16 to 05:16, nearest transit: YOUNG@MEDA, 88.72m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Memphis to Mission",
+    "transportation": "Self-driving from Memphis to Mission, duration: 1024.8366666666666, distance: 1481.7513, cost : 74.0",
+    "breakfast": "Memphis Blues Barbeque House, Memphis",
+    "lunch": "Itta Bena, Memphis",
+    "dinner": "Cozy Corner, Memphis",
+    "attraction": "Stax Museum of American Soul Music, Memphis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 06:00 to 08:40, nearest transit: YOUNG@MEDA, 88.72m away; Memphis Blues Barbeque House, Memphis, visit from 09:10 to 10:00, ; Stax Museum of American Soul Music, Memphis, visit from 10:30 to 14:00, ; Itta Bena, Memphis, visit from 14:30 to 15:30, ; Cozy Corner, Memphis, visit from 19:31 to 20:46, "
+  }
+]

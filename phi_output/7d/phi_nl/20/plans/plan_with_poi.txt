@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Champaign to Amarillo",
+    "transportation": "Taxi from Champaign to Amarillo, duration: 996.6283333333332, distance: 1503.3516000000002, cost : 1503.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Downtown Luxury High-Rise Suite, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 23:06 to 23:36, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; Downtown Luxury High-Rise Suite, stay from 00:06 to 08:00, nearest transit: SW 6th Ave & S Tyler St, 49.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Metropolitan, Amarillo",
+    "lunch": "575° Pizzeria - Hillside, Amarillo",
+    "dinner": "Ohms Cafe & Catering, Amarillo",
+    "attraction": "-",
+    "accommodation": "Downtown Luxury High-Rise Suite, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 08:30 to 09:00, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; Metropolitan, Amarillo, visit from 09:39 to 10:29, ; 575° Pizzeria - Hillside, Amarillo, visit from 14:30 to 15:44, ; Ohms Cafe & Catering, Amarillo, visit from 19:45 to 21:00, ; Downtown Luxury High-Rise Suite, stay from 21:30 to 05:30, nearest transit: SW 6th Ave & S Tyler St, 49.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Amazing Sunset View from Private Balcony on Water, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 06:00 to 07:30, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; Golden Light Cafe & Cantina, Amarillo, visit from 08:00 to 08:50, ; Amazing Sunset View from Private Balcony on Water, stay from 21:10 to 21:40, nearest transit: 1086-Whitecap, 1530.28m away; Amazing Sunset View from Private Balcony on Water, stay from 22:10 to 06:10, nearest transit: 1086-Whitecap, 1530.28m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Yardarm Restaurant, Corpus Christi",
+    "lunch": "Republic of Texas Bar & Grill, Corpus Christi",
+    "dinner": "Doc's Seafood & Steak Restaurant, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "Amazing Sunset View from Private Balcony on Water, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Amazing Sunset View from Private Balcony on Water, stay from 06:40 to 07:10, nearest transit: 1086-Whitecap, 1530.28m away; Yardarm Restaurant, Corpus Christi, visit from 09:10 to 10:00, ; USS Lexington Museum, Corpus Christi, visit from 10:30 to 14:00, ; Republic of Texas Bar & Grill, Corpus Christi, visit from 14:30 to 16:03, ; Doc's Seafood & Steak Restaurant, Corpus Christi, visit from 20:04 to 21:19, ; Amazing Sunset View from Private Balcony on Water, stay from 21:49 to 05:49, nearest transit: 1086-Whitecap, 1530.28m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F3931966, from Corpus Christi to Houston, Departure Time: 07:19, Arrival Time: 08:37",
+    "breakfast": "-",
+    "lunch": "Taste of Texas, Houston",
+    "dinner": "Houston Restaurant, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "EaDo Room | Private Entrance | Walk 2 Astros Games, Houston",
+    "event": "-",
+    "point_of_interest_list": "Amazing Sunset View from Private Balcony on Water, stay from 06:19 to 06:49, nearest transit: 1086-Whitecap, 1530.28m away; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 09:07 to 09:37, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Houston Zoo, Houston, visit from 10:07 to 13:37, ; Taste of Texas, Houston, visit from 14:07 to 15:07, ; Houston Restaurant, Houston, visit from 19:08 to 20:23, ; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 20:53 to 07:40, nearest transit: Navigation Blvd @ Canal St, 329.09m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "Merrill & Houston's Steak Joint, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "EaDo Room | Private Entrance | Walk 2 Astros Games, Houston",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 08:10 to 08:40, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Brennan's of Houston, Houston, visit from 09:10 to 10:00, ; Cockrell Butterfly Center, Houston, visit from 10:30 to 14:00, ; Merrill & Houston's Steak Joint, Houston, visit from 14:30 to 16:44, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 20:45 to 22:39, ; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 23:09 to 07:09, nearest transit: Navigation Blvd @ Canal St, 329.09m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Champaign",
+    "transportation": "Taxi from Houston to Champaign, duration: 1031.7916666666667, distance: 1511.9677, cost : 1511.0",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Pappas Bros. Steakhouse, Houston",
+    "dinner": "Market on Houston, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 07:39 to 08:09, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Pappadeaux Seafood Kitchen, Houston, visit from 08:39 to 09:29, ; Downtown Aquarium, Houston, visit from 09:59 to 13:29, ; Pappas Bros. Steakhouse, Houston, visit from 13:59 to 14:59, ; Market on Houston, Houston, visit from 19:00 to 20:15, "
+  }
+]

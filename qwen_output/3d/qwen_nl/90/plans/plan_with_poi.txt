@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Flight Number: F2762845, from Martha's Vineyard to New York, Departure Time: 13:50, Arrival Time: 15:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "-",
+    "accommodation": "Sonder at One Platt | Queen Studio, New York",
+    "event": "-",
+    "point_of_interest_list": "Sonder at One Platt | Queen Studio, stay from 15:50 to 16:20, nearest transit: WATER ST/JOHN ST, 47.08m away; Gallaghers Steakhouse, New York, visit from 19:00 to 20:15, ; Sonder at One Platt | Queen Studio, stay from 20:45 to 07:38, nearest transit: WATER ST/JOHN ST, 47.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Del Frisco's Grille, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Sonder at One Platt | Queen Studio, New York",
+    "event": "-",
+    "point_of_interest_list": "Sonder at One Platt | Queen Studio, stay from 08:08 to 08:38, nearest transit: WATER ST/JOHN ST, 47.08m away; Peak Restaurant & Bar, New York, visit from 09:08 to 09:59, ; Del Frisco's Grille, New York, visit from 14:00 to 15:00, ; Central Park, New York, visit from 15:30 to 19:00, ; FIG & OLIVE, New York, visit from 20:45 to 23:30, ; Sonder at One Platt | Queen Studio, stay from 00:00 to 08:00, nearest transit: WATER ST/JOHN ST, 47.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Martha's Vineyard",
+    "transportation": "Flight Number: F2909164, from New York to Martha's Vineyard, Departure Time: 11:42, Arrival Time: 12:47",
+    "breakfast": "RH Rooftop Restaurant New York, New York",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sonder at One Platt | Queen Studio, stay from 08:30 to 09:00, nearest transit: WATER ST/JOHN ST, 47.08m away; RH Rooftop Restaurant New York, New York, visit from 09:30 to 10:20, "
+  }
+]

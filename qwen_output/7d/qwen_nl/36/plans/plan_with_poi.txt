@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Colorado Springs to San Diego",
+    "transportation": "Self-driving from Colorado Springs to San Diego, duration: 1203.9033333333332, distance: 1841.7768, cost : 92.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Great Beach Fun and Rest in Pacific Beach!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 02:33 to 03:03, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Great Beach Fun and Rest in Pacific Beach!, stay from 03:33 to 08:00, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Covewood Restaurant, San Diego",
+    "lunch": "Ruth's Chris Steak House, San Diego",
+    "dinner": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "attraction": "-",
+    "accommodation": "Great Beach Fun and Rest in Pacific Beach!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 08:30 to 09:00, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Covewood Restaurant, San Diego, visit from 09:39 to 10:29, ; Ruth's Chris Steak House, San Diego, visit from 14:30 to 15:30, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 19:31 to 21:00, ; Great Beach Fun and Rest in Pacific Beach!, stay from 21:30 to 05:30, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Self-driving from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 53.0",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "House of Peace - Quiet, Peaceful, near Shasta Lake, Redding",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 06:00 to 06:30, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Juniper and Ivy, San Diego, visit from 08:00 to 08:50, ; House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 22:04 to 22:34, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away; House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 23:04 to 07:40, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Cattlemens, Redding",
+    "lunch": "Jack's Grill, Redding",
+    "dinner": "Cicada Cantina, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "House of Peace - Quiet, Peaceful, near Shasta Lake, Redding",
+    "event": "-",
+    "point_of_interest_list": "House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 08:10 to 08:40, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away; Cattlemens, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; Jack's Grill, Redding, visit from 14:30 to 15:30, ; Cicada Cantina, Redding, visit from 20:45 to 23:30, ; House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 00:00 to 08:00, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Self-driving from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 12.0",
+    "breakfast": "-",
+    "lunch": "Cafeteria 15L, Sacramento",
+    "dinner": "The Waterboy, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 08:30 to 09:00, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away; Peaceful and Cozy Studio, stay from 12:56 to 13:26, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Cafeteria 15L, Sacramento, visit from 13:56 to 14:56, ; Sacramento History Museum, Sacramento, visit from 15:30 to 20:15, ; The Waterboy, Sacramento, visit from 20:45 to 22:00, ; Peaceful and Cozy Studio, stay from 22:30 to 06:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "The Kitchen Restaurant, Sacramento",
+    "lunch": "Il Fornaio, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 07:00 to 07:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; The Kitchen Restaurant, Sacramento, visit from 08:00 to 08:50, ; California State Capitol Museum, Sacramento, visit from 09:20 to 12:50, ; Il Fornaio, Sacramento, visit from 14:30 to 15:30, ; Grange Restaurant & Bar, Sacramento, visit from 19:31 to 20:46, ; Peaceful and Cozy Studio, stay from 21:16 to 05:16, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Colorado Springs",
+    "transportation": "Self-driving from Sacramento to Colorado Springs, duration: 1267.1850000000002, distance: 1989.959, cost : 99.0",
+    "breakfast": "Localis, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "Revival, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 06:00 to 06:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Localis, Sacramento, visit from 08:00 to 08:50, ; Nopalitos, Sacramento, visit from 12:51 to 13:51, ; Capitol Park, Sacramento, visit from 14:21 to 17:51, ; Revival, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

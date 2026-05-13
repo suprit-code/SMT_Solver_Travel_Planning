@@ -1,0 +1,7 @@
+not ok
+Unsatisfiable core:
+valid attraction index
+attraction in which city
+visit city in cities list
+valid accomodation index
+Entire home/apt or Shared room types accomadation visited

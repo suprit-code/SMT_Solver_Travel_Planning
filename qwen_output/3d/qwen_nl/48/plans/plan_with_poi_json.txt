@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Kansas City",
+    "transportation": "Flight Number: F1560460, from Detroit to Kansas City, Departure Time: 08:24, Arrival Time: 09:10",
+    "breakfast": "Lidia's, Kansas City",
+    "lunch": "801 Chophouse, Kansas City",
+    "dinner": "Jack Stack Barbecue - Freight House, Kansas City",
+    "attraction": "National WWI Museum and Memorial, Kansas City",
+    "accommodation": "KC Studio in the Heart of it All, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "KC Studio in the Heart of it All, stay from 09:35 to 09:41, nearest transit: ON JC NICHOLS AT 43RD ST NORTHBOUND, 316.08m away; Lidia's, visit from 10:06 to 10:46, nearest transit: ON SW BLVD AT CENTRAL WESTBOUND, 263.68m away; National WWI Museum and Memorial, visit from 11:11 to 13:11, nearest transit: ON GRAND AT 26TH SOUTHBOUND, 278.59m away; 801 Chophouse, visit from 14:46 to 15:26, nearest transit: POWER & LIGHT ON MAIN AT 14TH ST NB, 66.86m away; Jack Stack Barbecue - Freight House, visit from 19:26 to 20:06, nearest transit: ON SW BLVD AT CENTRAL WESTBOUND, 228.48m away; KC Studio in the Heart of it All, stay from 20:31 to 08:00, nearest transit: ON JC NICHOLS AT 43RD ST NORTHBOUND, 316.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Eddie V's Prime Seafood, Kansas City",
+    "lunch": "KC Chop House, Kansas City",
+    "dinner": "The Majestic Restaurant, Kansas City",
+    "attraction": "GEHA Field at Arrowhead Stadium, Kansas City",
+    "accommodation": "KC Studio in the Heart of it All, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "KC Studio in the Heart of it All, stay from 08:00 to 08:30, nearest transit: ON JC NICHOLS AT 43RD ST NORTHBOUND, 316.08m away; Eddie V's Prime Seafood, visit from 08:55 to 09:35, nearest transit: ON 47TH ST AT JEFFERSON ST WESTBOUND FARSIDE, 16.50m away; GEHA Field at Arrowhead Stadium, visit from 10:00 to 12:00, nearest transit: ON BLUE RIDGE CUT OFF AT RED COAT LANE SOUTHBOUND, 821.01m away; KC Chop House, visit from 13:35 to 14:15, nearest transit: ON 210 HWY AT AMERISTAR DR EASTBOUND, 675.92m away; The Majestic Restaurant, visit from 19:00 to 19:40, nearest transit: ON 11TH AT CENTRAL WESTBOUND, 221.78m away; KC Studio in the Heart of it All, stay from 20:05 to 08:00, nearest transit: ON JC NICHOLS AT 43RD ST NORTHBOUND, 316.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Detroit",
+    "transportation": "Flight Number: F2955877, from Kansas City to Detroit, Departure Time: 18:42, Arrival Time: 21:32",
+    "breakfast": "The Big Biscuit, Kansas City",
+    "lunch": "Chaz on the Plaza, Kansas City",
+    "dinner": "Gram & Dun, Kansas City",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "KC Studio in the Heart of it All, stay from 08:00 to 08:19, nearest transit: ON JC NICHOLS AT 43RD ST NORTHBOUND, 316.08m away; The Big Biscuit, visit from 08:44 to 09:24, nearest transit: ON BOARDWALK AT 8501 NB, 166.95m away; Tom's Town Distilling Co., visit from 09:49 to 11:49, nearest transit: KAUFFMAN CENTER ON MAIN AT 16TH ST SB, 116.42m away; Chaz on the Plaza, visit from 13:24 to 14:04, nearest transit: ON 47TH AT CENTRAL EASTBOUND FARSIDE, 294.59m away; Gram & Dun, visit from 18:04 to 18:17, nearest transit: ON 47TH AT JEFFERSON EASTBOUND NEARSIDE, 221.27m away"
+  }
+]

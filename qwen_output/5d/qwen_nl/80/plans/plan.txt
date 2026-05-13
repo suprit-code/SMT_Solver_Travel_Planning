@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-23', '2024-11-25', '2024-11-27'],
+Transportation methods between cities: ['Flight Number: F1797369, from Everett to San Diego, Departure Time: 17:44, Arrival Time: 20:04', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Everett, duration: 735.17, distance: 1000.015, cost: 1000'],
+Restaurants (3 meals per day): ['-', '-', 'Pacific Beach AleHouse, San Diego', 'Cafe Coyote, San Diego', 'Born & Raised, San Diego', "Lou & Mickey's, San Diego", 'El Agave Restaurant & Tequileria, San Diego', 'Oceana Coastal Kitchen, San Diego', 'Vessel Restaurant + Bar, San Diego', 'Guadalajara Mexican Restaurant, Redding', 'C. R. Gibbs American Grille, Redding', 'Black Bear Diner, Redding', "Logan's Roadhouse, Redding", 'Cheesecakes Unlimited, Redding', "Trendy's, Redding"],
+Attractions (1 per day): ['-', 'SeaWorld, San Diego', 'Sunset Cliffs Natural Park, San Diego', 'Redding Civic Auditorium, Redding', 'Sundial Bridge, Redding'],
+Accommodations (1 per city): ['Blue Beach House 🏖 5 blocks to Beach /Restaurants, San Diego', 'The God Spa, Redding']

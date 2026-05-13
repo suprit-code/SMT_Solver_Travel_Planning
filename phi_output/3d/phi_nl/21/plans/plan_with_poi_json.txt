@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Francisco to Las Vegas",
+    "transportation": "Flight Number: F0555964, from San Francisco to Las Vegas, Departure Time: 16:12, Arrival Time: 17:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Garden Court, Las Vegas",
+    "lunch": "Eggslut, Las Vegas",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Garden Court, visit from 09:00 to 09:40, nearest transit: Circa, 185.80m away; Red Rock Canyon National Conservation Area, visit from 10:10 to 12:10, nearest transit: The Strat, 24322.91m away; Eggslut, visit from 13:40 to 14:20, nearest transit: The Strat, 4473.66m away; Mr. Mamas, visit from 19:00 to 19:40, nearest transit: The Strat, 9224.85m away; Gamble Adventure | Restaurant. Outside Pool, stay from 23:00 to 08:00, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to San Francisco",
+    "transportation": "Flight Number: F3439527, from Las Vegas to San Francisco, Departure Time: 20:23, Arrival Time: 21:58",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "-",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Ameribrunch Cafe, visit from 09:00 to 09:40, nearest transit: Fremont East Entertainment District, 393.75m away; Hoover Dam Bypass, visit from 10:10 to 12:10, nearest transit: Fremont East Entertainment District, 39777.46m away; Eggscellent, visit from 13:40 to 14:20, nearest transit: The Strat, 4208.46m away"
+  }
+]

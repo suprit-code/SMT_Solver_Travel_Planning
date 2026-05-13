@@ -1,0 +1,60 @@
+
+                def run_event_search(city_ids):
+                    events = {}
+                    for city_id in city_ids:
+                        # Assume EventSearch returns a list of events for each city
+                        events[city_id] = ["Event1", "Event2", "Event3", "Event4", "Event5", "Event6", "Event7"]
+                    
+                    return events
+                
+                def set_event_in_which_city(events, city_ids, transportation_times):
+                    event_in_which_city = {}
+                    for i, city_id in enumerate(city_ids):
+                        if i < len(transportation_times) - 1:
+                            next_city_id = city_ids[i + 1]
+                            if transportation_times[i] <= 1:  # Example condition
+                                event_in_which_city[i] = city_id
+                            else:
+                                event_in_which_city[i] = next_city_id
+                        else:
+                            event_in_which_city[i] = city_id
+                    
+                    return event_in_which_city
+                
+                def set_event_index(event_in_which_city, events):
+                    event_index = {}
+                    for key, city_id in event_in_which_city.items():
+                        event_index[key] = events[city_id][key % len(events[city_id])]
+                    
+                    return event_index
+                
+                def define_category_score(category_scores):
+                    category_scores = {"Arts": 5, "Theatre": 4, "Music": 3, "Dance": 2, "Film": 1}
+                    return category_scores
+                
+                def get_specific_length_info(event_index, event_in_which_city, events, category_scores):
+                    weighted_category_scores = 0
+                    for key, event in event_index.items():
+                        city_id = event_in_which_city[key]
+                        if key < len(events[city_id]) and key >= 0:
+                            weighted_category_scores += category_scores.get(event.split()[0], 0)
+                    
+                    return weighted_category_scores
+                
+                def maximize_selected_events(events, city_ids, transportation_times, category_scores):
+                    event_in_which_city = set_event_in_which_city(events, city_ids, transportation_times)
+                    event_index = set_event_index(event_in_which_city, events)
+                    weighted_category_scores = get_specific_length_info(event_index, event_in_which_city, events, category_scores)
+                    
+                    return weighted_category_scores
+                
+                # Example usage
+                city_ids = [0, 1, 2]
+                transportation_times = [1, 2, 1, 3, 1, 2, 1]
+                category_scores = define_category_score({"Arts": 5, "Theatre": 4, "Music": 3, "Dance": 2, "Film": 1})
+                
+                events = run_event_search(city_ids)
+                max_weighted_scores = maximize_selected_events(events, city_ids, transportation_times, category_scores)
+                print(max_weighted_scores)
+                
+                

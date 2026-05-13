@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Houston",
+    "transportation": "Flight Number: F3349762, from New York to Houston, Departure Time: 13:56, Arrival Time: 17:19",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Alexander Guesthouse in the Historic Houston Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Brenner's on the Bayou, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Houston White Co, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Alexander Guesthouse in the Historic Houston Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Alexander Guesthouse in the Historic Houston Heights, stay from 08:00 to 08:30, nearest transit: W 11th St @ Dorothy St, 92.77m away; Brenner's on the Bayou, visit from 08:55 to 09:35, nearest transit: Memorial Dr @ Knox St, 214.20m away; Hermann Park, visit from 10:00 to 12:00, nearest transit: Cambridge St @ Ben Taub Loop, 355.64m away; Brennan's of Houston, visit from 13:35 to 14:15, nearest transit: Elgin St @ Smith St, 102.40m away; Houston White Co, visit from 19:00 to 19:40, nearest transit: Baytown Park & Ride, 2075682.55m away; Alexander Guesthouse in the Historic Houston Heights, stay from 23:00 to 08:00, nearest transit: W 11th St @ Dorothy St, 92.77m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to New York",
+    "transportation": "Flight Number: F2527801, from Houston to New York, Departure Time: 19:09, Arrival Time: 23:18",
+    "breakfast": "Taste of Texas, Houston",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Alexander Guesthouse in the Historic Houston Heights, stay from 08:00 to 08:30, nearest transit: W 11th St @ Dorothy St, 92.77m away; Taste of Texas, visit from 08:55 to 09:35, nearest transit: Katy Freeway @ Town And Country Way, 260.58m away; Houston Zoo, visit from 10:00 to 12:00, nearest transit: Cambridge St @ Ben Taub Loop, 473.45m away; Fogo de Chao Brazilian Steakhouse, visit from 13:35 to 14:15, nearest transit: Westheimer Rd @ Old Farm Rd, 57.72m away; Pappas Bros. Steakhouse, visit from 18:31 to 18:44, nearest transit: Westheimer Rd @ Augusta Dr, 60.97m away"
+  }
+]

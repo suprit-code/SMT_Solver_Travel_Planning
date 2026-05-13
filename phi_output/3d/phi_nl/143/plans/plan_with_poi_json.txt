@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Las Vegas",
+    "transportation": "Flight Number: F3456992, from Washington to Las Vegas, Departure Time: 10:30, Arrival Time: 12:19",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Vic & Anthony's Steakhouse, Las Vegas",
+    "attraction": "The Grand Canal Shoppes at The Venetian Resort, Las Vegas",
+    "accommodation": "Private Cozy Room with own entrance and pool ., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 12:49 to 13:19, nearest transit: The Strat, 8199.37m away; The Grand Canal Shoppes at The Venetian Resort, visit from 13:49 to 15:49, nearest transit: The Strat, 2980.91m away; Vic & Anthony's Steakhouse, visit from 19:00 to 19:40, nearest transit: Fremont Street Experience, 213.11m away; Private Cozy Room with own entrance and pool ., stay from 23:00 to 08:00, nearest transit: The Strat, 8199.37m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "PRIME Steakhouse, Las Vegas",
+    "lunch": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "dinner": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "attraction": "Las Vegas North Premium Outlets, Las Vegas",
+    "accommodation": "Private Cozy Room with own entrance and pool ., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 08:00 to 08:30, nearest transit: The Strat, 8199.37m away; PRIME Steakhouse, visit from 09:00 to 09:40, nearest transit: The Strat, 4188.61m away; Las Vegas North Premium Outlets, visit from 10:10 to 12:10, nearest transit: Las Vegas North Premium Outlets, 74.04m away; Golden Steer Steakhouse Las Vegas, visit from 13:40 to 14:20, nearest transit: The Strat, 555.77m away; Gordon Ramsay Hell's Kitchen, visit from 19:00 to 19:40, nearest transit: The Strat, 3843.18m away; Private Cozy Room with own entrance and pool ., stay from 23:00 to 08:00, nearest transit: The Strat, 8199.37m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Washington",
+    "transportation": "Flight Number: F0171913, from Las Vegas to Washington, Departure Time: 13:17, Arrival Time: 20:23",
+    "breakfast": "Nora's Italian Cuisine, Las Vegas",
+    "lunch": "Top of the World, Las Vegas",
+    "dinner": "-",
+    "attraction": "Fashion Show Las Vegas, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

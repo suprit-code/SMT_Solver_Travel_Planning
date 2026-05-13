@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F3511787, from Atlanta to San Diego, Departure Time: 08:21, Arrival Time: 09:54",
+    "breakfast": "-",
+    "lunch": "Alforon, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 10:24 to 13:30, nearest transit: 30th St & Dwight St, 360.48m away; Alforon, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 19:00, ; Addison Restaurant, San Diego, visit from 19:30 to 20:45, ; Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 22:45 to 06:45, nearest transit: 30th St & Dwight St, 360.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Buon Appetito, San Diego",
+    "lunch": "Mister A'S, San Diego",
+    "dinner": "Barbusa, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 07:15 to 07:45, nearest transit: 30th St & Dwight St, 360.48m away; Buon Appetito, San Diego, visit from 08:15 to 09:59, ; Mister A'S, San Diego, visit from 14:00 to 15:00, ; San Diego Zoo, San Diego, visit from 15:30 to 20:15, ; Barbusa, San Diego, visit from 20:45 to 22:00, ; Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 22:30 to 06:30, nearest transit: 30th St & Dwight St, 360.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F2670674, from San Diego to Sacramento, Departure Time: 16:54, Arrival Time: 18:27",
+    "breakfast": "Oceana Coastal Kitchen, San Diego",
+    "lunch": "Ruth's Chris Steak House, San Diego",
+    "dinner": "Tres Hermanas Mexican Restaurant, Sacramento",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 07:00 to 07:30, nearest transit: 30th St & Dwight St, 360.48m away; Oceana Coastal Kitchen, San Diego, visit from 08:00 to 08:50, ; Birch Aquarium at Scripps, San Diego, visit from 09:20 to 14:00, ; Ruth's Chris Steak House, San Diego, visit from 14:30 to 15:30, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 18:57 to 19:27, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Tres Hermanas Mexican Restaurant, Sacramento, visit from 19:57 to 21:12, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 21:42 to 05:42, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Mulvaney's Building & Loan, Sacramento",
+    "lunch": "Tipsy Putt, Sacramento",
+    "dinner": "Localis, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 06:12 to 06:42, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Mulvaney's Building & Loan, Sacramento, visit from 08:18 to 09:08, ; California State Capitol Museum, Sacramento, visit from 09:59 to 13:29, ; Tipsy Putt, Sacramento, visit from 13:59 to 14:59, ; Localis, Sacramento, visit from 19:00 to 20:15, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 20:45 to 08:00, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Atlanta",
+    "transportation": "Flight Number: F2527896, from Sacramento to Atlanta, Departure Time: 11:41, Arrival Time: 19:01",
+    "breakfast": "The Porch Restaurant and Bar, Sacramento",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 08:30 to 09:00, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; The Porch Restaurant and Bar, Sacramento, visit from 09:30 to 11:11, "
+  }
+]

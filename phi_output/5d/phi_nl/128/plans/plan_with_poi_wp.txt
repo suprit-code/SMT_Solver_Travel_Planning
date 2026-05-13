@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to Amarillo",
+    "transportation": "Taxi from Nashville to Amarillo, duration: 983.1266666666668, distance: 1506.9196000000002, cost : 1506.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 23:00 to 23:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Relaxing Place to Stay with Guest Living Room!, stay from 00:00 to 08:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Manantial, Amarillo",
+    "lunch": "El Bracero Mexican Grill, Amarillo",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:30 to 09:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Manantial, Amarillo, visit from 09:36 to 10:26, ; El Bracero Mexican Grill, Amarillo, visit from 14:27 to 15:27, ; Golden Light Cafe & Cantina, Amarillo, visit from 19:28 to 20:43, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:13 to 05:13, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F0453701, from Amarillo to Houston, Departure Time: 14:34, Arrival Time: 16:17",
+    "breakfast": "Ye Olde Pancake Station, Amarillo",
+    "lunch": "Crush, Amarillo",
+    "dinner": "Houston's Trail's End, Houston",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 06:00 to 06:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Ye Olde Pancake Station, Amarillo, visit from 08:00 to 09:03, ; Crush, Amarillo, visit from 13:04 to 14:04, ; #4 Northwest Victory Single BR, stay from 16:47 to 17:17, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston's Trail's End, Houston, visit from 19:00 to 22:00, ; #4 Northwest Victory Single BR, stay from 22:30 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Houstons Bar and Grill, Houston",
+    "dinner": "Market on Houston, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:00 to 07:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Pappadeaux Seafood Kitchen, Houston, visit from 08:00 to 08:50, ; Houstons Bar and Grill, Houston, visit from 12:51 to 13:51, ; Houston Zoo, Houston, visit from 14:21 to 18:30, ; Market on Houston, Houston, visit from 19:00 to 20:15, ; #4 Northwest Victory Single BR, stay from 20:45 to 04:45, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Nashville",
+    "transportation": "Flight Number: F1626544, from Houston to Nashville, Departure Time: 20:15, Arrival Time: 21:57",
+    "breakfast": "Houston Restaurant, Houston",
+    "lunch": "Kenny & Ziggy's New York Deli, Houston",
+    "dinner": "-",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston Restaurant, Houston, visit from 08:00 to 08:50, ; Kenny & Ziggy's New York Deli, Houston, visit from 14:00 to 15:00, ; Hermann Park, Houston, visit from 15:30 to 19:00, "
+  }
+]

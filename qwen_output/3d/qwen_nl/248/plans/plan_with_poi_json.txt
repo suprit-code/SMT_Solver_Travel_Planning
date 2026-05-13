@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Madison to New York",
+    "transportation": "taxi, from Madison to New York, duration: 1054.9716666666668, distance: 1514.6925, cost: 1514",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Dazzling Oasis | Times Square.  Restaurant, New York",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 01:59 to 02:05, nearest transit: W 50 ST/7 AV, 82.76m away; Dazzling Oasis | Times Square.  Restaurant, stay from 02:30 to 08:00, nearest transit: W 50 ST/7 AV, 82.76m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "La Grande Boucherie, New York",
+    "lunch": "Piccola Cucina Estiatorio, New York",
+    "dinner": "Sarge\u2019s Delicatessen & Diner, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Dazzling Oasis | Times Square.  Restaurant, New York",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 08:00 to 08:30, nearest transit: W 50 ST/7 AV, 82.76m away; La Grande Boucherie, visit from 08:55 to 09:35, nearest transit: 7 AV/W 54 ST, 124.66m away; Central Park, visit from 10:00 to 12:00, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; Piccola Cucina Estiatorio, visit from 13:35 to 14:15, nearest transit: 6 AV/BROOME ST, 118.93m away; Sarge\u2019s Delicatessen & Diner, visit from 19:00 to 19:40, nearest transit: 3 AV/E 37 ST, 101.41m away; Dazzling Oasis | Times Square.  Restaurant, stay from 20:05 to 08:00, nearest transit: W 50 ST/7 AV, 82.76m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Madison",
+    "transportation": "Flight Number: F3645437, from New York to Madison, Departure Time: 15:44, Arrival Time: 17:29",
+    "breakfast": "Del Frisco's Double Eagle Steakhouse, New York",
+    "lunch": "Gallaghers Steakhouse, New York",
+    "dinner": "Rao's Restaurant, New York",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 08:00 to 08:10, nearest transit: W 50 ST/7 AV, 82.76m away; Del Frisco's Double Eagle Steakhouse, visit from 08:35 to 08:48, nearest transit: W 49 ST/AVENUE OF THE AMERICAS, 94.03m away; Gallaghers Steakhouse, visit from 12:00 to 12:13, nearest transit: 7 AV/W 52 ST, 131.50m away; Rao's Restaurant, visit from 15:06 to 15:19, nearest transit: E 116 ST/PLEASANT AV, 168.60m away"
+  }
+]

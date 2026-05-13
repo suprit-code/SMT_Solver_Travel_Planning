@@ -1,0 +1,6 @@
+Destination cities: ['Las Vegas'],
+Transportation dates: ['2024-11-09', '2024-11-11'],
+Transportation methods between cities: ['Flight Number: F2155164, from Kansas City to Las Vegas, Departure Time: 15:49, Arrival Time: 16:50', 'Flight Number: F0644422, from Las Vegas to Kansas City, Departure Time: 17:13, Arrival Time: 21:44'],
+Restaurants (3 meals per day): ['-', '-', 'Triple George Grill, Las Vegas', 'Mr. Mamas, Las Vegas', 'Eggscellent, Las Vegas', 'Garden Court, Las Vegas', 'Ameribrunch Cafe, Las Vegas', 'Eggslut, Las Vegas', '-'],
+Attractions (1 per day): ['Fashion Show Las Vegas, Las Vegas', 'The Grand Canal Shoppes at The Venetian Resort, Las Vegas', 'Las Vegas North Premium Outlets, Las Vegas'],
+Accommodations (1 per city): ['Gamble Adventure | Restaurant. Outside Pool, Las Vegas']

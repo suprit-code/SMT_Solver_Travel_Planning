@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Washington",
+    "transportation": "Flight Number: F1054591, from Charleston to Washington, Departure Time: 07:28, Arrival Time: 08:42",
+    "breakfast": "Zaytinya by Jose Andres, Washington",
+    "lunch": "La Grande Boucherie, Washington",
+    "dinner": "The Palm - Washington, D.C., Washington",
+    "attraction": "Ford's Theatre, Washington",
+    "accommodation": "Private room in Capitol Hill, Washington",
+    "event": "-",
+    "point_of_interest_list": "Private room in Capitol Hill, stay from 09:07 to 09:25, nearest transit: POTOMAC AVE METRORAIL STATION - NE CORNER 14TH ST. & POTOMAC AVE., SE, NORTH OF PENNSYLVANIA AVE., 296.75m away; Zaytinya by Jose Andres, visit from 09:50 to 10:30, nearest transit: GALLERY PLACE CHINATOWN, 35.74m away; Ford's Theatre, visit from 10:55 to 12:55, nearest transit: ENTRANCE B - 11TH AND G STS., 172.16m away; La Grande Boucherie, visit from 14:30 to 15:10, nearest transit: METRO CENTER, 193.61m away; The Palm - Washington, D.C., visit from 19:10 to 19:50, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & 19TH ST. NW, 216.92m away; Private room in Capitol Hill, stay from 20:15 to 08:00, nearest transit: POTOMAC AVE METRORAIL STATION - NE CORNER 14TH ST. & POTOMAC AVE., SE, NORTH OF PENNSYLVANIA AVE., 296.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "The Dabney, Washington",
+    "lunch": "Smoke & Mirrors Rooftop Bar, Washington",
+    "dinner": "Joe's Seafood Prime Steak & Stone Crab, Washington",
+    "attraction": "Korean War Veterans Memorial, Washington",
+    "accommodation": "Private room in Capitol Hill, Washington",
+    "event": "-",
+    "point_of_interest_list": "Private room in Capitol Hill, stay from 08:00 to 08:30, nearest transit: POTOMAC AVE METRORAIL STATION - NE CORNER 14TH ST. & POTOMAC AVE., SE, NORTH OF PENNSYLVANIA AVE., 296.75m away; The Dabney, visit from 08:55 to 09:35, nearest transit: MT VERNON SQ, 217.08m away; Korean War Veterans Memorial, visit from 10:00 to 12:00, nearest transit: ARLINGTON CEMETERY, 1374.12m away; Smoke & Mirrors Rooftop Bar, visit from 13:35 to 14:15, nearest transit: NAVY YARD-BALLPARK, 408.46m away; Joe's Seafood Prime Steak & Stone Crab, visit from 19:00 to 19:40, nearest transit: MCPHERSON SQ, 150.59m away; Private room in Capitol Hill, stay from 23:00 to 08:00, nearest transit: POTOMAC AVE METRORAIL STATION - NE CORNER 14TH ST. & POTOMAC AVE., SE, NORTH OF PENNSYLVANIA AVE., 296.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Charleston",
+    "transportation": "taxi, from Washington to Charleston, duration: 593.9566666666667, distance: 860.1441, cost: 860",
+    "breakfast": "RPM Italian, Washington",
+    "lunch": "Fiola, Washington",
+    "dinner": "Kingbird, Washington",
+    "attraction": "Washington Monument, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private room in Capitol Hill, stay from 08:00 to 08:30, nearest transit: POTOMAC AVE METRORAIL STATION - NE CORNER 14TH ST. & POTOMAC AVE., SE, NORTH OF PENNSYLVANIA AVE., 296.75m away; RPM Italian, visit from 08:55 to 09:35, nearest transit: Entrance C - 7th & H St, GALLERY PLACE METRORAIL STATION, 292.84m away; Washington Monument, visit from 10:00 to 12:00, nearest transit: SMITHSONIAN, 557.33m away; Fiola, visit from 13:35 to 14:15, nearest transit: ARCHIVES, 107.10m away; Kingbird, visit from 19:00 to 19:40, nearest transit: FOGGY BOTTOM, 488.73m away"
+  }
+]

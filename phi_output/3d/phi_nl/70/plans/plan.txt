@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-10', '2024-11-12'],
+Transportation methods between cities: ['Flight Number: F3548860, from Kansas City to Atlanta, Departure Time: 07:10, Arrival Time: 10:23', 'Flight Number: F2210567, from Atlanta to Kansas City, Departure Time: 19:43, Arrival Time: 20:33'],
+Restaurants (3 meals per day): ['-', 'The Optimist, Atlanta', 'Aviva by Kameel, Atlanta', 'Canoe, Atlanta', 'St. Cecilia, Atlanta', "Nikolai's Roof, Atlanta", 'Stoney River Steakhouse and Grill, Atlanta', 'Kevin Rathbun Steak, Atlanta', 'The Capital Grille, Atlanta'],
+Attractions (1 per day): ['Georgia Aquarium, Atlanta', 'Zoo Atlanta, Atlanta', 'Centennial Olympic Park, Atlanta'],
+Accommodations (1 per city): ['Midtown Hidden Gem @Piedmont Park/Private+Parking, Atlanta']

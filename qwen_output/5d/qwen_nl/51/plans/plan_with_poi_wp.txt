@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to San Diego",
+    "transportation": "Flight Number: F1596568, from El Paso to San Diego, Departure Time: 14:37, Arrival Time: 15:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Civico 1845, San Diego",
+    "attraction": "-",
+    "accommodation": "Place to Stay with Private Entrance near Beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 15:46 to 20:15, nearest transit: Cable St & Newport Av, 642.75m away; Civico 1845, San Diego, visit from 20:45 to 22:09, ; Place to Stay with Private Entrance near Beach, stay from 22:39 to 06:39, nearest transit: Cable St & Newport Av, 642.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Place to Stay with Private Entrance near Beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 07:09 to 07:39, nearest transit: Cable St & Newport Av, 642.75m away; Lou & Mickey's, San Diego, visit from 08:09 to 09:59, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 14:00 to 15:00, ; San Diego Zoo, San Diego, visit from 15:30 to 20:07, ; Addison Restaurant, San Diego, visit from 20:37 to 21:52, ; Place to Stay with Private Entrance near Beach, stay from 22:22 to 06:22, nearest transit: Cable St & Newport Av, 642.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F0034352, from San Diego to Sacramento, Departure Time: 07:52, Arrival Time: 09:15",
+    "breakfast": "-",
+    "lunch": "The Porch Restaurant and Bar, Sacramento",
+    "dinner": "The Waterboy, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "The Cottage on Hendricks, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 06:52 to 07:22, nearest transit: Cable St & Newport Av, 642.75m away; The Cottage on Hendricks, stay from 09:45 to 10:15, nearest transit: STOCKTON BLVD & 34TH ST (EB), 298.87m away; The Porch Restaurant and Bar, Sacramento, visit from 12:00 to 13:00, ; Capitol Park, Sacramento, visit from 13:30 to 17:00, ; The Waterboy, Sacramento, visit from 19:00 to 20:15, ; The Cottage on Hendricks, stay from 20:45 to 05:30, nearest transit: STOCKTON BLVD & 34TH ST (EB), 298.87m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "El Novillero Restaurant, Sacramento",
+    "lunch": "Sauced BBQ & Spirits, Sacramento",
+    "dinner": "Mulvaney's Building & Loan, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "The Cottage on Hendricks, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "The Cottage on Hendricks, stay from 06:00 to 06:30, nearest transit: STOCKTON BLVD & 34TH ST (EB), 298.87m away; El Novillero Restaurant, Sacramento, visit from 08:30 to 09:20, ; California State Capitol Museum, Sacramento, visit from 09:50 to 13:20, ; Sauced BBQ & Spirits, Sacramento, visit from 13:50 to 14:50, ; Mulvaney's Building & Loan, Sacramento, visit from 20:45 to 22:00, ; The Cottage on Hendricks, stay from 22:30 to 06:30, nearest transit: STOCKTON BLVD & 34TH ST (EB), 298.87m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to El Paso",
+    "transportation": "Taxi from Sacramento to El Paso, duration: 1267.745, distance: 1906.2027, cost : 1906.0",
+    "breakfast": "Pilothouse Restaurant on the Delta King, Sacramento",
+    "lunch": "Tipsy Putt, Sacramento",
+    "dinner": "Scott's Seafood on The River, Sacramento",
+    "attraction": "Old Sacramento, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Cottage on Hendricks, stay from 07:00 to 07:30, nearest transit: STOCKTON BLVD & 34TH ST (EB), 298.87m away; Pilothouse Restaurant on the Delta King, Sacramento, visit from 08:00 to 08:50, ; Old Sacramento, Sacramento, visit from 09:20 to 12:50, ; Tipsy Putt, Sacramento, visit from 13:20 to 14:20, ; Scott's Seafood on The River, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

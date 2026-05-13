@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Amarillo",
+    "transportation": "Flight Number: F2626059, from Las Vegas to Amarillo, Departure Time: 13:58, Arrival Time: 17:44",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "-",
+    "accommodation": "The Studio On 17th, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Studio On 17th, stay from 18:14 to 18:44, nearest transit: SW 15th Ave & S Harrison St, 216.59m away; Golden Light Cafe & Cantina, Amarillo, visit from 19:14 to 22:17, ; The Studio On 17th, stay from 22:47 to 06:47, nearest transit: SW 15th Ave & S Harrison St, 216.59m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Manantial, Amarillo",
+    "lunch": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "dinner": "Ohms Cafe & Catering, Amarillo",
+    "attraction": "Amarillo Museum of Art, Amarillo",
+    "accommodation": "The Studio On 17th, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Studio On 17th, stay from 07:17 to 07:47, nearest transit: SW 15th Ave & S Harrison St, 216.59m away; El Manantial, Amarillo, visit from 08:17 to 09:59, ; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 14:00 to 15:00, ; Amarillo Museum of Art, Amarillo, visit from 15:30 to 19:00, ; Ohms Cafe & Catering, Amarillo, visit from 19:45 to 21:00, ; The Studio On 17th, stay from 21:30 to 05:30, nearest transit: SW 15th Ave & S Harrison St, 216.59m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F1760529, from Amarillo to Houston, Departure Time: 13:28, Arrival Time: 15:06",
+    "breakfast": "Pacific Rim, Amarillo",
+    "lunch": "-",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "The Rustic Traveler | 83 Walkability Score, Houston",
+    "event": "-",
+    "point_of_interest_list": "The Studio On 17th, stay from 06:00 to 06:30, nearest transit: SW 15th Ave & S Harrison St, 216.59m away; Pacific Rim, Amarillo, visit from 08:00 to 08:50, ; Cadillac Ranch, Amarillo, visit from 09:20 to 12:50, ; The Rustic Traveler | 83 Walkability Score, stay from 15:36 to 16:06, nearest transit: W 11th St @ Rutland St, 178.69m away; Pappadeaux Seafood Kitchen, Houston, visit from 19:00 to 22:26, ; The Rustic Traveler | 83 Walkability Score, stay from 22:56 to 06:56, nearest transit: W 11th St @ Rutland St, 178.69m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Eddie V's Prime Seafood, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Merrill & Houston's Steak Joint, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "The Rustic Traveler | 83 Walkability Score, Houston",
+    "event": "-",
+    "point_of_interest_list": "The Rustic Traveler | 83 Walkability Score, stay from 07:26 to 07:56, nearest transit: W 11th St @ Rutland St, 178.69m away; Eddie V's Prime Seafood, Houston, visit from 08:26 to 09:16, ; Houston Restaurant, Houston, visit from 13:17 to 14:17, ; Houston Zoo, Houston, visit from 14:47 to 18:17, ; Merrill & Houston's Steak Joint, Houston, visit from 19:00 to 20:15, ; The Rustic Traveler | 83 Walkability Score, stay from 21:30 to 05:30, nearest transit: W 11th St @ Rutland St, 178.69m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F4039308, from Houston to San Antonio, Departure Time: 10:18, Arrival Time: 11:37",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "La Margarita Restaurant, San Antonio",
+    "dinner": "1Watson, San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "Private room in a house with shared bathroom., San Antonio",
+    "event": "-",
+    "point_of_interest_list": "The Rustic Traveler | 83 Walkability Score, stay from 06:00 to 06:30, nearest transit: W 11th St @ Rutland St, 178.69m away; Pappas Bros. Steakhouse, Houston, visit from 08:00 to 09:48, ; Private room in a house with shared bathroom., stay from 12:07 to 12:37, nearest transit: SPRING TIME OPP. MURRAY B. BOONE SC, 142.68m away; La Margarita Restaurant, San Antonio, visit from 14:00 to 15:00, ; The Alamo, San Antonio, visit from 15:30 to 19:00, ; 1Watson, San Antonio, visit from 19:30 to 20:45, ; Private room in a house with shared bathroom., stay from 23:12 to 07:12, nearest transit: SPRING TIME OPP. MURRAY B. BOONE SC, 142.68m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Bliss, San Antonio",
+    "lunch": "Boudro's Texas Bistro, San Antonio",
+    "dinner": "Pollos Asados Los Nortenos, San Antonio",
+    "attraction": "San Antonio Zoo, San Antonio",
+    "accommodation": "Private room in a house with shared bathroom., San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Private room in a house with shared bathroom., stay from 07:42 to 08:12, nearest transit: SPRING TIME OPP. MURRAY B. BOONE SC, 142.68m away; Bliss, San Antonio, visit from 08:42 to 10:00, ; San Antonio Zoo, San Antonio, visit from 10:30 to 14:00, ; Boudro's Texas Bistro, San Antonio, visit from 14:30 to 15:30, ; Pollos Asados Los Nortenos, San Antonio, visit from 19:31 to 20:46, ; Private room in a house with shared bathroom., stay from 21:16 to 07:38, nearest transit: SPRING TIME OPP. MURRAY B. BOONE SC, 142.68m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Las Vegas",
+    "transportation": "Taxi from San Antonio to Las Vegas, duration: 1336.2283333333332, distance: 2051.5727, cost : 2051.0",
+    "breakfast": "Pinkerton's Barbecue, San Antonio",
+    "lunch": "-",
+    "dinner": "Domingo Restaurant, San Antonio",
+    "attraction": "San Antonio Missions National Historical Park, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private room in a house with shared bathroom., stay from 08:08 to 08:38, nearest transit: SPRING TIME OPP. MURRAY B. BOONE SC, 142.68m away; Pinkerton's Barbecue, San Antonio, visit from 09:08 to 09:58, ; San Antonio Missions National Historical Park, San Antonio, visit from 10:28 to 13:58, ; Domingo Restaurant, San Antonio, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Chattanooga",
+    "transportation": "Flight Number: F3632122, from Washington to Chattanooga, Departure Time: 13:38, Arrival Time: 15:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Hickory Pit Bar-B-Que, Chattanooga",
+    "attraction": "Walnut Street Bridge, Chattanooga",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 15:45 to 16:15, nearest transit: BONNOAK, 4223.21m away; Walnut Street Bridge, visit from 16:45 to 18:45, nearest transit: FRAZIER + TREMONT, 439.00m away; Hickory Pit Bar-B-Que, visit from 19:15 to 19:55, nearest transit: BRAINERD RD + HUNT, 2036.96m away; Cozy Stylish Studio, stay from 23:00 to 08:00, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "lunch": "Puckett's Chattanooga, Chattanooga",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 08:00 to 08:30, nearest transit: BONNOAK, 4223.21m away; The Purple Daisy Picnic Cafe, visit from 09:00 to 09:40, nearest transit: St. Elmo & 40th1, 36.00m away; Coolidge Park, visit from 10:10 to 12:10, nearest transit: Frazier & Forrest-0, 132.99m away; Puckett's Chattanooga, visit from 13:40 to 14:20, nearest transit: AQ MKT 1, 59.00m away; Uncle Larry's Restaurant, visit from 19:00 to 19:40, nearest transit: M.L.KING BLVD + PEEPLES, 20.49m away; Cozy Stylish Studio, stay from 23:00 to 08:00, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Washington",
+    "transportation": "Flight Number: F0956154, from Chattanooga to Washington, Departure Time: 17:37, Arrival Time: 19:15",
+    "breakfast": "Stir, Chattanooga",
+    "lunch": "HiFi Clyde's Chattanooga, Chattanooga",
+    "dinner": "-",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 08:00 to 08:30, nearest transit: BONNOAK, 4223.21m away; Stir, visit from 09:00 to 09:40, nearest transit: MARKET + MAIN, 69.25m away; Tennessee Aquarium, visit from 10:10 to 12:10, nearest transit: BRO AQ 1, 109.14m away; HiFi Clyde's Chattanooga, visit from 13:40 to 14:20, nearest transit: MAIN + WILLIAMS, 21.15m away"
+  }
+]

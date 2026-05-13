@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Tucson",
+    "transportation": "Flight Number: F0634946, from Houston to Tucson, Departure Time: 09:13, Arrival Time: 10:59",
+    "breakfast": "-",
+    "lunch": "Blue Willow Restaurant & Gift Shop, Tucson",
+    "dinner": "-",
+    "attraction": "DeGrazia Gallery in the Sun Museum, Tucson",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 11:29 to 11:59, nearest transit: El Con Center, 2837.66m away; Blue Willow Restaurant & Gift Shop, Tucson, visit from 12:29 to 13:29, ; DeGrazia Gallery in the Sun Museum, Tucson, visit from 13:59 to 23:10, ; Accessible Private Studio, Entrance & Parking., stay from 23:40 to 07:40, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tucson",
+    "transportation": "-",
+    "breakfast": "Coronet Restaurant, Tucson",
+    "lunch": "Pinnacle Peak, Tucson",
+    "dinner": "Mariscos Chihuahua, Tucson",
+    "attraction": "Arizona-Sonora Desert Museum, Tucson",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 08:10 to 08:40, nearest transit: El Con Center, 2837.66m away; Coronet Restaurant, Tucson, visit from 09:10 to 10:00, ; Arizona-Sonora Desert Museum, Tucson, visit from 10:30 to 14:00, ; Pinnacle Peak, Tucson, visit from 14:30 to 15:30, ; Mariscos Chihuahua, Tucson, visit from 19:31 to 20:46, ; Accessible Private Studio, Entrance & Parking., stay from 21:16 to 05:30, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tucson to Houston",
+    "transportation": "Flight Number: F3478549, from Tucson to Houston, Departure Time: 15:16, Arrival Time: 18:53",
+    "breakfast": "North Italia, Tucson",
+    "lunch": "Bobo's Restaurant, Tucson",
+    "dinner": "-",
+    "attraction": "Reid Park Zoo, Tucson",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 06:00 to 06:30, nearest transit: El Con Center, 2837.66m away; North Italia, Tucson, visit from 08:00 to 08:50, ; Reid Park Zoo, Tucson, visit from 09:20 to 12:50, ; Bobo's Restaurant, Tucson, visit from 13:20 to 14:20, "
+  }
+]

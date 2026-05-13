@@ -1,0 +1,6 @@
+Destination cities: ['Charlotte'],
+Transportation dates: ['2024-11-08', '2024-11-10'],
+Transportation methods between cities: ['Flight Number: F2823759, from Manchester to Charlotte, Departure Time: 05:59, Arrival Time: 08:18', 'Flight Number: F3786306, from Charlotte to Manchester, Departure Time: 16:15, Arrival Time: 18:15'],
+Restaurants (3 meals per day): ['-', 'The Terrace at The Charlotte Inn, Charlotte', "Rooster's Wood-Fired Kitchen - Uptown, Charlotte", "Charlotte's Tavern, Charlotte", 'Bistro Charlotte, Charlotte', "Charlotte's Restaurant, Charlotte", 'Cabo Fish Taco Baja Seagrill, Charlotte', 'The Charlotte Hotel & Restaurant, Charlotte', '-'],
+Attractions (1 per day): ['Levine Museum of the New South, Charlotte', 'Truist Field, Charlotte', 'Discovery Place Science, Charlotte'],
+Accommodations (1 per city): ['Quiet Cozy Stay in CLT, Charlotte']

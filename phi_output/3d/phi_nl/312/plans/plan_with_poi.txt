@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Reno",
+    "transportation": "Flight Number: F1989283, from New York to Reno, Departure Time: 19:38, Arrival Time: 23:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Sealy Super Comfy Mattress 4.1 Stars, Reno",
+    "event": "-",
+    "point_of_interest_list": "Sealy Super Comfy Mattress 4.1 Stars, stay from 23:31 to 00:01, nearest transit: Kietzke Lane and Vassar Street, 22.16m away; Sealy Super Comfy Mattress 4.1 Stars, stay from 00:31 to 08:00, nearest transit: Kietzke Lane and Vassar Street, 22.16m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Reno",
+    "transportation": "-",
+    "breakfast": "Atlantis Steakhouse, Reno",
+    "lunch": "Toucan Charlie's Buffet & Grille, Reno",
+    "dinner": "Twisted Fork, Reno",
+    "attraction": "-",
+    "accommodation": "Sealy Super Comfy Mattress 4.1 Stars, Reno",
+    "event": "-",
+    "point_of_interest_list": "Sealy Super Comfy Mattress 4.1 Stars, stay from 08:30 to 09:00, nearest transit: Kietzke Lane and Vassar Street, 22.16m away; Atlantis Steakhouse, Reno, visit from 09:38 to 10:28, ; Toucan Charlie's Buffet & Grille, Reno, visit from 14:29 to 15:29, ; Twisted Fork, Reno, visit from 19:30 to 20:45, ; Sealy Super Comfy Mattress 4.1 Stars, stay from 21:15 to 05:15, nearest transit: Kietzke Lane and Vassar Street, 22.16m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Reno to New York",
+    "transportation": "Flight Number: F0270515, from Reno to New York, Departure Time: 00:00, Arrival Time: 07:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Truckee River Walk, Reno",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sealy Super Comfy Mattress 4.1 Stars, stay from 06:00 to 06:30, nearest transit: Kietzke Lane and Vassar Street, 22.16m away; Truckee River Walk, Reno, visit from 09:00 to 23:30, "
+  }
+]

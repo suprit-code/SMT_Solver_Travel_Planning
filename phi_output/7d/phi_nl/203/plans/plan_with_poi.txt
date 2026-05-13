@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Amarillo",
+    "transportation": "Taxi from Oklahoma City to Amarillo, duration: 268.945, distance: 415.9372, cost : 415.0",
+    "breakfast": "-",
+    "lunch": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "dinner": "Metropolitan, Amarillo",
+    "attraction": "Amarillo Museum of Art, Amarillo",
+    "accommodation": "❤️Relax in charming 1920s Bohemian Bungalow❤️, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 10:58 to 11:28, nearest transit: S Washington St & SW 28th Ave, 319.2m away; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 12:00 to 13:00, ; Amarillo Museum of Art, Amarillo, visit from 13:30 to 17:00, ; Metropolitan, Amarillo, visit from 19:45 to 21:00, ; ❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 21:30 to 05:30, nearest transit: S Washington St & SW 28th Ave, 319.2m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Bracero Mexican Grill, Amarillo",
+    "lunch": "575° Pizzeria - Hillside, Amarillo",
+    "dinner": "Ohms Cafe & Catering, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "❤️Relax in charming 1920s Bohemian Bungalow❤️, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 06:00 to 06:30, nearest transit: S Washington St & SW 28th Ave, 319.2m away; El Bracero Mexican Grill, Amarillo, visit from 09:10 to 10:00, ; Cadillac Ranch, Amarillo, visit from 10:30 to 14:00, ; 575° Pizzeria - Hillside, Amarillo, visit from 14:30 to 15:30, ; Ohms Cafe & Catering, Amarillo, visit from 19:31 to 20:46, ; ❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 22:30 to 06:30, nearest transit: S Washington St & SW 28th Ave, 319.2m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Taxi from Amarillo to Houston, duration: 649.365, distance: 961.8577, cost : 961.0",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 07:00 to 07:30, nearest transit: S Washington St & SW 28th Ave, 319.2m away; Golden Light Cafe & Cantina, Amarillo, visit from 08:00 to 08:50, ; Entire Apt in the Heart of the City - Galleria, stay from 20:40 to 21:10, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Entire Apt in the Heart of the City - Galleria, stay from 21:40 to 05:40, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Market on Houston, Houston",
+    "lunch": "Hugo's, Houston",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:10 to 07:37, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Market on Houston, Houston, visit from 08:07 to 09:29, ; Downtown Aquarium, Houston, visit from 09:59 to 13:29, ; Hugo's, Houston, visit from 13:59 to 14:59, ; Pappadeaux Seafood Kitchen, Houston, visit from 19:00 to 22:00, ; Entire Apt in the Heart of the City - Galleria, stay from 22:30 to 06:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Taxi from Houston to San Antonio, duration: 211.06833333333333, distance: 315.3022, cost : 315.0",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "dinner": "The Guenther House, San Antonio",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Private Unit Near Downtown San Antonio, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 07:00 to 07:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Pappas Bros. Steakhouse, Houston, visit from 08:00 to 08:50, ; Houston Zoo, Houston, visit from 09:20 to 12:50, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 13:20 to 14:20, ; Private Unit Near Downtown San Antonio, stay from 18:51 to 19:21, nearest transit: NOLAN & N. HACKBERRY, 88.68m away; The Guenther House, San Antonio, visit from 19:51 to 21:06, ; Private Unit Near Downtown San Antonio, stay from 21:36 to 05:36, nearest transit: NOLAN & N. HACKBERRY, 88.68m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Biga on the Banks, San Antonio",
+    "lunch": "Bohanan's Prime Steak and Seafood, San Antonio",
+    "dinner": "Pinkerton's Barbecue, San Antonio",
+    "attraction": "San Antonio Zoo, San Antonio",
+    "accommodation": "Private Unit Near Downtown San Antonio, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Private Unit Near Downtown San Antonio, stay from 06:06 to 06:36, nearest transit: NOLAN & N. HACKBERRY, 88.68m away; Biga on the Banks, San Antonio, visit from 08:45 to 09:35, ; San Antonio Zoo, San Antonio, visit from 10:05 to 13:35, ; Bohanan's Prime Steak and Seafood, San Antonio, visit from 14:05 to 15:05, ; Pinkerton's Barbecue, San Antonio, visit from 20:45 to 22:00, ; Private Unit Near Downtown San Antonio, stay from 22:30 to 06:30, nearest transit: NOLAN & N. HACKBERRY, 88.68m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Oklahoma City",
+    "transportation": "Taxi from San Antonio to Oklahoma City, duration: 493.73, distance: 749.606, cost : 749.0",
+    "breakfast": "-",
+    "lunch": "Bliss, San Antonio",
+    "dinner": "Brenner's on the River Walk, San Antonio",
+    "attraction": "Six Flags Fiesta Texas, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Unit Near Downtown San Antonio, stay from 07:00 to 07:30, nearest transit: NOLAN & N. HACKBERRY, 88.68m away; Six Flags Fiesta Texas, San Antonio, visit from 09:00 to 12:30, ; Bliss, San Antonio, visit from 13:00 to 14:00, ; Brenner's on the River Walk, San Antonio, visit from 19:00 to 20:15, "
+  }
+]

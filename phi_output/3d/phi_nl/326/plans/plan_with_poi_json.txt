@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Tampa",
+    "transportation": "Flight Number: F3773579, from Boston to Tampa, Departure Time: 20:58, Arrival Time: 00:22",
+    "breakfast": "Green Lemon, Tampa",
+    "lunch": "Charley\u2019s Steak House & Market Fresh Fish, Tampa",
+    "dinner": "Eddie V's Prime Seafood, Tampa",
+    "attraction": "Glazer Children's Museum, Tampa",
+    "accommodation": "Downtown Tampa Pool House! Walk to Armature Works!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Oystercatchers, Tampa",
+    "lunch": "Salt Shack On The Bay, Tampa",
+    "dinner": "Ocean Prime, Tampa",
+    "attraction": "Museum of Science and Industry, Tampa",
+    "accommodation": "Downtown Tampa Pool House! Walk to Armature Works!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Downtown Tampa Pool House! Walk to Armature Works!, stay from 08:00 to 08:30, nearest transit: Busch Gardens Employee Entrance, 9918.32m away; Oystercatchers, visit from 09:00 to 09:40, nearest transit: U Mall to MSC, 15461.01m away; Museum of Science and Industry, visit from 10:10 to 12:10, nearest transit: Museum of Science and Industry, 371.04m away; Salt Shack On The Bay, visit from 13:40 to 14:20, nearest transit: Busch Gardens Employee Entrance, 20987.43m away; Ocean Prime, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 13591.45m away; Downtown Tampa Pool House! Walk to Armature Works!, stay from 23:00 to 08:00, nearest transit: Busch Gardens Employee Entrance, 9918.32m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Boston",
+    "transportation": "Flight Number: F2903351, from Tampa to Boston, Departure Time: 15:10, Arrival Time: 18:23",
+    "breakfast": "Rusty Pelican Tampa, Tampa",
+    "lunch": "Bern's Steak House, Tampa",
+    "dinner": "The Capital Grille, Tampa",
+    "attraction": "Henry B. Plant Museum, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Tampa Pool House! Walk to Armature Works!, stay from 08:00 to 08:30, nearest transit: Busch Gardens Employee Entrance, 9918.32m away; Rusty Pelican Tampa, visit from 09:00 to 09:40, nearest transit: U Mall to MSC, 17003.54m away; Henry B. Plant Museum, visit from 10:10 to 12:10, nearest transit: Busch Gardens Employee Entrance, 11568.05m away; Bern's Steak House, visit from 12:40 to 13:20, nearest transit: Busch Gardens Employee Entrance, 13852.06m away; The Capital Grille, visit from 14:00 to 14:40, nearest transit: Busch Gardens Employee Entrance, 13143.34m away"
+  }
+]

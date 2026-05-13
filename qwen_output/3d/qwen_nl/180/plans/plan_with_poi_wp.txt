@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Detroit",
+    "transportation": "Flight Number: F2774451, from Indianapolis to Detroit, Departure Time: 17:56, Arrival Time: 19:04",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Black Royal House-Apartment 1, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Black Royal House-Apartment 1, stay from 19:34 to 22:34, nearest transit: Canfield St - Northbound, 4192.44m away; Black Royal House-Apartment 1, stay from 23:04 to 07:04, nearest transit: Canfield St - Northbound, 4192.44m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Detroit",
+    "transportation": "-",
+    "breakfast": "Green Dot Stables, Detroit",
+    "lunch": "Honest John's Bar & Grill - Selden St., Detroit",
+    "dinner": "Taqueria Mi Pueblo, Detroit",
+    "attraction": "Detroit Institute of Arts, Detroit",
+    "accommodation": "Black Royal House-Apartment 1, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Black Royal House-Apartment 1, stay from 07:34 to 08:04, nearest transit: Canfield St - Northbound, 4192.44m away; Green Dot Stables, Detroit, visit from 08:34 to 10:00, ; Detroit Institute of Arts, Detroit, visit from 10:30 to 14:00, ; Honest John's Bar & Grill - Selden St., Detroit, visit from 14:30 to 15:30, ; Taqueria Mi Pueblo, Detroit, visit from 19:31 to 20:46, ; Black Royal House-Apartment 1, stay from 21:16 to 07:00, nearest transit: Canfield St - Northbound, 4192.44m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Detroit to Indianapolis",
+    "transportation": "Flight Number: F3399752, from Detroit to Indianapolis, Departure Time: 08:30, Arrival Time: 09:49",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Black Royal House-Apartment 1, stay from 07:30 to 08:00, nearest transit: Canfield St - Northbound, 4192.44m away"
+  }
+]

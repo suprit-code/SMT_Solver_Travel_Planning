@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Los Angeles to Reno",
+    "transportation": "Self-driving, from Los Angeles to Reno, duration: 577.24, distance: 830.7624000000001, cost: 41",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy, modern retreat steps from Midtown & Hospital, Reno",
+    "event": "-",
+    "point_of_interest_list": "Cozy, modern retreat steps from Midtown & Hospital, stay from 18:02 to 18:22, nearest transit: Kirman Avenue and Moran Street, 105.13m away; Cozy, modern retreat steps from Midtown & Hospital, stay from 18:47 to 08:00, nearest transit: Kirman Avenue and Moran Street, 105.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Reno",
+    "transportation": "-",
+    "breakfast": "Bertha Miranda's Mexican Restaurant, Reno",
+    "lunch": "Smee's Alaskan Fish Bar, Reno",
+    "dinner": "Lulou's Restaurant, Reno",
+    "attraction": "Truckee River Walk, Reno",
+    "accommodation": "Cozy, modern retreat steps from Midtown & Hospital, Reno",
+    "event": "-",
+    "point_of_interest_list": "Cozy, modern retreat steps from Midtown & Hospital, stay from 08:00 to 08:30, nearest transit: Kirman Avenue and Moran Street, 105.13m away; Bertha Miranda's Mexican Restaurant, visit from 08:55 to 09:35, nearest transit: Mill Street and River Rock Street, 54.94m away; Truckee River Walk, visit from 10:00 to 12:00, nearest transit: Arlington Avenue at Wingfield Park, 157.20m away; Smee's Alaskan Fish Bar, visit from 13:35 to 14:15, nearest transit: N Center Street and E 1st Street, 228.85m away; Lulou's Restaurant, visit from 19:00 to 19:40, nearest transit: S Virginia Street and Mt Rose Street, 95.64m away; Cozy, modern retreat steps from Midtown & Hospital, stay from 23:00 to 08:00, nearest transit: Kirman Avenue and Moran Street, 105.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Reno to Los Angeles",
+    "transportation": "Flight Number: F3850772, from Reno to Los Angeles, Departure Time: 11:06, Arrival Time: 12:30",
+    "breakfast": "Bimini Steakhouse, Reno",
+    "lunch": "Romanza Ristorante Italiano, Reno",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy, modern retreat steps from Midtown & Hospital, stay from 08:00 to 08:10, nearest transit: Kirman Avenue and Moran Street, 105.13m away; Bimini Steakhouse, visit from 08:35 to 08:48, nearest transit: South Virginia Street at Peppermill Casino, 175.86m away; Romanza Ristorante Italiano, visit from 10:28 to 10:41, nearest transit: South Virginia Street at Peppermill Casino, 175.86m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Indianapolis",
+    "transportation": "Flight Number: F2372598, from Detroit to Indianapolis, Departure Time: 08:54, Arrival Time: 10:01",
+    "breakfast": "-",
+    "lunch": "Lincoln Square Pancake House, Indianapolis",
+    "dinner": "Cafe Patachou, Indianapolis",
+    "attraction": "Lucas Oil Stadium, Indianapolis",
+    "accommodation": "Convenient Location, Great Backyard, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Convenient Location, Great Backyard, stay from 10:31 to 11:01, nearest transit: College Ave & Lake Nora W Dr, 608.86m away; Lincoln Square Pancake House, Indianapolis, visit from 14:00 to 15:00, ; Lucas Oil Stadium, Indianapolis, visit from 15:30 to 19:00, ; Cafe Patachou, Indianapolis, visit from 19:30 to 22:19, ; Convenient Location, Great Backyard, stay from 22:49 to 06:49, nearest transit: College Ave & Lake Nora W Dr, 608.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Vida, Indianapolis",
+    "lunch": "Tony's of Indianapolis, Indianapolis",
+    "dinner": "Yard House, Indianapolis",
+    "attraction": "Indianapolis Zoo, Indianapolis",
+    "accommodation": "Convenient Location, Great Backyard, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Convenient Location, Great Backyard, stay from 07:19 to 07:49, nearest transit: College Ave & Lake Nora W Dr, 608.86m away; Vida, Indianapolis, visit from 08:19 to 09:59, ; Tony's of Indianapolis, Indianapolis, visit from 14:00 to 15:00, ; Indianapolis Zoo, Indianapolis, visit from 15:30 to 19:00, ; Yard House, Indianapolis, visit from 19:30 to 20:45, ; Convenient Location, Great Backyard, stay from 23:40 to 07:40, nearest transit: College Ave & Lake Nora W Dr, 608.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Detroit",
+    "transportation": "Flight Number: F2774459, from Indianapolis to Detroit, Departure Time: 18:11, Arrival Time: 19:13",
+    "breakfast": "Prime 47- Indy's Steakhouse, Indianapolis",
+    "lunch": "The Capital Grille, Indianapolis",
+    "dinner": "-",
+    "attraction": "The Eiteljorg Museum, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Convenient Location, Great Backyard, stay from 08:10 to 08:40, nearest transit: College Ave & Lake Nora W Dr, 608.86m away; Prime 47- Indy's Steakhouse, Indianapolis, visit from 09:10 to 10:00, ; The Eiteljorg Museum, Indianapolis, visit from 10:30 to 14:00, ; The Capital Grille, Indianapolis, visit from 14:30 to 15:30, "
+  }
+]

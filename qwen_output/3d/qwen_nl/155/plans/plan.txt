@@ -1,0 +1,6 @@
+Destination cities: ['San Francisco'],
+Transportation dates: ['2024-11-13', '2024-11-15'],
+Transportation methods between cities: ['Flight Number: F2382252, from Missoula to San Francisco, Departure Time: 16:14, Arrival Time: 17:33', 'taxi, from San Francisco to Missoula, duration: 1112.4816666666666, distance: 1581.5232, cost: 1581'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Fog Harbor Fish House, San Francisco', "Luisa's Restaurant Wine Bar Since 1959, San Francisco", 'Eight Am, San Francisco', 'Eagle Cafe, San Francisco', 'Mersea Restaurant & Bar, San Francisco', 'Quince, San Francisco'],
+Attractions (1 per day): ['Golden Gate Park, San Francisco', 'Japanese Tea Garden, San Francisco', 'Alcatraz Island, San Francisco'],
+Accommodations (1 per city): ['Harry Potter Lego themed Guestroom, San Francisco']

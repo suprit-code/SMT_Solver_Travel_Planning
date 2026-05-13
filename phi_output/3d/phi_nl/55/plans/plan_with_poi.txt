@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Chattanooga",
+    "transportation": "Flight Number: F3632122, from Washington to Chattanooga, Departure Time: 13:38, Arrival Time: 15:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "HiFi Clyde's Chattanooga, Chattanooga",
+    "attraction": "-",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 15:45 to 20:15, nearest transit: BONNOAK, 4223.21m away; HiFi Clyde's Chattanooga, Chattanooga, visit from 20:45 to 22:29, ; Cozy Stylish Studio, stay from 22:59 to 06:59, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Hickory Pit Bar-B-Que, Chattanooga",
+    "lunch": "Uncle Larry's Restaurant, Chattanooga",
+    "dinner": "Public House, Chattanooga",
+    "attraction": "Walnut Street Bridge, Chattanooga",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 07:29 to 07:59, nearest transit: BONNOAK, 4223.21m away; Hickory Pit Bar-B-Que, Chattanooga, visit from 08:29 to 09:19, ; Uncle Larry's Restaurant, Chattanooga, visit from 14:00 to 15:00, ; Walnut Street Bridge, Chattanooga, visit from 15:30 to 20:15, ; Public House, Chattanooga, visit from 20:45 to 22:00, ; Cozy Stylish Studio, stay from 22:30 to 06:30, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Washington",
+    "transportation": "Flight Number: F0956154, from Chattanooga to Washington, Departure Time: 17:37, Arrival Time: 19:15",
+    "breakfast": "Stir, Chattanooga",
+    "lunch": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "dinner": "-",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 07:00 to 07:30, nearest transit: BONNOAK, 4223.21m away; Stir, Chattanooga, visit from 08:00 to 08:50, ; Tennessee Aquarium, Chattanooga, visit from 09:20 to 12:50, ; The Purple Daisy Picnic Cafe, Chattanooga, visit from 13:20 to 17:07, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Missoula to San Francisco",
+    "transportation": "Flight Number: F1169882, from Missoula to San Francisco, Departure Time: 16:11, Arrival Time: 17:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mersea Restaurant & Bar, San Francisco",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "Peaceful Studio in the Trees, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Fog Harbor Fish House, San Francisco",
+    "lunch": "Waterbar, San Francisco",
+    "dinner": "House of Prime Rib, San Francisco",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "Peaceful Studio in the Trees, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Peaceful Studio in the Trees, stay from 08:00 to 08:30, nearest transit: Civic Center BART (9th and Market), 2057.84m away; Fog Harbor Fish House, visit from 08:55 to 09:35, nearest transit: Mission @ Spear (Embarcadero), 2323.00m away; Alcatraz Island, visit from 10:00 to 12:00, nearest transit: Mission @ Spear (Embarcadero), 4605.72m away; Waterbar, visit from 13:35 to 14:15, nearest transit: Mission @ Spear (Embarcadero), 478.55m away; House of Prime Rib, visit from 19:00 to 19:40, nearest transit: Civic Center @ 7th (Yotel), 1701.24m away; Peaceful Studio in the Trees, stay from 23:00 to 08:00, nearest transit: Civic Center BART (9th and Market), 2057.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Missoula",
+    "transportation": "taxi, from San Francisco to Missoula, duration: 1112.4816666666666, distance: 1581.5232, cost: 1581",
+    "breakfast": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "lunch": "Quince, San Francisco",
+    "dinner": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Peaceful Studio in the Trees, stay from 08:00 to 08:30, nearest transit: Civic Center BART (9th and Market), 2057.84m away; Luisa's Restaurant Wine Bar Since 1959, visit from 08:55 to 09:35, nearest transit: Powell @ 22 4th, 1897.76m away; Pier 39, visit from 10:00 to 12:00, nearest transit: Mission @ Spear (Embarcadero), 2268.81m away; Quince, visit from 13:35 to 14:15, nearest transit: Mission @ Spear (Embarcadero), 994.70m away; Harris' Restaurant - The San Francisco Steakhouse, visit from 19:00 to 19:40, nearest transit: Powell @ 22 4th, 1858.31m away"
+  }
+]

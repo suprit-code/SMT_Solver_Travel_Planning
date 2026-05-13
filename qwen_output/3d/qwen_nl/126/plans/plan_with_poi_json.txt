@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Washington",
+    "transportation": "Flight Number: F4055939, from Charleston to Washington, Departure Time: 06:02, Arrival Time: 07:24",
+    "breakfast": "RPM Italian, Washington",
+    "lunch": "Fiola, Washington",
+    "dinner": "Unconventional Diner, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 08:00 to 08:20, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away; RPM Italian, visit from 08:45 to 09:25, nearest transit: Entrance C - 7th & H St, GALLERY PLACE METRORAIL STATION, 292.84m away; National Mall, visit from 09:50 to 11:50, nearest transit: Entrance  A - 7 St,  Maryland Av, 386.15m away; Fiola, visit from 13:25 to 14:05, nearest transit: ARCHIVES, 107.10m away; Unconventional Diner, visit from 19:00 to 19:40, nearest transit: MT VERNON SQ, 135.98m away; A Cozy room, stay from 20:05 to 08:00, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "The Palm - Washington, D.C., Washington",
+    "lunch": "Fiola Mare DC, Washington",
+    "dinner": "Bourbon Steak - Four Seasons Washington DC, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 08:00 to 08:30, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away; The Palm - Washington, D.C., visit from 08:55 to 09:35, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & 19TH ST. NW, 216.92m away; United States Botanic Garden, visit from 10:00 to 12:00, nearest transit: FEDERAL CENTER SW, 414.35m away; Fiola Mare DC, visit from 13:35 to 14:15, nearest transit: FOGGY BOTTOM, 885.80m away; Bourbon Steak - Four Seasons Washington DC, visit from 19:00 to 19:40, nearest transit: FOGGY BOTTOM, 693.85m away; A Cozy room, stay from 20:05 to 08:00, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Charleston",
+    "transportation": "taxi, from Washington to Charleston, duration: 593.9566666666667, distance: 860.1441, cost: 860",
+    "breakfast": "Thip Khao, Washington",
+    "lunch": "The Dabney, Washington",
+    "dinner": "Smoke & Mirrors Rooftop Bar, Washington",
+    "attraction": "National Museum of American History, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 08:00 to 08:30, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away; Thip Khao, visit from 08:55 to 09:35, nearest transit: COLUMBIA HEIGHTS METRORAIL STATION - NE CORNER OF 14TH AND IRVING STS. NW, 448.99m away; National Museum of American History, visit from 10:00 to 12:00, nearest transit: SMITHSONIAN, 264.82m away; The Dabney, visit from 13:35 to 14:15, nearest transit: MT VERNON SQ, 217.08m away; Smoke & Mirrors Rooftop Bar, visit from 19:00 to 19:40, nearest transit: NAVY YARD-BALLPARK, 408.46m away"
+  }
+]

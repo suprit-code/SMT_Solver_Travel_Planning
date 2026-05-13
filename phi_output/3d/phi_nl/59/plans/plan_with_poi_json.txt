@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to New York",
+    "transportation": "Flight Number: F3155997, from Sarasota to New York, Departure Time: 12:05, Arrival Time: 14:35",
+    "breakfast": "-",
+    "lunch": "FIG & OLIVE, New York",
+    "dinner": "Harry's, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "Big Apple Experience | Central Park. Gym, New York",
+    "event": "-",
+    "point_of_interest_list": "Big Apple Experience | Central Park. Gym, stay from 15:05 to 15:35, nearest transit: 8 AV/W 52 ST, 129.65m away; The Metropolitan Museum of Art, visit from 16:05 to 18:05, nearest transit: 5 AV/E 80 ST, 182.01m away; FIG & OLIVE, visit from 18:35 to 19:15, nearest transit: 5 AV/W 52 ST, 84.16m away; Harry's, visit from 21:20 to 22:00, nearest transit: WATER ST/HANOVER SQ, 85.83m away; Big Apple Experience | Central Park. Gym, stay from 23:00 to 08:00, nearest transit: 8 AV/W 52 ST, 129.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Gallaghers Steakhouse, New York",
+    "lunch": "Sylvia's Restaurant, New York",
+    "dinner": "Sarge\u2019s Delicatessen & Diner, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Big Apple Experience | Central Park. Gym, New York",
+    "event": "-",
+    "point_of_interest_list": "Big Apple Experience | Central Park. Gym, stay from 08:00 to 08:30, nearest transit: 8 AV/W 52 ST, 129.65m away; Gallaghers Steakhouse, visit from 09:00 to 09:40, nearest transit: 7 AV/W 52 ST, 131.50m away; The National 9/11 Memorial & Museum, visit from 10:10 to 12:10, nearest transit: CHURCH ST/LIBERTY ST, 234.55m away; Sylvia's Restaurant, visit from 13:40 to 14:20, nearest transit: MALCOLM X BLVD/W 127 ST, 40.45m away; Sarge\u2019s Delicatessen & Diner, visit from 19:00 to 19:40, nearest transit: 3 AV/E 37 ST, 101.41m away; Big Apple Experience | Central Park. Gym, stay from 23:00 to 08:00, nearest transit: 8 AV/W 52 ST, 129.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Sarasota",
+    "transportation": "Flight Number: F0838385, from New York to Sarasota, Departure Time: 16:07, Arrival Time: 19:24",
+    "breakfast": "Del Frisco's Grille, New York",
+    "lunch": "Manhatta, New York",
+    "dinner": "Peak Restaurant & Bar, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Big Apple Experience | Central Park. Gym, stay from 08:00 to 08:30, nearest transit: 8 AV/W 52 ST, 129.65m away; Del Frisco's Grille, visit from 09:00 to 09:40, nearest transit: 5 AV/W 50 ST, 139.24m away; New York Public Library, visit from 10:10 to 12:10, nearest transit: 5 AV/W 42 ST, 34.90m away; Manhatta, visit from 12:40 to 13:20, nearest transit: BROADWAY/THAMES ST, 199.51m away; Peak Restaurant & Bar, visit from 14:57 to 15:37, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Colorado Springs to San Diego",
+    "transportation": "Self-driving from Colorado Springs to San Diego, duration: 1203.9033333333332, distance: 1841.7768, cost : 92.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Surf Shack  - Point Loma, San Diego",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 02:33 to 03:03, nearest transit: Rosecrans St & Talbot St, 37.36m away; The Surf Shack  - Point Loma, stay from 03:33 to 08:00, nearest transit: Rosecrans St & Talbot St, 37.36m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "-",
+    "accommodation": "The Surf Shack  - Point Loma, San Diego",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 08:30 to 09:00, nearest transit: Rosecrans St & Talbot St, 37.36m away; Lou & Mickey's, San Diego, visit from 09:39 to 10:29, ; Born & Raised, San Diego, visit from 14:30 to 15:30, ; Addison Restaurant, San Diego, visit from 19:31 to 20:46, ; The Surf Shack  - Point Loma, stay from 22:30 to 06:30, nearest transit: Rosecrans St & Talbot St, 37.36m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Self-driving from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 53.0",
+    "breakfast": "Buon Appetito, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Redding Farmhouse Getaway, Redding",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 07:00 to 07:30, nearest transit: Rosecrans St & Talbot St, 37.36m away; Buon Appetito, San Diego, visit from 08:00 to 08:50, ; Redding Farmhouse Getaway, stay from 22:04 to 22:34, nearest transit: College View Dr at Old Oregon Trail, 408.05m away; Redding Farmhouse Getaway, stay from 23:04 to 07:07, nearest transit: College View Dr at Old Oregon Trail, 408.05m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "View 202, Redding",
+    "lunch": "Kobe Seafood & Steakhouse, Redding",
+    "dinner": "Thai Hut, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "Redding Farmhouse Getaway, Redding",
+    "event": "-",
+    "point_of_interest_list": "Redding Farmhouse Getaway, stay from 07:37 to 08:07, nearest transit: College View Dr at Old Oregon Trail, 408.05m away; View 202, Redding, visit from 08:37 to 09:27, ; Kobe Seafood & Steakhouse, Redding, visit from 13:28 to 15:00, ; Sundial Bridge, Redding, visit from 15:30 to 19:00, ; Thai Hut, Redding, visit from 19:30 to 20:45, ; Redding Farmhouse Getaway, stay from 23:39 to 07:39, nearest transit: College View Dr at Old Oregon Trail, 408.05m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Colorado Springs",
+    "transportation": "Self-driving from Redding to Colorado Springs, duration: 1357.9783333333332, distance: 2092.6101, cost : 104.0",
+    "breakfast": "Jack's Grill, Redding",
+    "lunch": "Trendy's, Redding",
+    "dinner": "New China, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Redding Farmhouse Getaway, stay from 08:09 to 08:39, nearest transit: College View Dr at Old Oregon Trail, 408.05m away; Jack's Grill, Redding, visit from 09:09 to 09:59, ; Trendy's, Redding, visit from 14:00 to 15:00, ; Turtle Bay Exploration Park, Redding, visit from 15:30 to 19:00, ; New China, Redding, visit from 19:30 to 20:45, "
+  }
+]

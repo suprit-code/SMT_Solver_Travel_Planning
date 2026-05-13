@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Chattanooga",
+    "transportation": "Flight Number: F3363091, from Chicago to Chattanooga, Departure Time: 14:33, Arrival Time: 17:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Public House, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "New Town House in Historic District of Chattanooga, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "lunch": "Hickory Pit Bar-B-Que, Chattanooga",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "New Town House in Historic District of Chattanooga, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "New Town House in Historic District of Chattanooga, stay from 08:00 to 08:30, nearest transit: S MARKET + 17TH, 37.73m away; The Purple Daisy Picnic Cafe, visit from 08:55 to 09:35, nearest transit: St. Elmo & 40th1, 36.00m away; Tennessee Valley Railroad Museum, visit from 10:00 to 12:00, nearest transit: Bonny Oaks & Redlands Dr-1, 1191.41m away; Hickory Pit Bar-B-Que, visit from 13:35 to 14:15, nearest transit: BRAINERD RD + HUNT, 2036.96m away; Uncle Larry's Restaurant, visit from 19:00 to 19:40, nearest transit: M.L.KING BLVD + PEEPLES, 20.49m away; New Town House in Historic District of Chattanooga, stay from 20:05 to 08:00, nearest transit: S MARKET + 17TH, 37.73m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Chicago",
+    "transportation": "Flight Number: F2393039, from Chattanooga to Chicago, Departure Time: 17:41, Arrival Time: 18:31",
+    "breakfast": "Whitebird, Chattanooga",
+    "lunch": "Mellow Mushroom Chattanooga, Chattanooga",
+    "dinner": "Community Pie, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "New Town House in Historic District of Chattanooga, stay from 08:00 to 08:10, nearest transit: S MARKET + 17TH, 37.73m away; Whitebird, visit from 08:35 to 08:48, nearest transit: 3RD + WALNUT, 188.07m away; Coolidge Park, visit from 09:13 to 11:13, nearest transit: Frazier & Forrest-0, 132.99m away; Mellow Mushroom Chattanooga, visit from 12:48 to 13:03, nearest transit: SHUTTLE PARK NORTH - INTERNAL, 25.51m away; Community Pie, visit from 17:03 to 17:16, nearest transit: MARKET + M.L.KING, 20.76m away"
+  }
+]

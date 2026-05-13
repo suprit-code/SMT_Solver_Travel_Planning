@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to San Diego",
+    "transportation": "Flight Number: F1596568, from El Paso to San Diego, Departure Time: 14:37, Arrival Time: 15:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "World Famous, San Diego",
+    "attraction": "-",
+    "accommodation": "Place to Stay with Private Entrance near Beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 15:46 to 19:15, nearest transit: Cable St & Newport Av, 642.75m away; World Famous, San Diego, visit from 19:45 to 21:00, ; Place to Stay with Private Entrance near Beach, stay from 21:30 to 05:30, nearest transit: Cable St & Newport Av, 642.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Morning Glory, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Place to Stay with Private Entrance near Beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 06:00 to 06:30, nearest transit: Cable St & Newport Av, 642.75m away; Morning Glory, San Diego, visit from 08:04 to 09:59, ; Pacific Beach AleHouse, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 19:00, ; Din Tai Fung, San Diego, visit from 19:45 to 21:00, ; Place to Stay with Private Entrance near Beach, stay from 21:30 to 05:30, nearest transit: Cable St & Newport Av, 642.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F0657878, from San Diego to Sacramento, Departure Time: 12:14, Arrival Time: 13:39",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "-",
+    "dinner": "Zocalo, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 06:00 to 06:30, nearest transit: Cable St & Newport Av, 642.75m away; Mimmo's, San Diego, visit from 09:40 to 10:30, ; Home Away From Home, stay from 14:09 to 14:39, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Sacramento History Museum, Sacramento, visit from 15:09 to 18:39, ; Zocalo, Sacramento, visit from 19:09 to 20:24, ; Home Away From Home, stay from 20:54 to 04:54, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Bacon & Butter, Sacramento",
+    "lunch": "Chicago Fire, Sacramento",
+    "dinner": "Tipsy Putt, Sacramento",
+    "attraction": "California State Railroad Museum, Sacramento",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 06:00 to 06:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Bacon & Butter, Sacramento, visit from 08:06 to 08:56, ; Chicago Fire, Sacramento, visit from 12:57 to 13:57, ; California State Railroad Museum, Sacramento, visit from 14:27 to 17:57, ; Tipsy Putt, Sacramento, visit from 20:45 to 22:00, ; Home Away From Home, stay from 22:30 to 06:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to El Paso",
+    "transportation": "Taxi from Sacramento to El Paso, duration: 1267.745, distance: 1906.2027, cost : 1906.0",
+    "breakfast": "Aviators Restaurant, Sacramento",
+    "lunch": "Paragary's, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "Old Sacramento, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 07:00 to 07:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Aviators Restaurant, Sacramento, visit from 08:00 to 08:50, ; Old Sacramento, Sacramento, visit from 09:20 to 12:50, ; Paragary's, Sacramento, visit from 13:20 to 14:20, ; Nopalitos, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

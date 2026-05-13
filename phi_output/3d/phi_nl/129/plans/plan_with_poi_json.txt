@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Charlotte",
+    "transportation": "Flight Number: F3265346, from Dallas to Charlotte, Departure Time: 08:45, Arrival Time: 12:06",
+    "breakfast": "-",
+    "lunch": "Charlotte & Fritz, Charlotte",
+    "dinner": "Pinky's Westside Grill, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Jungle themed airnhb, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Jungle themed airnhb, stay from 12:36 to 13:06, nearest transit: Sunnyside St CityLYNX, 102.83m away; Charlotte & Fritz, visit from 13:36 to 14:16, nearest transit: Beaty St @ 866, 7233404.02m away; NASCAR Hall of Fame, visit from 14:46 to 16:46, nearest transit: Caldwell St & 3rd St, 96.74m away; Pinky's Westside Grill, visit from 19:00 to 19:40, nearest transit: Morehead St & Grandin Rd, 166.98m away; Jungle themed airnhb, stay from 23:00 to 08:00, nearest transit: Sunnyside St CityLYNX, 102.83m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "ROKA Charlotte Street, Charlotte",
+    "lunch": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "dinner": "Midwood Smokehouse, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "Jungle themed airnhb, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Jungle themed airnhb, stay from 08:00 to 08:30, nearest transit: Sunnyside St CityLYNX, 102.83m away; ROKA Charlotte Street, visit from 09:00 to 09:40, nearest transit: Beaty St @ 866, 6415395.43m away; Levine Museum of the New South, visit from 10:10 to 12:10, nearest transit: Tryon St & 2nd St, 38.18m away; Rooster's Wood-Fired Kitchen - Uptown, visit from 13:40 to 14:20, nearest transit: Trade St & College St, 139.39m away; Midwood Smokehouse, visit from 19:00 to 19:40, nearest transit: Central Ave & Clement Ave, 40.68m away; Jungle themed airnhb, stay from 23:00 to 08:00, nearest transit: Sunnyside St CityLYNX, 102.83m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Dallas",
+    "transportation": "Flight Number: F3727451, from Charlotte to Dallas, Departure Time: 21:10, Arrival Time: 23:14",
+    "breakfast": "Charlotte's Restaurant, Charlotte",
+    "lunch": "Charlotte's Tavern, Charlotte",
+    "dinner": "The Charlotte Hotel & Restaurant, Charlotte",
+    "attraction": "Belk Theater at Blumenthal Performing Arts Center, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Jungle themed airnhb, stay from 08:00 to 08:30, nearest transit: Sunnyside St CityLYNX, 102.83m away; Charlotte's Restaurant, visit from 09:00 to 09:40, nearest transit: Davidson Gateway Dr & Griffith St, 5594544.94m away; Belk Theater at Blumenthal Performing Arts Center, visit from 10:10 to 12:10, nearest transit: Trade St & College St, 118.24m away; Charlotte's Tavern, visit from 13:40 to 14:20, nearest transit: Oakland St & Main Ave, 3482493.72m away; The Charlotte Hotel & Restaurant, visit from 19:00 to 19:40, nearest transit: Concord Mills Mall, 515812.44m away"
+  }
+]

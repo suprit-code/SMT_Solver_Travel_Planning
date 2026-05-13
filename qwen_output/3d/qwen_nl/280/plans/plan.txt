@@ -1,0 +1,6 @@
+Destination cities: ['Baltimore'],
+Transportation dates: ['2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Self-driving, from Miami to Baltimore, duration: 1217.07, distance: 1754.8571000000002, cost: 87', 'Self-driving, from Baltimore to Miami, duration: 1218.4983333333332, distance: 1756.7002, cost: 87'],
+Restaurants (3 meals per day): ['-', '-', '-', 'La Scala, Baltimore', 'Magdalena, A Maryland Bistro, Baltimore', 'Fogo de Chao Brazilian Steakhouse, Baltimore', 'Tagliata, Baltimore', 'Sotto Sopra, Baltimore', 'Cinghiale, Baltimore'],
+Attractions (1 per day): ['-', 'The Maryland Zoo, Baltimore', 'National Aquarium, Baltimore'],
+Accommodations (1 per city): ['Guesthouse Bedroom 2/Private Parking - Mt. Vernon, Baltimore']

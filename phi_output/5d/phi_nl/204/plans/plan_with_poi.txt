@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F2931897, from Atlanta to San Diego, Departure Time: 08:23, Arrival Time: 10:03",
+    "breakfast": "-",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "The Surf Shack  - Point Loma, San Diego",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 10:33 to 11:03, nearest transit: Rosecrans St & Talbot St, 37.36m away; Addison Restaurant, San Diego, visit from 14:00 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 19:00, ; Pacific Beach AleHouse, San Diego, visit from 19:30 to 20:45, ; The Surf Shack  - Point Loma, stay from 21:15 to 05:15, nearest transit: Rosecrans St & Talbot St, 37.36m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Ironside Fish & Oyster, San Diego",
+    "lunch": "Trailer Park After Dark, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "The Surf Shack  - Point Loma, San Diego",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 06:00 to 06:30, nearest transit: Rosecrans St & Talbot St, 37.36m away; Ironside Fish & Oyster, San Diego, visit from 08:08 to 09:59, ; Trailer Park After Dark, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 20:15, ; Juniper and Ivy, San Diego, visit from 20:45 to 22:34, ; The Surf Shack  - Point Loma, stay from 23:04 to 07:04, nearest transit: Rosecrans St & Talbot St, 37.36m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Morning Glory, San Diego",
+    "lunch": "-",
+    "dinner": "The Waterboy, Sacramento",
+    "attraction": "-",
+    "accommodation": "Urban Comforts: Fully Equipped, Steps to Downtown!, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 07:34 to 08:04, nearest transit: Rosecrans St & Talbot St, 37.36m away; Morning Glory, San Diego, visit from 08:34 to 09:24, ; Urban Comforts: Fully Equipped, Steps to Downtown!, stay from 19:45 to 20:15, nearest transit: 3RD ST & K ST (NB), 1065.45m away; The Waterboy, Sacramento, visit from 20:45 to 23:10, ; Urban Comforts: Fully Equipped, Steps to Downtown!, stay from 23:40 to 07:40, nearest transit: 3RD ST & K ST (NB), 1065.45m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Il Fornaio, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Urban Comforts: Fully Equipped, Steps to Downtown!, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Urban Comforts: Fully Equipped, Steps to Downtown!, stay from 08:10 to 08:40, nearest transit: 3RD ST & K ST (NB), 1065.45m away; Il Fornaio, Sacramento, visit from 09:10 to 10:00, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; Nopalitos, Sacramento, visit from 14:30 to 16:44, ; Grange Restaurant & Bar, Sacramento, visit from 20:45 to 23:30, ; Urban Comforts: Fully Equipped, Steps to Downtown!, stay from 00:00 to 08:00, nearest transit: 3RD ST & K ST (NB), 1065.45m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Atlanta",
+    "transportation": "Flight Number: F3527038, from Sacramento to Atlanta, Departure Time: 12:18, Arrival Time: 19:54",
+    "breakfast": "Aviators Restaurant, Sacramento",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Urban Comforts: Fully Equipped, Steps to Downtown!, stay from 08:30 to 09:00, nearest transit: 3RD ST & K ST (NB), 1065.45m away; Aviators Restaurant, Sacramento, visit from 09:30 to 11:48, "
+  }
+]

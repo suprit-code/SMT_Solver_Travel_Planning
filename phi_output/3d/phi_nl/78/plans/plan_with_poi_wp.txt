@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Charlotte",
+    "transportation": "Flight Number: F3974104, from Denver to Charlotte, Departure Time: 14:32, Arrival Time: 19:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 19:53 to 22:02, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Comfy private bed and bath, stay from 22:32 to 06:32, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Bistro Charlotte, Charlotte",
+    "lunch": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "dinner": "The Charlotte Hotel & Restaurant, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 07:02 to 07:32, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Bistro Charlotte, Charlotte, visit from 08:02 to 09:59, ; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 14:00 to 15:00, ; Truist Field, Charlotte, visit from 15:30 to 19:00, ; The Charlotte Hotel & Restaurant, Charlotte, visit from 19:30 to 20:45, ; Comfy private bed and bath, stay from 21:15 to 05:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Denver",
+    "transportation": "Flight Number: F2379557, from Charlotte to Denver, Departure Time: 15:59, Arrival Time: 17:49",
+    "breakfast": "The Terrace at The Charlotte Inn, Charlotte",
+    "lunch": "Charlotte's Tavern, Charlotte",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 06:00 to 06:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; The Terrace at The Charlotte Inn, Charlotte, visit from 08:00 to 08:50, ; Charlotte's Tavern, Charlotte, visit from 14:29 to 15:29, "
+  }
+]

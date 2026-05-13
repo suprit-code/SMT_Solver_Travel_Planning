@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Los Angeles",
+    "transportation": "Flight Number: F0167865, from Charlotte to Los Angeles, Departure Time: 15:12, Arrival Time: 17:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "22nd Street Landing Seafood Grill & Bar, Los Angeles",
+    "attraction": "-",
+    "accommodation": "Venice Studio – Steps from Boardwalk, Ocean View, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Venice Studio – Steps from Boardwalk, Ocean View, stay from 17:57 to 20:15, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away; 22nd Street Landing Seafood Grill & Bar, Los Angeles, visit from 20:45 to 22:14, ; Venice Studio – Steps from Boardwalk, Ocean View, stay from 22:44 to 06:44, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Republique, Los Angeles",
+    "lunch": "Maccheroni Republic, Los Angeles",
+    "dinner": "Water Grill, Los Angeles",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "Venice Studio – Steps from Boardwalk, Ocean View, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Venice Studio – Steps from Boardwalk, Ocean View, stay from 07:14 to 07:44, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away; Republique, Los Angeles, visit from 08:14 to 09:59, ; Maccheroni Republic, Los Angeles, visit from 14:00 to 15:00, ; Walt Disney Concert Hall, Los Angeles, visit from 15:30 to 20:15, ; Water Grill, Los Angeles, visit from 20:45 to 22:00, ; Venice Studio – Steps from Boardwalk, Ocean View, stay from 00:00 to 08:00, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Charlotte",
+    "transportation": "Flight Number: F0176615, from Los Angeles to Charlotte, Departure Time: 13:11, Arrival Time: 20:54",
+    "breakfast": "Bestia, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Venice Studio – Steps from Boardwalk, Ocean View, stay from 08:30 to 09:00, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away; Bestia, Los Angeles, visit from 09:40 to 12:41, "
+  }
+]

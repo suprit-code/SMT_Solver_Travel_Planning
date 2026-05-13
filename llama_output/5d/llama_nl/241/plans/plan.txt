@@ -1,0 +1,6 @@
+Destination cities: ['Nashville', 'Bristol'],
+Transportation dates: ['2024-11-10', '2024-11-12', '2024-11-14'],
+Transportation methods between cities: ['Flight Number: F3091896, from Savannah to Nashville, Departure Time: 17:08, Arrival Time: 17:32', 'taxi, from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost: 467', 'taxi, from Bristol to Savannah, duration: 457.4433333333333, distance: 637.0864, cost: 637'],
+Restaurants (3 meals per day): ['-', '-', '-', "Puckett's 5th & Church, Nashville", 'Henley, Nashville', 'Aquarium Restaurant, Nashville', 'Bourbon Street Blues and Boogie Bar, Nashville', "Skull's Rainbow Room, Nashville", 'Honky Tonk – The Twelve Thirty Club, Nashville', 'Little Bristol Beach Bar, Bristol', 'Cafe Bristol, Bristol', 'Baba Ganoush Kitchen - Jerusalem Falafel, Bristol', 'The Botanist Bristol, Bristol', 'Eat a Pitta, Bristol', 'Bosco Pizzeria, Bristol'],
+Attractions (1 per day): ['Grand Ole Opry, Nashville', "Andrew Jackson's Hermitage, Nashville", 'Ryman Auditorium, Nashville', 'Bristol Museum & Art Gallery, Bristol', "Brunel's SS Great Britain, Bristol"],
+Accommodations (1 per city): ['Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville', 'The Budget Friendly Rest Easy (I-81 exit 5), Bristol']

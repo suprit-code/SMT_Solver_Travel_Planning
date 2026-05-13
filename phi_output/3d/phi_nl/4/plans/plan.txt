@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-20', '2024-11-22'],
+Transportation methods between cities: ['Flight Number: F0889275, from Green Bay to Atlanta, Departure Time: 06:43, Arrival Time: 09:42', 'Flight Number: F0889249, from Atlanta to Green Bay, Departure Time: 17:56, Arrival Time: 18:55'],
+Restaurants (3 meals per day): ['Stoney River Steakhouse and Grill, Atlanta', 'Home Grown, Atlanta', "Max's Coal Oven Pizzeria, Atlanta", 'St. Cecilia, Atlanta', 'By George restaurant and bar, Atlanta', 'Aviva by Kameel, Atlanta', 'Cafe Agora, Atlanta', 'No Mas! Cantina, Atlanta', '-'],
+Attractions (1 per day): ['Atlanta History Center, Atlanta', 'Fox Theatre, Atlanta', 'National Center for Civil and Human Rights, Atlanta'],
+Accommodations (1 per city): ['Tiny House Retreat * Stock Tank Pool, Atlanta']

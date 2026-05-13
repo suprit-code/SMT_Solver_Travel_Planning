@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to Cincinnati",
+    "transportation": "Flight Number: F0325743, from Atlanta to Cincinnati, Departure Time: 12:12, Arrival Time: 13:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Via Vite, Cincinnati",
+    "attraction": "Cincinnati Museum Center, Cincinnati",
+    "accommodation": "Carter #6, Two Bedroom Apartment near Xavier, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "Carter #6, Two Bedroom Apartment near Xavier, stay from 13:48 to 14:08, nearest transit: MONTGOMERY RD & HOPKINS AVE, 532.41m away; Cincinnati Museum Center, visit from 14:33 to 16:33, nearest transit: MUSEUM CENTER, 69.48m away; Via Vite, visit from 19:00 to 19:40, nearest transit: VINE ST & 6TH ST, 72.83m away; Carter #6, Two Bedroom Apartment near Xavier, stay from 20:05 to 08:00, nearest transit: MONTGOMERY RD & HOPKINS AVE, 532.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Cincinnati",
+    "transportation": "-",
+    "breakfast": "Moerlein Lager House, Cincinnati",
+    "lunch": "Sotto, Cincinnati",
+    "dinner": "Agave & Rye Rookwood, Cincinnati",
+    "attraction": "National Underground Railroad Freedom Center, Cincinnati",
+    "accommodation": "Carter #6, Two Bedroom Apartment near Xavier, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "Carter #6, Two Bedroom Apartment near Xavier, stay from 08:00 to 08:30, nearest transit: MONTGOMERY RD & HOPKINS AVE, 532.41m away; Moerlein Lager House, visit from 08:55 to 09:35, nearest transit: THE BANKS Station, 2nd & Main, 255.14m away; National Underground Railroad Freedom Center, visit from 10:00 to 12:00, nearest transit: Riverfront Transit Center Stop, 102.78m away; Sotto, visit from 13:35 to 14:15, nearest transit: 6TH ST & MAIN ST, 35.42m away; Agave & Rye Rookwood, visit from 19:00 to 19:40, nearest transit: EDMONDSON RD & ROOKWOOD COMMONS, 80.67m away; Carter #6, Two Bedroom Apartment near Xavier, stay from 20:05 to 08:00, nearest transit: MONTGOMERY RD & HOPKINS AVE, 532.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Cincinnati to Atlanta",
+    "transportation": "Flight Number: F1327592, from Cincinnati to Atlanta, Departure Time: 17:18, Arrival Time: 18:50",
+    "breakfast": "Boomtown Biscuits & Whiskey, Cincinnati",
+    "lunch": "Nada, Cincinnati",
+    "dinner": "-",
+    "attraction": "Rhinegeist Brewery, Cincinnati",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Carter #6, Two Bedroom Apartment near Xavier, stay from 08:00 to 08:30, nearest transit: MONTGOMERY RD & HOPKINS AVE, 532.41m away; Boomtown Biscuits & Whiskey, visit from 08:55 to 09:35, nearest transit: SYCAMORE ST & 12TH ST, 147.80m away; Rhinegeist Brewery, visit from 10:00 to 12:00, nearest transit: BREWERY DISTRICT Station, Elm & Henry, 36.41m away; Nada, visit from 13:35 to 14:15, nearest transit: 6TH ST & MAIN ST, 60.38m away"
+  }
+]

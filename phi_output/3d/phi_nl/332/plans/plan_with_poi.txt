@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Houston",
+    "transportation": "Flight Number: F1815521, from Cleveland to Houston, Departure Time: 13:00, Arrival Time: 15:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "-",
+    "accommodation": "Garage Apt & Patio Near Rail and FREE EGGS!, Houston",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 15:31 to 18:30, nearest transit: Irvington Blvd @ English, 356.07m away; Brennan's of Houston, Houston, visit from 19:00 to 20:15, ; Garage Apt & Patio Near Rail and FREE EGGS!, stay from 22:33 to 06:33, nearest transit: Irvington Blvd @ English, 356.07m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston Restaurant, Houston",
+    "lunch": "The Original Ninfa's, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "The Menil Collection, Houston",
+    "accommodation": "Garage Apt & Patio Near Rail and FREE EGGS!, Houston",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 07:03 to 07:33, nearest transit: Irvington Blvd @ English, 356.07m away; Houston Restaurant, Houston, visit from 08:03 to 08:53, ; The Original Ninfa's, Houston, visit from 13:30 to 14:30, ; The Menil Collection, Houston, visit from 15:00 to 18:30, ; Pappas Bros. Steakhouse, Houston, visit from 19:00 to 20:15, ; Garage Apt & Patio Near Rail and FREE EGGS!, stay from 20:45 to 06:03, nearest transit: Irvington Blvd @ English, 356.07m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Cleveland",
+    "transportation": "Flight Number: F3871809, from Houston to Cleveland, Departure Time: 14:36, Arrival Time: 18:21",
+    "breakfast": "Eddie V's Prime Seafood, Houston",
+    "lunch": "Brenner's on the Bayou, Houston",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 06:33 to 07:03, nearest transit: Irvington Blvd @ English, 356.07m away; Eddie V's Prime Seafood, Houston, visit from 08:00 to 08:50, ; Brenner's on the Bayou, Houston, visit from 12:51 to 14:06, "
+  }
+]

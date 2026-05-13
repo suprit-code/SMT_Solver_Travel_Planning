@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Nashville",
+    "transportation": "Flight Number: F3169214, from San Diego to Nashville, Departure Time: 09:01, Arrival Time: 14:46",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Puckett's 5th & Church, Nashville",
+    "attraction": "-",
+    "accommodation": "1.5 mile to DT & 12th South: Beautiful Studio, Nashville",
+    "event": "-",
+    "point_of_interest_list": "1.5 mile to DT & 12th South: Beautiful Studio, stay from 15:16 to 20:15, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away; Puckett's 5th & Church, Nashville, visit from 20:45 to 22:00, ; 1.5 mile to DT & 12th South: Beautiful Studio, stay from 22:30 to 06:30, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "The Stillery, Nashville",
+    "lunch": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "dinner": "Harriet's Rooftop, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "1.5 mile to DT & 12th South: Beautiful Studio, Nashville",
+    "event": "-",
+    "point_of_interest_list": "1.5 mile to DT & 12th South: Beautiful Studio, stay from 07:00 to 07:45, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away; The Stillery, Nashville, visit from 08:15 to 09:29, ; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 13:30 to 14:30, ; Belmont Mansion, Nashville, visit from 15:00 to 18:30, ; Harriet's Rooftop, Nashville, visit from 19:00 to 20:15, ; 1.5 mile to DT & 12th South: Beautiful Studio, stay from 23:40 to 07:40, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to San Diego",
+    "transportation": "Flight Number: F2641692, from Nashville to San Diego, Departure Time: 19:27, Arrival Time: 21:15",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "Skull's Rainbow Room, Nashville",
+    "dinner": "-",
+    "attraction": "Ryman Auditorium, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1.5 mile to DT & 12th South: Beautiful Studio, stay from 08:10 to 08:40, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away; Aquarium Restaurant, Nashville, visit from 09:10 to 10:00, ; Ryman Auditorium, Nashville, visit from 10:30 to 14:00, ; Skull's Rainbow Room, Nashville, visit from 14:30 to 15:30, "
+  }
+]

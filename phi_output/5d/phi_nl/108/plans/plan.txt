@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F4023986, from Las Vegas to San Diego, Departure Time: 14:26, Arrival Time: 15:22', 'Flight Number: F2670674, from San Diego to Sacramento, Departure Time: 16:54, Arrival Time: 18:27', 'Flight Number: F2598105, from Sacramento to Las Vegas, Departure Time: 20:07, Arrival Time: 21:42'],
+Restaurants (3 meals per day): ['-', '-', 'Cowboy Star, San Diego', "Lou & Mickey's, San Diego", 'Addison Restaurant, San Diego', 'Civico 1845, San Diego', 'Pacific Beach AleHouse, San Diego', "Ruth's Chris Steak House, San Diego", "Mimmo's, San Diego", 'Mikuni Japanese Restaurant & Sushi Bar, Sacramento', 'Grange Restaurant & Bar, Sacramento', 'Moxie, Sacramento', "Paesano's Pizzeria, Sacramento", 'Bacon & Butter, Sacramento', '-'],
+Attractions (1 per day): ['San Diego Zoo, San Diego', 'Cabrillo National Monument, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Capitol Park, Sacramento', 'California State Capitol Museum, Sacramento'],
+Accommodations (1 per city): ['Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego', 'Modern Apt Near Downtown Sac, Sacramento']

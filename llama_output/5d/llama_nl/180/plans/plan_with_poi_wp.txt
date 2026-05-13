@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Flight Number: F2759026, from Martha's Vineyard to New York, Departure Time: 15:51, Arrival Time: 17:08",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Westway Diner, New York",
+    "attraction": "-",
+    "accommodation": "Private Studio with Shared Bath, New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio with Shared Bath, stay from 17:38 to 18:08, nearest transit: 3 AV/E 14 ST, 30.6m away; Westway Diner, New York, visit from 19:00 to 20:15, ; Private Studio with Shared Bath, stay from 20:45 to 06:43, nearest transit: 3 AV/E 14 ST, 30.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "Azalea Ristorante, New York",
+    "dinner": "Piccola Cucina Osteria, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Private Studio with Shared Bath, New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio with Shared Bath, stay from 07:13 to 07:43, nearest transit: 3 AV/E 14 ST, 30.6m away; Sarge’s Delicatessen & Diner, New York, visit from 08:13 to 09:59, ; Azalea Ristorante, New York, visit from 14:00 to 15:00, ; The High Line, New York, visit from 15:30 to 20:15, ; Piccola Cucina Osteria, New York, visit from 20:45 to 23:30, ; Private Studio with Shared Bath, stay from 00:00 to 08:00, nearest transit: 3 AV/E 14 ST, 30.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Rochester",
+    "transportation": "Flight Number: F1412048, from New York to Rochester, Departure Time: 16:50, Arrival Time: 18:36",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "-",
+    "dinner": "Tiny Tim's Tea Rooms, Rochester",
+    "attraction": "Central Park, New York",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Private Studio with Shared Bath, stay from 08:30 to 09:00, nearest transit: 3 AV/E 14 ST, 30.6m away; Times Square Diner, New York, visit from 09:30 to 10:20, ; Central Park, New York, visit from 10:50 to 16:20, ; Historic Henrietta Apartment, stay from 19:06 to 19:36, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Tiny Tim's Tea Rooms, Rochester, visit from 20:06 to 21:21, ; Historic Henrietta Apartment, stay from 21:51 to 05:51, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Rochester",
+    "transportation": "-",
+    "breakfast": "Park Avenue Pub & Restaurant, Rochester",
+    "lunch": "Lipuma's Coney Island, Rochester",
+    "dinner": "The Eagle Tavern, Rochester",
+    "attraction": "Restoration House, Rochester",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 06:21 to 08:40, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Park Avenue Pub & Restaurant, Rochester, visit from 09:10 to 10:00, ; Restoration House, Rochester, visit from 10:30 to 14:00, ; Lipuma's Coney Island, Rochester, visit from 14:30 to 15:30, ; The Eagle Tavern, Rochester, visit from 20:45 to 22:00, ; Historic Henrietta Apartment, stay from 22:30 to 06:30, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Rochester to Martha's Vineyard",
+    "transportation": "Taxi from Rochester to Martha's Vineyard, duration: 603.14, distance: 746.2836, cost : 746.0",
+    "breakfast": "Terza Ristorante, Rochester",
+    "lunch": "Nick Tahou Hots, Rochester",
+    "dinner": "Rochester Mills Beer, Rochester",
+    "attraction": "Rochester Castle, Rochester",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 07:00 to 07:30, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Terza Ristorante, Rochester, visit from 08:00 to 08:50, ; Rochester Castle, Rochester, visit from 09:20 to 12:50, ; Nick Tahou Hots, Rochester, visit from 13:20 to 14:20, ; Rochester Mills Beer, Rochester, visit from 19:00 to 20:15, "
+  }
+]

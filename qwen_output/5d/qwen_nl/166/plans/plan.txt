@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-22', '2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F3106690, from Tucson to San Diego, Departure Time: 12:24, Arrival Time: 12:27', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Tucson, duration: 1112.86, distance: 1653.3025, cost: 1653'],
+Restaurants (3 meals per day): ['-', '-', 'Born & Raised, San Diego', 'Casa Guadalajara, San Diego', 'Union Kitchen and Tap Gaslamp, San Diego', "Lou & Mickey's, San Diego", "Mimmo's, San Diego", 'Alforon, San Diego', 'Pacific Beach AleHouse, San Diego', 'Janya Thai Cusine, Redding', 'Thai Cafe, Redding', 'Olive Garden Italian Restaurant, Redding', 'Fratelli’s Pizza Parlour, Redding', 'Grand Buffet, Redding', 'Dam Burger, Redding'],
+Attractions (1 per day): ['Old Town San Diego, San Diego', 'Birch Aquarium at Scripps, San Diego', 'USS Midway Museum, San Diego', 'Sundial Bridge, Redding', 'Turtle Bay Exploration Park, Redding'],
+Accommodations (1 per city): ['Safe Private Sanctuary - TOWER STUDIO/ Northpark, San Diego', 'Hello, Redding!, Redding']

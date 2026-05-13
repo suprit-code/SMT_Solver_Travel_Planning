@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to New York",
+    "transportation": "Self-driving, from Raleigh to New York, duration: 593.1216666666667, distance: 781.4707, cost: 39",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 18:18 to 18:38, nearest transit: 9 AV/W 30 ST, 139.35m away; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 19:03 to 08:00, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge\u2019s Delicatessen & Diner, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Azalea Ristorante, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 08:00 to 08:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Sarge\u2019s Delicatessen & Diner, visit from 08:55 to 09:35, nearest transit: 3 AV/E 37 ST, 101.41m away; The National 9/11 Memorial & Museum, visit from 10:00 to 12:00, nearest transit: CHURCH ST/LIBERTY ST, 234.55m away; Westway Diner, visit from 13:35 to 14:15, nearest transit: 9 AV/W 44 ST, 44.32m away; Azalea Ristorante, visit from 19:00 to 19:40, nearest transit: W 50 ST/8 AV, 83.22m away; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 20:05 to 08:00, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Raleigh",
+    "transportation": "Self-driving, from New York to Raleigh, duration: 597.59, distance: 785.477, cost: 39",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "Carmine's, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 08:00 to 08:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Times Square Diner, visit from 08:55 to 09:35, nearest transit: W 49 ST/8 AV, 51.46m away; The Metropolitan Museum of Art, visit from 10:00 to 12:00, nearest transit: 5 AV/E 80 ST, 182.01m away; Carmine's, visit from 13:35 to 14:15, nearest transit: 7 AV/W 44 ST, 61.95m away; FIG & OLIVE, visit from 19:00 to 19:40, nearest transit: 5 AV/W 52 ST, 84.16m away"
+  }
+]

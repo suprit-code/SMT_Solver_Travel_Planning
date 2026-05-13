@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Manchester to Charlotte",
+    "transportation": "Flight Number: F0954960, from Manchester to Charlotte, Departure Time: 05:33, Arrival Time: 08:33",
+    "breakfast": "Charlotte's Tavern, Charlotte",
+    "lunch": "The Fig Tree Restaurant, Charlotte",
+    "dinner": "ROKA Charlotte Street, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 09:03 to 09:33, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Charlotte's Tavern, visit from 10:03 to 10:43, nearest transit: Oakland St & Main Ave, 3482493.72m away; Discovery Place Science, visit from 11:13 to 13:13, nearest transit: Church St & 6th St, 53.42m away; The Fig Tree Restaurant, visit from 14:43 to 15:23, nearest transit: 7th St & Armory Dr, 103.61m away; ROKA Charlotte Street, visit from 19:23 to 20:03, nearest transit: Beaty St @ 866, 6415395.43m away; \u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 23:00 to 08:00, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "lunch": "Charlotte Bakery, Charlotte",
+    "dinner": "The Terrace at The Charlotte Inn, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 08:00 to 08:30, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Rooster's Wood-Fired Kitchen - Uptown, visit from 09:00 to 09:40, nearest transit: Trade St & College St, 139.39m away; Truist Field, visit from 10:10 to 12:10, nearest transit: 4th St & Graham St, 146.25m away; Charlotte Bakery, visit from 13:40 to 14:20, nearest transit: White Street Park and Ride, 1016826.02m away; The Terrace at The Charlotte Inn, visit from 19:00 to 19:40, nearest transit: Beaty St @ 866, 1111842.47m away; \u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 23:00 to 08:00, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Manchester",
+    "transportation": "Flight Number: F3786306, from Charlotte to Manchester, Departure Time: 16:15, Arrival Time: 18:15",
+    "breakfast": "Gaucho Charlotte Street, Charlotte",
+    "lunch": "Charlotte's, Charlotte",
+    "dinner": "-",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 08:00 to 08:30, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Gaucho Charlotte Street, visit from 09:00 to 09:40, nearest transit: Beaty St @ 866, 6415294.40m away; NASCAR Hall of Fame, visit from 10:10 to 12:10, nearest transit: Caldwell St & 3rd St, 96.74m away; Charlotte's, visit from 13:40 to 14:20, nearest transit: Beaty St @ 866, 940467.80m away"
+  }
+]

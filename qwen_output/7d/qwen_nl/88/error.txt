@@ -1,0 +1,19 @@
+
+--- JOB 88 FAILED ---
+Error: b'select requires 3 arguments, but was provided with 2 arguments'
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 193, in <module>
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 4682, in __getitem__
+    return _array_select(self, arg)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 4694, in _array_select
+    return _to_expr_ref(Z3_mk_select(ar.ctx_ref(), ar.as_ast(), arg.as_ast()), ar.ctx)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3core.py", line 2286, in Z3_mk_select
+    _elems.Check(a0)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3core.py", line 1579, in Check
+    raise self.Exception(self.get_error_message(ctx, err))
+z3.z3types.Z3Exception: b'select requires 3 arguments, but was provided with 2 arguments'
+
+----------------------------------------

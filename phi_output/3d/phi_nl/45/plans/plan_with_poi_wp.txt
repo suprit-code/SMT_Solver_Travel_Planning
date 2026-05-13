@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Baltimore",
+    "transportation": "Flight Number: F2173317, from Indianapolis to Baltimore, Departure Time: 10:18, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "The Abbey Burger Bistro, Baltimore",
+    "dinner": "-",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 12:22 to 12:52, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; The Abbey Burger Bistro, Baltimore, visit from 13:22 to 15:00, ; National Aquarium, Baltimore, visit from 15:30 to 22:42, ; The basement, stay from 23:12 to 07:12, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Luna Del Sea Steak & Seafood Bistro, Baltimore",
+    "lunch": "One-Eyed Mike's, Baltimore",
+    "dinner": "Amicci's, Baltimore",
+    "attraction": "Federal Hill Park, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 07:42 to 08:12, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Luna Del Sea Steak & Seafood Bistro, Baltimore, visit from 08:42 to 09:32, ; One-Eyed Mike's, Baltimore, visit from 13:33 to 14:33, ; Federal Hill Park, Baltimore, visit from 15:30 to 20:15, ; Amicci's, Baltimore, visit from 20:45 to 22:00, ; The basement, stay from 22:30 to 07:40, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Indianapolis",
+    "transportation": "Flight Number: F1564950, from Baltimore to Indianapolis, Departure Time: 17:05, Arrival Time: 18:38",
+    "breakfast": "Pratt Street Ale House, Baltimore",
+    "lunch": "Alexander's Tavern, Baltimore",
+    "dinner": "-",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 08:10 to 08:40, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Pratt Street Ale House, Baltimore, visit from 09:10 to 10:00, ; The Maryland Zoo, Baltimore, visit from 10:30 to 14:00, ; Alexander's Tavern, Baltimore, visit from 14:30 to 15:30, "
+  }
+]

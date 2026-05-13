@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F3546693, from Atlanta to San Diego, Departure Time: 11:21, Arrival Time: 12:54",
+    "breakfast": "-",
+    "lunch": "Mister A'S, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "-",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 13:24 to 13:54, nearest transit: Jewell St & Garnet Av, 578.25m away; Mister A'S, San Diego, visit from 14:24 to 15:24, ; Born & Raised, San Diego, visit from 19:25 to 20:40, ; charming, colorful, close to beach, stay from 21:10 to 05:10, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Dockside 1953, San Diego",
+    "lunch": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 06:00 to 06:30, nearest transit: Jewell St & Garnet Av, 578.25m away; Dockside 1953, San Diego, visit from 08:31 to 09:21, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 13:22 to 14:30, ; Birch Aquarium at Scripps, San Diego, visit from 15:00 to 18:30, ; Juniper and Ivy, San Diego, visit from 19:00 to 20:15, ; charming, colorful, close to beach, stay from 20:45 to 06:30, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "-",
+    "dinner": "Paragary's, Sacramento",
+    "attraction": "-",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 07:00 to 07:30, nearest transit: Jewell St & Garnet Av, 578.25m away; Lou & Mickey's, San Diego, visit from 08:00 to 08:50, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 19:11 to 19:41, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Paragary's, Sacramento, visit from 20:11 to 21:26, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 21:56 to 05:56, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "lunch": "Mikuni Japanese Restaurant & Sushi Bar, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 06:26 to 06:56, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Kru Contemporary Japanese Cuisine, Sacramento, visit from 08:08 to 08:58, ; Mikuni Japanese Restaurant & Sushi Bar, Sacramento, visit from 12:59 to 13:59, ; California State Capitol Museum, Sacramento, visit from 15:30 to 19:00, ; Nopalitos, Sacramento, visit from 20:45 to 22:00, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 22:30 to 06:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Atlanta",
+    "transportation": "Flight Number: F2955269, from Sacramento to Atlanta, Departure Time: 12:36, Arrival Time: 20:04",
+    "breakfast": "Localis, Sacramento",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 07:00 to 07:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Localis, Sacramento, visit from 08:00 to 08:50, "
+  }
+]

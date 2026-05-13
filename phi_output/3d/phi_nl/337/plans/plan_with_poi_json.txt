@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F2878294, from Seattle to San Diego, Departure Time: 05:57, Arrival Time: 08:31",
+    "breakfast": "-",
+    "lunch": "Morning Glory, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "Old Town San Diego, San Diego",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 09:01 to 09:31, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Old Town San Diego, visit from 10:01 to 12:01, nearest transit: Juan St & Mason St, 127.04m away; Morning Glory, visit from 12:31 to 13:11, nearest transit: India St & Cedar St, 92.52m away; Addison Restaurant, visit from 19:00 to 19:40, nearest transit: Mira Mesa Bl & Genetic Center Dr, 4339.61m away; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 23:00 to 08:00, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Buon Appetito, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "Coronado Bridge, San Diego",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 08:00 to 08:30, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Born & Raised, visit from 09:00 to 09:40, nearest transit: Kettner Bl & Grape St, 125.64m away; Coronado Bridge, visit from 10:10 to 12:10, nearest transit: Barrio Logan Station, 1138.11m away; Buon Appetito, visit from 13:40 to 14:20, nearest transit: India St & Cedar St, 11.40m away; Pacific Beach AleHouse, visit from 19:00 to 19:40, nearest transit: Mission Bl & Thomas Av, 87.26m away; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 23:00 to 08:00, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F1318273, from San Diego to Seattle, Departure Time: 19:27, Arrival Time: 22:13",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "Little Italy, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 08:00 to 08:30, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Din Tai Fung, visit from 09:00 to 09:40, nearest transit: La Jolla Village Dr & Genesee Av, 68.36m away; Little Italy, visit from 10:10 to 12:10, nearest transit: Kettner Bl & Grape St, 155.04m away; Mimmo's, visit from 13:37 to 14:17, nearest transit: India St & Cedar St, 148.81m away; Ruth's Chris Steak House, visit from 18:17 to 18:57, nearest transit: N Harbor Dr & Ash St, 171.43m away"
+  }
+]

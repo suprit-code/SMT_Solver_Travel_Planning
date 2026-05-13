@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to New York",
+    "transportation": "Flight Number: F4068449, from Sarasota to New York, Departure Time: 11:26, Arrival Time: 14:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Harry's, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Private Studio & SPA near JFK| UBS arena., New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 14:34 to 14:54, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; The High Line, visit from 15:19 to 17:19, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Harry's, visit from 19:00 to 19:40, nearest transit: WATER ST/HANOVER SQ, 85.83m away; Private Studio & SPA near JFK| UBS arena., stay from 20:05 to 08:00, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Westway Diner, New York",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "Sarge\u2019s Delicatessen & Diner, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Private Studio & SPA near JFK| UBS arena., New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 08:00 to 08:30, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; Westway Diner, visit from 08:55 to 09:35, nearest transit: 9 AV/W 44 ST, 44.32m away; The National 9/11 Memorial & Museum, visit from 10:00 to 12:00, nearest transit: CHURCH ST/LIBERTY ST, 234.55m away; Peak Restaurant & Bar, visit from 13:35 to 14:15, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; Sarge\u2019s Delicatessen & Diner, visit from 19:00 to 19:40, nearest transit: 3 AV/E 37 ST, 101.41m away; Private Studio & SPA near JFK| UBS arena., stay from 20:05 to 08:00, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Sarasota",
+    "transportation": "Flight Number: F3341847, from New York to Sarasota, Departure Time: 18:41, Arrival Time: 22:02",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "Blue Smoke Battery Park City, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 08:00 to 08:18, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; Times Square Diner, visit from 08:43 to 09:23, nearest transit: W 49 ST/8 AV, 51.46m away; Central Park, visit from 09:48 to 11:48, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; Blue Smoke Battery Park City, visit from 13:23 to 14:03, nearest transit: VESEY ST/NORTH END AV, 10.23m away; Del Frisco's Grille, visit from 18:03 to 18:16, nearest transit: 5 AV/W 50 ST, 139.24m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Lexington",
+    "transportation": "Flight Number: F1722057, from Charlotte to Lexington, Departure Time: 13:15, Arrival Time: 14:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Keeneland Track Kitchen, Lexington",
+    "attraction": "-",
+    "accommodation": "Convenient for 2, No cleaning fee Discounts to 10%, Lexington",
+    "event": "-",
+    "point_of_interest_list": "Convenient for 2, No cleaning fee Discounts to 10%, stay from 15:06 to 20:15, nearest transit: Mercer @ Harbison, 399.51m away; Keeneland Track Kitchen, Lexington, visit from 20:45 to 22:17, ; Convenient for 2, No cleaning fee Discounts to 10%, stay from 22:47 to 06:47, nearest transit: Mercer @ Harbison, 399.51m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Lexington",
+    "transportation": "-",
+    "breakfast": "The Triangle Grille, Lexington",
+    "lunch": "Carson's Food & Drink - On Main, Lexington",
+    "dinner": "Sutton's Family Italian Restaurant, Lexington",
+    "attraction": "Munroe Tavern, Lexington",
+    "accommodation": "Convenient for 2, No cleaning fee Discounts to 10%, Lexington",
+    "event": "-",
+    "point_of_interest_list": "Convenient for 2, No cleaning fee Discounts to 10%, stay from 07:17 to 07:47, nearest transit: Mercer @ Harbison, 399.51m away; The Triangle Grille, Lexington, visit from 08:17 to 09:59, ; Carson's Food & Drink - On Main, Lexington, visit from 14:00 to 15:00, ; Munroe Tavern, Lexington, visit from 15:30 to 19:00, ; Sutton's Family Italian Restaurant, Lexington, visit from 19:30 to 20:45, ; Convenient for 2, No cleaning fee Discounts to 10%, stay from 23:40 to 07:40, nearest transit: Mercer @ Harbison, 399.51m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Lexington to Charlotte",
+    "transportation": "Flight Number: F3735091, from Lexington to Charlotte, Departure Time: 20:03, Arrival Time: 21:35",
+    "breakfast": "Taj India Indian Restaurant, Lexington",
+    "lunch": "Distilled Restaurant & Bourbon Bar, Lexington",
+    "dinner": "-",
+    "attraction": "Hancock-Clarke House, Lexington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Convenient for 2, No cleaning fee Discounts to 10%, stay from 08:10 to 08:40, nearest transit: Mercer @ Harbison, 399.51m away; Taj India Indian Restaurant, Lexington, visit from 09:10 to 10:00, ; Hancock-Clarke House, Lexington, visit from 10:30 to 14:00, ; Distilled Restaurant & Bourbon Bar, Lexington, visit from 14:30 to 17:35, "
+  }
+]

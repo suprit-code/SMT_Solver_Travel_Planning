@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Mission to Nashville",
+    "transportation": "Taxi from Mission to Nashville, duration: 1263.165, distance: 1916.6776, cost : 1916.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Broadway Honky Tonk| Pool | Courtviews | Firepit, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 03:33 to 04:03, nearest transit: PEABODY STATION OUTBOUND, 153.69m away; Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 04:33 to 08:00, nearest transit: PEABODY STATION OUTBOUND, 153.69m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "1 Kitchen, Nashville",
+    "lunch": "Henley, Nashville",
+    "dinner": "Kayne Prime, Nashville",
+    "attraction": "-",
+    "accommodation": "Broadway Honky Tonk| Pool | Courtviews | Firepit, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 08:30 to 09:00, nearest transit: PEABODY STATION OUTBOUND, 153.69m away; 1 Kitchen, Nashville, visit from 09:39 to 10:29, ; Henley, Nashville, visit from 14:30 to 15:44, ; Kayne Prime, Nashville, visit from 19:45 to 21:00, ; Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 21:30 to 05:30, nearest transit: PEABODY STATION OUTBOUND, 153.69m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Chattanooga",
+    "transportation": "Taxi from Nashville to Chattanooga, duration: 148.23666666666668, distance: 211.4268, cost : 211.0",
+    "breakfast": "The Bluebird Cafe, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "HiFi Clyde's Chattanooga, Chattanooga",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Chattanooga - The Isbill House, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 06:00 to 06:30, nearest transit: PEABODY STATION OUTBOUND, 153.69m away; The Bluebird Cafe, Nashville, visit from 08:00 to 08:50, ; Cheekwood, Nashville, visit from 09:20 to 12:50, ; Aquarium Restaurant, Nashville, visit from 13:20 to 14:20, ; Chattanooga - The Isbill House, stay from 17:48 to 18:18, nearest transit: Tenn Ave & 38th-0, 4598.95m away; HiFi Clyde's Chattanooga, Chattanooga, visit from 19:00 to 20:15, ; Chattanooga - The Isbill House, stay from 20:45 to 04:45, nearest transit: Tenn Ave & 38th-0, 4598.95m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Scottie's On The River, Chattanooga",
+    "lunch": "La Cabriole, Chattanooga",
+    "dinner": "Champy's, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Chattanooga - The Isbill House, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Chattanooga - The Isbill House, stay from 06:00 to 07:32, nearest transit: Tenn Ave & 38th-0, 4598.95m away; Scottie's On The River, Chattanooga, visit from 08:02 to 10:00, ; Coolidge Park, Chattanooga, visit from 10:30 to 14:00, ; La Cabriole, Chattanooga, visit from 14:30 to 15:30, ; Champy's, Chattanooga, visit from 20:18 to 21:33, ; Chattanooga - The Isbill House, stay from 22:03 to 06:03, nearest transit: Tenn Ave & 38th-0, 4598.95m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Chattanooga to Memphis",
+    "transportation": "Taxi from Chattanooga to Memphis, duration: 376.3683333333333, distance: 547.2609, cost : 547.0",
+    "breakfast": "Hickory Pit Bar-B-Que, Chattanooga",
+    "lunch": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "dinner": "-",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "\"The Don\" Draper-style studio, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Chattanooga - The Isbill House, stay from 06:33 to 07:30, nearest transit: Tenn Ave & 38th-0, 4598.95m away; Hickory Pit Bar-B-Que, Chattanooga, visit from 08:00 to 08:50, ; Tennessee Aquarium, Chattanooga, visit from 09:20 to 12:50, ; Maple Street Biscuit Company - City Center, Chattanooga, visit from 13:20 to 14:20, ; \"The Don\" Draper-style studio, stay from 21:36 to 22:06, nearest transit: UNION AVE@BARKSDALE, 483.83m away; \"The Don\" Draper-style studio, stay from 22:36 to 06:43, nearest transit: UNION AVE@BARKSDALE, 483.83m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Memphis",
+    "transportation": "-",
+    "breakfast": "One & Only BBQ - Kirby Pkwy, Memphis",
+    "lunch": "Pig On Beale, Memphis",
+    "dinner": "Gibson's Donuts, Memphis",
+    "attraction": "National Civil Rights Museum - Lorraine Motel, Memphis",
+    "accommodation": "\"The Don\" Draper-style studio, Memphis",
+    "event": "-",
+    "point_of_interest_list": "\"The Don\" Draper-style studio, stay from 07:13 to 07:43, nearest transit: UNION AVE@BARKSDALE, 483.83m away; One & Only BBQ - Kirby Pkwy, Memphis, visit from 08:13 to 10:00, ; National Civil Rights Museum - Lorraine Motel, Memphis, visit from 10:30 to 14:00, ; Pig On Beale, Memphis, visit from 14:30 to 15:30, ; Gibson's Donuts, Memphis, visit from 19:31 to 20:46, ; \"The Don\" Draper-style studio, stay from 21:16 to 05:16, nearest transit: UNION AVE@BARKSDALE, 483.83m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Memphis to Mission",
+    "transportation": "Taxi from Memphis to Mission, duration: 1024.8366666666666, distance: 1481.7513, cost : 1481.0",
+    "breakfast": "Cozy Corner, Memphis",
+    "lunch": "Interstate Barbecue, Memphis",
+    "dinner": "Itta Bena, Memphis",
+    "attraction": "Stax Museum of American Soul Music, Memphis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "\"The Don\" Draper-style studio, stay from 06:00 to 06:30, nearest transit: UNION AVE@BARKSDALE, 483.83m away; Cozy Corner, Memphis, visit from 08:00 to 08:50, ; Stax Museum of American Soul Music, Memphis, visit from 09:20 to 12:50, ; Interstate Barbecue, Memphis, visit from 13:20 to 14:20, ; Itta Bena, Memphis, visit from 19:00 to 20:15, "
+  }
+]

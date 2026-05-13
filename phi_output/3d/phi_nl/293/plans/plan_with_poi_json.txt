@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Indianapolis",
+    "transportation": "Flight Number: F2372598, from Detroit to Indianapolis, Departure Time: 08:54, Arrival Time: 10:01",
+    "breakfast": "-",
+    "lunch": "Lincoln Square Pancake House, Indianapolis",
+    "dinner": "Cafe Patachou, Indianapolis",
+    "attraction": "Lucas Oil Stadium, Indianapolis",
+    "accommodation": "Convenient Location, Great Backyard, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Convenient Location, Great Backyard, stay from 10:31 to 11:01, nearest transit: College Ave & Lake Nora W Dr, 608.86m away; Lincoln Square Pancake House, visit from 12:00 to 12:40, nearest transit: Illinois St & 23rd St, 188.41m away; Lucas Oil Stadium, visit from 13:10 to 15:10, nearest transit: Missouri St & South St, 271.83m away; Cafe Patachou, visit from 19:00 to 19:40, nearest transit: Statehouse Station SB, 70.90m away; Convenient Location, Great Backyard, stay from 23:00 to 08:00, nearest transit: College Ave & Lake Nora W Dr, 608.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Vida, Indianapolis",
+    "lunch": "Tony's of Indianapolis, Indianapolis",
+    "dinner": "Yard House, Indianapolis",
+    "attraction": "Indianapolis Zoo, Indianapolis",
+    "accommodation": "Convenient Location, Great Backyard, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Convenient Location, Great Backyard, stay from 08:00 to 08:30, nearest transit: College Ave & Lake Nora W Dr, 608.86m away; Vida, visit from 09:00 to 09:40, nearest transit: New York St & College Ave, 112.33m away; Indianapolis Zoo, visit from 10:10 to 12:10, nearest transit: Washington St & White River Pkwy W Dr, 244.02m away; Tony's of Indianapolis, visit from 13:40 to 14:20, nearest transit: Washington St & Illinois St, 49.05m away; Yard House, visit from 19:00 to 19:40, nearest transit: Washington St & Illinois St, 224.79m away; Convenient Location, Great Backyard, stay from 23:00 to 08:00, nearest transit: College Ave & Lake Nora W Dr, 608.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Detroit",
+    "transportation": "Flight Number: F2774459, from Indianapolis to Detroit, Departure Time: 18:11, Arrival Time: 19:13",
+    "breakfast": "Prime 47- Indy's Steakhouse, Indianapolis",
+    "lunch": "The Capital Grille, Indianapolis",
+    "dinner": "Mesh Indy, Indianapolis",
+    "attraction": "The Eiteljorg Museum, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Convenient Location, Great Backyard, stay from 08:00 to 08:30, nearest transit: College Ave & Lake Nora W Dr, 608.86m away; Prime 47- Indy's Steakhouse, visit from 09:00 to 09:40, nearest transit: CTC-G, 153.48m away; The Eiteljorg Museum, visit from 10:10 to 12:10, nearest transit: Washington St & West St - White River St, 160.71m away; The Capital Grille, visit from 12:40 to 13:20, nearest transit: Washington St & Illinois St, 95.94m away; Mesh Indy, visit from 17:01 to 17:41, nearest transit: Massachusetts Ave & Park Ave, 75.37m away"
+  }
+]

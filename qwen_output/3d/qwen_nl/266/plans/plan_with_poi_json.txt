@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Asheville to New York",
+    "transportation": "Flight Number: F0151209, from Asheville to New York, Departure Time: 13:00, Arrival Time: 14:37",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Gaonnuri, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Standard Queen Room in Small Hotel, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 15:02 to 15:22, nearest transit: MADISON AV/E 129 ST, 97.09m away; The High Line, visit from 15:47 to 17:47, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Gaonnuri, visit from 19:00 to 19:40, nearest transit: W 31 ST/6 AV, 81.16m away; Standard Queen Room in Small Hotel, stay from 20:05 to 08:00, nearest transit: MADISON AV/E 129 ST, 97.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Del Frisco's Grille, New York",
+    "dinner": "Sarge\u2019s Delicatessen & Diner, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Standard Queen Room in Small Hotel, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 08:00 to 08:30, nearest transit: MADISON AV/E 129 ST, 97.09m away; Peak Restaurant & Bar, visit from 08:55 to 09:35, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; Central Park, visit from 10:00 to 12:00, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; Del Frisco's Grille, visit from 13:35 to 14:15, nearest transit: 5 AV/W 50 ST, 139.24m away; Sarge\u2019s Delicatessen & Diner, visit from 19:00 to 19:40, nearest transit: 3 AV/E 37 ST, 101.41m away; Standard Queen Room in Small Hotel, stay from 23:00 to 08:00, nearest transit: MADISON AV/E 129 ST, 97.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Asheville",
+    "transportation": "taxi, from New York to Asheville, duration: 791.7216666666667, distance: 1103.1263, cost: 1103",
+    "breakfast": "BOOM, New York",
+    "lunch": "Gallaghers Steakhouse, New York",
+    "dinner": "Del Frisco's Double Eagle Steakhouse, New York",
+    "attraction": "One World Observatory, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 08:00 to 08:30, nearest transit: MADISON AV/E 129 ST, 97.09m away; BOOM, visit from 08:55 to 09:35, nearest transit: W 14 ST/WASHINGTON ST, 126.07m away; One World Observatory, visit from 10:00 to 12:00, nearest transit: VESEY ST/NORTH END AV, 231.75m away; Gallaghers Steakhouse, visit from 13:35 to 14:15, nearest transit: 7 AV/W 52 ST, 131.50m away; Del Frisco's Double Eagle Steakhouse, visit from 19:00 to 19:40, nearest transit: W 49 ST/AVENUE OF THE AMERICAS, 94.03m away"
+  }
+]

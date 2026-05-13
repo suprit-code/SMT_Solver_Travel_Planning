@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Newburgh to Savannah",
+    "transportation": "Self-driving, from Newburgh to Savannah, duration: 993.655, distance: 1386.7442, cost: 69",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Beautiful Sunny  Room, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 08:00 to 08:30, nearest transit: MLK & 37th NB, 104.53m away; Beautiful Sunny  Room, stay from 23:00 to 08:00, nearest transit: MLK & 37th NB, 104.53m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Huey's On The River, Savannah",
+    "lunch": "Rocks on the Roof, Savannah",
+    "dinner": "Vinnie Van Go-Go's, Savannah",
+    "attraction": "The Old Sorrel Weed House Museum & Tours, Savannah",
+    "accommodation": "Beautiful Sunny  Room, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 08:00 to 08:30, nearest transit: MLK & 37th NB, 104.53m away; Huey's On The River, visit from 09:00 to 09:40, nearest transit: CONGRESS & BULL, 254.45m away; The Old Sorrel Weed House Museum & Tours, visit from 10:10 to 12:10, nearest transit: LIBERTY & WHITAKER EB, 130.79m away; Rocks on the Roof, visit from 13:40 to 14:20, nearest transit: BRYAN & BULL, 176.86m away; Vinnie Van Go-Go's, visit from 19:00 to 19:40, nearest transit: CONGRESS & JEFFERSON, 133.92m away; Beautiful Sunny  Room, stay from 23:00 to 08:00, nearest transit: MLK & 37th NB, 104.53m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Newburgh",
+    "transportation": "Self-driving, from Savannah to Newburgh, duration: 989.985, distance: 1384.401, cost: 69",
+    "breakfast": "Goose Feathers Cafe & Bakery, Savannah",
+    "lunch": "Boar's Head Grill & Tavern, Savannah",
+    "dinner": "B. Matthew's Eatery, Savannah",
+    "attraction": "SCADstory, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 08:00 to 08:30, nearest transit: MLK & 37th NB, 104.53m away; Goose Feathers Cafe & Bakery, visit from 09:00 to 09:40, nearest transit: CONGRESS & JEFFERSON, 51.14m away; SCADstory, visit from 10:10 to 12:10, nearest transit: DRAYTON & CHARLTON, 100.71m away; Boar's Head Grill & Tavern, visit from 13:40 to 14:20, nearest transit: LINCOLN & CONGRESS, 221.49m away; B. Matthew's Eatery, visit from 19:00 to 19:40, nearest transit: LINCOLN & CONGRESS, 172.52m away"
+  }
+]

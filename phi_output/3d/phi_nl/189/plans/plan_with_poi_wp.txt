@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Charleston",
+    "transportation": "Flight Number: F0501001, from Detroit to Charleston, Departure Time: 15:28, Arrival Time: 17:35",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Frannie & The Fox, Charleston",
+    "attraction": "-",
+    "accommodation": "Secret Garden Guesthouse, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 18:05 to 20:15, nearest transit: Coming St / George St, 490.45m away; Frannie & The Fox, Charleston, visit from 20:45 to 22:07, ; Secret Garden Guesthouse, stay from 22:37 to 06:37, nearest transit: Coming St / George St, 490.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "High Cotton Charleston, Charleston",
+    "lunch": "Oak Steakhouse, Charleston",
+    "dinner": "Hyman's Seafood, Charleston",
+    "attraction": "Charleston City Market, Charleston",
+    "accommodation": "Secret Garden Guesthouse, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 07:07 to 07:37, nearest transit: Coming St / George St, 490.45m away; High Cotton Charleston, Charleston, visit from 08:07 to 08:57, ; Oak Steakhouse, Charleston, visit from 12:58 to 13:58, ; Charleston City Market, Charleston, visit from 14:28 to 17:58, ; Hyman's Seafood, Charleston, visit from 19:00 to 23:09, ; Secret Garden Guesthouse, stay from 23:39 to 07:39, nearest transit: Coming St / George St, 490.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Detroit",
+    "transportation": "Taxi from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost : 1366.0",
+    "breakfast": "Charleston Crab House-Market Street, Charleston",
+    "lunch": "Stella's, Charleston",
+    "dinner": "-",
+    "attraction": "Battery & White Point Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 08:09 to 08:39, nearest transit: Coming St / George St, 490.45m away; Charleston Crab House-Market Street, Charleston, visit from 09:09 to 09:59, ; Stella's, Charleston, visit from 14:00 to 15:00, ; Battery & White Point Gardens, Charleston, visit from 15:30 to 22:01, "
+  }
+]

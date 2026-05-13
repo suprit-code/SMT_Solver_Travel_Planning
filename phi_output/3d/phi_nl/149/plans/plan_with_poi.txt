@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to New York",
+    "transportation": "Flight Number: F1014617, from Raleigh to New York, Departure Time: 15:44, Arrival Time: 17:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "-",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 17:47 to 18:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Times Square Diner, New York, visit from 19:00 to 22:00, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 22:30 to 06:30, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Piccola Cucina Estiatorio, New York",
+    "lunch": "Sarge’s Delicatessen & Diner, New York",
+    "dinner": "Westway Diner, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 07:00 to 07:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Piccola Cucina Estiatorio, New York, visit from 08:00 to 08:50, ; Sarge’s Delicatessen & Diner, New York, visit from 14:00 to 15:00, ; The National 9/11 Memorial & Museum, New York, visit from 15:30 to 19:00, ; Westway Diner, New York, visit from 19:45 to 21:00, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 21:30 to 05:30, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Raleigh",
+    "transportation": "Flight Number: F3200896, from New York to Raleigh, Departure Time: 18:55, Arrival Time: 20:37",
+    "breakfast": "Azalea Ristorante, New York",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 06:00 to 08:48, nearest transit: 9 AV/W 30 ST, 139.35m away; Azalea Ristorante, New York, visit from 09:40 to 14:02, ; The Metropolitan Museum of Art, New York, visit from 14:32 to 18:02, "
+  }
+]

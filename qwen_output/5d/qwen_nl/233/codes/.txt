@@ -1,0 +1,48 @@
+
+            def run_taxi_search(origin, destinations, departure_date):
+                # Assume this function returns a list of dictionaries containing taxi info
+                return [{'distance': 10, 'price': 20, 'arrival_time': '2023-10-01 14:00'} for _ in range(len(destinations))]
+            
+            def calculate_taxi_price(distance, price_per_km=2):
+                return distance * price_per_km
+            
+            def get_taxi_arrival_time(distance, departure_date, speed=50):
+                from datetime import datetime, timedelta
+                departure = datetime.strptime(departure_date, '%Y-%m-%d %H:%M')
+                travel_time = timedelta(hours=(distance / speed))
+                return (departure + travel_time).strftime('%Y-%m-%d %H:%M')
+            
+            # Initialize variables
+            origin = "Bend"
+            destinations = ["city_0", "city_1"]
+            departure_date = "2023-10-01 08:00"
+            
+            # Run TaxiSearch for each destination
+            taxi_info = []
+            for destination in destinations:
+                taxi_info.append(run_taxi_search(origin, [destination], departure_date))
+            
+            # Assert taxi info is not empty if taxi info exists
+            assert all(taxi_info), "Taxi info is empty"
+            
+            # Calculate taxi price for 1 person and 3 transportations
+            prices = []
+            for info in taxi_info:
+                for taxi in info:
+                    distance = taxi['distance']
+                    price = calculate_taxi_price(distance)
+                    prices.append(price)
+            
+            # Get taxi arrival time for each destination
+            arrival_times = []
+            for info in taxi_info:
+                for taxi in info:
+                    distance = taxi['distance']
+                    arrival_time = get_taxi_arrival_time(distance, departure_date)
+                    arrival_times.append(arrival_time)
+            
+            # Print results
+            print("Prices:", prices)
+            print("Arrival Times:", arrival_times)
+            
+            

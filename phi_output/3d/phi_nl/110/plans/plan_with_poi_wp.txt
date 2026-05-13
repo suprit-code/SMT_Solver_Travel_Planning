@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Savannah",
+    "transportation": "Flight Number: F0500662, from Denver to Savannah, Departure Time: 09:36, Arrival Time: 14:38",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bella Napoli Italian Bistro, Savannah",
+    "attraction": "-",
+    "accommodation": "Beautiful Sunny  Room, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 15:08 to 18:30, nearest transit: MLK & 37th NB, 104.53m away; Bella Napoli Italian Bistro, Savannah, visit from 19:00 to 20:15, ; Beautiful Sunny  Room, stay from 22:35 to 06:35, nearest transit: MLK & 37th NB, 104.53m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Vinnie Van Go-Go's, Savannah",
+    "lunch": "Goose Feathers Cafe & Bakery, Savannah",
+    "dinner": "Belford's Savannah, Savannah",
+    "attraction": "Wormsloe Historic Site, Savannah",
+    "accommodation": "Beautiful Sunny  Room, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 07:05 to 07:35, nearest transit: MLK & 37th NB, 104.53m away; Vinnie Van Go-Go's, Savannah, visit from 08:05 to 08:55, ; Goose Feathers Cafe & Bakery, Savannah, visit from 12:56 to 13:56, ; Wormsloe Historic Site, Savannah, visit from 15:00 to 18:30, ; Belford's Savannah, Savannah, visit from 19:00 to 20:15, ; Beautiful Sunny  Room, stay from 20:45 to 04:45, nearest transit: MLK & 37th NB, 104.53m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Denver",
+    "transportation": "Flight Number: F0614770, from Savannah to Denver, Departure Time: 16:09, Arrival Time: 18:12",
+    "breakfast": "Huey's On The River, Savannah",
+    "lunch": "The Public Kitchen & Bar, Savannah",
+    "dinner": "-",
+    "attraction": "First African Baptist Church, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 06:00 to 06:30, nearest transit: MLK & 37th NB, 104.53m away; Huey's On The River, Savannah, visit from 08:00 to 08:50, ; First African Baptist Church, Savannah, visit from 09:20 to 14:00, ; The Public Kitchen & Bar, Savannah, visit from 14:30 to 15:30, "
+  }
+]

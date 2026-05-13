@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Baltimore",
+    "transportation": "Flight Number: F3688769, from Miami to Baltimore, Departure Time: 08:43, Arrival Time: 11:09",
+    "breakfast": "-",
+    "lunch": "Toki Underground Baltimore, Baltimore",
+    "dinner": "The Capital Grille, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "Notel 9 Getaway Suite with Sauna, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 11:39 to 12:09, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; Toki Underground Baltimore, visit from 12:39 to 13:19, nearest transit: STATE CENTER METRO Main Entrance, 2482.41m away; National Aquarium, visit from 13:49 to 15:49, nearest transit: SHOT TOWER METRO West Entrance, 474.59m away; The Capital Grille, visit from 19:00 to 19:40, nearest transit: SHOT TOWER METRO West Entrance, 293.21m away; Notel 9 Getaway Suite with Sauna, stay from 23:00 to 08:00, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "CLAVEL, Baltimore",
+    "lunch": "Restaurante Tio Pepe, Baltimore",
+    "dinner": "LP Steamers, Baltimore",
+    "attraction": "Inner Harbor, Baltimore",
+    "accommodation": "Notel 9 Getaway Suite with Sauna, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; CLAVEL, visit from 09:00 to 09:40, nearest transit: STATE CENTER METRO Main Entrance, 1472.41m away; Inner Harbor, visit from 10:10 to 12:10, nearest transit: CHARLES CENTER METRO Stair 5, 594.73m away; Restaurante Tio Pepe, visit from 13:40 to 14:20, nearest transit: LEXINGTON MARKET METRO North Entrance, 554.30m away; LP Steamers, visit from 19:00 to 19:40, nearest transit: SHOT TOWER METRO West Entrance, 2166.78m away; Notel 9 Getaway Suite with Sauna, stay from 23:00 to 08:00, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Miami",
+    "transportation": "Flight Number: F3119269, from Baltimore to Miami, Departure Time: 19:04, Arrival Time: 21:51",
+    "breakfast": "Rec Pier Chop House, Baltimore",
+    "lunch": "Luna Del Sea Steak & Seafood Bistro, Baltimore",
+    "dinner": "-",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; Rec Pier Chop House, visit from 09:00 to 09:40, nearest transit: SHOT TOWER STATION (METRO) sb, 1415.36m away; The Maryland Zoo, visit from 10:10 to 12:10, nearest transit: MONDAWMIN METRO Escalator 4, 586.50m away; Luna Del Sea Steak & Seafood Bistro, visit from 13:40 to 14:20, nearest transit: CHARLES CENTER METRO West Entrance, 449.77m away"
+  }
+]

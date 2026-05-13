@@ -1,0 +1,6 @@
+Destination cities: ['Nashville', 'Bristol'],
+Transportation dates: ['2024-11-02', '2024-11-04', '2024-11-06'],
+Transportation methods between cities: ['Flight Number: F0638643, from Chicago to Nashville, Departure Time: 15:46, Arrival Time: 17:24', 'taxi, from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost: 467', 'taxi, from Bristol to Chicago, duration: 691.9866666666666, distance: 965.0259, cost: 965'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Caney Fork River Valley Grille, Nashville', '1 Kitchen, Nashville', 'Aquarium Restaurant, Nashville', "Paula Deen's Family Kitchen, Nashville", '417 Union, Nashville', 'The Southern Steak & Oyster, Nashville', 'Caribbean Croft, Bristol', 'Urban Tandoor, Bristol', 'Ciao, Bristol', 'Eat a Pitta, Bristol', 'Blackbird Bakery, Bristol', 'Coronation Curry House, Bristol'],
+Attractions (1 per day): ['Belmont Mansion, Nashville', 'Cheekwood, Nashville', 'Downtown Nashville, Nashville', 'Wills Memorial Building And Tower Tours, Bristol', 'Bristol Cathedral, Bristol'],
+Accommodations (1 per city): ['The Stewart House in 12th South - Half House, Nashville', 'The Secret Society Suite, Bristol']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to Tucson",
+    "transportation": "Flight Number: F0632476, from Everett to Tucson, Departure Time: 10:42, Arrival Time: 14:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mariscos Chihuahua, Tucson",
+    "attraction": "-",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 14:59 to 15:29, nearest transit: El Con Center, 2837.66m away; Mariscos Chihuahua, Tucson, visit from 19:00 to 20:15, ; Accessible Private Studio, Entrance & Parking., stay from 20:45 to 04:45, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tucson",
+    "transportation": "-",
+    "breakfast": "Baja Cafe of Tucson, Tucson",
+    "lunch": "Prep & Pastry, Tucson",
+    "dinner": "Bobo's Restaurant, Tucson",
+    "attraction": "The Mini Time Machine Museum of Miniatures, Tucson",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 06:00 to 06:30, nearest transit: El Con Center, 2837.66m away; Baja Cafe of Tucson, Tucson, visit from 09:10 to 10:00, ; The Mini Time Machine Museum of Miniatures, Tucson, visit from 10:30 to 14:00, ; Prep & Pastry, Tucson, visit from 14:30 to 15:30, ; Bobo's Restaurant, Tucson, visit from 19:31 to 20:46, ; Accessible Private Studio, Entrance & Parking., stay from 21:16 to 05:16, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tucson to Everett",
+    "transportation": "Flight Number: F0515324, from Tucson to Everett, Departure Time: 14:11, Arrival Time: 17:26",
+    "breakfast": "North Italia, Tucson",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Pima Air and Space Museum, Tucson",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 06:00 to 06:30, nearest transit: El Con Center, 2837.66m away; North Italia, Tucson, visit from 08:00 to 08:50, ; Pima Air and Space Museum, Tucson, visit from 09:20 to 13:41, "
+  }
+]

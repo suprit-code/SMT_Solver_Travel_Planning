@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Seattle",
+    "transportation": "Flight Number: F3305579, from Oklahoma City to Seattle, Departure Time: 14:29, Arrival Time: 16:39",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy Studio with Kitchenette and Laundry, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 17:09 to 18:30, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 19:00 to 21:00, ; Cozy Studio with Kitchenette and Laundry, stay from 21:30 to 05:30, nearest transit: 8th Ave SW & SW Barton St, 278.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Metropolitan Grill, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "The Capital Grille, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Cozy Studio with Kitchenette and Laundry, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 06:00 to 06:30, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; Metropolitan Grill, Seattle, visit from 08:35 to 09:25, ; Noi Thai Cuisine, Seattle, visit from 13:26 to 14:26, ; Seattle Center, Seattle, visit from 15:00 to 18:30, ; The Capital Grille, Seattle, visit from 19:00 to 20:15, ; Cozy Studio with Kitchenette and Laundry, stay from 00:00 to 08:00, nearest transit: 8th Ave SW & SW Barton St, 278.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Oklahoma City",
+    "transportation": "Flight Number: F3737705, from Seattle to Oklahoma City, Departure Time: 11:24, Arrival Time: 17:01",
+    "breakfast": "Bacco Cafe, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 08:30 to 09:00, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; Bacco Cafe, Seattle, visit from 09:30 to 10:20, "
+  }
+]

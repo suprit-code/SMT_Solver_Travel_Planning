@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Seattle",
+    "transportation": "Flight Number: F3305579, from Oklahoma City to Seattle, Departure Time: 14:29, Arrival Time: 16:39",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 17:09 to 18:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Noi Thai Cuisine, Seattle, visit from 19:00 to 23:10, ; Cozy room near UW, stay from 23:40 to 07:40, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "Purple Cafe and Wine Bar, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:10 to 08:40, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Vons 1000 Spirits, Seattle, visit from 09:10 to 10:00, ; Woodland Park Zoo, Seattle, visit from 10:30 to 14:00, ; Purple Cafe and Wine Bar, Seattle, visit from 14:30 to 16:44, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 20:45 to 22:41, ; Cozy room near UW, stay from 23:11 to 07:11, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Oklahoma City",
+    "transportation": "Flight Number: F1515441, from Seattle to Oklahoma City, Departure Time: 10:01, Arrival Time: 15:54",
+    "breakfast": "Tulio, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:41 to 08:11, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Tulio, Seattle, visit from 08:41 to 09:31, "
+  }
+]

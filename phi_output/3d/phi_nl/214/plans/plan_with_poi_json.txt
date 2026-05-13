@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Houston",
+    "transportation": "Flight Number: F2739889, from Cleveland to Houston, Departure Time: 11:48, Arrival Time: 13:35",
+    "breakfast": "-",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Modern Guesthouse in the Heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 14:05 to 14:35, nearest transit: Heights Blvd @ W 15th St, 357.40m away; Houston Restaurant, visit from 15:05 to 15:45, nearest transit: Conroe Park & Ride, 2530051.98m away; Cockrell Butterfly Center, visit from 16:15 to 18:15, nearest transit: Main St @ Remington Ln, 160.59m away; Pappas Bros. Steakhouse, visit from 19:45 to 20:25, nearest transit: Westheimer Rd @ Augusta Dr, 60.97m away; Modern Guesthouse in the Heart of the Heights, stay from 23:00 to 08:00, nearest transit: Heights Blvd @ W 15th St, 357.40m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Merrill & Houston's Steak Joint, Houston",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "Holocaust Museum Houston, Houston",
+    "accommodation": "Modern Guesthouse in the Heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 08:00 to 08:30, nearest transit: Heights Blvd @ W 15th St, 357.40m away; Hugo's, visit from 09:00 to 09:40, nearest transit: Westheimer Rd @ Mandell St, 26.11m away; Holocaust Museum Houston, visit from 10:10 to 12:10, nearest transit: Binz St @ San Jacinto St, 202.78m away; Merrill & Houston's Steak Joint, visit from 13:40 to 14:20, nearest transit: Conroe Park & Ride, 1469727.25m away; Pappadeaux Seafood Kitchen, visit from 19:00 to 19:40, nearest transit: Bush IAH Terminal C, 295.38m away; Modern Guesthouse in the Heart of the Heights, stay from 23:00 to 08:00, nearest transit: Heights Blvd @ W 15th St, 357.40m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Cleveland",
+    "transportation": "Flight Number: F2406930, from Houston to Cleveland, Departure Time: 14:42, Arrival Time: 18:13",
+    "breakfast": "Houstons Bar and Grill, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "-",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 08:00 to 08:30, nearest transit: Heights Blvd @ W 15th St, 357.40m away; Houstons Bar and Grill, visit from 09:00 to 09:40, nearest transit: Conroe Park & Ride, 7360300.27m away; Children's Museum Houston, visit from 10:10 to 12:10, nearest transit: Binz St @ Crawford St, 103.26m away; Brennan's of Houston, visit from 13:32 to 14:12, nearest transit: Elgin St @ Smith St, 102.40m away"
+  }
+]

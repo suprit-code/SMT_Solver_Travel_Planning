@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to Seattle",
+    "transportation": "Flight Number: F3860013, from El Paso to Seattle, Departure Time: 21:06, Arrival Time: 00:06",
+    "breakfast": "Bacco Cafe, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "Can Can Culinary Cabaret, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "The Pike Pub and Brewery, Seattle",
+    "lunch": "Vons 1000 Spirits, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:00 to 08:30, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; The Pike Pub and Brewery, visit from 08:55 to 09:35, nearest transit: 2nd Ave & Pike St, 113.99m away; Klondike Gold Rush National Historical Park, visit from 10:00 to 12:00, nearest transit: Occidental Mall, 113.08m away; Vons 1000 Spirits, visit from 13:35 to 14:15, nearest transit: 2nd Ave & Seneca St, 159.67m away; Noi Thai Cuisine, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Seneca St, 181.65m away; Ballard Greenwood Private Suite, stay from 20:05 to 08:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to El Paso",
+    "transportation": "Flight Number: F3860425, from Seattle to El Paso, Departure Time: 13:53, Arrival Time: 18:02",
+    "breakfast": "13 Coins Restaurant, Seattle",
+    "lunch": "Toulouse Petit Kitchen & Lounge, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:00 to 08:10, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; 13 Coins Restaurant, visit from 08:35 to 08:48, nearest transit: King Street Station, 107.40m away; Seattle Center, visit from 09:13 to 11:13, nearest transit: Seattle Center, 84.22m away; Toulouse Petit Kitchen & Lounge, visit from 12:48 to 13:28, nearest transit: Mercer St & Queen Anne Ave N, 32.36m away"
+  }
+]

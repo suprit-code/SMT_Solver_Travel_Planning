@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Lynchburg to Greensboro",
+    "transportation": "Taxi from Lynchburg to Greensboro, duration: 143.46166666666667, distance: 183.1366, cost : 183.0",
+    "breakfast": "-",
+    "lunch": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "dinner": "Undercurrent Restaurant, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 12:30 to 13:00, nearest transit: Glendale/Randleman Rd., 155.05m away; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 13:30 to 14:30, ; Carolina Theatre, Greensboro, visit from 15:00 to 18:30, ; Undercurrent Restaurant, Greensboro, visit from 19:00 to 20:15, ; A little Southern Hospitality, stay from 20:45 to 06:31, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Print Works Bistro, Greensboro",
+    "lunch": "Osteria Italian Restaurant, Greensboro",
+    "dinner": "Sarah's Kabob Shop, Greensboro",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:01 to 07:31, nearest transit: Glendale/Randleman Rd., 155.05m away; Print Works Bistro, Greensboro, visit from 08:01 to 08:51, ; Osteria Italian Restaurant, Greensboro, visit from 14:30 to 16:44, ; Sarah's Kabob Shop, Greensboro, visit from 20:45 to 23:30, ; A little Southern Hospitality, stay from 00:00 to 08:00, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Pho Hien Voung, Greensboro",
+    "lunch": "-",
+    "dinner": "Banks' Seafood Kitchen, Wilmington",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "The Retro Room- Private Suite with bathroom, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:30 to 09:00, nearest transit: Glendale/Randleman Rd., 155.05m away; Pho Hien Voung, Greensboro, visit from 09:40 to 10:47, ; Ambleside Gallery, Greensboro, visit from 11:17 to 14:47, ; The Retro Room- Private Suite with bathroom, stay from 19:45 to 20:15, nearest transit: Market St WB at 12th St, 153.0m away; Banks' Seafood Kitchen, Wilmington, visit from 20:45 to 23:09, ; The Retro Room- Private Suite with bathroom, stay from 23:39 to 07:39, nearest transit: Market St WB at 12th St, 153.0m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Winnie's Tavern, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "Catch, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "The Retro Room- Private Suite with bathroom, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Retro Room- Private Suite with bathroom, stay from 08:09 to 08:39, nearest transit: Market St WB at 12th St, 153.0m away; Winnie's Tavern, Wilmington, visit from 09:09 to 09:59, ; Flaming Amy's Burrito Barn, Wilmington, visit from 14:00 to 15:00, ; Battleship North Carolina, Wilmington, visit from 15:30 to 19:00, ; Catch, Wilmington, visit from 19:30 to 20:45, ; The Retro Room- Private Suite with bathroom, stay from 21:15 to 05:15, nearest transit: Market St WB at 12th St, 153.0m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Lynchburg",
+    "transportation": "Taxi from Wilmington to Lynchburg, duration: 337.39666666666665, distance: 448.5329, cost : 448.0",
+    "breakfast": "The Wilmington, Wilmington",
+    "lunch": "The Anchor, Wilmington",
+    "dinner": "-",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Retro Room- Private Suite with bathroom, stay from 06:00 to 06:30, nearest transit: Market St WB at 12th St, 153.0m away; The Wilmington, Wilmington, visit from 08:00 to 08:50, ; The Anchor, Wilmington, visit from 12:51 to 14:59, ; Burgwin-Wright House and Gardens, Wilmington, visit from 15:30 to 19:00, "
+  }
+]

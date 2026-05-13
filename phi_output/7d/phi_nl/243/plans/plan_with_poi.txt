@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Greensboro",
+    "transportation": "Taxi from Hartford to Greensboro, duration: 783.4616666666666, distance: 1043.7665, cost : 1043.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Tripps Restaurant, Greensboro",
+    "attraction": "-",
+    "accommodation": "Newly Renovated Modern Ranch Home, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Modern Ranch Home, stay from 19:33 to 20:03, nearest transit: Battleground/Brassfield, 1904.78m away; Tripps Restaurant, Greensboro, visit from 20:33 to 23:10, ; Newly Renovated Modern Ranch Home, stay from 23:40 to 07:40, nearest transit: Battleground/Brassfield, 1904.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Stamey's Barbecue, Greensboro",
+    "lunch": "Vito's Italian Restaurant, Greensboro",
+    "dinner": "At Elm St Grill, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Newly Renovated Modern Ranch Home, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Modern Ranch Home, stay from 08:10 to 08:40, nearest transit: Battleground/Brassfield, 1904.78m away; Stamey's Barbecue, Greensboro, visit from 09:10 to 10:00, ; International Civil Rights Center & Museum, Greensboro, visit from 10:30 to 14:00, ; Vito's Italian Restaurant, Greensboro, visit from 14:30 to 15:44, ; At Elm St Grill, Greensboro, visit from 19:45 to 21:00, ; Newly Renovated Modern Ranch Home, stay from 21:30 to 05:30, nearest transit: Battleground/Brassfield, 1904.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "MJ's Steak and Seafood, Greensboro",
+    "lunch": "Captain Bill's Seafood & Steak, Greensboro",
+    "dinner": "The Anchor, Wilmington",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Hawks Nest 3 @UNCW, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Modern Ranch Home, stay from 06:00 to 06:30, nearest transit: Battleground/Brassfield, 1904.78m away; MJ's Steak and Seafood, Greensboro, visit from 08:00 to 08:50, ; Ambleside Gallery, Greensboro, visit from 09:20 to 12:50, ; Captain Bill's Seafood & Steak, Greensboro, visit from 13:20 to 14:20, ; Hawks Nest 3 @UNCW, stay from 19:45 to 20:15, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; The Anchor, Wilmington, visit from 20:45 to 22:58, ; Hawks Nest 3 @UNCW, stay from 23:28 to 07:28, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Flaming Amy's Burrito Barn, Wilmington",
+    "lunch": "The Peppered Cupcake, Wilmington",
+    "dinner": "Roko Italian Cuisine, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Hawks Nest 3 @UNCW, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Hawks Nest 3 @UNCW, stay from 07:58 to 08:28, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; Flaming Amy's Burrito Barn, Wilmington, visit from 08:58 to 09:48, ; The Peppered Cupcake, Wilmington, visit from 13:49 to 15:00, ; Burgwin-Wright House and Gardens, Wilmington, visit from 15:30 to 19:00, ; Roko Italian Cuisine, Wilmington, visit from 19:30 to 20:45, ; Hawks Nest 3 @UNCW, stay from 21:15 to 05:15, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F3666332, from Wilmington to Charlotte, Departure Time: 15:01, Arrival Time: 15:53",
+    "breakfast": "-",
+    "lunch": "Catch, Wilmington",
+    "dinner": "The Terrace at The Charlotte Inn, Charlotte",
+    "attraction": "-",
+    "accommodation": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Hawks Nest 3 @UNCW, stay from 06:00 to 06:30, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; Catch, Wilmington, visit from 12:00 to 14:31, ; ❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 16:23 to 16:53, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; The Terrace at The Charlotte Inn, Charlotte, visit from 19:00 to 20:15, ; ❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 20:45 to 04:45, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "Gaucho Charlotte Street, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 06:00 to 07:54, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 08:24 to 09:14, ; NASCAR Hall of Fame, Charlotte, visit from 09:44 to 13:29, ; Charlotte's Eats and Sweets, Charlotte, visit from 13:59 to 14:59, ; Gaucho Charlotte Street, Charlotte, visit from 19:00 to 20:15, ; ❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 20:45 to 05:30, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Hartford",
+    "transportation": "Taxi from Charlotte to Hartford, duration: 880.2583333333333, distance: 1178.0703, cost : 1178.0",
+    "breakfast": "Charlotte Bakery, Charlotte",
+    "lunch": "Charlotte Quay Restaurant, Charlotte",
+    "dinner": "Midwood Smokehouse, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 06:00 to 06:30, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Charlotte Bakery, Charlotte, visit from 08:00 to 08:50, ; Charlotte Quay Restaurant, Charlotte, visit from 12:51 to 13:51, ; Discovery Place Science, Charlotte, visit from 14:21 to 17:51, ; Midwood Smokehouse, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

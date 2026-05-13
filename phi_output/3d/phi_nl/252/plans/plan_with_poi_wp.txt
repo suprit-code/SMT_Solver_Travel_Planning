@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Nashville",
+    "transportation": "Flight Number: F0756245, from Miami to Nashville, Departure Time: 16:01, Arrival Time: 17:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Puckett's 5th & Church, Nashville",
+    "attraction": "-",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 18:06 to 19:15, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Puckett's 5th & Church, Nashville, visit from 19:45 to 21:00, ; Dave's Place, stay from 21:30 to 05:30, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Old Hickory Steakhouse, Nashville",
+    "lunch": "The Farm House, Nashville",
+    "dinner": "Henley, Nashville",
+    "attraction": "Ryman Auditorium, Nashville",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 06:00 to 06:30, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Old Hickory Steakhouse, Nashville, visit from 08:33 to 09:23, ; The Farm House, Nashville, visit from 13:24 to 14:24, ; Ryman Auditorium, Nashville, visit from 14:54 to 20:15, ; Henley, Nashville, visit from 20:45 to 22:00, ; Dave's Place, stay from 22:30 to 07:39, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Miami",
+    "transportation": "Flight Number: F1610561, from Nashville to Miami, Departure Time: 20:53, Arrival Time: 23:56",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "The Mockingbird, Nashville",
+    "dinner": "-",
+    "attraction": "Ole Smoky Distillery & Yee-Haw Brewery, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 08:09 to 08:39, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Aquarium Restaurant, Nashville, visit from 09:09 to 09:59, ; The Mockingbird, Nashville, visit from 14:00 to 15:00, ; Ole Smoky Distillery & Yee-Haw Brewery, Nashville, visit from 15:30 to 19:00, "
+  }
+]

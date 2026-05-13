@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to San Diego",
+    "transportation": "Flight Number: F3106690, from Tucson to San Diego, Departure Time: 12:24, Arrival Time: 12:27",
+    "breakfast": "-",
+    "lunch": "World Famous, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 12:57 to 13:27, nearest transit: Imperial Av & 54th St, 396.9m away; World Famous, San Diego, visit from 13:57 to 14:57, ; Cabrillo National Monument, San Diego, visit from 15:27 to 19:15, ; Din Tai Fung, San Diego, visit from 19:45 to 21:00, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 21:30 to 05:30, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Barbusa, San Diego",
+    "lunch": "Covewood Restaurant, San Diego",
+    "dinner": "The Fishery, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 06:00 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away; Barbusa, San Diego, visit from 09:10 to 10:00, ; Birch Aquarium at Scripps, San Diego, visit from 10:30 to 14:00, ; Covewood Restaurant, San Diego, visit from 14:30 to 15:30, ; The Fishery, San Diego, visit from 20:45 to 22:00, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 22:30 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Fresno",
+    "transportation": "Flight Number: F0590263, from San Diego to Fresno, Departure Time: 19:38, Arrival Time: 20:48",
+    "breakfast": "La Puerta, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "~The Sierra~, Fresno",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 07:00 to 07:30, nearest transit: Imperial Av & 54th St, 396.9m away; La Puerta, San Diego, visit from 08:00 to 08:50, ; San Diego Zoo, San Diego, visit from 09:20 to 19:08, ; ~The Sierra~, stay from 21:18 to 21:48, nearest transit: NW HERNDON - WILLOW, 837.97m away; ~The Sierra~, stay from 22:18 to 06:18, nearest transit: NW HERNDON - WILLOW, 837.97m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Fresno",
+    "transportation": "-",
+    "breakfast": "Chef Paul's Cafe, Fresno",
+    "lunch": "Taqueria Don Pepe, Fresno",
+    "dinner": "Ampersand Ice Cream, Fresno",
+    "attraction": "Kearney Mansion Museum & Gallery, Fresno",
+    "accommodation": "~The Sierra~, Fresno",
+    "event": "-",
+    "point_of_interest_list": "~The Sierra~, stay from 06:48 to 07:18, nearest transit: NW HERNDON - WILLOW, 837.97m away; Chef Paul's Cafe, Fresno, visit from 08:12 to 09:02, ; Taqueria Don Pepe, Fresno, visit from 14:00 to 15:00, ; Kearney Mansion Museum & Gallery, Fresno, visit from 15:30 to 19:00, ; Ampersand Ice Cream, Fresno, visit from 19:30 to 23:10, ; ~The Sierra~, stay from 23:40 to 07:40, nearest transit: NW HERNDON - WILLOW, 837.97m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Fresno to Tucson",
+    "transportation": "Taxi from Fresno to Tucson, duration: 762.06, distance: 1129.7628, cost : 1129.0",
+    "breakfast": "Fig Garden Village, Fresno",
+    "lunch": "Phoenician Garden Mediterranean Bar & Grill, Fresno",
+    "dinner": "Sal's Mexican Restaurant - Fresno, Fresno",
+    "attraction": "Fresno Chaffee Zoo, Fresno",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "~The Sierra~, stay from 08:10 to 08:40, nearest transit: NW HERNDON - WILLOW, 837.97m away; Fig Garden Village, Fresno, visit from 09:10 to 10:00, ; Fresno Chaffee Zoo, Fresno, visit from 10:30 to 14:00, ; Phoenician Garden Mediterranean Bar & Grill, Fresno, visit from 14:30 to 15:30, ; Sal's Mexican Restaurant - Fresno, Fresno, visit from 19:31 to 20:46, "
+  }
+]

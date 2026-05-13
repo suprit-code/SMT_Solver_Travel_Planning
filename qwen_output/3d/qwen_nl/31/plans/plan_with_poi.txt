@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Las Vegas",
+    "transportation": "Flight Number: F0774013, from Washington to Las Vegas, Departure Time: 08:53, Arrival Time: 11:23",
+    "breakfast": "-",
+    "lunch": "Ameribrunch Cafe, Las Vegas",
+    "dinner": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "attraction": "The Las Vegas Strip, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 11:53 to 12:23, nearest transit: The Strat, 5367.88m away; Ameribrunch Cafe, Las Vegas, visit from 12:53 to 13:53, ; The Las Vegas Strip, Las Vegas, visit from 14:23 to 18:30, ; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 19:00 to 20:15, ; Gamble Adventure | Restaurant. Outside Pool, stay from 22:40 to 06:40, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Mr. Mamas, Las Vegas",
+    "lunch": "Eggslut, Las Vegas",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "The Grand Canal Shoppes at The Venetian Resort, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 07:10 to 07:40, nearest transit: The Strat, 5367.88m away; Mr. Mamas, Las Vegas, visit from 08:10 to 09:00, ; The Grand Canal Shoppes at The Venetian Resort, Las Vegas, visit from 09:30 to 13:00, ; Eggslut, Las Vegas, visit from 13:30 to 14:30, ; Eggscellent, Las Vegas, visit from 19:00 to 20:15, ; Gamble Adventure | Restaurant. Outside Pool, stay from 20:45 to 05:30, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Washington",
+    "transportation": "Flight Number: F1078549, from Las Vegas to Washington, Departure Time: 13:42, Arrival Time: 20:49",
+    "breakfast": "Garden Court, Las Vegas",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 06:00 to 06:30, nearest transit: The Strat, 5367.88m away; Garden Court, Las Vegas, visit from 08:00 to 08:50, ; Red Rock Canyon National Conservation Area, Las Vegas, visit from 09:20 to 12:50, "
+  }
+]

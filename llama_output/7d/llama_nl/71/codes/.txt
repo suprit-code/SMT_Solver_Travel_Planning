@@ -1,0 +1,38 @@
+
+                def run_taxi_search(origin, destinations):
+                    taxi_info = {}
+                    for destination in destinations:
+                        # Assume TaxiSearch returns a dictionary with distance and price
+                        taxi_info[destination] = {'distance': 10, 'price_per_person': 5}
+                    return taxi_info
+                
+                def calculate_taxi_price(distance, price_per_person, num_people=1):
+                    return distance * price_per_person * num_people
+                
+                def get_taxi_arrival_time(distance, speed=60):  # Assuming speed in km/h
+                    return distance / speed
+                
+                # Initialize variables
+                origin = "Reno"
+                destinations = ["city_0", "city_1", "city_2"]
+                departure_date = "2023-10-01"
+                
+                # Run TaxiSearch to get taxi info
+                taxi_info = run_taxi_search(origin, destinations)
+                
+                # Assert taxi info is not empty if taxi info exists
+                assert taxi_info, "No taxi info available"
+                
+                # Calculate taxi price for 1 person and 4 transportations
+                for destination in destinations:
+                    distance = taxi_info[destination]['distance']
+                    price_per_person = taxi_info[destination]['price_per_person']
+                    total_price = calculate_taxi_price(distance, price_per_person)
+                    print(f"Total price to {destination}: ${total_price}")
+                
+                # Get taxi arrival time for 4 transportations
+                for destination in destinations:
+                    distance = taxi_info[destination]['distance']
+                    arrival_time = get_taxi_arrival_time(distance)
+                    print(f"Arrival time to {destination}: {arrival_time} hours")
+                

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Charleston",
+    "transportation": "Self-driving, from Miami to Charleston, duration: 659.5716666666667, distance: 934.3455, cost: 46",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 19:24 to 19:44, nearest transit: Broad St / Church St, 4048.31m away; The Backpacker, stay from 20:09 to 08:00, nearest transit: Broad St / Church St, 4048.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Frannie & The Fox, Charleston",
+    "lunch": "Amen Street Fish & Raw Bar, Charleston",
+    "dinner": "Poogan's Porch, Charleston",
+    "attraction": "The Citadel, Charleston",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 08:00 to 08:30, nearest transit: Broad St / Church St, 4048.31m away; Frannie & The Fox, visit from 08:55 to 09:35, nearest transit: Market St / Meeting St, 124.64m away; The Citadel, visit from 10:00 to 12:00, nearest transit: Elmwood Ave / Moultrie St, 174.87m away; Amen Street Fish & Raw Bar, visit from 13:35 to 14:15, nearest transit: East Bay St / S. Market St, 56.01m away; Poogan's Porch, visit from 19:00 to 19:40, nearest transit: Meeting St / Queen St, 57.05m away; The Backpacker, stay from 23:00 to 08:00, nearest transit: Broad St / Church St, 4048.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Miami",
+    "transportation": "Self-driving, from Charleston to Miami, duration: 661.9983333333333, distance: 935.2003, cost: 46",
+    "breakfast": "Stars Restaurant-Rooftop & Grill Room, Charleston",
+    "lunch": "Chubby Fish, Charleston",
+    "dinner": "Stella's, Charleston",
+    "attraction": "Battery & White Point Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 08:00 to 08:30, nearest transit: Broad St / Church St, 4048.31m away; Stars Restaurant-Rooftop & Grill Room, visit from 08:55 to 09:35, nearest transit: King St / Morris St, 82.36m away; Battery & White Point Gardens, visit from 10:00 to 12:00, nearest transit: Broad St / Meeting St, 758.27m away; Chubby Fish, visit from 13:35 to 14:15, nearest transit: Spring St / Ashe St, 214.03m away; Stella's, visit from 19:00 to 19:40, nearest transit: Warren St / St Philip St, 16.55m away"
+  }
+]

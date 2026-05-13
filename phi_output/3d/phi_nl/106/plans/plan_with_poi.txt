@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Boise",
+    "transportation": "Flight Number: F0581768, from Houston to Boise, Departure Time: 18:12, Arrival Time: 21:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "North End Private Guest Suite in Historic Home, Boise",
+    "event": "-",
+    "point_of_interest_list": "North End Private Guest Suite in Historic Home, stay from 21:30 to 22:00, nearest transit: W Fort St & N 9th St NEC, 809.58m away; North End Private Guest Suite in Historic Home, stay from 22:30 to 06:46, nearest transit: W Fort St & N 9th St NEC, 809.58m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Boise",
+    "transportation": "-",
+    "breakfast": "Flying M Coffee House, Boise",
+    "lunch": "Guido's Original New York Style Pizza Downtown, Boise",
+    "dinner": "Boise Fry Company, Boise",
+    "attraction": "Basque Museum & Cultural Center, Boise",
+    "accommodation": "North End Private Guest Suite in Historic Home, Boise",
+    "event": "-",
+    "point_of_interest_list": "North End Private Guest Suite in Historic Home, stay from 07:16 to 07:46, nearest transit: W Fort St & N 9th St NEC, 809.58m away; Flying M Coffee House, Boise, visit from 08:16 to 09:54, ; Guido's Original New York Style Pizza Downtown, Boise, visit from 13:55 to 14:55, ; Basque Museum & Cultural Center, Boise, visit from 15:25 to 18:55, ; Boise Fry Company, Boise, visit from 19:25 to 20:40, ; North End Private Guest Suite in Historic Home, stay from 21:10 to 05:10, nearest transit: W Fort St & N 9th St NEC, 809.58m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Boise to Houston",
+    "transportation": "Flight Number: F2376085, from Boise to Houston, Departure Time: 06:40, Arrival Time: 10:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "North End Private Guest Suite in Historic Home, stay from 05:40 to 06:10, nearest transit: W Fort St & N 9th St NEC, 809.58m away"
+  }
+]

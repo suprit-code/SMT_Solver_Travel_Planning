@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Amarillo",
+    "transportation": "Self-driving from Oklahoma City to Amarillo, duration: 268.945, distance: 415.9372, cost : 20.0",
+    "breakfast": "-",
+    "lunch": "Ye Olde Pancake Station, Amarillo",
+    "dinner": "Metropolitan, Amarillo",
+    "attraction": "Amarillo Museum of Art, Amarillo",
+    "accommodation": "The Studio On 17th, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Studio On 17th, stay from 11:00 to 11:30, nearest transit: SW 15th Ave & S Harrison St, 216.59m away; Ye Olde Pancake Station, Amarillo, visit from 12:00 to 13:00, ; Amarillo Museum of Art, Amarillo, visit from 15:00 to 18:30, ; Metropolitan, Amarillo, visit from 19:00 to 20:15, ; The Studio On 17th, stay from 20:45 to 05:30, nearest transit: SW 15th Ave & S Harrison St, 216.59m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Manantial, Amarillo",
+    "lunch": "Ohms Cafe & Catering, Amarillo",
+    "dinner": "575° Pizzeria - Hillside, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "The Studio On 17th, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Studio On 17th, stay from 06:00 to 06:30, nearest transit: SW 15th Ave & S Harrison St, 216.59m away; El Manantial, Amarillo, visit from 08:03 to 08:53, ; Ohms Cafe & Catering, Amarillo, visit from 12:54 to 13:54, ; Route 66 Historic District, Amarillo, visit from 14:24 to 20:15, ; 575° Pizzeria - Hillside, Amarillo, visit from 20:45 to 22:00, ; The Studio On 17th, stay from 22:30 to 06:30, nearest transit: SW 15th Ave & S Harrison St, 216.59m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Self-driving from Amarillo to Houston, duration: 649.365, distance: 961.8577, cost : 48.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "-",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "The Studio On 17th, stay from 07:26 to 07:56, nearest transit: SW 15th Ave & S Harrison St, 216.59m away; Entire Apt in the Heart of the City - Galleria, stay from 19:45 to 20:15, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Brennan's of Houston, Houston, visit from 20:45 to 22:00, ; Entire Apt in the Heart of the City - Galleria, stay from 22:30 to 07:40, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "Houston Restaurant, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 08:10 to 08:40, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Pappadeaux Seafood Kitchen, Houston, visit from 09:10 to 10:00, ; Cockrell Butterfly Center, Houston, visit from 10:30 to 14:00, ; Market on Houston, Houston, visit from 14:30 to 15:30, ; Houston Restaurant, Houston, visit from 20:45 to 22:00, ; Entire Apt in the Heart of the City - Galleria, stay from 22:30 to 06:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Self-driving from Houston to San Antonio, duration: 211.06833333333333, distance: 315.3022, cost : 15.0",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "lunch": "Goode Company BBQ, Houston",
+    "dinner": "-",
+    "attraction": "Discovery Green, Houston",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 07:00 to 07:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Fogo de Chao Brazilian Steakhouse, Houston, visit from 08:00 to 08:50, ; Discovery Green, Houston, visit from 09:20 to 12:50, ; Goode Company BBQ, Houston, visit from 13:20 to 17:59, ; Couples getaway kink dungeon, stay from 22:30 to 23:00, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Couples getaway kink dungeon, stay from 23:30 to 07:30, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Pinkerton's Barbecue, San Antonio",
+    "lunch": "Brenner's on the River Walk, San Antonio",
+    "dinner": "The Guenther House, San Antonio",
+    "attraction": "Japanese Tea Gardens, San Antonio",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 08:00 to 08:30, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Pinkerton's Barbecue, San Antonio, visit from 09:00 to 09:59, ; Brenner's on the River Walk, San Antonio, visit from 14:00 to 15:00, ; Japanese Tea Gardens, San Antonio, visit from 15:30 to 19:00, ; The Guenther House, San Antonio, visit from 20:45 to 23:09, ; Couples getaway kink dungeon, stay from 23:39 to 07:39, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Oklahoma City",
+    "transportation": "Self-driving from San Antonio to Oklahoma City, duration: 493.73, distance: 749.606, cost : 37.0",
+    "breakfast": "Schilo's, San Antonio",
+    "lunch": "Bohanan's Prime Steak and Seafood, San Antonio",
+    "dinner": "Pollos Asados Los Nortenos, San Antonio",
+    "attraction": "San Antonio Zoo, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 08:09 to 08:39, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Schilo's, San Antonio, visit from 09:09 to 09:59, ; Bohanan's Prime Steak and Seafood, San Antonio, visit from 14:00 to 15:00, ; San Antonio Zoo, San Antonio, visit from 15:30 to 19:00, ; Pollos Asados Los Nortenos, San Antonio, visit from 19:30 to 20:45, "
+  }
+]

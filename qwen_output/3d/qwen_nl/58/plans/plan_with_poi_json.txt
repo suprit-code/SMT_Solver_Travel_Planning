@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Indianapolis",
+    "transportation": "Flight Number: F0035972, from Denver to Indianapolis, Departure Time: 11:57, Arrival Time: 16:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bazbeaux Pizza, Indianapolis",
+    "attraction": "Indiana War Memorial, Indianapolis",
+    "accommodation": "The Vintage Farmhouse, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Yard House, Indianapolis",
+    "lunch": "Thai Spice, Indianapolis",
+    "dinner": "The Library Restaurant and Pub, Indianapolis",
+    "attraction": "Indianapolis Zoo, Indianapolis",
+    "accommodation": "The Vintage Farmhouse, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "The Vintage Farmhouse, stay from 08:00 to 08:30, nearest transit: Greenwood Springs Blvd  - 1064, 9258.39m away; Yard House, visit from 08:55 to 09:35, nearest transit: Washington St & Illinois St, 224.79m away; Indianapolis Zoo, visit from 10:00 to 12:00, nearest transit: Washington St & White River Pkwy W Dr, 244.02m away; Thai Spice, visit from 13:35 to 14:15, nearest transit: County Line Rd at Greenwood Park Mall, 41.67m away; The Library Restaurant and Pub, visit from 19:00 to 19:40, nearest transit: Troy Ave - 5200 W, 842.53m away; The Vintage Farmhouse, stay from 20:05 to 08:00, nearest transit: Greenwood Springs Blvd  - 1064, 9258.39m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Denver",
+    "transportation": "Self-driving, from Indianapolis to Denver, duration: 1158.4233333333332, distance: 1745.8256, cost: 87",
+    "breakfast": "The Old Spaghetti Factory, Indianapolis",
+    "lunch": "Mama Carolla's Old Italian Restaurant, Indianapolis",
+    "dinner": "Lincoln Square Pancake House, Indianapolis",
+    "attraction": "Indianapolis Motor Speedway Museum, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Vintage Farmhouse, stay from 08:00 to 08:30, nearest transit: Greenwood Springs Blvd  - 1064, 9258.39m away; The Old Spaghetti Factory, visit from 08:55 to 09:35, nearest transit: Pennsylvania St & South St, 318.19m away; Indianapolis Motor Speedway Museum, visit from 10:00 to 12:00, nearest transit: 4500 W 16th St - Indy Motor Speedway, 293.75m away; Mama Carolla's Old Italian Restaurant, visit from 13:35 to 14:15, nearest transit: 54th Station NB, 438.56m away; Lincoln Square Pancake House, visit from 19:00 to 19:40, nearest transit: Illinois St & 23rd St, 188.41m away"
+  }
+]

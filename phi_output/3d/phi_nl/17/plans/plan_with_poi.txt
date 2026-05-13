@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Cincinnati",
+    "transportation": "Flight Number: F3150874, from Chicago to Cincinnati, Departure Time: 12:58, Arrival Time: 14:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Nada, Cincinnati",
+    "attraction": "-",
+    "accommodation": "The Ludlow Cottage: Minutes from Cincinnati, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "The Ludlow Cottage: Minutes from Cincinnati, stay from 15:26 to 15:56, nearest transit: RIVER RD 2789, 847.26m away; Nada, Cincinnati, visit from 20:45 to 22:02, ; The Ludlow Cottage: Minutes from Cincinnati, stay from 22:32 to 06:32, nearest transit: RIVER RD 2789, 847.26m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Cincinnati",
+    "transportation": "-",
+    "breakfast": "Ambar India, Cincinnati",
+    "lunch": "Boca, Cincinnati",
+    "dinner": "Oriental Wok, Cincinnati",
+    "attraction": "Eden Park, Cincinnati",
+    "accommodation": "The Ludlow Cottage: Minutes from Cincinnati, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "The Ludlow Cottage: Minutes from Cincinnati, stay from 07:02 to 07:32, nearest transit: RIVER RD 2789, 847.26m away; Ambar India, Cincinnati, visit from 08:02 to 09:59, ; Boca, Cincinnati, visit from 14:00 to 15:00, ; Eden Park, Cincinnati, visit from 15:30 to 19:00, ; Oriental Wok, Cincinnati, visit from 19:30 to 22:00, ; The Ludlow Cottage: Minutes from Cincinnati, stay from 22:30 to 06:30, nearest transit: RIVER RD 2789, 847.26m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Cincinnati to Chicago",
+    "transportation": "Flight Number: F3104420, from Cincinnati to Chicago, Departure Time: 18:04, Arrival Time: 18:03",
+    "breakfast": "Subito, Cincinnati",
+    "lunch": "The Eagle Food and Beer Hall, Cincinnati",
+    "dinner": "-",
+    "attraction": "Rhinegeist Brewery, Cincinnati",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Ludlow Cottage: Minutes from Cincinnati, stay from 07:00 to 07:30, nearest transit: RIVER RD 2789, 847.26m away; Subito, Cincinnati, visit from 08:00 to 08:50, ; Rhinegeist Brewery, Cincinnati, visit from 09:20 to 12:50, ; The Eagle Food and Beer Hall, Cincinnati, visit from 13:20 to 14:20, "
+  }
+]

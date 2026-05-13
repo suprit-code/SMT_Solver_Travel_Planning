@@ -1,0 +1,6 @@
+Destination cities: ['Tampa', 'Key West'],
+Transportation dates: ['2024-11-02', '2024-11-04', '2024-11-06'],
+Transportation methods between cities: ['Self-driving, from Greensboro to Tampa, duration: 732.8050000000001, distance: 1037.764, cost: 51', 'Self-driving, from Tampa to Key West, duration: 525.9166666666666, distance: 679.0339, cost: 33', 'Self-driving, from Key West to Greensboro, duration: 1117.3233333333333, distance: 1530.6701, cost: 76'],
+Restaurants (3 meals per day): ['-', '-', '-', "Jackson's Bistro Bar & Sushi, Tampa", 'The Capital Grille, Tampa', 'Bosphorous Turkish Cuisine - Soho, Tampa', 'Curry Leaves Indian Cuisine, Tampa', 'Yummy House China Bistro, Tampa', 'Besito Mexican, Tampa', "Frita's Cuban Burger Cafe, Key West", 'Salute! On The Beach, Key West', "El Meson De Pepe's Restaurant & Bar, Key West", 'Key West Cuban Coffee Shop, Key West', 'The Flaming Buoy Filet Co., Key West', 'Moondog Cafe & Bakery, Key West'],
+Attractions (1 per day): ['-', 'The Florida Aquarium, Tampa', 'ZooTampa At Lowry Park, Tampa', 'Florida Keys Eco-Discovery Center, Key West', 'Fort Zachary Taylor Historic State Park, Key West'],
+Accommodations (1 per city): ['2 Blocks from Bucs Stadium, Tampa', 'Old Town - Room Opens to Pool and Garden, Key West']

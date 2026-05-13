@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Houston",
+    "transportation": "Flight Number: F3451633, from Boston to Houston, Departure Time: 15:22, Arrival Time: 18:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Houston Restaurant, Houston",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 19:17 to 19:47, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston Restaurant, Houston, visit from 20:17 to 23:00, ; #4 Northwest Victory Single BR, stay from 23:30 to 07:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "The Original Ninfa's, Houston",
+    "lunch": "Houston White Co, Houston",
+    "dinner": "Houstons Bar and Grill, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 08:00 to 08:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; The Original Ninfa's, Houston, visit from 09:00 to 10:00, ; Houston Zoo, Houston, visit from 10:30 to 14:00, ; Houston White Co, Houston, visit from 14:30 to 15:30, ; Houstons Bar and Grill, Houston, visit from 20:45 to 22:00, ; #4 Northwest Victory Single BR, stay from 22:30 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Boston",
+    "transportation": "Flight Number: F1235872, from Houston to Boston, Departure Time: 18:15, Arrival Time: 23:01",
+    "breakfast": "Merrill & Houston's Steak Joint, Houston",
+    "lunch": "Houston's Restaurant, Houston",
+    "dinner": "-",
+    "attraction": "Discovery Green, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:00 to 07:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Merrill & Houston's Steak Joint, Houston, visit from 08:00 to 08:50, ; Discovery Green, Houston, visit from 09:20 to 12:50, ; Houston's Restaurant, Houston, visit from 13:20 to 14:20, "
+  }
+]

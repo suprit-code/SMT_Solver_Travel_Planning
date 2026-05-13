@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to San Diego",
+    "transportation": "Flight Number: F3936751, from Chicago to San Diego, Departure Time: 12:40, Arrival Time: 14:46",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "-",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 15:16 to 20:15, nearest transit: Ulric St & Tait St, 283.34m away; Cowboy Star, San Diego, visit from 20:45 to 22:00, ; No contact with host, separate, and close to town!, stay from 22:30 to 06:30, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Lou & Mickey's, San Diego",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "Sunset Cliffs Natural Park, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 07:00 to 07:30, nearest transit: Ulric St & Tait St, 283.34m away; Mimmo's, San Diego, visit from 08:00 to 08:50, ; Sunset Cliffs Natural Park, San Diego, visit from 09:20 to 14:00, ; Lou & Mickey's, San Diego, visit from 14:30 to 15:30, ; Ruth's Chris Steak House, San Diego, visit from 19:31 to 20:46, ; No contact with host, separate, and close to town!, stay from 23:04 to 07:04, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "-",
+    "dinner": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "attraction": "-",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 07:34 to 08:04, nearest transit: Ulric St & Tait St, 283.34m away; Din Tai Fung, San Diego, visit from 08:34 to 09:24, ; Peaceful and Cozy Studio, stay from 19:45 to 20:15, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Kru Contemporary Japanese Cuisine, Sacramento, visit from 20:45 to 22:00, ; Peaceful and Cozy Studio, stay from 22:30 to 06:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Ella Dining Room & Bar, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 08:08 to 08:38, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Ella Dining Room & Bar, Sacramento, visit from 09:08 to 10:00, ; California State Capitol Museum, Sacramento, visit from 10:30 to 14:00, ; Nopalitos, Sacramento, visit from 14:30 to 15:44, ; Grange Restaurant & Bar, Sacramento, visit from 19:45 to 21:00, ; Peaceful and Cozy Studio, stay from 21:30 to 05:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Fresno",
+    "transportation": "Taxi from Sacramento to Fresno, duration: 198.32166666666663, distance: 273.258, cost : 273.0",
+    "breakfast": "Zocalo, Sacramento",
+    "lunch": "The Firehouse Restaurant, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Room in peaceful neighborhood, Fresno",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 06:00 to 06:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Zocalo, Sacramento, visit from 08:00 to 08:50, ; Capitol Park, Sacramento, visit from 09:20 to 13:48, ; The Firehouse Restaurant, Sacramento, visit from 14:30 to 15:30, ; Room in peaceful neighborhood, stay from 19:48 to 22:00, nearest transit: NE PALM - PRINCETON, 232.55m away; Room in peaceful neighborhood, stay from 22:30 to 06:30, nearest transit: NE PALM - PRINCETON, 232.55m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Fresno",
+    "transportation": "-",
+    "breakfast": "Parma, Fresno",
+    "lunch": "Pismo's Coastal Grill, Fresno",
+    "dinner": "Fleming's Prime Steakhouse & Wine Bar, Fresno",
+    "attraction": "-",
+    "accommodation": "Room in peaceful neighborhood, Fresno",
+    "event": "-",
+    "point_of_interest_list": "Room in peaceful neighborhood, stay from 07:00 to 07:30, nearest transit: NE PALM - PRINCETON, 232.55m away; Parma, Fresno, visit from 08:00 to 08:50, ; Pismo's Coastal Grill, Fresno, visit from 13:20 to 14:20, ; Fleming's Prime Steakhouse & Wine Bar, Fresno, visit from 20:45 to 22:00, ; Room in peaceful neighborhood, stay from 22:30 to 06:30, nearest transit: NE PALM - PRINCETON, 232.55m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Fresno to Chicago",
+    "transportation": "Flight Number: F2417142, from Fresno to Chicago, Departure Time: 23:56, Arrival Time: 05:32",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "La Boulangerie French Bakery & Cafe, Fresno",
+    "attraction": "Fresno Chaffee Zoo, Fresno",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room in peaceful neighborhood, stay from 07:00 to 07:30, nearest transit: NE PALM - PRINCETON, 232.55m away; Fresno Chaffee Zoo, Fresno, visit from 09:00 to 12:30, ; La Boulangerie French Bakery & Cafe, Fresno, visit from 20:45 to 23:26, "
+  }
+]

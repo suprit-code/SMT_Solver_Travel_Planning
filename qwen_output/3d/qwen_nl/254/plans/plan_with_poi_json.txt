@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to Seattle",
+    "transportation": "Flight Number: F0292124, from Tucson to Seattle, Departure Time: 13:22, Arrival Time: 16:42",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "El Gaucho Seattle, Seattle",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "Cascade Room @ Judkins Park Inn - Next to Downtown, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "The Capital Grille, Seattle",
+    "lunch": "Spinasse, Seattle",
+    "dinner": "Matt's in the Market, Seattle",
+    "attraction": "Kerry Park, Seattle",
+    "accommodation": "Cascade Room @ Judkins Park Inn - Next to Downtown, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cascade Room @ Judkins Park Inn - Next to Downtown, stay from 08:00 to 08:30, nearest transit: 23rd Ave S & S Dearborn St, 142.12m away; The Capital Grille, visit from 08:55 to 09:35, nearest transit: 4th Ave & University, 41.04m away; Kerry Park, visit from 10:00 to 12:00, nearest transit: Queen Anne Ave N & W Highland Dr, 240.72m away; Spinasse, visit from 13:35 to 14:15, nearest transit: E Pine St & 15th Ave, 90.45m away; Matt's in the Market, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Pike St, 155.00m away; Cascade Room @ Judkins Park Inn - Next to Downtown, stay from 23:00 to 08:00, nearest transit: 23rd Ave S & S Dearborn St, 142.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Tucson",
+    "transportation": "Flight Number: F3819338, from Seattle to Tucson, Departure Time: 17:44, Arrival Time: 21:39",
+    "breakfast": "Il Terrazzo Carmine, Seattle",
+    "lunch": "Salty's On Alki Beach, Seattle",
+    "dinner": "Place Pigalle Restaurant and Bar, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cascade Room @ Judkins Park Inn - Next to Downtown, stay from 08:00 to 08:10, nearest transit: 23rd Ave S & S Dearborn St, 142.12m away; Il Terrazzo Carmine, visit from 08:35 to 08:48, nearest transit: Alaskan Way S & S Jackson St, 103.57m away; Hiram M. Chittenden Locks, visit from 09:13 to 11:13, nearest transit: NW 54th St & 30th Ave NW, 241.41m away; Salty's On Alki Beach, visit from 12:48 to 13:06, nearest transit: Harbor Ave SW & 2100 Block, 145.40m away; Place Pigalle Restaurant and Bar, visit from 17:06 to 17:19, nearest transit: 2nd Ave & Pike St, 154.30m away"
+  }
+]

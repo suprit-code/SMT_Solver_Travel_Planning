@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Helena to Durango",
+    "transportation": "Taxi from Helena to Durango, duration: 938.795, distance: 1407.4631000000002, cost : 1407.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Sleek, Modern Studio in the heart of downtown., Durango",
+    "event": "-",
+    "point_of_interest_list": "Sleek, Modern Studio in the heart of downtown., stay from 22:40 to 23:10, nearest transit: Main Ave. & 11th St., 56.06m away; Sleek, Modern Studio in the heart of downtown., stay from 23:40 to 07:40, nearest transit: Main Ave. & 11th St., 56.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Durango",
+    "transportation": "-",
+    "breakfast": "Durango's Mexican Restaurant, Durango",
+    "lunch": "81301 Coffee House and Roasters, Durango",
+    "dinner": "College Drive Cafe, Durango",
+    "attraction": "San Juan National Forest, Durango",
+    "accommodation": "Sleek, Modern Studio in the heart of downtown., Durango",
+    "event": "-",
+    "point_of_interest_list": "Sleek, Modern Studio in the heart of downtown., stay from 08:10 to 08:40, nearest transit: Main Ave. & 11th St., 56.06m away; Durango's Mexican Restaurant, Durango, visit from 09:10 to 10:00, ; San Juan National Forest, Durango, visit from 10:30 to 14:00, ; 81301 Coffee House and Roasters, Durango, visit from 14:30 to 15:30, ; College Drive Cafe, Durango, visit from 19:45 to 21:00, ; Sleek, Modern Studio in the heart of downtown., stay from 21:30 to 05:30, nearest transit: Main Ave. & 11th St., 56.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Durango to Colorado Springs",
+    "transportation": "Taxi from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost : 506.0",
+    "breakfast": "Durango Joe's Coffee on College Dr., Durango",
+    "lunch": "Zia Taqueria, Durango",
+    "dinner": "-",
+    "attraction": "The Colorado Trail, Durango",
+    "accommodation": "Private, Spacious Basement  Suite in N CO Springs, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Sleek, Modern Studio in the heart of downtown., stay from 06:00 to 06:30, nearest transit: Main Ave. & 11th St., 56.06m away; Durango Joe's Coffee on College Dr., Durango, visit from 08:00 to 08:50, ; The Colorado Trail, Durango, visit from 09:20 to 12:50, ; Zia Taqueria, Durango, visit from 13:20 to 14:20, ; Private, Spacious Basement  Suite in N CO Springs, stay from 21:54 to 22:24, nearest transit: Research/Telstar, 10996.28m away; Private, Spacious Basement  Suite in N CO Springs, stay from 22:54 to 06:54, nearest transit: Research/Telstar, 10996.28m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Pizzeria Rustica, Colorado Springs",
+    "lunch": "Mountain Shadows Restaurant, Colorado Springs",
+    "dinner": "La Bella Vita, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "Private, Spacious Basement  Suite in N CO Springs, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Private, Spacious Basement  Suite in N CO Springs, stay from 07:24 to 07:54, nearest transit: Research/Telstar, 10996.28m away; Pizzeria Rustica, Colorado Springs, visit from 09:10 to 10:00, ; Garden of the Gods, Colorado Springs, visit from 10:30 to 14:00, ; Mountain Shadows Restaurant, Colorado Springs, visit from 14:30 to 15:30, ; La Bella Vita, Colorado Springs, visit from 19:31 to 20:46, ; Private, Spacious Basement  Suite in N CO Springs, stay from 21:16 to 05:16, nearest transit: Research/Telstar, 10996.28m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Colorado Springs to Helena",
+    "transportation": "Taxi from Colorado Springs to Helena, duration: 879.4416666666667, distance: 1384.2815, cost : 1384.0",
+    "breakfast": "Urban Egg A Daytime Eatery, Colorado Springs",
+    "lunch": "Restaurant 1858, Colorado Springs",
+    "dinner": "Paravicini's Italian Bistro, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private, Spacious Basement  Suite in N CO Springs, stay from 06:00 to 06:30, nearest transit: Research/Telstar, 10996.28m away; Urban Egg A Daytime Eatery, Colorado Springs, visit from 08:00 to 08:50, ; Restaurant 1858, Colorado Springs, visit from 12:51 to 13:51, ; Seven Falls, Colorado Springs, visit from 14:21 to 17:51, ; Paravicini's Italian Bistro, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

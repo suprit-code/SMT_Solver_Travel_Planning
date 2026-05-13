@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to San Francisco",
+    "transportation": "Flight Number: F3816303, from Boise to San Francisco, Departure Time: 07:36, Arrival Time: 08:22",
+    "breakfast": "-",
+    "lunch": "Good Mong Kok Bakery, San Francisco",
+    "dinner": "Waterbar, San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 08:52 to 09:22, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Good Mong Kok Bakery, San Francisco, visit from 12:00 to 14:30, ; Lands End, San Francisco, visit from 15:00 to 18:30, ; Waterbar, San Francisco, visit from 19:00 to 22:50, ; Spacious and charming 1bd apartment on Ocean Beach, stay from 23:20 to 07:20, nearest transit: Civic Center BART (9th and Market), 8766.73m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Capital Restaurant, San Francisco",
+    "lunch": "Kokkari Estiatorio, San Francisco",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 07:50 to 08:20, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Capital Restaurant, San Francisco, visit from 08:50 to 09:40, ; Golden Gate Park, San Francisco, visit from 10:10 to 13:40, ; Kokkari Estiatorio, San Francisco, visit from 14:10 to 15:10, ; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 19:11 to 20:26, ; Spacious and charming 1bd apartment on Ocean Beach, stay from 20:56 to 04:56, nearest transit: Civic Center BART (9th and Market), 8766.73m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Boise",
+    "transportation": "Flight Number: F0467960, from San Francisco to Boise, Departure Time: 20:11, Arrival Time: 22:48",
+    "breakfast": "Morton's The Steakhouse, San Francisco",
+    "lunch": "Mo's Grill, San Francisco",
+    "dinner": "-",
+    "attraction": "Japanese Tea Garden, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Morton's The Steakhouse, San Francisco, visit from 08:00 to 08:50, ; Mo's Grill, San Francisco, visit from 12:51 to 13:51, ; Japanese Tea Garden, San Francisco, visit from 14:21 to 19:41, "
+  }
+]

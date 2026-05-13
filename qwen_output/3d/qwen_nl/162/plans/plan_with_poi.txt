@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to New York",
+    "transportation": "Flight Number: F3758802, from Sarasota to New York, Departure Time: 21:51, Arrival Time: 00:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 00:48 to 01:18, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Church view bedroom in Harlem brownstone, stay from 01:48 to 08:00, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Manhatta, New York",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "-",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 08:30 to 09:00, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Manhatta, New York, visit from 09:38 to 10:28, ; Times Square Diner, New York, visit from 14:29 to 15:29, ; Del Frisco's Grille, New York, visit from 19:30 to 20:45, ; Church view bedroom in Harlem brownstone, stay from 21:15 to 05:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Sarasota",
+    "transportation": "Flight Number: F0838385, from New York to Sarasota, Departure Time: 16:07, Arrival Time: 19:24",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Rainbow Room, New York",
+    "dinner": "-",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 06:00 to 06:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Peak Restaurant & Bar, New York, visit from 08:00 to 08:50, ; New York Public Library, New York, visit from 09:20 to 12:50, ; Rainbow Room, New York, visit from 14:30 to 15:30, "
+  }
+]

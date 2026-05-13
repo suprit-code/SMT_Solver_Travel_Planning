@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Francisco",
+    "transportation": "Flight Number: F2851309, from Miami to San Francisco, Departure Time: 23:51, Arrival Time: 02:41",
+    "breakfast": "Capital Restaurant, San Francisco",
+    "lunch": "Waterbar, San Francisco",
+    "dinner": "Fog Harbor Fish House, San Francisco",
+    "attraction": "Ghirardelli Square, San Francisco",
+    "accommodation": "#3 SF 24th ave& kirkham st  King master bedroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "Kokkari Estiatorio, San Francisco",
+    "dinner": "Scala's Bistro, San Francisco",
+    "attraction": "Exploratorium, San Francisco",
+    "accommodation": "#3 SF 24th ave& kirkham st  King master bedroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "#3 SF 24th ave& kirkham st  King master bedroom, stay from 08:00 to 08:30, nearest transit: Civic Center BART (9th and Market), 6053.71m away; Quince, visit from 09:00 to 09:40, nearest transit: Mission @ Spear (Embarcadero), 994.70m away; Exploratorium, visit from 10:10 to 12:10, nearest transit: Mission @ Spear (Embarcadero), 1042.01m away; Kokkari Estiatorio, visit from 13:40 to 14:20, nearest transit: Mission @ Spear (Embarcadero), 718.77m away; Scala's Bistro, visit from 19:00 to 19:40, nearest transit: Powell @ 22 4th, 451.00m away; #3 SF 24th ave& kirkham st  King master bedroom, stay from 23:00 to 08:00, nearest transit: Civic Center BART (9th and Market), 6053.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Miami",
+    "transportation": "Flight Number: F3706059, from San Francisco to Miami, Departure Time: 13:14, Arrival Time: 21:15",
+    "breakfast": "City View Restaurant, San Francisco",
+    "lunch": "Sears Fine Foods, San Francisco",
+    "dinner": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "attraction": "Ferry Building Marketplace, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

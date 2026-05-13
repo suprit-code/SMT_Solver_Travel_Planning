@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Hartford",
+    "transportation": "Flight Number: F1848894, from Denver to Hartford, Departure Time: 18:03, Arrival Time: 23:31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Loft - Queen Anne Row House in a historic district, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Loft - Queen Anne Row House in a historic district, stay from 23:56 to 00:02, nearest transit: Hartford, 1037.54m away; Loft - Queen Anne Row House in a historic district, stay from 00:27 to 08:00, nearest transit: Hartford, 1037.54m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "Max's Oyster Bar, Hartford",
+    "lunch": "Max Downtown, Hartford",
+    "dinner": "Hartford House, Hartford",
+    "attraction": "Hartford Stage, Hartford",
+    "accommodation": "Loft - Queen Anne Row House in a historic district, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Loft - Queen Anne Row House in a historic district, stay from 08:00 to 08:30, nearest transit: Hartford, 1037.54m away; Max's Oyster Bar, visit from 08:55 to 09:35, nearest transit: Hartford, 5144.93m away; Hartford Stage, visit from 10:00 to 12:00, nearest transit: Hartford, 624.67m away; Max Downtown, visit from 13:35 to 14:15, nearest transit: Hartford, 465.48m away; Hartford House, visit from 19:00 to 19:40, nearest transit: Windsor, 13097370.54m away; Loft - Queen Anne Row House in a historic district, stay from 20:05 to 08:00, nearest transit: Hartford, 1037.54m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Denver",
+    "transportation": "Flight Number: F1064155, from Hartford to Denver, Departure Time: 10:43, Arrival Time: 12:59",
+    "breakfast": "Wissota Chophouse - Hartford, Hartford",
+    "lunch": "The Capital Grille, Hartford",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Loft - Queen Anne Row House in a historic district, stay from 08:00 to 08:10, nearest transit: Hartford, 1037.54m away; Wissota Chophouse - Hartford, visit from 08:35 to 08:48, nearest transit: New Haven Union Station, 1291600.35m away; The Capital Grille, visit from 10:05 to 10:18, nearest transit: Hartford, 1146.76m away"
+  }
+]

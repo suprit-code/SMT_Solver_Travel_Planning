@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Fresno'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F1596568, from El Paso to San Diego, Departure Time: 14:37, Arrival Time: 15:16', 'Flight Number: F0591323, from San Diego to Fresno, Departure Time: 19:47, Arrival Time: 20:51', 'taxi, from Fresno to El Paso, duration: 1090.215, distance: 1640.2509, cost: 1640'],
+Restaurants (3 meals per day): ['-', '-', 'Cafe Coyote, San Diego', 'Dockside 1953, San Diego', "Filippi's Pizza Grotto Little Italy, San Diego", 'Barbusa, San Diego', "Mimmo's, San Diego", 'El Agave Restaurant & Tequileria, San Diego', "Chef Paul's Cafe, Fresno", 'Taqueria Don Pepe, Fresno', 'Ampersand Ice Cream, Fresno', "Castillo's Mexican Food, Fresno", 'Westwoods BBQ and Spice Co., Fresno', 'The Annex Kitchen, Fresno', 'Fig Garden Village, Fresno'],
+Attractions (1 per day): ['San Diego Zoo, San Diego', 'Birch Aquarium at Scripps, San Diego', 'SeaWorld, San Diego', 'Kearney Mansion Museum & Gallery, Fresno', 'Fresno Chaffee Zoo, Fresno'],
+Accommodations (1 per city): ['Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego', '~The Sierra~, Fresno']

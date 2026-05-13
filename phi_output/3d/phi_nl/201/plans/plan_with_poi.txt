@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Seattle",
+    "transportation": "Flight Number: F1066385, from Denver to Seattle, Departure Time: 15:56, Arrival Time: 17:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 18:18 to 18:48, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 19:18 to 20:33, ; Cozy room near UW, stay from 21:03 to 05:03, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Vons 1000 Spirits, Seattle",
+    "dinner": "The Pike Pub and Brewery, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 08:05, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Noi Thai Cuisine, Seattle, visit from 08:35 to 09:25, ; Hiram M. Chittenden Locks, Seattle, visit from 09:55 to 13:25, ; Vons 1000 Spirits, Seattle, visit from 13:59 to 14:59, ; The Pike Pub and Brewery, Seattle, visit from 19:00 to 20:15, ; Cozy room near UW, stay from 20:45 to 04:45, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Denver",
+    "transportation": "Flight Number: F2234843, from Seattle to Denver, Departure Time: 14:39, Arrival Time: 18:02",
+    "breakfast": "-",
+    "lunch": "Purple Cafe and Wine Bar, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Seattle Aquarium, Seattle, visit from 09:00 to 12:30, ; Purple Cafe and Wine Bar, Seattle, visit from 13:00 to 14:00, "
+  }
+]

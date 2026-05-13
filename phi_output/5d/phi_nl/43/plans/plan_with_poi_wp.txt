@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to San Diego",
+    "transportation": "Flight Number: F0590668, from Boise to San Diego, Departure Time: 12:00, Arrival Time: 13:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mister A'S, San Diego",
+    "attraction": "Sunset Cliffs Natural Park, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 13:43 to 14:13, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Sunset Cliffs Natural Park, San Diego, visit from 14:43 to 18:13, ; Mister A'S, San Diego, visit from 19:45 to 21:00, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 21:30 to 05:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Cafe Coyote, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 06:00 to 06:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Din Tai Fung, San Diego, visit from 08:30 to 10:00, ; Cabrillo National Monument, San Diego, visit from 10:30 to 14:00, ; Cafe Coyote, San Diego, visit from 14:30 to 16:44, ; Lou & Mickey's, San Diego, visit from 20:45 to 22:51, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 23:21 to 07:21, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F0076602, from San Diego to Sacramento, Departure Time: 08:51, Arrival Time: 10:20",
+    "breakfast": "-",
+    "lunch": "Pilothouse Restaurant on the Delta King, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "Old Sacramento, Sacramento",
+    "accommodation": "Sac City Loft, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 07:51 to 08:21, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Sac City Loft, stay from 10:50 to 11:20, nearest transit: 21ST ST & P ST (NB), 176.77m away; Pilothouse Restaurant on the Delta King, Sacramento, visit from 12:00 to 13:00, ; Old Sacramento, Sacramento, visit from 15:00 to 18:30, ; Grange Restaurant & Bar, Sacramento, visit from 19:00 to 20:15, ; Sac City Loft, stay from 20:45 to 04:45, nearest transit: 21ST ST & P ST (NB), 176.77m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "lunch": "The Porch Restaurant and Bar, Sacramento",
+    "dinner": "Moxie, Sacramento",
+    "attraction": "California State Railroad Museum, Sacramento",
+    "accommodation": "Sac City Loft, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Sac City Loft, stay from 06:00 to 06:30, nearest transit: 21ST ST & P ST (NB), 176.77m away; Kru Contemporary Japanese Cuisine, Sacramento, visit from 08:41 to 09:31, ; California State Railroad Museum, Sacramento, visit from 10:01 to 13:31, ; The Porch Restaurant and Bar, Sacramento, visit from 14:01 to 15:01, ; Moxie, Sacramento, visit from 19:02 to 21:34, ; Sac City Loft, stay from 22:04 to 06:04, nearest transit: 21ST ST & P ST (NB), 176.77m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Boise",
+    "transportation": "Flight Number: F2401688, from Sacramento to Boise, Departure Time: 07:34, Arrival Time: 09:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sac City Loft, stay from 06:34 to 07:04, nearest transit: 21ST ST & P ST (NB), 176.77m away"
+  }
+]

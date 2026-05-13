@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Amarillo",
+    "transportation": "Taxi from Memphis to Amarillo, duration: 751.4483333333334, distance: 1165.9254, cost : 1165.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 19:01 to 20:15, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Golden Light Cafe & Cantina, Amarillo, visit from 20:45 to 23:09, ; Relaxing Place to Stay with Guest Living Room!, stay from 23:39 to 07:39, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Texas Roadhouse, Amarillo",
+    "lunch": "Metropolitan, Amarillo",
+    "dinner": "Macaroni Joes, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:09 to 08:39, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Texas Roadhouse, Amarillo, visit from 09:09 to 10:00, ; Cadillac Ranch, Amarillo, visit from 10:30 to 14:00, ; Metropolitan, Amarillo, visit from 14:30 to 16:44, ; Macaroni Joes, Amarillo, visit from 20:45 to 23:30, ; Relaxing Place to Stay with Guest Living Room!, stay from 00:00 to 08:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F3933152, from Amarillo to Houston, Departure Time: 12:55, Arrival Time: 14:29",
+    "breakfast": "Six Car Pub & Brewery, Amarillo",
+    "lunch": "-",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:30 to 09:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Six Car Pub & Brewery, Amarillo, visit from 09:30 to 12:25, ; #4 Northwest Victory Single BR, stay from 14:59 to 15:29, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Brennan's of Houston, Houston, visit from 19:00 to 22:00, ; #4 Northwest Victory Single BR, stay from 22:30 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Brenner's on the Bayou, Houston",
+    "dinner": "Houstons Bar and Grill, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:00 to 07:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Kenny & Ziggy's New York Deli, Houston, visit from 08:00 to 10:00, ; Houston Zoo, Houston, visit from 10:30 to 14:00, ; Brenner's on the Bayou, Houston, visit from 14:30 to 16:44, ; Houstons Bar and Grill, Houston, visit from 20:45 to 23:09, ; #4 Northwest Victory Single BR, stay from 23:39 to 07:39, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Memphis",
+    "transportation": "Flight Number: F3438123, from Houston to Memphis, Departure Time: 19:52, Arrival Time: 21:22",
+    "breakfast": "Houston White Co, Houston",
+    "lunch": "The Breakfast Klub, Houston",
+    "dinner": "-",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 08:09 to 08:39, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston White Co, Houston, visit from 09:09 to 09:59, ; The Breakfast Klub, Houston, visit from 14:00 to 15:00, ; Hermann Park, Houston, visit from 15:30 to 19:22, "
+  }
+]

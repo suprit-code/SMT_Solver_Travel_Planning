@@ -1,0 +1,11 @@
+
+--- JOB 232 FAILED ---
+Error: If() missing 1 required positional argument: 'c'
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 58, in <module>
+TypeError: If() missing 1 required positional argument: 'c'
+
+----------------------------------------

@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F0907413, from Las Vegas to San Diego, Departure Time: 16:01, Arrival Time: 17:10', 'Flight Number: F1613483, from San Diego to Sacramento, Departure Time: 18:27, Arrival Time: 19:53', 'Flight Number: F3981085, from Sacramento to Las Vegas, Departure Time: 17:23, Arrival Time: 18:40'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Juniper and Ivy, San Diego', 'Ironside Fish & Oyster, San Diego', "Mimmo's, San Diego", 'Las Hadas Grill, San Diego', 'Morning Glory, San Diego', 'Bangkok @12 Thai Restaurant, Sacramento', 'The Firehouse Restaurant, Sacramento', 'The Waterboy, Sacramento', 'Grange Restaurant & Bar, Sacramento', 'Aviators Restaurant, Sacramento', "Dawson's Steakhouse, Sacramento", "Scott's Seafood on The River, Sacramento"],
+Attractions (1 per day): ['Birch Aquarium at Scripps, San Diego', 'Cabrillo National Monument, San Diego', 'SeaWorld, San Diego', 'California State Capitol Museum, Sacramento', 'Capitol Park, Sacramento'],
+Accommodations (1 per city): ['Hilltop cabin retreat with lake & mountain views, San Diego', 'Peaceful and Cozy Studio, Sacramento']

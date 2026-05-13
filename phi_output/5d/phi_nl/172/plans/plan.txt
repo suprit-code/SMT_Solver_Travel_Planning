@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-05', '2024-11-07', '2024-11-09'],
+Transportation methods between cities: ['Flight Number: F3438102, from Washington to San Diego, Departure Time: 10:49, Arrival Time: 13:21', 'Flight Number: F1764861, from San Diego to Sacramento, Departure Time: 06:53, Arrival Time: 08:33', 'Flight Number: F1811260, from Sacramento to Washington, Departure Time: 22:33, Arrival Time: 06:05'],
+Restaurants (3 meals per day): ['-', '-', 'Pacific Beach AleHouse, San Diego', 'Covewood Restaurant, San Diego', 'Morning Glory, San Diego', 'World Famous, San Diego', "Frank Fat's Restaurant, Sacramento", 'Revival, Sacramento', 'Nopalitos, Sacramento', 'Bacon & Butter, Sacramento', 'Firestone Public House, Sacramento', 'Tower Cafe, Sacramento', '-', '-', '-'],
+Attractions (1 per day): ['Sunset Cliffs Natural Park, San Diego', 'Cabrillo National Monument, San Diego', 'Old Sacramento, Sacramento', 'California State Capitol Museum, Sacramento', '-'],
+Accommodations (1 per city): ['Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego', '1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento']

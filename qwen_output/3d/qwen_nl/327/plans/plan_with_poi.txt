@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Nashville",
+    "transportation": "Taxi from Sioux Falls to Nashville, duration: 1003.3666666666668, distance: 1481.1742, cost : 1481.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 23:13 to 23:43, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 00:13 to 08:00, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Skull's Rainbow Room, Nashville",
+    "lunch": "Henley, Nashville",
+    "dinner": "The Mockingbird, Nashville",
+    "attraction": "-",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 08:30 to 09:00, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Skull's Rainbow Room, Nashville, visit from 09:39 to 10:29, ; Henley, Nashville, visit from 14:30 to 15:30, ; The Mockingbird, Nashville, visit from 19:31 to 22:00, ; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 22:30 to 06:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Sioux Falls",
+    "transportation": "Self-driving from Nashville to Sioux Falls, duration: 1007.0416666666666, distance: 1481.2943, cost : 74.0",
+    "breakfast": "The Farm House, Nashville",
+    "lunch": "Old Hickory Steakhouse, Nashville",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 07:00 to 07:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; The Farm House, Nashville, visit from 08:00 to 08:50, ; Belmont Mansion, Nashville, visit from 09:20 to 12:50, ; Old Hickory Steakhouse, Nashville, visit from 13:20 to 14:20, ; Aquarium Restaurant, Nashville, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Hartford",
+    "transportation": "Taxi from Washington to Hartford, duration: 426.4883333333333, distance: 540.9555, cost : 540.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Hartford Stage, Hartford",
+    "accommodation": "Private Spacious Suite with Private entrance!, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Private Spacious Suite with Private entrance!, stay from 14:30 to 15:00, nearest transit: Windsor, 9161.82m away; Hartford Stage, Hartford, visit from 15:30 to 23:30, ; Private Spacious Suite with Private entrance!, stay from 00:00 to 08:00, nearest transit: Windsor, 9161.82m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "Max Downtown, Hartford",
+    "lunch": "Hartford Coffee Co., Hartford",
+    "dinner": "Hartford House, Hartford",
+    "attraction": "-",
+    "accommodation": "Private Spacious Suite with Private entrance!, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Private Spacious Suite with Private entrance!, stay from 08:30 to 09:00, nearest transit: Windsor, 9161.82m away; Max Downtown, Hartford, visit from 09:39 to 10:29, ; Hartford Coffee Co., Hartford, visit from 14:30 to 16:44, ; Hartford House, Hartford, visit from 20:45 to 22:00, ; Private Spacious Suite with Private entrance!, stay from 22:30 to 08:00, nearest transit: Windsor, 9161.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Washington",
+    "transportation": "Flight Number: F1400946, from Hartford to Washington, Departure Time: 11:44, Arrival Time: 13:10",
+    "breakfast": "The Capital Grille, Hartford",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Spacious Suite with Private entrance!, stay from 08:30 to 09:00, nearest transit: Windsor, 9161.82m away; The Capital Grille, Hartford, visit from 09:30 to 10:20, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Fort Wayne",
+    "transportation": "Self-driving from Charlotte to Fort Wayne, duration: 696.1800000000001, distance: 929.145, cost : 46.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Bluebird Restaurant, Fort Wayne",
+    "attraction": "-",
+    "accommodation": "A Hidden Oasis-Modern Studio Apartment, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "A Hidden Oasis-Modern Studio Apartment, stay from 19:45 to 20:15, nearest transit: N. Anthony Blvd. at Kenwood Dr. (SB), 136.2m away; The Bluebird Restaurant, Fort Wayne, visit from 20:45 to 22:00, ; A Hidden Oasis-Modern Studio Apartment, stay from 22:30 to 06:30, nearest transit: N. Anthony Blvd. at Kenwood Dr. (SB), 136.2m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Fort Wayne",
+    "transportation": "-",
+    "breakfast": "Wu's Fine Chinese Cuisine, Fort Wayne",
+    "lunch": "Fort Wayne's Famous Coney Island, Fort Wayne",
+    "dinner": "Casa Ristorante, Fort Wayne",
+    "attraction": "Fort Wayne Museum of Art, Fort Wayne",
+    "accommodation": "A Hidden Oasis-Modern Studio Apartment, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "A Hidden Oasis-Modern Studio Apartment, stay from 07:00 to 07:44, nearest transit: N. Anthony Blvd. at Kenwood Dr. (SB), 136.2m away; Wu's Fine Chinese Cuisine, Fort Wayne, visit from 08:14 to 09:04, ; Fort Wayne's Famous Coney Island, Fort Wayne, visit from 13:05 to 14:05, ; Fort Wayne Museum of Art, Fort Wayne, visit from 14:35 to 18:30, ; Casa Ristorante, Fort Wayne, visit from 19:00 to 20:15, ; A Hidden Oasis-Modern Studio Apartment, stay from 20:45 to 04:45, nearest transit: N. Anthony Blvd. at Kenwood Dr. (SB), 136.2m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Fort Wayne to Charlotte",
+    "transportation": "Self-driving from Fort Wayne to Charlotte, duration: 697.2533333333333, distance: 928.2367, cost : 46.0",
+    "breakfast": "-",
+    "lunch": "Los cabos mexican grill, Fort Wayne",
+    "dinner": "Copper Spoon, Fort Wayne",
+    "attraction": "Fort Wayne Firefighters Museum, Fort Wayne",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A Hidden Oasis-Modern Studio Apartment, stay from 06:00 to 06:30, nearest transit: N. Anthony Blvd. at Kenwood Dr. (SB), 136.2m away; Fort Wayne Firefighters Museum, Fort Wayne, visit from 09:19 to 13:29, ; Los cabos mexican grill, Fort Wayne, visit from 13:59 to 14:59, ; Copper Spoon, Fort Wayne, visit from 19:00 to 20:15, "
+  }
+]

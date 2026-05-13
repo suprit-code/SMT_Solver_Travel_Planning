@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Montgomery to Atlanta",
+    "transportation": "Taxi from Montgomery to Atlanta, duration: 179.01166666666668, distance: 259.3936, cost : 259.0",
+    "breakfast": "-",
+    "lunch": "No Mas! Cantina, Atlanta",
+    "dinner": "-",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "New Sky Views HighRise, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 11:30 to 12:00, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away; No Mas! Cantina, Atlanta, visit from 12:30 to 13:30, ; Zoo Atlanta, Atlanta, visit from 15:30 to 23:09, ; New Sky Views HighRise, stay from 23:39 to 07:39, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Bone's Restaurant, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "The Sun Dial Restaurant, Bar & View, Atlanta",
+    "attraction": "-",
+    "accommodation": "New Sky Views HighRise, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 08:09 to 08:39, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away; Bone's Restaurant, Atlanta, visit from 09:09 to 09:59, ; Cafe Agora, Atlanta, visit from 14:00 to 15:00, ; The Sun Dial Restaurant, Bar & View, Atlanta, visit from 19:30 to 20:45, ; New Sky Views HighRise, stay from 21:30 to 05:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Montgomery",
+    "transportation": "Taxi from Atlanta to Montgomery, duration: 178.06833333333333, distance: 258.9032, cost : 258.0",
+    "breakfast": "St. Cecilia, Atlanta",
+    "lunch": "Nikolai's Roof, Atlanta",
+    "dinner": "-",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 06:00 to 06:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away; St. Cecilia, Atlanta, visit from 08:00 to 08:50, ; Nikolai's Roof, Atlanta, visit from 12:51 to 13:51, ; Georgia Aquarium, Atlanta, visit from 14:21 to 17:51, "
+  }
+]

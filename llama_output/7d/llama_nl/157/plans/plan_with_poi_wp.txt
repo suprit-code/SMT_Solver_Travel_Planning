@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Nashville",
+    "transportation": "Flight Number: F1935396, from Dallas to Nashville, Departure Time: 12:49, Arrival Time: 14:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Hand Cut Chophouse, Nashville",
+    "attraction": "-",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 15:06 to 20:15, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Hand Cut Chophouse, Nashville, visit from 20:45 to 22:00, ; Private Entrance near Airport in Safe neighborhood, stay from 22:30 to 06:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Adele's Nashville, Nashville",
+    "lunch": "1 Kitchen, Nashville",
+    "dinner": "Pelato, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 07:00 to 07:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Adele's Nashville, Nashville, visit from 08:35 to 10:00, ; Cheekwood, Nashville, visit from 10:30 to 14:00, ; 1 Kitchen, Nashville, visit from 14:30 to 15:30, ; Pelato, Nashville, visit from 19:31 to 20:46, ; Private Entrance near Airport in Safe neighborhood, stay from 21:16 to 07:06, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "The Stillery, Nashville",
+    "lunch": "-",
+    "dinner": "Bravas, Bristol",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Comfortable and cozy in the heart of Bristol, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 07:36 to 08:06, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; The Stillery, Nashville, visit from 08:36 to 09:26, ; Centennial Park, Nashville, visit from 09:56 to 13:26, ; Comfortable and cozy in the heart of Bristol, stay from 19:45 to 20:15, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Bravas, Bristol, visit from 20:45 to 22:00, ; Comfortable and cozy in the heart of Bristol, stay from 22:30 to 06:30, nearest transit: Kroger-Gate City Hwy, 4622.18m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Cafe Bristol, Bristol",
+    "lunch": "Little Bristol Beach Bar, Bristol",
+    "dinner": "Eat a Pitta, Bristol",
+    "attraction": "Clifton Suspension Bridge, Bristol",
+    "accommodation": "Comfortable and cozy in the heart of Bristol, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Comfortable and cozy in the heart of Bristol, stay from 07:00 to 07:30, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Cafe Bristol, Bristol, visit from 08:00 to 08:50, ; Clifton Suspension Bridge, Bristol, visit from 09:20 to 14:00, ; Little Bristol Beach Bar, Bristol, visit from 14:30 to 15:30, ; Eat a Pitta, Bristol, visit from 20:45 to 22:00, ; Comfortable and cozy in the heart of Bristol, stay from 22:30 to 06:30, nearest transit: Kroger-Gate City Hwy, 4622.18m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Baba Ganoush Kitchen - Jerusalem Falafel, Bristol",
+    "lunch": "The Bristol Trader, Bristol",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "Cycle the City, Bristol",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Comfortable and cozy in the heart of Bristol, stay from 07:00 to 07:30, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Baba Ganoush Kitchen - Jerusalem Falafel, Bristol, visit from 08:00 to 08:50, ; Cycle the City, Bristol, visit from 09:20 to 13:06, ; The Bristol Trader, Bristol, visit from 13:36 to 14:36, ; Cozy Stylish Studio, stay from 19:45 to 20:15, nearest transit: BONNOAK, 4223.21m away; Uncle Larry's Restaurant, Chattanooga, visit from 20:45 to 22:21, ; Cozy Stylish Studio, stay from 22:51 to 06:51, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "lunch": "Firebirds Wood Fired Grill, Chattanooga",
+    "dinner": "Hickory Pit Bar-B-Que, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 07:21 to 07:51, nearest transit: BONNOAK, 4223.21m away; The Purple Daisy Picnic Cafe, Chattanooga, visit from 08:21 to 09:59, ; Firebirds Wood Fired Grill, Chattanooga, visit from 14:00 to 15:00, ; Tennessee Aquarium, Chattanooga, visit from 15:30 to 19:00, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 20:45 to 22:00, ; Cozy Stylish Studio, stay from 22:30 to 07:03, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Dallas",
+    "transportation": "Flight Number: F2121956, from Chattanooga to Dallas, Departure Time: 18:17, Arrival Time: 19:19",
+    "breakfast": "-",
+    "lunch": "Stir, Chattanooga",
+    "dinner": "-",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 07:33 to 08:03, nearest transit: BONNOAK, 4223.21m away; Coolidge Park, Chattanooga, visit from 09:00 to 12:30, ; Stir, Chattanooga, visit from 13:24 to 14:24, "
+  }
+]

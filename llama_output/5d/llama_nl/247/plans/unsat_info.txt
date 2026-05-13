@@ -1,0 +1,4 @@
+not ok
+Unsatisfiable core:
+grilltype restaurant
+grilltype restaurant is visited

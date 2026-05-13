@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Spokane to Boise",
+    "transportation": "Self-driving, from Spokane to Boise, duration: 468.525, distance: 678.2546, cost: 33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Charming and Convenient, Boise",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 16:13 to 16:33, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Charming and Convenient, stay from 16:58 to 08:00, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Boise",
+    "transportation": "-",
+    "breakfast": "Flying M Coffee House, Boise",
+    "lunch": "Chiang Mai House Thai, Boise",
+    "dinner": "Guido's Original New York Style Pizza Downtown, Boise",
+    "attraction": "Boise River Greenbelt, Boise",
+    "accommodation": "Charming and Convenient, Boise",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 08:00 to 08:30, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Flying M Coffee House, visit from 08:55 to 09:35, nearest transit: W Idaho St & N 5th St NEC, 33.92m away; Boise River Greenbelt, visit from 10:00 to 12:00, nearest transit: E Warm Springs Ave & N Haines St SEC, 382.22m away; Chiang Mai House Thai, visit from 13:35 to 14:15, nearest transit: N Orchard St & W Emerald St NWC, 78.46m away; Guido's Original New York Style Pizza Downtown, visit from 19:00 to 19:40, nearest transit: W Idaho St & N 5th St NEC, 44.09m away; Charming and Convenient, stay from 20:05 to 08:00, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Boise to Spokane",
+    "transportation": "Self-driving, from Boise to Spokane, duration: 468.455, distance: 685.3743000000001, cost: 34",
+    "breakfast": "Westside Drive In, Boise",
+    "lunch": "Boise Fry Company, Boise",
+    "dinner": "Thai Cuisine, Boise",
+    "attraction": "Freak Alley Gallery, Boise",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 08:00 to 08:30, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Westside Drive In, visit from 08:55 to 09:35, nearest transit: W State St & N 18th St NWC, 249.20m away; Freak Alley Gallery, visit from 10:00 to 12:00, nearest transit: W Idaho St & N 9th St NWC, 81.42m away; Boise Fry Company, visit from 13:35 to 14:15, nearest transit: Main Street Station - Lower Deck, 210.85m away; Thai Cuisine, visit from 19:00 to 19:40, nearest transit: W Overland Rd & S Brooklawn Dr SWC, 76.52m away"
+  }
+]

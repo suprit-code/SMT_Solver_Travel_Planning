@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Hartford",
+    "transportation": "Flight Number: F1848894, from Denver to Hartford, Departure Time: 18:03, Arrival Time: 23:31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Loft - Queen Anne Row House in a historic district, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Loft - Queen Anne Row House in a historic district, stay from 00:01 to 00:31, nearest transit: Hartford, 1037.54m away; Loft - Queen Anne Row House in a historic district, stay from 01:01 to 08:00, nearest transit: Hartford, 1037.54m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "Wissota Chophouse - Hartford, Hartford",
+    "lunch": "Hartford House, Hartford",
+    "dinner": "Max's Oyster Bar, Hartford",
+    "attraction": "-",
+    "accommodation": "Loft - Queen Anne Row House in a historic district, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Loft - Queen Anne Row House in a historic district, stay from 08:30 to 09:00, nearest transit: Hartford, 1037.54m away; Wissota Chophouse - Hartford, Hartford, visit from 09:33 to 10:23, ; Hartford House, Hartford, visit from 14:24 to 15:24, ; Max's Oyster Bar, Hartford, visit from 19:25 to 20:40, ; Loft - Queen Anne Row House in a historic district, stay from 21:30 to 05:30, nearest transit: Hartford, 1037.54m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Denver",
+    "transportation": "Flight Number: F1064155, from Hartford to Denver, Departure Time: 10:43, Arrival Time: 12:59",
+    "breakfast": "The Capital Grille, Hartford",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Loft - Queen Anne Row House in a historic district, stay from 06:00 to 06:30, nearest transit: Hartford, 1037.54m away; The Capital Grille, Hartford, visit from 08:00 to 08:50, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Lexington'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F2350646, from Chicago to Lexington, Departure Time: 11:26, Arrival Time: 13:38', 'taxi, from Lexington to Chicago, duration: 421.46, distance: 594.2556999999999, cost: 594'],
+Restaurants (3 meals per day): ['-', '-', 'Keeneland Track Kitchen, Lexington', 'The Blue Heron Steakhouse, Lexington', "Carson's Food & Drink - On Main, Lexington", "Giuseppe's Ristorante Italiano, Lexington", 'Taj India Indian Restaurant, Lexington', 'The Rackhouse Tavern, Lexington', 'The Ketch Seafood Grill, Lexington'],
+Attractions (1 per day): ['Lexington Brewing & Distilling Co., Lexington', 'James E. Pepper Distillery, Lexington', 'Lexington Cemetery, Lexington'],
+Accommodations (1 per city): ['Lexington Apt. with parking & private entrance, Lexington']

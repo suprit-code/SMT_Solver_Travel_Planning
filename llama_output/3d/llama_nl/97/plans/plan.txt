@@ -1,0 +1,6 @@
+Destination cities: ["Martha's Vineyard"],
+Transportation dates: ['2024-11-22', '2024-11-24'],
+Transportation methods between cities: ["taxi, from Charlotte to Martha's Vineyard, duration: 1122.7316666666666, distance: 1420.8184, cost: 1420", "taxi, from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost: 1427"],
+Restaurants (3 meals per day): ['-', '-', '-', "Bettini Restaurant, Martha's Vineyard", "Garde East, Martha's Vineyard", "Atlantic Fish & Chop House, Martha's Vineyard", "Atria, Martha's Vineyard", "l'etoile restaurant, Martha's Vineyard", "Bangkok Thai Cuisine, Martha's Vineyard"],
+Attractions (1 per day): ['-', "Aquinnah Cliffs, Martha's Vineyard", "Martha's Vineyard Tours and Excursions, Martha's Vineyard"],
+Accommodations (1 per city): ["MORGAN HOTEL ~ Standard Queen w/ Private Bathroom, Martha's Vineyard"]

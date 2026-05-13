@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Hartford",
+    "transportation": "Taxi from Washington to Hartford, duration: 426.4883333333333, distance: 540.9555, cost : 540.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Hartford Baking Company, Hartford",
+    "attraction": "-",
+    "accommodation": "Spacious Cozy Guest Suite, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Spacious Cozy Guest Suite, stay from 14:30 to 15:00, nearest transit: Berlin, 5588.91m away; Hartford Baking Company, Hartford, visit from 19:00 to 20:15, ; Spacious Cozy Guest Suite, stay from 20:45 to 06:31, nearest transit: Berlin, 5588.91m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "Hartford Coffee Co., Hartford",
+    "lunch": "Treva, Hartford",
+    "dinner": "The Capital Grille, Hartford",
+    "attraction": "-",
+    "accommodation": "Spacious Cozy Guest Suite, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Spacious Cozy Guest Suite, stay from 07:01 to 07:31, nearest transit: Berlin, 5588.91m away; Hartford Coffee Co., Hartford, visit from 08:01 to 08:51, ; Treva, Hartford, visit from 12:52 to 14:59, ; The Capital Grille, Hartford, visit from 19:00 to 20:15, ; Spacious Cozy Guest Suite, stay from 21:30 to 05:30, nearest transit: Berlin, 5588.91m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Washington",
+    "transportation": "Flight Number: F0440641, from Hartford to Washington, Departure Time: 13:50, Arrival Time: 15:05",
+    "breakfast": "Hartford House, Hartford",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Hartford Stage, Hartford",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Spacious Cozy Guest Suite, stay from 06:00 to 06:30, nearest transit: Berlin, 5588.91m away; Hartford House, Hartford, visit from 08:00 to 08:50, ; Hartford Stage, Hartford, visit from 09:20 to 12:50, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to San Diego",
+    "transportation": "Flight Number: F3306924, from Portland to San Diego, Departure Time: 16:17, Arrival Time: 18:37",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "-",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 19:02 to 19:22, nearest transit: Upas St & 30th St, 403.13m away; Din Tai Fung, visit from 19:47 to 20:27, nearest transit: La Jolla Village Dr & Genesee Av, 68.36m away; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 20:52 to 08:00, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "Sunset Cliffs Natural Park, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 08:00 to 08:30, nearest transit: Upas St & 30th St, 403.13m away; Juniper and Ivy, visit from 08:55 to 09:35, nearest transit: Kettner Bl & Grape St, 310.93m away; Sunset Cliffs Natural Park, visit from 10:00 to 12:00, nearest transit: Catalina Bl & Garden Ln, 722.11m away; Born & Raised, visit from 13:35 to 14:15, nearest transit: Kettner Bl & Grape St, 125.64m away; Mimmo's, visit from 19:00 to 19:40, nearest transit: India St & Cedar St, 148.81m away; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 20:05 to 08:00, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Portland",
+    "transportation": "Flight Number: F1972355, from San Diego to Portland, Departure Time: 15:58, Arrival Time: 18:30",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 08:00 to 08:10, nearest transit: Upas St & 30th St, 403.13m away; Lou & Mickey's, visit from 08:35 to 08:48, nearest transit: Gaslamp Quarter Station, 87.75m away; USS Midway Museum, visit from 09:13 to 11:13, nearest transit: Broadway Pier, 287.53m away; Addison Restaurant, visit from 12:00 to 12:13, nearest transit: Mira Mesa Bl & Genetic Center Dr, 4339.61m away; Pacific Beach AleHouse, visit from 15:20 to 15:33, nearest transit: Mission Bl & Thomas Av, 87.26m away"
+  }
+]

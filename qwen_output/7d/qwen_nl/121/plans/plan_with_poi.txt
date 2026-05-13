@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Nashville",
+    "transportation": "Self-driving from Houston to Nashville, duration: 857.39, distance: 1252.7872, cost : 62.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 22:33 to 23:03, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Private Entrance near Airport in Safe neighborhood, stay from 23:33 to 07:33, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Hand Cut Chophouse, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "Puckett's 5th & Church, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 08:03 to 08:33, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Hand Cut Chophouse, Nashville, visit from 09:03 to 09:53, ; Aquarium Restaurant, Nashville, visit from 13:54 to 14:54, ; Belmont Mansion, Nashville, visit from 15:30 to 19:15, ; Puckett's 5th & Church, Nashville, visit from 19:45 to 21:00, ; Private Entrance near Airport in Safe neighborhood, stay from 21:30 to 05:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Self-driving from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 23.0",
+    "breakfast": "Paula Deen's Family Kitchen, Nashville",
+    "lunch": "Harriet's Rooftop, Nashville",
+    "dinner": "-",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Comfortable and cozy in the heart of Bristol, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 06:00 to 06:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Paula Deen's Family Kitchen, Nashville, visit from 08:00 to 08:50, ; Cheekwood, Nashville, visit from 09:49 to 13:19, ; Harriet's Rooftop, Nashville, visit from 13:49 to 14:49, ; Comfortable and cozy in the heart of Bristol, stay from 21:08 to 22:23, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Comfortable and cozy in the heart of Bristol, stay from 22:53 to 06:53, nearest transit: Kroger-Gate City Hwy, 4622.18m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Bravas, Bristol",
+    "lunch": "The River Grille, Bristol",
+    "dinner": "Little Bristol Beach Bar, Bristol",
+    "attraction": "Clifton Suspension Bridge, Bristol",
+    "accommodation": "Comfortable and cozy in the heart of Bristol, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Comfortable and cozy in the heart of Bristol, stay from 07:23 to 07:53, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Bravas, Bristol, visit from 08:23 to 09:13, ; Clifton Suspension Bridge, Bristol, visit from 09:43 to 13:13, ; The River Grille, Bristol, visit from 13:43 to 14:43, ; Little Bristol Beach Bar, Bristol, visit from 19:00 to 20:15, ; Comfortable and cozy in the heart of Bristol, stay from 20:45 to 04:45, nearest transit: Kroger-Gate City Hwy, 4622.18m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Self-driving from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 18.0",
+    "breakfast": "Eat a Pitta, Bristol",
+    "lunch": "Coronation Curry House, Bristol",
+    "dinner": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "attraction": "Wills Memorial Building And Tower Tours, Bristol",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Comfortable and cozy in the heart of Bristol, stay from 06:00 to 06:30, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Eat a Pitta, Bristol, visit from 08:00 to 08:50, ; Wills Memorial Building And Tower Tours, Bristol, visit from 09:20 to 12:50, ; Coronation Curry House, Bristol, visit from 13:20 to 14:20, ; Wren’s nest on the ridge, stay from 19:29 to 19:59, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Maple Street Biscuit Company - City Center, Chattanooga, visit from 20:29 to 21:44, ; Wren’s nest on the ridge, stay from 22:14 to 06:14, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Uncle Larry's Restaurant, Chattanooga",
+    "lunch": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "dinner": "Mellow Mushroom Chattanooga, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 06:44 to 07:14, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Uncle Larry's Restaurant, Chattanooga, visit from 08:00 to 08:50, ; The Purple Daisy Picnic Cafe, Chattanooga, visit from 12:51 to 13:51, ; Tennessee Aquarium, Chattanooga, visit from 14:21 to 18:30, ; Mellow Mushroom Chattanooga, Chattanooga, visit from 19:00 to 20:15, ; Wren’s nest on the ridge, stay from 20:45 to 04:45, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Houston",
+    "transportation": "Self-driving from Chattanooga to Houston, duration: 893.0133333333334, distance: 1309.278, cost : 65.0",
+    "breakfast": "Hickory Pit Bar-B-Que, Chattanooga",
+    "lunch": "-",
+    "dinner": "Public House, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 06:00 to 06:30, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Hickory Pit Bar-B-Que, Chattanooga, visit from 08:00 to 08:50, ; Coolidge Park, Chattanooga, visit from 09:20 to 12:50, ; Public House, Chattanooga, visit from 19:00 to 20:15, "
+  }
+]

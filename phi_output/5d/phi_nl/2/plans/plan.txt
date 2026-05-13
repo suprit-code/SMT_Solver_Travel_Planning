@@ -1,0 +1,6 @@
+Destination cities: ['New York', 'Rochester'],
+Transportation dates: ['2024-11-03', '2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Flight Number: F4058389, from Memphis to New York, Departure Time: 14:21, Arrival Time: 17:59', 'Flight Number: F1885211, from New York to Rochester, Departure Time: 21:25, Arrival Time: 22:37', 'taxi, from Rochester to Memphis, duration: 1107.9416666666666, distance: 1582.6321, cost: 1582'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Gallaghers Steakhouse, New York', 'Times Square Diner, New York', "Del Frisco's Double Eagle Steakhouse, New York", 'Sarge’s Delicatessen & Diner, New York', 'Blue Smoke Battery Park City, New York', "Harry's, New York", "Lipuma's Coney Island, Rochester", 'Mamma Mia, Rochester', "Rooney's Restaurant, Rochester", 'Nick Tahou Hots, Rochester', 'Jaggers Rochester, Rochester', 'Good Luck, Rochester'],
+Attractions (1 per day): ['Central Park, New York', 'The Metropolitan Museum of Art, New York', 'The High Line, New York', 'The Strong National Museum of Play, Rochester', 'Guildhall Museum, Rochester'],
+Accommodations (1 per city): ['High Rise haven + Free Breakfast, New York', 'Historic Henrietta Apartment, Rochester']

@@ -1,0 +1,6 @@
+Destination cities: ['Charlotte'],
+Transportation dates: ['2024-11-08', '2024-11-10'],
+Transportation methods between cities: ['Flight Number: F0954960, from Manchester to Charlotte, Departure Time: 05:33, Arrival Time: 08:33', 'Flight Number: F3786306, from Charlotte to Manchester, Departure Time: 16:15, Arrival Time: 18:15'],
+Restaurants (3 meals per day): ["Charlotte's Tavern, Charlotte", 'The Fig Tree Restaurant, Charlotte', 'ROKA Charlotte Street, Charlotte', "Rooster's Wood-Fired Kitchen - Uptown, Charlotte", 'Charlotte Bakery, Charlotte', 'The Terrace at The Charlotte Inn, Charlotte', 'Gaucho Charlotte Street, Charlotte', "Charlotte's, Charlotte", '-'],
+Attractions (1 per day): ['Discovery Place Science, Charlotte', 'Truist Field, Charlotte', 'NASCAR Hall of Fame, Charlotte'],
+Accommodations (1 per city): ['❀ Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte']

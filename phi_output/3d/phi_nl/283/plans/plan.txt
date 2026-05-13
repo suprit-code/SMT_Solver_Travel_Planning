@@ -1,0 +1,6 @@
+Destination cities: ['Indianapolis'],
+Transportation dates: ['2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['taxi, from Detroit to Indianapolis, duration: 328.28, distance: 447.7004, cost: 447', 'Flight Number: F3213244, from Indianapolis to Detroit, Departure Time: 18:12, Arrival Time: 19:16'],
+Restaurants (3 meals per day): ['-', '-', '-', 'The Melting Pot, Indianapolis', 'St. Elmo Steak House, Indianapolis', 'The Capital Grille, Indianapolis', 'Mesh Indy, Indianapolis', "Harry and Izzy's, Indianapolis", "Tony's of Indianapolis, Indianapolis"],
+Attractions (1 per day): ['-', 'Indianapolis Zoo, Indianapolis', 'The Eiteljorg Museum, Indianapolis'],
+Accommodations (1 per city): ['Queen Bed Getaway Room Downtown Indy, Indianapolis']

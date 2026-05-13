@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to Sacramento",
+    "transportation": "Flight Number: F3954104, from Ontario to Sacramento, Departure Time: 13:58, Arrival Time: 15:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Zocalo, Sacramento",
+    "attraction": "-",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 15:47 to 16:17, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Zocalo, Sacramento, visit from 19:00 to 20:15, ; Home Away From Home, stay from 20:45 to 04:45, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Aviators Restaurant, Sacramento",
+    "lunch": "Paragary's, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 06:00 to 06:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Aviators Restaurant, Sacramento, visit from 08:14 to 09:04, ; Paragary's, Sacramento, visit from 13:05 to 14:05, ; Sacramento History Museum, Sacramento, visit from 14:35 to 18:05, ; Nopalitos, Sacramento, visit from 19:00 to 20:15, ; Home Away From Home, stay from 20:45 to 04:45, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to Ontario",
+    "transportation": "Flight Number: F2705274, from Sacramento to Ontario, Departure Time: 19:02, Arrival Time: 20:17",
+    "breakfast": "Cafeteria 15L, Sacramento",
+    "lunch": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Railroad Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 06:00 to 06:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Cafeteria 15L, Sacramento, visit from 08:00 to 08:50, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 12:51 to 14:32, ; California State Railroad Museum, Sacramento, visit from 15:02 to 18:32, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Seattle",
+    "transportation": "Flight Number: F1973673, from Charleston to Seattle, Departure Time: 19:34, Arrival Time: 22:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "13 Coins Restaurant, Seattle",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Vons 1000 Spirits, visit from 09:00 to 09:40, nearest transit: 2nd Ave & Seneca St, 159.67m away; Pike Place Market, visit from 10:10 to 12:10, nearest transit: 2nd Ave & Stewart St, 182.89m away; Noi Thai Cuisine, visit from 13:40 to 14:20, nearest transit: 2nd Ave & Seneca St, 181.65m away; 13 Coins Restaurant, visit from 19:00 to 19:40, nearest transit: King Street Station, 107.40m away; Cozy room near UW, stay from 23:00 to 08:00, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Charleston",
+    "transportation": "Flight Number: F1974763, from Seattle to Charleston, Departure Time: 09:59, Arrival Time: 18:23",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "Chan Seattle, Seattle",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

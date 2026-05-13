@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Las Vegas",
+    "transportation": "Flight Number: F0774013, from Washington to Las Vegas, Departure Time: 08:53, Arrival Time: 11:23",
+    "breakfast": "-",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Garden Court, Las Vegas",
+    "attraction": "Las Vegas North Premium Outlets, Las Vegas",
+    "accommodation": "C/private full bed tv free wif, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "C/private full bed tv free wif, stay from 11:53 to 12:23, nearest transit: The Strat, 4542.98m away; Eggscellent, Las Vegas, visit from 14:00 to 15:00, ; Las Vegas North Premium Outlets, Las Vegas, visit from 15:30 to 19:00, ; Garden Court, Las Vegas, visit from 19:30 to 20:45, ; C/private full bed tv free wif, stay from 21:30 to 05:30, nearest transit: The Strat, 4542.98m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "Eggslut, Las Vegas",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "Fashion Show Las Vegas, Las Vegas",
+    "accommodation": "C/private full bed tv free wif, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "C/private full bed tv free wif, stay from 06:00 to 06:30, nearest transit: The Strat, 4542.98m away; Ameribrunch Cafe, Las Vegas, visit from 08:27 to 10:00, ; Fashion Show Las Vegas, Las Vegas, visit from 10:30 to 14:00, ; Eggslut, Las Vegas, visit from 14:30 to 15:30, ; Mr. Mamas, Las Vegas, visit from 19:31 to 21:00, ; C/private full bed tv free wif, stay from 21:30 to 05:30, nearest transit: The Strat, 4542.98m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Washington",
+    "transportation": "Flight Number: F1078549, from Las Vegas to Washington, Departure Time: 13:42, Arrival Time: 20:49",
+    "breakfast": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "The Grand Canal Shoppes at The Venetian Resort, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "C/private full bed tv free wif, stay from 06:00 to 07:45, nearest transit: The Strat, 4542.98m away; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 08:22 to 09:12, ; The Grand Canal Shoppes at The Venetian Resort, Las Vegas, visit from 09:42 to 13:12, "
+  }
+]

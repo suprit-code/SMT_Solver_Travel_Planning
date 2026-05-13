@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Charleston",
+    "transportation": "Flight Number: F0501001, from Detroit to Charleston, Departure Time: 15:28, Arrival Time: 17:35",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Secret Garden Guesthouse, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 18:05 to 18:35, nearest transit: Coming St / George St, 490.45m away; Secret Garden Guesthouse, stay from 20:50 to 04:50, nearest transit: Coming St / George St, 490.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Frannie & The Fox, Charleston",
+    "lunch": "High Cotton Charleston, Charleston",
+    "dinner": "Oak Steakhouse, Charleston",
+    "attraction": "Charleston City Market, Charleston",
+    "accommodation": "Secret Garden Guesthouse, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 06:00 to 06:30, nearest transit: Coming St / George St, 490.45m away; Frannie & The Fox, Charleston, visit from 08:24 to 09:14, ; Charleston City Market, Charleston, visit from 09:59 to 13:29, ; High Cotton Charleston, Charleston, visit from 13:59 to 14:59, ; Oak Steakhouse, Charleston, visit from 19:00 to 20:15, ; Secret Garden Guesthouse, stay from 20:45 to 04:45, nearest transit: Coming St / George St, 490.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Detroit",
+    "transportation": "Taxi from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost : 1366.0",
+    "breakfast": "Hyman's Seafood, Charleston",
+    "lunch": "Charleston Crab House-Market Street, Charleston",
+    "dinner": "Stella's, Charleston",
+    "attraction": "Battery & White Point Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 06:00 to 06:30, nearest transit: Coming St / George St, 490.45m away; Hyman's Seafood, Charleston, visit from 08:00 to 08:50, ; Charleston Crab House-Market Street, Charleston, visit from 12:51 to 13:51, ; Battery & White Point Gardens, Charleston, visit from 14:21 to 18:30, ; Stella's, Charleston, visit from 19:00 to 20:15, "
+  }
+]

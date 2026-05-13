@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Tucson",
+    "transportation": "Flight Number: F0634946, from Houston to Tucson, Departure Time: 09:13, Arrival Time: 10:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Jun Dynasty, Tucson",
+    "attraction": "Catalina State Park, Tucson",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 11:29 to 11:59, nearest transit: El Con Center, 2837.66m away; Catalina State Park, visit from 12:29 to 14:29, nearest transit: 9004 Lot, 18672.05m away; Jun Dynasty, visit from 19:00 to 19:40, nearest transit: AHSL/ Health Sciences Innovation Building, 2234.54m away; Accessible Private Studio, Entrance & Parking., stay from 23:00 to 08:00, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tucson",
+    "transportation": "-",
+    "breakfast": "Bobo's Restaurant, Tucson",
+    "lunch": "Cafe a La C'Art, Tucson",
+    "dinner": "El Charro Cafe - The Original, Tucson",
+    "attraction": "DeGrazia Gallery in the Sun Museum, Tucson",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 08:00 to 08:30, nearest transit: El Con Center, 2837.66m away; Bobo's Restaurant, visit from 09:00 to 09:40, nearest transit: AHSL/ Health Sciences Innovation Building, 2168.55m away; DeGrazia Gallery in the Sun Museum, visit from 10:10 to 12:10, nearest transit: 9004 Lot, 7865.53m away; Cafe a La C'Art, visit from 13:40 to 14:20, nearest transit: USA Building, 555.21m away; El Charro Cafe - The Original, visit from 19:00 to 19:40, nearest transit: USA Building, 340.25m away; Accessible Private Studio, Entrance & Parking., stay from 23:00 to 08:00, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tucson to Houston",
+    "transportation": "Flight Number: F3478549, from Tucson to Houston, Departure Time: 15:16, Arrival Time: 18:53",
+    "breakfast": "North Italia, Tucson",
+    "lunch": "Kingfisher Bar and Grill, Tucson",
+    "dinner": "-",
+    "attraction": "Arizona-Sonora Desert Museum, Tucson",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 08:00 to 08:30, nearest transit: El Con Center, 2837.66m away; North Italia, visit from 09:00 to 09:40, nearest transit: 9004 Lot, 6274.73m away; Arizona-Sonora Desert Museum, visit from 10:10 to 12:10, nearest transit: 9006 Lot, 17879.57m away; Kingfisher Bar and Grill, visit from 13:40 to 14:20, nearest transit: AHSL/ Health Sciences Innovation Building, 1737.48m away"
+  }
+]

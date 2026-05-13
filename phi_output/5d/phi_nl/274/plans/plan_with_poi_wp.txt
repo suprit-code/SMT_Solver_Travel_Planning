@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Greensboro",
+    "transportation": "Flight Number: F0117298, from New York to Greensboro, Departure Time: 15:37, Arrival Time: 17:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Print Works Bistro, Greensboro",
+    "attraction": "-",
+    "accommodation": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 17:57 to 20:15, nearest transit: Merritt/Clifton, 637.24m away; Print Works Bistro, Greensboro, visit from 20:45 to 22:17, ; ⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 22:47 to 06:47, nearest transit: Merritt/Clifton, 637.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Mac's Speed Shop, Greensboro",
+    "lunch": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "dinner": "MJ's Steak and Seafood, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 07:17 to 07:47, nearest transit: Merritt/Clifton, 637.24m away; Mac's Speed Shop, Greensboro, visit from 08:17 to 10:00, ; Carolina Theatre, Greensboro, visit from 10:30 to 14:00, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 14:30 to 15:30, ; MJ's Steak and Seafood, Greensboro, visit from 19:31 to 22:00, ; ⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 22:30 to 06:30, nearest transit: Merritt/Clifton, 637.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Pho Hien Voung, Greensboro",
+    "lunch": "Chez Genese, Greensboro",
+    "dinner": "Circa 1922, Wilmington",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Hawks Nest 3 @UNCW, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 07:00 to 07:30, nearest transit: Merritt/Clifton, 637.24m away; Pho Hien Voung, Greensboro, visit from 08:00 to 08:50, ; International Civil Rights Center & Museum, Greensboro, visit from 09:47 to 13:17, ; Chez Genese, Greensboro, visit from 13:47 to 14:47, ; Hawks Nest 3 @UNCW, stay from 19:45 to 20:15, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; Circa 1922, Wilmington, visit from 20:45 to 22:00, ; Hawks Nest 3 @UNCW, stay from 22:30 to 06:30, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Caprice Bistro, Wilmington",
+    "lunch": "Banks' Seafood Kitchen, Wilmington",
+    "dinner": "Indochine Wilmington, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "Hawks Nest 3 @UNCW, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Hawks Nest 3 @UNCW, stay from 07:00 to 07:30, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; Caprice Bistro, Wilmington, visit from 09:05 to 09:55, ; Banks' Seafood Kitchen, Wilmington, visit from 13:56 to 14:56, ; Battleship North Carolina, Wilmington, visit from 15:26 to 18:56, ; Indochine Wilmington, Wilmington, visit from 19:26 to 20:41, ; Hawks Nest 3 @UNCW, stay from 22:30 to 06:30, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to New York",
+    "transportation": "Flight Number: F3205421, from Wilmington to New York, Departure Time: 17:43, Arrival Time: 19:20",
+    "breakfast": "Flaming Amy's Burrito Barn, Wilmington",
+    "lunch": "The Anchor, Wilmington",
+    "dinner": "-",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hawks Nest 3 @UNCW, stay from 07:00 to 07:30, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; Flaming Amy's Burrito Barn, Wilmington, visit from 08:00 to 08:50, ; Burgwin-Wright House and Gardens, Wilmington, visit from 09:20 to 12:50, ; The Anchor, Wilmington, visit from 13:20 to 17:13, "
+  }
+]

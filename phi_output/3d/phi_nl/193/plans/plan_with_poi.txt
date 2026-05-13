@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Chattanooga",
+    "transportation": "Flight Number: F3632122, from Washington to Chattanooga, Departure Time: 13:38, Arrival Time: 15:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "HiFi Clyde's Chattanooga, Chattanooga",
+    "attraction": "-",
+    "accommodation": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 15:45 to 18:30, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; HiFi Clyde's Chattanooga, Chattanooga, visit from 19:00 to 22:31, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 23:01 to 07:01, nearest transit: Boynton & 953 Boynton-0, 3119.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Hickory Pit Bar-B-Que, Chattanooga",
+    "lunch": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "dinner": "Stir, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 07:31 to 08:01, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; Hickory Pit Bar-B-Que, Chattanooga, visit from 08:31 to 09:21, ; Tennessee Aquarium, Chattanooga, visit from 09:51 to 13:21, ; The Purple Daisy Picnic Cafe, Chattanooga, visit from 13:51 to 14:51, ; Stir, Chattanooga, visit from 19:00 to 20:15, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 20:45 to 05:30, nearest transit: Boynton & 953 Boynton-0, 3119.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Washington",
+    "transportation": "Flight Number: F0956154, from Chattanooga to Washington, Departure Time: 17:37, Arrival Time: 19:15",
+    "breakfast": "Public House, Chattanooga",
+    "lunch": "Uncle Larry's Restaurant, Chattanooga",
+    "dinner": "-",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 06:00 to 06:30, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; Public House, Chattanooga, visit from 08:00 to 08:50, ; Coolidge Park, Chattanooga, visit from 10:30 to 14:00, ; Uncle Larry's Restaurant, Chattanooga, visit from 14:30 to 15:30, "
+  }
+]

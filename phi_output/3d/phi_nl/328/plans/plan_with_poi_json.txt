@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Charlotte",
+    "transportation": "Flight Number: F3714123, from Denver to Charlotte, Departure Time: 13:53, Arrival Time: 18:51",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Charlotte & Fritz, Charlotte",
+    "attraction": "-",
+    "accommodation": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 19:21 to 19:51, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Charlotte & Fritz, visit from 20:21 to 21:01, nearest transit: Beaty St @ 866, 7233404.02m away; \u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 23:00 to 08:00, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Cabo Fish Taco Baja Seagrill, Charlotte",
+    "lunch": "Midwood Smokehouse, Charlotte",
+    "dinner": "Charlotte Quay Restaurant, Charlotte",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 08:00 to 08:30, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Cabo Fish Taco Baja Seagrill, visit from 09:00 to 09:40, nearest transit: Davidson & 35th, 57.25m away; Mint Museum Uptown, visit from 10:10 to 12:10, nearest transit: Tryon St & Stonewall St, 100.42m away; Midwood Smokehouse, visit from 13:40 to 14:20, nearest transit: Central Ave & Clement Ave, 40.68m away; Charlotte Quay Restaurant, visit from 19:00 to 19:40, nearest transit: Beaty St @ 866, 5961834.13m away; \u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 23:00 to 08:00, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Denver",
+    "transportation": "Flight Number: F2823707, from Charlotte to Denver, Departure Time: 21:25, Arrival Time: 22:42",
+    "breakfast": "The Terrace at The Charlotte Inn, Charlotte",
+    "lunch": "Charlotte's Tavern, Charlotte",
+    "dinner": "Le Potager de Charlotte, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 08:00 to 08:30, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; The Terrace at The Charlotte Inn, visit from 09:00 to 09:40, nearest transit: Beaty St @ 866, 1111842.47m away; Truist Field, visit from 10:10 to 12:10, nearest transit: 4th St & Graham St, 146.25m away; Charlotte's Tavern, visit from 13:40 to 14:20, nearest transit: Oakland St & Main Ave, 3482493.72m away; Le Potager de Charlotte, visit from 19:00 to 19:40, nearest transit: Beaty St @ 866, 6680138.94m away"
+  }
+]

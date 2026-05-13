@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Flight Number: F2907771, from Martha's Vineyard to New York, Departure Time: 16:49, Arrival Time: 17:42",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Dazzling Oasis | Times Square.  Restaurant, New York",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 18:12 to 20:15, nearest transit: W 50 ST/7 AV, 82.76m away; Dazzling Oasis | Times Square.  Restaurant, stay from 23:12 to 07:12, nearest transit: W 50 ST/7 AV, 82.76m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Bryant Park Grill, New York",
+    "lunch": "Lillie's Victorian Establishment, New York",
+    "dinner": "Trattoria Trecolori, New York",
+    "attraction": "Empire State Building, New York",
+    "accommodation": "Dazzling Oasis | Times Square.  Restaurant, New York",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 07:42 to 08:12, nearest transit: W 50 ST/7 AV, 82.76m away; Bryant Park Grill, New York, visit from 08:42 to 09:59, ; Lillie's Victorian Establishment, New York, visit from 14:00 to 15:00, ; Empire State Building, New York, visit from 15:30 to 20:15, ; Trattoria Trecolori, New York, visit from 20:45 to 22:39, ; Dazzling Oasis | Times Square.  Restaurant, stay from 23:09 to 07:09, nearest transit: W 50 ST/7 AV, 82.76m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Martha's Vineyard",
+    "transportation": "Taxi from New York to Martha's Vineyard, duration: 404.8333333333333, distance: 425.9981, cost : 425.0",
+    "breakfast": "Del Frisco's Grille, New York",
+    "lunch": "Sarge’s Delicatessen & Diner, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "Top of the Rock, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 07:39 to 08:09, nearest transit: W 50 ST/7 AV, 82.76m away; Del Frisco's Grille, New York, visit from 08:39 to 09:29, ; Sarge’s Delicatessen & Diner, New York, visit from 13:30 to 14:30, ; Top of the Rock, New York, visit from 15:00 to 18:30, ; FIG & OLIVE, New York, visit from 19:00 to 20:15, "
+  }
+]

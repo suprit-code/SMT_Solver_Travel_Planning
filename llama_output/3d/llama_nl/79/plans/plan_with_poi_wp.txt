@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F0834281, from Hartford to Las Vegas, Departure Time: 16:52, Arrival Time: 20:24",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Vdara Studio 52nd FL Bellagio Ftns NO RESORT FEES, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Vdara Studio 52nd FL Bellagio Ftns NO RESORT FEES, stay from 20:54 to 21:24, nearest transit: The Strat, 4648.68m away; Vdara Studio 52nd FL Bellagio Ftns NO RESORT FEES, stay from 21:54 to 05:54, nearest transit: The Strat, 4648.68m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Eggscellent, Las Vegas",
+    "lunch": "Primal Steakhouse, Las Vegas",
+    "dinner": "Skyfall Lounge, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Vdara Studio 52nd FL Bellagio Ftns NO RESORT FEES, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Vdara Studio 52nd FL Bellagio Ftns NO RESORT FEES, stay from 06:24 to 06:54, nearest transit: The Strat, 4648.68m away; Eggscellent, Las Vegas, visit from 08:08 to 10:00, ; Primal Steakhouse, Las Vegas, visit from 14:30 to 15:30, ; Skyfall Lounge, Las Vegas, visit from 19:31 to 20:46, ; Vdara Studio 52nd FL Bellagio Ftns NO RESORT FEES, stay from 21:16 to 05:16, nearest transit: The Strat, 4648.68m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F0278234, from Las Vegas to Hartford, Departure Time: 23:01, Arrival Time: 06:35",
+    "breakfast": "The Peppermill Restaurant & Fireside Lounge, Las Vegas",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Wynn Las Vegas Casino, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Vdara Studio 52nd FL Bellagio Ftns NO RESORT FEES, stay from 06:00 to 06:30, nearest transit: The Strat, 4648.68m away; The Peppermill Restaurant & Fireside Lounge, Las Vegas, visit from 08:00 to 15:00, ; Wynn Las Vegas Casino, Las Vegas, visit from 15:30 to 20:49, "
+  }
+]

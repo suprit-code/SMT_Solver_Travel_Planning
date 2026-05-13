@@ -1,0 +1,36 @@
+
+                def run_taxi_search(origin_city, destinations, departure_date):
+                    taxi_info = []
+                    for destination in destinations:
+                        # Assume TaxiSearch returns a list of taxi info dictionaries
+                        taxi_info.append({"origin": origin_city, "destination": destination, "departure_date": departure_date, "price": 50, "distance": 10, "arrival_time": "2023-10-01 14:00"})
+                    return taxi_info
+                
+                def calculate_taxi_price(taxi_info, num_passengers):
+                    total_price = 0
+                    for info in taxi_info:
+                        price_per_person = info["price"] / 4  # Assuming price is split evenly among passengers
+                        total_price += price_per_person * num_passengers
+                    return total_price
+                
+                def get_taxi_arrival_time(taxi_info):
+                    arrival_times = [info["arrival_time"] for info in taxi_info]
+                    return arrival_times
+                
+                # Example usage
+                origin_city = "Boston"
+                destinations = ["city_0", "city_1", "city_2"]
+                departure_date = "2023-10-01"
+                
+                taxi_info = run_taxi_search(origin_city, destinations, departure_date)
+                
+                assert len(taxi_info) > 0, "Taxi info is empty"
+                
+                num_passengers = 1
+                taxi_price = calculate_taxi_price(taxi_info, num_passengers)
+                print(f"Total taxi price for 1 person: {taxi_price}")
+                
+                arrival_times = get_taxi_arrival_time(taxi_info)
+                for i, time in enumerate(arrival_times):
+                    print(f"Arrival time for destination {destinations[i]}: {time}")
+                

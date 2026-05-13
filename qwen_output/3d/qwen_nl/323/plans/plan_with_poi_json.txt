@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Tampa",
+    "transportation": "Flight Number: F3158032, from Kansas City to Tampa, Departure Time: 06:20, Arrival Time: 09:47",
+    "breakfast": "-",
+    "lunch": "Green Lemon, Tampa",
+    "dinner": "Salt Shack On The Bay, Tampa",
+    "attraction": "The Florida Aquarium, Tampa",
+    "accommodation": "The Gardens, Tampa",
+    "event": "-",
+    "point_of_interest_list": "The Gardens, stay from 10:12 to 10:32, nearest transit: U Mall to MSC, 13888.49m away; The Florida Aquarium, visit from 10:57 to 12:57, nearest transit: Busch Gardens Employee Entrance, 11275.99m away; Green Lemon, visit from 13:22 to 14:02, nearest transit: Busch Gardens Employee Entrance, 13524.68m away; Salt Shack On The Bay, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 20987.43m away; The Gardens, stay from 20:05 to 08:00, nearest transit: U Mall to MSC, 13888.49m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Bella's Italian Cafe, Tampa",
+    "lunch": "Al's Finger Licking Good Bar-B-Que, Tampa",
+    "dinner": "Besito Mexican, Tampa",
+    "attraction": "ZooTampa At Lowry Park, Tampa",
+    "accommodation": "The Gardens, Tampa",
+    "event": "-",
+    "point_of_interest_list": "The Gardens, stay from 08:00 to 08:30, nearest transit: U Mall to MSC, 13888.49m away; Bella's Italian Cafe, visit from 08:55 to 09:35, nearest transit: Busch Gardens Employee Entrance, 14152.26m away; ZooTampa At Lowry Park, visit from 10:00 to 12:00, nearest transit: Busch Gardens Employee Entrance, 5842.47m away; Al's Finger Licking Good Bar-B-Que, visit from 13:35 to 14:15, nearest transit: Busch Gardens Employee Entrance, 9501.24m away; Besito Mexican, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 14974.17m away; The Gardens, stay from 20:05 to 08:00, nearest transit: U Mall to MSC, 13888.49m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Kansas City",
+    "transportation": "Self-driving, from Tampa to Kansas City, duration: 1387.3916666666669, distance: 2022.0329, cost: 101",
+    "breakfast": "Columbia Cafe - Riverwalk Tampa, Tampa",
+    "lunch": "Bernini Restaurant, Tampa",
+    "dinner": "Yummy House China Bistro, Tampa",
+    "attraction": "Bayshore Boulevard, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Gardens, stay from 08:00 to 08:30, nearest transit: U Mall to MSC, 13888.49m away; Columbia Cafe - Riverwalk Tampa, visit from 08:55 to 09:35, nearest transit: Busch Gardens Employee Entrance, 11603.89m away; Bayshore Boulevard, visit from 10:00 to 12:00, nearest transit: Busch Gardens Employee Entrance, 18514.22m away; Bernini Restaurant, visit from 13:35 to 14:15, nearest transit: Busch Gardens Employee Entrance, 9397.67m away; Yummy House China Bistro, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 5274.93m away"
+  }
+]

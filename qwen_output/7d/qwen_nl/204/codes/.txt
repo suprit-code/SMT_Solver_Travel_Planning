@@ -1,0 +1,55 @@
+
+                def run_attraction_search(city_indices):
+                    attractions = {}
+                    for i in city_indices:
+                        # Assume AttractionSearch returns a dictionary of museums for each city
+                        attractions[i] = {"museum1": {"name": "Museum A", "category_score": 8},
+                                          "museum2": {"name": "Museum B", "category_score": 7},
+                                          "museum3": {"name": "Museum C", "category_score": 9},
+                                          "museum4": {"name": "Museum D", "category_score": 6},
+                                          "museum5": {"name": "Museum E", "category_score": 10},
+                                          "museum6": {"name": "Museum F", "category_score": 5},
+                                          "museum7": {"name": "Museum G", "category_score": 8}}
+                    return attractions
+                
+                def set_museum_in_which_city(attractions, city_indices, transportation_time):
+                    museum_in_which_city = {}
+                    for i in city_indices:
+                        if i + 1 < len(city_indices) and transportation_time[i] <= transportation_time[i+1]:
+                            museum_in_which_city[i] = city_indices[i]
+                        else:
+                            museum_in_which_city[i] = city_indices[i+1]
+                    return museum_in_which_city
+                
+                def set_museum_index(museum_in_which_city, attractions):
+                    museum_index = {}
+                    for i in museum_in_which_city:
+                        city = museum_in_which_city[i]
+                        museum_index[i] = list(attractions[city].keys())
+                    return museum_index
+                
+                def validate_and_add_scores(museum_index, attractions, city_indices, transportation_time):
+                    total_score = 0
+                    for i in museum_index:
+                        city = museum_in_which_city[i]
+                        index = museum_index[i][0]
+                        if index >= 0 and index < len(attractions[city]):
+                            museum_name = attractions[city][index]["name"]
+                            category_score = attractions[city][index]["category_score"]
+                            total_score += category_score
+                            print(f"Visited {museum_name} in {city} with score {category_score}")
+                        else:
+                            print(f"Invalid index {index} for city {city}")
+                    return total_score
+                
+                # Example usage
+                city_indices = [0, 1, 2]
+                transportation_time = [1, 2, 3]
+                
+                attractions = run_attraction_search(city_indices)
+                museum_in_which_city = set_museum_in_which_city(attractions, city_indices, transportation_time)
+                museum_index = set_museum_index(museum_in_which_city, attractions)
+                total_score = validate_and_add_scores(museum_index, attractions, city_indices, transportation_time)
+                
+                print(f"Total Score: {total_score}")
+                

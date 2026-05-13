@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Missoula to San Francisco",
+    "transportation": "Flight Number: F2382252, from Missoula to San Francisco, Departure Time: 16:14, Arrival Time: 17:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Fog Harbor Fish House, San Francisco",
+    "attraction": "-",
+    "accommodation": "Harry Potter Lego themed Guestroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Harry Potter Lego themed Guestroom, stay from 18:03 to 18:33, nearest transit: Civic Center BART (9th and Market), 84.44m away; Fog Harbor Fish House, San Francisco, visit from 19:03 to 20:18, ; Harry Potter Lego themed Guestroom, stay from 20:48 to 04:48, nearest transit: Civic Center BART (9th and Market), 84.44m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "lunch": "Eight Am, San Francisco",
+    "dinner": "Eagle Cafe, San Francisco",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "Harry Potter Lego themed Guestroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Harry Potter Lego themed Guestroom, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 84.44m away; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 08:43 to 09:33, ; Golden Gate Park, San Francisco, visit from 10:03 to 13:33, ; Eight Am, San Francisco, visit from 14:03 to 15:03, ; Eagle Cafe, San Francisco, visit from 19:04 to 20:19, ; Harry Potter Lego themed Guestroom, stay from 20:49 to 04:49, nearest transit: Civic Center BART (9th and Market), 84.44m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Missoula",
+    "transportation": "Taxi from San Francisco to Missoula, duration: 1112.4816666666666, distance: 1581.5232, cost : 1581.0",
+    "breakfast": "-",
+    "lunch": "Mersea Restaurant & Bar, San Francisco",
+    "dinner": "Quince, San Francisco",
+    "attraction": "Japanese Tea Garden, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Harry Potter Lego themed Guestroom, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 84.44m away; Japanese Tea Garden, San Francisco, visit from 09:00 to 12:30, ; Mersea Restaurant & Bar, San Francisco, visit from 13:59 to 14:59, ; Quince, San Francisco, visit from 19:00 to 20:15, "
+  }
+]

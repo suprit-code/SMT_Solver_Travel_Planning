@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Amarillo",
+    "transportation": "Taxi from Oklahoma City to Amarillo, duration: 268.945, distance: 415.9372, cost : 415.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "-",
+    "accommodation": "The Bunny Bungalow, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Bunny Bungalow, stay from 14:29 to 14:59, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 9737.26m away; Golden Light Cafe & Cantina, Amarillo, visit from 19:29 to 23:10, ; The Bunny Bungalow, stay from 23:40 to 07:40, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 9737.26m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Ohms Cafe & Catering, Amarillo",
+    "lunch": "Metropolitan, Amarillo",
+    "dinner": "Green Chile Willy's Grill, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "The Bunny Bungalow, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Bunny Bungalow, stay from 08:10 to 08:40, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 9737.26m away; Ohms Cafe & Catering, Amarillo, visit from 09:10 to 10:00, ; Route 66 Historic District, Amarillo, visit from 10:30 to 14:00, ; Metropolitan, Amarillo, visit from 14:30 to 15:30, ; Green Chile Willy's Grill, Amarillo, visit from 19:37 to 20:52, ; The Bunny Bungalow, stay from 21:22 to 05:22, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 9737.26m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F0493724, from Amarillo to Houston, Departure Time: 06:52, Arrival Time: 08:31",
+    "breakfast": "-",
+    "lunch": "Uchi Houston, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Private  guest suite in the greater Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "The Bunny Bungalow, stay from 05:52 to 06:22, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 9737.26m away; Private  guest suite in the greater Heights, stay from 09:01 to 09:31, nearest transit: W 20th St @ Bevis St, 79.73m away; Uchi Houston, Houston, visit from 12:00 to 13:00, ; Downtown Aquarium, Houston, visit from 15:00 to 18:30, ; Brennan's of Houston, Houston, visit from 19:00 to 20:15, ; Private  guest suite in the greater Heights, stay from 20:45 to 04:45, nearest transit: W 20th St @ Bevis St, 79.73m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Private  guest suite in the greater Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private  guest suite in the greater Heights, stay from 06:00 to 06:30, nearest transit: W 20th St @ Bevis St, 79.73m away; Fogo de Chao Brazilian Steakhouse, Houston, visit from 08:27 to 09:17, ; Pappadeaux Seafood Kitchen, Houston, visit from 13:18 to 14:18, ; Houston Zoo, Houston, visit from 15:30 to 19:00, ; Pappas Bros. Steakhouse, Houston, visit from 19:30 to 20:45, ; Private  guest suite in the greater Heights, stay from 21:15 to 05:15, nearest transit: W 20th St @ Bevis St, 79.73m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Oklahoma City",
+    "transportation": "Taxi from Houston to Oklahoma City, duration: 471.9616666666667, distance: 715.9145, cost : 715.0",
+    "breakfast": "Houston White Co, Houston",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "Merrill & Houston's Steak Joint, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private  guest suite in the greater Heights, stay from 06:00 to 06:30, nearest transit: W 20th St @ Bevis St, 79.73m away; Houston White Co, Houston, visit from 08:00 to 08:50, ; Hermann Park, Houston, visit from 09:20 to 12:50, ; Eddie V's Prime Seafood, Houston, visit from 13:20 to 14:20, ; Merrill & Houston's Steak Joint, Houston, visit from 19:00 to 20:15, "
+  }
+]

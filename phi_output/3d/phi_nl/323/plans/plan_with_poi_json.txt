@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Tampa",
+    "transportation": "Flight Number: F3158032, from Kansas City to Tampa, Departure Time: 06:20, Arrival Time: 09:47",
+    "breakfast": "-",
+    "lunch": "Bernini Restaurant, Tampa",
+    "dinner": "On Swann, Tampa",
+    "attraction": "ZooTampa At Lowry Park, Tampa",
+    "accommodation": "No Fees! Introverts Paradise! Central Pinellas!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 10:17 to 10:47, nearest transit: U Mall to MSC, 35717.79m away; ZooTampa At Lowry Park, visit from 11:17 to 13:17, nearest transit: Busch Gardens Employee Entrance, 5842.47m away; Bernini Restaurant, visit from 13:47 to 14:27, nearest transit: Busch Gardens Employee Entrance, 9397.67m away; On Swann, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 12894.11m away; No Fees! Introverts Paradise! Central Pinellas!, stay from 23:00 to 08:00, nearest transit: U Mall to MSC, 35717.79m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Whiskey Joe's Bar & Grill - Tampa, Tampa",
+    "lunch": "The Pearl Tampa, Tampa",
+    "dinner": "Columbia Restaurant, Tampa",
+    "attraction": "Tampa Riverwalk, Tampa",
+    "accommodation": "No Fees! Introverts Paradise! Central Pinellas!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 08:00 to 08:30, nearest transit: U Mall to MSC, 35717.79m away; Whiskey Joe's Bar & Grill - Tampa, visit from 09:00 to 09:40, nearest transit: U Mall to MSC, 16878.72m away; Tampa Riverwalk, visit from 10:10 to 12:10, nearest transit: Busch Gardens Employee Entrance, 11564.24m away; The Pearl Tampa, visit from 13:40 to 14:20, nearest transit: Busch Gardens Employee Entrance, 11463.33m away; Columbia Restaurant, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 9370.50m away; No Fees! Introverts Paradise! Central Pinellas!, stay from 23:00 to 08:00, nearest transit: U Mall to MSC, 35717.79m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Kansas City",
+    "transportation": "Flight Number: F3963178, from Tampa to Kansas City, Departure Time: 21:04, Arrival Time: 23:03",
+    "breakfast": "Green Lemon, Tampa",
+    "lunch": "Curry Leaves Indian Cuisine, Tampa",
+    "dinner": "Besito Mexican, Tampa",
+    "attraction": "The Florida Aquarium, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 08:00 to 08:30, nearest transit: U Mall to MSC, 35717.79m away; Green Lemon, visit from 09:00 to 09:40, nearest transit: Busch Gardens Employee Entrance, 13524.68m away; The Florida Aquarium, visit from 10:10 to 12:10, nearest transit: Busch Gardens Employee Entrance, 11275.99m away; Curry Leaves Indian Cuisine, visit from 13:40 to 14:20, nearest transit: Busch Gardens Employee Entrance, 15004.90m away; Besito Mexican, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 14974.17m away"
+  }
+]

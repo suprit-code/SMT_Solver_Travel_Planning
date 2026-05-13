@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Baltimore",
+    "transportation": "Flight Number: F1648499, from Sarasota to Baltimore, Departure Time: 07:01, Arrival Time: 09:23",
+    "breakfast": "-",
+    "lunch": "Tagliata, Baltimore",
+    "dinner": "The Abbey Burger Bistro, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "Luxe Houseboat: Stunning Inner Harbor 360 Views, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 09:48 to 10:08, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; National Aquarium, visit from 10:33 to 12:33, nearest transit: SHOT TOWER METRO West Entrance, 474.59m away; Tagliata, visit from 12:58 to 13:38, nearest transit: SHOT TOWER STATION (METRO) sb, 767.14m away; The Abbey Burger Bistro, visit from 19:00 to 19:40, nearest transit: CHARLES CENTER METRO EV Entrance, 1364.87m away; Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 20:05 to 08:00, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Pratt Street Ale House, Baltimore",
+    "lunch": "La Scala, Baltimore",
+    "dinner": "Charleston Restaurant, Baltimore",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "Luxe Houseboat: Stunning Inner Harbor 360 Views, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 08:00 to 08:30, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; Pratt Street Ale House, visit from 08:55 to 09:35, nearest transit: CHARLES CENTER METRO West Entrance, 365.69m away; The Maryland Zoo, visit from 10:00 to 12:00, nearest transit: MONDAWMIN METRO Escalator 4, 586.50m away; La Scala, visit from 13:35 to 14:15, nearest transit: SHOT TOWER STATION (METRO) sb, 657.16m away; Charleston Restaurant, visit from 19:00 to 19:40, nearest transit: SHOT TOWER STATION (METRO) sb, 915.06m away; Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 23:00 to 08:00, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Sarasota",
+    "transportation": "Flight Number: F4032105, from Baltimore to Sarasota, Departure Time: 15:31, Arrival Time: 18:31",
+    "breakfast": "Amicci's, Baltimore",
+    "lunch": "LP Steamers, Baltimore",
+    "dinner": "-",
+    "attraction": "Inner Harbor, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 08:00 to 08:30, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; Amicci's, visit from 08:55 to 09:35, nearest transit: SHOT TOWER STATION (METRO) sb, 440.38m away; Inner Harbor, visit from 10:00 to 12:00, nearest transit: CHARLES CENTER METRO Stair 5, 594.73m away; LP Steamers, visit from 13:35 to 14:15, nearest transit: SHOT TOWER METRO West Entrance, 2166.78m away"
+  }
+]

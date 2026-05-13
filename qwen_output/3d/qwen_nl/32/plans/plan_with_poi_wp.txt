@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Albany to Nashville",
+    "transportation": "Flight Number: F2105072, from Albany to Nashville, Departure Time: 11:04, Arrival Time: 12:47",
+    "breakfast": "-",
+    "lunch": "Old Hickory Steakhouse, Nashville",
+    "dinner": "The Standard, Nashville",
+    "attraction": "-",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 13:17 to 14:00, nearest transit: PEABODY STATION INBOUND, 149.43m away; Old Hickory Steakhouse, Nashville, visit from 14:30 to 16:44, ; The Standard, Nashville, visit from 20:45 to 22:14, ; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 22:44 to 06:44, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "lunch": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "dinner": "Deacon’s New South, Nashville",
+    "attraction": "Ole Smoky Distillery & Yee-Haw Brewery, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 07:14 to 07:44, nearest transit: PEABODY STATION INBOUND, 149.43m away; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 08:14 to 09:04, ; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 13:05 to 14:05, ; Ole Smoky Distillery & Yee-Haw Brewery, Nashville, visit from 14:35 to 20:15, ; Deacon’s New South, Nashville, visit from 20:45 to 22:00, ; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 22:30 to 06:30, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Albany",
+    "transportation": "Flight Number: F1348960, from Nashville to Albany, Departure Time: 12:31, Arrival Time: 15:32",
+    "breakfast": "Kayne Prime, Nashville",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 07:00 to 07:30, nearest transit: PEABODY STATION INBOUND, 149.43m away; Kayne Prime, Nashville, visit from 08:00 to 08:50, "
+  }
+]

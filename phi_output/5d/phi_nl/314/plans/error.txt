@@ -1,0 +1,15 @@
+Error message:
+list index out of range
+
+Full traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/SMT_Solver_TravelPlanning/Test_TravelPlannerv2.py", line 314, in pipeline
+    lines = step.split('# \n')[1]
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/SMT_Solver_TravelPlanning/Test_TravelPlannerv2.py", line 316, in pipeline
+    lines = step.split('#\n')[1]
+IndexError: list index out of range

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Tampa",
+    "transportation": "Self-driving from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost : 52.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Curry Leaves Indian Cuisine, Tampa",
+    "attraction": "-",
+    "accommodation": "Hostal LA Rosa, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 19:45 to 20:15, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Curry Leaves Indian Cuisine, Tampa, visit from 20:45 to 22:03, ; Hostal LA Rosa, stay from 22:33 to 06:33, nearest transit: Busch Gardens Employee Entrance, 10624.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Columbia Cafe - Riverwalk Tampa, Tampa",
+    "lunch": "Charley’s Steak House & Market Fresh Fish, Tampa",
+    "dinner": "Olivia, Tampa",
+    "attraction": "Glazer Children's Museum, Tampa",
+    "accommodation": "Hostal LA Rosa, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 07:03 to 07:33, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Columbia Cafe - Riverwalk Tampa, Tampa, visit from 08:03 to 08:53, ; Glazer Children's Museum, Tampa, visit from 09:23 to 14:00, ; Charley’s Steak House & Market Fresh Fish, Tampa, visit from 14:30 to 15:30, ; Olivia, Tampa, visit from 19:31 to 21:00, ; Hostal LA Rosa, stay from 21:30 to 05:30, nearest transit: Busch Gardens Employee Entrance, 10624.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Raleigh",
+    "transportation": "Self-driving from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost : 51.0",
+    "breakfast": "Yummy House China Bistro, Tampa",
+    "lunch": "Green Lemon, Tampa",
+    "dinner": "-",
+    "attraction": "Henry B. Plant Museum, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 06:00 to 06:30, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Yummy House China Bistro, Tampa, visit from 08:00 to 08:50, ; Green Lemon, Tampa, visit from 12:51 to 13:51, ; Henry B. Plant Museum, Tampa, visit from 14:21 to 18:31, "
+  }
+]

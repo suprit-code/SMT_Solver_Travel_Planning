@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F2277048, from Denver to San Diego, Departure Time: 10:52, Arrival Time: 11:58",
+    "breakfast": "-",
+    "lunch": "Cafe Coyote, San Diego",
+    "dinner": "Oceana Coastal Kitchen, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "The Surf Shack  - Point Loma, San Diego",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 12:23 to 12:43, nearest transit: Rosecrans St & Talbot St, 37.36m away; Cafe Coyote, visit from 13:08 to 13:48, nearest transit: Juan St & Harney St, 216.77m away; USS Midway Museum, visit from 14:13 to 16:13, nearest transit: Broadway Pier, 287.53m away; Oceana Coastal Kitchen, visit from 19:00 to 19:40, nearest transit: Mission Bl & Santa Rita Pl, 110.31m away; The Surf Shack  - Point Loma, stay from 20:05 to 08:00, nearest transit: Rosecrans St & Talbot St, 37.36m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "The Surf Shack  - Point Loma, San Diego",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 08:00 to 08:30, nearest transit: Rosecrans St & Talbot St, 37.36m away; Din Tai Fung, visit from 08:55 to 09:35, nearest transit: La Jolla Village Dr & Genesee Av, 68.36m away; SeaWorld, visit from 10:00 to 12:00, nearest transit: SeaWorld, 299.84m away; Born & Raised, visit from 13:35 to 14:15, nearest transit: Kettner Bl & Grape St, 125.64m away; Filippi's Pizza Grotto Little Italy, visit from 19:00 to 19:40, nearest transit: India St & Cedar St, 159.79m away; The Surf Shack  - Point Loma, stay from 20:05 to 08:00, nearest transit: Rosecrans St & Talbot St, 37.36m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Denver",
+    "transportation": "Self-driving, from San Diego to Denver, duration: 1136.3100000000002, distance: 1735.4518, cost: 86",
+    "breakfast": "Barbusa, San Diego",
+    "lunch": "The Butcher Shop, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "Little Italy, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 08:00 to 08:30, nearest transit: Rosecrans St & Talbot St, 37.36m away; Barbusa, visit from 08:55 to 09:35, nearest transit: Kettner Bl & Grape St, 104.72m away; Little Italy, visit from 10:00 to 12:00, nearest transit: Kettner Bl & Grape St, 155.04m away; The Butcher Shop, visit from 13:35 to 14:15, nearest transit: Kearny Villa Rd & Kearny Villa Way, 77.63m away; Mimmo's, visit from 19:00 to 19:40, nearest transit: India St & Cedar St, 148.81m away"
+  }
+]

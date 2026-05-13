@@ -1,0 +1,4 @@
+not ok
+Unsatisfiable core:
+Arts and Theatre Eventstype restaurant
+Arts and Theatre Eventstype restaurant is visited

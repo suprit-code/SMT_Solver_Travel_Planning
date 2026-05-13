@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Houston",
+    "transportation": "Flight Number: F3476795, from Charleston to Houston, Departure Time: 06:51, Arrival Time: 08:58",
+    "breakfast": "-",
+    "lunch": "Phoenicia Specialty Foods, Houston",
+    "dinner": "Houston Restaurant, Houston",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 09:28 to 09:58, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Children's Museum Houston, visit from 10:28 to 12:28, nearest transit: Binz St @ Crawford St, 103.26m away; Phoenicia Specialty Foods, visit from 12:58 to 13:38, nearest transit: Lamar St @ Austin St, 9.87m away; Houston Restaurant, visit from 19:00 to 19:40, nearest transit: Conroe Park & Ride, 2530051.98m away; #4 Northwest Victory Single BR, stay from 23:00 to 08:00, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston White Co, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Uchi Houston, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 08:00 to 08:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston White Co, visit from 09:00 to 09:40, nearest transit: Baytown Park & Ride, 2075682.55m away; Cockrell Butterfly Center, visit from 10:10 to 12:10, nearest transit: Main St @ Remington Ln, 160.59m away; Brennan's of Houston, visit from 13:40 to 14:20, nearest transit: Elgin St @ Smith St, 102.40m away; Uchi Houston, visit from 19:00 to 19:40, nearest transit: Westheimer Rd @ Montrose Blvd, 31.07m away; #4 Northwest Victory Single BR, stay from 23:00 to 08:00, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Charleston",
+    "transportation": "Flight Number: F1615543, from Houston to Charleston, Departure Time: 16:08, Arrival Time: 19:22",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Brenner's on the Bayou, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 08:00 to 08:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Kenny & Ziggy's New York Deli, visit from 09:00 to 09:40, nearest transit: Ambassador Station NB, 181.42m away; NRG Stadium, visit from 10:10 to 12:10, nearest transit: Kirby Dr @ Westridge St, 243.93m away; Brenner's on the Bayou, visit from 12:40 to 13:20, nearest transit: Memorial Dr @ Knox St, 214.20m away; Fogo de Chao Brazilian Steakhouse, visit from 14:58 to 15:38, nearest transit: Westheimer Rd @ Old Farm Rd, 57.72m away"
+  }
+]

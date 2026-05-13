@@ -1,0 +1,6 @@
+Destination cities: ['Charlotte'],
+Transportation dates: ['2024-11-13', '2024-11-15'],
+Transportation methods between cities: ['Flight Number: F3713102, from Denver to Charlotte, Departure Time: 16:16, Arrival Time: 21:15', 'Flight Number: F1954956, from Charlotte to Denver, Departure Time: 13:13, Arrival Time: 14:50'],
+Restaurants (3 meals per day): ['-', '-', '-', "Mert's Heart and Soul, Charlotte", "Rooster's Wood-Fired Kitchen - Uptown, Charlotte", 'Gaucho Charlotte Street, Charlotte', "Pinky's Westside Grill, Charlotte", 'The Terrace at The Charlotte Inn, Charlotte', '-'],
+Attractions (1 per day): ['-', 'Truist Field, Charlotte', '-'],
+Accommodations (1 per city): ['Room with a king bed., Charlotte']

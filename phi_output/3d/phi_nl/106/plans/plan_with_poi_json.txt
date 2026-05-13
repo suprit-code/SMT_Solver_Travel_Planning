@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Boise",
+    "transportation": "Flight Number: F0581768, from Houston to Boise, Departure Time: 18:12, Arrival Time: 21:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "North End Private Guest Suite in Historic Home, Boise",
+    "event": "-",
+    "point_of_interest_list": "North End Private Guest Suite in Historic Home, stay from 21:30 to 22:00, nearest transit: W Fort St & N 9th St NEC, 809.58m away; North End Private Guest Suite in Historic Home, stay from 23:00 to 08:00, nearest transit: W Fort St & N 9th St NEC, 809.58m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Boise",
+    "transportation": "-",
+    "breakfast": "Flying M Coffee House, Boise",
+    "lunch": "Guido's Original New York Style Pizza Downtown, Boise",
+    "dinner": "Boise Fry Company, Boise",
+    "attraction": "Basque Museum & Cultural Center, Boise",
+    "accommodation": "North End Private Guest Suite in Historic Home, Boise",
+    "event": "-",
+    "point_of_interest_list": "North End Private Guest Suite in Historic Home, stay from 08:00 to 08:30, nearest transit: W Fort St & N 9th St NEC, 809.58m away; Flying M Coffee House, visit from 09:00 to 09:40, nearest transit: W Idaho St & N 5th St NEC, 33.92m away; Basque Museum & Cultural Center, visit from 10:10 to 12:10, nearest transit: Main Street Station - Lower Deck, 164.49m away; Guido's Original New York Style Pizza Downtown, visit from 13:40 to 14:20, nearest transit: W Idaho St & N 5th St NEC, 44.09m away; Boise Fry Company, visit from 19:00 to 19:40, nearest transit: Main Street Station - Lower Deck, 210.85m away; North End Private Guest Suite in Historic Home, stay from 23:00 to 08:00, nearest transit: W Fort St & N 9th St NEC, 809.58m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Boise to Houston",
+    "transportation": "Flight Number: F2376085, from Boise to Houston, Departure Time: 06:40, Arrival Time: 10:52",
+    "breakfast": "Westside Drive In, Boise",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

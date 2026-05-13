@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-10', '2024-11-12'],
+Transportation methods between cities: ['Flight Number: F2962904, from Kansas City to Atlanta, Departure Time: 05:26, Arrival Time: 08:09', 'Flight Number: F2210567, from Atlanta to Kansas City, Departure Time: 19:43, Arrival Time: 20:33'],
+Restaurants (3 meals per day): ['-', 'Cafe Agora, Atlanta', 'Aria, Atlanta', 'Home Grown, Atlanta', "Nikolai's Roof, Atlanta", 'Aviva by Kameel, Atlanta', 'The Optimist, Atlanta', "Max's Coal Oven Pizzeria, Atlanta", '-'],
+Attractions (1 per day): ['Centennial Olympic Park, Atlanta', 'Zoo Atlanta, Atlanta', 'Georgia Aquarium, Atlanta'],
+Accommodations (1 per city): ['Designer Den | Chic Luxury in a Hip Area, Atlanta']

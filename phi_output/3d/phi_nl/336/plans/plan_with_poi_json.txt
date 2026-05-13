@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Nashville",
+    "transportation": "Flight Number: F3169214, from San Diego to Nashville, Departure Time: 09:01, Arrival Time: 14:46",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "Ole Smoky Distillery & Yee-Haw Brewery, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 15:16 to 15:46, nearest transit: PEABODY STATION INBOUND, 149.43m away; Ole Smoky Distillery & Yee-Haw Brewery, visit from 16:16 to 18:16, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 122.92m away; Aquarium Restaurant, visit from 19:00 to 19:40, nearest transit: OPRY MILLS DR & GENERAL JACKSON'S, 170.74m away; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 23:00 to 08:00, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Harriet's Rooftop, Nashville",
+    "lunch": "Henley, Nashville",
+    "dinner": "Puckett's 5th & Church, Nashville",
+    "attraction": "Ryman Auditorium, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 08:00 to 08:30, nearest transit: PEABODY STATION INBOUND, 149.43m away; Harriet's Rooftop, visit from 09:00 to 09:40, nearest transit: 8TH AVE S & DEMONBREUN ST SB, 66.96m away; Ryman Auditorium, visit from 10:10 to 12:10, nearest transit: 5TH AVE N & COMMERCE ST NB, 76.95m away; Henley, visit from 13:40 to 14:20, nearest transit: 21ST AVE & BROADWAY AVE SB, 79.55m away; Puckett's 5th & Church, visit from 19:00 to 19:40, nearest transit: 5TH AVE N & CHURCH ST NB, 39.47m away; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 23:00 to 08:00, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to San Diego",
+    "transportation": "Flight Number: F2641692, from Nashville to San Diego, Departure Time: 19:27, Arrival Time: 21:15",
+    "breakfast": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "-",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 08:00 to 08:30, nearest transit: PEABODY STATION INBOUND, 149.43m away; Jeff Ruby's Steakhouse, Nashville, visit from 09:00 to 09:40, nearest transit: CENTRAL 4TH AVE - BAY 13, 188.66m away; Cheekwood, visit from 10:10 to 12:10, nearest transit: HWY 70 S & BROOK HOLLOW RD EB, 833.18m away; Kayne Prime, visit from 13:40 to 14:20, nearest transit: 11TH AVE & DEMONBREUN NB, 104.79m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Kansas City",
+    "transportation": "Flight Number: F4012914, from Denver to Kansas City, Departure Time: 22:38, Arrival Time: 01:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Bungalow for Two or Three or Four or..., Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Bungalow for Two or Three or Four or..., stay from 01:30 to 02:00, nearest transit: ON 47TH AT ADAMS EASTBOUND, 296.78m away; Bungalow for Two or Three or Four or..., stay from 02:30 to 08:00, nearest transit: ON 47TH AT ADAMS EASTBOUND, 296.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Garozzo's Ristorante, Kansas City",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Kansas City",
+    "dinner": "KC Chop House, Kansas City",
+    "attraction": "-",
+    "accommodation": "Bungalow for Two or Three or Four or..., Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Bungalow for Two or Three or Four or..., stay from 08:30 to 09:00, nearest transit: ON 47TH AT ADAMS EASTBOUND, 296.78m away; Garozzo's Ristorante, Kansas City, visit from 09:37 to 10:27, ; Fogo de Chao Brazilian Steakhouse, Kansas City, visit from 14:28 to 16:44, ; KC Chop House, Kansas City, visit from 20:45 to 22:00, ; Bungalow for Two or Three or Four or..., stay from 22:30 to 06:30, nearest transit: ON 47TH AT ADAMS EASTBOUND, 296.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Denver",
+    "transportation": "Taxi from Kansas City to Denver, duration: 619.8383333333334, distance: 969.6244, cost : 969.0",
+    "breakfast": "JJ's Restaurant, Kansas City",
+    "lunch": "Char Bar - Westport, Kansas City",
+    "dinner": "Eddie V's Prime Seafood, Kansas City",
+    "attraction": "Crown Center, Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Bungalow for Two or Three or Four or..., stay from 07:00 to 07:30, nearest transit: ON 47TH AT ADAMS EASTBOUND, 296.78m away; JJ's Restaurant, Kansas City, visit from 08:00 to 08:50, ; Crown Center, Kansas City, visit from 09:20 to 12:50, ; Char Bar - Westport, Kansas City, visit from 13:20 to 14:20, ; Eddie V's Prime Seafood, Kansas City, visit from 19:00 to 20:15, "
+  }
+]

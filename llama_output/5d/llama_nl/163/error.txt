@@ -1,0 +1,17 @@
+
+--- JOB 163 FAILED ---
+Error: b'max. memory exceeded'
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 197, in <module>
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 8177, in check
+    return CheckSatResult(Z3_optimize_check(self.ctx.ref(), self.optimize, num, _assumptions))
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3core.py", line 5027, in Z3_optimize_check
+    _elems.Check(a0)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3core.py", line 1579, in Check
+    raise self.Exception(self.get_error_message(ctx, err))
+z3.z3types.Z3Exception: b'max. memory exceeded'
+
+----------------------------------------

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to Baltimore",
+    "transportation": "Flight Number: F3993064, from Portland to Baltimore, Departure Time: 15:37, Arrival Time: 17:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Twist Fell's Point, Baltimore",
+    "attraction": "-",
+    "accommodation": "Large comfortable space w/ private entrance & bath, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Large comfortable space w/ private entrance & bath, stay from 17:33 to 18:03, nearest transit: JOHNS HOPKINS METRO Elevator 2, 6638.83m away; Twist Fell's Point, Baltimore, visit from 19:00 to 23:02, ; Large comfortable space w/ private entrance & bath, stay from 23:32 to 07:32, nearest transit: JOHNS HOPKINS METRO Elevator 2, 6638.83m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "La Tavola, Baltimore",
+    "lunch": "Blue Moon Cafe, Baltimore",
+    "dinner": "LP Steamers, Baltimore",
+    "attraction": "Sagamore Spirit Distillery, Baltimore",
+    "accommodation": "Large comfortable space w/ private entrance & bath, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Large comfortable space w/ private entrance & bath, stay from 08:02 to 08:32, nearest transit: JOHNS HOPKINS METRO Elevator 2, 6638.83m away; La Tavola, Baltimore, visit from 09:02 to 10:00, ; Sagamore Spirit Distillery, Baltimore, visit from 10:30 to 14:00, ; Blue Moon Cafe, Baltimore, visit from 14:30 to 15:30, ; LP Steamers, Baltimore, visit from 20:45 to 22:00, ; Large comfortable space w/ private entrance & bath, stay from 23:15 to 07:15, nearest transit: JOHNS HOPKINS METRO Elevator 2, 6638.83m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Portland",
+    "transportation": "Flight Number: F2691923, from Baltimore to Portland, Departure Time: 10:05, Arrival Time: 11:28",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Large comfortable space w/ private entrance & bath, stay from 07:45 to 08:15, nearest transit: JOHNS HOPKINS METRO Elevator 2, 6638.83m away"
+  }
+]

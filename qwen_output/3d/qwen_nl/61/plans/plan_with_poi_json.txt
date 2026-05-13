@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to Sioux Falls",
+    "transportation": "taxi, from Atlanta to Sioux Falls, duration: 1284.4, distance: 1878.1144, cost: 1878",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Bunkhouse\nRoom #3, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Sioux Falls",
+    "transportation": "-",
+    "breakfast": "Tomacelli's Pizza & Pasta, Sioux Falls",
+    "lunch": "MacKenzie River Pizza, Grill & Pub, Sioux Falls",
+    "dinner": "Minerva's, Sioux Falls",
+    "attraction": "Old Courthouse Museum, Sioux Falls",
+    "accommodation": "The Bunkhouse\nRoom #3, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "The Bunkhouse\nRoom #3, stay from 08:00 to 08:30, nearest transit: Essex/Sertoma NE corner, 11277.84m away; Tomacelli's Pizza & Pasta, visit from 08:55 to 09:35, nearest transit: 12th/Elmwood SW corner, 45.35m away; Old Courthouse Museum, visit from 10:00 to 12:00, nearest transit: Phillips/7th NW corner, 215.45m away; MacKenzie River Pizza, Grill & Pub, visit from 13:35 to 14:15, nearest transit: 10th/Main SW corner, 108.64m away; Minerva's, visit from 19:00 to 19:40, nearest transit: The Bus Stop (TBS) SAM's downtown terminal, 135.41m away; The Bunkhouse\nRoom #3, stay from 20:05 to 08:00, nearest transit: Essex/Sertoma NE corner, 11277.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sioux Falls to Atlanta",
+    "transportation": "Self-driving, from Sioux Falls to Atlanta, duration: 1278.0216666666668, distance: 1875.394, cost: 93",
+    "breakfast": "Morrie\u2019s Steakhouse, Sioux Falls",
+    "lunch": "M.B. Haskett Delicatessen, Sioux Falls",
+    "dinner": "Dynasty Chinese and Vietnamese Cuisine, Sioux Falls",
+    "attraction": "Falls Park, Sioux Falls",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Bunkhouse\nRoom #3, stay from 08:00 to 08:30, nearest transit: Essex/Sertoma NE corner, 11277.84m away; Morrie\u2019s Steakhouse, visit from 08:55 to 09:35, nearest transit: 26th/Shirley (mid-block, across from existing shelter), 220.98m away; Falls Park, visit from 10:00 to 12:00, nearest transit: Weber (east side) at Falls Park Entrance, 200.96m away; M.B. Haskett Delicatessen, visit from 13:35 to 14:15, nearest transit: The Bus Stop (TBS) SAM's downtown terminal, 159.63m away; Dynasty Chinese and Vietnamese Cuisine, visit from 19:00 to 19:40, nearest transit: Marion/24th SE corner, 179.86m away"
+  }
+]

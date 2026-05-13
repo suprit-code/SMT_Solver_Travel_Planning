@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Nashville",
+    "transportation": "Flight Number: F0019890, from New York to Nashville, Departure Time: 07:40, Arrival Time: 09:07",
+    "breakfast": "-",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "Old Hickory Steakhouse, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 09:37 to 10:07, nearest transit: PEABODY STATION INBOUND, 149.43m away; Kayne Prime, Nashville, visit from 12:00 to 13:00, ; Belmont Mansion, Nashville, visit from 13:30 to 17:00, ; Old Hickory Steakhouse, Nashville, visit from 19:00 to 20:15, ; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 22:43 to 06:43, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "The Standard, Nashville",
+    "lunch": "Gannons Nashville, Nashville",
+    "dinner": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 07:13 to 07:43, nearest transit: PEABODY STATION INBOUND, 149.43m away; The Standard, Nashville, visit from 08:13 to 09:59, ; Gannons Nashville, Nashville, visit from 14:00 to 15:00, ; Centennial Park, Nashville, visit from 15:30 to 19:00, ; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 19:30 to 20:45, ; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 22:30 to 06:30, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to New York",
+    "transportation": "Flight Number: F3100830, from Nashville to New York, Departure Time: 19:59, Arrival Time: 22:47",
+    "breakfast": "Luogo, Nashville",
+    "lunch": "The Chef And I, Nashville",
+    "dinner": "-",
+    "attraction": "Ole Smoky Distillery & Yee-Haw Brewery, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 07:00 to 07:30, nearest transit: PEABODY STATION INBOUND, 149.43m away; Luogo, Nashville, visit from 08:00 to 08:50, ; Ole Smoky Distillery & Yee-Haw Brewery, Nashville, visit from 09:20 to 12:50, ; The Chef And I, Nashville, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Kansas City",
+    "transportation": "Flight Number: F1560460, from Detroit to Kansas City, Departure Time: 08:24, Arrival Time: 09:10",
+    "breakfast": "-",
+    "lunch": "Lidia's, Kansas City",
+    "dinner": "801 Chophouse, Kansas City",
+    "attraction": "National WWI Museum and Memorial, Kansas City",
+    "accommodation": "KC Studio in the Heart of it All, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "KC Studio in the Heart of it All, stay from 09:40 to 10:10, nearest transit: ON JC NICHOLS AT 43RD ST NORTHBOUND, 316.08m away; Lidia's, Kansas City, visit from 12:00 to 13:00, ; National WWI Museum and Memorial, Kansas City, visit from 13:30 to 17:00, ; 801 Chophouse, Kansas City, visit from 19:00 to 20:15, ; KC Studio in the Heart of it All, stay from 23:00 to 07:00, nearest transit: ON JC NICHOLS AT 43RD ST NORTHBOUND, 316.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Jack Stack Barbecue - Freight House, Kansas City",
+    "lunch": "Eddie V's Prime Seafood, Kansas City",
+    "dinner": "KC Chop House, Kansas City",
+    "attraction": "GEHA Field at Arrowhead Stadium, Kansas City",
+    "accommodation": "KC Studio in the Heart of it All, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "KC Studio in the Heart of it All, stay from 07:30 to 08:00, nearest transit: ON JC NICHOLS AT 43RD ST NORTHBOUND, 316.08m away; Jack Stack Barbecue - Freight House, Kansas City, visit from 08:30 to 09:59, ; Eddie V's Prime Seafood, Kansas City, visit from 14:00 to 15:00, ; GEHA Field at Arrowhead Stadium, Kansas City, visit from 15:30 to 19:00, ; KC Chop House, Kansas City, visit from 19:30 to 20:45, ; KC Studio in the Heart of it All, stay from 21:15 to 06:30, nearest transit: ON JC NICHOLS AT 43RD ST NORTHBOUND, 316.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Detroit",
+    "transportation": "Flight Number: F2955877, from Kansas City to Detroit, Departure Time: 18:42, Arrival Time: 21:32",
+    "breakfast": "The Majestic Restaurant, Kansas City",
+    "lunch": "The Big Biscuit, Kansas City",
+    "dinner": "-",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "KC Studio in the Heart of it All, stay from 07:00 to 07:30, nearest transit: ON JC NICHOLS AT 43RD ST NORTHBOUND, 316.08m away; The Majestic Restaurant, Kansas City, visit from 08:00 to 08:50, ; Tom's Town Distilling Co., Kansas City, visit from 09:20 to 12:50, ; The Big Biscuit, Kansas City, visit from 13:20 to 14:20, "
+  }
+]

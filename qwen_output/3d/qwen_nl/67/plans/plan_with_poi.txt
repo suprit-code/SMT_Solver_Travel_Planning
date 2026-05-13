@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to Charlotte",
+    "transportation": "Self-driving from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost : 71.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 01:12 to 01:42, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; ❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 02:12 to 08:00, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Eats and Sweets, Charlotte",
+    "lunch": "The Capital Grille, Charlotte",
+    "dinner": "Charlotte's, Charlotte",
+    "attraction": "-",
+    "accommodation": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 08:30 to 09:00, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Charlotte's Eats and Sweets, Charlotte, visit from 09:39 to 10:29, ; The Capital Grille, Charlotte, visit from 14:30 to 15:44, ; Charlotte's, Charlotte, visit from 19:45 to 21:00, ; ❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 21:30 to 05:30, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Martha's Vineyard",
+    "transportation": "Self-driving from Charlotte to Martha's Vineyard, duration: 1122.7316666666666, distance: 1420.8184, cost : 71.0",
+    "breakfast": "Charlotte Quay Restaurant, Charlotte",
+    "lunch": "Charlottes Chocolates, Charlotte",
+    "dinner": "Charlotte's Tea Room, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 06:00 to 06:30, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Charlotte Quay Restaurant, Charlotte, visit from 08:00 to 08:50, ; Levine Museum of the New South, Charlotte, visit from 09:20 to 12:50, ; Charlottes Chocolates, Charlotte, visit from 13:20 to 14:20, ; Charlotte's Tea Room, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from St. Louis to San Diego",
+    "transportation": "Flight Number: F2275818, from St. Louis to San Diego, Departure Time: 10:00, Arrival Time: 11:21",
+    "breakfast": "-",
+    "lunch": "Din Tai Fung, San Diego",
+    "dinner": "Alforon, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 11:51 to 12:21, nearest transit: Adams Av & Biona Dr, 102.11m away; Din Tai Fung, San Diego, visit from 12:51 to 13:51, ; SeaWorld, San Diego, visit from 15:30 to 20:15, ; Alforon, San Diego, visit from 20:45 to 23:10, ; Central & Serene Secret Garden Guesthouse, stay from 23:40 to 07:40, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "The Fishery, San Diego",
+    "lunch": "La Puerta, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 08:10 to 08:40, nearest transit: Adams Av & Biona Dr, 102.11m away; The Fishery, San Diego, visit from 09:10 to 10:00, ; San Diego Zoo, San Diego, visit from 10:30 to 14:00, ; La Puerta, San Diego, visit from 14:30 to 15:30, ; Juniper and Ivy, San Diego, visit from 19:31 to 20:46, ; Central & Serene Secret Garden Guesthouse, stay from 21:16 to 05:16, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to St. Louis",
+    "transportation": "Flight Number: F3174319, from San Diego to St. Louis, Departure Time: 06:58, Arrival Time: 12:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 05:58 to 06:28, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  }
+]

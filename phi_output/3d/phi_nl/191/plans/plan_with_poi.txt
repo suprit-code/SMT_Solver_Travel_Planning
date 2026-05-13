@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F0814694, from San Diego to Seattle, Departure Time: 14:09, Arrival Time: 17:12",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Queen Anne Courtyard Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Queen Anne Courtyard Suite, stay from 17:42 to 18:12, nearest transit: Queen Anne Ave N & W Howe St, 58.44m away; Queen Anne Courtyard Suite, stay from 20:45 to 04:45, nearest transit: Queen Anne Ave N & W Howe St, 58.44m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Spinasse, Seattle",
+    "lunch": "Salty's On Alki Beach, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Queen Anne Courtyard Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Queen Anne Courtyard Suite, stay from 06:00 to 06:30, nearest transit: Queen Anne Ave N & W Howe St, 58.44m away; Spinasse, Seattle, visit from 08:51 to 09:41, ; Seattle Center, Seattle, visit from 10:11 to 13:41, ; Salty's On Alki Beach, Seattle, visit from 14:11 to 15:11, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 19:12 to 20:27, ; Queen Anne Courtyard Suite, stay from 20:57 to 04:57, nearest transit: Queen Anne Ave N & W Howe St, 58.44m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F0346358, from Seattle to San Diego, Departure Time: 15:28, Arrival Time: 18:03",
+    "breakfast": "Il Terrazzo Carmine, Seattle",
+    "lunch": "The Capital Grille, Seattle",
+    "dinner": "-",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Queen Anne Courtyard Suite, stay from 06:00 to 06:30, nearest transit: Queen Anne Ave N & W Howe St, 58.44m away; Il Terrazzo Carmine, Seattle, visit from 08:00 to 08:50, ; Hiram M. Chittenden Locks, Seattle, visit from 09:20 to 12:50, ; The Capital Grille, Seattle, visit from 13:20 to 14:58, "
+  }
+]

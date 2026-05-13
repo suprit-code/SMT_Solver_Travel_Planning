@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to Charlotte",
+    "transportation": "Self-driving, from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost: 71",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Modern Walkable Uptown Flat- 7 blocks to Panthers, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 08:00 to 08:30, nearest transit: Graham St & 10th St, 28.34m away; Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 23:00 to 08:00, nearest transit: Graham St & 10th St, 28.34m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Gaucho Charlotte Street, Charlotte",
+    "lunch": "ROKA Charlotte Street, Charlotte",
+    "dinner": "Charlotte's Eats and Sweets, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "Modern Walkable Uptown Flat- 7 blocks to Panthers, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 08:00 to 08:30, nearest transit: Graham St & 10th St, 28.34m away; Gaucho Charlotte Street, visit from 09:00 to 09:40, nearest transit: Beaty St @ 866, 6415294.40m away; Discovery Place Science, visit from 10:10 to 12:10, nearest transit: Church St & 6th St, 53.42m away; ROKA Charlotte Street, visit from 13:40 to 14:20, nearest transit: Beaty St @ 866, 6415395.43m away; Charlotte's Eats and Sweets, visit from 19:00 to 19:40, nearest transit: Oakland St & Main Ave, 991745.06m away; Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 23:00 to 08:00, nearest transit: Graham St & 10th St, 28.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Martha's Vineyard",
+    "transportation": "Self-driving, from Charlotte to Martha's Vineyard, duration: 1122.7316666666666, distance: 1420.8184, cost: 71",
+    "breakfast": "Pinky's Westside Grill, Charlotte",
+    "lunch": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "dinner": "The Capital Grille, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Walkable Uptown Flat- 7 blocks to Panthers, stay from 08:00 to 08:30, nearest transit: Graham St & 10th St, 28.34m away; Pinky's Westside Grill, visit from 09:00 to 09:40, nearest transit: Morehead St & Grandin Rd, 166.98m away; Truist Field, visit from 10:10 to 12:10, nearest transit: 4th St & Graham St, 146.25m away; Rooster's Wood-Fired Kitchen - Uptown, visit from 13:40 to 14:20, nearest transit: Trade St & College St, 139.39m away; The Capital Grille, visit from 19:00 to 19:40, nearest transit: Tryon St & 6th St, 103.97m away"
+  }
+]

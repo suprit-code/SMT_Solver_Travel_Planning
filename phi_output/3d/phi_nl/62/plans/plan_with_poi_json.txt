@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Antonio",
+    "transportation": "Flight Number: F2584203, from Miami to San Antonio, Departure Time: 14:29, Arrival Time: 16:25",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Boudro's Texas Bistro, San Antonio",
+    "attraction": "Tower Of The Americas, San Antonio",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Pollos Asados Los Nortenos, San Antonio",
+    "lunch": "The Guenther House, San Antonio",
+    "dinner": "Mi Tierra Cafe y Panaderia, San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 08:00 to 08:30, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Pollos Asados Los Nortenos, visit from 09:00 to 09:40, nearest transit: RIGSBY & TILLIE, 180.68m away; The Alamo, visit from 10:10 to 12:10, nearest transit: THIRD & AVENUE E, 126.00m away; The Guenther House, visit from 13:40 to 14:20, nearest transit: S. ALAMO AT THE SAN ANTONIO RIVER, 131.98m away; Mi Tierra Cafe y Panaderia, visit from 19:00 to 19:40, nearest transit: Dolorosa Between San Saba & Santa Rosa, 76.38m away; Cozy Private Room near UTSA & LaCantera, stay from 23:00 to 08:00, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Antonio to Miami",
+    "transportation": "Flight Number: F1372455, from San Antonio to Miami, Departure Time: 17:32, Arrival Time: 21:40",
+    "breakfast": "Schilo's, San Antonio",
+    "lunch": "Iron Cactus Mexican Grill and Margarita Bar, San Antonio",
+    "dinner": "Yard House, San Antonio",
+    "attraction": "Pearl Brewery, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 08:00 to 08:30, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Schilo's, visit from 09:00 to 09:40, nearest transit: COMMERCE & PRESA, 72.30m away; Pearl Brewery, visit from 10:10 to 12:10, nearest transit: JOSEPHINE & ISLETA, 335.74m away; Iron Cactus Mexican Grill and Margarita Bar, visit from 12:40 to 13:20, nearest transit: ST. MARY'S & COMMERCE, 52.12m away; Yard House, visit from 16:22 to 17:02, nearest transit: MARKET/ FRONT OF CONVENTION CENTER, 117.25m away"
+  }
+]

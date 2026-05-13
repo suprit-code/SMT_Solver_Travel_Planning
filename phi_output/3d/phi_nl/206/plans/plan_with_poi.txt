@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Atlanta",
+    "transportation": "Flight Number: F1290971, from Kansas City to Atlanta, Departure Time: 14:39, Arrival Time: 17:31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Americano Atlanta, Atlanta",
+    "attraction": "-",
+    "accommodation": "Urban Oasis in Historic Inman Park, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Urban Oasis in Historic Inman Park, stay from 18:01 to 18:31, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 653.83m away; The Americano Atlanta, Atlanta, visit from 19:01 to 20:16, ; Urban Oasis in Historic Inman Park, stay from 20:46 to 07:11, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 653.83m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "St. Cecilia, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "By George restaurant and bar, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "Urban Oasis in Historic Inman Park, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Urban Oasis in Historic Inman Park, stay from 07:41 to 08:11, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 653.83m away; St. Cecilia, Atlanta, visit from 08:41 to 09:31, ; Centennial Olympic Park, Atlanta, visit from 10:01 to 13:31, ; Cafe Agora, Atlanta, visit from 14:01 to 15:01, ; By George restaurant and bar, Atlanta, visit from 19:02 to 20:17, ; Urban Oasis in Historic Inman Park, stay from 20:47 to 05:30, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 653.83m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Kansas City",
+    "transportation": "Flight Number: F2210567, from Atlanta to Kansas City, Departure Time: 19:43, Arrival Time: 20:33",
+    "breakfast": "The Optimist, Atlanta",
+    "lunch": "Kevin Rathbun Steak, Atlanta",
+    "dinner": "-",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Urban Oasis in Historic Inman Park, stay from 06:00 to 06:30, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 653.83m away; The Optimist, Atlanta, visit from 09:10 to 10:00, ; Zoo Atlanta, Atlanta, visit from 10:30 to 14:00, ; Kevin Rathbun Steak, Atlanta, visit from 14:30 to 19:13, "
+  }
+]

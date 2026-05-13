@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F1983288, from San Diego to Seattle, Departure Time: 13:50, Arrival Time: 17:02",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Cozy Studio with Kitchenette and Laundry, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Tulio, Seattle",
+    "lunch": "Salty's On Alki Beach, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Cozy Studio with Kitchenette and Laundry, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 08:00 to 08:30, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; Tulio, visit from 08:55 to 09:35, nearest transit: 5th Ave & Spring St, 55.15m away; Woodland Park Zoo, visit from 10:00 to 12:00, nearest transit: Phinney Ave N & N 55th St, 257.77m away; Salty's On Alki Beach, visit from 13:35 to 14:15, nearest transit: Harbor Ave SW & 2100 Block, 145.40m away; Dough Zone Dumpling House - Seattle International District, visit from 19:00 to 19:40, nearest transit: 5th Ave S & S Weller St, 26.54m away; Cozy Studio with Kitchenette and Laundry, stay from 20:05 to 08:00, nearest transit: 8th Ave SW & SW Barton St, 278.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F1529957, from Seattle to San Diego, Departure Time: 15:54, Arrival Time: 18:40",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Spinasse, Seattle",
+    "dinner": "Rocco's, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 08:00 to 08:10, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; Noi Thai Cuisine, visit from 08:35 to 08:48, nearest transit: 2nd Ave & Seneca St, 181.65m away; Klondike Gold Rush National Historical Park, visit from 09:13 to 11:13, nearest transit: Occidental Mall, 113.08m away; Spinasse, visit from 12:00 to 12:13, nearest transit: E Pine St & 15th Ave, 90.45m away; Rocco's, visit from 15:16 to 15:29, nearest transit: 3rd Ave & Bell St, 90.96m away"
+  }
+]

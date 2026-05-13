@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Chattanooga",
+    "transportation": "Flight Number: F0457609, from Chicago to Chattanooga, Departure Time: 13:59, Arrival Time: 16:38",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Glenn Falls Tiny Cabin, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "lunch": "Stir, Chattanooga",
+    "dinner": "Urban Stack, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "Glenn Falls Tiny Cabin, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Glenn Falls Tiny Cabin, stay from 08:00 to 08:30, nearest transit: ALABAMA + 56TH, 428.92m away; Maple Street Biscuit Company - City Center, visit from 08:55 to 09:35, nearest transit: BROAD + 4TH, 19.08m away; Tennessee Aquarium, visit from 10:00 to 12:00, nearest transit: BRO AQ 1, 109.14m away; Stir, visit from 13:35 to 14:15, nearest transit: MARKET + MAIN, 69.25m away; Urban Stack, visit from 19:00 to 19:40, nearest transit: MARKET + W 14TH, 96.11m away; Glenn Falls Tiny Cabin, stay from 20:05 to 08:00, nearest transit: ALABAMA + 56TH, 428.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Chicago",
+    "transportation": "Flight Number: F0493734, from Chattanooga to Chicago, Departure Time: 18:18, Arrival Time: 19:05",
+    "breakfast": "Mellow Mushroom Chattanooga, Chattanooga",
+    "lunch": "Easy Bistro & Bar, Chattanooga",
+    "dinner": "-",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Glenn Falls Tiny Cabin, stay from 08:00 to 08:30, nearest transit: ALABAMA + 56TH, 428.92m away; Mellow Mushroom Chattanooga, visit from 08:55 to 09:35, nearest transit: SHUTTLE PARK NORTH - INTERNAL, 25.51m away; Tennessee Valley Railroad Museum, visit from 10:00 to 12:00, nearest transit: Bonny Oaks & Redlands Dr-1, 1191.41m away; Easy Bistro & Bar, visit from 13:35 to 14:15, nearest transit: BRO AQ 1, 56.72m away"
+  }
+]

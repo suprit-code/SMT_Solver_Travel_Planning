@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Monterey",
+    "transportation": "Flight Number: F1371498, from Dallas to Monterey, Departure Time: 16:31, Arrival Time: 17:51",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Dennis the Menace Park, Monterey",
+    "accommodation": "Sallie\u2019s Cottage, Monterey",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Monterey",
+    "transportation": "-",
+    "breakfast": "Monterey's Pizza, Monterey",
+    "lunch": "Monterey Bay Fish Grotto, Monterey",
+    "dinner": "Monterey Jack's Perth, Monterey",
+    "attraction": "17-Mile Drive, Monterey",
+    "accommodation": "Sallie\u2019s Cottage, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Sallie\u2019s Cottage, stay from 08:00 to 08:30, nearest transit: Lighthouse / 19th, 149.42m away; Monterey's Pizza, visit from 09:00 to 09:40, nearest transit: Mission St / 14th St, 3848688.09m away; 17-Mile Drive, visit from 10:10 to 12:10, nearest transit: Asilomar - Conference Center, 2694.67m away; Monterey Bay Fish Grotto, visit from 13:40 to 14:20, nearest transit: Mission St / 14th St, 3573726.84m away; Monterey Jack's Perth, visit from 19:00 to 19:40, nearest transit: Monterey / Gilroy Train Station, 8134998.00m away; Sallie\u2019s Cottage, stay from 23:00 to 08:00, nearest transit: Lighthouse / 19th, 149.42m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Monterey to Dallas",
+    "transportation": "Flight Number: F0400894, from Monterey to Dallas, Departure Time: 13:52, Arrival Time: 18:59",
+    "breakfast": "C restaurant + bar, Monterey",
+    "lunch": "Chart House, Monterey",
+    "dinner": "-",
+    "attraction": "Monterey Bay Aquarium, Monterey",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sallie\u2019s Cottage, stay from 08:00 to 08:30, nearest transit: Lighthouse / 19th, 149.42m away; C restaurant + bar, visit from 09:00 to 09:40, nearest transit: Cannery Row / Aquarium, 93.95m away; Monterey Bay Aquarium, visit from 10:10 to 12:10, nearest transit: Cannery Row / Aquarium, 78.70m away; Chart House, visit from 12:42 to 13:22, nearest transit: Cannery Row /  Drake, 139.04m away"
+  }
+]

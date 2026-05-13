@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Antonio",
+    "transportation": "Flight Number: F0223657, from Miami to San Antonio, Departure Time: 22:12, Arrival Time: 00:18",
+    "breakfast": "Boudro's Texas Bistro, San Antonio",
+    "lunch": "The Guenther House, San Antonio",
+    "dinner": "Nonna Osteria, San Antonio",
+    "attraction": "San Antonio Zoo, San Antonio",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Brenner's on the River Walk, San Antonio",
+    "lunch": "Dough Pizzeria Napoletana, San Antonio",
+    "dinner": "Zocca Cuisine D'Italia, San Antonio",
+    "attraction": "Japanese Tea Gardens, San Antonio",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 08:00 to 08:30, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Brenner's on the River Walk, visit from 08:55 to 09:35, nearest transit: COMMERCE & PRESA, 107.11m away; Japanese Tea Gardens, visit from 10:00 to 12:00, nearest transit: STADIUM DR BETWEEN DEVINE & N CAMPUS DR., 439.47m away; Dough Pizzeria Napoletana, visit from 13:35 to 14:15, nearest transit: Blanco between Loop 410 & Rector, 64.48m away; Zocca Cuisine D'Italia, visit from 19:00 to 19:40, nearest transit: NAVARRO FARSIDE OF BRIDGE, 68.28m away; Cozy Private Room near UTSA & LaCantera, stay from 23:00 to 08:00, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Antonio to Miami",
+    "transportation": "Flight Number: F2584235, from San Antonio to Miami, Departure Time: 17:50, Arrival Time: 21:42",
+    "breakfast": "Pinkerton's Barbecue, San Antonio",
+    "lunch": "Mi Tierra Cafe y Panaderia, San Antonio",
+    "dinner": "J Prime Steakhouse, San Antonio",
+    "attraction": "San Antonio Botanical Garden, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 08:00 to 08:10, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Pinkerton's Barbecue, visit from 08:35 to 08:48, nearest transit: FLORES & HOUSTON, 60.01m away; San Antonio Botanical Garden, visit from 09:13 to 11:13, nearest transit: N. NEW BRAUNFELS & HILDEBRAND, 969.52m away; Mi Tierra Cafe y Panaderia, visit from 12:48 to 13:12, nearest transit: Dolorosa Between San Saba & Santa Rosa, 76.38m away; J Prime Steakhouse, visit from 17:12 to 17:25, nearest transit: WESTBOUND LOOP 1604 ACCESS RD. 645 FT. WEST OF BLANCO, 134.64m away"
+  }
+]

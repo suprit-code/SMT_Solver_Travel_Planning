@@ -1,0 +1,14 @@
+########## Transportation response ##########
+            variables['flight'] = [Bool('flight_travel_' + str(i)) for i in range(3)]
+            variables['self-driving'] = [Bool('self-driving_travel_' + str(i)) for i in range(3)]
+            driving_0_arrtime = IntVal(-1)
+            driving_1_arrtime = IntVal(-1)
+            driving_2_arrtime = IntVal(-1)
+            s.assert_and_track(Or(variables['flight'][0], variables['self-driving'][0]), 'either flight or self-driving for first transportation')
+            s.assert_and_track(Or(variables['flight'][1], variables['self-driving'][1]), 'either flight or self-driving for second transportation')
+            s.assert_and_track(Or(variables['flight'][2], variables['self-driving'][2]), 'either flight or self-driving for third transportation')
+            s.assert_and_track(Not(Or(And(variables['flight'][0], variables['self-driving'][0]), And(variables['flight'][0], variables['self-driving'][1]), And(variables['flight'][0], variables['self-driving'][2]), And(variables['flight'][1], variables['self-driving'][0]), And(variables['flight'][1], variables['self-driving'][1]), And(variables['flight'][1], variables['self-driving'][2]), And(variables['flight'][2], variables['self-driving'][0]), And(variables['flight'][2], variables['self-driving'][1]), And(variables['flight'][2], variables['self-driving'][2]))), 'flight and self-driving not simultaneously for any transportation')
+            s.assert_and_track(Not(variables['self-driving'][0]), 'no self-driving for first transportation')
+            s.assert_and_track(Not(variables['self-driving'][1]), 'no self-driving for second transportation')
+            s.assert_and_track(Not(variables['self-driving'][2]), 'no self-driving for third transportation')
+            ########## Transportation response ends ##########

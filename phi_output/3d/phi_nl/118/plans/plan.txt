@@ -1,0 +1,6 @@
+Destination cities: ['Portland'],
+Transportation dates: ['2024-11-22', '2024-11-24'],
+Transportation methods between cities: ['Flight Number: F0253972, from Boston to Portland, Departure Time: 07:36, Arrival Time: 11:20', 'Flight Number: F0254738, from Portland to Boston, Departure Time: 10:04, Arrival Time: 18:26'],
+Restaurants (3 meals per day): ['-', 'Restaurant Murata, Portland', 'Southpark Seafood, Portland', "Sayler's Old Country Kitchen, Portland", 'Portland City Grill, Portland', 'Tin Shed Garden Cafe, Portland', "Cheryl's on 12th, Portland", 'Higgins Restaurant and Bar, Portland', "Frank's Noodle House, Portland"],
+Attractions (1 per day): ['Portland Discovery Land & Sea Tours, Portland', 'Pittock Mansion, Portland', 'Washington Park, Portland'],
+Accommodations (1 per city): ['Lovely Private Room & Bath in SE (South Tabor), Portland']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Martha's Vineyard",
+    "transportation": "Self-driving, from Charlotte to Martha's Vineyard, duration: 1122.7316666666666, distance: 1420.8184, cost: 71",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Vineyard Haven Walk to Ferry, Martha's Vineyard",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Martha's Vineyard",
+    "transportation": "-",
+    "breakfast": "Wharf Pub & Restaurant, Martha's Vineyard",
+    "lunch": "The Attic, Martha's Vineyard",
+    "dinner": "Outermost Inn, Martha's Vineyard",
+    "attraction": "Aquinnah Cliffs, Martha's Vineyard",
+    "accommodation": "Vineyard Haven Walk to Ferry, Martha's Vineyard",
+    "event": "-",
+    "point_of_interest_list": "Vineyard Haven Walk to Ferry, stay from 08:00 to 08:30, nearest transit: Daggett Avenue, 1010.19m away; Wharf Pub & Restaurant, visit from 08:55 to 09:35, nearest transit: Mayhew Lane, 39.49m away; Aquinnah Cliffs, visit from 10:00 to 12:00, nearest transit: Beetlebung Corner, 157.94m away; The Attic, visit from 13:35 to 14:15, nearest transit: Vineyard Haven SSA Terminal, 158.85m away; Outermost Inn, visit from 19:00 to 19:40, nearest transit: Gay Head Lighthouse, 449.44m away; Vineyard Haven Walk to Ferry, stay from 23:00 to 08:00, nearest transit: Daggett Avenue, 1010.19m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Martha's Vineyard to Charlotte",
+    "transportation": "Self-driving, from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost: 71",
+    "breakfast": "Bobby B's Restaurant & Bakery, Martha's Vineyard",
+    "lunch": "The Terrace at The Charlotte Inn, Martha's Vineyard",
+    "dinner": "The Newes From America, Martha's Vineyard",
+    "attraction": "Martha's Vineyard Tours and Excursions, Martha's Vineyard",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Vineyard Haven Walk to Ferry, stay from 08:00 to 08:30, nearest transit: Daggett Avenue, 1010.19m away; Bobby B's Restaurant & Bakery, visit from 08:55 to 09:35, nearest transit: Tisbury Town Hall, 152.29m away; Martha's Vineyard Tours and Excursions, visit from 10:00 to 12:00, nearest transit: Gay Head Lighthouse, 90.35m away; The Terrace at The Charlotte Inn, visit from 13:35 to 14:15, nearest transit: Mayhew Lane, 197.27m away; The Newes From America, visit from 19:00 to 19:40, nearest transit: Mayhew Lane, 59.95m away"
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Cincinnati'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Flight Number: F2559456, from Sarasota to Cincinnati, Departure Time: 22:48, Arrival Time: 00:58', 'Flight Number: F1342106, from Cincinnati to Sarasota, Departure Time: 17:40, Arrival Time: 19:46'],
+Restaurants (3 meals per day): ["Jeff Ruby's Carlo & Johnny, Cincinnati", "Tony's Of Cincinnati, Cincinnati", 'Boca, Cincinnati', 'Subito, Cincinnati', "Nicola's Ristorante, Cincinnati", 'Losanti, Cincinnati', "Jeff Ruby's Precinct, Cincinnati", "Jeff Ruby's Steakhouse, Cincinnati", '-'],
+Attractions (1 per day): ['Great American Ball Park, Cincinnati', 'Eden Park, Cincinnati', 'National Underground Railroad Freedom Center, Cincinnati'],
+Accommodations (1 per city): ['The Historic Lyric Presidential Suite, Cincinnati']

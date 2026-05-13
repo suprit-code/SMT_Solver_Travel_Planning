@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Los Angeles",
+    "transportation": "Flight Number: F0167865, from Charlotte to Los Angeles, Departure Time: 15:12, Arrival Time: 17:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "Venice Studio \u2013 Steps from Boardwalk, Ocean View, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "22nd Street Landing Seafood Grill & Bar, Los Angeles",
+    "lunch": "Republique, Los Angeles",
+    "dinner": "Maccheroni Republic, Los Angeles",
+    "attraction": "The Grove, Los Angeles",
+    "accommodation": "Venice Studio \u2013 Steps from Boardwalk, Ocean View, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Venice Studio \u2013 Steps from Boardwalk, Ocean View, stay from 08:00 to 08:30, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away; 22nd Street Landing Seafood Grill & Bar, visit from 09:00 to 09:40, nearest transit: Gaffey St & 19th St (Southbound), 1102.00m away; The Grove, visit from 10:10 to 12:10, nearest transit: 3rd & Ogden (Eastbound), 143.67m away; Republique, visit from 13:40 to 14:20, nearest transit: La Brea & 6th (Southbound), 86.53m away; Maccheroni Republic, visit from 19:00 to 19:40, nearest transit: 4th St & Spring St (Eastbound), 135.37m away; Venice Studio \u2013 Steps from Boardwalk, Ocean View, stay from 23:00 to 08:00, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Charlotte",
+    "transportation": "Flight Number: F0176615, from Los Angeles to Charlotte, Departure Time: 13:11, Arrival Time: 20:54",
+    "breakfast": "Water Grill, Los Angeles",
+    "lunch": "Bestia, Los Angeles",
+    "dinner": "-",
+    "attraction": "Citadel Outlets, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

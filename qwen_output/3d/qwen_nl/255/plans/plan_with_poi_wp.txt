@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Francisco",
+    "transportation": "Flight Number: F3894180, from Denver to San Francisco, Departure Time: 16:06, Arrival Time: 17:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Kokkari Estiatorio, San Francisco",
+    "attraction": "-",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 18:06 to 18:36, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Kokkari Estiatorio, San Francisco, visit from 19:06 to 22:02, ; Spacious and charming 1bd apartment on Ocean Beach, stay from 22:32 to 06:32, nearest transit: Civic Center BART (9th and Market), 8766.73m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Mersea Restaurant & Bar, San Francisco",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "dinner": "Z & Y Restaurant, San Francisco",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 07:02 to 07:32, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Mersea Restaurant & Bar, San Francisco, visit from 08:02 to 08:52, ; Alcatraz Island, San Francisco, visit from 09:22 to 12:52, ; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 13:22 to 14:22, ; Z & Y Restaurant, San Francisco, visit from 19:00 to 20:15, ; Spacious and charming 1bd apartment on Ocean Beach, stay from 00:00 to 08:00, nearest transit: Civic Center BART (9th and Market), 8766.73m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Denver",
+    "transportation": "Taxi from San Francisco to Denver, duration: 1298.9733333333331, distance: 2017.3485, cost : 2017.0",
+    "breakfast": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "lunch": "-",
+    "dinner": "Hog Island Oyster Co., San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 08:30 to 09:00, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Harris' Restaurant - The San Francisco Steakhouse, San Francisco, visit from 09:30 to 10:20, ; Lands End, San Francisco, visit from 10:50 to 14:20, ; Hog Island Oyster Co., San Francisco, visit from 19:22 to 20:37, "
+  }
+]

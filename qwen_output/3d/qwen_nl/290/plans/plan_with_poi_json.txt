@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Fort Wayne",
+    "transportation": "Flight Number: F0373120, from Las Vegas to Fort Wayne, Departure Time: 23:24, Arrival Time: 06:06",
+    "breakfast": "-",
+    "lunch": "Han Dynasty, Fort Wayne",
+    "dinner": "The Bluebird Restaurant, Fort Wayne",
+    "attraction": "Fort Wayne Firefighters Museum, Fort Wayne",
+    "accommodation": "Airy Studio Near Downtown, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Fort Wayne",
+    "transportation": "-",
+    "breakfast": "The Original Oley's Pizza, Fort Wayne",
+    "lunch": "Fort Wayne's Famous Coney Island, Fort Wayne",
+    "dinner": "Casa Ristorante, Fort Wayne",
+    "attraction": "Fort Wayne Museum of Art, Fort Wayne",
+    "accommodation": "Airy Studio Near Downtown, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 08:00 to 08:30, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away; The Original Oley's Pizza, visit from 08:55 to 09:35, nearest transit: Liberty Mills Apts. 6101 Cornwallis Dr., 2376.66m away; Fort Wayne Museum of Art, visit from 10:00 to 12:00, nearest transit: Main St. just past bus hut west of Lafayette St. (WB), 34.80m away; Fort Wayne's Famous Coney Island, visit from 13:35 to 14:15, nearest transit: W. Main St. at Harrison St. (WB), 31.97m away; Casa Ristorante, visit from 19:00 to 19:40, nearest transit: CASA Ristorante, 34.94m away; Airy Studio Near Downtown, stay from 20:05 to 08:00, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Fort Wayne to Las Vegas",
+    "transportation": "Flight Number: F2558843, from Fort Wayne to Las Vegas, Departure Time: 13:16, Arrival Time: 14:01",
+    "breakfast": "Copper Spoon, Fort Wayne",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 08:00 to 08:30, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away; Copper Spoon, visit from 08:55 to 09:35, nearest transit: Ewing St. at Jefferson Blvd. (NB), 131.99m away"
+  }
+]

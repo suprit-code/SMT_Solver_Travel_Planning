@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Fort Wayne to Amarillo",
+    "transportation": "Taxi from Fort Wayne to Amarillo, duration: 1209.371666666667, distance: 1800.8417, cost : 1800.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 02:39 to 03:09, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Relaxing Place to Stay with Guest Living Room!, stay from 03:39 to 08:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Cracker Barrel, Amarillo",
+    "lunch": "Joe Taco, Amarillo",
+    "dinner": "Ohms Cafe & Catering, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:30 to 09:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Cracker Barrel, Amarillo, visit from 09:38 to 10:29, ; Joe Taco, Amarillo, visit from 14:30 to 15:39, ; Ohms Cafe & Catering, Amarillo, visit from 19:40 to 20:55, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:25 to 05:25, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F3841602, from Amarillo to Houston, Departure Time: 06:55, Arrival Time: 08:37",
+    "breakfast": "-",
+    "lunch": "Houston's Restaurant, Houston",
+    "dinner": "-",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 05:55 to 06:25, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 09:07 to 09:37, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Houston's Restaurant, Houston, visit from 12:00 to 13:00, ; Hermann Park, Houston, visit from 13:30 to 18:31, ; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 19:01 to 03:01, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houstons Bar and Grill, Houston",
+    "lunch": "Houston's Trail's End, Houston",
+    "dinner": "The Breakfast Klub, Houston",
+    "attraction": "-",
+    "accommodation": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, Houston",
+    "event": "-",
+    "point_of_interest_list": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 06:00 to 06:30, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Houstons Bar and Grill, Houston, visit from 09:39 to 10:29, ; Houston's Trail's End, Houston, visit from 14:30 to 16:44, ; The Breakfast Klub, Houston, visit from 20:45 to 22:34, ; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 23:04 to 07:04, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F1063166, from Houston to San Antonio, Departure Time: 18:55, Arrival Time: 19:47",
+    "breakfast": "Houston's Restaurant & Pub, Houston",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Cozy Cottage, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 07:34 to 08:04, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Houston's Restaurant & Pub, Houston, visit from 08:34 to 09:24, ; Market on Houston, Houston, visit from 13:25 to 14:25, ; Houston Zoo, Houston, visit from 14:55 to 18:25, ; Cozy Cottage, stay from 20:17 to 20:47, nearest transit: DONALDSON OPPOSITE MABRY, 246.46m away; Cozy Cottage, stay from 21:17 to 05:17, nearest transit: DONALDSON OPPOSITE MABRY, 246.46m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "La Margarita Restaurant, San Antonio",
+    "lunch": "Schilo's, San Antonio",
+    "dinner": "Mi Tierra Cafe y Panaderia, San Antonio",
+    "attraction": "Japanese Tea Gardens, San Antonio",
+    "accommodation": "Cozy Cottage, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Cottage, stay from 06:00 to 06:30, nearest transit: DONALDSON OPPOSITE MABRY, 246.46m away; La Margarita Restaurant, San Antonio, visit from 08:01 to 08:51, ; Japanese Tea Gardens, San Antonio, visit from 09:21 to 12:51, ; Schilo's, San Antonio, visit from 13:21 to 14:21, ; Mi Tierra Cafe y Panaderia, San Antonio, visit from 19:00 to 20:15, ; Cozy Cottage, stay from 20:45 to 05:30, nearest transit: DONALDSON OPPOSITE MABRY, 246.46m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Fort Wayne",
+    "transportation": "Taxi from San Antonio to Fort Wayne, duration: 1389.1666666666667, distance: 2066.5601, cost : 2066.0",
+    "breakfast": "Pinkerton's Barbecue, San Antonio",
+    "lunch": "Brenner's on the River Walk, San Antonio",
+    "dinner": "Pollos Asados Los Nortenos, San Antonio",
+    "attraction": "San Antonio Missions National Historical Park, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Cottage, stay from 06:00 to 06:30, nearest transit: DONALDSON OPPOSITE MABRY, 246.46m away; Pinkerton's Barbecue, San Antonio, visit from 08:00 to 08:50, ; San Antonio Missions National Historical Park, San Antonio, visit from 09:20 to 12:50, ; Brenner's on the River Walk, San Antonio, visit from 13:20 to 14:20, ; Pollos Asados Los Nortenos, San Antonio, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Nashville",
+    "transportation": "Flight Number: F3088172, from Charleston to Nashville, Departure Time: 06:38, Arrival Time: 07:02",
+    "breakfast": "Henley, Nashville",
+    "lunch": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "dinner": "Tootsie's Orchid Lounge, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Cute Cottage Apartment Downtown, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Cute Cottage Apartment Downtown, stay from 07:32 to 08:02, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away; Henley, Nashville, visit from 08:32 to 09:22, ; Belmont Mansion, Nashville, visit from 09:52 to 13:22, ; Bourbon Street Blues and Boogie Bar, Nashville, visit from 13:59 to 14:59, ; Tootsie's Orchid Lounge, Nashville, visit from 19:00 to 20:15, ; Cute Cottage Apartment Downtown, stay from 23:40 to 07:40, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Paula Deen's Family Kitchen, Nashville",
+    "lunch": "The Stillery, Nashville",
+    "dinner": "Adele's Nashville, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Cute Cottage Apartment Downtown, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Cute Cottage Apartment Downtown, stay from 08:10 to 08:40, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away; Paula Deen's Family Kitchen, Nashville, visit from 09:10 to 10:00, ; Cheekwood, Nashville, visit from 10:30 to 14:00, ; The Stillery, Nashville, visit from 14:30 to 15:30, ; Adele's Nashville, Nashville, visit from 19:45 to 21:00, ; Cute Cottage Apartment Downtown, stay from 21:30 to 05:30, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "lunch": "-",
+    "dinner": "Cafe Bristol, Bristol",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Sweet Bristol Bungalow, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Cute Cottage Apartment Downtown, stay from 06:00 to 07:30, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 08:00 to 08:50, ; Centennial Park, Nashville, visit from 09:20 to 12:50, ; Sweet Bristol Bungalow, stay from 19:09 to 19:39, nearest transit: Oakview Ave & Hope Ln, 306.51m away; Cafe Bristol, Bristol, visit from 20:09 to 21:24, ; Sweet Bristol Bungalow, stay from 21:54 to 05:54, nearest transit: Oakview Ave & Hope Ln, 306.51m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Little Bristol Beach Bar, Bristol",
+    "lunch": "Blackbird Bakery, Bristol",
+    "dinner": "Eat a Pitta, Bristol",
+    "attraction": "Wills Memorial Building And Tower Tours, Bristol",
+    "accommodation": "Sweet Bristol Bungalow, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Sweet Bristol Bungalow, stay from 06:24 to 06:54, nearest transit: Oakview Ave & Hope Ln, 306.51m away; Little Bristol Beach Bar, Bristol, visit from 09:10 to 10:00, ; Wills Memorial Building And Tower Tours, Bristol, visit from 10:30 to 14:00, ; Blackbird Bakery, Bristol, visit from 14:30 to 15:30, ; Eat a Pitta, Bristol, visit from 19:31 to 20:46, ; Sweet Bristol Bungalow, stay from 21:16 to 05:16, nearest transit: Oakview Ave & Hope Ln, 306.51m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Baba Ganoush Kitchen - Jerusalem Falafel, Bristol",
+    "lunch": "Bosco Pizzeria, Bristol",
+    "dinner": "-",
+    "attraction": "Clifton Suspension Bridge, Bristol",
+    "accommodation": "Glenn Falls Tiny Cabin, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Sweet Bristol Bungalow, stay from 06:00 to 06:30, nearest transit: Oakview Ave & Hope Ln, 306.51m away; Baba Ganoush Kitchen - Jerusalem Falafel, Bristol, visit from 08:00 to 08:50, ; Clifton Suspension Bridge, Bristol, visit from 09:20 to 12:50, ; Bosco Pizzeria, Bristol, visit from 13:20 to 14:20, ; Glenn Falls Tiny Cabin, stay from 19:29 to 22:01, nearest transit: ALABAMA + 56TH, 428.92m away; Glenn Falls Tiny Cabin, stay from 22:31 to 06:31, nearest transit: ALABAMA + 56TH, 428.92m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Mellow Mushroom Chattanooga, Chattanooga",
+    "lunch": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Glenn Falls Tiny Cabin, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Glenn Falls Tiny Cabin, stay from 07:01 to 07:31, nearest transit: ALABAMA + 56TH, 428.92m away; Mellow Mushroom Chattanooga, Chattanooga, visit from 08:01 to 08:51, ; Coolidge Park, Chattanooga, visit from 09:21 to 12:51, ; The Purple Daisy Picnic Cafe, Chattanooga, visit from 13:21 to 14:21, ; Uncle Larry's Restaurant, Chattanooga, visit from 19:00 to 20:15, ; Glenn Falls Tiny Cabin, stay from 20:45 to 05:30, nearest transit: ALABAMA + 56TH, 428.92m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Charleston",
+    "transportation": "Taxi from Chattanooga to Charleston, duration: 481.5883333333333, distance: 671.6777, cost : 671.0",
+    "breakfast": "Stir, Chattanooga",
+    "lunch": "Community Pie, Chattanooga",
+    "dinner": "Hickory Pit Bar-B-Que, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Glenn Falls Tiny Cabin, stay from 06:00 to 07:30, nearest transit: ALABAMA + 56TH, 428.92m away; Stir, Chattanooga, visit from 08:00 to 08:50, ; Tennessee Aquarium, Chattanooga, visit from 09:20 to 12:50, ; Community Pie, Chattanooga, visit from 13:20 to 14:20, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 19:00 to 20:15, "
+  }
+]

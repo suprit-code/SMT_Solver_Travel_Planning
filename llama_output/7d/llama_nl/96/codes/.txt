@@ -1,0 +1,62 @@
+
+                def attraction_search(city):
+                    # Placeholder function to simulate getting museum info
+                    return {
+                        "name": f"Museum in {city}",
+                        "category_score": 5 - abs(3 - int(city)),
+                        "length_info": {"walk": 10, "public_transport": 20}
+                    }
+                
+                def get_museum_in_which_city(city, day):
+                    if day == 0:
+                        return city
+                    elif day == 1:
+                        return city if city != 1 else 0
+                    elif day == 2:
+                        return city if city != 2 else 1
+                    elif day == 3:
+                        return city if city != 0 else 2
+                    else:
+                        raise ValueError("Invalid day")
+                
+                def get_museum_index(museum_in_which_city, city, museum_index):
+                    if museum_in_which_city == city:
+                        return museum_index % 3
+                    else:
+                        return museum_index // 3
+                
+                def calculate_category_score(museum_index, museum_length_info):
+                    return museum_index * museum_length_info["walk"] + (7 - museum_index) * museum_length_info["public_transport"]
+                
+                def maximize_selected_museums():
+                    cities = [0, 1, 2]
+                    museums_in_which_city = [get_museum_in_which_city(city, day) for city in cities for day in range(4)]
+                    museum_indices = [i for i in range(7)]
+                
+                    max_score = 0
+                    best_selection = []
+                
+                    for selection in itertools.combinations(museum_indices, 7):
+                        score = 0
+                        selected_museums = []
+                        for i, museum_index in enumerate(selection):
+                            museum_in_which_city = museums_in_which_city[i]
+                            city = museum_in_which_city % 3
+                            museum = attraction_search(f"{city}")
+                            index = get_museum_index(museum_in_which_city, city, museum_index)
+                            if index < len(selected_museums) and selected_museums[index] == museum["name"]:
+                                continue
+                            selected_museums.append(museum["name"])
+                            score += calculate_category_score(index, museum["length_info"])
+                        
+                        if score > max_score:
+                            max_score = score
+                            best_selection = selected_museums
+                    
+                    print("Best Selection:", best_selection)
+                    print("Max Score:", max_score)
+                
+                maximize_selected_museums()
+                
+                
+                Note: This code assumes that `itertools` is imported at the beginning of your script. If not, you can add `import itertools` at the top.

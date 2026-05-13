@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Flight Number: F1547631, from Martha's Vineyard to New York, Departure Time: 13:22, Arrival Time: 14:39",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "-",
+    "accommodation": "Standard 1 King at Hotel Indigo Williamsburg, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard 1 King at Hotel Indigo Williamsburg, stay from 15:09 to 15:39, nearest transit: FDR DR/555 FDR DR, 1963.47m away; Times Square Diner, New York, visit from 19:00 to 20:15, ; Standard 1 King at Hotel Indigo Williamsburg, stay from 20:45 to 07:40, nearest transit: FDR DR/555 FDR DR, 1963.47m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Lillie's Victorian Establishment, New York",
+    "lunch": "Sarge’s Delicatessen & Diner, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "One World Observatory, New York",
+    "accommodation": "Standard 1 King at Hotel Indigo Williamsburg, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard 1 King at Hotel Indigo Williamsburg, stay from 08:10 to 08:40, nearest transit: FDR DR/555 FDR DR, 1963.47m away; Lillie's Victorian Establishment, New York, visit from 09:10 to 10:00, ; One World Observatory, New York, visit from 10:30 to 14:00, ; Sarge’s Delicatessen & Diner, New York, visit from 14:30 to 15:30, ; FIG & OLIVE, New York, visit from 19:45 to 21:00, ; Standard 1 King at Hotel Indigo Williamsburg, stay from 21:30 to 05:30, nearest transit: FDR DR/555 FDR DR, 1963.47m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Martha's Vineyard",
+    "transportation": "Taxi from New York to Martha's Vineyard, duration: 404.8333333333333, distance: 425.9981, cost : 425.0",
+    "breakfast": "Piccola Cucina Estiatorio, New York",
+    "lunch": "Burger & Lobster, New York",
+    "dinner": "Westway Diner, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Standard 1 King at Hotel Indigo Williamsburg, stay from 06:00 to 06:30, nearest transit: FDR DR/555 FDR DR, 1963.47m away; Piccola Cucina Estiatorio, New York, visit from 08:00 to 08:50, ; The High Line, New York, visit from 09:20 to 14:00, ; Burger & Lobster, New York, visit from 14:30 to 15:30, ; Westway Diner, New York, visit from 19:31 to 20:46, "
+  }
+]

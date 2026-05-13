@@ -1,0 +1,6 @@
+Destination cities: ['Albuquerque'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Flight Number: F1471995, from Chicago to Albuquerque, Departure Time: 10:09, Arrival Time: 11:58', 'Flight Number: F0064855, from Albuquerque to Chicago, Departure Time: 16:09, Arrival Time: 19:38'],
+Restaurants (3 meals per day): ['-', '-', 'Two Fools Tavern, Albuquerque', 'Farina, Albuquerque', 'Dog House Drive In, Albuquerque', 'The Original Cocina Azul, Albuquerque', "Padilla's Mexican Kitchen, Albuquerque", 'Le Troquet Bistro, Albuquerque', 'Budai Gourmet Chinese Restaurant, Albuquerque'],
+Attractions (1 per day): ['Turquoise Museum, Albuquerque', 'Petroglyph National Monument, Albuquerque', 'American International Rattlesnake Museum, Albuquerque'],
+Accommodations (1 per city): ['Clean & Cozy 1-bed Casita with relaxing courtyard, Albuquerque']

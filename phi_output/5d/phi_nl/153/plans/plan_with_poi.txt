@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Green Bay",
+    "transportation": "Taxi from Dallas to Green Bay, duration: 1250.7116666666666, distance: 1783.5529, cost : 1783.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "That Daam House near Downtown Green Bay, WI, Green Bay",
+    "event": "-",
+    "point_of_interest_list": "That Daam House near Downtown Green Bay, WI, stay from 03:20 to 03:50, nearest transit: WEBSTER & STUART INBOUND, 82.05m away; That Daam House near Downtown Green Bay, WI, stay from 04:20 to 08:00, nearest transit: WEBSTER & STUART INBOUND, 82.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Green Bay",
+    "transportation": "-",
+    "breakfast": "Al's Hamburger shop, Green Bay",
+    "lunch": "Sammy's Pizza & Italian Restaurant, Green Bay",
+    "dinner": "Copper State Brewing Co, Green Bay",
+    "attraction": "-",
+    "accommodation": "That Daam House near Downtown Green Bay, WI, Green Bay",
+    "event": "-",
+    "point_of_interest_list": "That Daam House near Downtown Green Bay, WI, stay from 08:30 to 09:00, nearest transit: WEBSTER & STUART INBOUND, 82.05m away; Al's Hamburger shop, Green Bay, visit from 09:35 to 10:25, ; Sammy's Pizza & Italian Restaurant, Green Bay, visit from 14:26 to 15:26, ; Copper State Brewing Co, Green Bay, visit from 19:27 to 20:42, ; That Daam House near Downtown Green Bay, WI, stay from 21:12 to 05:12, nearest transit: WEBSTER & STUART INBOUND, 82.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Green Bay to Madison",
+    "transportation": "Taxi from Green Bay to Madison, duration: 168.9, distance: 218.8333, cost : 218.0",
+    "breakfast": "The Village Grille, Green Bay",
+    "lunch": "The Pancake Place, Green Bay",
+    "dinner": "-",
+    "attraction": "Lambeau Field, Green Bay",
+    "accommodation": "Cape Cod Loft, High-Speed internet + King bed, Madison",
+    "event": "-",
+    "point_of_interest_list": "That Daam House near Downtown Green Bay, WI, stay from 06:00 to 06:30, nearest transit: WEBSTER & STUART INBOUND, 82.05m away; The Village Grille, Green Bay, visit from 09:10 to 10:00, ; Lambeau Field, Green Bay, visit from 10:30 to 14:00, ; The Pancake Place, Green Bay, visit from 14:30 to 16:48, ; Cape Cod Loft, High-Speed internet + King bed, stay from 21:33 to 22:03, nearest transit: Godfrey Walmart, 465402.92m away; Cape Cod Loft, High-Speed internet + King bed, stay from 22:33 to 06:33, nearest transit: Godfrey Walmart, 465402.92m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Madison",
+    "transportation": "-",
+    "breakfast": "Dotty Dumpling's Dowry, Madison",
+    "lunch": "Town 220 Restaurant, Madison",
+    "dinner": "Mickies Dairy Bar, Madison",
+    "attraction": "Olbrich Botanical Gardens, Madison",
+    "accommodation": "Cape Cod Loft, High-Speed internet + King bed, Madison",
+    "event": "-",
+    "point_of_interest_list": "Cape Cod Loft, High-Speed internet + King bed, stay from 07:03 to 07:33, nearest transit: Godfrey Walmart, 465402.92m away; Dotty Dumpling's Dowry, Madison, visit from 08:03 to 08:53, ; Olbrich Botanical Gardens, Madison, visit from 09:23 to 12:53, ; Town 220 Restaurant, Madison, visit from 13:59 to 14:59, ; Mickies Dairy Bar, Madison, visit from 19:00 to 20:15, ; Cape Cod Loft, High-Speed internet + King bed, stay from 21:30 to 05:30, nearest transit: Godfrey Walmart, 465402.92m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Madison to Dallas",
+    "transportation": "Flight Number: F1905504, from Madison to Dallas, Departure Time: 19:00, Arrival Time: 21:29",
+    "breakfast": "Babcock Hall Dairy Store, Madison",
+    "lunch": "Greenbush Bakery Inc, Madison",
+    "dinner": "-",
+    "attraction": "Henry Vilas Zoo, Madison",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cape Cod Loft, High-Speed internet + King bed, stay from 06:00 to 06:30, nearest transit: Godfrey Walmart, 465402.92m away; Babcock Hall Dairy Store, Madison, visit from 08:00 to 08:50, ; Henry Vilas Zoo, Madison, visit from 09:20 to 12:50, ; Greenbush Bakery Inc, Madison, visit from 13:20 to 14:20, "
+  }
+]

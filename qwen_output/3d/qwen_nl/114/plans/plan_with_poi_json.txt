@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Nantucket",
+    "transportation": "Flight Number: F1703223, from Washington to Nantucket, Departure Time: 08:01, Arrival Time: 09:22",
+    "breakfast": "Ventuno, Nantucket",
+    "lunch": "Ships Inn Restaurant, Nantucket",
+    "dinner": "Le Languedoc Inn & Bistro, Nantucket",
+    "attraction": "Sankaty Head Lighthouse, Nantucket",
+    "accommodation": "PRICE-DROP! New construction home Mid-island, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "PRICE-DROP! New construction home Mid-island, stay from 09:47 to 09:53, nearest transit: Cedar Circle, 165.29m away; Ventuno, visit from 10:18 to 10:50, nearest transit: Broad Street (in front of Whaling Museum), 98.66m away; Sankaty Head Lighthouse, visit from 11:15 to 13:15, nearest transit: Bayberry Lane, 150.99m away; Ships Inn Restaurant, visit from 14:50 to 15:30, nearest transit: Downtown (Washington Street, Greenhound Stop), 248.46m away; Le Languedoc Inn & Bistro, visit from 19:30 to 20:10, nearest transit: Broad Street (in front of Whaling Museum), 151.21m away; PRICE-DROP! New construction home Mid-island, stay from 20:35 to 08:00, nearest transit: Cedar Circle, 165.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nantucket",
+    "transportation": "-",
+    "breakfast": "Brant Point Grill, Nantucket",
+    "lunch": "The Summer House Restaurant, Nantucket",
+    "dinner": "The Proprietors Bar and Table, Nantucket",
+    "attraction": "Whaling Museum, Nantucket",
+    "accommodation": "PRICE-DROP! New construction home Mid-island, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "PRICE-DROP! New construction home Mid-island, stay from 08:00 to 08:30, nearest transit: Cedar Circle, 165.29m away; Brant Point Grill, visit from 08:55 to 09:35, nearest transit: South Beach Street/Easton Street (Outbound), 190.33m away; Whaling Museum, visit from 10:00 to 12:00, nearest transit: Broad Street (in front of Whaling Museum), 15.72m away; The Summer House Restaurant, visit from 13:35 to 14:15, nearest transit: Main Street Rotary, Sconset, 227.73m away; The Proprietors Bar and Table, visit from 19:00 to 19:40, nearest transit: Broad Street (in front of Whaling Museum), 170.26m away; PRICE-DROP! New construction home Mid-island, stay from 20:05 to 08:00, nearest transit: Cedar Circle, 165.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nantucket to Washington",
+    "transportation": "Flight Number: F1701497, from Nantucket to Washington, Departure Time: 17:05, Arrival Time: 18:34",
+    "breakfast": "Topper's, Nantucket",
+    "lunch": "Company of the Cauldron, Nantucket",
+    "dinner": "The Chanticleer, Nantucket",
+    "attraction": "Great Point Light, Nantucket",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "PRICE-DROP! New construction home Mid-island, stay from 08:00 to 08:10, nearest transit: Cedar Circle, 165.29m away; Topper's, visit from 08:35 to 08:48, nearest transit: Quidnet Road, 3181.30m away; Great Point Light, visit from 09:13 to 11:13, nearest transit: Quidnet Road, 3037.19m away; Company of the Cauldron, visit from 12:14 to 12:27, nearest transit: Broad Street (in front of Whaling Museum), 172.35m away; The Chanticleer, visit from 16:27 to 16:40, nearest transit: Main Street Rotary, Sconset, 120.52m away"
+  }
+]

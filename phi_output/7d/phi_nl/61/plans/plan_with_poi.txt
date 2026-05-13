@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to San Diego",
+    "transportation": "Flight Number: F1988724, from Boston to San Diego, Departure Time: 08:31, Arrival Time: 11:43",
+    "breakfast": "-",
+    "lunch": "Buon Appetito, San Diego",
+    "dinner": "La Puerta, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Bed in 4-Bed room in Stylish Hostel, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 12:13 to 12:43, nearest transit: Cable St & Newport Av, 118.17m away; Buon Appetito, San Diego, visit from 13:13 to 14:13, ; Cabrillo National Monument, San Diego, visit from 14:43 to 18:13, ; La Puerta, San Diego, visit from 20:45 to 22:23, ; Bed in 4-Bed room in Stylish Hostel, stay from 22:53 to 06:53, nearest transit: Cable St & Newport Av, 118.17m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Morning Glory, San Diego",
+    "lunch": "Vessel Restaurant + Bar, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Bed in 4-Bed room in Stylish Hostel, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 07:23 to 07:53, nearest transit: Cable St & Newport Av, 118.17m away; Morning Glory, San Diego, visit from 08:23 to 10:00, ; Birch Aquarium at Scripps, San Diego, visit from 10:30 to 14:00, ; Vessel Restaurant + Bar, San Diego, visit from 14:30 to 15:30, ; Pacific Beach AleHouse, San Diego, visit from 20:45 to 22:00, ; Bed in 4-Bed room in Stylish Hostel, stay from 22:30 to 06:30, nearest transit: Cable St & Newport Av, 118.17m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Addison Restaurant, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Life Along River - Private Bed 'N Bath MB Suite, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 07:00 to 07:30, nearest transit: Cable St & Newport Av, 118.17m away; Addison Restaurant, San Diego, visit from 08:00 to 08:50, ; Life Along River - Private Bed 'N Bath MB Suite, stay from 19:11 to 19:41, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; Life Along River - Private Bed 'N Bath MB Suite, stay from 20:11 to 05:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Bangkok @12 Thai Restaurant, Sacramento",
+    "lunch": "The Firehouse Restaurant, Sacramento",
+    "dinner": "Echo and Rig, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Life Along River - Private Bed 'N Bath MB Suite, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Life Along River - Private Bed 'N Bath MB Suite, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; Bangkok @12 Thai Restaurant, Sacramento, visit from 09:10 to 10:00, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; The Firehouse Restaurant, Sacramento, visit from 14:30 to 15:30, ; Echo and Rig, Sacramento, visit from 20:45 to 22:00, ; Life Along River - Private Bed 'N Bath MB Suite, stay from 22:30 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Flight Number: F3993367, from Sacramento to Los Angeles, Departure Time: 16:20, Arrival Time: 18:10",
+    "breakfast": "Zocalo, Sacramento",
+    "lunch": "Grange Restaurant & Bar, Sacramento",
+    "dinner": "Spire 73, Los Angeles",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Cozy Beverly Hills Studio Guest House, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Life Along River - Private Bed 'N Bath MB Suite, stay from 07:00 to 07:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; Zocalo, Sacramento, visit from 09:10 to 10:00, ; California State Capitol Museum, Sacramento, visit from 10:30 to 14:00, ; Grange Restaurant & Bar, Sacramento, visit from 14:30 to 15:30, ; Cozy Beverly Hills Studio Guest House, stay from 18:40 to 19:10, nearest transit: Olympic Blvd & Beverwil Dr. (Westbound), 127.65m away; Spire 73, Los Angeles, visit from 19:40 to 20:55, ; Cozy Beverly Hills Studio Guest House, stay from 21:25 to 05:25, nearest transit: Olympic Blvd & Beverwil Dr. (Westbound), 127.65m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "The Palm - L.A. Downtown, Los Angeles",
+    "lunch": "Leo & Lily, Los Angeles",
+    "dinner": "Bestia, Los Angeles",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "Cozy Beverly Hills Studio Guest House, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Cozy Beverly Hills Studio Guest House, stay from 06:00 to 06:30, nearest transit: Olympic Blvd & Beverwil Dr. (Westbound), 127.65m away; The Palm - L.A. Downtown, Los Angeles, visit from 09:10 to 10:00, ; Walt Disney Concert Hall, Los Angeles, visit from 10:30 to 14:00, ; Leo & Lily, Los Angeles, visit from 14:30 to 15:30, ; Bestia, Los Angeles, visit from 19:31 to 20:46, ; Cozy Beverly Hills Studio Guest House, stay from 00:00 to 08:00, nearest transit: Olympic Blvd & Beverwil Dr. (Westbound), 127.65m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Boston",
+    "transportation": "Flight Number: F1560955, from Los Angeles to Boston, Departure Time: 11:55, Arrival Time: 20:09",
+    "breakfast": "Katsuya, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Beverly Hills Studio Guest House, stay from 08:30 to 09:00, nearest transit: Olympic Blvd & Beverwil Dr. (Westbound), 127.65m away; Katsuya, Los Angeles, visit from 09:30 to 10:20, "
+  }
+]

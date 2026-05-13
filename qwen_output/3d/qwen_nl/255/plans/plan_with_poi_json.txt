@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Francisco",
+    "transportation": "Flight Number: F3894180, from Denver to San Francisco, Departure Time: 16:06, Arrival Time: 17:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Kokkari Estiatorio, San Francisco",
+    "lunch": "Mersea Restaurant & Bar, San Francisco",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 08:00 to 08:30, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Kokkari Estiatorio, visit from 08:55 to 09:35, nearest transit: Mission @ Spear (Embarcadero), 718.77m away; Lands End, visit from 10:00 to 12:00, nearest transit: Civic Center BART (9th and Market), 7487.45m away; Mersea Restaurant & Bar, visit from 13:35 to 14:15, nearest transit: Mission @ Spear (Embarcadero), 3667.91m away; Fogo de Chao Brazilian Steakhouse, visit from 19:00 to 19:40, nearest transit: Powell @ 22 4th, 490.45m away; Spacious and charming 1bd apartment on Ocean Beach, stay from 20:05 to 08:00, nearest transit: Civic Center BART (9th and Market), 8766.73m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Denver",
+    "transportation": "taxi, from San Francisco to Denver, duration: 1298.9733333333331, distance: 2017.3485, cost: 2017",
+    "breakfast": "Z & Y Restaurant, San Francisco",
+    "lunch": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "dinner": "Hog Island Oyster Co., San Francisco",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 08:00 to 08:30, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Z & Y Restaurant, visit from 08:55 to 09:35, nearest transit: Mission @ Spear (Embarcadero), 1149.68m away; Pier 39, visit from 10:00 to 12:00, nearest transit: Mission @ Spear (Embarcadero), 2268.81m away; Harris' Restaurant - The San Francisco Steakhouse, visit from 13:35 to 14:15, nearest transit: Powell @ 22 4th, 1858.31m away; Hog Island Oyster Co., visit from 19:00 to 19:40, nearest transit: Mission @ Spear (Embarcadero), 358.44m away"
+  }
+]

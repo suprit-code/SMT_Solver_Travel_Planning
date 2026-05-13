@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Las Vegas",
+    "transportation": "Flight Number: F0919318, from Sioux Falls to Las Vegas, Departure Time: 15:40, Arrival Time: 16:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Blossom, Las Vegas",
+    "attraction": "High Roller, Las Vegas",
+    "accommodation": "Adorable Sendera Santa, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Carmine's, Las Vegas",
+    "lunch": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "Adorable Sendera Santa, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Adorable Sendera Santa, stay from 08:00 to 08:30, nearest transit: The Strat, 11681.92m away; Carmine's, visit from 08:55 to 09:35, nearest transit: The Strat, 3610.12m away; Hoover Dam Bypass, visit from 10:00 to 12:00, nearest transit: Fremont East Entertainment District, 39777.46m away; Firefly Tapas Kitchen & Bar, visit from 13:35 to 14:15, nearest transit: The Strat, 3079.37m away; Mr. Mamas, visit from 19:00 to 19:40, nearest transit: The Strat, 9224.85m away; Adorable Sendera Santa, stay from 23:00 to 08:00, nearest transit: The Strat, 11681.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Sioux Falls",
+    "transportation": "Flight Number: F2560739, from Las Vegas to Sioux Falls, Departure Time: 16:07, Arrival Time: 20:39",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "-",
+    "attraction": "The Las Vegas Strip, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Adorable Sendera Santa, stay from 08:00 to 08:30, nearest transit: The Strat, 11681.92m away; Ameribrunch Cafe, visit from 08:55 to 09:35, nearest transit: Fremont East Entertainment District, 393.75m away; The Las Vegas Strip, visit from 10:00 to 12:00, nearest transit: The Strat, 4134.07m away; Eggscellent, visit from 13:35 to 14:15, nearest transit: The Strat, 4208.46m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to Seattle",
+    "transportation": "Flight Number: F0292124, from Tucson to Seattle, Departure Time: 13:22, Arrival Time: 16:42",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Butcher's Table, Seattle",
+    "attraction": "-",
+    "accommodation": "Cascade Room @ Judkins Park Inn - Next to Downtown, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cascade Room @ Judkins Park Inn - Next to Downtown, stay from 17:12 to 18:30, nearest transit: 23rd Ave S & S Dearborn St, 142.12m away; The Butcher's Table, Seattle, visit from 19:00 to 22:02, ; Cascade Room @ Judkins Park Inn - Next to Downtown, stay from 22:32 to 06:32, nearest transit: 23rd Ave S & S Dearborn St, 142.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Six Seven Restaurant, Seattle",
+    "lunch": "Place Pigalle Restaurant and Bar, Seattle",
+    "dinner": "Salty's On Alki Beach, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "Cascade Room @ Judkins Park Inn - Next to Downtown, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cascade Room @ Judkins Park Inn - Next to Downtown, stay from 07:02 to 07:32, nearest transit: 23rd Ave S & S Dearborn St, 142.12m away; Six Seven Restaurant, Seattle, visit from 08:02 to 10:00, ; Klondike Gold Rush National Historical Park, Seattle, visit from 10:30 to 14:00, ; Place Pigalle Restaurant and Bar, Seattle, visit from 14:30 to 16:44, ; Salty's On Alki Beach, Seattle, visit from 20:45 to 23:10, ; Cascade Room @ Judkins Park Inn - Next to Downtown, stay from 23:40 to 07:40, nearest transit: 23rd Ave S & S Dearborn St, 142.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Tucson",
+    "transportation": "Flight Number: F3819338, from Seattle to Tucson, Departure Time: 17:44, Arrival Time: 21:39",
+    "breakfast": "Spinasse, Seattle",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "-",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cascade Room @ Judkins Park Inn - Next to Downtown, stay from 08:10 to 08:40, nearest transit: 23rd Ave S & S Dearborn St, 142.12m away; Spinasse, Seattle, visit from 09:10 to 10:00, ; Pike Place Market, Seattle, visit from 10:30 to 14:00, ; Il Terrazzo Carmine, Seattle, visit from 14:30 to 15:30, "
+  }
+]

@@ -1,0 +1,78 @@
+
+                def run_event_search(city_ids):
+                    events = {}
+                    for city_id in city_ids:
+                        # Assume this function returns a list of events for the given city
+                        events[city_id] = EventSearch(city_id)
+                    return events
+                
+                def set_event_in_which_city(events, cities, transportation_times):
+                    event_in_which_city = [None] * 7
+                    for i, (event, transport_time) in enumerate(zip(events, transportation_times)):
+                        if transport_time == 0:
+                            event_in_which_city[i] = cities[0]
+                        elif transport_time == 1:
+                            event_in_which_city[i] = cities[1]
+                        else:
+                            event_in_which_city[i] = cities[2]
+                    return event_in_which_city
+                
+                def set_event_index(event_in_which_city, events_info):
+                    event_index = [None] * 7
+                    for i, city in enumerate(event_in_which_city):
+                        if city == 'city_0':
+                            event_index[i] = events_info['city_0'][i % len(events_info['city_0'])]
+                        elif city == 'city_1':
+                            event_index[i] = events_info['city_1'][i % len(events_info['city_1'])]
+                        else:
+                            event_index[i] = events_info['city_2'][i % len(events_info['city_2'])]
+                    return event_index
+                
+                def get_event_scores(event_index, events_info):
+                    scores = []
+                    for index in event_index:
+                        event_type = events_info[index]['type']
+                        if event_type in ['Concerts & Shows']:
+                            scores.append(events_info[index]['score'])
+                        else:
+                            scores.append(0)
+                    return sum(scores)
+                
+                def maximize_concerts(events_info):
+                    max_score = 0
+                    best_events = []
+                    for i in range(len(events_info)):
+                        for j in range(i + 1, len(events_info)):
+                            for k in range(j + 1, len(events_info)):
+                                for l in range(k + 1, len(events_info)):
+                                    for m in range(l + 1, len(events_info)):
+                                        for n in range(m + 1, len(events_info)):
+                                            for o in range(n + 1, len(events_info)):
+                                                selected_events = [events_info[i], events_info[j], events_info[k], events_info[l], events_info[m], events_info[n], events_info[o]]
+                                                concert_count = sum(1 for event in selected_events if event['type'] == 'Concerts & Shows')
+                                                if concert_count > 3:
+                                                    score = sum(event['score'] for event in selected_events if event['type'] == 'Concerts & Shows')
+                                                    if score > max_score:
+                                                        max_score = score
+                                                        best_events = selected_events
+                    return best_events, max_score
+                
+                # Example usage
+                cities = ['city_0', 'city_1', 'city_2']
+                transportation_times = [0, 1, 2, 0, 1, 2, 0]
+                
+                events = run_event_search(cities)
+                event_in_which_city = set_event_in_which_city(events, cities, transportation_times)
+                events_info = {
+                    'city_0': [{'type': 'Concerts & Shows', 'score': 8}, {'type': 'Exhibitions', 'score': 5}, {'type': 'Concerts & Shows', 'score': 7}],
+                    'city_1': [{'type': 'Concerts & Shows', 'score': 9}, {'type': 'Concerts & Shows', 'score': 6}, {'type': 'Exhibitions', 'score': 4}],
+                    'city_2': [{'type': 'Concerts & Shows', 'score': 10}, {'type': 'Exhibitions', 'score': 3}, {'type': 'Concerts & Shows', 'score': 8}]
+                }
+                
+                event_index = set_event_index(event_in_which_city, events_info)
+                concert_scores = get_event_scores(event_index, events_info)
+                best_events, max_concert_score = maximize_concerts(events_info)
+                
+                print("Selected Events:", best_events)
+                print("Max Concert Score:", max_concert_score)
+                

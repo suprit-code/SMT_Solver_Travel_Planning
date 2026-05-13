@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Monterey",
+    "transportation": "Flight Number: F1766520, from Seattle to Monterey, Departure Time: 11:49, Arrival Time: 14:08",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cafe Fina, Monterey",
+    "attraction": "-",
+    "accommodation": "Serene Redwood Retreat w/Modern Comfort, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 14:38 to 20:15, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Cafe Fina, Monterey, visit from 20:45 to 22:05, ; Serene Redwood Retreat w/Modern Comfort, stay from 22:35 to 06:35, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Monterey",
+    "transportation": "-",
+    "breakfast": "Peter B's Brewpub, Monterey",
+    "lunch": "Compagno's Market & Deli, Monterey",
+    "dinner": "Monterey's Pizza, Monterey",
+    "attraction": "17-Mile Drive, Monterey",
+    "accommodation": "Serene Redwood Retreat w/Modern Comfort, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 07:05 to 07:35, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Peter B's Brewpub, Monterey, visit from 08:05 to 09:59, ; Compagno's Market & Deli, Monterey, visit from 14:00 to 15:00, ; 17-Mile Drive, Monterey, visit from 15:30 to 19:00, ; Monterey's Pizza, Monterey, visit from 19:30 to 22:57, ; Serene Redwood Retreat w/Modern Comfort, stay from 23:27 to 07:27, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Monterey to Seattle",
+    "transportation": "Flight Number: F3820057, from Monterey to Seattle, Departure Time: 14:17, Arrival Time: 16:41",
+    "breakfast": "Monterey's Fish House, Monterey",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Monterey Bay Aquarium, Monterey",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 07:57 to 08:27, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Monterey's Fish House, Monterey, visit from 08:57 to 09:47, ; Monterey Bay Aquarium, Monterey, visit from 10:17 to 13:47, "
+  }
+]

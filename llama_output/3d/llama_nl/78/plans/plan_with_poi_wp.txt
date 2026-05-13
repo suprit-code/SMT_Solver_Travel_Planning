@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Charlotte",
+    "transportation": "Flight Number: F0665203, from Denver to Charlotte, Departure Time: 14:00, Arrival Time: 18:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 19:18 to 19:48, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Comfy private bed and bath, stay from 20:18 to 07:27, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Eats and Sweets, Charlotte",
+    "lunch": "Pinky's Westside Grill, Charlotte",
+    "dinner": "Charlotte Bakery, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 07:57 to 08:27, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Charlotte's Eats and Sweets, Charlotte, visit from 08:57 to 09:47, ; Pinky's Westside Grill, Charlotte, visit from 13:48 to 14:48, ; NASCAR Hall of Fame, Charlotte, visit from 15:18 to 18:48, ; Charlotte Bakery, Charlotte, visit from 19:18 to 20:33, ; Comfy private bed and bath, stay from 22:45 to 06:45, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Denver",
+    "transportation": "Flight Number: F1492603, from Charlotte to Denver, Departure Time: 08:15, Arrival Time: 09:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 07:15 to 07:45, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  }
+]

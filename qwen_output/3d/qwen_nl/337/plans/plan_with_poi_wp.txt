@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F3738580, from Seattle to San Diego, Departure Time: 05:55, Arrival Time: 08:29",
+    "breakfast": "-",
+    "lunch": "Lou & Mickey's, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 08:59 to 09:29, nearest transit: Adams Av & Hawley Bl, 292.57m away; Lou & Mickey's, San Diego, visit from 12:00 to 13:00, ; Cabrillo National Monument, San Diego, visit from 13:30 to 19:15, ; Pacific Beach AleHouse, San Diego, visit from 19:45 to 21:00, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 21:30 to 05:30, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "Little Italy, San Diego",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 06:00 to 06:30, nearest transit: Adams Av & Hawley Bl, 292.57m away; Din Tai Fung, San Diego, visit from 08:57 to 09:47, ; Cowboy Star, San Diego, visit from 13:48 to 14:48, ; Little Italy, San Diego, visit from 15:18 to 18:48, ; Mimmo's, San Diego, visit from 19:18 to 20:33, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 22:30 to 06:30, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F0805774, from San Diego to Seattle, Departure Time: 16:02, Arrival Time: 19:00",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "-",
+    "attraction": "Old Town San Diego, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 07:00 to 07:30, nearest transit: Adams Av & Hawley Bl, 292.57m away; Juniper and Ivy, San Diego, visit from 08:00 to 08:50, ; Old Town San Diego, San Diego, visit from 09:20 to 12:50, ; Born & Raised, San Diego, visit from 13:20 to 14:20, "
+  }
+]

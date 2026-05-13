@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Baltimore to San Diego",
+    "transportation": "Flight Number: F1595951, from Baltimore to San Diego, Departure Time: 06:14, Arrival Time: 08:07",
+    "breakfast": "Casa Guadalajara, San Diego",
+    "lunch": "Lou & Mickey's, San Diego",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "-",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 08:37 to 09:07, nearest transit: 30th St & A St, 427.5m away; Casa Guadalajara, San Diego, visit from 09:37 to 10:27, ; Lou & Mickey's, San Diego, visit from 14:28 to 15:28, ; Ruth's Chris Steak House, San Diego, visit from 19:29 to 20:44, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 21:14 to 05:14, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Morning Glory, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 06:00 to 06:30, nearest transit: 30th St & A St, 427.5m away; Juniper and Ivy, San Diego, visit from 08:11 to 09:01, ; Morning Glory, San Diego, visit from 13:02 to 14:02, ; La Jolla Shores Park, San Diego, visit from 14:32 to 18:02, ; Born & Raised, San Diego, visit from 19:00 to 20:15, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 20:45 to 07:40, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Taxi from San Diego to Los Angeles, duration: 142.59166666666667, distance: 193.5707, cost : 193.0",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Las Hadas Grill, San Diego",
+    "dinner": "Raffaello Ristorante, Los Angeles",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Cabin on the Rocks, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 08:10 to 08:40, nearest transit: 30th St & A St, 427.5m away; Mimmo's, San Diego, visit from 09:10 to 10:00, ; SeaWorld, San Diego, visit from 10:30 to 14:00, ; Las Hadas Grill, San Diego, visit from 14:30 to 15:30, ; Cabin on the Rocks, stay from 18:52 to 19:22, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8724.46m away; Raffaello Ristorante, Los Angeles, visit from 19:52 to 21:07, ; Cabin on the Rocks, stay from 21:37 to 05:37, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8724.46m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Bavel, Los Angeles",
+    "lunch": "Ayara Thai Cuisine, Los Angeles",
+    "dinner": "Perch, Los Angeles",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "Cabin on the Rocks, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Cabin on the Rocks, stay from 06:07 to 06:37, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8724.46m away; Bavel, Los Angeles, visit from 09:03 to 09:53, ; Griffith Park, Los Angeles, visit from 10:23 to 13:53, ; Ayara Thai Cuisine, Los Angeles, visit from 14:23 to 15:23, ; Perch, Los Angeles, visit from 19:24 to 20:39, ; Cabin on the Rocks, stay from 21:09 to 05:09, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8724.46m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Flight Number: F2685552, from Los Angeles to San Francisco, Departure Time: 09:11, Arrival Time: 10:25",
+    "breakfast": "-",
+    "lunch": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "dinner": "Morton's The Steakhouse, San Francisco",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "Immaculate studio space  with free parking, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Cabin on the Rocks, stay from 06:00 to 08:41, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8724.46m away; Immaculate studio space  with free parking, stay from 10:55 to 11:25, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 12:00 to 13:00, ; Alcatraz Island, San Francisco, visit from 13:30 to 17:00, ; Morton's The Steakhouse, San Francisco, visit from 19:00 to 20:15, ; Immaculate studio space  with free parking, stay from 20:45 to 04:45, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Capital Restaurant, San Francisco",
+    "lunch": "Mo's Grill, San Francisco",
+    "dinner": "The Codmother Fish & Chips, San Francisco",
+    "attraction": "-",
+    "accommodation": "Immaculate studio space  with free parking, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 06:00 to 06:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Capital Restaurant, San Francisco, visit from 08:17 to 09:07, ; Mo's Grill, San Francisco, visit from 13:37 to 14:37, ; The Codmother Fish & Chips, San Francisco, visit from 19:00 to 20:15, ; Immaculate studio space  with free parking, stay from 20:45 to 05:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to Baltimore",
+    "transportation": "Flight Number: F1221489, from San Francisco to Baltimore, Departure Time: 23:08, Arrival Time: 07:08",
+    "breakfast": "Honey Honey Cafe & Crepery, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 06:00 to 07:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Honey Honey Cafe & Crepery, San Francisco, visit from 08:00 to 08:50, ; Lands End, San Francisco, visit from 15:30 to 22:38, "
+  }
+]

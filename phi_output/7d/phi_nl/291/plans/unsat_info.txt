@@ -1,0 +1,6 @@
+not ok
+Unsatisfiable core:
+valid restaurant index
+visit city in cities list
+valid travel date
+eat in which city b

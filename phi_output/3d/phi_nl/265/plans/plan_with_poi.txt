@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Charleston",
+    "transportation": "Flight Number: F1520279, from Seattle to Charleston, Departure Time: 07:19, Arrival Time: 15:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Ordinary, Charleston",
+    "attraction": "-",
+    "accommodation": "Dianna Browns Place | Historic District, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Dianna Browns Place | Historic District, stay from 15:57 to 16:27, nearest transit: Meeting St / Queen St, 74.58m away; The Ordinary, Charleston, visit from 20:45 to 22:18, ; Dianna Browns Place | Historic District, stay from 22:48 to 06:48, nearest transit: Meeting St / Queen St, 74.58m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Amen Street Fish & Raw Bar, Charleston",
+    "lunch": "Husk Restaurant, Charleston",
+    "dinner": "Hank's Seafood Restaurant, Charleston",
+    "attraction": "Fort Sumter National Monument, Charleston",
+    "accommodation": "Dianna Browns Place | Historic District, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Dianna Browns Place | Historic District, stay from 07:18 to 07:48, nearest transit: Meeting St / Queen St, 74.58m away; Amen Street Fish & Raw Bar, Charleston, visit from 08:18 to 09:08, ; Husk Restaurant, Charleston, visit from 13:09 to 14:09, ; Fort Sumter National Monument, Charleston, visit from 14:39 to 18:30, ; Hank's Seafood Restaurant, Charleston, visit from 19:00 to 20:15, ; Dianna Browns Place | Historic District, stay from 20:45 to 04:45, nearest transit: Meeting St / Queen St, 74.58m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Seattle",
+    "transportation": "Flight Number: F1521835, from Charleston to Seattle, Departure Time: 17:26, Arrival Time: 20:51",
+    "breakfast": "Oak Steakhouse, Charleston",
+    "lunch": "82 Queen, Charleston",
+    "dinner": "-",
+    "attraction": "The Charleston Museum, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Dianna Browns Place | Historic District, stay from 06:00 to 06:30, nearest transit: Meeting St / Queen St, 74.58m away; Oak Steakhouse, Charleston, visit from 08:00 to 08:50, ; The Charleston Museum, Charleston, visit from 09:20 to 12:50, ; 82 Queen, Charleston, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Jackson to New York",
+    "transportation": "Flight Number: F1493624, from Jackson to New York, Departure Time: 12:27, Arrival Time: 18:40",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Nobu Fifty Seven, New York",
+    "attraction": "-",
+    "accommodation": "Big Apple Experience | Central Park. Gym, New York",
+    "event": "-",
+    "point_of_interest_list": "Big Apple Experience | Central Park. Gym, stay from 19:05 to 19:25, nearest transit: 8 AV/W 52 ST, 129.65m away; Nobu Fifty Seven, visit from 19:50 to 20:30, nearest transit: W 57 ST/AVENUE OF THE AMERICAS, 57.03m away; Big Apple Experience | Central Park. Gym, stay from 20:55 to 08:00, nearest transit: 8 AV/W 52 ST, 129.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "BOOM, New York",
+    "lunch": "Del Frisco's Double Eagle Steakhouse, New York",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Big Apple Experience | Central Park. Gym, New York",
+    "event": "-",
+    "point_of_interest_list": "Big Apple Experience | Central Park. Gym, stay from 08:00 to 08:30, nearest transit: 8 AV/W 52 ST, 129.65m away; BOOM, visit from 08:55 to 09:35, nearest transit: W 14 ST/WASHINGTON ST, 126.07m away; Central Park, visit from 10:00 to 12:00, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; Del Frisco's Double Eagle Steakhouse, visit from 13:35 to 14:15, nearest transit: W 49 ST/AVENUE OF THE AMERICAS, 94.03m away; Gallaghers Steakhouse, visit from 19:00 to 19:40, nearest transit: 7 AV/W 52 ST, 131.50m away; Big Apple Experience | Central Park. Gym, stay from 20:05 to 08:00, nearest transit: 8 AV/W 52 ST, 129.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Jackson",
+    "transportation": "taxi, from New York to Jackson, duration: 1338.7966666666666, distance: 1930.066, cost: 1930",
+    "breakfast": "La Grande Boucherie, New York",
+    "lunch": "Del Frisco's Grille, New York",
+    "dinner": "Peak Restaurant & Bar, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Big Apple Experience | Central Park. Gym, stay from 08:00 to 08:30, nearest transit: 8 AV/W 52 ST, 129.65m away; La Grande Boucherie, visit from 08:55 to 09:35, nearest transit: 7 AV/W 54 ST, 124.66m away; The High Line, visit from 10:00 to 12:00, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Del Frisco's Grille, visit from 13:35 to 14:15, nearest transit: 5 AV/W 50 ST, 139.24m away; Peak Restaurant & Bar, visit from 19:00 to 19:40, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away"
+  }
+]

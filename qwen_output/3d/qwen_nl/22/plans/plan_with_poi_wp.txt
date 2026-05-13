@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to San Diego",
+    "transportation": "Flight Number: F3306924, from Portland to San Diego, Departure Time: 16:17, Arrival Time: 18:37",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "-",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 19:07 to 19:37, nearest transit: Upas St & 30th St, 403.13m away; Din Tai Fung, San Diego, visit from 20:07 to 21:22, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 21:52 to 05:52, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "Sunset Cliffs Natural Park, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 06:22 to 06:52, nearest transit: Upas St & 30th St, 403.13m away; Juniper and Ivy, San Diego, visit from 08:18 to 10:00, ; Sunset Cliffs Natural Park, San Diego, visit from 10:30 to 14:00, ; Born & Raised, San Diego, visit from 14:30 to 15:30, ; Mimmo's, San Diego, visit from 19:31 to 20:46, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 21:30 to 05:30, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Portland",
+    "transportation": "Flight Number: F1972355, from San Diego to Portland, Departure Time: 15:58, Arrival Time: 18:30",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "-",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 06:00 to 06:30, nearest transit: Upas St & 30th St, 403.13m away; Lou & Mickey's, San Diego, visit from 08:00 to 08:50, ; USS Midway Museum, San Diego, visit from 09:20 to 12:50, ; Addison Restaurant, San Diego, visit from 13:20 to 14:20, "
+  }
+]

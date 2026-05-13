@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to Charlotte",
+    "transportation": "Self-driving, from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost: 71",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Eats and Sweets, Charlotte",
+    "lunch": "Charlotte Bakery, Charlotte",
+    "dinner": "Charlotte's Teahouse, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 08:00 to 08:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Charlotte's Eats and Sweets, visit from 08:55 to 09:35, nearest transit: Oakland St & Main Ave, 991745.06m away; NASCAR Hall of Fame, visit from 10:00 to 12:00, nearest transit: Caldwell St & 3rd St, 96.74m away; Charlotte Bakery, visit from 13:35 to 14:15, nearest transit: White Street Park and Ride, 1016826.02m away; Charlotte's Teahouse, visit from 19:00 to 19:40, nearest transit: Beaty St @ 866, 6124215.93m away; Comfy private bed and bath, stay from 23:00 to 08:00, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Martha's Vineyard",
+    "transportation": "Self-driving, from Charlotte to Martha's Vineyard, duration: 1122.7316666666666, distance: 1420.8184, cost: 71",
+    "breakfast": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "lunch": "Queen Charlotte, Charlotte",
+    "dinner": "Pinky's Westside Grill, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 08:00 to 08:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Rooster's Wood-Fired Kitchen - Uptown, visit from 08:55 to 09:35, nearest transit: Trade St & College St, 139.39m away; Levine Museum of the New South, visit from 10:00 to 12:00, nearest transit: Tryon St & 2nd St, 38.18m away; Queen Charlotte, visit from 13:35 to 14:15, nearest transit: Beaty St @ 866, 6385477.65m away; Pinky's Westside Grill, visit from 19:00 to 19:40, nearest transit: Morehead St & Grandin Rd, 166.98m away"
+  }
+]

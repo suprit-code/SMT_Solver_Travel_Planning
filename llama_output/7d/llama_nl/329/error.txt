@@ -1,0 +1,13 @@
+
+--- JOB 329 FAILED ---
+Error: Symbolic expressions cannot be cast to concrete Boolean values.
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 124, in <module>
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 391, in __bool__
+    raise Z3Exception("Symbolic expressions cannot be cast to concrete Boolean values.")
+z3.z3types.Z3Exception: Symbolic expressions cannot be cast to concrete Boolean values.
+
+----------------------------------------

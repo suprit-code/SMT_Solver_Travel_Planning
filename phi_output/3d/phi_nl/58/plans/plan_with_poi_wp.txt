@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Indianapolis",
+    "transportation": "Flight Number: F0035972, from Denver to Indianapolis, Departure Time: 11:57, Arrival Time: 16:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Nada, Indianapolis",
+    "attraction": "-",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 16:39 to 20:15, nearest transit: New York St & State St, 65.71m away; Nada, Indianapolis, visit from 20:45 to 23:03, ; Queen Bed Getaway Room Downtown Indy, stay from 23:33 to 07:33, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Milktooth, Indianapolis",
+    "lunch": "Conner's Kitchen + Bar, Indianapolis",
+    "dinner": "Canal Bistro, Indianapolis",
+    "attraction": "Indianapolis Motor Speedway Museum, Indianapolis",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 08:03 to 08:33, nearest transit: New York St & State St, 65.71m away; Milktooth, Indianapolis, visit from 09:03 to 09:53, ; Indianapolis Motor Speedway Museum, Indianapolis, visit from 10:23 to 13:53, ; Conner's Kitchen + Bar, Indianapolis, visit from 14:23 to 15:23, ; Canal Bistro, Indianapolis, visit from 19:24 to 20:39, ; Queen Bed Getaway Room Downtown Indy, stay from 21:09 to 05:09, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Denver",
+    "transportation": "Flight Number: F3994907, from Indianapolis to Denver, Departure Time: 18:18, Arrival Time: 19:14",
+    "breakfast": "Lincoln Square Pancake House, Indianapolis",
+    "lunch": "Yard House, Indianapolis",
+    "dinner": "-",
+    "attraction": "Indiana War Memorial, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 06:00 to 06:30, nearest transit: New York St & State St, 65.71m away; Lincoln Square Pancake House, Indianapolis, visit from 08:00 to 08:50, ; Indiana War Memorial, Indianapolis, visit from 09:20 to 12:50, ; Yard House, Indianapolis, visit from 13:20 to 14:20, "
+  }
+]

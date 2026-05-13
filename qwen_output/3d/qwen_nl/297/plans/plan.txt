@@ -1,0 +1,6 @@
+Destination cities: ['San Francisco'],
+Transportation dates: ['2024-11-13', '2024-11-15'],
+Transportation methods between cities: ['Flight Number: F1169882, from Missoula to San Francisco, Departure Time: 16:11, Arrival Time: 17:33', 'taxi, from San Francisco to Missoula, duration: 1112.4816666666666, distance: 1581.5232, cost: 1581'],
+Restaurants (3 meals per day): ['-', '-', 'Mersea Restaurant & Bar, San Francisco', 'Fog Harbor Fish House, San Francisco', 'Waterbar, San Francisco', 'House of Prime Rib, San Francisco', "Luisa's Restaurant Wine Bar Since 1959, San Francisco", 'Quince, San Francisco', "Harris' Restaurant - The San Francisco Steakhouse, San Francisco"],
+Attractions (1 per day): ['Golden Gate Park, San Francisco', 'Alcatraz Island, San Francisco', 'Pier 39, San Francisco'],
+Accommodations (1 per city): ['Peaceful Studio in the Trees, San Francisco']

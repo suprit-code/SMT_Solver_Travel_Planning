@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to San Luis Obispo",
+    "transportation": "Flight Number: F3029855, from Dallas to San Luis Obispo, Departure Time: 11:00, Arrival Time: 12:30",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Taste Craft Eatery, San Luis Obispo",
+    "attraction": "San Luis Obispo Children's Museum, San Luis Obispo",
+    "accommodation": "Two Palms Cottage at Beebee St., San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "Two Palms Cottage at Beebee St., stay from 13:00 to 13:30, nearest transit: Higuera & South, 241.35m away; San Luis Obispo Children's Museum, visit from 14:00 to 16:00, nearest transit: Marsh & Broad, 230.10m away; Taste Craft Eatery, visit from 19:00 to 19:40, nearest transit: Higuera & South, 1579.10m away; Two Palms Cottage at Beebee St., stay from 23:00 to 08:00, nearest transit: Higuera & South, 241.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Luis Obispo",
+    "transportation": "-",
+    "breakfast": "Apple Farm Restaurant, San Luis Obispo",
+    "lunch": "Novo Restaurant & Lounge, San Luis Obispo",
+    "dinner": "Buona Tavola, San Luis Obispo",
+    "attraction": "Mission San Luis Obispo de Tolosa, San Luis Obispo",
+    "accommodation": "Two Palms Cottage at Beebee St., San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "Two Palms Cottage at Beebee St., stay from 08:00 to 08:30, nearest transit: Higuera & South, 241.35m away; Apple Farm Restaurant, visit from 09:00 to 09:40, nearest transit: Monterey @ Peach Tree Inn, 45.99m away; Mission San Luis Obispo de Tolosa, visit from 10:10 to 12:10, nearest transit: Marsh & Broad, 306.47m away; Novo Restaurant & Lounge, visit from 13:40 to 14:20, nearest transit: Marsh & Broad, 140.28m away; Buona Tavola, visit from 19:00 to 19:40, nearest transit: Santa Rosa & Higuera, 120.94m away; Two Palms Cottage at Beebee St., stay from 23:00 to 08:00, nearest transit: Higuera & South, 241.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Luis Obispo to Dallas",
+    "transportation": "Flight Number: F3029886, from San Luis Obispo to Dallas, Departure Time: 13:31, Arrival Time: 18:57",
+    "breakfast": "Nate's On Marsh, San Luis Obispo",
+    "lunch": "Lure Fish House, San Luis Obispo",
+    "dinner": "-",
+    "attraction": "Bubblegum Alley, San Luis Obispo",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

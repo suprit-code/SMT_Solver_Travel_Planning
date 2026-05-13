@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Reno",
+    "transportation": "Flight Number: F1989283, from New York to Reno, Departure Time: 19:38, Arrival Time: 23:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Sealy Super Comfy Mattress 4.1 Stars, Reno",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Reno",
+    "transportation": "-",
+    "breakfast": "Atlantis Steakhouse, Reno",
+    "lunch": "Toucan Charlie's Buffet & Grille, Reno",
+    "dinner": "Twisted Fork, Reno",
+    "attraction": "Truckee River Walk, Reno",
+    "accommodation": "Sealy Super Comfy Mattress 4.1 Stars, Reno",
+    "event": "-",
+    "point_of_interest_list": "Sealy Super Comfy Mattress 4.1 Stars, stay from 08:00 to 08:30, nearest transit: Kietzke Lane and Vassar Street, 22.16m away; Atlantis Steakhouse, visit from 09:00 to 09:40, nearest transit: S Virginia Street and W Peckham Lane, 118.33m away; Truckee River Walk, visit from 10:10 to 12:10, nearest transit: Arlington Avenue at Wingfield Park, 157.20m away; Toucan Charlie's Buffet & Grille, visit from 13:40 to 14:20, nearest transit: S Virginia Street and W Peckham Lane, 135.55m away; Twisted Fork, visit from 19:00 to 19:40, nearest transit: Double R Boulevard and Double Diamond Parkway, 1365.79m away; Sealy Super Comfy Mattress 4.1 Stars, stay from 23:00 to 08:00, nearest transit: Kietzke Lane and Vassar Street, 22.16m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Reno to New York",
+    "transportation": "Flight Number: F0270515, from Reno to New York, Departure Time: 24:00, Arrival Time: 07:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sealy Super Comfy Mattress 4.1 Stars, stay from 08:00 to 08:30, nearest transit: Kietzke Lane and Vassar Street, 22.16m away"
+  }
+]

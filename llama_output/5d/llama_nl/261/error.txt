@@ -1,0 +1,11 @@
+
+--- JOB 261 FAILED ---
+Error: 'city_1'
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 49, in <module>
+KeyError: 'city_1'
+
+----------------------------------------

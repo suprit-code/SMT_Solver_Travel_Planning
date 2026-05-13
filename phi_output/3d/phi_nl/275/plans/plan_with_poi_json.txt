@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Chattanooga",
+    "transportation": "Flight Number: F3363091, from Chicago to Chattanooga, Departure Time: 14:33, Arrival Time: 17:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Uncle Larry's Restaurant, Chattanooga",
+    "lunch": "Hickory Pit Bar-B-Que, Chattanooga",
+    "dinner": "HiFi Clyde's Chattanooga, Chattanooga",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 08:00 to 08:30, nearest transit: MAIN + RIVERFRONT, 3475.51m away; Uncle Larry's Restaurant, visit from 09:00 to 09:40, nearest transit: M.L.KING BLVD + PEEPLES, 20.49m away; Tennessee Valley Railroad Museum, visit from 10:10 to 12:10, nearest transit: Bonny Oaks & Redlands Dr-1, 1191.41m away; Hickory Pit Bar-B-Que, visit from 13:40 to 14:20, nearest transit: BRAINERD RD + HUNT, 2036.96m away; HiFi Clyde's Chattanooga, visit from 19:00 to 19:40, nearest transit: MAIN + WILLIAMS, 21.15m away; *RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 23:00 to 08:00, nearest transit: MAIN + RIVERFRONT, 3475.51m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Chicago",
+    "transportation": "Flight Number: F3932754, from Chattanooga to Chicago, Departure Time: 17:43, Arrival Time: 18:55",
+    "breakfast": "Stir, Chattanooga",
+    "lunch": "Public House, Chattanooga",
+    "dinner": "-",
+    "attraction": "Walnut Street Bridge, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 08:00 to 08:30, nearest transit: MAIN + RIVERFRONT, 3475.51m away; Stir, visit from 09:00 to 09:40, nearest transit: MARKET + MAIN, 69.25m away; Walnut Street Bridge, visit from 10:10 to 12:10, nearest transit: FRAZIER + TREMONT, 439.00m away; Public House, visit from 13:40 to 14:20, nearest transit: HOUSTON + MARKET, 28.53m away"
+  }
+]

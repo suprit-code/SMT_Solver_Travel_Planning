@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Montgomery to Atlanta",
+    "transportation": "taxi, from Montgomery to Atlanta, duration: 179.01166666666668, distance: 259.3936, cost: 259",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "New Sky Views HighRise, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 08:00 to 08:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.60m away; New Sky Views HighRise, stay from 23:00 to 08:00, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.60m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "No Mas! Cantina, Atlanta",
+    "lunch": "Bone's Restaurant, Atlanta",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "New Sky Views HighRise, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 08:00 to 08:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.60m away; No Mas! Cantina, visit from 09:00 to 09:40, nearest transit: PETERS ST SW @ HAYNES ST SW, 123.79m away; Zoo Atlanta, visit from 10:10 to 12:10, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; Bone's Restaurant, visit from 13:40 to 14:20, nearest transit: PIEDMONT RD NE @ MARTINA DR NE, 47.52m away; Cafe Agora, visit from 19:00 to 19:40, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; New Sky Views HighRise, stay from 23:00 to 08:00, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.60m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Montgomery",
+    "transportation": "taxi, from Atlanta to Montgomery, duration: 178.06833333333333, distance: 258.9032, cost: 258",
+    "breakfast": "The Sun Dial Restaurant, Bar & View, Atlanta",
+    "lunch": "St. Cecilia, Atlanta",
+    "dinner": "Nikolai's Roof, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 08:00 to 08:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.60m away; The Sun Dial Restaurant, Bar & View, visit from 09:00 to 09:40, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD, 36.71m away; Georgia Aquarium, visit from 10:10 to 12:10, nearest transit: IVAN ALLEN JR BLVD NW @ LUCKIE ST, 131.37m away; St. Cecilia, visit from 13:40 to 14:20, nearest transit: PEACHTREE RD NE @ OAK VALLEY RD NE, 63.53m away; Nikolai's Roof, visit from 19:00 to 19:40, nearest transit: RALPH MCGILL BLVD NE @ COURTLAND ST, 309.92m away"
+  }
+]

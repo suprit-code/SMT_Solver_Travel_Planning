@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Houston",
+    "transportation": "Flight Number: F3917006, from Boston to Houston, Departure Time: 09:58, Arrival Time: 13:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Private entrance from the patio to a cozy bedroom, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private entrance from the patio to a cozy bedroom, stay from 13:25 to 13:45, nearest transit: W Gray St @ Bailey St, 132.42m away; Hermann Park, visit from 14:10 to 16:10, nearest transit: Cambridge St @ Ben Taub Loop, 355.64m away; Kenny & Ziggy's New York Deli, visit from 19:00 to 19:40, nearest transit: Ambassador Station NB, 181.42m away; Private entrance from the patio to a cozy bedroom, stay from 20:05 to 08:00, nearest transit: W Gray St @ Bailey St, 132.42m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "lunch": "Pappas Bros. Steakhouse, Houston",
+    "dinner": "Uchi Houston, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Private entrance from the patio to a cozy bedroom, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private entrance from the patio to a cozy bedroom, stay from 08:00 to 08:30, nearest transit: W Gray St @ Bailey St, 132.42m away; Fogo de Chao Brazilian Steakhouse, visit from 08:55 to 09:35, nearest transit: Westheimer Rd @ Old Farm Rd, 57.72m away; Cockrell Butterfly Center, visit from 10:00 to 12:00, nearest transit: Main St @ Remington Ln, 160.59m away; Pappas Bros. Steakhouse, visit from 13:35 to 14:15, nearest transit: Westheimer Rd @ Augusta Dr, 60.97m away; Uchi Houston, visit from 19:00 to 19:40, nearest transit: Westheimer Rd @ Montrose Blvd, 31.07m away; Private entrance from the patio to a cozy bedroom, stay from 20:05 to 08:00, nearest transit: W Gray St @ Bailey St, 132.42m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Boston",
+    "transportation": "Flight Number: F3906110, from Houston to Boston, Departure Time: 19:00, Arrival Time: 23:40",
+    "breakfast": "Eddie V's Prime Seafood, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private entrance from the patio to a cozy bedroom, stay from 08:00 to 08:30, nearest transit: W Gray St @ Bailey St, 132.42m away; Eddie V's Prime Seafood, visit from 08:55 to 09:35, nearest transit: Katy Freeway @ Town And Country Way, 600.03m away; Houston Zoo, visit from 10:00 to 12:00, nearest transit: Cambridge St @ Ben Taub Loop, 473.45m away; Brennan's of Houston, visit from 13:35 to 14:15, nearest transit: Elgin St @ Smith St, 102.40m away; Pappadeaux Seafood Kitchen, visit from 18:22 to 18:35, nearest transit: Bush IAH Terminal C, 295.38m away"
+  }
+]

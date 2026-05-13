@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F3772502, from Hartford to Las Vegas, Departure Time: 17:08, Arrival Time: 19:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private Cozy Room with own entrance and pool ., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 19:42 to 20:02, nearest transit: The Strat, 8199.37m away; Private Cozy Room with own entrance and pool ., stay from 20:27 to 08:00, nearest transit: The Strat, 8199.37m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Carmine's, Las Vegas",
+    "lunch": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "The LINQ Promenade, Las Vegas",
+    "accommodation": "Private Cozy Room with own entrance and pool ., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 08:00 to 08:30, nearest transit: The Strat, 8199.37m away; Carmine's, visit from 08:55 to 09:35, nearest transit: The Strat, 3610.12m away; The LINQ Promenade, visit from 10:00 to 12:00, nearest transit: The Strat, 3611.25m away; Gordon Ramsay Hell's Kitchen, visit from 13:35 to 14:15, nearest transit: The Strat, 3843.18m away; Mr. Mamas, visit from 19:00 to 19:40, nearest transit: The Strat, 9224.85m away; Private Cozy Room with own entrance and pool ., stay from 20:05 to 08:00, nearest transit: The Strat, 8199.37m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F3770462, from Las Vegas to Hartford, Departure Time: 21:26, Arrival Time: 05:08",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 08:00 to 08:30, nearest transit: The Strat, 8199.37m away"
+  }
+]

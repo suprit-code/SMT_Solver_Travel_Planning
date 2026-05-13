@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Atlanta",
+    "transportation": "Flight Number: F2977150, from Oklahoma City to Atlanta, Departure Time: 07:52, Arrival Time: 10:46",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "Atlanta Botanical Garden, Atlanta",
+    "accommodation": "Tiny House Urban Farm Stay in Heart of Atlanta, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Urban Farm Stay in Heart of Atlanta, stay from 11:16 to 11:46, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away; Atlanta Botanical Garden, Atlanta, visit from 12:16 to 18:30, ; Cafe Agora, Atlanta, visit from 19:00 to 20:15, ; Tiny House Urban Farm Stay in Heart of Atlanta, stay from 22:35 to 06:35, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "South City Kitchen Midtown, Atlanta",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "Fox Bros. Bar-B-Q, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Tiny House Urban Farm Stay in Heart of Atlanta, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Urban Farm Stay in Heart of Atlanta, stay from 07:05 to 07:35, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away; South City Kitchen Midtown, Atlanta, visit from 08:05 to 08:55, ; Zoo Atlanta, Atlanta, visit from 09:25 to 12:55, ; Steamhouse Lounge, Atlanta, visit from 13:59 to 14:59, ; Fox Bros. Bar-B-Q, Atlanta, visit from 19:00 to 20:15, ; Tiny House Urban Farm Stay in Heart of Atlanta, stay from 22:30 to 06:30, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Oklahoma City",
+    "transportation": "Flight Number: F3125700, from Atlanta to Oklahoma City, Departure Time: 17:45, Arrival Time: 18:55",
+    "breakfast": "Ray's in the City, Atlanta",
+    "lunch": "Kevin Rathbun Steak, Atlanta",
+    "dinner": "-",
+    "attraction": "Piedmont Park, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Urban Farm Stay in Heart of Atlanta, stay from 07:00 to 07:30, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away; Ray's in the City, Atlanta, visit from 08:00 to 08:50, ; Piedmont Park, Atlanta, visit from 09:20 to 14:00, ; Kevin Rathbun Steak, Atlanta, visit from 14:30 to 15:58, "
+  }
+]

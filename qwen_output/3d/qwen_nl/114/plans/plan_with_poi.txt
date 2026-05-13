@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Nantucket",
+    "transportation": "Flight Number: F1703223, from Washington to Nantucket, Departure Time: 08:01, Arrival Time: 09:22",
+    "breakfast": "-",
+    "lunch": "Ventuno, Nantucket",
+    "dinner": "Ships Inn Restaurant, Nantucket",
+    "attraction": "Sankaty Head Lighthouse, Nantucket",
+    "accommodation": "PRICE-DROP! New construction home Mid-island, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "PRICE-DROP! New construction home Mid-island, stay from 09:52 to 10:22, nearest transit: Cedar Circle, 165.29m away; Ventuno, Nantucket, visit from 12:00 to 13:00, ; Sankaty Head Lighthouse, Nantucket, visit from 15:30 to 20:15, ; Ships Inn Restaurant, Nantucket, visit from 20:45 to 22:30, ; PRICE-DROP! New construction home Mid-island, stay from 23:00 to 07:00, nearest transit: Cedar Circle, 165.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nantucket",
+    "transportation": "-",
+    "breakfast": "Le Languedoc Inn & Bistro, Nantucket",
+    "lunch": "Brant Point Grill, Nantucket",
+    "dinner": "The Summer House Restaurant, Nantucket",
+    "attraction": "Whaling Museum, Nantucket",
+    "accommodation": "PRICE-DROP! New construction home Mid-island, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "PRICE-DROP! New construction home Mid-island, stay from 07:30 to 08:00, nearest transit: Cedar Circle, 165.29m away; Le Languedoc Inn & Bistro, Nantucket, visit from 08:30 to 09:20, ; Brant Point Grill, Nantucket, visit from 13:21 to 14:30, ; Whaling Museum, Nantucket, visit from 15:00 to 18:30, ; The Summer House Restaurant, Nantucket, visit from 19:00 to 20:15, ; PRICE-DROP! New construction home Mid-island, stay from 20:45 to 04:45, nearest transit: Cedar Circle, 165.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nantucket to Washington",
+    "transportation": "Flight Number: F1701497, from Nantucket to Washington, Departure Time: 17:05, Arrival Time: 18:34",
+    "breakfast": "The Proprietors Bar and Table, Nantucket",
+    "lunch": "Topper's, Nantucket",
+    "dinner": "-",
+    "attraction": "Great Point Light, Nantucket",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "PRICE-DROP! New construction home Mid-island, stay from 07:00 to 07:30, nearest transit: Cedar Circle, 165.29m away; The Proprietors Bar and Table, Nantucket, visit from 08:00 to 08:50, ; Great Point Light, Nantucket, visit from 09:20 to 12:50, ; Topper's, Nantucket, visit from 14:30 to 16:35, "
+  }
+]

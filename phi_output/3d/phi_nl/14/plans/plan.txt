@@ -1,0 +1,6 @@
+Destination cities: ['San Luis Obispo'],
+Transportation dates: ['2024-11-13', '2024-11-15'],
+Transportation methods between cities: ['Flight Number: F3029855, from Dallas to San Luis Obispo, Departure Time: 11:00, Arrival Time: 12:30', 'Flight Number: F3029886, from San Luis Obispo to Dallas, Departure Time: 13:31, Arrival Time: 18:57'],
+Restaurants (3 meals per day): ['-', '-', 'Taste Craft Eatery, San Luis Obispo', 'Apple Farm Restaurant, San Luis Obispo', 'Novo Restaurant & Lounge, San Luis Obispo', 'Buona Tavola, San Luis Obispo', "Nate's On Marsh, San Luis Obispo", 'Lure Fish House, San Luis Obispo', '-'],
+Attractions (1 per day): ["San Luis Obispo Children's Museum, San Luis Obispo", 'Mission San Luis Obispo de Tolosa, San Luis Obispo', 'Bubblegum Alley, San Luis Obispo'],
+Accommodations (1 per city): ['Two Palms Cottage at Beebee St., San Luis Obispo']

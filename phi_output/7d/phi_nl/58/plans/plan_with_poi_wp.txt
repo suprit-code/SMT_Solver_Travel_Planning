@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to San Diego",
+    "transportation": "Self-driving from Tucson to San Diego, duration: 431.81166666666667, distance: 656.4621999999999, cost : 32.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Buon Appetito, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 14:30 to 15:00, nearest transit: 30th St & Dwight St, 532.03m away; USS Midway Museum, San Diego, visit from 15:30 to 20:15, ; Buon Appetito, San Diego, visit from 20:45 to 23:10, ; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 23:40 to 07:40, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Alforon, San Diego",
+    "lunch": "Las Hadas Grill, San Diego",
+    "dinner": "Covewood Restaurant, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 08:10 to 08:40, nearest transit: 30th St & Dwight St, 532.03m away; Alforon, San Diego, visit from 09:10 to 10:00, ; Birch Aquarium at Scripps, San Diego, visit from 10:30 to 14:00, ; Las Hadas Grill, San Diego, visit from 14:30 to 15:30, ; Covewood Restaurant, San Diego, visit from 19:46 to 21:01, ; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 21:31 to 05:31, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Self-driving from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 53.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "New China, Redding",
+    "attraction": "-",
+    "accommodation": "Clean & Modern Studio w/ King Bed & Pull-Out Couch, Redding",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 06:01 to 06:31, nearest transit: 30th St & Dwight St, 532.03m away; Clean & Modern Studio w/ King Bed & Pull-Out Couch, stay from 19:45 to 20:15, nearest transit: Eureka Way at Pioneer Dr, 222.83m away; New China, Redding, visit from 20:45 to 22:00, ; Clean & Modern Studio w/ King Bed & Pull-Out Couch, stay from 22:30 to 06:30, nearest transit: Eureka Way at Pioneer Dr, 222.83m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Lumberjack's Restaurant, Redding",
+    "lunch": "Los Gordos, Redding",
+    "dinner": "Champa Garden, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Clean & Modern Studio w/ King Bed & Pull-Out Couch, Redding",
+    "event": "-",
+    "point_of_interest_list": "Clean & Modern Studio w/ King Bed & Pull-Out Couch, stay from 07:00 to 07:30, nearest transit: Eureka Way at Pioneer Dr, 222.83m away; Lumberjack's Restaurant, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; Los Gordos, Redding, visit from 14:30 to 15:30, ; Champa Garden, Redding, visit from 20:45 to 22:00, ; Clean & Modern Studio w/ King Bed & Pull-Out Couch, stay from 22:30 to 06:30, nearest transit: Eureka Way at Pioneer Dr, 222.83m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Self-driving from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 12.0",
+    "breakfast": "Dam Burger, Redding",
+    "lunch": "Trendy's, Redding",
+    "dinner": "-",
+    "attraction": "Redding Civic Auditorium, Redding",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Clean & Modern Studio w/ King Bed & Pull-Out Couch, stay from 07:00 to 07:30, nearest transit: Eureka Way at Pioneer Dr, 222.83m away; Dam Burger, Redding, visit from 08:00 to 08:50, ; Redding Civic Auditorium, Redding, visit from 09:20 to 12:50, ; Trendy's, Redding, visit from 13:20 to 14:20, ; Home Away From Home, stay from 18:16 to 18:46, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Home Away From Home, stay from 19:16 to 03:16, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "Mikuni Japanese Restaurant & Sushi Bar, Sacramento",
+    "dinner": "Tower Cafe, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 06:00 to 06:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Paesano's Pizzeria, Sacramento, visit from 08:02 to 08:52, ; Sacramento History Museum, Sacramento, visit from 09:22 to 12:52, ; Mikuni Japanese Restaurant & Sushi Bar, Sacramento, visit from 13:22 to 14:22, ; Tower Cafe, Sacramento, visit from 19:00 to 20:15, ; Home Away From Home, stay from 20:45 to 06:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Tucson",
+    "transportation": "Self-driving from Sacramento to Tucson, duration: 939.59, distance: 1395.7146, cost : 69.0",
+    "breakfast": "Bangkok @12 Thai Restaurant, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "The Waterboy, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 07:00 to 07:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Bangkok @12 Thai Restaurant, Sacramento, visit from 08:00 to 08:50, ; California State Capitol Museum, Sacramento, visit from 09:20 to 12:50, ; Nopalitos, Sacramento, visit from 13:59 to 14:59, ; The Waterboy, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

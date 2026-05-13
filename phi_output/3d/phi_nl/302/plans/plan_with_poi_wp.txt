@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Alexandria to Atlanta",
+    "transportation": "Flight Number: F0157329, from Alexandria to Atlanta, Departure Time: 07:40, Arrival Time: 10:18",
+    "breakfast": "-",
+    "lunch": "Bangkok Station, Atlanta",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Fox Theatre, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 10:48 to 13:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Bangkok Station, Atlanta, visit from 14:00 to 15:00, ; Fox Theatre, Atlanta, visit from 15:30 to 19:00, ; Home Grown, Atlanta, visit from 20:45 to 22:02, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 22:32 to 06:32, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "Fox Bros. Bar-B-Q, Atlanta",
+    "attraction": "National Center for Civil and Human Rights, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 07:02 to 07:32, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Cafe Agora, Atlanta, visit from 08:02 to 09:59, ; Steamhouse Lounge, Atlanta, visit from 14:00 to 15:00, ; National Center for Civil and Human Rights, Atlanta, visit from 15:30 to 20:15, ; Fox Bros. Bar-B-Q, Atlanta, visit from 20:45 to 23:30, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 00:00 to 08:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Alexandria",
+    "transportation": "Flight Number: F3211735, from Atlanta to Alexandria, Departure Time: 19:24, Arrival Time: 20:09",
+    "breakfast": "-",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "-",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 08:30 to 09:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Aviva by Kameel, Atlanta, visit from 12:00 to 13:00, ; Atlanta History Center, Atlanta, visit from 13:30 to 17:00, "
+  }
+]

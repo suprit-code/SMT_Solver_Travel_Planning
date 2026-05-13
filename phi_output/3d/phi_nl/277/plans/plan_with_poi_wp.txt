@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Lexington",
+    "transportation": "Flight Number: F2350646, from Chicago to Lexington, Departure Time: 11:26, Arrival Time: 13:38",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Keeneland Track Kitchen, Lexington",
+    "attraction": "Lexington Brewing & Distilling Co., Lexington",
+    "accommodation": "Lexington Apt. with parking & private entrance, Lexington",
+    "event": "-",
+    "point_of_interest_list": "Lexington Apt. with parking & private entrance, stay from 14:08 to 14:38, nearest transit: Harrodsburg @ Man-O-War, 2139.72m away; Lexington Brewing & Distilling Co., Lexington, visit from 15:08 to 18:38, ; Keeneland Track Kitchen, Lexington, visit from 19:08 to 20:23, ; Lexington Apt. with parking & private entrance, stay from 20:53 to 04:53, nearest transit: Harrodsburg @ Man-O-War, 2139.72m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Lexington",
+    "transportation": "-",
+    "breakfast": "The Blue Heron Steakhouse, Lexington",
+    "lunch": "Carson's Food & Drink - On Main, Lexington",
+    "dinner": "Giuseppe's Ristorante Italiano, Lexington",
+    "attraction": "James E. Pepper Distillery, Lexington",
+    "accommodation": "Lexington Apt. with parking & private entrance, Lexington",
+    "event": "-",
+    "point_of_interest_list": "Lexington Apt. with parking & private entrance, stay from 06:00 to 07:45, nearest transit: Harrodsburg @ Man-O-War, 2139.72m away; The Blue Heron Steakhouse, Lexington, visit from 08:15 to 10:00, ; James E. Pepper Distillery, Lexington, visit from 10:30 to 14:00, ; Carson's Food & Drink - On Main, Lexington, visit from 14:30 to 15:30, ; Giuseppe's Ristorante Italiano, Lexington, visit from 19:31 to 20:46, ; Lexington Apt. with parking & private entrance, stay from 21:16 to 05:16, nearest transit: Harrodsburg @ Man-O-War, 2139.72m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Lexington to Chicago",
+    "transportation": "Taxi from Lexington to Chicago, duration: 421.46, distance: 594.2556999999999, cost : 594.0",
+    "breakfast": "Taj India Indian Restaurant, Lexington",
+    "lunch": "The Rackhouse Tavern, Lexington",
+    "dinner": "The Ketch Seafood Grill, Lexington",
+    "attraction": "Lexington Cemetery, Lexington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lexington Apt. with parking & private entrance, stay from 06:00 to 06:30, nearest transit: Harrodsburg @ Man-O-War, 2139.72m away; Taj India Indian Restaurant, Lexington, visit from 08:00 to 08:50, ; Lexington Cemetery, Lexington, visit from 09:20 to 12:50, ; The Rackhouse Tavern, Lexington, visit from 14:30 to 15:30, ; The Ketch Seafood Grill, Lexington, visit from 19:31 to 20:46, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-01', '2024-11-03'],
+Transportation methods between cities: ['Flight Number: F3305579, from Oklahoma City to Seattle, Departure Time: 14:29, Arrival Time: 16:39', 'Flight Number: F3737705, from Seattle to Oklahoma City, Departure Time: 11:24, Arrival Time: 17:01'],
+Restaurants (3 meals per day): ['-', '-', 'Dough Zone Dumpling House - Seattle International District, Seattle', 'Metropolitan Grill, Seattle', 'Noi Thai Cuisine, Seattle', 'The Capital Grille, Seattle', 'Bacco Cafe, Seattle', "Matt's in the Market, Seattle", "The Butcher's Table, Seattle"],
+Attractions (1 per day): ['Seattle Center, Seattle', 'Woodland Park Zoo, Seattle', '-'],
+Accommodations (1 per city): ['Cozy Studio with Kitchenette and Laundry, Seattle']

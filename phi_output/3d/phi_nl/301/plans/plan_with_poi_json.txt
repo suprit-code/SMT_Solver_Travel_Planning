@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F1791799, from Everett to San Diego, Departure Time: 11:09, Arrival Time: 13:40",
+    "breakfast": "-",
+    "lunch": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 14:10 to 14:40, nearest transit: Ulric St & Tait St, 283.34m away; Filippi's Pizza Grotto Little Italy, visit from 15:10 to 15:50, nearest transit: India St & Cedar St, 159.79m away; SeaWorld, visit from 16:20 to 18:20, nearest transit: SeaWorld, 299.84m away; Mimmo's, visit from 19:50 to 20:30, nearest transit: India St & Cedar St, 148.81m away; No contact with host, separate, and close to town!, stay from 23:00 to 08:00, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Addison Restaurant, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 08:00 to 08:30, nearest transit: Ulric St & Tait St, 283.34m away; Addison Restaurant, visit from 09:00 to 09:40, nearest transit: Mira Mesa Bl & Genetic Center Dr, 4339.61m away; San Diego Zoo, visit from 10:10 to 12:10, nearest transit: Park Bl & Zoo Pl, 300.95m away; Cowboy Star, visit from 13:40 to 14:20, nearest transit: 10th Av & Market St, 50.81m away; Juniper and Ivy, visit from 19:00 to 19:40, nearest transit: Kettner Bl & Grape St, 310.93m away; No contact with host, separate, and close to town!, stay from 23:00 to 08:00, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Everett",
+    "transportation": "Flight Number: F1175780, from San Diego to Everett, Departure Time: 17:55, Arrival Time: 20:40",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "The Fishery, San Diego",
+    "dinner": "Oceana Coastal Kitchen, San Diego",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 08:00 to 08:30, nearest transit: Ulric St & Tait St, 283.34m away; Ruth's Chris Steak House, visit from 09:00 to 09:40, nearest transit: N Harbor Dr & Ash St, 171.43m away; La Jolla Shores Park, visit from 10:10 to 12:10, nearest transit: La Jolla Shores Dr & Calle Frescota, 243.08m away; The Fishery, visit from 12:40 to 13:20, nearest transit: Mission Bl & Opal St, 346.99m away; Oceana Coastal Kitchen, visit from 16:45 to 17:25, nearest transit: Mission Bl & Santa Rita Pl, 110.31m away"
+  }
+]

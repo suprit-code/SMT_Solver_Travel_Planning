@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Alexandria to Atlanta",
+    "transportation": "Flight Number: F0157329, from Alexandria to Atlanta, Departure Time: 07:40, Arrival Time: 10:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bangkok Station, Atlanta",
+    "attraction": "Fox Theatre, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 10:48 to 11:18, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Fox Theatre, visit from 11:48 to 13:48, nearest transit: PEACHTREE ST NE @ PONCE DE LEON AVE, 41.68m away; Bangkok Station, visit from 19:00 to 19:40, nearest transit: PIEDMONT RD NE @ PEACHTREE DR NE, 153.20m away; Downtown Beach Room **FREE PARKING** Private Room, stay from 23:00 to 08:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Home Grown, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "Steamhouse Lounge, Atlanta",
+    "attraction": "National Center for Civil and Human Rights, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 08:00 to 08:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Home Grown, visit from 09:00 to 09:40, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; National Center for Civil and Human Rights, visit from 10:10 to 12:10, nearest transit: IVAN ALLEN JR BLVD NW @ LOVEJOY ST, 78.15m away; Cafe Agora, visit from 13:40 to 14:20, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; Steamhouse Lounge, visit from 19:00 to 19:40, nearest transit: W PEACHTREE ST @ 12TH ST, 93.00m away; Downtown Beach Room **FREE PARKING** Private Room, stay from 23:00 to 08:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Alexandria",
+    "transportation": "Flight Number: F3211735, from Atlanta to Alexandria, Departure Time: 19:24, Arrival Time: 20:09",
+    "breakfast": "Fox Bros. Bar-B-Q, Atlanta",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "-",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 08:00 to 08:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Fox Bros. Bar-B-Q, visit from 09:00 to 09:40, nearest transit: MORELAND AVE @ 299, 219.31m away; Atlanta History Center, visit from 10:10 to 12:10, nearest transit: PEACHTREE RD @ BUCKHEAD AVE NE, 610.21m away; Aviva by Kameel, visit from 13:40 to 14:20, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away"
+  }
+]

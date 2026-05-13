@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Nashville",
+    "transportation": "Taxi from Houston to Nashville, duration: 857.39, distance: 1252.7872, cost : 1252.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "12 South Original - Restored craftsman from 1905!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "12 South Original - Restored craftsman from 1905!, stay from 21:41 to 22:11, nearest transit: 12TH AVE S & SWEETBRIAR AVE NB, 31.55m away; 12 South Original - Restored craftsman from 1905!, stay from 22:41 to 06:41, nearest transit: 12TH AVE S & SWEETBRIAR AVE NB, 31.55m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "lunch": "The Farm House, Nashville",
+    "dinner": "The Mockingbird, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "12 South Original - Restored craftsman from 1905!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "12 South Original - Restored craftsman from 1905!, stay from 07:11 to 07:41, nearest transit: 12TH AVE S & SWEETBRIAR AVE NB, 31.55m away; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 08:11 to 09:01, ; The Farm House, Nashville, visit from 13:30 to 14:30, ; Belmont Mansion, Nashville, visit from 15:00 to 18:30, ; The Mockingbird, Nashville, visit from 19:00 to 22:36, ; 12 South Original - Restored craftsman from 1905!, stay from 23:06 to 07:06, nearest transit: 12TH AVE S & SWEETBRIAR AVE NB, 31.55m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Harriet's Rooftop, Nashville",
+    "lunch": "-",
+    "dinner": "Casa Mexicana, Bristol",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Bristol Bungalow, Bristol",
+    "event": "-",
+    "point_of_interest_list": "12 South Original - Restored craftsman from 1905!, stay from 07:36 to 08:06, nearest transit: 12TH AVE S & SWEETBRIAR AVE NB, 31.55m away; Harriet's Rooftop, Nashville, visit from 08:36 to 09:26, ; Cheekwood, Nashville, visit from 09:56 to 13:26, ; Bristol Bungalow, stay from 19:45 to 20:15, nearest transit: Oakview Ave & Clinton Ave, 529.33m away; Casa Mexicana, Bristol, visit from 20:45 to 22:00, ; Bristol Bungalow, stay from 22:30 to 06:30, nearest transit: Oakview Ave & Clinton Ave, 529.33m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Urban Tandoor, Bristol",
+    "lunch": "Coronation Curry House, Bristol",
+    "dinner": "Don Giovanni's Restaurant, Bristol",
+    "attraction": "Clifton Suspension Bridge, Bristol",
+    "accommodation": "Bristol Bungalow, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Bristol Bungalow, stay from 07:00 to 07:30, nearest transit: Oakview Ave & Clinton Ave, 529.33m away; Urban Tandoor, Bristol, visit from 08:07 to 08:57, ; Coronation Curry House, Bristol, visit from 12:58 to 13:58, ; Clifton Suspension Bridge, Bristol, visit from 14:28 to 19:15, ; Don Giovanni's Restaurant, Bristol, visit from 19:45 to 21:00, ; Bristol Bungalow, stay from 21:30 to 05:30, nearest transit: Oakview Ave & Clinton Ave, 529.33m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Turtle Bay Bristol Broad Quay, Bristol",
+    "lunch": "Baba Ganoush Kitchen - Jerusalem Falafel, Bristol",
+    "dinner": "Public House, Chattanooga",
+    "attraction": "Wills Memorial Building And Tower Tours, Bristol",
+    "accommodation": "Chattanooga - The Isbill House, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Bristol Bungalow, stay from 06:00 to 07:30, nearest transit: Oakview Ave & Clinton Ave, 529.33m away; Turtle Bay Bristol Broad Quay, Bristol, visit from 08:00 to 08:50, ; Wills Memorial Building And Tower Tours, Bristol, visit from 09:20 to 12:50, ; Baba Ganoush Kitchen - Jerusalem Falafel, Bristol, visit from 13:20 to 14:20, ; Chattanooga - The Isbill House, stay from 19:45 to 20:15, nearest transit: Tenn Ave & 38th-0, 4598.95m away; Public House, Chattanooga, visit from 20:45 to 22:00, ; Chattanooga - The Isbill House, stay from 22:50 to 06:50, nearest transit: Tenn Ave & 38th-0, 4598.95m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Mellow Mushroom Chattanooga, Chattanooga",
+    "lunch": "Bluegrass Grill, Chattanooga",
+    "dinner": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "Chattanooga - The Isbill House, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Chattanooga - The Isbill House, stay from 07:20 to 07:50, nearest transit: Tenn Ave & 38th-0, 4598.95m away; Mellow Mushroom Chattanooga, Chattanooga, visit from 08:20 to 09:10, ; Bluegrass Grill, Chattanooga, visit from 13:11 to 14:11, ; Tennessee Aquarium, Chattanooga, visit from 14:41 to 20:15, ; Maple Street Biscuit Company - City Center, Chattanooga, visit from 20:45 to 23:09, ; Chattanooga - The Isbill House, stay from 23:39 to 07:39, nearest transit: Tenn Ave & 38th-0, 4598.95m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Houston",
+    "transportation": "Taxi from Chattanooga to Houston, duration: 893.0133333333334, distance: 1309.278, cost : 1309.0",
+    "breakfast": "Bridgeman's Chophouse, Chattanooga",
+    "lunch": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "dinner": "-",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Chattanooga - The Isbill House, stay from 08:09 to 08:39, nearest transit: Tenn Ave & 38th-0, 4598.95m away; Bridgeman's Chophouse, Chattanooga, visit from 09:09 to 09:59, ; The Purple Daisy Picnic Cafe, Chattanooga, visit from 14:00 to 15:00, ; Coolidge Park, Chattanooga, visit from 15:30 to 19:00, "
+  }
+]

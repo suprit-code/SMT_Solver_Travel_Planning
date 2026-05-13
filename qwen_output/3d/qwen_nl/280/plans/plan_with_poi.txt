@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Baltimore",
+    "transportation": "Self-driving from Miami to Baltimore, duration: 1217.07, distance: 1754.8571000000002, cost : 87.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Guesthouse Bedroom 2/Private Parking - Mt. Vernon, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Guesthouse Bedroom 2/Private Parking - Mt. Vernon, stay from 02:47 to 03:17, nearest transit: STATE CENTER (METRO) sb, 639.84m away; Guesthouse Bedroom 2/Private Parking - Mt. Vernon, stay from 03:47 to 08:00, nearest transit: STATE CENTER (METRO) sb, 639.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "La Scala, Baltimore",
+    "lunch": "Magdalena, A Maryland Bistro, Baltimore",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Baltimore",
+    "attraction": "-",
+    "accommodation": "Guesthouse Bedroom 2/Private Parking - Mt. Vernon, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Guesthouse Bedroom 2/Private Parking - Mt. Vernon, stay from 08:30 to 09:00, nearest transit: STATE CENTER (METRO) sb, 639.84m away; La Scala, Baltimore, visit from 09:39 to 10:29, ; Magdalena, A Maryland Bistro, Baltimore, visit from 14:30 to 16:44, ; Fogo de Chao Brazilian Steakhouse, Baltimore, visit from 20:45 to 23:09, ; Guesthouse Bedroom 2/Private Parking - Mt. Vernon, stay from 23:39 to 07:39, nearest transit: STATE CENTER (METRO) sb, 639.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Miami",
+    "transportation": "Self-driving from Baltimore to Miami, duration: 1218.4983333333332, distance: 1756.7002, cost : 87.0",
+    "breakfast": "Tagliata, Baltimore",
+    "lunch": "Sotto Sopra, Baltimore",
+    "dinner": "Cinghiale, Baltimore",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Guesthouse Bedroom 2/Private Parking - Mt. Vernon, stay from 08:09 to 08:39, nearest transit: STATE CENTER (METRO) sb, 639.84m away; Tagliata, Baltimore, visit from 09:09 to 09:59, ; Sotto Sopra, Baltimore, visit from 14:00 to 15:00, ; The Maryland Zoo, Baltimore, visit from 15:30 to 19:00, ; Cinghiale, Baltimore, visit from 19:30 to 20:45, "
+  }
+]

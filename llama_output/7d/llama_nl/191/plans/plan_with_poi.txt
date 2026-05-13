@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Greensboro",
+    "transportation": "Taxi from Oklahoma City to Greensboro, duration: 1238.14, distance: 1848.9622, cost : 1848.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 03:08 to 03:38, nearest transit: Glendale/Randleman Rd., 155.05m away; A little Southern Hospitality, stay from 04:08 to 08:00, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Undercurrent Restaurant, Greensboro",
+    "lunch": "Golden Wok, Greensboro",
+    "dinner": "Stamey's Barbecue, Greensboro",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:30 to 09:00, nearest transit: Glendale/Randleman Rd., 155.05m away; Undercurrent Restaurant, Greensboro, visit from 09:39 to 10:29, ; Golden Wok, Greensboro, visit from 14:30 to 16:44, ; Stamey's Barbecue, Greensboro, visit from 20:45 to 22:27, ; A little Southern Hospitality, stay from 22:57 to 06:57, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Mythos Grill, Greensboro",
+    "lunch": "Sarah's Kabob Shop, Greensboro",
+    "dinner": "Indochine Wilmington, Wilmington",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Guest home for the weekend, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:27 to 07:57, nearest transit: Glendale/Randleman Rd., 155.05m away; Mythos Grill, Greensboro, visit from 08:27 to 09:17, ; International Civil Rights Center & Museum, Greensboro, visit from 09:47 to 13:17, ; Sarah's Kabob Shop, Greensboro, visit from 13:47 to 14:47, ; Guest home for the weekend, stay from 19:45 to 20:15, nearest transit: Forden Station, 199.05m away; Indochine Wilmington, Wilmington, visit from 20:45 to 22:00, ; Guest home for the weekend, stay from 23:56 to 07:56, nearest transit: Forden Station, 199.05m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Winnie's Tavern, Wilmington",
+    "lunch": "PinPoint Restaurant, Wilmington",
+    "dinner": "Flaming Amy's Burrito Barn, Wilmington",
+    "attraction": "-",
+    "accommodation": "Guest home for the weekend, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Guest home for the weekend, stay from 08:26 to 08:56, nearest transit: Forden Station, 199.05m away; Winnie's Tavern, Wilmington, visit from 09:26 to 10:16, ; PinPoint Restaurant, Wilmington, visit from 14:17 to 15:17, ; Flaming Amy's Burrito Barn, Wilmington, visit from 19:18 to 20:33, ; Guest home for the weekend, stay from 21:03 to 05:03, nearest transit: Forden Station, 199.05m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F0435287, from Wilmington to Charlotte, Departure Time: 16:00, Arrival Time: 17:45",
+    "breakfast": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "lunch": "The Anchor, Wilmington",
+    "dinner": "Charlotte's Eats and Sweets, Charlotte",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Colorful, Comfortable, Private and Unique, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Guest home for the weekend, stay from 06:00 to 06:30, nearest transit: Forden Station, 199.05m away; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 08:00 to 10:00, ; Burgwin-Wright House and Gardens, Wilmington, visit from 10:30 to 14:00, ; The Anchor, Wilmington, visit from 14:30 to 15:30, ; Colorful, Comfortable, Private and Unique, stay from 18:15 to 18:45, nearest transit: Monroe Rd & Conference Dr, 720.15m away; Charlotte's Eats and Sweets, Charlotte, visit from 19:31 to 20:46, ; Colorful, Comfortable, Private and Unique, stay from 21:16 to 06:39, nearest transit: Monroe Rd & Conference Dr, 720.15m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Tavern, Charlotte",
+    "lunch": "ROKA Charlotte Street, Charlotte",
+    "dinner": "Charlotte Bakery, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "Colorful, Comfortable, Private and Unique, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Colorful, Comfortable, Private and Unique, stay from 07:09 to 07:39, nearest transit: Monroe Rd & Conference Dr, 720.15m away; Charlotte's Tavern, Charlotte, visit from 08:09 to 09:29, ; Discovery Place Science, Charlotte, visit from 09:59 to 13:29, ; ROKA Charlotte Street, Charlotte, visit from 13:59 to 14:59, ; Charlotte Bakery, Charlotte, visit from 19:00 to 20:15, ; Colorful, Comfortable, Private and Unique, stay from 20:45 to 05:30, nearest transit: Monroe Rd & Conference Dr, 720.15m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Oklahoma City",
+    "transportation": "Flight Number: F1918645, from Charlotte to Oklahoma City, Departure Time: 16:54, Arrival Time: 18:23",
+    "breakfast": "-",
+    "lunch": "Pinky's Westside Grill, Charlotte",
+    "dinner": "-",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Colorful, Comfortable, Private and Unique, stay from 06:00 to 09:00, nearest transit: Monroe Rd & Conference Dr, 720.15m away; Mint Museum Uptown, Charlotte, visit from 09:30 to 13:00, ; Pinky's Westside Grill, Charlotte, visit from 14:30 to 15:30, "
+  }
+]

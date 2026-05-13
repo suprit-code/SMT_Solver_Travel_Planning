@@ -1,0 +1,6 @@
+Destination cities: ['Greensboro', 'Wilmington'],
+Transportation dates: ['2024-11-02', '2024-11-04', '2024-11-06'],
+Transportation methods between cities: ['Self-driving, from Lynchburg to Greensboro, duration: 143.46166666666667, distance: 183.1366, cost: 9', 'Self-driving, from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost: 16', 'Self-driving, from Wilmington to Lynchburg, duration: 337.39666666666665, distance: 448.5329, cost: 22'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Mythos Grill, Greensboro', "Stamey's Barbecue, Greensboro", "Carolina's Diner, Greensboro", 'Golden Wok, Greensboro', "Dear Dad's, Greensboro", "Sarah's Kabob Shop, Greensboro", 'General Denver Pub, Wilmington', "Casey's Buffet Barbecue & Home Cookin, Wilmington", "Winnie's Tavern, Wilmington", 'The Anchor, Wilmington', 'PinPoint Restaurant, Wilmington', "Flaming Amy's Burrito Barn, Wilmington"],
+Attractions (1 per day): ['-', 'Ambleside Gallery, Greensboro', 'Carolina Theatre, Greensboro', 'Battleship North Carolina, Wilmington', 'Burgwin-Wright House and Gardens, Wilmington'],
+Accommodations (1 per city): ['A little Southern Hospitality, Greensboro', 'The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington']

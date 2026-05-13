@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Los Angeles to Durango",
+    "transportation": "Taxi from Los Angeles to Durango, duration: 869.7733333333333, distance: 1250.4541000000002, cost : 1250.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Bright & Modern 2-Bedroom, Downtown Durango w/ A/C, Durango",
+    "event": "-",
+    "point_of_interest_list": "Bright & Modern 2-Bedroom, Downtown Durango w/ A/C, stay from 22:40 to 23:10, nearest transit: College Dr. & 8th Ave, 196.21m away; Bright & Modern 2-Bedroom, Downtown Durango w/ A/C, stay from 23:40 to 07:40, nearest transit: College Dr. & 8th Ave, 196.21m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Durango",
+    "transportation": "-",
+    "breakfast": "Gazpacho, Durango",
+    "lunch": "Durango Joe's Coffee on College Dr., Durango",
+    "dinner": "Durango Diner, Durango",
+    "attraction": "Historic Downtown Durango, Durango",
+    "accommodation": "Bright & Modern 2-Bedroom, Downtown Durango w/ A/C, Durango",
+    "event": "-",
+    "point_of_interest_list": "Bright & Modern 2-Bedroom, Downtown Durango w/ A/C, stay from 08:10 to 08:40, nearest transit: College Dr. & 8th Ave, 196.21m away; Gazpacho, Durango, visit from 09:10 to 10:00, ; Historic Downtown Durango, Durango, visit from 10:30 to 14:00, ; Durango Joe's Coffee on College Dr., Durango, visit from 14:30 to 15:30, ; Durango Diner, Durango, visit from 20:45 to 22:00, ; Bright & Modern 2-Bedroom, Downtown Durango w/ A/C, stay from 22:30 to 06:30, nearest transit: College Dr. & 8th Ave, 196.21m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Durango to Colorado Springs",
+    "transportation": "Taxi from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost : 506.0",
+    "breakfast": "Diamond Belle Saloon, Durango",
+    "lunch": "College Drive Cafe, Durango",
+    "dinner": "-",
+    "attraction": "Mild to Wild Rafting and Jeep Tours, Durango",
+    "accommodation": "Pikes Charm! Apartment King Workspace w BBQ & Fire, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Bright & Modern 2-Bedroom, Downtown Durango w/ A/C, stay from 07:00 to 07:30, nearest transit: College Dr. & 8th Ave, 196.21m away; Diamond Belle Saloon, Durango, visit from 08:00 to 08:50, ; Mild to Wild Rafting and Jeep Tours, Durango, visit from 09:21 to 12:51, ; College Drive Cafe, Durango, visit from 13:21 to 14:21, ; Pikes Charm! Apartment King Workspace w BBQ & Fire, stay from 21:55 to 23:10, nearest transit: Pikes Peak/Meade, 28.37m away; Pikes Charm! Apartment King Workspace w BBQ & Fire, stay from 23:40 to 07:40, nearest transit: Pikes Peak/Meade, 28.37m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "The Rabbit Hole, Colorado Springs",
+    "lunch": "Pizzeria Rustica, Colorado Springs",
+    "dinner": "Mountain Shadows Restaurant, Colorado Springs",
+    "attraction": "Rock Ledge Ranch Historic Site, Colorado Springs",
+    "accommodation": "Pikes Charm! Apartment King Workspace w BBQ & Fire, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Pikes Charm! Apartment King Workspace w BBQ & Fire, stay from 08:10 to 08:40, nearest transit: Pikes Peak/Meade, 28.37m away; The Rabbit Hole, Colorado Springs, visit from 09:10 to 10:00, ; Rock Ledge Ranch Historic Site, Colorado Springs, visit from 10:30 to 14:00, ; Pizzeria Rustica, Colorado Springs, visit from 14:30 to 15:30, ; Mountain Shadows Restaurant, Colorado Springs, visit from 19:45 to 21:00, ; Pikes Charm! Apartment King Workspace w BBQ & Fire, stay from 21:30 to 05:30, nearest transit: Pikes Peak/Meade, 28.37m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Colorado Springs to Los Angeles",
+    "transportation": "Taxi from Colorado Springs to Los Angeles, duration: 1135.4466666666667, distance: 1742.9415, cost : 1742.0",
+    "breakfast": "Garden of the God's Market & Cafe, Colorado Springs",
+    "lunch": "The Warehouse Restaurant & Gallery, Colorado Springs",
+    "dinner": "Restaurant 1858, Colorado Springs",
+    "attraction": "U.S. Olympic & Paralympic Museum, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Pikes Charm! Apartment King Workspace w BBQ & Fire, stay from 06:00 to 06:30, nearest transit: Pikes Peak/Meade, 28.37m away; Garden of the God's Market & Cafe, Colorado Springs, visit from 08:00 to 08:50, ; U.S. Olympic & Paralympic Museum, Colorado Springs, visit from 09:20 to 12:50, ; The Warehouse Restaurant & Gallery, Colorado Springs, visit from 13:59 to 14:59, ; Restaurant 1858, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

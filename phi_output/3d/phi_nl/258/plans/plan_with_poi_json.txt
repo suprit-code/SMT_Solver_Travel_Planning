@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Greensboro",
+    "transportation": "taxi, from New York to Greensboro, duration: 640.7433333333333, distance: 863.0494, cost: 863",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:00 to 08:30, nearest transit: Glendale/Randleman Rd., 155.05m away; A little Southern Hospitality, stay from 23:00 to 08:00, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Golden Wok, Greensboro",
+    "lunch": "Carolina's Diner, Greensboro",
+    "dinner": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:00 to 08:30, nearest transit: Glendale/Randleman Rd., 155.05m away; Golden Wok, visit from 09:00 to 09:40, nearest transit: Sapp Rd/Wendover Place, 252.80m away; Carolina Theatre, visit from 10:10 to 12:10, nearest transit: Washington/Eugene, 118.33m away; Carolina's Diner, visit from 13:40 to 14:20, nearest transit: Swing Rd/Swing Court, 4333.60m away; Fleming's Prime Steakhouse & Wine Bar, visit from 19:00 to 19:40, nearest transit: West Friendly/Hobbs Road (OB), 99.18m away; A little Southern Hospitality, stay from 23:00 to 08:00, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to New York",
+    "transportation": "Flight Number: F3648510, from Greensboro to New York, Departure Time: 06:00, Arrival Time: 07:49",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:19 to 08:49, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  }
+]

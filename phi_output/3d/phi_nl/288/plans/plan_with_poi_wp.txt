@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Baltimore",
+    "transportation": "Flight Number: F3688769, from Miami to Baltimore, Departure Time: 08:43, Arrival Time: 11:09",
+    "breakfast": "-",
+    "lunch": "Toki Underground Baltimore, Baltimore",
+    "dinner": "The Capital Grille, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "Notel 9 Getaway Suite with Sauna, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 11:39 to 13:30, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; Toki Underground Baltimore, Baltimore, visit from 14:00 to 15:00, ; National Aquarium, Baltimore, visit from 15:30 to 19:15, ; The Capital Grille, Baltimore, visit from 19:45 to 21:00, ; Notel 9 Getaway Suite with Sauna, stay from 21:30 to 05:30, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "CLAVEL, Baltimore",
+    "lunch": "Restaurante Tio Pepe, Baltimore",
+    "dinner": "LP Steamers, Baltimore",
+    "attraction": "Inner Harbor, Baltimore",
+    "accommodation": "Notel 9 Getaway Suite with Sauna, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 06:00 to 06:30, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; CLAVEL, Baltimore, visit from 08:00 to 10:00, ; Inner Harbor, Baltimore, visit from 10:30 to 14:00, ; Restaurante Tio Pepe, Baltimore, visit from 14:30 to 16:44, ; LP Steamers, Baltimore, visit from 20:45 to 22:43, ; Notel 9 Getaway Suite with Sauna, stay from 23:13 to 07:13, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Miami",
+    "transportation": "Flight Number: F3119269, from Baltimore to Miami, Departure Time: 19:04, Arrival Time: 21:51",
+    "breakfast": "Rec Pier Chop House, Baltimore",
+    "lunch": "Luna Del Sea Steak & Seafood Bistro, Baltimore",
+    "dinner": "-",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 07:43 to 08:13, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; Rec Pier Chop House, Baltimore, visit from 08:43 to 09:33, ; Luna Del Sea Steak & Seafood Bistro, Baltimore, visit from 13:34 to 14:34, ; The Maryland Zoo, Baltimore, visit from 15:04 to 18:34, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Francisco to Las Vegas",
+    "transportation": "Flight Number: F0555964, from San Francisco to Las Vegas, Departure Time: 16:12, Arrival Time: 17:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Garden Court, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 18:15 to 20:15, nearest transit: The Strat, 5367.88m away; Garden Court, Las Vegas, visit from 20:45 to 22:02, ; Gamble Adventure | Restaurant. Outside Pool, stay from 22:32 to 06:32, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Eggslut, Las Vegas",
+    "lunch": "Mr. Mamas, Las Vegas",
+    "dinner": "Ameribrunch Cafe, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 07:02 to 07:32, nearest transit: The Strat, 5367.88m away; Eggslut, Las Vegas, visit from 08:02 to 08:52, ; Mr. Mamas, Las Vegas, visit from 12:53 to 13:53, ; Bellagio Conservatory & Botanical Garden, Las Vegas, visit from 14:23 to 17:53, ; Ameribrunch Cafe, Las Vegas, visit from 19:00 to 20:15, ; Gamble Adventure | Restaurant. Outside Pool, stay from 20:45 to 08:00, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to San Francisco",
+    "transportation": "Flight Number: F3439527, from Las Vegas to San Francisco, Departure Time: 20:23, Arrival Time: 21:58",
+    "breakfast": "-",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "-",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:30 to 09:00, nearest transit: The Strat, 5367.88m away; Red Rock Canyon National Conservation Area, Las Vegas, visit from 09:30 to 14:00, ; Eggscellent, Las Vegas, visit from 14:30 to 15:56, "
+  }
+]

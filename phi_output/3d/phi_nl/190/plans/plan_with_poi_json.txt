@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Greensboro",
+    "transportation": "Flight Number: F3065809, from Washington to Greensboro, Departure Time: 13:44, Arrival Time: 14:48",
+    "breakfast": "-",
+    "lunch": "Mythos Grill, Greensboro",
+    "dinner": "B. Christopher's, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "New!COZY!Ranch,3bed /2bath Private  wooded yard!, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "New!COZY!Ranch,3bed /2bath Private  wooded yard!, stay from 15:18 to 15:48, nearest transit: Battleground/Brassfield, 1545.29m away; Carolina Theatre, visit from 16:18 to 18:18, nearest transit: Washington/Eugene, 118.33m away; Mythos Grill, visit from 18:48 to 19:28, nearest transit: West Market/Walker, 60.36m away; B. Christopher's, visit from 21:20 to 22:00, nearest transit: Elm/Friendly (Northbound), 22.34m away; New!COZY!Ranch,3bed /2bath Private  wooded yard!, stay from 23:00 to 08:00, nearest transit: Battleground/Brassfield, 1545.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Print Works Bistro, Greensboro",
+    "lunch": "Captain Bill's Seafood & Steak, Greensboro",
+    "dinner": "1618 West Seafood Grill, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "New!COZY!Ranch,3bed /2bath Private  wooded yard!, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "New!COZY!Ranch,3bed /2bath Private  wooded yard!, stay from 08:00 to 08:30, nearest transit: Battleground/Brassfield, 1545.29m away; Print Works Bistro, visit from 09:00 to 09:40, nearest transit: Westover Ave/Lucky 32, 672.45m away; International Civil Rights Center & Museum, visit from 10:10 to 12:10, nearest transit: International Civil Rights Museum , 3.98m away; Captain Bill's Seafood & Steak, visit from 13:40 to 14:20, nearest transit: West Market/Weslo-Willow, 188.98m away; 1618 West Seafood Grill, visit from 19:00 to 19:40, nearest transit: West Friendly/Radiance Dr (OB), 39.88m away; New!COZY!Ranch,3bed /2bath Private  wooded yard!, stay from 23:00 to 08:00, nearest transit: Battleground/Brassfield, 1545.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Washington",
+    "transportation": "taxi, from Greensboro to Washington, duration: 357.15833333333336, distance: 496.6706, cost: 496",
+    "breakfast": "MJ's Steak and Seafood, Greensboro",
+    "lunch": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "dinner": "Undercurrent Restaurant, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "New!COZY!Ranch,3bed /2bath Private  wooded yard!, stay from 08:00 to 08:30, nearest transit: Battleground/Brassfield, 1545.29m away; MJ's Steak and Seafood, visit from 09:00 to 09:40, nearest transit: West Friendly/Dolly Madison, 84.21m away; Ambleside Gallery, visit from 10:10 to 12:10, nearest transit: Elm/Lewis, 35.43m away; Fleming's Prime Steakhouse & Wine Bar, visit from 13:40 to 14:20, nearest transit: West Friendly/Hobbs Road (OB), 99.18m away; Undercurrent Restaurant, visit from 19:00 to 19:40, nearest transit: Elm/Lindsay (Southbound), 207.83m away"
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Los Angeles'],
+Transportation dates: ['2024-11-26', '2024-11-28'],
+Transportation methods between cities: ['Flight Number: F3629308, from Kansas City to Los Angeles, Departure Time: 15:55, Arrival Time: 17:16', 'Flight Number: F1398303, from Los Angeles to Kansas City, Departure Time: 14:58, Arrival Time: 20:09'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Raffaello Ristorante, Los Angeles', 'Ayara Thai Cuisine, Los Angeles', 'Leo & Lily, Los Angeles', 'Cafe Gratitude Venice, Los Angeles', 'Bavel, Los Angeles', '-'],
+Attractions (1 per day): ['Venice Canals Walkway, Los Angeles', 'Hollywood Sign, Los Angeles', 'Walt Disney Concert Hall, Los Angeles'],
+Accommodations (1 per city): ['Cozy Private Room In LA., Los Angeles']

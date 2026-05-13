@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to New York",
+    "transportation": "Flight Number: F3758802, from Sarasota to New York, Departure Time: 21:51, Arrival Time: 00:18",
+    "breakfast": "Rao's Restaurant, New York",
+    "lunch": "Sarge\u2019s Delicatessen & Diner, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "American Museum of Natural History, New York",
+    "accommodation": "Sonder at One Platt | Queen Studio, New York",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "BOOM, New York",
+    "dinner": "Del Frisco's Double Eagle Steakhouse, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Sonder at One Platt | Queen Studio, New York",
+    "event": "-",
+    "point_of_interest_list": "Sonder at One Platt | Queen Studio, stay from 08:00 to 08:30, nearest transit: WATER ST/JOHN ST, 47.08m away; Peak Restaurant & Bar, visit from 09:00 to 09:40, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; The National 9/11 Memorial & Museum, visit from 10:10 to 12:10, nearest transit: CHURCH ST/LIBERTY ST, 234.55m away; BOOM, visit from 13:40 to 14:20, nearest transit: W 14 ST/WASHINGTON ST, 126.07m away; Del Frisco's Double Eagle Steakhouse, visit from 19:00 to 19:40, nearest transit: W 49 ST/AVENUE OF THE AMERICAS, 94.03m away; Sonder at One Platt | Queen Studio, stay from 23:00 to 08:00, nearest transit: WATER ST/JOHN ST, 47.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Sarasota",
+    "transportation": "Flight Number: F0838385, from New York to Sarasota, Departure Time: 16:07, Arrival Time: 19:24",
+    "breakfast": "Manhatta, New York",
+    "lunch": "La Grande Boucherie, New York",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sonder at One Platt | Queen Studio, stay from 08:00 to 08:30, nearest transit: WATER ST/JOHN ST, 47.08m away; Manhatta, visit from 09:00 to 09:40, nearest transit: BROADWAY/THAMES ST, 199.51m away; The Metropolitan Museum of Art, visit from 10:10 to 12:10, nearest transit: 5 AV/E 80 ST, 182.01m away; La Grande Boucherie, visit from 12:40 to 13:20, nearest transit: 7 AV/W 54 ST, 124.66m away; Gallaghers Steakhouse, visit from 14:57 to 15:37, nearest transit: 7 AV/W 52 ST, 131.50m away"
+  }
+]

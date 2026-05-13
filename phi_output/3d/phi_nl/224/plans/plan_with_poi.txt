@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Las Vegas",
+    "transportation": "Flight Number: F2562339, from Memphis to Las Vegas, Departure Time: 22:46, Arrival Time: 00:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 00:43 to 01:13, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 01:43 to 08:00, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Blossom, Las Vegas",
+    "lunch": "Top of the World, Las Vegas",
+    "dinner": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:30 to 09:00, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Blossom, Las Vegas, visit from 09:39 to 10:29, ; Top of the World, Las Vegas, visit from 14:30 to 15:30, ; Gordon Ramsay Hell's Kitchen, Las Vegas, visit from 19:31 to 20:46, ; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 21:16 to 05:16, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Memphis",
+    "transportation": "Flight Number: F0376611, from Las Vegas to Memphis, Departure Time: 16:07, Arrival Time: 21:45",
+    "breakfast": "PRIME Steakhouse, Las Vegas",
+    "lunch": "Eiffel Tower Restaurant, Las Vegas",
+    "dinner": "-",
+    "attraction": "The Neon Museum, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 06:00 to 06:30, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; PRIME Steakhouse, Las Vegas, visit from 08:00 to 08:50, ; The Neon Museum, Las Vegas, visit from 09:20 to 12:50, ; Eiffel Tower Restaurant, Las Vegas, visit from 13:20 to 15:37, "
+  }
+]

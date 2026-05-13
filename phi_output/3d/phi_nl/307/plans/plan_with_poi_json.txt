@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to Seattle",
+    "transportation": "Flight Number: F0292124, from Tucson to Seattle, Departure Time: 13:22, Arrival Time: 16:42",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Pike Pub and Brewery, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Pike Place Market Apt Water View and Balcony, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Il Terrazzo Carmine, Seattle",
+    "lunch": "Tulio, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "Pike Place Market Apt Water View and Balcony, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 08:00 to 08:30, nearest transit: 2nd Ave & Pike St, 369.95m away; Il Terrazzo Carmine, visit from 09:00 to 09:40, nearest transit: Alaskan Way S & S Jackson St, 103.57m away; Pike Place Market, visit from 10:10 to 12:10, nearest transit: 2nd Ave & Stewart St, 182.89m away; Tulio, visit from 13:40 to 14:20, nearest transit: 5th Ave & Spring St, 55.15m away; Noi Thai Cuisine, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Seneca St, 181.65m away; Pike Place Market Apt Water View and Balcony, stay from 23:00 to 08:00, nearest transit: 2nd Ave & Pike St, 369.95m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Tucson",
+    "transportation": "Flight Number: F1764392, from Seattle to Tucson, Departure Time: 17:43, Arrival Time: 20:41",
+    "breakfast": "Matt's in the Market, Seattle",
+    "lunch": "Place Pigalle Restaurant and Bar, Seattle",
+    "dinner": "Purple Cafe and Wine Bar, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 08:00 to 08:30, nearest transit: 2nd Ave & Pike St, 369.95m away; Matt's in the Market, visit from 09:00 to 09:40, nearest transit: 2nd Ave & Pike St, 155.00m away; Woodland Park Zoo, visit from 10:10 to 12:10, nearest transit: Phinney Ave N & N 55th St, 257.77m away; Place Pigalle Restaurant and Bar, visit from 12:40 to 13:20, nearest transit: 2nd Ave & Pike St, 154.30m away; Purple Cafe and Wine Bar, visit from 16:33 to 17:13, nearest transit: Seneca St & 4th Ave, 72.48m away"
+  }
+]

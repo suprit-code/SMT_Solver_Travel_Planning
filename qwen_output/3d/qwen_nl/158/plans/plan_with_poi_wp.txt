@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Albany to Nashville",
+    "transportation": "Flight Number: F2564746, from Albany to Nashville, Departure Time: 11:10, Arrival Time: 12:20",
+    "breakfast": "-",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "-",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Lofts At 30th-Nashville Charm -In West End, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 12:50 to 13:20, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; Kayne Prime, Nashville, visit from 13:50 to 14:50, ; Cheekwood, Nashville, visit from 15:20 to 18:50, ; Lofts At 30th-Nashville Charm -In West End, stay from 20:45 to 04:45, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Harriet's Rooftop, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Lofts At 30th-Nashville Charm -In West End, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 06:00 to 06:30, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; Harriet's Rooftop, Nashville, visit from 08:52 to 09:42, ; Belmont Mansion, Nashville, visit from 10:12 to 13:42, ; Aquarium Restaurant, Nashville, visit from 14:12 to 15:12, ; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 20:45 to 22:00, ; Lofts At 30th-Nashville Charm -In West End, stay from 22:30 to 06:30, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Albany",
+    "transportation": "Self-driving from Nashville to Albany, duration: 1129.86, distance: 1615.2378, cost : 80.0",
+    "breakfast": "Miranda Lambert's Casa Rosa, Nashville",
+    "lunch": "The Standard, Nashville",
+    "dinner": "The Chef And I, Nashville",
+    "attraction": "Gaylord Opryland Garden Conservatory, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 07:00 to 07:30, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; Miranda Lambert's Casa Rosa, Nashville, visit from 08:00 to 08:50, ; The Standard, Nashville, visit from 12:51 to 13:51, ; Gaylord Opryland Garden Conservatory, Nashville, visit from 14:21 to 18:30, ; The Chef And I, Nashville, visit from 19:00 to 20:15, "
+  }
+]

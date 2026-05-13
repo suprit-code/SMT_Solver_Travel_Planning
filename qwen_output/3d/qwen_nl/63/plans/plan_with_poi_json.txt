@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Jackson to New York",
+    "transportation": "Flight Number: F1493624, from Jackson to New York, Departure Time: 12:27, Arrival Time: 18:40",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Lamartine Chelsea 1B, New York",
+    "event": "-",
+    "point_of_interest_list": "Lamartine Chelsea 1B, stay from 19:05 to 19:25, nearest transit: 8 AV/W 31 ST, 59.30m away; Lamartine Chelsea 1B, stay from 19:50 to 08:00, nearest transit: 8 AV/W 31 ST, 59.30m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "Carmine's, New York",
+    "dinner": "Peak Restaurant & Bar, New York",
+    "attraction": "Chelsea Market, New York",
+    "accommodation": "Lamartine Chelsea 1B, New York",
+    "event": "-",
+    "point_of_interest_list": "Lamartine Chelsea 1B, stay from 08:00 to 08:30, nearest transit: 8 AV/W 31 ST, 59.30m away; Times Square Diner, visit from 08:55 to 09:35, nearest transit: W 49 ST/8 AV, 51.46m away; Chelsea Market, visit from 10:00 to 12:00, nearest transit: W 14 ST/WASHINGTON ST, 131.35m away; Carmine's, visit from 13:35 to 14:15, nearest transit: 7 AV/W 44 ST, 61.95m away; Peak Restaurant & Bar, visit from 19:00 to 19:40, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; Lamartine Chelsea 1B, stay from 20:05 to 08:00, nearest transit: 8 AV/W 31 ST, 59.30m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Jackson",
+    "transportation": "taxi, from New York to Jackson, duration: 1338.7966666666666, distance: 1930.066, cost: 1930",
+    "breakfast": "Burger & Lobster, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "American Museum of Natural History, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lamartine Chelsea 1B, stay from 08:00 to 08:30, nearest transit: 8 AV/W 31 ST, 59.30m away; Burger & Lobster, visit from 08:55 to 09:35, nearest transit: W 42 ST/BROADWAY, 75.08m away; American Museum of Natural History, visit from 10:00 to 12:00, nearest transit: CENTRAL PARK WEST/W 79 ST, 124.14m away; Westway Diner, visit from 13:35 to 14:15, nearest transit: 9 AV/W 44 ST, 44.32m away; Del Frisco's Grille, visit from 19:00 to 19:40, nearest transit: 5 AV/W 50 ST, 139.24m away"
+  }
+]

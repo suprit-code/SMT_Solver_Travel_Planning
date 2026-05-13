@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Cleveland",
+    "transportation": "Flight Number: F3237881, from Dallas to Cleveland, Departure Time: 20:54, Arrival Time: 00:14",
+    "breakfast": "Lucky's Cafe, Cleveland",
+    "lunch": "L'Albatros Brasserie + Bar, Cleveland",
+    "dinner": "Cleveland Chop, Cleveland",
+    "attraction": "House From A Christmas Story, Cleveland",
+    "accommodation": "CozyStudio+65!@##@!TV+8Min from DT CLE, Cleveland",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Cleveland",
+    "transportation": "-",
+    "breakfast": "Momocho, Cleveland",
+    "lunch": "Il Rione, Cleveland",
+    "dinner": "Townhall, Cleveland",
+    "attraction": "Old Arcade, Cleveland",
+    "accommodation": "CozyStudio+65!@##@!TV+8Min from DT CLE, Cleveland",
+    "event": "-",
+    "point_of_interest_list": "CozyStudio+65!@##@!TV+8Min from DT CLE, stay from 08:00 to 08:30, nearest transit: N/A, N/A away; Momocho, visit from 09:00 to 09:40, nearest transit: LORAIN AV & W 32ND ST, 232.28m away; Old Arcade, visit from 10:10 to 12:10, nearest transit: EUCLID AV & E 6TH ST STATION, 108.81m away; Il Rione, visit from 13:40 to 14:20, nearest transit: DETROIT AV & W 61ST ST, 268.66m away; Townhall, visit from 19:00 to 19:40, nearest transit: W 25TH ST & LORAIN AV STOP #1, 93.33m away; CozyStudio+65!@##@!TV+8Min from DT CLE, stay from 23:00 to 08:00, nearest transit: N/A, N/A away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Cleveland to Dallas",
+    "transportation": "Flight Number: F1945916, from Cleveland to Dallas, Departure Time: 16:50, Arrival Time: 19:02",
+    "breakfast": "Mia Bella Restaurant, Cleveland",
+    "lunch": "Trattoria Roman Garden, Cleveland",
+    "dinner": "-",
+    "attraction": "West Side Market, Cleveland",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "CozyStudio+65!@##@!TV+8Min from DT CLE, stay from 08:00 to 08:30, nearest transit: N/A, N/A away; Mia Bella Restaurant, visit from 09:00 to 09:40, nearest transit: MAYFIELD RD & E 124TH PL, 135.61m away; West Side Market, visit from 10:10 to 12:10, nearest transit: W 25TH ST & LORAIN AV STOP #1, 53.80m away; Trattoria Roman Garden, visit from 13:40 to 14:20, nearest transit: MAYFIELD RD & E 124TH PL, 128.88m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Baltimore",
+    "transportation": "Flight Number: F2173317, from Indianapolis to Baltimore, Departure Time: 10:18, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "Blue Moon Cafe, Baltimore",
+    "dinner": "-",
+    "attraction": "Fort McHenry National Monument And Historic Shrine, Baltimore",
+    "accommodation": "Notel 9 Getaway Suite with Sauna, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 12:22 to 13:30, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; Blue Moon Cafe, Baltimore, visit from 14:00 to 15:00, ; Fort McHenry National Monument And Historic Shrine, Baltimore, visit from 15:30 to 19:16, ; Notel 9 Getaway Suite with Sauna, stay from 21:30 to 05:30, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Chiapparelli's Restaurant, Baltimore",
+    "lunch": "Pratt Street Ale House, Baltimore",
+    "dinner": "Toki Underground Baltimore, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "Notel 9 Getaway Suite with Sauna, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 06:00 to 06:30, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; Chiapparelli's Restaurant, Baltimore, visit from 08:18 to 10:00, ; National Aquarium, Baltimore, visit from 10:30 to 14:00, ; Pratt Street Ale House, Baltimore, visit from 14:30 to 15:30, ; Toki Underground Baltimore, Baltimore, visit from 20:45 to 23:09, ; Notel 9 Getaway Suite with Sauna, stay from 23:39 to 07:39, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Indianapolis",
+    "transportation": "Self-driving from Baltimore to Indianapolis, duration: 663.8933333333333, distance: 928.8094, cost : 46.0",
+    "breakfast": "Miss Shirley's Cafe, Inner Harbor, Baltimore",
+    "lunch": "Nick's Fish House, Baltimore",
+    "dinner": "The Helmand, Baltimore",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 08:09 to 08:39, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; Miss Shirley's Cafe, Inner Harbor, Baltimore, visit from 09:09 to 09:59, ; Nick's Fish House, Baltimore, visit from 14:00 to 15:00, ; The Maryland Zoo, Baltimore, visit from 15:30 to 19:00, ; The Helmand, Baltimore, visit from 19:30 to 20:45, "
+  }
+]

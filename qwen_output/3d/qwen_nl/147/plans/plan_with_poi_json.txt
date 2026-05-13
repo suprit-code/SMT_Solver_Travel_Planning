@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Atlanta",
+    "transportation": "Flight Number: F0838547, from Memphis to Atlanta, Departure Time: 14:52, Arrival Time: 17:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Home Grown, Atlanta",
+    "lunch": "Fox Bros. Bar-B-Q, Atlanta",
+    "dinner": "Steamhouse Lounge, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 08:00 to 08:30, nearest transit: CASCADE AVE SW @ 1113, 82.40m away; Home Grown, visit from 08:55 to 09:35, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; Atlanta History Center, visit from 10:00 to 12:00, nearest transit: PEACHTREE RD @ BUCKHEAD AVE NE, 610.21m away; Fox Bros. Bar-B-Q, visit from 13:35 to 14:15, nearest transit: MORELAND AVE @ 299, 219.31m away; Steamhouse Lounge, visit from 19:00 to 19:40, nearest transit: W PEACHTREE ST @ 12TH ST, 93.00m away; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 20:05 to 08:00, nearest transit: CASCADE AVE SW @ 1113, 82.40m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Memphis",
+    "transportation": "Self-driving, from Atlanta to Memphis, duration: 421.4566666666667, distance: 612.9464, cost: 30",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "Bangkok Station, Atlanta",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 08:00 to 08:30, nearest transit: CASCADE AVE SW @ 1113, 82.40m away; Cafe Agora, visit from 08:55 to 09:35, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; Centennial Olympic Park, visit from 10:00 to 12:00, nearest transit: MARIETTA ST @ PARK AVE WEST, 143.86m away; Bangkok Station, visit from 13:35 to 14:15, nearest transit: PIEDMONT RD NE @ PEACHTREE DR NE, 153.20m away; Aviva by Kameel, visit from 19:00 to 19:40, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away"
+  }
+]

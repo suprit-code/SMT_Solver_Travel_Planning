@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Greensboro",
+    "transportation": "Flight Number: F3061727, from Washington to Greensboro, Departure Time: 07:35, Arrival Time: 08:45",
+    "breakfast": "Carolina's Diner, Greensboro",
+    "lunch": "Stamey's Barbecue, Greensboro",
+    "dinner": "MJ's Steak and Seafood, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "A charmer!\nGreat spot near downtown., Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A charmer!\nGreat spot near downtown., stay from 09:10 to 09:25, nearest transit: Elm/Fisher Park Circle, 472.40m away; Carolina's Diner, visit from 09:50 to 10:30, nearest transit: Swing Rd/Swing Court, 4333.60m away; International Civil Rights Center & Museum, visit from 10:55 to 12:55, nearest transit: International Civil Rights Museum , 3.98m away; Stamey's Barbecue, visit from 14:30 to 15:10, nearest transit: Gate City/Patterson, 46.58m away; MJ's Steak and Seafood, visit from 19:10 to 19:50, nearest transit: West Friendly/Dolly Madison, 84.21m away; A charmer!\nGreat spot near downtown., stay from 23:00 to 08:00, nearest transit: Elm/Fisher Park Circle, 472.40m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Scrambled Southern Diner, Greensboro",
+    "lunch": "B. Christopher's, Greensboro",
+    "dinner": "Captain Bill's Seafood & Steak, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "A charmer!\nGreat spot near downtown., Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A charmer!\nGreat spot near downtown., stay from 08:00 to 08:30, nearest transit: Elm/Fisher Park Circle, 472.40m away; Scrambled Southern Diner, visit from 08:55 to 09:35, nearest transit: Spring Garden/Howard (IB), 61.39m away; Carolina Theatre, visit from 10:00 to 12:00, nearest transit: Washington/Eugene, 118.33m away; B. Christopher's, visit from 13:35 to 14:15, nearest transit: Elm/Friendly (Northbound), 22.34m away; Captain Bill's Seafood & Steak, visit from 19:00 to 19:40, nearest transit: West Market/Weslo-Willow, 188.98m away; A charmer!\nGreat spot near downtown., stay from 23:00 to 08:00, nearest transit: Elm/Fisher Park Circle, 472.40m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Washington",
+    "transportation": "Flight Number: F3788425, from Greensboro to Washington, Departure Time: 15:54, Arrival Time: 17:22",
+    "breakfast": "Dear Dad's, Greensboro",
+    "lunch": "Mimi's Cafe, Greensboro",
+    "dinner": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A charmer!\nGreat spot near downtown., stay from 08:00 to 08:10, nearest transit: Elm/Fisher Park Circle, 472.40m away; Dear Dad's, visit from 08:35 to 08:48, nearest transit: Battleground/Old Battleground, 64.41m away; Mimi's Cafe, visit from 12:00 to 12:13, nearest transit: West Friendly/Mimi's Restaurant, 40.77m away; Fleming's Prime Steakhouse & Wine Bar, visit from 15:16 to 15:29, nearest transit: West Friendly/Hobbs Road (OB), 99.18m away"
+  }
+]

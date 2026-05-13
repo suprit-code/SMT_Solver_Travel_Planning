@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tampa to Nashville",
+    "transportation": "Flight Number: F0055097, from Tampa to Nashville, Departure Time: 16:27, Arrival Time: 17:08",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Harriet's Rooftop, Nashville",
+    "attraction": "-",
+    "accommodation": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 17:38 to 18:08, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; Harriet's Rooftop, Nashville, visit from 19:00 to 22:00, ; Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 22:30 to 06:30, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Henley, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "The Bluebird Cafe, Nashville",
+    "attraction": "Andrew Jackson's Hermitage, Nashville",
+    "accommodation": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 07:00 to 07:30, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; Henley, Nashville, visit from 08:00 to 09:29, ; Aquarium Restaurant, Nashville, visit from 13:30 to 14:30, ; Andrew Jackson's Hermitage, Nashville, visit from 15:00 to 18:30, ; The Bluebird Cafe, Nashville, visit from 19:00 to 20:15, ; Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 20:45 to 04:45, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Tampa",
+    "transportation": "Flight Number: F3131675, from Nashville to Tampa, Departure Time: 18:04, Arrival Time: 20:41",
+    "breakfast": "The Stillery, Nashville",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 06:00 to 06:30, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; The Stillery, Nashville, visit from 08:00 to 08:50, ; Cheekwood, Nashville, visit from 09:20 to 14:01, "
+  }
+]

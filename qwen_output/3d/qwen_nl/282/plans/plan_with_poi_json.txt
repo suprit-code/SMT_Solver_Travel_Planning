@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Newburgh to Savannah",
+    "transportation": "Self-driving, from Newburgh to Savannah, duration: 993.655, distance: 1386.7442, cost: 69",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Garden Tiny House, Savannah",
+    "event": "-",
+    "point_of_interest_list": "The Garden Tiny House, stay from 00:58 to 01:04, nearest transit: DIXON & OBYRNE EB, 367.91m away; The Garden Tiny House, stay from 01:29 to 08:00, nearest transit: DIXON & OBYRNE EB, 367.91m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Belford's Savannah, Savannah",
+    "lunch": "Rocks on the Roof, Savannah",
+    "dinner": "Goose Feathers Cafe & Bakery, Savannah",
+    "attraction": "Wormsloe Historic Site, Savannah",
+    "accommodation": "The Garden Tiny House, Savannah",
+    "event": "-",
+    "point_of_interest_list": "The Garden Tiny House, stay from 08:00 to 08:30, nearest transit: DIXON & OBYRNE EB, 367.91m away; Belford's Savannah, visit from 08:55 to 09:35, nearest transit: CONGRESS & JEFFERSON, 121.72m away; Wormsloe Historic Site, visit from 10:00 to 12:00, nearest transit: MONTGOMERY CROSS & BILLINGS EB, 1349.81m away; Rocks on the Roof, visit from 13:35 to 14:15, nearest transit: BRYAN & BULL, 176.86m away; Goose Feathers Cafe & Bakery, visit from 19:00 to 19:40, nearest transit: CONGRESS & JEFFERSON, 51.14m away; The Garden Tiny House, stay from 20:05 to 08:00, nearest transit: DIXON & OBYRNE EB, 367.91m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Newburgh",
+    "transportation": "Self-driving, from Savannah to Newburgh, duration: 989.985, distance: 1384.401, cost: 69",
+    "breakfast": "Vinnie Van Go-Go's, Savannah",
+    "lunch": "Huey's On The River, Savannah",
+    "dinner": "Bella Napoli Italian Bistro, Savannah",
+    "attraction": "Skidaway Island State Park, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Garden Tiny House, stay from 08:00 to 08:30, nearest transit: DIXON & OBYRNE EB, 367.91m away; Vinnie Van Go-Go's, visit from 08:55 to 09:35, nearest transit: CONGRESS & JEFFERSON, 133.92m away; Skidaway Island State Park, visit from 10:00 to 12:00, nearest transit: WALMART ON MONTGOMERY CROSS, 5664.70m away; Huey's On The River, visit from 13:35 to 14:15, nearest transit: CONGRESS & BULL, 254.45m away; Bella Napoli Italian Bistro, visit from 19:00 to 19:40, nearest transit: DRAYTON & BROUGHTON, 69.34m away"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Nashville",
+    "transportation": "Flight Number: F2688479, from Denver to Nashville, Departure Time: 10:14, Arrival Time: 13:40",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ole Red, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 14:10 to 14:40, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Belmont Mansion, Nashville, visit from 15:30 to 20:15, ; Ole Red, Nashville, visit from 20:45 to 22:01, ; Private Entrance near Airport in Safe neighborhood, stay from 22:31 to 06:31, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "Henley, Nashville",
+    "dinner": "Honky Tonk – The Twelve Thirty Club, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 07:01 to 07:31, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Aquarium Restaurant, Nashville, visit from 08:01 to 09:59, ; Henley, Nashville, visit from 14:00 to 15:00, ; Centennial Park, Nashville, visit from 15:30 to 20:15, ; Honky Tonk – The Twelve Thirty Club, Nashville, visit from 20:45 to 23:10, ; Private Entrance near Airport in Safe neighborhood, stay from 23:40 to 07:40, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Chattanooga",
+    "transportation": "Taxi from Nashville to Chattanooga, duration: 148.23666666666668, distance: 211.4268, cost : 211.0",
+    "breakfast": "Puckett's 5th & Church, Nashville",
+    "lunch": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "dinner": "Molcajete Mexican Restaurant, Chattanooga",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 08:10 to 08:40, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Puckett's 5th & Church, Nashville, visit from 09:10 to 10:00, ; Cheekwood, Nashville, visit from 10:30 to 14:00, ; Bourbon Street Blues and Boogie Bar, Nashville, visit from 14:30 to 15:30, ; Wren’s nest on the ridge, stay from 18:58 to 19:28, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Molcajete Mexican Restaurant, Chattanooga, visit from 19:58 to 21:13, ; Wren’s nest on the ridge, stay from 21:43 to 06:32, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "lunch": "Uncle Larry's Restaurant, Chattanooga",
+    "dinner": "Hickory Pit Bar-B-Que, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 07:02 to 07:32, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Maple Street Biscuit Company - City Center, Chattanooga, visit from 08:02 to 08:52, ; Tennessee Aquarium, Chattanooga, visit from 09:22 to 12:52, ; Uncle Larry's Restaurant, Chattanooga, visit from 13:22 to 14:59, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 19:00 to 20:15, ; Wren’s nest on the ridge, stay from 20:45 to 04:45, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Chattanooga to Denver",
+    "transportation": "Taxi from Chattanooga to Denver, duration: 1380.885, distance: 2073.0798, cost : 2073.0",
+    "breakfast": "Community Pie, Chattanooga",
+    "lunch": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "dinner": "-",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 07:00 to 07:30, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Community Pie, Chattanooga, visit from 08:00 to 08:50, ; The Purple Daisy Picnic Cafe, Chattanooga, visit from 12:51 to 13:51, ; Coolidge Park, Chattanooga, visit from 14:21 to 18:31, "
+  }
+]

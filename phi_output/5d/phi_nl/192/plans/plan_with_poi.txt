@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Bend to San Diego",
+    "transportation": "Self-driving from Bend to San Diego, duration: 1061.7866666666666, distance: 1509.9929, cost : 75.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 00:11 to 00:41, nearest transit: Jewell St & Garnet Av, 578.25m away; charming, colorful, close to beach, stay from 01:11 to 08:00, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "-",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 08:30 to 09:00, nearest transit: Jewell St & Garnet Av, 578.25m away; Pacific Beach AleHouse, San Diego, visit from 09:39 to 10:29, ; Mimmo's, San Diego, visit from 14:30 to 16:44, ; Born & Raised, San Diego, visit from 20:45 to 22:32, ; charming, colorful, close to beach, stay from 23:02 to 07:02, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Self-driving from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 53.0",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Nice private room with king bed ,separate entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 07:32 to 08:02, nearest transit: Jewell St & Garnet Av, 578.25m away; Lou & Mickey's, San Diego, visit from 08:32 to 09:22, ; Nice private room with king bed ,separate entrance, stay from 22:36 to 23:06, nearest transit: Buenaventura Blvd at Lakeside Dr, 241.4m away; Nice private room with king bed ,separate entrance, stay from 23:37 to 07:37, nearest transit: Buenaventura Blvd at Lakeside Dr, 241.4m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Market Street Steakhouse, Redding",
+    "lunch": "Thai Hut, Redding",
+    "dinner": "Logan's Roadhouse, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Nice private room with king bed ,separate entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "Nice private room with king bed ,separate entrance, stay from 08:07 to 08:37, nearest transit: Buenaventura Blvd at Lakeside Dr, 241.4m away; Market Street Steakhouse, Redding, visit from 09:07 to 09:57, ; Turtle Bay Exploration Park, Redding, visit from 10:27 to 13:57, ; Thai Hut, Redding, visit from 14:27 to 15:27, ; Logan's Roadhouse, Redding, visit from 19:28 to 20:43, ; Nice private room with king bed ,separate entrance, stay from 21:13 to 05:13, nearest transit: Buenaventura Blvd at Lakeside Dr, 241.4m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Bend",
+    "transportation": "Self-driving from Redding to Bend, duration: 331.87166666666667, distance: 445.2644, cost : 22.0",
+    "breakfast": "Trendy's, Redding",
+    "lunch": "Jack's Grill, Redding",
+    "dinner": "Champa Garden, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Nice private room with king bed ,separate entrance, stay from 06:00 to 06:30, nearest transit: Buenaventura Blvd at Lakeside Dr, 241.4m away; Trendy's, Redding, visit from 08:00 to 08:50, ; Jack's Grill, Redding, visit from 12:51 to 13:51, ; Sundial Bridge, Redding, visit from 14:21 to 17:51, ; Champa Garden, Redding, visit from 19:00 to 20:15, "
+  }
+]

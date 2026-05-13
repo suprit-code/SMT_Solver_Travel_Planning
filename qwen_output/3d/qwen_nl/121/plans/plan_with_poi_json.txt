@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to New York",
+    "transportation": "Flight Number: F0278767, from Ontario to New York, Departure Time: 01:01, Arrival Time: 08:45",
+    "breakfast": "-",
+    "lunch": "Papillon Bistro & Bar, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "East Village, Private room with access to garden, New York",
+    "event": "-",
+    "point_of_interest_list": "East Village, Private room with access to garden, stay from 09:10 to 09:30, nearest transit: 1 AV/E 1 ST, 79.09m away; Central Park, visit from 09:55 to 11:55, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; Papillon Bistro & Bar, visit from 12:20 to 13:00, nearest transit: MADISON AV/E 53 ST, 82.27m away; Times Square Diner, visit from 19:00 to 19:40, nearest transit: W 49 ST/8 AV, 51.46m away; East Village, Private room with access to garden, stay from 20:05 to 08:00, nearest transit: 1 AV/E 1 ST, 79.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Gallaghers Steakhouse, New York",
+    "lunch": "Piccola Cucina Osteria, New York",
+    "dinner": "Sarge\u2019s Delicatessen & Diner, New York",
+    "attraction": "The Oculus, New York",
+    "accommodation": "East Village, Private room with access to garden, New York",
+    "event": "-",
+    "point_of_interest_list": "East Village, Private room with access to garden, stay from 08:00 to 08:30, nearest transit: 1 AV/E 1 ST, 79.09m away; Gallaghers Steakhouse, visit from 08:55 to 09:35, nearest transit: 7 AV/W 52 ST, 131.50m away; The Oculus, visit from 10:00 to 12:00, nearest transit: CHURCH ST/VESEY ST, 127.84m away; Piccola Cucina Osteria, visit from 13:35 to 14:15, nearest transit: 6 AV/SPRING ST, 89.22m away; Sarge\u2019s Delicatessen & Diner, visit from 19:00 to 19:40, nearest transit: 3 AV/E 37 ST, 101.41m away; East Village, Private room with access to garden, stay from 20:05 to 08:00, nearest transit: 1 AV/E 1 ST, 79.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Ontario",
+    "transportation": "Flight Number: F3332160, from New York to Ontario, Departure Time: 18:26, Arrival Time: 21:10",
+    "breakfast": "La Grande Boucherie, New York",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "-",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "East Village, Private room with access to garden, stay from 08:00 to 08:30, nearest transit: 1 AV/E 1 ST, 79.09m away; La Grande Boucherie, visit from 08:55 to 09:35, nearest transit: 7 AV/W 54 ST, 124.66m away; The High Line, visit from 10:00 to 12:00, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Peak Restaurant & Bar, visit from 13:35 to 14:15, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away"
+  }
+]

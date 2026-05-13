@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Santa Rosa",
+    "transportation": "Flight Number: F0400302, from Dallas to Santa Rosa, Departure Time: 11:25, Arrival Time: 13:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Yeti Restaurant, Santa Rosa",
+    "attraction": "Hook and Ladder Winery, Santa Rosa",
+    "accommodation": "Private Getaway in West Santa Rosa, Santa Rosa",
+    "event": "-",
+    "point_of_interest_list": "Private Getaway in West Santa Rosa, stay from 13:41 to 14:01, nearest transit: Corporate Center Pkwy @ Northpoint Pkwy, 534.11m away; Hook and Ladder Winery, visit from 14:26 to 16:26, nearest transit: Fulton Rd @ Piner Rd, 3873.26m away; Yeti Restaurant, visit from 19:00 to 19:40, nearest transit: Fourth St @ Farmers Ln, 147.61m away; Private Getaway in West Santa Rosa, stay from 20:05 to 08:00, nearest transit: Corporate Center Pkwy @ Northpoint Pkwy, 534.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Santa Rosa",
+    "transportation": "-",
+    "breakfast": "Russian River Brewing Company, Santa Rosa",
+    "lunch": "Casa Del Mar, Santa Rosa",
+    "dinner": "SEA Thai Bistro, Santa Rosa",
+    "attraction": "St. Francis Winery and Vineyards, Santa Rosa",
+    "accommodation": "Private Getaway in West Santa Rosa, Santa Rosa",
+    "event": "-",
+    "point_of_interest_list": "Private Getaway in West Santa Rosa, stay from 08:00 to 08:30, nearest transit: Corporate Center Pkwy @ Northpoint Pkwy, 534.11m away; Russian River Brewing Company, visit from 08:55 to 09:35, nearest transit: E St @ Fourth St, 103.61m away; St. Francis Winery and Vineyards, visit from 10:00 to 12:00, nearest transit: Summerfield Rd @ Carissa Ave, 7237.95m away; Casa Del Mar, visit from 13:35 to 14:15, nearest transit: Bellevue Ave @ Stony Point Rd, 1554.46m away; SEA Thai Bistro, visit from 19:00 to 19:40, nearest transit: Hahman Dr @ Montgomery Dr, 101.61m away; Private Getaway in West Santa Rosa, stay from 23:00 to 08:00, nearest transit: Corporate Center Pkwy @ Northpoint Pkwy, 534.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Santa Rosa to Dallas",
+    "transportation": "Flight Number: F3602678, from Santa Rosa to Dallas, Departure Time: 14:02, Arrival Time: 19:23",
+    "breakfast": "Piner Cafe, Santa Rosa",
+    "lunch": "Pho Vietnam, Santa Rosa",
+    "dinner": "-",
+    "attraction": "Safari West, Santa Rosa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Getaway in West Santa Rosa, stay from 08:00 to 08:10, nearest transit: Corporate Center Pkwy @ Northpoint Pkwy, 534.11m away; Piner Cafe, visit from 08:35 to 08:57, nearest transit: Piner Rd @ Airway Dr, 130.32m away; Safari West, visit from 09:22 to 11:22, nearest transit: 3585 Round Barn Blvd, 8901.29m away; Pho Vietnam, visit from 12:57 to 13:37, nearest transit: Stony Point Rd @ Sebastopol Rd Food Maxx, 145.51m away"
+  }
+]

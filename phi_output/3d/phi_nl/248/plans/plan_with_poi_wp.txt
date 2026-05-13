@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Madison to New York",
+    "transportation": "Flight Number: F0715790, from Madison to New York, Departure Time: 05:55, Arrival Time: 09:13",
+    "breakfast": "-",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "BOOM, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 09:43 to 10:13, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Peak Restaurant & Bar, New York, visit from 12:00 to 13:00, ; The National 9/11 Memorial & Museum, New York, visit from 15:00 to 18:30, ; BOOM, New York, visit from 19:00 to 20:15, ; Church view bedroom in Harlem brownstone, stay from 20:45 to 04:45, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "Rao's Restaurant, New York",
+    "dinner": "Manhatta, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 06:00 to 06:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Times Square Diner, New York, visit from 08:40 to 10:00, ; Central Park, New York, visit from 10:30 to 14:00, ; Rao's Restaurant, New York, visit from 14:30 to 16:44, ; Manhatta, New York, visit from 20:45 to 22:39, ; Church view bedroom in Harlem brownstone, stay from 23:09 to 07:09, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Madison",
+    "transportation": "Flight Number: F0727671, from New York to Madison, Departure Time: 20:45, Arrival Time: 22:38",
+    "breakfast": "La Grande Boucherie, New York",
+    "lunch": "Del Frisco's Double Eagle Steakhouse, New York",
+    "dinner": "Rainbow Room, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 07:39 to 08:09, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; La Grande Boucherie, New York, visit from 08:39 to 09:29, ; Del Frisco's Double Eagle Steakhouse, New York, visit from 13:30 to 14:30, ; The High Line, New York, visit from 15:00 to 18:30, ; Rainbow Room, New York, visit from 19:00 to 20:15, "
+  }
+]

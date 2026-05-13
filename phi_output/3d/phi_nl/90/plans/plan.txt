@@ -1,0 +1,6 @@
+Destination cities: ['New York'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ["Flight Number: F2907731, from Martha's Vineyard to New York, Departure Time: 13:20, Arrival Time: 14:15", "taxi, from New York to Martha's Vineyard, duration: 404.8333333333333, distance: 425.9981, cost: 425"],
+Restaurants (3 meals per day): ['-', '-', 'Manhatta, New York', "Rao's Restaurant, New York", 'La Grande Boucherie, New York', 'BOOM, New York', "Del Frisco's Double Eagle Steakhouse, New York", 'Gaonnuri, New York', 'FIG & OLIVE, New York'],
+Attractions (1 per day): ['Central Park, New York', 'The Metropolitan Museum of Art, New York', 'The High Line, New York'],
+Accommodations (1 per city): ['Serenity at the Heart of NYC l No Cleaning fee, New York']

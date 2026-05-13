@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-21', '2024-11-23', '2024-11-25'],
+Transportation methods between cities: ['Flight Number: F3817024, from Boise to San Diego, Departure Time: 12:13, Arrival Time: 13:18', 'Flight Number: F1674335, from San Diego to Sacramento, Departure Time: 19:02, Arrival Time: 20:36', 'Flight Number: F2647695, from Sacramento to Boise, Departure Time: 16:18, Arrival Time: 18:36'],
+Restaurants (3 meals per day): ['-', '-', 'Morning Glory, San Diego', 'Din Tai Fung, San Diego', "Filippi's Pizza Grotto Little Italy, San Diego", 'Pacific Beach AleHouse, San Diego', 'World Famous, San Diego', 'The Butcher Shop, San Diego', 'Bacon & Butter, Sacramento', 'Kru Contemporary Japanese Cuisine, Sacramento', "Paragary's, Sacramento", "Paesano's Pizzeria, Sacramento", 'Nopalitos, Sacramento', 'Tipsy Putt, Sacramento', '-'],
+Attractions (1 per day): ['Sunset Cliffs Natural Park, San Diego', 'Cabrillo National Monument, San Diego', 'Birch Aquarium at Scripps, San Diego', 'California State Capitol Museum, Sacramento', 'Capitol Park, Sacramento'],
+Accommodations (1 per city): ['Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego', '1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento']

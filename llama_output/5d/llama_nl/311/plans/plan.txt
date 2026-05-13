@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-08', '2024-11-10', '2024-11-12'],
+Transportation methods between cities: ['Self-driving, from Bend to San Diego, duration: 1061.7866666666666, distance: 1509.9929, cost: 75', 'Self-driving, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 53', 'Self-driving, from Redding to Bend, duration: 331.87166666666667, distance: 445.2644, cost: 22'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Ironside Fish & Oyster, San Diego', "Filippi's Pizza Grotto Little Italy, San Diego", "Lou & Mickey's, San Diego", 'Addison Restaurant, San Diego', 'Morning Glory, San Diego', "Mimmo's, San Diego", 'Priya Indian Cuisine, Redding', 'Fratelli’s Pizza Parlour, Redding', "Chu's Too, Redding", 'Grand Buffet, Redding', 'Dam Burger, Redding', "Jeff's California Cattle Company Restaurant, Redding"],
+Attractions (1 per day): ['-', 'Cabrillo National Monument, San Diego', 'Old Town San Diego, San Diego', 'Turtle Bay Exploration Park, Redding', 'Sundial Bridge, Redding'],
+Accommodations (1 per city): ['Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego', 'Room& bath w/ private entrance; Great location, Redding']

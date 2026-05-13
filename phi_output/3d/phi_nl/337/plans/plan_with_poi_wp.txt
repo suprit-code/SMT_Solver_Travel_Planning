@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F2878294, from Seattle to San Diego, Departure Time: 05:57, Arrival Time: 08:31",
+    "breakfast": "-",
+    "lunch": "Morning Glory, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "Old Town San Diego, San Diego",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 09:01 to 09:31, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Morning Glory, San Diego, visit from 12:00 to 13:00, ; Old Town San Diego, San Diego, visit from 15:30 to 20:15, ; Addison Restaurant, San Diego, visit from 20:45 to 22:39, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 23:09 to 07:09, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Buon Appetito, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "Coronado Bridge, San Diego",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 07:39 to 08:09, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Born & Raised, San Diego, visit from 08:39 to 09:59, ; Buon Appetito, San Diego, visit from 14:00 to 15:00, ; Coronado Bridge, San Diego, visit from 15:30 to 19:00, ; Pacific Beach AleHouse, San Diego, visit from 19:30 to 20:45, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 21:15 to 05:15, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F1318273, from San Diego to Seattle, Departure Time: 19:27, Arrival Time: 22:13",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "Little Italy, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 06:00 to 06:30, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Din Tai Fung, San Diego, visit from 08:00 to 08:50, ; Little Italy, San Diego, visit from 09:20 to 12:50, ; Mimmo's, San Diego, visit from 13:20 to 18:57, "
+  }
+]

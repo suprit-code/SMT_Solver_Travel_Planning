@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to San Luis Obispo",
+    "transportation": "Flight Number: F0402404, from Dallas to San Luis Obispo, Departure Time: 10:46, Arrival Time: 13:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Nate's On Marsh, San Luis Obispo",
+    "attraction": "Mission San Luis Obispo de Tolosa, San Luis Obispo",
+    "accommodation": "Harris House, San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "Harris House, stay from 13:31 to 14:01, nearest transit: Higuera & South, 520.23m away; Mission San Luis Obispo de Tolosa, San Luis Obispo, visit from 15:00 to 18:30, ; Nate's On Marsh, San Luis Obispo, visit from 19:00 to 20:15, ; Harris House, stay from 20:45 to 06:44, nearest transit: Higuera & South, 520.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Luis Obispo",
+    "transportation": "-",
+    "breakfast": "High Street Market & Deli, San Luis Obispo",
+    "lunch": "Taco King, San Luis Obispo",
+    "dinner": "Lure Fish House, San Luis Obispo",
+    "attraction": "Bubblegum Alley, San Luis Obispo",
+    "accommodation": "Harris House, San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "Harris House, stay from 07:14 to 07:44, nearest transit: Higuera & South, 520.23m away; High Street Market & Deli, San Luis Obispo, visit from 08:14 to 09:04, ; Taco King, San Luis Obispo, visit from 13:05 to 14:05, ; Bubblegum Alley, San Luis Obispo, visit from 14:35 to 18:30, ; Lure Fish House, San Luis Obispo, visit from 19:00 to 20:15, ; Harris House, stay from 20:45 to 04:45, nearest transit: Higuera & South, 520.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Luis Obispo to Dallas",
+    "transportation": "Flight Number: F1376911, from San Luis Obispo to Dallas, Departure Time: 12:34, Arrival Time: 18:07",
+    "breakfast": "Ox + Anchor, San Luis Obispo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Harris House, stay from 06:00 to 06:30, nearest transit: Higuera & South, 520.23m away; Ox + Anchor, San Luis Obispo, visit from 09:40 to 12:04, "
+  }
+]

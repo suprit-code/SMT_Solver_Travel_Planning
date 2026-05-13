@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Antonio",
+    "transportation": "Flight Number: F1372422, from Miami to San Antonio, Departure Time: 13:47, Arrival Time: 16:10",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bubba Gump Shrimp Co., San Antonio",
+    "attraction": "-",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 16:40 to 17:10, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Bubba Gump Shrimp Co., San Antonio, visit from 19:00 to 20:15, ; Couples getaway kink dungeon, stay from 20:45 to 04:45, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Battalion, San Antonio",
+    "lunch": "J Prime Steakhouse, San Antonio",
+    "dinner": "Bliss, San Antonio",
+    "attraction": "Pearl Brewery, San Antonio",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 06:00 to 06:30, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Battalion, San Antonio, visit from 08:18 to 09:08, ; J Prime Steakhouse, San Antonio, visit from 13:09 to 15:00, ; Pearl Brewery, San Antonio, visit from 15:30 to 19:00, ; Bliss, San Antonio, visit from 19:30 to 20:45, ; Couples getaway kink dungeon, stay from 21:15 to 05:15, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Antonio to Miami",
+    "transportation": "Flight Number: F2584235, from San Antonio to Miami, Departure Time: 17:50, Arrival Time: 21:42",
+    "breakfast": "Boudro's Texas Bistro, San Antonio",
+    "lunch": "Schilo's, San Antonio",
+    "dinner": "-",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 06:00 to 06:30, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Boudro's Texas Bistro, San Antonio, visit from 08:00 to 08:50, ; The Alamo, San Antonio, visit from 09:20 to 12:50, ; Schilo's, San Antonio, visit from 13:20 to 17:20, "
+  }
+]

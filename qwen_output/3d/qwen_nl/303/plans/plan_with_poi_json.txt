@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to Nashville",
+    "transportation": "Flight Number: F0317757, from Atlanta to Nashville, Departure Time: 17:19, Arrival Time: 17:28",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "The Farm House, Nashville",
+    "lunch": "Puckett's 5th & Church, Nashville",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Private Entrance near Airport in Safe neighborhood, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 08:00 to 08:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; The Farm House, visit from 08:55 to 09:35, nearest transit: CONVENTION CENTER STATION OUTBOUND, 114.93m away; Belmont Mansion, visit from 10:00 to 12:00, nearest transit: WEDGEWOOD AVE & 16TH AVE EB, 92.02m away; Puckett's 5th & Church, visit from 13:35 to 14:15, nearest transit: 5TH AVE N & CHURCH ST NB, 39.47m away; Aquarium Restaurant, visit from 19:00 to 19:40, nearest transit: OPRY MILLS DR & GENERAL JACKSON'S, 170.74m away; Private Entrance near Airport in Safe neighborhood, stay from 20:05 to 08:00, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Atlanta",
+    "transportation": "Flight Number: F0866441, from Nashville to Atlanta, Departure Time: 17:54, Arrival Time: 20:00",
+    "breakfast": "Smiling Elephant, Nashville",
+    "lunch": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "dinner": "-",
+    "attraction": "Gaylord Opryland Garden Conservatory, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Entrance near Airport in Safe neighborhood, stay from 08:00 to 08:30, nearest transit: LEBANON PIKE & DANYACREST DR SB, 295.08m away; Smiling Elephant, visit from 08:55 to 09:35, nearest transit: 8TH AVE S & BRADFORD AVE SB, 66.14m away; Gaylord Opryland Garden Conservatory, visit from 10:00 to 12:00, nearest transit: OPRY MILLS DRIVE & WARDROBE BLDNG, 471.91m away; Bourbon Street Blues and Boogie Bar, visit from 13:35 to 14:15, nearest transit: 4TH AVE N & CHURCH ST SB, 75.44m away"
+  }
+]

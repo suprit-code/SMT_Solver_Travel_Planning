@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to San Diego",
+    "transportation": "Flight Number: F2421516, from Washington to San Diego, Departure Time: 12:39, Arrival Time: 14:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "-",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 15:18 to 15:48, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Cowboy Star, San Diego, visit from 20:45 to 22:17, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 22:47 to 06:47, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Barbusa, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "World Famous, San Diego",
+    "attraction": "Balboa Park, San Diego",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 07:17 to 07:47, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Barbusa, San Diego, visit from 08:17 to 09:07, ; Born & Raised, San Diego, visit from 13:08 to 14:08, ; Balboa Park, San Diego, visit from 15:00 to 18:30, ; World Famous, San Diego, visit from 19:00 to 23:10, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 23:40 to 07:40, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F3817640, from San Diego to Sacramento, Departure Time: 21:18, Arrival Time: 23:01",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Mister A'S, San Diego",
+    "attraction": "Sunset Cliffs Natural Park, San Diego",
+    "accommodation": "Room with private bathroom, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 08:10 to 08:40, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Pacific Beach AleHouse, San Diego, visit from 09:10 to 10:00, ; Sunset Cliffs Natural Park, San Diego, visit from 10:30 to 14:00, ; Mimmo's, San Diego, visit from 14:30 to 15:32, ; Mister A'S, San Diego, visit from 19:33 to 20:48, ; Room with private bathroom, stay from 23:31 to 00:01, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away; Room with private bathroom, stay from 00:31 to 08:00, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "The Porch Restaurant and Bar, Sacramento",
+    "lunch": "Sauced BBQ & Spirits, Sacramento",
+    "dinner": "Localis, Sacramento",
+    "attraction": "-",
+    "accommodation": "Room with private bathroom, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Room with private bathroom, stay from 08:30 to 09:00, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away; The Porch Restaurant and Bar, Sacramento, visit from 09:39 to 10:29, ; Sauced BBQ & Spirits, Sacramento, visit from 14:30 to 16:44, ; Localis, Sacramento, visit from 20:45 to 22:00, ; Room with private bathroom, stay from 22:30 to 08:00, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Washington",
+    "transportation": "Flight Number: F2435116, from Sacramento to Washington, Departure Time: 12:32, Arrival Time: 20:16",
+    "breakfast": "Cafeteria 15L, Sacramento",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room with private bathroom, stay from 08:30 to 09:00, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away; Cafeteria 15L, Sacramento, visit from 09:30 to 10:20, "
+  }
+]

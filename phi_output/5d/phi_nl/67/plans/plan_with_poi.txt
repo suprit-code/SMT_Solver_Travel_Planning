@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Santa Fe to Durango",
+    "transportation": "Taxi from Santa Fe to Durango, duration: 284.2033333333333, distance: 390.1447, cost : 390.0",
+    "breakfast": "-",
+    "lunch": "Durango Bagel, Durango",
+    "dinner": "81301 Coffee House and Roasters, Durango",
+    "attraction": "San Juan National Forest, Durango",
+    "accommodation": "Ponderosa Point Casita (1 bed/1 bath - no kitchen), Durango",
+    "event": "-",
+    "point_of_interest_list": "Ponderosa Point Casita (1 bed/1 bath - no kitchen), stay from 13:00 to 13:30, nearest transit: Lightner Creek Village, 4645.14m away; Durango Bagel, Durango, visit from 14:00 to 15:00, ; San Juan National Forest, Durango, visit from 15:30 to 19:00, ; 81301 Coffee House and Roasters, Durango, visit from 19:30 to 20:45, ; Ponderosa Point Casita (1 bed/1 bath - no kitchen), stay from 22:30 to 06:30, nearest transit: Lightner Creek Village, 4645.14m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Durango",
+    "transportation": "-",
+    "breakfast": "College Drive Cafe, Durango",
+    "lunch": "Durango Diner, Durango",
+    "dinner": "Durango Joe's Coffee on College Dr., Durango",
+    "attraction": "-",
+    "accommodation": "Ponderosa Point Casita (1 bed/1 bath - no kitchen), Durango",
+    "event": "-",
+    "point_of_interest_list": "Ponderosa Point Casita (1 bed/1 bath - no kitchen), stay from 07:00 to 07:30, nearest transit: Lightner Creek Village, 4645.14m away; College Drive Cafe, Durango, visit from 08:00 to 08:50, ; Durango Diner, Durango, visit from 12:51 to 14:30, ; Durango Joe's Coffee on College Dr., Durango, visit from 19:00 to 23:04, ; Ponderosa Point Casita (1 bed/1 bath - no kitchen), stay from 23:34 to 07:34, nearest transit: Lightner Creek Village, 4645.14m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Durango to Colorado Springs",
+    "transportation": "Taxi from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost : 506.0",
+    "breakfast": "-",
+    "lunch": "Oscar's Cafe, Durango",
+    "dinner": "-",
+    "attraction": "The Colorado Trail, Durango",
+    "accommodation": "Private guest suite that is all yours!, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Ponderosa Point Casita (1 bed/1 bath - no kitchen), stay from 08:04 to 08:34, nearest transit: Lightner Creek Village, 4645.14m away; The Colorado Trail, Durango, visit from 09:04 to 12:34, ; Oscar's Cafe, Durango, visit from 13:04 to 14:04, ; Private guest suite that is all yours!, stay from 21:38 to 22:08, nearest transit: Corporate/Corporate Center, 2273.34m away; Private guest suite that is all yours!, stay from 23:23 to 07:23, nearest transit: Corporate/Corporate Center, 2273.34m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Mountain Shadows Restaurant, Colorado Springs",
+    "lunch": "Restaurant 1858, Colorado Springs",
+    "dinner": "Paravicini's Italian Bistro, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "Private guest suite that is all yours!, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Private guest suite that is all yours!, stay from 07:53 to 08:23, nearest transit: Corporate/Corporate Center, 2273.34m away; Mountain Shadows Restaurant, Colorado Springs, visit from 08:53 to 09:43, ; Seven Falls, Colorado Springs, visit from 10:13 to 13:43, ; Restaurant 1858, Colorado Springs, visit from 14:13 to 15:13, ; Paravicini's Italian Bistro, Colorado Springs, visit from 19:14 to 20:29, ; Private guest suite that is all yours!, stay from 20:59 to 06:30, nearest transit: Corporate/Corporate Center, 2273.34m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Colorado Springs to Santa Fe",
+    "transportation": "Taxi from Colorado Springs to Santa Fe, duration: 336.54833333333335, distance: 522.037, cost : 522.0",
+    "breakfast": "Jack Quinn's Irish Pub & Restaurant, Colorado Springs",
+    "lunch": "Pizzeria Rustica, Colorado Springs",
+    "dinner": "Front Range Barbeque, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private guest suite that is all yours!, stay from 07:00 to 07:30, nearest transit: Corporate/Corporate Center, 2273.34m away; Jack Quinn's Irish Pub & Restaurant, Colorado Springs, visit from 08:00 to 08:50, ; Garden of the Gods, Colorado Springs, visit from 09:20 to 12:50, ; Pizzeria Rustica, Colorado Springs, visit from 13:20 to 14:20, ; Front Range Barbeque, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

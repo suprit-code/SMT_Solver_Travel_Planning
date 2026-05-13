@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Huntsville",
+    "transportation": "Self-driving from Indianapolis to Huntsville, duration: 451.75, distance: 639.0136, cost : 31.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Unplug at Peaceful Treehouse w/ hot tub & fire pit, Huntsville",
+    "event": "-",
+    "point_of_interest_list": "Unplug at Peaceful Treehouse w/ hot tub & fire pit, stay from 14:30 to 15:00, nearest transit: Meridian at Olympia Gardens Apts NB, 7559.84m away; Unplug at Peaceful Treehouse w/ hot tub & fire pit, stay from 23:39 to 07:39, nearest transit: Meridian at Olympia Gardens Apts NB, 7559.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Huntsville",
+    "transportation": "-",
+    "breakfast": "Grille on Main, Huntsville",
+    "lunch": "Nick's Ristorante, Huntsville",
+    "dinner": "Ruth's Chris Steak House, Huntsville",
+    "attraction": "Sugarbush Hill Maple Farm, Huntsville",
+    "accommodation": "Unplug at Peaceful Treehouse w/ hot tub & fire pit, Huntsville",
+    "event": "-",
+    "point_of_interest_list": "Unplug at Peaceful Treehouse w/ hot tub & fire pit, stay from 08:09 to 08:39, nearest transit: Meridian at Olympia Gardens Apts NB, 7559.84m away; Grille on Main, Huntsville, visit from 09:09 to 09:59, ; Nick's Ristorante, Huntsville, visit from 14:00 to 15:00, ; Sugarbush Hill Maple Farm, Huntsville, visit from 15:30 to 20:15, ; Ruth's Chris Steak House, Huntsville, visit from 20:45 to 22:00, ; Unplug at Peaceful Treehouse w/ hot tub & fire pit, stay from 22:30 to 06:30, nearest transit: Meridian at Olympia Gardens Apts NB, 7559.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Huntsville to Indianapolis",
+    "transportation": "Self-driving from Huntsville to Indianapolis, duration: 451.3783333333333, distance: 638.8732, cost : 31.0",
+    "breakfast": "Cotton Row, Huntsville",
+    "lunch": "Texas de Brazil - Huntsville, Huntsville",
+    "dinner": "The Bottle, Huntsville",
+    "attraction": "U.S. Space and Rocket Center, Huntsville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Unplug at Peaceful Treehouse w/ hot tub & fire pit, stay from 07:00 to 07:30, nearest transit: Meridian at Olympia Gardens Apts NB, 7559.84m away; Cotton Row, Huntsville, visit from 08:00 to 08:50, ; Texas de Brazil - Huntsville, Huntsville, visit from 12:51 to 13:51, ; U.S. Space and Rocket Center, Huntsville, visit from 14:21 to 18:30, ; The Bottle, Huntsville, visit from 19:00 to 20:15, "
+  }
+]

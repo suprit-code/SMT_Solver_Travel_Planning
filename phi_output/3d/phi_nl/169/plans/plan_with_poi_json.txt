@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Santa Rosa to Seattle",
+    "transportation": "Flight Number: F2401170, from Santa Rosa to Seattle, Departure Time: 06:53, Arrival Time: 08:42",
+    "breakfast": "Il Terrazzo Carmine, Seattle",
+    "lunch": "Six Seven Restaurant, Seattle",
+    "dinner": "El Gaucho Seattle, Seattle",
+    "attraction": "Chihuly Garden and Glass, Seattle",
+    "accommodation": "Pike Place Market Apt Water View and Balcony, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 09:12 to 09:42, nearest transit: 2nd Ave & Pike St, 369.95m away; Il Terrazzo Carmine, visit from 10:12 to 10:52, nearest transit: Alaskan Way S & S Jackson St, 103.57m away; Chihuly Garden and Glass, visit from 11:22 to 13:22, nearest transit: Seattle Center, 78.76m away; Six Seven Restaurant, visit from 14:50 to 15:30, nearest transit: 1st Ave & Broad St, 540.95m away; El Gaucho Seattle, visit from 19:30 to 20:10, nearest transit: 2nd Ave & Bell St, 181.71m away; Pike Place Market Apt Water View and Balcony, stay from 23:00 to 08:00, nearest transit: 2nd Ave & Pike St, 369.95m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Salty's On Alki Beach, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "The Museum of Flight, Seattle",
+    "accommodation": "Pike Place Market Apt Water View and Balcony, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 08:00 to 08:30, nearest transit: 2nd Ave & Pike St, 369.95m away; Salty's On Alki Beach, visit from 09:00 to 09:40, nearest transit: Harbor Ave SW & 2100 Block, 145.40m away; The Museum of Flight, visit from 10:10 to 12:10, nearest transit: East Marginal Way S & S 94th Pl, 95.97m away; Noi Thai Cuisine, visit from 13:40 to 14:20, nearest transit: 2nd Ave & Seneca St, 181.65m away; Dough Zone Dumpling House - Seattle International District, visit from 19:00 to 19:40, nearest transit: 5th Ave S & S Weller St, 26.54m away; Pike Place Market Apt Water View and Balcony, stay from 23:00 to 08:00, nearest transit: 2nd Ave & Pike St, 369.95m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Santa Rosa",
+    "transportation": "Flight Number: F0515222, from Seattle to Santa Rosa, Departure Time: 18:08, Arrival Time: 20:01",
+    "breakfast": "Metropolitan Grill, Seattle",
+    "lunch": "Spinasse, Seattle",
+    "dinner": "The Capital Grille, Seattle",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 08:00 to 08:30, nearest transit: 2nd Ave & Pike St, 369.95m away; Metropolitan Grill, visit from 09:00 to 09:40, nearest transit: 2nd Ave & Marion St, 39.95m away; Pike Place Market, visit from 10:10 to 12:10, nearest transit: 2nd Ave & Stewart St, 182.89m away; Spinasse, visit from 12:40 to 13:20, nearest transit: E Pine St & 15th Ave, 90.45m away; The Capital Grille, visit from 16:58 to 17:38, nearest transit: 4th Ave & University, 41.04m away"
+  }
+]

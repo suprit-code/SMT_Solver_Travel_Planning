@@ -1,0 +1,11 @@
+Error message:
+'Contemporary' is not in list
+
+Full traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/SMT_Solver_TravelPlanning/Test_TravelPlannerv2.py", line 366, in pipeline
+    exec(codes)
+  File "<string>", line 153, in <module>
+  File "/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py", line 153, in check_exists
+    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))
+ValueError: 'Contemporary' is not in list

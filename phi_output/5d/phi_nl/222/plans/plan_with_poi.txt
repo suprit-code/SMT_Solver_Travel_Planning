@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to San Diego",
+    "transportation": "Flight Number: F0907413, from Las Vegas to San Diego, Departure Time: 16:01, Arrival Time: 17:10",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "-",
+    "accommodation": "Hilltop cabin retreat with lake & mountain views, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Hilltop cabin retreat with lake & mountain views, stay from 17:40 to 18:10, nearest transit: Del Lago Transit Station, 4467.07m away; Juniper and Ivy, San Diego, visit from 20:45 to 22:11, ; Hilltop cabin retreat with lake & mountain views, stay from 22:41 to 06:41, nearest transit: Del Lago Transit Station, 4467.07m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Ironside Fish & Oyster, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Las Hadas Grill, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Hilltop cabin retreat with lake & mountain views, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Hilltop cabin retreat with lake & mountain views, stay from 07:11 to 07:41, nearest transit: Del Lago Transit Station, 4467.07m away; Ironside Fish & Oyster, San Diego, visit from 08:11 to 09:01, ; Mimmo's, San Diego, visit from 13:02 to 14:30, ; Birch Aquarium at Scripps, San Diego, visit from 15:00 to 18:30, ; Las Hadas Grill, San Diego, visit from 19:00 to 20:15, ; Hilltop cabin retreat with lake & mountain views, stay from 20:45 to 05:30, nearest transit: Del Lago Transit Station, 4467.07m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F1613483, from San Diego to Sacramento, Departure Time: 18:27, Arrival Time: 19:53",
+    "breakfast": "-",
+    "lunch": "Morning Glory, San Diego",
+    "dinner": "-",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Hilltop cabin retreat with lake & mountain views, stay from 06:00 to 06:30, nearest transit: Del Lago Transit Station, 4467.07m away; Cabrillo National Monument, San Diego, visit from 10:30 to 14:00, ; Morning Glory, San Diego, visit from 14:30 to 15:30, ; Peaceful and Cozy Studio, stay from 20:23 to 20:53, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Peaceful and Cozy Studio, stay from 21:23 to 05:23, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Bangkok @12 Thai Restaurant, Sacramento",
+    "lunch": "The Firehouse Restaurant, Sacramento",
+    "dinner": "The Waterboy, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 06:00 to 06:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Bangkok @12 Thai Restaurant, Sacramento, visit from 08:12 to 09:02, ; The Firehouse Restaurant, Sacramento, visit from 13:03 to 14:03, ; California State Capitol Museum, Sacramento, visit from 15:00 to 18:30, ; The Waterboy, Sacramento, visit from 19:00 to 20:15, ; Peaceful and Cozy Studio, stay from 20:45 to 04:45, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Las Vegas",
+    "transportation": "Flight Number: F3981085, from Sacramento to Las Vegas, Departure Time: 17:23, Arrival Time: 18:40",
+    "breakfast": "Grange Restaurant & Bar, Sacramento",
+    "lunch": "Aviators Restaurant, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 06:00 to 06:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Grange Restaurant & Bar, Sacramento, visit from 08:00 to 08:50, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; Aviators Restaurant, Sacramento, visit from 14:30 to 15:30, "
+  }
+]

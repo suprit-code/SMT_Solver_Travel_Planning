@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Shreveport to Los Angeles",
+    "transportation": "Flight Number: F2553584, from Shreveport to Los Angeles, Departure Time: 23:01, Arrival Time: 00:23",
+    "breakfast": "71Above Restaurant and Skylounge, Los Angeles",
+    "lunch": "Providence, Los Angeles",
+    "dinner": "The Lobster, Los Angeles",
+    "attraction": "Griffith Observatory, Los Angeles",
+    "accommodation": "*New! Historic Hollywood Hills Bungalow + Pool, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "n/naka, Los Angeles",
+    "lunch": "Musso & Frank Grill, Los Angeles",
+    "dinner": "Water Grill, Los Angeles",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "*New! Historic Hollywood Hills Bungalow + Pool, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "*New! Historic Hollywood Hills Bungalow + Pool, stay from 08:00 to 08:30, nearest transit:  Beachwood & Westshire , 320.82m away; n/naka, visit from 08:55 to 09:35, nearest transit: National Blvd & Motor Ave (Southbound), 467.17m away; Griffith Park, visit from 10:00 to 12:00, nearest transit: West Observatory Rd & Mt. Hollywood Dr, 1520.21m away; Musso & Frank Grill, visit from 13:35 to 14:15, nearest transit: Hollywood & Whitley St., 204.74m away; Water Grill, visit from 19:00 to 19:40, nearest transit: 6th St & Grand Ave (Eastbound), 102.29m away; *New! Historic Hollywood Hills Bungalow + Pool, stay from 23:00 to 08:00, nearest transit:  Beachwood & Westshire , 320.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Shreveport",
+    "transportation": "Flight Number: F1349406, from Los Angeles to Shreveport, Departure Time: 06:37, Arrival Time: 11:52",
+    "breakfast": "Spire 73, Los Angeles",
+    "lunch": "The Palm - L.A. Downtown, Los Angeles",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Ontario'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F4030780, from Las Vegas to Ontario, Departure Time: 15:19, Arrival Time: 16:13', 'Flight Number: F3102939, from Ontario to Las Vegas, Departure Time: 22:01, Arrival Time: 23:14'],
+Restaurants (3 meals per day): ['-', '-', 'Nine North Viet-Thai Cuisine, Ontario', 'Hudson Public Kitchen + Bar, Ontario', 'Sunset Grill, Ontario', 'The Olde School Restaurant, Ontario', 'China King Restaurant, Ontario', 'Cafe Andreou, Ontario', 'Crazy Canuck Smokehouse, Ontario'],
+Attractions (1 per day): ["Ripley's Aquarium of Canada, Ontario", 'White Water Walk, Ontario', 'Toronto Island Park, Ontario'],
+Accommodations (1 per city): ['Beautiful clean and bright apartment, Ontario']

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Los Angeles to Durango",
+    "transportation": "Taxi from Los Angeles to Durango, duration: 869.7733333333333, distance: 1250.4541000000002, cost : 1250.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "2ndWind Ranch Country Casita Outside Durango 12mi., Durango",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Casita Outside Durango 12mi., stay from 21:45 to 22:15, nearest transit: Sunnyside, 11231.77m away; 2ndWind Ranch Country Casita Outside Durango 12mi., stay from 22:45 to 06:45, nearest transit: Sunnyside, 11231.77m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Durango",
+    "transportation": "-",
+    "breakfast": "81301 Coffee House and Roasters, Durango",
+    "lunch": "Durango's Mexican, Durango",
+    "dinner": "Diamond Belle Saloon, Durango",
+    "attraction": "The Colorado Trail, Durango",
+    "accommodation": "2ndWind Ranch Country Casita Outside Durango 12mi., Durango",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Casita Outside Durango 12mi., stay from 07:15 to 07:45, nearest transit: Sunnyside, 11231.77m away; 81301 Coffee House and Roasters, Durango, visit from 08:15 to 09:59, ; Durango's Mexican, Durango, visit from 14:00 to 15:00, ; The Colorado Trail, Durango, visit from 15:30 to 19:15, ; Diamond Belle Saloon, Durango, visit from 19:45 to 21:00, ; 2ndWind Ranch Country Casita Outside Durango 12mi., stay from 21:30 to 05:30, nearest transit: Sunnyside, 11231.77m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Durango to Colorado Springs",
+    "transportation": "Taxi from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost : 506.0",
+    "breakfast": "Bread, Durango",
+    "lunch": "Durango Joe's Coffee on College Dr., Durango",
+    "dinner": "-",
+    "attraction": "San Juan National Forest, Durango",
+    "accommodation": "Two-Bed Two-Bath house, walk to Garden of the Gods, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Casita Outside Durango 12mi., stay from 06:00 to 07:30, nearest transit: Sunnyside, 11231.77m away; Bread, Durango, visit from 08:00 to 08:50, ; San Juan National Forest, Durango, visit from 09:20 to 12:50, ; Durango Joe's Coffee on College Dr., Durango, visit from 13:20 to 14:20, ; Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 21:54 to 22:24, nearest transit: Colorado/34th, 175.71m away; Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 22:54 to 06:54, nearest transit: Colorado/34th, 175.71m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Paravicini's Italian Bistro, Colorado Springs",
+    "lunch": "The Melting Pot, Colorado Springs",
+    "dinner": "Urban Egg A Daytime Eatery, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "Two-Bed Two-Bath house, walk to Garden of the Gods, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 07:24 to 07:54, nearest transit: Colorado/34th, 175.71m away; Paravicini's Italian Bistro, Colorado Springs, visit from 08:47 to 09:37, ; Seven Falls, Colorado Springs, visit from 10:30 to 14:00, ; The Melting Pot, Colorado Springs, visit from 14:30 to 15:30, ; Urban Egg A Daytime Eatery, Colorado Springs, visit from 19:31 to 23:10, ; Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 23:40 to 07:40, nearest transit: Colorado/34th, 175.71m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Colorado Springs to Los Angeles",
+    "transportation": "Taxi from Colorado Springs to Los Angeles, duration: 1135.4466666666667, distance: 1742.9415, cost : 1742.0",
+    "breakfast": "Mountain Shadows Restaurant, Colorado Springs",
+    "lunch": "Restaurant 1858, Colorado Springs",
+    "dinner": "The Airplane Restaurant, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 08:10 to 08:40, nearest transit: Colorado/34th, 175.71m away; Mountain Shadows Restaurant, Colorado Springs, visit from 09:10 to 10:00, ; Garden of the Gods, Colorado Springs, visit from 10:30 to 14:00, ; Restaurant 1858, Colorado Springs, visit from 14:30 to 15:30, ; The Airplane Restaurant, Colorado Springs, visit from 19:31 to 20:46, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F1596568, from El Paso to San Diego, Departure Time: 14:37, Arrival Time: 15:16', 'Flight Number: F0034352, from San Diego to Sacramento, Departure Time: 07:52, Arrival Time: 09:15', 'taxi, from Sacramento to El Paso, duration: 1267.745, distance: 1906.2027, cost: 1906'],
+Restaurants (3 meals per day): ['-', '-', 'Civico 1845, San Diego', "Lou & Mickey's, San Diego", "Filippi's Pizza Grotto Little Italy, San Diego", 'Addison Restaurant, San Diego', 'The Porch Restaurant and Bar, Sacramento', 'The Waterboy, Sacramento', 'El Novillero Restaurant, Sacramento', 'Sauced BBQ & Spirits, Sacramento', "Mulvaney's Building & Loan, Sacramento", 'Pilothouse Restaurant on the Delta King, Sacramento', 'Tipsy Putt, Sacramento', "Scott's Seafood on The River, Sacramento", 'Moxie, Sacramento'],
+Attractions (1 per day): ['San Diego Zoo, San Diego', 'SeaWorld, San Diego', 'Capitol Park, Sacramento', 'California State Capitol Museum, Sacramento', 'Old Sacramento, Sacramento'],
+Accommodations (1 per city): ['Place to Stay with Private Entrance near Beach, San Diego', 'The Cottage on Hendricks, Sacramento']

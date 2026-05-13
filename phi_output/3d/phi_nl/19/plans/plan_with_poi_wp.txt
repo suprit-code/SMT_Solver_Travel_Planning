@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Houston",
+    "transportation": "Flight Number: F3907677, from Denver to Houston, Departure Time: 14:37, Arrival Time: 17:38",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "-",
+    "accommodation": "Private  guest suite in the greater Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private  guest suite in the greater Heights, stay from 18:08 to 20:15, nearest transit: W 20th St @ Bevis St, 79.73m away; Pappas Bros. Steakhouse, Houston, visit from 20:45 to 22:42, ; Private  guest suite in the greater Heights, stay from 23:12 to 07:12, nearest transit: W 20th St @ Bevis St, 79.73m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Eddie V's Prime Seafood, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "Goode Company Seafood, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "Private  guest suite in the greater Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private  guest suite in the greater Heights, stay from 07:42 to 08:12, nearest transit: W 20th St @ Bevis St, 79.73m away; Eddie V's Prime Seafood, Houston, visit from 08:42 to 09:32, ; NRG Stadium, Houston, visit from 10:02 to 13:32, ; Pappadeaux Seafood Kitchen, Houston, visit from 14:02 to 16:44, ; Goode Company Seafood, Houston, visit from 20:45 to 23:09, ; Private  guest suite in the greater Heights, stay from 23:39 to 07:39, nearest transit: W 20th St @ Bevis St, 79.73m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Denver",
+    "transportation": "Flight Number: F0049386, from Houston to Denver, Departure Time: 22:44, Arrival Time: 23:57",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "Brenner's on the Bayou, Houston",
+    "dinner": "-",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private  guest suite in the greater Heights, stay from 08:09 to 08:39, nearest transit: W 20th St @ Bevis St, 79.73m away; Brennan's of Houston, Houston, visit from 09:09 to 09:59, ; Brenner's on the Bayou, Houston, visit from 14:00 to 15:00, ; Children's Museum Houston, Houston, visit from 15:30 to 19:00, "
+  }
+]

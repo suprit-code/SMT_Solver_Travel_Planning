@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Houston",
+    "transportation": "Flight Number: F3519646, from New York to Houston, Departure Time: 09:42, Arrival Time: 12:25",
+    "breakfast": "-",
+    "lunch": "Niko Niko's Greek, Houston",
+    "dinner": "Hugo's, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 12:55 to 13:25, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Niko Niko's Greek, visit from 13:55 to 14:35, nearest transit: Montrose Blvd @ Missouri St, 22.62m away; Downtown Aquarium, visit from 15:05 to 17:05, nearest transit: Preston St @ Bagby St, 75.65m away; Hugo's, visit from 19:00 to 19:40, nearest transit: Westheimer Rd @ Mandell St, 26.11m away; Entire Apt in the Heart of the City - Galleria, stay from 23:00 to 08:00, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Goode Company Seafood, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 08:00 to 08:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Pappadeaux Seafood Kitchen, visit from 09:00 to 09:40, nearest transit: Bush IAH Terminal C, 295.38m away; Hermann Park, visit from 10:10 to 12:10, nearest transit: Cambridge St @ Ben Taub Loop, 355.64m away; Goode Company Seafood, visit from 13:40 to 14:20, nearest transit: Westpark Dr @ Wakeforest St, 141.76m away; Brennan's of Houston, visit from 19:00 to 19:40, nearest transit: Elgin St @ Smith St, 102.40m away; Entire Apt in the Heart of the City - Galleria, stay from 23:00 to 08:00, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to New York",
+    "transportation": "Flight Number: F4060003, from Houston to New York, Departure Time: 18:52, Arrival Time: 23:23",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "dinner": "Uchi Houston, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 08:00 to 08:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Pappas Bros. Steakhouse, visit from 09:00 to 09:40, nearest transit: Westheimer Rd @ Augusta Dr, 60.97m away; Houston Zoo, visit from 10:10 to 12:10, nearest transit: Cambridge St @ Ben Taub Loop, 473.45m away; Fogo de Chao Brazilian Steakhouse, visit from 13:02 to 13:42, nearest transit: Westheimer Rd @ Old Farm Rd, 57.72m away; Uchi Houston, visit from 17:42 to 18:22, nearest transit: Westheimer Rd @ Montrose Blvd, 31.07m away"
+  }
+]

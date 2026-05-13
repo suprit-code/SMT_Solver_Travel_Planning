@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F3511787, from Atlanta to San Diego, Departure Time: 08:21, Arrival Time: 09:54",
+    "breakfast": "-",
+    "lunch": "World Famous, San Diego",
+    "dinner": "La Puerta, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 10:24 to 11:30, nearest transit: Adams Av & Biona Dr, 102.11m away; World Famous, San Diego, visit from 12:00 to 13:00, ; SeaWorld, San Diego, visit from 13:30 to 18:30, ; La Puerta, San Diego, visit from 19:00 to 20:15, ; Central & Serene Secret Garden Guesthouse, stay from 22:37 to 06:37, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "The Fish Market - San Diego, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 07:07 to 07:37, nearest transit: Adams Av & Biona Dr, 102.11m away; The Fish Market - San Diego, San Diego, visit from 08:07 to 09:59, ; Cowboy Star, San Diego, visit from 14:00 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 19:00, ; Lou & Mickey's, San Diego, visit from 19:30 to 20:45, ; Central & Serene Secret Garden Guesthouse, stay from 23:40 to 07:40, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Flight Number: F0500739, from San Diego to Los Angeles, Departure Time: 20:37, Arrival Time: 21:29",
+    "breakfast": "Addison Restaurant, San Diego",
+    "lunch": "El Agave Restaurant & Tequileria, San Diego",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Guest house with private parking, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 08:10 to 08:40, nearest transit: Adams Av & Biona Dr, 102.11m away; Addison Restaurant, San Diego, visit from 09:10 to 10:00, ; San Diego Zoo, San Diego, visit from 10:30 to 14:00, ; El Agave Restaurant & Tequileria, San Diego, visit from 14:30 to 15:30, ; Guest house with private parking, stay from 21:59 to 22:29, nearest transit: Goode Ave & Brand Blvd, 3987.65m away; Guest house with private parking, stay from 22:59 to 06:59, nearest transit: Goode Ave & Brand Blvd, 3987.65m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Maccheroni Republic, Los Angeles",
+    "lunch": "Brent's Deli Northridge, Los Angeles",
+    "dinner": "Pizzeria Mozza, Los Angeles",
+    "attraction": "The Grove, Los Angeles",
+    "accommodation": "Guest house with private parking, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Guest house with private parking, stay from 07:29 to 07:59, nearest transit: Goode Ave & Brand Blvd, 3987.65m away; Maccheroni Republic, Los Angeles, visit from 09:08 to 09:58, ; Brent's Deli Northridge, Los Angeles, visit from 13:59 to 14:59, ; The Grove, Los Angeles, visit from 15:30 to 19:00, ; Pizzeria Mozza, Los Angeles, visit from 19:30 to 20:45, ; Guest house with private parking, stay from 21:15 to 05:15, nearest transit: Goode Ave & Brand Blvd, 3987.65m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to Atlanta",
+    "transportation": "Flight Number: F2954952, from Los Angeles to Atlanta, Departure Time: 12:21, Arrival Time: 19:24",
+    "breakfast": "Bestia, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Guest house with private parking, stay from 06:00 to 09:00, nearest transit: Goode Ave & Brand Blvd, 3987.65m away; Bestia, Los Angeles, visit from 09:30 to 10:20, "
+  }
+]

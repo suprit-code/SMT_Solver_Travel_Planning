@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Seattle",
+    "transportation": "Flight Number: F0854784, from Raleigh to Seattle, Departure Time: 07:13, Arrival Time: 10:06",
+    "breakfast": "-",
+    "lunch": "Vons 1000 Spirits, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "Discovery Park, Seattle",
+    "accommodation": "At Mine - Prime Apartment in Seattle Downtown, Seattle",
+    "event": "-",
+    "point_of_interest_list": "At Mine - Prime Apartment in Seattle Downtown, stay from 10:36 to 11:06, nearest transit: 2nd Ave & Stewart St, 117.25m away; Vons 1000 Spirits, Seattle, visit from 13:30 to 14:30, ; Discovery Park, Seattle, visit from 15:00 to 18:30, ; Noi Thai Cuisine, Seattle, visit from 19:00 to 20:15, ; At Mine - Prime Apartment in Seattle Downtown, stay from 22:36 to 06:36, nearest transit: 2nd Ave & Stewart St, 117.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "The Capital Grille, Seattle",
+    "lunch": "Salty's On Alki Beach, Seattle",
+    "dinner": "13 Coins Restaurant, Seattle",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "At Mine - Prime Apartment in Seattle Downtown, Seattle",
+    "event": "-",
+    "point_of_interest_list": "At Mine - Prime Apartment in Seattle Downtown, stay from 07:06 to 07:36, nearest transit: 2nd Ave & Stewart St, 117.25m away; The Capital Grille, Seattle, visit from 08:06 to 08:56, ; Salty's On Alki Beach, Seattle, visit from 12:57 to 13:57, ; Seattle Aquarium, Seattle, visit from 14:27 to 17:57, ; 13 Coins Restaurant, Seattle, visit from 19:00 to 20:15, ; At Mine - Prime Apartment in Seattle Downtown, stay from 20:45 to 05:30, nearest transit: 2nd Ave & Stewart St, 117.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Raleigh",
+    "transportation": "Flight Number: F3512440, from Seattle to Raleigh, Departure Time: 15:33, Arrival Time: 23:31",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "-",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "At Mine - Prime Apartment in Seattle Downtown, stay from 06:00 to 06:30, nearest transit: 2nd Ave & Stewart St, 117.25m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 08:00 to 08:50, ; Woodland Park Zoo, Seattle, visit from 09:20 to 13:33, ; Il Terrazzo Carmine, Seattle, visit from 14:03 to 15:03, "
+  }
+]

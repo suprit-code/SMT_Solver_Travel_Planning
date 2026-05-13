@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Reno to San Diego",
+    "transportation": "Flight Number: F4025167, from Reno to San Diego, Departure Time: 06:27, Arrival Time: 07:49",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Cafe Coyote, San Diego",
+    "attraction": "-",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 08:19 to 09:09, nearest transit: Jewell St & Garnet Av, 578.25m away; Juniper and Ivy, San Diego, visit from 09:39 to 10:29, ; Mimmo's, San Diego, visit from 14:30 to 16:44, ; Cafe Coyote, San Diego, visit from 20:45 to 22:28, ; charming, colorful, close to beach, stay from 22:58 to 06:58, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Addison Restaurant, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 07:28 to 07:58, nearest transit: Jewell St & Garnet Av, 578.25m away; Addison Restaurant, San Diego, visit from 08:28 to 09:18, ; SeaWorld, San Diego, visit from 10:30 to 14:00, ; Cowboy Star, San Diego, visit from 14:30 to 16:44, ; Lou & Mickey's, San Diego, visit from 20:45 to 22:00, ; charming, colorful, close to beach, stay from 22:30 to 06:30, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Barbusa, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Master Suite w/Private Entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 07:00 to 07:30, nearest transit: Jewell St & Garnet Av, 578.25m away; Barbusa, San Diego, visit from 08:00 to 08:50, ; Master Suite w/Private Entrance, stay from 22:04 to 22:34, nearest transit: College View Dr at Bethel, 514.81m away; Master Suite w/Private Entrance, stay from 23:04 to 07:04, nearest transit: College View Dr at Bethel, 514.81m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Chu's Too, Redding",
+    "lunch": "Grand Buffet, Redding",
+    "dinner": "Janya Thai Cusine, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "Master Suite w/Private Entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "Master Suite w/Private Entrance, stay from 07:34 to 08:04, nearest transit: College View Dr at Bethel, 514.81m away; Chu's Too, Redding, visit from 09:09 to 09:59, ; Grand Buffet, Redding, visit from 14:00 to 15:00, ; Sundial Bridge, Redding, visit from 15:30 to 19:15, ; Janya Thai Cusine, Redding, visit from 19:45 to 21:00, ; Master Suite w/Private Entrance, stay from 21:30 to 05:30, nearest transit: College View Dr at Bethel, 514.81m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Reno",
+    "transportation": "Taxi from Redding to Reno, duration: 248.73166666666663, distance: 319.7163, cost : 319.0",
+    "breakfast": "Fratelli’s Pizza Parlour, Redding",
+    "lunch": "Olive Garden Italian Restaurant, Redding",
+    "dinner": "View 202, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Master Suite w/Private Entrance, stay from 06:00 to 06:30, nearest transit: College View Dr at Bethel, 514.81m away; Fratelli’s Pizza Parlour, Redding, visit from 08:00 to 08:50, ; Olive Garden Italian Restaurant, Redding, visit from 12:51 to 13:51, ; Turtle Bay Exploration Park, Redding, visit from 14:21 to 17:51, ; View 202, Redding, visit from 19:00 to 20:15, "
+  }
+]

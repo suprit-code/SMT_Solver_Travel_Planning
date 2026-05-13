@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Tampa",
+    "transportation": "Self-driving, from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost: 52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Hostal LA Rosa, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 08:00 to 08:30, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Hostal LA Rosa, stay from 23:00 to 08:00, nearest transit: Busch Gardens Employee Entrance, 10624.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Curry Leaves Indian Cuisine, Tampa",
+    "lunch": "Columbia Cafe - Riverwalk Tampa, Tampa",
+    "dinner": "Charley\u2019s Steak House & Market Fresh Fish, Tampa",
+    "attraction": "Glazer Children's Museum, Tampa",
+    "accommodation": "Hostal LA Rosa, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 08:00 to 08:30, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Curry Leaves Indian Cuisine, visit from 09:00 to 09:40, nearest transit: Busch Gardens Employee Entrance, 15004.90m away; Glazer Children's Museum, visit from 10:10 to 12:10, nearest transit: Busch Gardens Employee Entrance, 11143.62m away; Columbia Cafe - Riverwalk Tampa, visit from 13:40 to 14:20, nearest transit: Busch Gardens Employee Entrance, 11603.89m away; Charley\u2019s Steak House & Market Fresh Fish, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 14078.31m away; Hostal LA Rosa, stay from 23:00 to 08:00, nearest transit: Busch Gardens Employee Entrance, 10624.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Raleigh",
+    "transportation": "Self-driving, from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost: 51",
+    "breakfast": "Olivia, Tampa",
+    "lunch": "Yummy House China Bistro, Tampa",
+    "dinner": "Green Lemon, Tampa",
+    "attraction": "Henry B. Plant Museum, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 08:00 to 08:30, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Olivia, visit from 09:00 to 09:40, nearest transit: Busch Gardens Employee Entrance, 14172.81m away; Henry B. Plant Museum, visit from 10:10 to 12:10, nearest transit: Busch Gardens Employee Entrance, 11568.05m away; Yummy House China Bistro, visit from 13:40 to 14:20, nearest transit: Busch Gardens Employee Entrance, 5274.93m away; Green Lemon, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 13524.68m away"
+  }
+]

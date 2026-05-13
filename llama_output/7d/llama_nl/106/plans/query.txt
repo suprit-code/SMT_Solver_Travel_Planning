@@ -1,0 +1,1 @@
+Design a 7-day travel itinerary for 1 person starting from Las Vegas and visiting 3 cities in Texas between November 1st and November 7th, 2024. The budget is $18,600. Accommodations should include a private room, and the plan should feature sports-related events. Avoid accommodations that allow parties.

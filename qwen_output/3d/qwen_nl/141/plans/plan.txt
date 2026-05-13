@@ -1,0 +1,6 @@
+Destination cities: ['Huntsville'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Self-driving, from Indianapolis to Huntsville, duration: 451.75, distance: 639.0136, cost: 31', 'Self-driving, from Huntsville to Indianapolis, duration: 451.3783333333333, distance: 638.8732, cost: 31'],
+Restaurants (3 meals per day): ['-', '-', '-', "Nick's Ristorante, Huntsville", 'Grille on Main, Huntsville', "Ruth's Chris Steak House, Huntsville", 'The Bottle, Huntsville', 'Cotton Row, Huntsville', 'Texas de Brazil - Huntsville, Huntsville'],
+Attractions (1 per day): ['-', 'Huntsville Botanical Garden, Huntsville', 'U.S. Space and Rocket Center, Huntsville'],
+Accommodations (1 per city): ['Wooded  w/ river view. Q sleep# bed and 2 bunks., Huntsville']

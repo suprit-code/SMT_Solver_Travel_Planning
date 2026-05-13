@@ -1,0 +1,12 @@
+########## Destination cities response ##########
+cities = CitySearch.run('Iowa', 'Denver', ["2024-11-16", "2024-11-17", "2024-11-18", "2024-11-19", "2024-11-20"])
+if 'Denver' in cities:
+    cities.remove('Denver')
+for city_0_index, city_0 in enumerate(cities):
+    for city_1_index, city_1 in enumerate(cities):
+        s = Optimize()
+        variables['city'] = [Int('city_' + str(i)) for i in range(2)]
+        if city_0_index!= city_1_index:
+            s.assert_and_track(variables['city'][0] == city_0_index,  'visit city in cities list')
+            s.assert_and_track(variables['city'][1] == city_1_index,  'visit city in cities list')
+########## Destination cities response ends ##########

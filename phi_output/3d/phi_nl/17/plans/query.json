@@ -1,0 +1,1 @@
+{"org": "Chicago", "dest": "Cincinnati", "days": 3, "visiting_city_number": 1, "date": ["2024-11-20", "2024-11-21", "2024-11-22"], "people_number": 2, "local_constraint": {"house rule": "children under 10", "cuisine": ["American", "Indian", "Chinese", "French"], "room type": "entire room", "transportation": null}, "budget": 1050}

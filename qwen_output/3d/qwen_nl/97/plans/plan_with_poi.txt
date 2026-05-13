@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Martha's Vineyard",
+    "transportation": "Self-driving from Charlotte to Martha's Vineyard, duration: 1122.7316666666666, distance: 1420.8184, cost : 71.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Vineyard Haven Walk to Ferry, Martha's Vineyard",
+    "event": "-",
+    "point_of_interest_list": "Vineyard Haven Walk to Ferry, stay from 01:12 to 01:42, nearest transit: Daggett Avenue, 1010.19m away; Vineyard Haven Walk to Ferry, stay from 02:12 to 08:00, nearest transit: Daggett Avenue, 1010.19m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Martha's Vineyard",
+    "transportation": "-",
+    "breakfast": "Wharf Pub & Restaurant, Martha's Vineyard",
+    "lunch": "The Attic, Martha's Vineyard",
+    "dinner": "Outermost Inn, Martha's Vineyard",
+    "attraction": "-",
+    "accommodation": "Vineyard Haven Walk to Ferry, Martha's Vineyard",
+    "event": "-",
+    "point_of_interest_list": "Vineyard Haven Walk to Ferry, stay from 08:30 to 09:00, nearest transit: Daggett Avenue, 1010.19m away; Wharf Pub & Restaurant, Martha's Vineyard, visit from 09:39 to 10:29, ; The Attic, Martha's Vineyard, visit from 14:30 to 15:30, ; Outermost Inn, Martha's Vineyard, visit from 19:31 to 20:46, ; Vineyard Haven Walk to Ferry, stay from 21:16 to 05:16, nearest transit: Daggett Avenue, 1010.19m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Martha's Vineyard to Charlotte",
+    "transportation": "Self-driving from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost : 71.0",
+    "breakfast": "Bobby B's Restaurant & Bakery, Martha's Vineyard",
+    "lunch": "The Terrace at The Charlotte Inn, Martha's Vineyard",
+    "dinner": "The Newes From America, Martha's Vineyard",
+    "attraction": "Aquinnah Cliffs, Martha's Vineyard",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Vineyard Haven Walk to Ferry, stay from 06:00 to 08:39, nearest transit: Daggett Avenue, 1010.19m away; Bobby B's Restaurant & Bakery, Martha's Vineyard, visit from 09:09 to 09:59, ; The Terrace at The Charlotte Inn, Martha's Vineyard, visit from 14:00 to 15:00, ; Aquinnah Cliffs, Martha's Vineyard, visit from 15:30 to 19:00, ; The Newes From America, Martha's Vineyard, visit from 19:30 to 20:45, "
+  }
+]

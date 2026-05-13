@@ -1,0 +1,13 @@
+
+--- JOB 62 FAILED ---
+Error: list index out of range
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 72, in <module>
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 53, in get_arrivals_list
+    arrives.append(transportation_arrtime[2])
+IndexError: list index out of range
+
+----------------------------------------

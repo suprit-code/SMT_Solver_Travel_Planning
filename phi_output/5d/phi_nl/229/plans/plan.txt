@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-08', '2024-11-10', '2024-11-12'],
+Transportation methods between cities: ['Self-driving, from Colorado Springs to San Diego, duration: 1203.9033333333332, distance: 1841.7768, cost: 92', 'Self-driving, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 53', 'Self-driving, from Redding to Colorado Springs, duration: 1357.9783333333332, distance: 2092.6101, cost: 104'],
+Restaurants (3 meals per day): ['-', '-', '-', "Lou & Mickey's, San Diego", 'Born & Raised, San Diego', 'Addison Restaurant, San Diego', 'Buon Appetito, San Diego', 'Vessel Restaurant + Bar, San Diego', 'Cafe Coyote, San Diego', 'View 202, Redding', 'Kobe Seafood & Steakhouse, Redding', 'Thai Hut, Redding', "Jack's Grill, Redding", "Trendy's, Redding", 'New China, Redding'],
+Attractions (1 per day): ['-', 'Birch Aquarium at Scripps, San Diego', 'Cabrillo National Monument, San Diego', 'Sundial Bridge, Redding', 'Turtle Bay Exploration Park, Redding'],
+Accommodations (1 per city): ['The Surf Shack  - Point Loma, San Diego', 'Redding Farmhouse Getaway, Redding']

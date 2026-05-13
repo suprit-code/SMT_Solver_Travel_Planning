@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to Baltimore",
+    "transportation": "Flight Number: F2677850, from Louisville to Baltimore, Departure Time: 05:37, Arrival Time: 07:05",
+    "breakfast": "-",
+    "lunch": "The Abbey Burger Bistro, Baltimore",
+    "dinner": "The Food Market, Baltimore",
+    "attraction": "Baltimore Museum of Art, Baltimore",
+    "accommodation": "Romantic Hot Tub Getaway, Walk to Fells Point, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Romantic Hot Tub Getaway, Walk to Fells Point, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS STATION (METRO), 1084.47m away; Baltimore Museum of Art, visit from 09:00 to 11:00, nearest transit: PENN NORTH METRO North Entrance, 2638.55m away; The Abbey Burger Bistro, visit from 12:00 to 12:40, nearest transit: CHARLES CENTER METRO EV Entrance, 1364.87m away; The Food Market, visit from 19:00 to 19:40, nearest transit: MONDAWMIN METRO Main Entrance, 2207.42m away; Romantic Hot Tub Getaway, Walk to Fells Point, stay from 23:00 to 08:00, nearest transit: JOHNS HOPKINS STATION (METRO), 1084.47m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Alexander's Tavern, Baltimore",
+    "lunch": "Chiapparelli's Restaurant, Baltimore",
+    "dinner": "Tagliata, Baltimore",
+    "attraction": "B&O Railroad Museum, Baltimore",
+    "accommodation": "Romantic Hot Tub Getaway, Walk to Fells Point, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Romantic Hot Tub Getaway, Walk to Fells Point, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS STATION (METRO), 1084.47m away; Alexander's Tavern, visit from 09:00 to 09:40, nearest transit: SHOT TOWER STATION (METRO) sb, 1231.08m away; B&O Railroad Museum, visit from 10:10 to 12:10, nearest transit: LEXINGTON MARKET (METRO) sb, 1178.94m away; Chiapparelli's Restaurant, visit from 13:40 to 14:20, nearest transit: SHOT TOWER STATION (METRO) sb, 464.36m away; Tagliata, visit from 19:00 to 19:40, nearest transit: SHOT TOWER STATION (METRO) sb, 767.14m away; Romantic Hot Tub Getaway, Walk to Fells Point, stay from 23:00 to 08:00, nearest transit: JOHNS HOPKINS STATION (METRO), 1084.47m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Louisville",
+    "transportation": "taxi, from Baltimore to Louisville, duration: 672.4366666666666, distance: 981.785, cost: 981",
+    "breakfast": "Cinghiale, Baltimore",
+    "lunch": "Thames Street Oyster House, Baltimore",
+    "dinner": "La Scala, Baltimore",
+    "attraction": "Sagamore Spirit Distillery, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Romantic Hot Tub Getaway, Walk to Fells Point, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS STATION (METRO), 1084.47m away; Cinghiale, visit from 09:00 to 09:40, nearest transit: SHOT TOWER STATION (METRO) sb, 911.21m away; Sagamore Spirit Distillery, visit from 10:10 to 12:10, nearest transit: SHOT TOWER METRO West Entrance, 2863.68m away; Thames Street Oyster House, visit from 13:40 to 14:20, nearest transit: SHOT TOWER STATION (METRO) sb, 1428.09m away; La Scala, visit from 19:00 to 19:40, nearest transit: SHOT TOWER STATION (METRO) sb, 657.16m away"
+  }
+]

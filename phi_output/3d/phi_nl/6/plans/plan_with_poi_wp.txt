@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Las Vegas",
+    "transportation": "Flight Number: F2155164, from Kansas City to Las Vegas, Departure Time: 15:49, Arrival Time: 16:50",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Triple George Grill, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 17:20 to 18:30, nearest transit: The Strat, 5367.88m away; Triple George Grill, Las Vegas, visit from 19:00 to 20:15, ; Gamble Adventure | Restaurant. Outside Pool, stay from 20:45 to 07:06, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Mr. Mamas, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Garden Court, Las Vegas",
+    "attraction": "Fashion Show Las Vegas, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 07:36 to 08:06, nearest transit: The Strat, 5367.88m away; Mr. Mamas, Las Vegas, visit from 08:36 to 09:26, ; Fashion Show Las Vegas, Las Vegas, visit from 09:56 to 13:26, ; Eggscellent, Las Vegas, visit from 14:30 to 15:30, ; Garden Court, Las Vegas, visit from 19:31 to 20:46, ; Gamble Adventure | Restaurant. Outside Pool, stay from 21:30 to 05:30, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Kansas City",
+    "transportation": "Flight Number: F0644422, from Las Vegas to Kansas City, Departure Time: 17:13, Arrival Time: 21:44",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "Eggslut, Las Vegas",
+    "dinner": "-",
+    "attraction": "The Grand Canal Shoppes at The Venetian Resort, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 06:00 to 06:30, nearest transit: The Strat, 5367.88m away; Ameribrunch Cafe, Las Vegas, visit from 08:00 to 08:50, ; The Grand Canal Shoppes at The Venetian Resort, Las Vegas, visit from 09:20 to 12:50, ; Eggslut, Las Vegas, visit from 14:30 to 15:30, "
+  }
+]

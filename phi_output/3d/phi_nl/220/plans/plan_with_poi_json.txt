@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Las Vegas",
+    "transportation": "Flight Number: F0919318, from Sioux Falls to Las Vegas, Departure Time: 15:40, Arrival Time: 16:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "Titanic: The Artifact Exhibition, Las Vegas",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "dinner": "Garden Court, Las Vegas",
+    "attraction": "The Neon Museum, Las Vegas",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 08:00 to 08:30, nearest transit: Fremont East Entertainment District, 1810.60m away; Ameribrunch Cafe, visit from 09:00 to 09:40, nearest transit: Fremont East Entertainment District, 393.75m away; The Neon Museum, visit from 10:10 to 12:10, nearest transit: Mob Museum, 752.88m away; Gordon Ramsay Hell's Kitchen, visit from 13:40 to 14:20, nearest transit: The Strat, 3843.18m away; Garden Court, visit from 19:00 to 19:40, nearest transit: Circa, 185.80m away; Room in Down Town Las Vegas., stay from 23:00 to 08:00, nearest transit: Fremont East Entertainment District, 1810.60m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Sioux Falls",
+    "transportation": "Flight Number: F2560739, from Las Vegas to Sioux Falls, Departure Time: 16:07, Arrival Time: 20:39",
+    "breakfast": "Eggslut, Las Vegas",
+    "lunch": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "dinner": "-",
+    "attraction": "The Mob Museum, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 08:00 to 08:30, nearest transit: Fremont East Entertainment District, 1810.60m away; Eggslut, visit from 09:00 to 09:40, nearest transit: The Strat, 4473.66m away; The Mob Museum, visit from 10:10 to 12:10, nearest transit: Mob Museum, 48.14m away; Golden Steer Steakhouse Las Vegas, visit from 13:40 to 14:20, nearest transit: The Strat, 555.77m away"
+  }
+]

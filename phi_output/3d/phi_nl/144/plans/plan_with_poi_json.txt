@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Las Vegas",
+    "transportation": "Flight Number: F0774013, from Washington to Las Vegas, Departure Time: 08:53, Arrival Time: 11:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "Las Vegas North Premium Outlets, Las Vegas",
+    "accommodation": "C/private full bed tv free wif, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "C/private full bed tv free wif, stay from 11:53 to 12:23, nearest transit: The Strat, 4542.98m away; Las Vegas North Premium Outlets, visit from 12:53 to 14:53, nearest transit: Las Vegas North Premium Outlets, 74.04m away; Eggscellent, visit from 19:00 to 19:40, nearest transit: The Strat, 4208.46m away; C/private full bed tv free wif, stay from 23:00 to 08:00, nearest transit: The Strat, 4542.98m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Garden Court, Las Vegas",
+    "lunch": "Ameribrunch Cafe, Las Vegas",
+    "dinner": "Eggslut, Las Vegas",
+    "attraction": "Fashion Show Las Vegas, Las Vegas",
+    "accommodation": "C/private full bed tv free wif, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "C/private full bed tv free wif, stay from 08:00 to 08:30, nearest transit: The Strat, 4542.98m away; Garden Court, visit from 09:00 to 09:40, nearest transit: Circa, 185.80m away; Fashion Show Las Vegas, visit from 10:10 to 12:10, nearest transit: The Strat, 2657.04m away; Ameribrunch Cafe, visit from 13:40 to 14:20, nearest transit: Fremont East Entertainment District, 393.75m away; Eggslut, visit from 19:00 to 19:40, nearest transit: The Strat, 4473.66m away; C/private full bed tv free wif, stay from 23:00 to 08:00, nearest transit: The Strat, 4542.98m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Washington",
+    "transportation": "Flight Number: F1078549, from Las Vegas to Washington, Departure Time: 13:42, Arrival Time: 20:49",
+    "breakfast": "Mr. Mamas, Las Vegas",
+    "lunch": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "dinner": "-",
+    "attraction": "The Grand Canal Shoppes at The Venetian Resort, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

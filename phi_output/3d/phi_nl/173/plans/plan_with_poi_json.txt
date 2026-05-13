@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Anchorage",
+    "transportation": "Flight Number: F1981733, from Las Vegas to Anchorage, Departure Time: 19:41, Arrival Time: 00:12",
+    "breakfast": "Bear Tooth Theatrepub & Grill, Anchorage",
+    "lunch": "Pho Lena, Anchorage",
+    "dinner": "Fire Island Rustic Bakeshop, Anchorage",
+    "attraction": "Tony Knowles Coastal Trail, Anchorage",
+    "accommodation": "South Anchorage .Kodiak Room-5 Min From Airport, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Anchorage",
+    "transportation": "-",
+    "breakfast": "Moose's Tooth Pub and Pizzeria, Anchorage",
+    "lunch": "Kobuk Coffee Co, Anchorage",
+    "dinner": "Wild Scoops, Anchorage",
+    "attraction": "Earthquake Park, Anchorage",
+    "accommodation": "South Anchorage .Kodiak Room-5 Min From Airport, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "South Anchorage .Kodiak Room-5 Min From Airport, stay from 08:00 to 08:30, nearest transit: ARLENE & 88TH AVENUE SSW, 842.75m away; Moose's Tooth Pub and Pizzeria, visit from 09:00 to 09:40, nearest transit: BENSON & NEW SEWARD ESE, 345.99m away; Earthquake Park, visit from 10:10 to 12:10, nearest transit: WISCONSIN & 29TH AVENUE SSW, 1731.37m away; Kobuk Coffee Co, visit from 13:40 to 14:20, nearest transit: 5TH AVENUE & F STREET WNW, 112.38m away; Wild Scoops, visit from 19:00 to 19:40, nearest transit: 5TH AVENUE & F STREET WNW, 131.66m away; South Anchorage .Kodiak Room-5 Min From Airport, stay from 23:00 to 08:00, nearest transit: ARLENE & 88TH AVENUE SSW, 842.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Anchorage to Las Vegas",
+    "transportation": "Flight Number: F2889796, from Anchorage to Las Vegas, Departure Time: 23:41, Arrival Time: 05:30",
+    "breakfast": "Gwennies Old Alaska Restaurant, Anchorage",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "South Anchorage .Kodiak Room-5 Min From Airport, stay from 08:00 to 08:30, nearest transit: ARLENE & 88TH AVENUE SSW, 842.75m away; Gwennies Old Alaska Restaurant, visit from 09:00 to 09:40, nearest transit: SPENARD & BARBARA WNW, 33.20m away"
+  }
+]

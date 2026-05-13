@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to Charleston",
+    "transportation": "Flight Number: F3981643, from Nashville to Charleston, Departure Time: 09:38, Arrival Time: 11:50",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Palmetto Cafe, Charleston",
+    "attraction": "Battery & White Point Gardens, Charleston",
+    "accommodation": "Secret Garden Guesthouse, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 12:20 to 12:50, nearest transit: Coming St / George St, 490.45m away; Battery & White Point Gardens, Charleston, visit from 13:20 to 16:50, ; The Palmetto Cafe, Charleston, visit from 19:45 to 21:00, ; Secret Garden Guesthouse, stay from 21:30 to 05:30, nearest transit: Coming St / George St, 490.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Stella's, Charleston",
+    "lunch": "Oak Steakhouse, Charleston",
+    "dinner": "Eli's Table, Charleston",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "Secret Garden Guesthouse, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 06:00 to 06:30, nearest transit: Coming St / George St, 490.45m away; Stella's, Charleston, visit from 08:38 to 09:28, ; Magnolia Plantation & Gardens, Charleston, visit from 09:58 to 13:28, ; Oak Steakhouse, Charleston, visit from 13:58 to 14:58, ; Eli's Table, Charleston, visit from 19:00 to 20:15, ; Secret Garden Guesthouse, stay from 20:45 to 04:45, nearest transit: Coming St / George St, 490.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Nashville",
+    "transportation": "Flight Number: F1675566, from Charleston to Nashville, Departure Time: 21:20, Arrival Time: 21:37",
+    "breakfast": "-",
+    "lunch": "Amen Street Fish & Raw Bar, Charleston",
+    "dinner": "The Ordinary, Charleston",
+    "attraction": "Charleston City Market, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 06:00 to 06:30, nearest transit: Coming St / George St, 490.45m away; Charleston City Market, Charleston, visit from 09:00 to 12:30, ; Amen Street Fish & Raw Bar, Charleston, visit from 13:00 to 14:00, ; The Ordinary, Charleston, visit from 19:00 to 20:15, "
+  }
+]

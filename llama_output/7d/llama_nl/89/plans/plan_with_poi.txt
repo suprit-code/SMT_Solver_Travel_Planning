@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Fort Wayne to Amarillo",
+    "transportation": "Taxi from Fort Wayne to Amarillo, duration: 1209.371666666667, distance: 1800.8417, cost : 1800.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 02:39 to 03:09, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Relaxing Place to Stay with Guest Living Room!, stay from 03:39 to 08:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Bracero Mexican Grill, Amarillo",
+    "lunch": "Ye Olde Pancake Station, Amarillo",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:30 to 09:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Bracero Mexican Grill, Amarillo, visit from 09:30 to 10:20, ; Ye Olde Pancake Station, Amarillo, visit from 14:21 to 15:21, ; Golden Light Cafe & Cantina, Amarillo, visit from 19:22 to 20:37, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:07 to 04:51, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F3473336, from Amarillo to Houston, Departure Time: 06:21, Arrival Time: 07:57",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 05:21 to 05:51, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 08:27 to 15:00, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Downtown Aquarium, Houston, visit from 15:30 to 19:00, ; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 19:30 to 08:00, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houstons Bar and Grill, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "-",
+    "accommodation": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, Houston",
+    "event": "-",
+    "point_of_interest_list": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 08:30 to 09:00, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Houstons Bar and Grill, Houston, visit from 09:35 to 10:25, ; Pappadeaux Seafood Kitchen, Houston, visit from 14:26 to 15:26, ; Kenny & Ziggy's New York Deli, Houston, visit from 20:45 to 22:00, ; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 22:30 to 06:30, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F3436110, from Houston to San Antonio, Departure Time: 20:34, Arrival Time: 21:44",
+    "breakfast": "-",
+    "lunch": "Goode Company BBQ, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 07:00 to 08:30, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Houston Zoo, Houston, visit from 09:00 to 14:00, ; Goode Company BBQ, Houston, visit from 14:30 to 20:04, ; Cozy Private Room near UTSA & LaCantera, stay from 22:14 to 22:44, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Cozy Private Room near UTSA & LaCantera, stay from 23:14 to 07:17, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "1Watson, San Antonio",
+    "lunch": "Pinkerton's Barbecue, San Antonio",
+    "dinner": "Schilo's, San Antonio",
+    "attraction": "San Antonio Missions National Historical Park, San Antonio",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 07:47 to 08:17, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; 1Watson, San Antonio, visit from 08:47 to 09:37, ; San Antonio Missions National Historical Park, San Antonio, visit from 10:30 to 14:00, ; Pinkerton's Barbecue, San Antonio, visit from 14:30 to 15:30, ; Schilo's, San Antonio, visit from 19:31 to 20:46, ; Cozy Private Room near UTSA & LaCantera, stay from 22:30 to 06:30, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Fort Wayne",
+    "transportation": "Taxi from San Antonio to Fort Wayne, duration: 1389.1666666666667, distance: 2066.5601, cost : 2066.0",
+    "breakfast": "Zocca Cuisine D'Italia, San Antonio",
+    "lunch": "El Bucanero, San Antonio",
+    "dinner": "Paesano's Riverwalk, San Antonio",
+    "attraction": "San Antonio Botanical Garden, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 07:00 to 07:30, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Zocca Cuisine D'Italia, San Antonio, visit from 08:00 to 08:50, ; San Antonio Botanical Garden, San Antonio, visit from 09:59 to 13:29, ; El Bucanero, San Antonio, visit from 13:59 to 14:59, ; Paesano's Riverwalk, San Antonio, visit from 19:00 to 20:15, "
+  }
+]

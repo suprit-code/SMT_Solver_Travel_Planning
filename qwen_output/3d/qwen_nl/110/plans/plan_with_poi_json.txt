@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Savannah",
+    "transportation": "Flight Number: F1228901, from Denver to Savannah, Departure Time: 09:54, Arrival Time: 15:02",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Garibaldi's Cafe, Savannah",
+    "attraction": "Wormsloe Historic Site, Savannah",
+    "accommodation": "Delightful barn loft apartment., Savannah",
+    "event": "-",
+    "point_of_interest_list": "Delightful barn loft apartment., stay from 15:27 to 15:47, nearest transit: WILD HERON & CHERRYFIELD EB, 27038.63m away; Wormsloe Historic Site, visit from 16:12 to 18:12, nearest transit: MONTGOMERY CROSS & BILLINGS EB, 1349.81m away; Garibaldi's Cafe, visit from 19:00 to 19:40, nearest transit: CONGRESS & JEFFERSON, 110.42m away; Delightful barn loft apartment., stay from 20:05 to 08:00, nearest transit: WILD HERON & CHERRYFIELD EB, 27038.63m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Huey's On The River, Savannah",
+    "lunch": "Rocks on the Roof, Savannah",
+    "dinner": "Mrs. Wilkes Dining Room, Savannah",
+    "attraction": "Skidaway Island State Park, Savannah",
+    "accommodation": "Delightful barn loft apartment., Savannah",
+    "event": "-",
+    "point_of_interest_list": "Delightful barn loft apartment., stay from 08:00 to 08:30, nearest transit: WILD HERON & CHERRYFIELD EB, 27038.63m away; Huey's On The River, visit from 08:55 to 09:35, nearest transit: CONGRESS & BULL, 254.45m away; Skidaway Island State Park, visit from 10:00 to 12:00, nearest transit: WALMART ON MONTGOMERY CROSS, 5664.70m away; Rocks on the Roof, visit from 13:35 to 14:15, nearest transit: BRYAN & BULL, 176.86m away; Mrs. Wilkes Dining Room, visit from 19:00 to 19:40, nearest transit: WHITAKER & JONES SB, 37.05m away; Delightful barn loft apartment., stay from 20:05 to 08:00, nearest transit: WILD HERON & CHERRYFIELD EB, 27038.63m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Denver",
+    "transportation": "Flight Number: F0614770, from Savannah to Denver, Departure Time: 16:09, Arrival Time: 18:12",
+    "breakfast": "Olde Pink House Restaurant, Savannah",
+    "lunch": "Belford's Savannah, Savannah",
+    "dinner": "-",
+    "attraction": "SCADstory, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Delightful barn loft apartment., stay from 08:00 to 08:30, nearest transit: WILD HERON & CHERRYFIELD EB, 27038.63m away; Olde Pink House Restaurant, visit from 08:55 to 09:35, nearest transit: CONGRESS & BULL, 144.71m away; SCADstory, visit from 10:00 to 12:00, nearest transit: DRAYTON & CHARLTON, 100.71m away; Belford's Savannah, visit from 13:35 to 14:15, nearest transit: CONGRESS & JEFFERSON, 121.72m away"
+  }
+]

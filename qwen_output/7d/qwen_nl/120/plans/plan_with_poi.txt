@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Nashville",
+    "transportation": "Flight Number: F3998054, from Houston to Nashville, Departure Time: 07:12, Arrival Time: 09:02",
+    "breakfast": "-",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "Luogo, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 09:32 to 10:02, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Aquarium Restaurant, Nashville, visit from 13:51 to 14:51, ; Centennial Park, Nashville, visit from 15:21 to 18:51, ; Luogo, Nashville, visit from 20:45 to 23:10, ; Dave's Place, stay from 23:40 to 07:40, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "The Chef And I, Nashville",
+    "lunch": "Puckett's 5th & Church, Nashville",
+    "dinner": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 08:10 to 08:40, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; The Chef And I, Nashville, visit from 09:10 to 10:00, ; Cheekwood, Nashville, visit from 10:30 to 14:00, ; Puckett's 5th & Church, Nashville, visit from 14:30 to 15:30, ; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 20:45 to 22:00, ; Dave's Place, stay from 22:30 to 06:30, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Kayne Prime, Nashville",
+    "lunch": "Deacon’s New South, Nashville",
+    "dinner": "-",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Sweet Bristol Bungalow, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 07:00 to 07:30, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Kayne Prime, Nashville, visit from 08:00 to 08:50, ; Belmont Mansion, Nashville, visit from 09:20 to 12:50, ; Deacon’s New South, Nashville, visit from 13:20 to 14:20, ; Sweet Bristol Bungalow, stay from 21:17 to 21:47, nearest transit: Oakview Ave & Hope Ln, 306.51m away; Sweet Bristol Bungalow, stay from 22:17 to 07:40, nearest transit: Oakview Ave & Hope Ln, 306.51m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Cafe Bristol, Bristol",
+    "lunch": "Little Bristol Beach Bar, Bristol",
+    "dinner": "Bristol Seafood Grill, Bristol",
+    "attraction": "Wills Memorial Building And Tower Tours, Bristol",
+    "accommodation": "Sweet Bristol Bungalow, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Sweet Bristol Bungalow, stay from 08:10 to 08:40, nearest transit: Oakview Ave & Hope Ln, 306.51m away; Cafe Bristol, Bristol, visit from 09:10 to 10:00, ; Wills Memorial Building And Tower Tours, Bristol, visit from 10:30 to 14:00, ; Little Bristol Beach Bar, Bristol, visit from 14:30 to 15:30, ; Bristol Seafood Grill, Bristol, visit from 19:31 to 20:46, ; Sweet Bristol Bungalow, stay from 22:30 to 06:30, nearest transit: Oakview Ave & Hope Ln, 306.51m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Bristol Seafood Restaurant, Bristol",
+    "lunch": "Bravas, Bristol",
+    "dinner": "Public House, Chattanooga",
+    "attraction": "Clifton Suspension Bridge, Bristol",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Sweet Bristol Bungalow, stay from 07:00 to 07:30, nearest transit: Oakview Ave & Hope Ln, 306.51m away; Bristol Seafood Restaurant, Bristol, visit from 08:00 to 08:50, ; Clifton Suspension Bridge, Bristol, visit from 09:20 to 12:50, ; Bravas, Bristol, visit from 13:20 to 14:20, ; Wren’s nest on the ridge, stay from 19:29 to 19:59, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Public House, Chattanooga, visit from 20:29 to 21:44, ; Wren’s nest on the ridge, stay from 22:30 to 06:30, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "lunch": "Zaya 1943 Korean Steakhouse, Chattanooga",
+    "dinner": "Mellow Mushroom Chattanooga, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 07:00 to 07:30, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; The Purple Daisy Picnic Cafe, Chattanooga, visit from 08:00 to 08:50, ; Coolidge Park, Chattanooga, visit from 09:59 to 13:29, ; Zaya 1943 Korean Steakhouse, Chattanooga, visit from 13:59 to 14:59, ; Mellow Mushroom Chattanooga, Chattanooga, visit from 19:00 to 20:15, ; Wren’s nest on the ridge, stay from 20:45 to 04:45, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Houston",
+    "transportation": "Taxi from Chattanooga to Houston, duration: 893.0133333333334, distance: 1309.278, cost : 1309.0",
+    "breakfast": "HiFi Clyde's Chattanooga, Chattanooga",
+    "lunch": "-",
+    "dinner": "St. John's Restaurant, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 06:00 to 06:30, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; HiFi Clyde's Chattanooga, Chattanooga, visit from 08:00 to 08:50, ; Tennessee Aquarium, Chattanooga, visit from 09:20 to 14:02, ; St. John's Restaurant, Chattanooga, visit from 19:00 to 20:15, "
+  }
+]

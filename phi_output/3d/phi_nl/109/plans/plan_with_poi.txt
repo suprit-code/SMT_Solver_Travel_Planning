@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Louisville",
+    "transportation": "Flight Number: F1166289, from Detroit to Louisville, Departure Time: 10:11, Arrival Time: 11:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Vincenzo's Italian Restaurant, Louisville",
+    "attraction": "Churchill Downs, Louisville",
+    "accommodation": "Walk Everywhere! NuLu/Butchertown Derby Loft, Louisville",
+    "event": "-",
+    "point_of_interest_list": "Walk Everywhere! NuLu/Butchertown Derby Loft, stay from 11:57 to 14:02, nearest transit: Main @ Shelby, 113.22m away; Churchill Downs, Louisville, visit from 14:32 to 18:02, ; Vincenzo's Italian Restaurant, Louisville, visit from 20:45 to 23:10, ; Walk Everywhere! NuLu/Butchertown Derby Loft, stay from 23:40 to 07:40, nearest transit: Main @ Shelby, 113.22m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Louisville",
+    "transportation": "-",
+    "breakfast": "Noche Mexican BBQ, Louisville",
+    "lunch": "Garage Bar, Louisville",
+    "dinner": "The Joy Luck, Louisville",
+    "attraction": "Kentucky Peerless Distilling Co, Louisville",
+    "accommodation": "Walk Everywhere! NuLu/Butchertown Derby Loft, Louisville",
+    "event": "-",
+    "point_of_interest_list": "Walk Everywhere! NuLu/Butchertown Derby Loft, stay from 08:10 to 08:40, nearest transit: Main @ Shelby, 113.22m away; Noche Mexican BBQ, Louisville, visit from 09:10 to 10:00, ; Kentucky Peerless Distilling Co, Louisville, visit from 10:30 to 14:00, ; Garage Bar, Louisville, visit from 14:30 to 15:30, ; The Joy Luck, Louisville, visit from 20:45 to 22:00, ; Walk Everywhere! NuLu/Butchertown Derby Loft, stay from 22:30 to 07:40, nearest transit: Main @ Shelby, 113.22m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Louisville to Detroit",
+    "transportation": "Flight Number: F3848953, from Louisville to Detroit, Departure Time: 18:21, Arrival Time: 19:36",
+    "breakfast": "Hell Or High Water, Louisville",
+    "lunch": "Down One Bourbon Bar & Restaurant, Louisville",
+    "dinner": "-",
+    "attraction": "Conrad-Caldwell House Museum (Conrad's Castle), Louisville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Walk Everywhere! NuLu/Butchertown Derby Loft, stay from 08:10 to 08:40, nearest transit: Main @ Shelby, 113.22m away; Hell Or High Water, Louisville, visit from 09:10 to 10:00, ; Conrad-Caldwell House Museum (Conrad's Castle), Louisville, visit from 10:30 to 14:00, ; Down One Bourbon Bar & Restaurant, Louisville, visit from 14:30 to 15:30, "
+  }
+]

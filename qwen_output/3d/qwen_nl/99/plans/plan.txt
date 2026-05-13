@@ -1,0 +1,6 @@
+Destination cities: ['Las Vegas'],
+Transportation dates: ['2024-11-02', '2024-11-04'],
+Transportation methods between cities: ['Flight Number: F2106965, from Memphis to Las Vegas, Departure Time: 16:28, Arrival Time: 17:57', 'Flight Number: F0376611, from Las Vegas to Memphis, Departure Time: 16:07, Arrival Time: 21:45'],
+Restaurants (3 meals per day): ['-', '-', 'Hash House a Go Go, Las Vegas', 'Skyfall Lounge, Las Vegas', 'Mr. Mamas, Las Vegas', 'Eggscellent, Las Vegas', 'Gordon Ramsay Pub & Grill, Las Vegas', 'Ping Pang Pong, Las Vegas', '-'],
+Attractions (1 per day): ['Bellagio Conservatory & Botanical Garden, Las Vegas', 'Red Rock Canyon National Conservation Area, Las Vegas', 'Hoover Dam Bypass, Las Vegas'],
+Accommodations (1 per city): ['MGM Signature-17-803 F1 Track & Strip View Studio, Las Vegas']

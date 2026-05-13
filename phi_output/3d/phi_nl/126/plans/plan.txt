@@ -1,0 +1,6 @@
+Destination cities: ['Washington'],
+Transportation dates: ['2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F3067830, from Charleston to Washington, Departure Time: 15:51, Arrival Time: 17:16', 'taxi, from Washington to Charleston, duration: 593.9566666666667, distance: 860.1441, cost: 860'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Kingbird, Washington', 'Succotash Prime, Washington', 'RPM Italian, Washington', 'Smoke & Mirrors Rooftop Bar, Washington', 'Thip Khao, Washington', 'Cafe Milano, Washington'],
+Attractions (1 per day): ['National Air and Space Museum, Washington', "Ford's Theatre, Washington", 'The National Archives Museum, Washington'],
+Accommodations (1 per city): ['A Classy Corner of DC // Minutes walk to Dupont Circle, Washington']

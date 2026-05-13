@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Bend to Las Vegas",
+    "transportation": "Flight Number: F0373170, from Bend to Las Vegas, Departure Time: 15:18, Arrival Time: 17:04",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "Hidden Oasis, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Eggscellent, Las Vegas",
+    "lunch": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "dinner": "Top of the World, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "Hidden Oasis, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Hidden Oasis, stay from 08:00 to 08:30, nearest transit: The Strat, 8594.91m away; Eggscellent, visit from 09:00 to 09:40, nearest transit: The Strat, 4208.46m away; Hoover Dam Bypass, visit from 10:10 to 12:10, nearest transit: Fremont East Entertainment District, 39777.46m away; Golden Steer Steakhouse Las Vegas, visit from 13:40 to 14:20, nearest transit: The Strat, 555.77m away; Top of the World, visit from 19:00 to 19:40, nearest transit: The Strat, 140.60m away; Hidden Oasis, stay from 23:00 to 08:00, nearest transit: The Strat, 8594.91m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Bend",
+    "transportation": "taxi, from Las Vegas to Bend, duration: 929.785, distance: 1318.8264, cost: 1318",
+    "breakfast": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "lunch": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "dinner": "THE Steak House, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hidden Oasis, stay from 08:00 to 08:30, nearest transit: The Strat, 8594.91m away; Firefly Tapas Kitchen & Bar, visit from 09:00 to 09:40, nearest transit: The Strat, 3079.37m away; Bellagio Conservatory & Botanical Garden, visit from 10:10 to 12:10, nearest transit: The Strat, 4344.51m away; Gordon Ramsay Hell's Kitchen, visit from 13:40 to 14:20, nearest transit: The Strat, 3843.18m away; THE Steak House, visit from 19:00 to 19:40, nearest transit: The Strat, 1363.88m away"
+  }
+]

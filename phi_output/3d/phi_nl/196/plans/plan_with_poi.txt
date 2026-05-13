@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Kansas City",
+    "transportation": "Flight Number: F1045980, from Denver to Kansas City, Departure Time: 13:56, Arrival Time: 16:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bella Napoli, Kansas City",
+    "attraction": "-",
+    "accommodation": "Private King Room + Bath - (The Collins), Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Private King Room + Bath - (The Collins), stay from 16:45 to 17:15, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away; Bella Napoli, Kansas City, visit from 19:00 to 20:15, ; Private King Room + Bath - (The Collins), stay from 20:45 to 06:30, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Trezo Mare Restaurant & Lounge, Kansas City",
+    "lunch": "Char Bar - Westport, Kansas City",
+    "dinner": "Garozzo's Ristorante, Kansas City",
+    "attraction": "Country Club Plaza, Kansas City",
+    "accommodation": "Private King Room + Bath - (The Collins), Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Private King Room + Bath - (The Collins), stay from 07:00 to 07:30, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away; Trezo Mare Restaurant & Lounge, Kansas City, visit from 08:00 to 09:59, ; Char Bar - Westport, Kansas City, visit from 14:00 to 15:00, ; Country Club Plaza, Kansas City, visit from 15:30 to 19:15, ; Garozzo's Ristorante, Kansas City, visit from 19:45 to 21:00, ; Private King Room + Bath - (The Collins), stay from 21:30 to 05:30, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Denver",
+    "transportation": "Flight Number: F1197829, from Kansas City to Denver, Departure Time: 16:57, Arrival Time: 18:01",
+    "breakfast": "KC Chop House, Kansas City",
+    "lunch": "Grunauer, Kansas City",
+    "dinner": "-",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private King Room + Bath - (The Collins), stay from 06:00 to 07:30, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away; KC Chop House, Kansas City, visit from 08:00 to 08:50, ; Tom's Town Distilling Co., Kansas City, visit from 09:20 to 12:50, ; Grunauer, Kansas City, visit from 13:20 to 14:20, "
+  }
+]

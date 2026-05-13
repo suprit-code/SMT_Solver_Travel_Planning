@@ -1,0 +1,4 @@
+
+    for accommodation_index, rules in enumerate(house_rules):
+        assert 'No smoking' not in rules, f"Accommodation {accommodation_index} has 'No smoking' rule."
+    

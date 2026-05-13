@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Los Angeles",
+    "transportation": "Flight Number: F3629308, from Kansas City to Los Angeles, Departure Time: 15:55, Arrival Time: 17:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Raffaello Ristorante, Los Angeles",
+    "attraction": "-",
+    "accommodation": "Cozy Private Room In LA., Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 17:46 to 18:16, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Raffaello Ristorante, Los Angeles, visit from 19:00 to 21:00, ; Cozy Private Room In LA., stay from 21:30 to 05:30, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Ayara Thai Cuisine, Los Angeles",
+    "lunch": "Leo & Lily, Los Angeles",
+    "dinner": "Cafe Gratitude Venice, Los Angeles",
+    "attraction": "Venice Canals Walkway, Los Angeles",
+    "accommodation": "Cozy Private Room In LA., Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 06:00 to 06:30, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Ayara Thai Cuisine, Los Angeles, visit from 08:53 to 09:43, ; Venice Canals Walkway, Los Angeles, visit from 10:13 to 13:43, ; Leo & Lily, Los Angeles, visit from 14:30 to 15:30, ; Cafe Gratitude Venice, Los Angeles, visit from 19:31 to 20:46, ; Cozy Private Room In LA., stay from 21:30 to 05:30, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Kansas City",
+    "transportation": "Flight Number: F1398303, from Los Angeles to Kansas City, Departure Time: 14:58, Arrival Time: 20:09",
+    "breakfast": "-",
+    "lunch": "Bavel, Los Angeles",
+    "dinner": "-",
+    "attraction": "Hollywood Sign, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room In LA., stay from 06:00 to 06:30, nearest transit:  MLK Jr. & Gramercy Pl., 251.86m away; Hollywood Sign, Los Angeles, visit from 09:00 to 12:30, ; Bavel, Los Angeles, visit from 13:00 to 14:00, "
+  }
+]

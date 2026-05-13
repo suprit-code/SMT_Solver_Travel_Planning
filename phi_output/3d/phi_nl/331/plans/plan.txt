@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-06', '2024-11-08'],
+Transportation methods between cities: ['Flight Number: F1516791, from Sitka to Seattle, Departure Time: 14:00, Arrival Time: 17:20', 'Flight Number: F1518675, from Seattle to Sitka, Departure Time: 22:36, Arrival Time: 23:53'],
+Restaurants (3 meals per day): ['-', '-', 'Place Pigalle Restaurant and Bar, Seattle', 'Noi Thai Cuisine, Seattle', 'Spinasse, Seattle', 'Il Terrazzo Carmine, Seattle', 'Tulio, Seattle', "Chinook's, Seattle", "JaK's Grill, Seattle"],
+Attractions (1 per day): ['Klondike Gold Rush National Historical Park, Seattle', 'Museum of Pop Culture, Seattle', 'The Museum of Flight, Seattle'],
+Accommodations (1 per city): ['Treehouse with a VIEW, Seattle']

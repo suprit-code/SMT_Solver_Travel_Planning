@@ -1,0 +1,9 @@
+Error message:
+'NoneType' object has no attribute 'replace'
+
+Full traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/Test_TravelPlanner.py", line 277, in pipeline
+    elif model == 'qwen': query_json = json.loads(qwen_llm.generate("You are JSON generator so only generate JSON" + query_to_json_prompt + '{' + query + '}\n' + 'JSON:\n').replace('```json', '').replace('```', ''))
+                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'replace'

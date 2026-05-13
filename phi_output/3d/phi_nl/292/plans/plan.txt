@@ -1,0 +1,6 @@
+Destination cities: ['Savannah'],
+Transportation dates: ['2024-11-06', '2024-11-08'],
+Transportation methods between cities: ['Self-driving, from Newburgh to Savannah, duration: 993.655, distance: 1386.7442, cost: 69', 'Self-driving, from Savannah to Newburgh, duration: 989.985, distance: 1384.401, cost: 69'],
+Restaurants (3 meals per day): ['-', '-', '-', "Huey's On The River, Savannah", 'Rocks on the Roof, Savannah', "Vinnie Van Go-Go's, Savannah", 'Goose Feathers Cafe & Bakery, Savannah', "Boar's Head Grill & Tavern, Savannah", "B. Matthew's Eatery, Savannah"],
+Attractions (1 per day): ['-', 'The Old Sorrel Weed House Museum & Tours, Savannah', 'SCADstory, Savannah'],
+Accommodations (1 per city): ['Beautiful Sunny  Room, Savannah']

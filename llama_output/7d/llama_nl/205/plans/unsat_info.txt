@@ -1,0 +1,4 @@
+not ok
+Unsatisfiable core:
+Concerts & Showstype restaurant
+Concerts & Showstype restaurant is visited

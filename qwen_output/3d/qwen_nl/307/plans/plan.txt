@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-07', '2024-11-09'],
+Transportation methods between cities: ['Flight Number: F0292124, from Tucson to Seattle, Departure Time: 13:22, Arrival Time: 16:42', 'Flight Number: F0452615, from Seattle to Tucson, Departure Time: 17:57, Arrival Time: 20:46'],
+Restaurants (3 meals per day): ['-', '-', 'Spinasse, Seattle', "Salty's On Alki Beach, Seattle", 'All Water Seafood & Oyster Bar, Seattle', 'Il Terrazzo Carmine, Seattle', 'The Capital Grille, Seattle', 'Barolo Ristorante, Seattle', 'Dough Zone Dumpling House - Seattle International District, Seattle'],
+Attractions (1 per day): ['Seattle Center, Seattle', 'Seattle Aquarium, Seattle', 'Woodland Park Zoo, Seattle'],
+Accommodations (1 per city): ['Pike Place Market Apt Water View and Balcony, Seattle']

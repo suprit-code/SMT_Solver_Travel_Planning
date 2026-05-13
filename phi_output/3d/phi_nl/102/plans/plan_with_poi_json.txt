@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Monterey",
+    "transportation": "Flight Number: F2586787, from Dallas to Monterey, Departure Time: 11:17, Arrival Time: 12:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Sardine Factory, Monterey",
+    "attraction": "17-Mile Drive, Monterey",
+    "accommodation": "Quiet neighborhood near Monterey and the ocean, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Quiet neighborhood near Monterey and the ocean, stay from 13:29 to 13:59, nearest transit: Coe /  Seaside Middle School, 190.45m away; 17-Mile Drive, visit from 14:29 to 16:29, nearest transit: Asilomar - Conference Center, 2694.67m away; The Sardine Factory, visit from 19:00 to 19:40, nearest transit: Wave /  Cr1 Parking Garage, 112.50m away; Quiet neighborhood near Monterey and the ocean, stay from 23:00 to 08:00, nearest transit: Coe /  Seaside Middle School, 190.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Monterey",
+    "transportation": "-",
+    "breakfast": "Chart House, Monterey",
+    "lunch": "C restaurant + bar, Monterey",
+    "dinner": "Sea Harvest Restaurant & Fish Market, Monterey",
+    "attraction": "Monterey Bay Aquarium, Monterey",
+    "accommodation": "Quiet neighborhood near Monterey and the ocean, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Quiet neighborhood near Monterey and the ocean, stay from 08:00 to 08:30, nearest transit: Coe /  Seaside Middle School, 190.45m away; Chart House, visit from 09:00 to 09:40, nearest transit: Cannery Row /  Drake, 139.04m away; Monterey Bay Aquarium, visit from 10:10 to 12:10, nearest transit: Cannery Row / Aquarium, 78.70m away; C restaurant + bar, visit from 13:40 to 14:20, nearest transit: Cannery Row / Aquarium, 93.95m away; Sea Harvest Restaurant & Fish Market, visit from 19:00 to 19:40, nearest transit: Foam / Hoffman, 23.01m away; Quiet neighborhood near Monterey and the ocean, stay from 23:00 to 08:00, nearest transit: Coe /  Seaside Middle School, 190.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Monterey to Dallas",
+    "transportation": "Flight Number: F4046690, from Monterey to Dallas, Departure Time: 13:56, Arrival Time: 19:32",
+    "breakfast": "Cibo Ristorante Italiano, Monterey",
+    "lunch": "Monterey's Pizza, Monterey",
+    "dinner": "-",
+    "attraction": "Dennis the Menace Park, Monterey",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Quiet neighborhood near Monterey and the ocean, stay from 08:00 to 08:30, nearest transit: Coe /  Seaside Middle School, 190.45m away; Cibo Ristorante Italiano, visit from 09:00 to 09:40, nearest transit: Del Monte /  Conference Center, 46.74m away; Dennis the Menace Park, visit from 10:10 to 12:10, nearest transit: Camino El Estero /  Del Monte, 244.45m away; Monterey's Pizza, visit from 12:46 to 13:26, nearest transit: Mission St / 14th St, 3848688.09m away"
+  }
+]

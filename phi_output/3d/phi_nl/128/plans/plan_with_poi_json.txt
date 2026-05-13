@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Montgomery to Washington",
+    "transportation": "Self-driving, from Montgomery to Washington, duration: 906.42, distance: 1284.9725, cost: 64",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 08:00 to 08:30, nearest transit: FOGGY BOTTOM, 373.15m away; King Studio | 2500 Penn, a Placemakr Experience, stay from 23:00 to 08:00, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Fiola, Washington",
+    "lunch": "The Hamilton, Washington",
+    "dinner": "Smoke & Mirrors Rooftop Bar, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 08:00 to 08:30, nearest transit: FOGGY BOTTOM, 373.15m away; Fiola, visit from 09:00 to 09:40, nearest transit: ARCHIVES, 107.10m away; United States Botanic Garden, visit from 10:10 to 12:10, nearest transit: FEDERAL CENTER SW, 414.35m away; The Hamilton, visit from 13:40 to 14:20, nearest transit: ENTRANCE D - 13TH AND G STS. NW, 249.32m away; Smoke & Mirrors Rooftop Bar, visit from 19:00 to 19:40, nearest transit: NAVY YARD-BALLPARK, 408.46m away; King Studio | 2500 Penn, a Placemakr Experience, stay from 23:00 to 08:00, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Montgomery",
+    "transportation": "Self-driving, from Washington to Montgomery, duration: 910.0733333333334, distance: 1287.7221000000002, cost: 64",
+    "breakfast": "Old Ebbitt Grill, Washington",
+    "lunch": "The Palm - Washington, D.C., Washington",
+    "dinner": "Unconventional Diner, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 08:00 to 08:30, nearest transit: FOGGY BOTTOM, 373.15m away; Old Ebbitt Grill, visit from 09:00 to 09:40, nearest transit: MCPHERSON SQ METRORAIL STATION - SW CORNER 14TH & I STS., NW, 355.10m away; National Mall, visit from 10:10 to 12:10, nearest transit: Entrance  A - 7 St,  Maryland Av, 386.15m away; The Palm - Washington, D.C., visit from 13:40 to 14:20, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & 19TH ST. NW, 216.92m away; Unconventional Diner, visit from 19:00 to 19:40, nearest transit: MT VERNON SQ, 135.98m away"
+  }
+]

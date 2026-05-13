@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Madison to New York",
+    "transportation": "Flight Number: F2789426, from Madison to New York, Departure Time: 10:16, Arrival Time: 13:31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 14:01 to 14:31, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; New York Public Library, New York, visit from 15:01 to 18:31, ; Times Square Diner, New York, visit from 19:01 to 22:01, ; Church view bedroom in Harlem brownstone, stay from 22:31 to 06:31, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Westway Diner, New York",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "Mari Vanna, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 07:01 to 07:31, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Westway Diner, New York, visit from 08:01 to 09:59, ; Peak Restaurant & Bar, New York, visit from 14:00 to 15:00, ; The High Line, New York, visit from 15:30 to 19:00, ; Mari Vanna, New York, visit from 20:45 to 22:00, ; Church view bedroom in Harlem brownstone, stay from 22:30 to 06:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Madison",
+    "transportation": "Taxi from New York to Madison, duration: 1065.7733333333333, distance: 1519.9384, cost : 1519.0",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "The Skylark - Rooftop Bar, New York",
+    "dinner": "Lillie's Victorian Establishment, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 07:00 to 07:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Sarge’s Delicatessen & Diner, New York, visit from 08:00 to 08:50, ; The Skylark - Rooftop Bar, New York, visit from 12:51 to 13:51, ; The National 9/11 Memorial & Museum, New York, visit from 14:21 to 17:51, ; Lillie's Victorian Establishment, New York, visit from 19:00 to 20:15, "
+  }
+]

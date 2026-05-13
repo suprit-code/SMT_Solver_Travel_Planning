@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to Sioux Falls",
+    "transportation": "Self-driving, from Nashville to Sioux Falls, duration: 1007.0416666666666, distance: 1481.2943, cost: 74",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Southeast Retreat 4Beds 3bath Family/Pet friendly!, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "Southeast Retreat 4Beds 3bath Family/Pet friendly!, stay from 08:00 to 08:30, nearest transit: 41st/Cliff NW corner (mid-block), 3648.81m away; Southeast Retreat 4Beds 3bath Family/Pet friendly!, stay from 23:00 to 08:00, nearest transit: 41st/Cliff NW corner (mid-block), 3648.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sioux Falls",
+    "transportation": "-",
+    "breakfast": "Sanaa s Gourmet Mediterranean, Sioux Falls",
+    "lunch": "MacKenzie River Pizza, Grill & Pub, Sioux Falls",
+    "dinner": "Morrie\u2019s Steakhouse, Sioux Falls",
+    "attraction": "Falls Park, Sioux Falls",
+    "accommodation": "Southeast Retreat 4Beds 3bath Family/Pet friendly!, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "Southeast Retreat 4Beds 3bath Family/Pet friendly!, stay from 08:00 to 08:30, nearest transit: 41st/Cliff NW corner (mid-block), 3648.81m away; Sanaa s Gourmet Mediterranean, visit from 09:00 to 09:40, nearest transit: 8th/Railroad, 67.08m away; Falls Park, visit from 10:10 to 12:10, nearest transit: Weber (east side) at Falls Park Entrance, 200.96m away; MacKenzie River Pizza, Grill & Pub, visit from 13:40 to 14:20, nearest transit: 10th/Main SW corner, 108.64m away; Morrie\u2019s Steakhouse, visit from 19:00 to 19:40, nearest transit: 26th/Shirley (mid-block, across from existing shelter), 220.98m away; Southeast Retreat 4Beds 3bath Family/Pet friendly!, stay from 23:00 to 08:00, nearest transit: 41st/Cliff NW corner (mid-block), 3648.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sioux Falls to Nashville",
+    "transportation": "Self-driving, from Sioux Falls to Nashville, duration: 1003.3666666666668, distance: 1481.1742, cost: 74",
+    "breakfast": "Harvester Kitchen, Sioux Falls",
+    "lunch": "Minerva's, Sioux Falls",
+    "dinner": "Parker's Bistro, Sioux Falls",
+    "attraction": "Old Courthouse Museum, Sioux Falls",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Southeast Retreat 4Beds 3bath Family/Pet friendly!, stay from 08:00 to 08:30, nearest transit: 41st/Cliff NW corner (mid-block), 3648.81m away; Harvester Kitchen, visit from 09:00 to 09:40, nearest transit: Phillips/7th NW corner, 216.99m away; Old Courthouse Museum, visit from 10:10 to 12:10, nearest transit: Phillips/7th NW corner, 215.45m away; Minerva's, visit from 13:40 to 14:20, nearest transit: The Bus Stop (TBS) SAM's downtown terminal, 135.41m away; Parker's Bistro, visit from 19:00 to 19:40, nearest transit: 10th/Main SW corner, 27.46m away"
+  }
+]

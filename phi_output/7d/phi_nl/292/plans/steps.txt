@@ -1,0 +1,62 @@
+# Destination cities # 
+# Run CitySearch to get all possible destination cities in Tennessee State for dates ['2024-11-07', '2024-11-08', '2024-11-09', '2024-11-10', '2024-11-11', '2024-11-12', '2024-11-13'] from origin 'Houston', remove origin 'Houston' if it is in list
+# Loop through cities for 3 destination cities
+# Initialize Z3 solver s
+# Set 'city' variable to be indexes of 3 destination cities
+# If city_0_index, city_1_index, city_2_index are not same, assert 3 'city' variables equal to city index
+
+# Departure dates # 
+# Set 'departure_dates' variables for 4 transportations between cities
+# Assert first transportation happens at first day (day 0), last transportation happens at last day (day 6), second and third transportation happen in between but not at the same day
+
+# Transportation methods # 
+# Set transportation method (flight, self-driving, taxi) variable for 4 transportations between cities
+# declare arrival time variables for 4 transportations
+# Assert only one of flight, self-driving, or taxi is used for 4 transportations between cities, self-driving is not valid if taxi or flight is used for any transportation
+# Assert all 4 transportations between cities are not flight **only if explicitly mentioned in the query that don't want to take flights.**
+
+# Flight information # 
+# Run FlightSearch to get flight info for Houston as origin, list of cities, city_0, city_1 and city_2, and dates ['2024-11-07', '2024-11-08', '2024-11-09', '2024-11-10', '2024-11-11', '2024-11-12', '2024-11-13']
+# Get specific flight price info with origin_city and final destination, specific city variable, and departure date for 4 transportations
+# Set 'flight_index' variable for 4 transportations
+# Assert 4 'flight_index' variables are within valid range if taking flight, assert flight index to be -1 if not taking flight
+# Calculate flight price for 2 people for 4 transportations based on flight index variable
+# Get specific flight arrival time info with origin_city as origin and final destination, specific city, and departure date for 4 transportations
+# Calculate flight arrival time for 4 transportations based on flight index variable
+
+# Driving information # 
+# Run DistanceSearch to get driving info for Houston as origin and city_0, city_1 and city_2
+# Get specific driving distance info with Houston as origin and final destination, specific city, and departure date for 4 transportations
+# Assert driving info is not empty if driving
+# Calculate self-driving and taxi price for 2 people and 4 transportations based on driving distance
+# Get driving arrival time with Houston as origin and final destination, specific city, and departure date for 4 transportations
+
+# Restaurant information # 
+# Get arrivals and city list for each day based on 4 transportations, 7 total travel day, and departure dates variables
+# Run RestaurantSearch to get restaurant price info and cuisine info for city_0, city_1 and city_2
+# Set 'restaurant_in_which_city' variables for (3 x total_travel_days) (3 meals per day, total_travel_days days) meals.
+# For each 'restaurant_in_which_city' variable, assert it to be either current city or next city based on transportation arrivals time
+# Set 'restaurant_index' variables for (3 x total_travel_days) (3 meals per day, total_travel_days days) meals.
+# For each 'restaurant_index', get specific price info based on 'restaurant_in_which_city' variable, assert index are within valid range, assert restaurants in same city are not repeated, and calculate restaurant price for 2 people
+
+# Attraction information # 
+# Run AttractionSearch to get attraction info for city_0, city_1 and city_2
+# Set 'attraction_in_which_city' variables for 7 (1 per day) attractions
+# For each 'attraction_in_which_city' variable, assert it to be either current city or next city based on transportation arrivals time
+# Set 'attraction_index' variables for 7 (1 per day) attractions
+# define category score 
+# For each 'attraction_index', get specific length info based on attraction in which city variable, assert index are within valid range, and attrations in same city are not repeated and add weighted category scores of attraction
+# Maximize the number of selected attractions belong to category
+
+# Accommodation information # 
+# Run AccommodationSearch to get accommodation info and accommodation constraints for city_0, city_1 and city_2
+# Set 'accommodation_index' variables for 3 (1 per city) accommodations
+# For each 'accommodation_index', get specific price info based on accommodation in which city variable, assert 'accommodation_index' variable are within valid range, calculate number of room need for 2 people and accommodation price
+# For each city, get accommodation minimum night info and assert it to be less than the days stay in this city
+
+# Budget # 
+# Set budget limit variable to be 10350
+# Add 4 transportation price to spent, according to whether transportation method is flight, self-driving, or taxi
+# Add restaurant price to spent
+# Add accommodation price to spent
+# Assert current spent is within budget

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to San Diego",
+    "transportation": "Flight Number: F2604735, from Las Vegas to San Diego, Departure Time: 12:42, Arrival Time: 13:51",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 14:21 to 15:00, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Cabrillo National Monument, San Diego, visit from 15:30 to 19:58, ; Pacific Beach AleHouse, San Diego, visit from 20:28 to 22:24, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 22:54 to 06:54, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Buon Appetito, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 07:24 to 07:54, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Lou & Mickey's, San Diego, visit from 08:24 to 10:00, ; USS Midway Museum, San Diego, visit from 10:30 to 14:00, ; Buon Appetito, San Diego, visit from 14:30 to 15:30, ; Morning Glory, San Diego, visit from 19:31 to 22:00, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 22:30 to 06:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The God Spa, Redding",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 07:00 to 07:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Filippi's Pizza Grotto Little Italy, San Diego, visit from 08:00 to 08:50, ; The God Spa, stay from 22:04 to 22:34, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; The God Spa, stay from 23:04 to 07:04, nearest transit: Twin View Blvd at Midway Dr, 557.67m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Trendy's, Redding",
+    "lunch": "Thai Hut, Redding",
+    "dinner": "Dam Burger, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "The God Spa, Redding",
+    "event": "-",
+    "point_of_interest_list": "The God Spa, stay from 07:34 to 08:04, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; Trendy's, Redding, visit from 09:10 to 10:00, ; Sundial Bridge, Redding, visit from 10:30 to 14:00, ; Thai Hut, Redding, visit from 14:30 to 15:30, ; Dam Burger, Redding, visit from 20:45 to 22:00, ; The God Spa, stay from 22:30 to 06:30, nearest transit: Twin View Blvd at Midway Dr, 557.67m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Las Vegas",
+    "transportation": "Taxi from Redding to Las Vegas, duration: 756.2466666666667, distance: 1007.9322, cost : 1007.0",
+    "breakfast": "Los Gordos, Redding",
+    "lunch": "Champa Garden, Redding",
+    "dinner": "deja vu, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The God Spa, stay from 07:00 to 07:30, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; Los Gordos, Redding, visit from 08:00 to 08:50, ; Turtle Bay Exploration Park, Redding, visit from 09:20 to 12:50, ; Champa Garden, Redding, visit from 14:30 to 15:30, ; deja vu, Redding, visit from 19:31 to 20:46, "
+  }
+]

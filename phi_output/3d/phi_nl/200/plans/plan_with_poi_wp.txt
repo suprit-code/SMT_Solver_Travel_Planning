@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Des Moines to New York",
+    "transportation": "Flight Number: F0158577, from Des Moines to New York, Departure Time: 07:03, Arrival Time: 10:32",
+    "breakfast": "-",
+    "lunch": "Sarge’s Delicatessen & Diner, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Standard Queen Room in Small Hotel, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 11:02 to 11:32, nearest transit: MADISON AV/E 129 ST, 97.09m away; Sarge’s Delicatessen & Diner, New York, visit from 12:02 to 13:02, ; The High Line, New York, visit from 13:32 to 17:02, ; FIG & OLIVE, New York, visit from 19:45 to 21:00, ; Standard Queen Room in Small Hotel, stay from 21:30 to 05:30, nearest transit: MADISON AV/E 129 ST, 97.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Burger & Lobster, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Sylvia's Restaurant, New York",
+    "attraction": "Chelsea Market, New York",
+    "accommodation": "Standard Queen Room in Small Hotel, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 06:00 to 06:30, nearest transit: MADISON AV/E 129 ST, 97.09m away; Burger & Lobster, New York, visit from 08:08 to 09:59, ; Westway Diner, New York, visit from 14:00 to 15:00, ; Chelsea Market, New York, visit from 15:30 to 19:00, ; Sylvia's Restaurant, New York, visit from 19:30 to 20:45, ; Standard Queen Room in Small Hotel, stay from 22:30 to 06:30, nearest transit: MADISON AV/E 129 ST, 97.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Des Moines",
+    "transportation": "Flight Number: F1880242, from New York to Des Moines, Departure Time: 18:16, Arrival Time: 19:56",
+    "breakfast": "Carmine's, New York",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "-",
+    "attraction": "Central Park, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 07:00 to 07:30, nearest transit: MADISON AV/E 129 ST, 97.09m away; Carmine's, New York, visit from 08:00 to 08:50, ; Central Park, New York, visit from 09:20 to 12:50, ; Times Square Diner, New York, visit from 13:20 to 14:20, "
+  }
+]

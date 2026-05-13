@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F3749555, from San Diego to Seattle, Departure Time: 13:45, Arrival Time: 16:58",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Spinasse, Seattle",
+    "lunch": "Rocco's, Seattle",
+    "dinner": "El Gaucho Seattle, Seattle",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Spinasse, visit from 09:00 to 09:40, nearest transit: E Pine St & 15th Ave, 90.45m away; Seattle Aquarium, visit from 10:10 to 12:10, nearest transit: 2nd Ave & Pike St, 363.98m away; Rocco's, visit from 13:40 to 14:20, nearest transit: 3rd Ave & Bell St, 90.96m away; El Gaucho Seattle, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Bell St, 181.71m away; Cozy room near UW, stay from 23:00 to 08:00, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F3750879, from Seattle to San Diego, Departure Time: 15:52, Arrival Time: 18:34",
+    "breakfast": "The Capital Grille, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; The Capital Grille, visit from 09:00 to 09:40, nearest transit: 4th Ave & University, 41.04m away; Seattle Center, visit from 10:10 to 12:10, nearest transit: Seattle Center, 84.22m away; Dough Zone Dumpling House - Seattle International District, visit from 13:40 to 14:20, nearest transit: 5th Ave S & S Weller St, 26.54m away"
+  }
+]

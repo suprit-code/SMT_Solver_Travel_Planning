@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to San Diego",
+    "transportation": "Flight Number: F2732867, from Tucson to San Diego, Departure Time: 10:06, Arrival Time: 11:48",
+    "breakfast": "-",
+    "lunch": "Juniper and Ivy, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 12:18 to 12:48, nearest transit: 30th St & A St, 427.5m away; Juniper and Ivy, San Diego, visit from 13:18 to 14:18, ; SeaWorld, San Diego, visit from 15:30 to 20:15, ; Born & Raised, San Diego, visit from 20:45 to 22:03, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 22:33 to 06:33, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 07:03 to 07:33, nearest transit: 30th St & A St, 427.5m away; Din Tai Fung, San Diego, visit from 08:03 to 08:53, ; San Diego Zoo, San Diego, visit from 09:23 to 12:53, ; Pacific Beach AleHouse, San Diego, visit from 14:30 to 15:30, ; Lou & Mickey's, San Diego, visit from 19:45 to 21:00, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 21:30 to 05:30, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Fresno",
+    "transportation": "Flight Number: F0589388, from San Diego to Fresno, Departure Time: 19:57, Arrival Time: 21:23",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Trailer Park After Dark, San Diego",
+    "dinner": "-",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "~The Sierra~, Fresno",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 06:00 to 06:30, nearest transit: 30th St & A St, 427.5m away; Mimmo's, San Diego, visit from 08:00 to 08:50, ; Trailer Park After Dark, San Diego, visit from 12:51 to 13:51, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 19:00, ; ~The Sierra~, stay from 21:53 to 22:23, nearest transit: NW HERNDON - WILLOW, 837.97m away; ~The Sierra~, stay from 22:53 to 06:53, nearest transit: NW HERNDON - WILLOW, 837.97m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Fresno",
+    "transportation": "-",
+    "breakfast": "Chef Paul's Cafe, Fresno",
+    "lunch": "Ampersand Ice Cream, Fresno",
+    "dinner": "Taqueria Don Pepe, Fresno",
+    "attraction": "Fresno Chaffee Zoo, Fresno",
+    "accommodation": "~The Sierra~, Fresno",
+    "event": "-",
+    "point_of_interest_list": "~The Sierra~, stay from 07:23 to 07:53, nearest transit: NW HERNDON - WILLOW, 837.97m away; Chef Paul's Cafe, Fresno, visit from 08:29 to 09:19, ; Fresno Chaffee Zoo, Fresno, visit from 09:49 to 13:19, ; Ampersand Ice Cream, Fresno, visit from 13:49 to 14:49, ; Taqueria Don Pepe, Fresno, visit from 20:45 to 22:00, ; ~The Sierra~, stay from 22:30 to 06:30, nearest transit: NW HERNDON - WILLOW, 837.97m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Fresno to Tucson",
+    "transportation": "Taxi from Fresno to Tucson, duration: 762.06, distance: 1129.7628, cost : 1129.0",
+    "breakfast": "Fleming's Prime Steakhouse & Wine Bar, Fresno",
+    "lunch": "Castillo's Mexican Food, Fresno",
+    "dinner": "Fig Garden Village, Fresno",
+    "attraction": "Kearney Mansion Museum & Gallery, Fresno",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "~The Sierra~, stay from 07:00 to 07:30, nearest transit: NW HERNDON - WILLOW, 837.97m away; Fleming's Prime Steakhouse & Wine Bar, Fresno, visit from 08:00 to 08:50, ; Castillo's Mexican Food, Fresno, visit from 12:51 to 13:51, ; Kearney Mansion Museum & Gallery, Fresno, visit from 14:21 to 17:51, ; Fig Garden Village, Fresno, visit from 19:00 to 20:15, "
+  }
+]

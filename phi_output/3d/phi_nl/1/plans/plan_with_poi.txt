@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Savannah to Baltimore",
+    "transportation": "Flight Number: F2188653, from Savannah to Baltimore, Departure Time: 06:17, Arrival Time: 07:44",
+    "breakfast": "Toki Underground Baltimore, Baltimore",
+    "lunch": "-",
+    "dinner": "Tagliata, Baltimore",
+    "attraction": "Federal Hill Park, Baltimore",
+    "accommodation": "Luxe Houseboat: Stunning Inner Harbor 360 Views, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 08:14 to 08:44, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; Toki Underground Baltimore, Baltimore, visit from 09:14 to 10:04, ; Federal Hill Park, Baltimore, visit from 15:30 to 19:00, ; Tagliata, Baltimore, visit from 20:45 to 22:20, ; Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 22:50 to 06:50, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "La Tavola, Baltimore",
+    "lunch": "Angies Seafood, Baltimore",
+    "dinner": "Pratt Street Ale House, Baltimore",
+    "attraction": "B&O Railroad Museum, Baltimore",
+    "accommodation": "Luxe Houseboat: Stunning Inner Harbor 360 Views, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 07:20 to 07:50, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; La Tavola, Baltimore, visit from 08:20 to 09:10, ; Angies Seafood, Baltimore, visit from 13:11 to 14:11, ; B&O Railroad Museum, Baltimore, visit from 14:41 to 18:11, ; Pratt Street Ale House, Baltimore, visit from 19:00 to 20:15, ; Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 20:45 to 04:45, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Savannah",
+    "transportation": "Flight Number: F3149443, from Baltimore to Savannah, Departure Time: 19:14, Arrival Time: 21:04",
+    "breakfast": "The Abbey Burger Bistro, Baltimore",
+    "lunch": "Twist Fell's Point, Baltimore",
+    "dinner": "-",
+    "attraction": "Baltimore Museum of Art, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 06:00 to 08:23, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; The Abbey Burger Bistro, Baltimore, visit from 08:53 to 09:43, ; Twist Fell's Point, Baltimore, visit from 13:44 to 14:44, ; Baltimore Museum of Art, Baltimore, visit from 15:14 to 18:44, "
+  }
+]

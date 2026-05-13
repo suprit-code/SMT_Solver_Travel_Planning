@@ -1,0 +1,6 @@
+Destination cities: ['San Antonio'],
+Transportation dates: ['2024-11-01', '2024-11-03'],
+Transportation methods between cities: ['Flight Number: F1372422, from Miami to San Antonio, Departure Time: 13:47, Arrival Time: 16:10', 'Flight Number: F2584235, from San Antonio to Miami, Departure Time: 17:50, Arrival Time: 21:42'],
+Restaurants (3 meals per day): ['-', '-', 'Bubba Gump Shrimp Co., San Antonio', 'Battalion, San Antonio', 'J Prime Steakhouse, San Antonio', 'Bliss, San Antonio', "Boudro's Texas Bistro, San Antonio", "Schilo's, San Antonio", 'Santa Diabla - Cocina Mexicana, San Antonio'],
+Attractions (1 per day): ['Pearl Brewery, San Antonio', 'The Alamo, San Antonio', 'Tower Of The Americas, San Antonio'],
+Accommodations (1 per city): ['Couples getaway kink dungeon, San Antonio']

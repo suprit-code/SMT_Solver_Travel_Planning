@@ -1,0 +1,6 @@
+Destination cities: ['Washington'],
+Transportation dates: ['2024-11-26', '2024-11-28'],
+Transportation methods between cities: ['Flight Number: F2764410, from New York to Washington, Departure Time: 15:12, Arrival Time: 16:45', 'Flight Number: F3482103, from Washington to New York, Departure Time: 17:49, Arrival Time: 20:07'],
+Restaurants (3 meals per day): ['-', '-', 'Jaleo by Jose Andres, Washington', 'Smoke & Mirrors Rooftop Bar, Washington', 'Bourbon Steak - Four Seasons Washington DC, Washington', 'Cafe Milano, Washington', 'Sichuan Pavilion, Washington', '1789 Restaurant & Bar, Washington', '-'],
+Attractions (1 per day): ['National Mall, Washington', 'United States Botanic Garden, Washington', 'Lincoln Memorial, Washington'],
+Accommodations (1 per city): ['The Half Note Bedroom at HUM District Music, Washington']

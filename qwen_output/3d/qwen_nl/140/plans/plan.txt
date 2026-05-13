@@ -1,0 +1,6 @@
+Destination cities: ['Houston'],
+Transportation dates: ['2024-11-01', '2024-11-03'],
+Transportation methods between cities: ['Flight Number: F3451633, from Boston to Houston, Departure Time: 15:22, Arrival Time: 18:47', 'Flight Number: F1235872, from Houston to Boston, Departure Time: 18:15, Arrival Time: 23:01'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Houston Restaurant, Houston', "The Original Ninfa's, Houston", 'Houston White Co, Houston', 'Houstons Bar and Grill, Houston', "Merrill & Houston's Steak Joint, Houston", "Houston's Restaurant, Houston"],
+Attractions (1 per day): ['-', 'Houston Zoo, Houston', 'Discovery Green, Houston'],
+Accommodations (1 per city): ['#4 Northwest Victory Single BR, Houston']

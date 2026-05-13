@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Greensboro",
+    "transportation": "Flight Number: F3641177, from New York to Greensboro, Departure Time: 08:01, Arrival Time: 09:59",
+    "breakfast": "-",
+    "lunch": "Green Valley Grill, Greensboro",
+    "dinner": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 10:29 to 10:59, nearest transit: Glendale/Randleman Rd., 155.05m away; Green Valley Grill, Greensboro, visit from 14:00 to 15:00, ; Carolina Theatre, Greensboro, visit from 15:30 to 19:15, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 19:45 to 21:00, ; A little Southern Hospitality, stay from 21:30 to 05:30, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Hops Burger Bar, Greensboro",
+    "lunch": "Vito's Italian Restaurant, Greensboro",
+    "dinner": "Crafted The Art of the Taco, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 06:00 to 06:30, nearest transit: Glendale/Randleman Rd., 155.05m away; Hops Burger Bar, Greensboro, visit from 08:31 to 10:00, ; International Civil Rights Center & Museum, Greensboro, visit from 10:30 to 14:00, ; Vito's Italian Restaurant, Greensboro, visit from 14:30 to 15:30, ; Crafted The Art of the Taco, Greensboro, visit from 19:31 to 20:46, ; A little Southern Hospitality, stay from 21:16 to 06:57, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "MJ's Steak and Seafood, Greensboro",
+    "lunch": "Pho Hien Voung, Greensboro",
+    "dinner": "Manna, Wilmington",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:27 to 07:57, nearest transit: Glendale/Randleman Rd., 155.05m away; MJ's Steak and Seafood, Greensboro, visit from 08:27 to 09:17, ; Ambleside Gallery, Greensboro, visit from 09:47 to 13:17, ; Pho Hien Voung, Greensboro, visit from 13:47 to 14:47, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 19:45 to 20:15, nearest transit: Market St WB at 12th St, 326.9m away; Manna, Wilmington, visit from 20:45 to 22:57, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 23:27 to 07:27, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Szechuan 132, Wilmington",
+    "lunch": "Yo Sake Downtown Sushi Lounge, Wilmington",
+    "dinner": "Caprice Bistro, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 07:57 to 08:27, nearest transit: Market St WB at 12th St, 326.9m away; Szechuan 132, Wilmington, visit from 08:57 to 09:47, ; Yo Sake Downtown Sushi Lounge, Wilmington, visit from 13:48 to 14:48, ; Burgwin-Wright House and Gardens, Wilmington, visit from 15:18 to 18:48, ; Caprice Bistro, Wilmington, visit from 19:18 to 20:33, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 21:03 to 06:30, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to New York",
+    "transportation": "Flight Number: F1887099, from Wilmington to New York, Departure Time: 19:20, Arrival Time: 20:56",
+    "breakfast": "Roko Italian Cuisine, Wilmington",
+    "lunch": "Circa 1922, Wilmington",
+    "dinner": "-",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 07:00 to 07:30, nearest transit: Market St WB at 12th St, 326.9m away; Roko Italian Cuisine, Wilmington, visit from 08:00 to 08:50, ; Battleship North Carolina, Wilmington, visit from 09:20 to 12:50, ; Circa 1922, Wilmington, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-15', '2024-11-17'],
+Transportation methods between cities: ['Flight Number: F3454856, from Houston to Seattle, Departure Time: 10:12, Arrival Time: 12:58', 'Flight Number: F3446835, from Seattle to Houston, Departure Time: 16:11, Arrival Time: 22:08'],
+Restaurants (3 meals per day): ['-', 'Canlis Restaurant, Seattle', 'Six Seven Restaurant, Seattle', 'Metropolitan Grill, Seattle', 'Place Pigalle Restaurant and Bar, Seattle', 'El Gaucho Seattle, Seattle', "Matt's in the Market, Seattle", "The Butcher's Table, Seattle", "Salty's On Alki Beach, Seattle"],
+Attractions (1 per day): ['Seattle Center, Seattle', 'Woodland Park Zoo, Seattle', 'Hiram M. Chittenden Locks, Seattle'],
+Accommodations (1 per city): ['Magical Mountain Retreat and Sauna, Seattle']

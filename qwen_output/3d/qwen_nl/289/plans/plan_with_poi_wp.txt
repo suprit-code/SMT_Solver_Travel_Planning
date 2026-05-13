@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Memphis",
+    "transportation": "Flight Number: F2748427, from Boston to Memphis, Departure Time: 07:37, Arrival Time: 09:39",
+    "breakfast": "-",
+    "lunch": "Interstate Barbecue, Memphis",
+    "dinner": "Itta Bena, Memphis",
+    "attraction": "Backbeat Tours, Memphis",
+    "accommodation": "Historic Cooper Young Midtown Shotgun House, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 10:09 to 10:39, nearest transit: YOUNG@MEDA, 88.72m away; Interstate Barbecue, Memphis, visit from 12:00 to 13:00, ; Backbeat Tours, Memphis, visit from 13:30 to 18:30, ; Itta Bena, Memphis, visit from 19:00 to 20:15, ; Historic Cooper Young Midtown Shotgun House, stay from 22:30 to 06:30, nearest transit: YOUNG@MEDA, 88.72m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Memphis",
+    "transportation": "-",
+    "breakfast": "Mcewen's Memphis, Memphis",
+    "lunch": "Pig On Beale, Memphis",
+    "dinner": "Flight Restaurant and Wine Bar, Memphis",
+    "attraction": "Mud Island River Park, Memphis",
+    "accommodation": "Historic Cooper Young Midtown Shotgun House, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 07:00 to 07:30, nearest transit: YOUNG@MEDA, 88.72m away; Mcewen's Memphis, Memphis, visit from 08:00 to 09:59, ; Pig On Beale, Memphis, visit from 14:00 to 15:00, ; Mud Island River Park, Memphis, visit from 15:30 to 19:00, ; Flight Restaurant and Wine Bar, Memphis, visit from 20:45 to 23:25, ; Historic Cooper Young Midtown Shotgun House, stay from 23:55 to 07:55, nearest transit: YOUNG@MEDA, 88.72m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Memphis to Boston",
+    "transportation": "Flight Number: F1699917, from Memphis to Boston, Departure Time: 10:45, Arrival Time: 14:33",
+    "breakfast": "Memphis Blues Barbeque House, Memphis",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 08:25 to 08:55, nearest transit: YOUNG@MEDA, 88.72m away; Memphis Blues Barbeque House, Memphis, visit from 09:25 to 10:15, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Charleston",
+    "transportation": "Self-driving from Miami to Charleston, duration: 659.5716666666667, distance: 934.3455, cost : 46.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 19:45 to 20:15, nearest transit: Broad St / Church St, 4048.31m away; The Backpacker, stay from 23:40 to 07:40, nearest transit: Broad St / Church St, 4048.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Frannie & The Fox, Charleston",
+    "lunch": "Amen Street Fish & Raw Bar, Charleston",
+    "dinner": "Poogan's Porch, Charleston",
+    "attraction": "The Citadel, Charleston",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 08:10 to 08:40, nearest transit: Broad St / Church St, 4048.31m away; Frannie & The Fox, Charleston, visit from 09:10 to 10:00, ; The Citadel, Charleston, visit from 10:30 to 14:00, ; Amen Street Fish & Raw Bar, Charleston, visit from 14:30 to 15:30, ; Poogan's Porch, Charleston, visit from 19:31 to 20:46, ; The Backpacker, stay from 23:39 to 07:39, nearest transit: Broad St / Church St, 4048.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Miami",
+    "transportation": "Self-driving from Charleston to Miami, duration: 661.9983333333333, distance: 935.2003, cost : 46.0",
+    "breakfast": "Stars Restaurant-Rooftop & Grill Room, Charleston",
+    "lunch": "Chubby Fish, Charleston",
+    "dinner": "Stella's, Charleston",
+    "attraction": "Battery & White Point Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 08:09 to 08:39, nearest transit: Broad St / Church St, 4048.31m away; Stars Restaurant-Rooftop & Grill Room, Charleston, visit from 09:09 to 09:59, ; Chubby Fish, Charleston, visit from 14:00 to 15:00, ; Battery & White Point Gardens, Charleston, visit from 15:30 to 19:00, ; Stella's, Charleston, visit from 19:30 to 20:45, "
+  }
+]

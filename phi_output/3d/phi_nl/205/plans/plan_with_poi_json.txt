@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Atlanta",
+    "transportation": "Flight Number: F1290971, from Kansas City to Atlanta, Departure Time: 14:39, Arrival Time: 17:31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Atlanta",
+    "lunch": "Marcel, Atlanta",
+    "dinner": "Aria, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 08:00 to 08:30, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away; Fogo de Chao Brazilian Steakhouse, visit from 09:00 to 09:40, nearest transit: PIEDMONT RD NE @ E PACES FERRY RD NE, 121.02m away; Atlanta History Center, visit from 10:10 to 12:10, nearest transit: PEACHTREE RD @ BUCKHEAD AVE NE, 610.21m away; Marcel, visit from 13:40 to 14:20, nearest transit: HOWELL MILL RD NW @ 14TH ST NW, 77.33m away; Aria, visit from 19:00 to 19:40, nearest transit: PIEDMONT RD NE @ E PACES FERRY RD NE, 250.25m away; Tiny House Retreat * Stock Tank Pool, stay from 23:00 to 08:00, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Kansas City",
+    "transportation": "taxi, from Atlanta to Kansas City, duration: 893.7883333333334, distance: 1289.864, cost: 1289",
+    "breakfast": "Stoney River Steakhouse and Grill, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "Nikolai's Roof, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 08:00 to 08:30, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away; Stoney River Steakhouse and Grill, visit from 09:00 to 09:40, nearest transit: CUMBERLAND TRANSFER CENTER, 388.91m away; Zoo Atlanta, visit from 10:10 to 12:10, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; Cafe Agora, visit from 13:40 to 14:20, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; Nikolai's Roof, visit from 19:00 to 19:40, nearest transit: RALPH MCGILL BLVD NE @ COURTLAND ST, 309.92m away"
+  }
+]

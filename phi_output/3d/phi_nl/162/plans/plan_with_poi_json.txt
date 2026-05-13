@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to New York",
+    "transportation": "Flight Number: F0839826, from Sarasota to New York, Departure Time: 15:11, Arrival Time: 17:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "East Village, Private room with access to garden, New York",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Carmine's, New York",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "Westway Diner, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "East Village, Private room with access to garden, New York",
+    "event": "-",
+    "point_of_interest_list": "East Village, Private room with access to garden, stay from 08:00 to 08:30, nearest transit: 1 AV/E 1 ST, 79.09m away; Carmine's, visit from 09:00 to 09:40, nearest transit: 7 AV/W 44 ST, 61.95m away; The Metropolitan Museum of Art, visit from 10:10 to 12:10, nearest transit: 5 AV/E 80 ST, 182.01m away; Peak Restaurant & Bar, visit from 13:40 to 14:20, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; Westway Diner, visit from 19:00 to 19:40, nearest transit: 9 AV/W 44 ST, 44.32m away; East Village, Private room with access to garden, stay from 23:00 to 08:00, nearest transit: 1 AV/E 1 ST, 79.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Sarasota",
+    "transportation": "Flight Number: F0838385, from New York to Sarasota, Departure Time: 16:07, Arrival Time: 19:24",
+    "breakfast": "Sarge\u2019s Delicatessen & Diner, New York",
+    "lunch": "BOOM, New York",
+    "dinner": "-",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "East Village, Private room with access to garden, stay from 08:00 to 08:30, nearest transit: 1 AV/E 1 ST, 79.09m away; Sarge\u2019s Delicatessen & Diner, visit from 09:00 to 09:40, nearest transit: 3 AV/E 37 ST, 101.41m away; The National 9/11 Memorial & Museum, visit from 10:10 to 12:10, nearest transit: CHURCH ST/LIBERTY ST, 234.55m away; BOOM, visit from 13:40 to 14:20, nearest transit: W 14 ST/WASHINGTON ST, 126.07m away"
+  }
+]

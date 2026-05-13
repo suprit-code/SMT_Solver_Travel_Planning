@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Manchester to Charlotte",
+    "transportation": "Flight Number: F2823759, from Manchester to Charlotte, Departure Time: 05:59, Arrival Time: 08:18",
+    "breakfast": "-",
+    "lunch": "The Terrace at The Charlotte Inn, Charlotte",
+    "dinner": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "Quiet Cozy Stay in CLT, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 08:48 to 09:18, nearest transit: Tryon St & Choate Rd, 121.01m away; The Terrace at The Charlotte Inn, Charlotte, visit from 12:00 to 14:30, ; Levine Museum of the New South, Charlotte, visit from 15:00 to 18:30, ; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 19:00 to 20:15, ; Quiet Cozy Stay in CLT, stay from 21:30 to 05:30, nearest transit: Tryon St & Choate Rd, 121.01m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Tavern, Charlotte",
+    "lunch": "Bistro Charlotte, Charlotte",
+    "dinner": "Charlotte's Restaurant, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "Quiet Cozy Stay in CLT, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 06:00 to 06:30, nearest transit: Tryon St & Choate Rd, 121.01m away; Charlotte's Tavern, Charlotte, visit from 08:57 to 09:47, ; Truist Field, Charlotte, visit from 10:17 to 13:47, ; Bistro Charlotte, Charlotte, visit from 14:17 to 15:17, ; Charlotte's Restaurant, Charlotte, visit from 20:45 to 22:00, ; Quiet Cozy Stay in CLT, stay from 22:30 to 06:30, nearest transit: Tryon St & Choate Rd, 121.01m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Manchester",
+    "transportation": "Flight Number: F3786306, from Charlotte to Manchester, Departure Time: 16:15, Arrival Time: 18:15",
+    "breakfast": "Cabo Fish Taco Baja Seagrill, Charlotte",
+    "lunch": "The Charlotte Hotel & Restaurant, Charlotte",
+    "dinner": "-",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 07:00 to 07:30, nearest transit: Tryon St & Choate Rd, 121.01m away; Cabo Fish Taco Baja Seagrill, Charlotte, visit from 08:00 to 08:50, ; Discovery Place Science, Charlotte, visit from 09:20 to 12:50, ; The Charlotte Hotel & Restaurant, Charlotte, visit from 13:20 to 14:20, "
+  }
+]

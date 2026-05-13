@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chattanooga to Amarillo",
+    "transportation": "Taxi from Chattanooga to Amarillo, duration: 1124.0800000000002, distance: 1711.218, cost : 1711.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 01:14 to 01:44, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Relaxing Place to Stay with Guest Living Room!, stay from 02:14 to 08:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Bracero Mexican Grill, Amarillo",
+    "lunch": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "dinner": "Tyler's Barbeque, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:30 to 09:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Bracero Mexican Grill, Amarillo, visit from 09:37 to 10:29, ; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 14:30 to 15:44, ; Tyler's Barbeque, Amarillo, visit from 19:45 to 21:00, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:30 to 05:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Ye Olde Pancake Station, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private room - Khang, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 06:00 to 06:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Ye Olde Pancake Station, Amarillo, visit from 08:00 to 08:50, ; Private room - Khang, stay from 21:10 to 21:40, nearest transit: 235-Airline @ St. Marks, 143.03m away; Private room - Khang, stay from 22:10 to 06:10, nearest transit: 235-Airline @ St. Marks, 143.03m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Taqueria El Potro, Corpus Christi",
+    "lunch": "Andy's Kitchen, Corpus Christi",
+    "dinner": "Senor Jaime's Mexican Restaurant & Cantina, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "Private room - Khang, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Private room - Khang, stay from 06:40 to 07:10, nearest transit: 235-Airline @ St. Marks, 143.03m away; Taqueria El Potro, Corpus Christi, visit from 09:09 to 09:59, ; Andy's Kitchen, Corpus Christi, visit from 14:00 to 15:00, ; USS Lexington Museum, Corpus Christi, visit from 15:30 to 19:00, ; Senor Jaime's Mexican Restaurant & Cantina, Corpus Christi, visit from 19:30 to 20:45, ; Private room - Khang, stay from 21:15 to 05:30, nearest transit: 235-Airline @ St. Marks, 143.03m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F3160234, from Corpus Christi to Houston, Departure Time: 10:20, Arrival Time: 11:06",
+    "breakfast": "Executive Surf Club, Corpus Christi",
+    "lunch": "Houstons Bar and Grill, Houston",
+    "dinner": "Hugo's, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private room - Khang, stay from 06:00 to 06:30, nearest transit: 235-Airline @ St. Marks, 143.03m away; Executive Surf Club, Corpus Christi, visit from 08:00 to 08:50, ; #4 Northwest Victory Single BR, stay from 11:36 to 12:06, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houstons Bar and Grill, Houston, visit from 12:51 to 13:51, ; Hermann Park, Houston, visit from 14:21 to 17:51, ; Hugo's, Houston, visit from 19:00 to 20:15, ; #4 Northwest Victory Single BR, stay from 20:45 to 04:45, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston's Trail's End, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Goode Company Seafood, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston's Trail's End, Houston, visit from 08:00 to 08:50, ; Downtown Aquarium, Houston, visit from 09:20 to 12:50, ; Houston Restaurant, Houston, visit from 14:30 to 15:30, ; Goode Company Seafood, Houston, visit from 19:31 to 20:46, ; #4 Northwest Victory Single BR, stay from 21:16 to 06:57, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Chattanooga",
+    "transportation": "Taxi from Houston to Chattanooga, duration: 892.8266666666666, distance: 1308.9868, cost : 1308.0",
+    "breakfast": "The Breakfast Klub, Houston",
+    "lunch": "Houston's Restaurant & Pub, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:27 to 08:39, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; The Breakfast Klub, Houston, visit from 09:09 to 09:59, ; Houston's Restaurant & Pub, Houston, visit from 14:00 to 15:00, ; Houston Zoo, Houston, visit from 15:30 to 19:00, "
+  }
+]

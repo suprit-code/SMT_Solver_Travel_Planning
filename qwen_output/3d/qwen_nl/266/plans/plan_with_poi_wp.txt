@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Asheville to New York",
+    "transportation": "Flight Number: F0151209, from Asheville to New York, Departure Time: 13:00, Arrival Time: 14:37",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Gaonnuri, New York",
+    "attraction": "-",
+    "accommodation": "Standard Queen Room in Small Hotel, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 15:07 to 15:37, nearest transit: MADISON AV/E 129 ST, 97.09m away; Gaonnuri, New York, visit from 19:00 to 20:15, ; Standard Queen Room in Small Hotel, stay from 20:45 to 06:53, nearest transit: MADISON AV/E 129 ST, 97.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Del Frisco's Grille, New York",
+    "dinner": "Sarge’s Delicatessen & Diner, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Standard Queen Room in Small Hotel, New York",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 07:23 to 07:53, nearest transit: MADISON AV/E 129 ST, 97.09m away; Peak Restaurant & Bar, New York, visit from 08:23 to 09:13, ; Del Frisco's Grille, New York, visit from 13:30 to 14:30, ; The High Line, New York, visit from 15:00 to 18:30, ; Sarge’s Delicatessen & Diner, New York, visit from 19:00 to 20:15, ; Standard Queen Room in Small Hotel, stay from 20:45 to 05:30, nearest transit: MADISON AV/E 129 ST, 97.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Asheville",
+    "transportation": "Taxi from New York to Asheville, duration: 791.7216666666667, distance: 1103.1263, cost : 1103.0",
+    "breakfast": "BOOM, New York",
+    "lunch": "Gallaghers Steakhouse, New York",
+    "dinner": "Del Frisco's Double Eagle Steakhouse, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Standard Queen Room in Small Hotel, stay from 06:00 to 06:30, nearest transit: MADISON AV/E 129 ST, 97.09m away; BOOM, New York, visit from 08:00 to 08:50, ; Central Park, New York, visit from 09:20 to 12:50, ; Gallaghers Steakhouse, New York, visit from 13:20 to 14:20, ; Del Frisco's Double Eagle Steakhouse, New York, visit from 19:00 to 20:15, "
+  }
+]

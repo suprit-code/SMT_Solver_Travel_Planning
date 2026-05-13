@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Kansas City",
+    "transportation": "Flight Number: F2536906, from Detroit to Kansas City, Departure Time: 12:15, Arrival Time: 13:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Rockhill Grille, Kansas City",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "Room 15 at Waypoint Manor, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Room 15 at Waypoint Manor, stay from 13:30 to 14:00, nearest transit: ON 12TH AT AGNES WESTBOUND, 215.04m away; Tom's Town Distilling Co., visit from 14:30 to 16:30, nearest transit: KAUFFMAN CENTER ON MAIN AT 16TH ST SB, 116.42m away; The Rockhill Grille, visit from 19:00 to 19:40, nearest transit: ON GRAND AT 19TH NORTHBOUND, 109.08m away; Room 15 at Waypoint Manor, stay from 23:00 to 08:00, nearest transit: ON 12TH AT AGNES WESTBOUND, 215.04m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Grunauer, Kansas City",
+    "lunch": "The Big Biscuit, Kansas City",
+    "dinner": "Trezo Mare Restaurant & Lounge, Kansas City",
+    "attraction": "Country Club Plaza, Kansas City",
+    "accommodation": "Room 15 at Waypoint Manor, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Room 15 at Waypoint Manor, stay from 08:00 to 08:30, nearest transit: ON 12TH AT AGNES WESTBOUND, 215.04m away; Grunauer, visit from 09:00 to 09:40, nearest transit: ON SW BLVD AT CENTRAL WESTBOUND, 251.35m away; Country Club Plaza, visit from 10:10 to 12:10, nearest transit: ON 47TH AT BROADWAY WESTBOUND FARSIDE, 89.53m away; The Big Biscuit, visit from 13:40 to 14:20, nearest transit: ON BOARDWALK AT 8501 NB, 166.95m away; Trezo Mare Restaurant & Lounge, visit from 19:00 to 19:40, nearest transit: ON N OAK AT N EVANSDALE SOUTHBOUND, 1731.93m away; Room 15 at Waypoint Manor, stay from 23:00 to 08:00, nearest transit: ON 12TH AT AGNES WESTBOUND, 215.04m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Detroit",
+    "transportation": "Flight Number: F0345891, from Kansas City to Detroit, Departure Time: 18:54, Arrival Time: 21:36",
+    "breakfast": "Cafe Gratitude, Kansas City",
+    "lunch": "Cascone's Italian Restaurant, Kansas City",
+    "dinner": "-",
+    "attraction": "Crown Center, Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room 15 at Waypoint Manor, stay from 08:00 to 08:30, nearest transit: ON 12TH AT AGNES WESTBOUND, 215.04m away; Cafe Gratitude, visit from 09:00 to 09:40, nearest transit: ON SW BLVD AT CENTRAL WESTBOUND, 164.17m away; Crown Center, visit from 10:10 to 12:10, nearest transit: ON GRAND AT 26TH SOUTHBOUND, 215.60m away; Cascone's Italian Restaurant, visit from 13:40 to 14:20, nearest transit: ON N OAK AT INDIANOLA NORTHBOUND, 34.84m away"
+  }
+]

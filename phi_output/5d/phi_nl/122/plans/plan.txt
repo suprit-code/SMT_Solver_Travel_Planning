@@ -1,0 +1,6 @@
+Destination cities: ['Pasco', 'Seattle'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['taxi, from Helena to Pasco, duration: 476.27166666666665, distance: 716.4114000000001, cost: 716', 'Flight Number: F1175476, from Pasco to Seattle, Departure Time: 16:13, Arrival Time: 17:17', 'Flight Number: F3859317, from Seattle to Helena, Departure Time: 12:28, Arrival Time: 15:08'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Plaza Gourmet, Pasco', 'Roasters Coffee, Pasco', 'Love Curry Indian Cuisine, Pasco', "Viera's Bakery, Pasco", 'Red Bento Teriyaki and Pho, Pasco', "Pasco's Italian @ Waffle 21, Pasco", 'Noi Thai Cuisine, Seattle', 'Chan Seattle, Seattle', 'Il Terrazzo Carmine, Seattle', 'Dough Zone Dumpling House - Seattle International District, Seattle', 'Lola, Seattle', '-'],
+Attractions (1 per day): ['-', 'AXE KPR Axe Throwing, Pasco', 'Chihuly Garden and Glass, Seattle', 'Klondike Gold Rush National Historical Park, Seattle', '-'],
+Accommodations (1 per city): ['Cute Private Bedroom with Shared Bathroom 🛏, Pasco', 'Room#2 Seattle Spruce Street BnB, Seattle']

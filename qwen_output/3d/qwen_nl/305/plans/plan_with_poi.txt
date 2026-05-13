@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Francisco",
+    "transportation": "Flight Number: F1484425, from Miami to San Francisco, Departure Time: 08:49, Arrival Time: 11:47",
+    "breakfast": "-",
+    "lunch": "Z & Y Restaurant, San Francisco",
+    "dinner": "Morton's The Steakhouse, San Francisco",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "Recent Remodeled Beautiful Unit, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Recent Remodeled Beautiful Unit, stay from 12:17 to 13:00, nearest transit: Civic Center BART (9th and Market), 7143.16m away; Z & Y Restaurant, San Francisco, visit from 13:30 to 14:30, ; Alcatraz Island, San Francisco, visit from 15:00 to 18:30, ; Morton's The Steakhouse, San Francisco, visit from 19:00 to 22:57, ; Recent Remodeled Beautiful Unit, stay from 23:27 to 07:27, nearest transit: Civic Center BART (9th and Market), 7143.16m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Waterbar, San Francisco",
+    "lunch": "Fog Harbor Fish House, San Francisco",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "Recent Remodeled Beautiful Unit, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Recent Remodeled Beautiful Unit, stay from 07:57 to 08:27, nearest transit: Civic Center BART (9th and Market), 7143.16m away; Waterbar, San Francisco, visit from 08:57 to 09:59, ; Fog Harbor Fish House, San Francisco, visit from 14:00 to 15:00, ; Pier 39, San Francisco, visit from 15:30 to 19:00, ; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 19:30 to 20:45, ; Recent Remodeled Beautiful Unit, stay from 21:15 to 08:00, nearest transit: Civic Center BART (9th and Market), 7143.16m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Miami",
+    "transportation": "Flight Number: F1484458, from San Francisco to Miami, Departure Time: 12:53, Arrival Time: 21:41",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Recent Remodeled Beautiful Unit, stay from 08:30 to 09:00, nearest transit: Civic Center BART (9th and Market), 7143.16m away; Quince, San Francisco, visit from 09:30 to 10:20, "
+  }
+]

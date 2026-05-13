@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to San Diego",
+    "transportation": "Flight Number: F3171350, from Las Vegas to San Diego, Departure Time: 16:33, Arrival Time: 17:37",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Buon Appetito, San Diego",
+    "attraction": "-",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 18:07 to 20:15, nearest transit: Imperial Av & 54th St, 396.9m away; Buon Appetito, San Diego, visit from 20:45 to 23:10, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 23:40 to 07:40, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "World Famous, San Diego",
+    "lunch": "Las Hadas Grill, San Diego",
+    "dinner": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 08:10 to 08:40, nearest transit: Imperial Av & 54th St, 396.9m away; World Famous, San Diego, visit from 09:10 to 10:00, ; Birch Aquarium at Scripps, San Diego, visit from 10:30 to 14:00, ; Las Hadas Grill, San Diego, visit from 14:30 to 16:44, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 20:45 to 22:59, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 23:29 to 07:29, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F1613480, from San Diego to Sacramento, Departure Time: 17:23, Arrival Time: 18:50",
+    "breakfast": "-",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Yue Huang Restaurant, Sacramento",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 08:30 to 09:00, nearest transit: Imperial Av & 54th St, 396.9m away; San Diego Zoo, San Diego, visit from 10:30 to 14:00, ; Mimmo's, San Diego, visit from 14:30 to 16:44, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 19:20 to 20:15, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Yue Huang Restaurant, Sacramento, visit from 20:45 to 22:45, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 23:15 to 07:15, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "Paragary's, Sacramento",
+    "dinner": "Chicago Fire, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 07:45 to 08:15, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Paesano's Pizzeria, Sacramento, visit from 08:45 to 09:35, ; Paragary's, Sacramento, visit from 13:36 to 14:36, ; California State Capitol Museum, Sacramento, visit from 15:06 to 18:36, ; Chicago Fire, Sacramento, visit from 19:06 to 20:21, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 20:51 to 04:51, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Las Vegas",
+    "transportation": "Flight Number: F2701446, from Sacramento to Las Vegas, Departure Time: 20:24, Arrival Time: 21:42",
+    "breakfast": "Zocalo, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Zocalo, Sacramento, visit from 08:00 to 08:50, ; Capitol Park, Sacramento, visit from 09:20 to 12:50, ; Nopalitos, Sacramento, visit from 13:20 to 19:54, "
+  }
+]

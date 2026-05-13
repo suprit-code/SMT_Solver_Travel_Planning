@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Tampa",
+    "transportation": "Self-driving, from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost: 52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Hostal LA Rosa, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 20:33 to 20:53, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Hostal LA Rosa, stay from 21:18 to 08:00, nearest transit: Busch Gardens Employee Entrance, 10624.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Columbia Cafe - Riverwalk Tampa, Tampa",
+    "lunch": "Curry Leaves Indian Cuisine, Tampa",
+    "dinner": "Daily Eats, Tampa",
+    "attraction": "Bayshore Boulevard, Tampa",
+    "accommodation": "Hostal LA Rosa, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 08:00 to 08:30, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Columbia Cafe - Riverwalk Tampa, visit from 08:55 to 09:35, nearest transit: Busch Gardens Employee Entrance, 11603.89m away; Bayshore Boulevard, visit from 10:00 to 12:00, nearest transit: Busch Gardens Employee Entrance, 18514.22m away; Curry Leaves Indian Cuisine, visit from 13:35 to 14:15, nearest transit: Busch Gardens Employee Entrance, 15004.90m away; Daily Eats, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 13493.33m away; Hostal LA Rosa, stay from 20:05 to 08:00, nearest transit: Busch Gardens Employee Entrance, 10624.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Raleigh",
+    "transportation": "Self-driving, from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost: 51",
+    "breakfast": "Columbia Restaurant, Tampa",
+    "lunch": "Bella's Italian Cafe, Tampa",
+    "dinner": "La Terrazza Restaurant, Tampa",
+    "attraction": "ZooTampa At Lowry Park, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 08:00 to 08:30, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Columbia Restaurant, visit from 08:55 to 09:35, nearest transit: Busch Gardens Employee Entrance, 9370.50m away; ZooTampa At Lowry Park, visit from 10:00 to 12:00, nearest transit: Busch Gardens Employee Entrance, 5842.47m away; Bella's Italian Cafe, visit from 13:35 to 14:15, nearest transit: Busch Gardens Employee Entrance, 14152.26m away; La Terrazza Restaurant, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 9415.25m away"
+  }
+]

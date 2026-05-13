@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Madison to New York",
+    "transportation": "Flight Number: F2789426, from Madison to New York, Departure Time: 10:16, Arrival Time: 13:31",
+    "breakfast": "-",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "Westway Diner, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 13:56 to 14:16, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Times Square Diner, visit from 14:41 to 15:21, nearest transit: W 49 ST/8 AV, 51.46m away; New York Public Library, visit from 15:46 to 17:46, nearest transit: 5 AV/W 42 ST, 34.90m away; Westway Diner, visit from 19:21 to 20:01, nearest transit: 9 AV/W 44 ST, 44.32m away; Church view bedroom in Harlem brownstone, stay from 20:26 to 08:00, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Mari Vanna, New York",
+    "dinner": "Sarge\u2019s Delicatessen & Diner, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 08:00 to 08:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Peak Restaurant & Bar, visit from 08:55 to 09:35, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; The High Line, visit from 10:00 to 12:00, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Mari Vanna, visit from 13:35 to 14:15, nearest transit: PARK AV SOUTH/E 21 ST, 124.75m away; Sarge\u2019s Delicatessen & Diner, visit from 19:00 to 19:40, nearest transit: 3 AV/E 37 ST, 101.41m away; Church view bedroom in Harlem brownstone, stay from 20:05 to 08:00, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Madison",
+    "transportation": "taxi, from New York to Madison, duration: 1065.7733333333333, distance: 1519.9384, cost: 1519",
+    "breakfast": "The Skylark - Rooftop Bar, New York",
+    "lunch": "Lillie's Victorian Establishment, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 08:00 to 08:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; The Skylark - Rooftop Bar, visit from 08:55 to 09:35, nearest transit: 7 AV/W 37 ST, 188.15m away; The National 9/11 Memorial & Museum, visit from 10:00 to 12:00, nearest transit: CHURCH ST/LIBERTY ST, 234.55m away; Lillie's Victorian Establishment, visit from 13:35 to 14:15, nearest transit: 8 AV/W 49 ST, 40.41m away; Del Frisco's Grille, visit from 19:00 to 19:40, nearest transit: 5 AV/W 50 ST, 139.24m away"
+  }
+]

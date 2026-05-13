@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to San Diego",
+    "transportation": "Flight Number: F3171350, from Las Vegas to San Diego, Departure Time: 16:33, Arrival Time: 17:37",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "-",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 18:07 to 18:37, nearest transit: Imperial Av & 54th St, 396.9m away; Morning Glory, San Diego, visit from 20:45 to 22:39, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 23:09 to 07:09, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 07:39 to 08:09, nearest transit: Imperial Av & 54th St, 396.9m away; Filippi's Pizza Grotto Little Italy, San Diego, visit from 08:39 to 10:00, ; Cabrillo National Monument, San Diego, visit from 10:30 to 14:00, ; Pacific Beach AleHouse, San Diego, visit from 14:30 to 15:44, ; Mimmo's, San Diego, visit from 19:45 to 21:00, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 21:30 to 05:30, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F1613480, from San Diego to Sacramento, Departure Time: 17:23, Arrival Time: 18:50",
+    "breakfast": "Vessel Restaurant + Bar, San Diego",
+    "lunch": "-",
+    "dinner": "Mikuni Japanese Restaurant & Sushi Bar, Sacramento",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 06:00 to 09:00, nearest transit: Imperial Av & 54th St, 396.9m away; Vessel Restaurant + Bar, San Diego, visit from 09:30 to 10:20, ; Birch Aquarium at Scripps, San Diego, visit from 13:23 to 16:53, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 19:20 to 19:50, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Mikuni Japanese Restaurant & Sushi Bar, Sacramento, visit from 20:20 to 21:35, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 22:05 to 06:05, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "Revival, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 06:35 to 07:05, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Paesano's Pizzeria, Sacramento, visit from 08:29 to 09:19, ; Capitol Park, Sacramento, visit from 09:59 to 13:29, ; Nopalitos, Sacramento, visit from 13:59 to 14:59, ; Revival, Sacramento, visit from 19:00 to 20:15, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 20:45 to 04:45, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Las Vegas",
+    "transportation": "Flight Number: F2701446, from Sacramento to Las Vegas, Departure Time: 20:24, Arrival Time: 21:42",
+    "breakfast": "Paragary's, Sacramento",
+    "lunch": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Paragary's, Sacramento, visit from 09:09 to 09:59, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 14:00 to 15:00, ; California State Capitol Museum, Sacramento, visit from 15:30 to 19:00, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Houston",
+    "transportation": "Flight Number: F2460534, from Memphis to Houston, Departure Time: 11:57, Arrival Time: 13:25",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "EaDo Room | Private Entrance | Walk 2 Astros Games, Houston",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 13:55 to 14:30, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Downtown Aquarium, Houston, visit from 15:00 to 18:30, ; Kenny & Ziggy's New York Deli, Houston, visit from 19:00 to 20:15, ; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 20:45 to 04:45, nearest transit: Navigation Blvd @ Canal St, 329.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston's Restaurant & Pub, Houston",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "Phoenicia Specialty Foods, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "EaDo Room | Private Entrance | Walk 2 Astros Games, Houston",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 06:00 to 06:30, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Houston's Restaurant & Pub, Houston, visit from 08:30 to 09:29, ; Hermann Park, Houston, visit from 09:59 to 13:29, ; Market on Houston, Houston, visit from 13:59 to 14:59, ; Phoenicia Specialty Foods, Houston, visit from 19:00 to 20:15, ; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 20:45 to 04:45, nearest transit: Navigation Blvd @ Canal St, 329.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Memphis",
+    "transportation": "Flight Number: F1785883, from Houston to Memphis, Departure Time: 16:37, Arrival Time: 18:16",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Houstons Bar and Grill, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 06:00 to 06:30, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Hugo's, Houston, visit from 08:00 to 08:50, ; Houston Zoo, Houston, visit from 09:20 to 12:50, ; Houstons Bar and Grill, Houston, visit from 13:20 to 14:20, "
+  }
+]

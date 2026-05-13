@@ -1,0 +1,4 @@
+
+            for restaurant_index, restaurant in enumerate(restaurants):
+                assert restaurant['cuisine'] == 'Chinese' or restaurant['cuisine'] == 'American', f"Restaurant at index {restaurant_index} does not have Chinese or American cuisine"
+            

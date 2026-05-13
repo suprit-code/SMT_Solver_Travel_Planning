@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Madison",
+    "transportation": "Flight Number: F1858768, from Chicago to Madison, Departure Time: 10:55, Arrival Time: 11:40",
+    "breakfast": "-",
+    "lunch": "Town 220 Restaurant, Madison",
+    "dinner": "Avra Madison Estiatorio, Madison",
+    "attraction": "Olbrich Botanical Gardens, Madison",
+    "accommodation": "Walk/Bike to Badger games, Monroe Street and more!, Madison",
+    "event": "-",
+    "point_of_interest_list": "Walk/Bike to Badger games, Monroe Street and more!, stay from 12:10 to 12:40, nearest transit: Godfrey Walmart, 458381.51m away; Town 220 Restaurant, Madison, visit from 13:30 to 14:30, ; Olbrich Botanical Gardens, Madison, visit from 15:00 to 18:30, ; Avra Madison Estiatorio, Madison, visit from 19:00 to 20:15, ; Walk/Bike to Badger games, Monroe Street and more!, stay from 23:40 to 07:40, nearest transit: Godfrey Walmart, 458381.51m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Madison",
+    "transportation": "-",
+    "breakfast": "Madison & Vine, Madison",
+    "lunch": "Madison's Cafe, Madison",
+    "dinner": "Sant Ambroeus Madison, Madison",
+    "attraction": "Wisconsin State Capitol, Madison",
+    "accommodation": "Walk/Bike to Badger games, Monroe Street and more!, Madison",
+    "event": "-",
+    "point_of_interest_list": "Walk/Bike to Badger games, Monroe Street and more!, stay from 08:10 to 08:40, nearest transit: Godfrey Walmart, 458381.51m away; Madison & Vine, Madison, visit from 09:10 to 10:00, ; Wisconsin State Capitol, Madison, visit from 10:30 to 14:00, ; Madison's Cafe, Madison, visit from 14:30 to 15:30, ; Sant Ambroeus Madison, Madison, visit from 19:31 to 20:46, ; Walk/Bike to Badger games, Monroe Street and more!, stay from 23:09 to 07:09, nearest transit: Godfrey Walmart, 458381.51m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Madison to Chicago",
+    "transportation": "Taxi from Madison to Chicago, duration: 171.81, distance: 237.1483, cost : 237.0",
+    "breakfast": "The Madison, Madison",
+    "lunch": "Madison Avenue Cafe and Deli, Madison",
+    "dinner": "Madison Crossing Lounge, Madison",
+    "attraction": "Henry Vilas Zoo, Madison",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Walk/Bike to Badger games, Monroe Street and more!, stay from 07:39 to 08:09, nearest transit: Godfrey Walmart, 458381.51m away; The Madison, Madison, visit from 08:39 to 09:29, ; Madison Avenue Cafe and Deli, Madison, visit from 13:30 to 14:30, ; Henry Vilas Zoo, Madison, visit from 15:00 to 18:30, ; Madison Crossing Lounge, Madison, visit from 19:00 to 20:15, "
+  }
+]

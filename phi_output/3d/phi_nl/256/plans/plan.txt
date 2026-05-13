@@ -1,0 +1,6 @@
+Destination cities: ['Colorado Springs'],
+Transportation dates: ['2024-11-17', '2024-11-19'],
+Transportation methods between cities: ['Flight Number: F0092583, from Las Vegas to Colorado Springs, Departure Time: 09:41, Arrival Time: 12:27', 'Flight Number: F3565531, from Colorado Springs to Las Vegas, Departure Time: 19:14, Arrival Time: 20:08'],
+Restaurants (3 meals per day): ['-', 'Carlos Bistro, Colorado Springs', 'Cowboy Star, Colorado Springs', "Shuga's Restaurant, Colorado Springs", 'Restaurant 1858, Colorado Springs', 'Summit at The Broadmoor, Colorado Springs', 'The Famous Steak House, Colorado Springs', 'Prime 25, Colorado Springs', 'The Melting Pot, Colorado Springs'],
+Attractions (1 per day): ['Garden of the Gods, Colorado Springs', 'Seven Falls, Colorado Springs', 'United States Air Force Academy, Colorado Springs'],
+Accommodations (1 per city): ['The Master Suite at the Fisher House, Colorado Springs']

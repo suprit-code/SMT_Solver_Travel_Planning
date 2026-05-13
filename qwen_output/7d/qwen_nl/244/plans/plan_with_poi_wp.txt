@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Victoria to Amarillo",
+    "transportation": "Taxi from Victoria to Amarillo, duration: 663.5933333333334, distance: 1000.8854, cost : 1000.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 19:45 to 20:15, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Golden Light Cafe & Cantina, Amarillo, visit from 20:45 to 22:04, ; Relaxing Place to Stay with Guest Living Room!, stay from 22:34 to 06:34, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "lunch": "Metropolitan, Amarillo",
+    "dinner": "Texas Roadhouse, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 07:04 to 07:34, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 08:04 to 09:59, ; Metropolitan, Amarillo, visit from 14:00 to 15:00, ; Route 66 Historic District, Amarillo, visit from 15:30 to 19:15, ; Texas Roadhouse, Amarillo, visit from 19:45 to 21:00, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:30 to 05:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Joe Taco, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Amazing Sunset View from Private Balcony on Water, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 06:00 to 06:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Joe Taco, Amarillo, visit from 08:00 to 08:50, ; Amazing Sunset View from Private Balcony on Water, stay from 21:10 to 22:03, nearest transit: 1086-Whitecap, 1530.28m away; Amazing Sunset View from Private Balcony on Water, stay from 22:33 to 06:33, nearest transit: 1086-Whitecap, 1530.28m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Island Time Sushi Bar & Seafood Grill, Corpus Christi",
+    "lunch": "DAO Authentic Asian Cuisine, Corpus Christi",
+    "dinner": "Executive Surf Club, Corpus Christi",
+    "attraction": "-",
+    "accommodation": "Amazing Sunset View from Private Balcony on Water, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Amazing Sunset View from Private Balcony on Water, stay from 07:03 to 07:33, nearest transit: 1086-Whitecap, 1530.28m away; Island Time Sushi Bar & Seafood Grill, Corpus Christi, visit from 08:03 to 08:53, ; DAO Authentic Asian Cuisine, Corpus Christi, visit from 12:54 to 13:54, ; Executive Surf Club, Corpus Christi, visit from 19:00 to 21:00, ; Amazing Sunset View from Private Balcony on Water, stay from 21:30 to 05:30, nearest transit: 1086-Whitecap, 1530.28m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F1867580, from Corpus Christi to Houston, Departure Time: 16:39, Arrival Time: 17:44",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "-",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Amazing Sunset View from Private Balcony on Water, stay from 06:00 to 09:00, nearest transit: 1086-Whitecap, 1530.28m away; Modern Houston Heights Getaway, stay from 18:14 to 18:44, nearest transit: Yale St @ Thornton Rd, 203.09m away; Pappas Bros. Steakhouse, Houston, visit from 19:14 to 21:00, ; Modern Houston Heights Getaway, stay from 21:30 to 05:30, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "The Breakfast Klub, Houston",
+    "dinner": "Taste of Texas, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 06:00 to 06:30, nearest transit: Yale St @ Thornton Rd, 203.09m away; Brennan's of Houston, Houston, visit from 08:17 to 10:00, ; Cockrell Butterfly Center, Houston, visit from 10:30 to 14:00, ; The Breakfast Klub, Houston, visit from 14:30 to 16:44, ; Taste of Texas, Houston, visit from 20:45 to 22:02, ; Modern Houston Heights Getaway, stay from 22:32 to 06:32, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Victoria",
+    "transportation": "Flight Number: F2351364, from Houston to Victoria, Departure Time: 18:23, Arrival Time: 19:11",
+    "breakfast": "Goode Company BBQ, Houston",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "-",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 07:02 to 07:32, nearest transit: Yale St @ Thornton Rd, 203.09m away; Goode Company BBQ, Houston, visit from 08:02 to 08:52, ; Eddie V's Prime Seafood, Houston, visit from 12:53 to 13:53, ; Hermann Park, Houston, visit from 14:23 to 17:53, "
+  }
+]

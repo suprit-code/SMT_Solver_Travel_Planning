@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Greensboro",
+    "transportation": "Taxi from Washington to Greensboro, duration: 357.2, distance: 497.6169, cost : 497.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Aqua Oasis - Central & Stylish - 3 BR / 3 BA, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Aqua Oasis - Central & Stylish - 3 BR / 3 BA, stay from 14:30 to 15:00, nearest transit: Battleground@McDonalds, 203.13m away; Aqua Oasis - Central & Stylish - 3 BR / 3 BA, stay from 22:39 to 06:39, nearest transit: Battleground@McDonalds, 203.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Stamey's Barbecue, Greensboro",
+    "lunch": "Mimi's Cafe, Greensboro",
+    "dinner": "Golden Wok, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Aqua Oasis - Central & Stylish - 3 BR / 3 BA, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Aqua Oasis - Central & Stylish - 3 BR / 3 BA, stay from 07:09 to 07:39, nearest transit: Battleground@McDonalds, 203.13m away; Stamey's Barbecue, Greensboro, visit from 08:09 to 08:59, ; International Civil Rights Center & Museum, Greensboro, visit from 09:29 to 13:29, ; Mimi's Cafe, Greensboro, visit from 13:59 to 14:59, ; Golden Wok, Greensboro, visit from 19:00 to 20:15, ; Aqua Oasis - Central & Stylish - 3 BR / 3 BA, stay from 20:53 to 04:53, nearest transit: Battleground@McDonalds, 203.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Washington",
+    "transportation": "Flight Number: F2621180, from Greensboro to Washington, Departure Time: 06:23, Arrival Time: 07:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Aqua Oasis - Central & Stylish - 3 BR / 3 BA, stay from 05:23 to 05:53, nearest transit: Battleground@McDonalds, 203.13m away"
+  }
+]

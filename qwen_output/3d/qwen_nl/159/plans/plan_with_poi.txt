@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F1200564, from Denver to San Diego, Departure Time: 20:53, Arrival Time: 22:25",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 22:55 to 23:25, nearest transit: Ulric St & Tait St, 283.34m away; No contact with host, separate, and close to town!, stay from 23:55 to 08:00, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "-",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 08:30 to 09:00, nearest transit: Ulric St & Tait St, 283.34m away; Din Tai Fung, San Diego, visit from 09:39 to 10:29, ; Pacific Beach AleHouse, San Diego, visit from 14:30 to 15:44, ; Morning Glory, San Diego, visit from 19:45 to 21:00, ; No contact with host, separate, and close to town!, stay from 21:30 to 05:30, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Denver",
+    "transportation": "Flight Number: F3872836, from San Diego to Denver, Departure Time: 18:23, Arrival Time: 21:19",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "Covewood Restaurant, San Diego",
+    "dinner": "-",
+    "attraction": "Balboa Park, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 06:00 to 07:32, nearest transit: Ulric St & Tait St, 283.34m away; Ruth's Chris Steak House, San Diego, visit from 08:02 to 08:52, ; Covewood Restaurant, San Diego, visit from 12:53 to 13:53, ; Balboa Park, San Diego, visit from 14:23 to 17:53, "
+  }
+]

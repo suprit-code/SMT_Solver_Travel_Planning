@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to Charleston",
+    "transportation": "Flight Number: F0051870, from Nashville to Charleston, Departure Time: 10:05, Arrival Time: 12:20",
+    "breakfast": "-",
+    "lunch": "Oak Steakhouse, Charleston",
+    "dinner": "Poogan's Porch, Charleston",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "Waterfront Home Near Downtown!, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Waterfront Home Near Downtown!, stay from 12:50 to 13:20, nearest transit: Folly Rd / Patterson Ave, 2495.09m away; Oak Steakhouse, Charleston, visit from 13:50 to 14:50, ; Magnolia Plantation & Gardens, Charleston, visit from 15:20 to 18:50, ; Poogan's Porch, Charleston, visit from 19:20 to 20:35, ; Waterfront Home Near Downtown!, stay from 22:42 to 06:42, nearest transit: Folly Rd / Patterson Ave, 2495.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "The Ordinary, Charleston",
+    "lunch": "Stella's, Charleston",
+    "dinner": "Stars Restaurant-Rooftop & Grill Room, Charleston",
+    "attraction": "Middleton Place, Charleston",
+    "accommodation": "Waterfront Home Near Downtown!, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Waterfront Home Near Downtown!, stay from 07:12 to 07:42, nearest transit: Folly Rd / Patterson Ave, 2495.09m away; The Ordinary, Charleston, visit from 08:12 to 09:59, ; Stella's, Charleston, visit from 14:00 to 15:00, ; Middleton Place, Charleston, visit from 15:30 to 19:15, ; Stars Restaurant-Rooftop & Grill Room, Charleston, visit from 19:45 to 21:00, ; Waterfront Home Near Downtown!, stay from 21:30 to 05:30, nearest transit: Folly Rd / Patterson Ave, 2495.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Nashville",
+    "transportation": "Flight Number: F4008990, from Charleston to Nashville, Departure Time: 21:09, Arrival Time: 21:35",
+    "breakfast": "-",
+    "lunch": "Husk Restaurant, Charleston",
+    "dinner": "Amen Street Fish & Raw Bar, Charleston",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Waterfront Home Near Downtown!, stay from 06:00 to 06:30, nearest transit: Folly Rd / Patterson Ave, 2495.09m away; Charleston Waterfront Park, Charleston, visit from 10:23 to 13:53, ; Husk Restaurant, Charleston, visit from 14:23 to 15:23, ; Amen Street Fish & Raw Bar, Charleston, visit from 19:24 to 20:39, "
+  }
+]

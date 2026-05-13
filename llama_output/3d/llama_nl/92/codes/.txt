@@ -1,0 +1,38 @@
+
+    # Run TaxiSearch to get taxi info for Sioux Falls as origin and city_0
+    taxi_search_result = TaxiSearch(origin="Sioux Falls", destination="city_0")
+    
+    # Get specific taxi price info with Sioux Falls as origin and final destination, specific city, and departure date for 2 transportations
+    taxi_price_info = taxi_search_result.get_taxi_price_info(origin="Sioux Falls", destination="city_0", city="specific city", departure_date="2024-07-26")
+    
+    # Set 'taxi_index' variable for 2 transportations
+    taxi_index = []
+    for i in range(2):
+        taxi_index.append(taxi_price_info[i]['taxi_index'])
+    
+    # Assert 2 'taxi_index' variables are within valid range if taking taxi, assert taxi index to be -1 if not taking taxi
+    for i in range(2):
+        if taxi_index[i]!= -1:
+            assert 0 <= taxi_index[i] <= len(taxi_price_info) - 1, "Taxi index is out of range"
+        else:
+            assert taxi_index[i] == -1, "Taxi index should be -1 if not taking taxi"
+    
+    # Calculate taxi price for 2 people for 2 transportations based on taxi index variable
+    taxi_price = []
+    for i in range(2):
+        if taxi_index[i]!= -1:
+            taxi_price.append(taxi_price_info[taxi_index[i]]['price'] * 2)
+        else:
+            taxi_price.append(0)
+    
+    # Get specific taxi arrival time info with Sioux Falls as origin and final destination, specific city, and departure date for 2 transportations
+    taxi_arrival_time_info = taxi_search_result.get_taxi_arrival_time_info(origin="Sioux Falls", destination="city_0", city="specific city", departure_date="2024-07-26")
+    
+    # Calculate taxi arrival time for 2 transportations based on taxi index variable
+    taxi_arrival_time = []
+    for i in range(2):
+        if taxi_index[i]!= -1:
+            taxi_arrival_time.append(taxi_arrival_time_info[taxi_index[i]]['arrival_time'])
+        else:
+            taxi_arrival_time.append(None)
+    

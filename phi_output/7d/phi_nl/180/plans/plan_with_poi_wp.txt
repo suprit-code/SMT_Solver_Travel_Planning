@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Reno to San Diego",
+    "transportation": "Flight Number: F0007929, from Reno to San Diego, Departure Time: 06:17, Arrival Time: 07:48",
+    "breakfast": "Cowboy Star, San Diego",
+    "lunch": "Ruth's Chris Steak House, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "-",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 08:18 to 08:48, nearest transit: Adams Av & Hawley Bl, 292.57m away; Cowboy Star, San Diego, visit from 09:18 to 10:08, ; Ruth's Chris Steak House, San Diego, visit from 14:09 to 16:44, ; Din Tai Fung, San Diego, visit from 20:45 to 22:01, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 22:31 to 06:31, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Barbusa, San Diego",
+    "lunch": "Buon Appetito, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "Torrey Pines State Natural Reserve, San Diego",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 07:01 to 07:31, nearest transit: Adams Av & Hawley Bl, 292.57m away; Barbusa, San Diego, visit from 08:01 to 09:55, ; Torrey Pines State Natural Reserve, San Diego, visit from 10:25 to 13:55, ; Buon Appetito, San Diego, visit from 14:25 to 15:25, ; Born & Raised, San Diego, visit from 19:26 to 20:41, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 21:11 to 05:11, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Trendy's, Redding",
+    "attraction": "-",
+    "accommodation": "Room& bath w/ private entrance; Great location, Redding",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 06:00 to 06:31, nearest transit: Adams Av & Hawley Bl, 292.57m away; Room& bath w/ private entrance; Great location, stay from 19:45 to 20:15, nearest transit: Eureka Way at Sunset Dr, 139.8m away; Trendy's, Redding, visit from 20:45 to 22:00, ; Room& bath w/ private entrance; Great location, stay from 22:30 to 06:30, nearest transit: Eureka Way at Sunset Dr, 139.8m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "View 202, Redding",
+    "lunch": "New China, Redding",
+    "dinner": "Champa Garden, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Room& bath w/ private entrance; Great location, Redding",
+    "event": "-",
+    "point_of_interest_list": "Room& bath w/ private entrance; Great location, stay from 07:00 to 07:30, nearest transit: Eureka Way at Sunset Dr, 139.8m away; View 202, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; New China, Redding, visit from 14:30 to 16:44, ; Champa Garden, Redding, visit from 20:45 to 23:10, ; Room& bath w/ private entrance; Great location, stay from 23:40 to 07:40, nearest transit: Eureka Way at Sunset Dr, 139.8m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Taxi from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 259.0",
+    "breakfast": "Logan's Roadhouse, Redding",
+    "lunch": "Jack's Grill, Redding",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "Life Along River - Private Bed 'N Bath MB Suite, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Room& bath w/ private entrance; Great location, stay from 08:10 to 08:40, nearest transit: Eureka Way at Sunset Dr, 139.8m away; Logan's Roadhouse, Redding, visit from 09:10 to 10:00, ; Sundial Bridge, Redding, visit from 10:30 to 14:00, ; Jack's Grill, Redding, visit from 14:30 to 15:30, ; Life Along River - Private Bed 'N Bath MB Suite, stay from 19:26 to 19:56, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; Paesano's Pizzeria, Sacramento, visit from 20:26 to 21:41, ; Life Along River - Private Bed 'N Bath MB Suite, stay from 22:11 to 06:11, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "The Waterboy, Sacramento",
+    "lunch": "The Firehouse Restaurant, Sacramento",
+    "dinner": "Tower Cafe, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Life Along River - Private Bed 'N Bath MB Suite, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Life Along River - Private Bed 'N Bath MB Suite, stay from 06:41 to 07:11, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; The Waterboy, Sacramento, visit from 08:00 to 08:50, ; The Firehouse Restaurant, Sacramento, visit from 12:51 to 13:51, ; California State Capitol Museum, Sacramento, visit from 14:21 to 17:51, ; Tower Cafe, Sacramento, visit from 19:00 to 20:15, ; Life Along River - Private Bed 'N Bath MB Suite, stay from 20:45 to 04:45, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Reno",
+    "transportation": "Taxi from Sacramento to Reno, duration: 155.59166666666667, distance: 212.9319, cost : 212.0",
+    "breakfast": "Localis, Sacramento",
+    "lunch": "-",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Life Along River - Private Bed 'N Bath MB Suite, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; Localis, Sacramento, visit from 08:00 to 08:50, ; Capitol Park, Sacramento, visit from 09:20 to 12:50, ; Nopalitos, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

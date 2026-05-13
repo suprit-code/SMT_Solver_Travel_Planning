@@ -1,0 +1,6 @@
+Destination cities: ['Nashville'],
+Transportation dates: ['2024-11-22', '2024-11-24'],
+Transportation methods between cities: ['Flight Number: F3202893, from Tampa to Nashville, Departure Time: 09:30, Arrival Time: 10:23', 'taxi, from Nashville to Tampa, duration: 771.62, distance: 1128.6763, cost: 1128'],
+Restaurants (3 meals per day): ['-', 'The Bluebird Cafe, Nashville', 'Honky Tonk – The Twelve Thirty Club, Nashville', 'Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville', 'Aquarium Restaurant, Nashville', "Jeff Ruby's Steakhouse, Nashville, Nashville", 'Deacon’s New South, Nashville', 'Kayne Prime, Nashville', 'The Southern Steak & Oyster, Nashville'],
+Attractions (1 per day): ['Centennial Park, Nashville', 'Country Music Hall of Fame and Museum, Nashville', 'Belmont Mansion, Nashville'],
+Accommodations (1 per city): ['Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville']

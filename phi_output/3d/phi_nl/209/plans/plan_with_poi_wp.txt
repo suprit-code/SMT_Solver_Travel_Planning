@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F2402167, from Everett to San Diego, Departure Time: 14:29, Arrival Time: 17:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Vessel Restaurant + Bar, San Diego",
+    "attraction": "-",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 17:45 to 20:15, nearest transit: Imperial Av & 54th St, 396.9m away; Vessel Restaurant + Bar, San Diego, visit from 20:45 to 22:26, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 22:56 to 06:56, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Las Hadas Grill, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 07:26 to 07:56, nearest transit: Imperial Av & 54th St, 396.9m away; Din Tai Fung, San Diego, visit from 08:26 to 09:16, ; Las Hadas Grill, San Diego, visit from 13:17 to 14:17, ; Birch Aquarium at Scripps, San Diego, visit from 14:47 to 20:15, ; Morning Glory, San Diego, visit from 20:45 to 22:00, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 22:30 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Everett",
+    "transportation": "Flight Number: F2402765, from San Diego to Everett, Departure Time: 18:23, Arrival Time: 21:20",
+    "breakfast": "-",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 07:00 to 07:30, nearest transit: Imperial Av & 54th St, 396.9m away; San Diego Zoo, San Diego, visit from 09:00 to 12:30, ; Mimmo's, San Diego, visit from 13:00 to 14:00, "
+  }
+]

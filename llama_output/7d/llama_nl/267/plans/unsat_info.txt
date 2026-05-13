@@ -1,0 +1,4 @@
+not ok
+Unsatisfiable core:
+Sights & Landmarks type restaurant
+Sights & Landmarks type restaurant is visited

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Tampa",
+    "transportation": "Self-driving from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost : 52.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Olivia, Tampa",
+    "attraction": "-",
+    "accommodation": "No Fees! Introverts Paradise! Central Pinellas!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 18:38 to 19:08, nearest transit: U Mall to MSC, 35717.79m away; Olivia, Tampa, visit from 19:38 to 20:53, ; No Fees! Introverts Paradise! Central Pinellas!, stay from 21:23 to 05:23, nearest transit: U Mall to MSC, 35717.79m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Salt Shack On The Bay, Tampa",
+    "lunch": "Curry Leaves Indian Cuisine, Tampa",
+    "dinner": "Bern's Steak House, Tampa",
+    "attraction": "Raymond James Stadium, Tampa",
+    "accommodation": "No Fees! Introverts Paradise! Central Pinellas!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 06:00 to 06:30, nearest transit: U Mall to MSC, 35717.79m away; Salt Shack On The Bay, Tampa, visit from 08:03 to 08:53, ; Curry Leaves Indian Cuisine, Tampa, visit from 12:54 to 13:54, ; Raymond James Stadium, Tampa, visit from 14:24 to 17:54, ; Bern's Steak House, Tampa, visit from 19:00 to 20:15, ; No Fees! Introverts Paradise! Central Pinellas!, stay from 23:39 to 07:39, nearest transit: U Mall to MSC, 35717.79m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Raleigh",
+    "transportation": "Self-driving from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost : 51.0",
+    "breakfast": "Yummy House China Bistro, Tampa",
+    "lunch": "The Pearl Tampa, Tampa",
+    "dinner": "-",
+    "attraction": "Glazer Children's Museum, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 08:09 to 08:39, nearest transit: U Mall to MSC, 35717.79m away; Yummy House China Bistro, Tampa, visit from 09:09 to 09:59, ; The Pearl Tampa, Tampa, visit from 14:00 to 15:00, ; Glazer Children's Museum, Tampa, visit from 15:30 to 19:00, "
+  }
+]

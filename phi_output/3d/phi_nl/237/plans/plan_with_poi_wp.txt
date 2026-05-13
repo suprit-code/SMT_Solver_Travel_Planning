@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Francisco to Atlanta",
+    "transportation": "Flight Number: F0302873, from San Francisco to Atlanta, Departure Time: 00:26, Arrival Time: 07:11",
+    "breakfast": "The Optimist, Atlanta",
+    "lunch": "Home Grown, Atlanta",
+    "dinner": "Kevin Rathbun Steak, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Tiny House Urban Farm Stay in Heart of Atlanta, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Urban Farm Stay in Heart of Atlanta, stay from 07:41 to 08:11, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away; The Optimist, Atlanta, visit from 09:10 to 10:00, ; Georgia Aquarium, Atlanta, visit from 10:30 to 14:00, ; Home Grown, Atlanta, visit from 14:30 to 15:44, ; Kevin Rathbun Steak, Atlanta, visit from 19:45 to 21:00, ; Tiny House Urban Farm Stay in Heart of Atlanta, stay from 21:30 to 05:30, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "Bangkok Station, Atlanta",
+    "dinner": "St. Cecilia, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Tiny House Urban Farm Stay in Heart of Atlanta, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Urban Farm Stay in Heart of Atlanta, stay from 06:00 to 06:30, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away; Canoe, Atlanta, visit from 08:58 to 09:48, ; Zoo Atlanta, Atlanta, visit from 10:18 to 13:48, ; Bangkok Station, Atlanta, visit from 14:18 to 15:18, ; St. Cecilia, Atlanta, visit from 19:19 to 20:34, ; Tiny House Urban Farm Stay in Heart of Atlanta, stay from 23:40 to 07:40, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to San Francisco",
+    "transportation": "Flight Number: F2929783, from Atlanta to San Francisco, Departure Time: 21:17, Arrival Time: 23:41",
+    "breakfast": "Aria, Atlanta",
+    "lunch": "Trader Vic's, Atlanta",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Urban Farm Stay in Heart of Atlanta, stay from 08:10 to 08:40, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away; Aria, Atlanta, visit from 09:10 to 10:00, ; Atlanta History Center, Atlanta, visit from 10:30 to 14:00, ; Trader Vic's, Atlanta, visit from 14:30 to 15:30, ; Aviva by Kameel, Atlanta, visit from 19:31 to 20:46, "
+  }
+]

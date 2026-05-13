@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to San Diego",
+    "transportation": "Flight Number: F0556691, from Washington to San Diego, Departure Time: 08:51, Arrival Time: 11:11",
+    "breakfast": "-",
+    "lunch": "Morning Glory, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 11:41 to 12:11, nearest transit: Adams Av & Biona Dr, 102.11m away; Morning Glory, San Diego, visit from 12:41 to 13:41, ; SeaWorld, San Diego, visit from 14:11 to 20:15, ; Addison Restaurant, San Diego, visit from 20:45 to 22:03, ; Central & Serene Secret Garden Guesthouse, stay from 22:33 to 06:33, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Oceana Coastal Kitchen, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 07:03 to 07:33, nearest transit: Adams Av & Biona Dr, 102.11m away; Lou & Mickey's, San Diego, visit from 08:03 to 08:53, ; San Diego Zoo, San Diego, visit from 09:59 to 13:29, ; Born & Raised, San Diego, visit from 13:59 to 14:59, ; Oceana Coastal Kitchen, San Diego, visit from 19:00 to 20:15, ; Central & Serene Secret Garden Guesthouse, stay from 23:40 to 07:40, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F3381380, from San Diego to Sacramento, Departure Time: 17:51, Arrival Time: 19:32",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Large Comfy Cottage- Close to Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 08:10 to 08:40, nearest transit: Adams Av & Biona Dr, 102.11m away; Juniper and Ivy, San Diego, visit from 09:10 to 10:00, ; Cabrillo National Monument, San Diego, visit from 10:30 to 14:00, ; Mimmo's, San Diego, visit from 14:30 to 17:21, ; Large Comfy Cottage- Close to Downtown, stay from 20:02 to 20:32, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Large Comfy Cottage- Close to Downtown, stay from 21:02 to 06:39, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Pilothouse Restaurant on the Delta King, Sacramento",
+    "lunch": "Firestone Public House, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Large Comfy Cottage- Close to Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Large Comfy Cottage- Close to Downtown, stay from 07:09 to 07:39, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Pilothouse Restaurant on the Delta King, Sacramento, visit from 08:09 to 10:00, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; Firestone Public House, Sacramento, visit from 14:30 to 15:44, ; Nopalitos, Sacramento, visit from 19:45 to 21:00, ; Large Comfy Cottage- Close to Downtown, stay from 21:30 to 05:30, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Taxi from Sacramento to Los Angeles, duration: 423.9133333333333, distance: 617.7728000000001, cost : 617.0",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "Frank Fat's Restaurant, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Venice Studio – Steps from Boardwalk, Ocean View, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Large Comfy Cottage- Close to Downtown, stay from 06:00 to 07:30, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Paesano's Pizzeria, Sacramento, visit from 08:00 to 08:50, ; California State Capitol Museum, Sacramento, visit from 09:20 to 12:50, ; Frank Fat's Restaurant, Sacramento, visit from 13:20 to 14:20, ; Venice Studio – Steps from Boardwalk, Ocean View, stay from 22:23 to 22:53, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away; Venice Studio – Steps from Boardwalk, Ocean View, stay from 23:23 to 07:23, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "25 Degrees, Los Angeles",
+    "lunch": "Cafe Gratitude Venice, Los Angeles",
+    "dinner": "Spire 73, Los Angeles",
+    "attraction": "Hollywood Walk of Fame, Los Angeles",
+    "accommodation": "Venice Studio – Steps from Boardwalk, Ocean View, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Venice Studio – Steps from Boardwalk, Ocean View, stay from 07:53 to 08:23, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away; 25 Degrees, Los Angeles, visit from 09:10 to 10:00, ; Hollywood Walk of Fame, Los Angeles, visit from 10:30 to 14:00, ; Cafe Gratitude Venice, Los Angeles, visit from 14:30 to 16:44, ; Spire 73, Los Angeles, visit from 20:45 to 22:02, ; Venice Studio – Steps from Boardwalk, Ocean View, stay from 22:32 to 06:32, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Washington",
+    "transportation": "Flight Number: F0778050, from Los Angeles to Washington, Departure Time: 14:23, Arrival Time: 21:59",
+    "breakfast": "Raffaello Ristorante, Los Angeles",
+    "lunch": "Republique, Los Angeles",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Venice Studio – Steps from Boardwalk, Ocean View, stay from 07:02 to 07:32, nearest transit: Pacific Ave & Washington Blvd (Arriving), 1815.74m away; Raffaello Ristorante, Los Angeles, visit from 08:02 to 08:52, ; Republique, Los Angeles, visit from 12:53 to 13:53, "
+  }
+]

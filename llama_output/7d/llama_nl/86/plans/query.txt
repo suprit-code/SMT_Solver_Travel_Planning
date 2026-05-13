@@ -1,0 +1,1 @@
+Design a 7-day travel itinerary for 1 person starting from Detroit and visiting 3 cities in Iowa between November 4th and November 10th, 2024. The budget is $6,650. Accommodations should be in an entire home, and transportation should exclude flights.

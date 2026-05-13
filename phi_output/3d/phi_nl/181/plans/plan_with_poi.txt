@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Valparaiso to Charlotte",
+    "transportation": "Self-driving from Valparaiso to Charlotte, duration: 839.0333333333333, distance: 1153.1453, cost : 57.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 21:40 to 22:10, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Comfy private bed and bath, stay from 22:40 to 06:40, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Pinky's Westside Grill, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "Cabo Fish Taco Baja Seagrill, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 07:10 to 07:40, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Pinky's Westside Grill, Charlotte, visit from 08:10 to 09:00, ; NASCAR Hall of Fame, Charlotte, visit from 09:30 to 13:00, ; Charlotte's Eats and Sweets, Charlotte, visit from 13:30 to 14:30, ; Cabo Fish Taco Baja Seagrill, Charlotte, visit from 19:00 to 20:15, ; Comfy private bed and bath, stay from 20:45 to 04:45, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Valparaiso",
+    "transportation": "Self-driving from Charlotte to Valparaiso, duration: 836.4466666666667, distance: 1151.8786, cost : 57.0",
+    "breakfast": "Bistro Charlotte, Charlotte",
+    "lunch": "Charlotte's Web, Charlotte",
+    "dinner": "Charlotte Bakery, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 06:00 to 06:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Bistro Charlotte, Charlotte, visit from 08:00 to 08:50, ; Charlotte's Web, Charlotte, visit from 12:51 to 13:51, ; Discovery Place Science, Charlotte, visit from 14:21 to 17:51, ; Charlotte Bakery, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

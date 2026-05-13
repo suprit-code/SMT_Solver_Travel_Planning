@@ -1,0 +1,13 @@
+
+--- JOB 301 FAILED ---
+Error: list index out of range
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 40, in <module>
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 50, in get_arrivals_list
+    arrives.append(If(variables[1] == 1, transportation_arrtime[1], IntVal(-1)))
+IndexError: list index out of range
+
+----------------------------------------

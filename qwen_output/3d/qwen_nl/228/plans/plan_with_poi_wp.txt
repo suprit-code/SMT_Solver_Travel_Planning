@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Santa Rosa",
+    "transportation": "Flight Number: F0400302, from Dallas to Santa Rosa, Departure Time: 11:25, Arrival Time: 13:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Yeti Restaurant, Santa Rosa",
+    "attraction": "Hook and Ladder Winery, Santa Rosa",
+    "accommodation": "Private Getaway in West Santa Rosa, Santa Rosa",
+    "event": "-",
+    "point_of_interest_list": "Private Getaway in West Santa Rosa, stay from 13:46 to 14:30, nearest transit: Corporate Center Pkwy @ Northpoint Pkwy, 534.11m away; Hook and Ladder Winery, Santa Rosa, visit from 15:00 to 18:30, ; Yeti Restaurant, Santa Rosa, visit from 19:00 to 22:05, ; Private Getaway in West Santa Rosa, stay from 22:35 to 06:35, nearest transit: Corporate Center Pkwy @ Northpoint Pkwy, 534.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Santa Rosa",
+    "transportation": "-",
+    "breakfast": "Russian River Brewing Company, Santa Rosa",
+    "lunch": "Casa Del Mar, Santa Rosa",
+    "dinner": "SEA Thai Bistro, Santa Rosa",
+    "attraction": "St. Francis Winery and Vineyards, Santa Rosa",
+    "accommodation": "Private Getaway in West Santa Rosa, Santa Rosa",
+    "event": "-",
+    "point_of_interest_list": "Private Getaway in West Santa Rosa, stay from 07:05 to 07:35, nearest transit: Corporate Center Pkwy @ Northpoint Pkwy, 534.11m away; Russian River Brewing Company, Santa Rosa, visit from 08:05 to 09:59, ; Casa Del Mar, Santa Rosa, visit from 14:00 to 15:00, ; St. Francis Winery and Vineyards, Santa Rosa, visit from 15:30 to 19:00, ; SEA Thai Bistro, Santa Rosa, visit from 19:30 to 20:45, ; Private Getaway in West Santa Rosa, stay from 21:15 to 05:15, nearest transit: Corporate Center Pkwy @ Northpoint Pkwy, 534.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Santa Rosa to Dallas",
+    "transportation": "Flight Number: F3602678, from Santa Rosa to Dallas, Departure Time: 14:02, Arrival Time: 19:23",
+    "breakfast": "Piner Cafe, Santa Rosa",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Safari West, Santa Rosa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Getaway in West Santa Rosa, stay from 06:00 to 07:30, nearest transit: Corporate Center Pkwy @ Northpoint Pkwy, 534.11m away; Piner Cafe, Santa Rosa, visit from 08:00 to 09:32, ; Safari West, Santa Rosa, visit from 10:02 to 13:32, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Las Vegas'],
+Transportation dates: ['2024-11-04', '2024-11-06'],
+Transportation methods between cities: ['Flight Number: F0373170, from Bend to Las Vegas, Departure Time: 15:18, Arrival Time: 17:04', 'taxi, from Las Vegas to Bend, duration: 929.785, distance: 1318.8264, cost: 1318'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Eggscellent, Las Vegas', 'Golden Steer Steakhouse Las Vegas, Las Vegas', 'Top of the World, Las Vegas', 'Firefly Tapas Kitchen & Bar, Las Vegas', "Gordon Ramsay Hell's Kitchen, Las Vegas", 'THE Steak House, Las Vegas'],
+Attractions (1 per day): ['Red Rock Canyon National Conservation Area, Las Vegas', 'Hoover Dam Bypass, Las Vegas', 'Bellagio Conservatory & Botanical Garden, Las Vegas'],
+Accommodations (1 per city): ['Hidden Oasis, Las Vegas']

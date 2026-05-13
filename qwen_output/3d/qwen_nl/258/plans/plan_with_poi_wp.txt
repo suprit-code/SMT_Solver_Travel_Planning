@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Greensboro",
+    "transportation": "Self-driving from New York to Greensboro, duration: 640.7433333333333, distance: 863.0494, cost : 43.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Golden Wok, Greensboro",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 19:45 to 20:15, nearest transit: Glendale/Randleman Rd., 155.05m away; Golden Wok, Greensboro, visit from 20:45 to 22:00, ; A little Southern Hospitality, stay from 22:30 to 06:30, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Vito's Italian Restaurant, Greensboro",
+    "lunch": "Mimi's Cafe, Greensboro",
+    "dinner": "Stamey's Barbecue, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:00 to 07:30, nearest transit: Glendale/Randleman Rd., 155.05m away; Vito's Italian Restaurant, Greensboro, visit from 08:12 to 09:02, ; Mimi's Cafe, Greensboro, visit from 13:03 to 14:03, ; Carolina Theatre, Greensboro, visit from 14:33 to 18:30, ; Stamey's Barbecue, Greensboro, visit from 19:00 to 20:15, ; A little Southern Hospitality, stay from 20:45 to 04:45, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to New York",
+    "transportation": "Flight Number: F4050956, from Greensboro to New York, Departure Time: 08:28, Arrival Time: 10:02",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 06:00 to 06:30, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  }
+]

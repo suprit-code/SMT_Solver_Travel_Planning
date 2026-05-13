@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Washington",
+    "transportation": "Flight Number: F1448436, from Sarasota to Washington, Departure Time: 11:45, Arrival Time: 14:04",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "L'Ardente, Washington",
+    "attraction": "-",
+    "accommodation": "2 Queen Apt Suite | 2500 Penn Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "2 Queen Apt Suite | 2500 Penn Placemakr Experience, stay from 14:34 to 15:04, nearest transit: FOGGY BOTTOM, 373.15m away; L'Ardente, Washington, visit from 19:00 to 20:15, ; 2 Queen Apt Suite | 2500 Penn Placemakr Experience, stay from 20:45 to 06:31, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "RPM Italian, Washington",
+    "lunch": "Bourbon Steak - Four Seasons Washington DC, Washington",
+    "dinner": "FIG & OLIVE, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "2 Queen Apt Suite | 2500 Penn Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "2 Queen Apt Suite | 2500 Penn Placemakr Experience, stay from 07:01 to 07:31, nearest transit: FOGGY BOTTOM, 373.15m away; RPM Italian, Washington, visit from 08:01 to 09:29, ; United States Botanic Garden, Washington, visit from 09:59 to 13:29, ; Bourbon Steak - Four Seasons Washington DC, Washington, visit from 13:59 to 14:59, ; FIG & OLIVE, Washington, visit from 19:00 to 20:15, ; 2 Queen Apt Suite | 2500 Penn Placemakr Experience, stay from 22:30 to 06:30, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Sarasota",
+    "transportation": "Flight Number: F1348139, from Washington to Sarasota, Departure Time: 20:55, Arrival Time: 23:07",
+    "breakfast": "Joe's Seafood Prime Steak & Stone Crab, Washington",
+    "lunch": "The Dabney, Washington",
+    "dinner": "La Grande Boucherie, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "2 Queen Apt Suite | 2500 Penn Placemakr Experience, stay from 07:00 to 07:30, nearest transit: FOGGY BOTTOM, 373.15m away; Joe's Seafood Prime Steak & Stone Crab, Washington, visit from 08:00 to 08:50, ; The Dabney, Washington, visit from 12:51 to 13:51, ; National Mall, Washington, visit from 14:21 to 18:30, ; La Grande Boucherie, Washington, visit from 19:00 to 20:15, "
+  }
+]

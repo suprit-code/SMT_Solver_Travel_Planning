@@ -1,0 +1,6 @@
+Destination cities: ['Charleston'],
+Transportation dates: ['2024-11-16', '2024-11-18'],
+Transportation methods between cities: ['Self-driving, from Detroit to Charleston, duration: 971.7833333333332, distance: 1367.8788, cost: 68', 'Self-driving, from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost: 68'],
+Restaurants (3 meals per day): ['-', '-', '-', 'The Ordinary, Charleston', 'High Cotton Charleston, Charleston', 'Oak Steakhouse, Charleston', 'Husk Restaurant, Charleston', 'The Palmetto Cafe, Charleston', "Burwell's Stone Fire Grill, Charleston"],
+Attractions (1 per day): ['-', 'Charleston City Market, Charleston', 'Cathedral of Saint John the Baptist, Charleston'],
+Accommodations (1 per city): ['Historic B&B Veranda King Suite Walk to King, Charleston']

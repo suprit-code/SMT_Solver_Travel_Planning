@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Tampa",
+    "transportation": "Flight Number: F3775301, from Boston to Tampa, Departure Time: 07:44, Arrival Time: 11:13",
+    "breakfast": "-",
+    "lunch": "Bern's Steak House, Tampa",
+    "dinner": "The Pearl Tampa, Tampa",
+    "attraction": "ZooTampa At Lowry Park, Tampa",
+    "accommodation": "Tiny House 15 min to Busch Gardens! Walk to coffee, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Tiny House 15 min to Busch Gardens! Walk to coffee, stay from 11:38 to 11:58, nearest transit: Busch Gardens Employee Entrance, 6885.43m away; Bern's Steak House, visit from 12:23 to 13:03, nearest transit: Busch Gardens Employee Entrance, 13852.06m away; ZooTampa At Lowry Park, visit from 13:28 to 15:28, nearest transit: Busch Gardens Employee Entrance, 5842.47m away; The Pearl Tampa, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 11463.33m away; Tiny House 15 min to Busch Gardens! Walk to coffee, stay from 20:05 to 08:00, nearest transit: Busch Gardens Employee Entrance, 6885.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Rusty Pelican Tampa, Tampa",
+    "lunch": "Eddie V's Prime Seafood, Tampa",
+    "dinner": "Green Lemon, Tampa",
+    "attraction": "The Florida Aquarium, Tampa",
+    "accommodation": "Tiny House 15 min to Busch Gardens! Walk to coffee, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Tiny House 15 min to Busch Gardens! Walk to coffee, stay from 08:00 to 08:30, nearest transit: Busch Gardens Employee Entrance, 6885.43m away; Rusty Pelican Tampa, visit from 08:55 to 09:35, nearest transit: U Mall to MSC, 17003.54m away; The Florida Aquarium, visit from 10:00 to 12:00, nearest transit: Busch Gardens Employee Entrance, 11275.99m away; Eddie V's Prime Seafood, visit from 13:35 to 14:15, nearest transit: Busch Gardens Employee Entrance, 13309.81m away; Green Lemon, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 13524.68m away; Tiny House 15 min to Busch Gardens! Walk to coffee, stay from 20:05 to 08:00, nearest transit: Busch Gardens Employee Entrance, 6885.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Boston",
+    "transportation": "Flight Number: F0278933, from Tampa to Boston, Departure Time: 15:53, Arrival Time: 18:50",
+    "breakfast": "Columbia Cafe - Riverwalk Tampa, Tampa",
+    "lunch": "Bernini Restaurant, Tampa",
+    "dinner": "Salt Shack On The Bay, Tampa",
+    "attraction": "Bayshore Boulevard, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tiny House 15 min to Busch Gardens! Walk to coffee, stay from 08:00 to 08:10, nearest transit: Busch Gardens Employee Entrance, 6885.43m away; Columbia Cafe - Riverwalk Tampa, visit from 08:35 to 08:48, nearest transit: Busch Gardens Employee Entrance, 11603.89m away; Bayshore Boulevard, visit from 09:13 to 11:13, nearest transit: Busch Gardens Employee Entrance, 18514.22m away; Bernini Restaurant, visit from 12:00 to 12:13, nearest transit: Busch Gardens Employee Entrance, 9397.67m away; Salt Shack On The Bay, visit from 15:15 to 15:28, nearest transit: Busch Gardens Employee Entrance, 20987.43m away"
+  }
+]

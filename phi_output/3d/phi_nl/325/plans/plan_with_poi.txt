@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Houston",
+    "transportation": "Flight Number: F3476795, from Charleston to Houston, Departure Time: 06:51, Arrival Time: 08:58",
+    "breakfast": "-",
+    "lunch": "Phoenicia Specialty Foods, Houston",
+    "dinner": "Houston Restaurant, Houston",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 09:28 to 09:58, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Phoenicia Specialty Foods, Houston, visit from 12:00 to 13:00, ; Children's Museum Houston, Houston, visit from 15:00 to 18:30, ; Houston Restaurant, Houston, visit from 19:00 to 20:15, ; #4 Northwest Victory Single BR, stay from 23:39 to 07:39, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston White Co, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Uchi Houston, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 08:09 to 08:39, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston White Co, Houston, visit from 09:09 to 09:59, ; Brennan's of Houston, Houston, visit from 14:00 to 15:00, ; Cockrell Butterfly Center, Houston, visit from 15:30 to 19:00, ; Uchi Houston, Houston, visit from 19:30 to 20:45, ; #4 Northwest Victory Single BR, stay from 21:15 to 05:15, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Charleston",
+    "transportation": "Flight Number: F1615543, from Houston to Charleston, Departure Time: 16:08, Arrival Time: 19:22",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Brenner's on the Bayou, Houston",
+    "dinner": "-",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Kenny & Ziggy's New York Deli, Houston, visit from 08:00 to 08:50, ; NRG Stadium, Houston, visit from 09:20 to 12:50, ; Brenner's on the Bayou, Houston, visit from 14:30 to 15:30, "
+  }
+]

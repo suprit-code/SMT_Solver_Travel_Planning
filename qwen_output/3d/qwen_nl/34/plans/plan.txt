@@ -1,0 +1,6 @@
+Destination cities: ['Charleston'],
+Transportation dates: ['2024-11-22', '2024-11-24'],
+Transportation methods between cities: ['Flight Number: F0051870, from Nashville to Charleston, Departure Time: 10:05, Arrival Time: 12:20', 'Flight Number: F4008990, from Charleston to Nashville, Departure Time: 21:09, Arrival Time: 21:35'],
+Restaurants (3 meals per day): ['-', 'Oak Steakhouse, Charleston', "Poogan's Porch, Charleston", 'The Ordinary, Charleston', "Stella's, Charleston", 'Stars Restaurant-Rooftop & Grill Room, Charleston', 'Husk Restaurant, Charleston', 'Amen Street Fish & Raw Bar, Charleston', '-'],
+Attractions (1 per day): ['Magnolia Plantation & Gardens, Charleston', 'Middleton Place, Charleston', 'Charleston Waterfront Park, Charleston'],
+Accommodations (1 per city): ['Waterfront Home Near Downtown!, Charleston']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to Seattle",
+    "transportation": "Flight Number: F1776769, from Portland to Seattle, Departure Time: 16:54, Arrival Time: 17:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "13 Coins Restaurant, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "The Pike Pub and Brewery, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; 13 Coins Restaurant, visit from 08:55 to 09:35, nearest transit: King Street Station, 107.40m away; Hiram M. Chittenden Locks, visit from 10:00 to 12:00, nearest transit: NW 54th St & 30th Ave NW, 241.41m away; Dough Zone Dumpling House - Seattle International District, visit from 13:35 to 14:15, nearest transit: 5th Ave S & S Weller St, 26.54m away; The Pike Pub and Brewery, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Pike St, 113.99m away; Cozy room near UW, stay from 20:05 to 08:00, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Portland",
+    "transportation": "Flight Number: F2890008, from Seattle to Portland, Departure Time: 20:10, Arrival Time: 21:18",
+    "breakfast": "Lola, Seattle",
+    "lunch": "Vons 1000 Spirits, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Lola, visit from 08:55 to 09:35, nearest transit: Virginia St & 4th Ave, 26.10m away; Seattle Center, visit from 10:00 to 12:00, nearest transit: Seattle Center, 84.22m away; Vons 1000 Spirits, visit from 13:35 to 14:15, nearest transit: 2nd Ave & Seneca St, 159.67m away"
+  }
+]

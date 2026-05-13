@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Boise",
+    "transportation": "Flight Number: F0581768, from Houston to Boise, Departure Time: 18:12, Arrival Time: 21:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Boise Fry Company, Boise",
+    "attraction": "-",
+    "accommodation": "Charming and Convenient, Boise",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 21:25 to 21:31, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Boise Fry Company, visit from 21:56 to 22:35, nearest transit: Main Street Station - Lower Deck, 210.85m away; Charming and Convenient, stay from 23:00 to 08:00, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Boise",
+    "transportation": "-",
+    "breakfast": "Westside Drive In, Boise",
+    "lunch": "Moon's Kitchen Cafe, Boise",
+    "dinner": "Flying M Coffee House, Boise",
+    "attraction": "Basque Museum & Cultural Center, Boise",
+    "accommodation": "Charming and Convenient, Boise",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 08:00 to 08:30, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Westside Drive In, visit from 08:55 to 09:35, nearest transit: W State St & N 18th St NWC, 249.20m away; Basque Museum & Cultural Center, visit from 10:00 to 12:00, nearest transit: Main Street Station - Lower Deck, 164.49m away; Moon's Kitchen Cafe, visit from 13:35 to 14:15, nearest transit: Main Street Station - Lower Deck, 149.03m away; Flying M Coffee House, visit from 19:00 to 19:40, nearest transit: W Idaho St & N 5th St NEC, 33.92m away; Charming and Convenient, stay from 20:05 to 08:00, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Boise to Houston",
+    "transportation": "Flight Number: F2376085, from Boise to Houston, Departure Time: 06:40, Arrival Time: 10:52",
+    "breakfast": "Ruth's Chris Steak House, Boise",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

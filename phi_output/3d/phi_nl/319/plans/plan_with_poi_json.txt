@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F0270992, from Hartford to Las Vegas, Departure Time: 19:00, Arrival Time: 21:44",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Sw Steakhouse, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Primal Steakhouse, Las Vegas",
+    "lunch": "Top of the World, Las Vegas",
+    "dinner": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:00 to 08:30, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Primal Steakhouse, visit from 09:00 to 09:40, nearest transit: The Strat, 3264.11m away; Hoover Dam Bypass, visit from 10:10 to 12:10, nearest transit: Fremont East Entertainment District, 39777.46m away; Top of the World, visit from 13:40 to 14:20, nearest transit: The Strat, 140.60m away; Golden Steer Steakhouse Las Vegas, visit from 19:00 to 19:40, nearest transit: The Strat, 555.77m away; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 23:00 to 08:00, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F0821771, from Las Vegas to Hartford, Departure Time: 23:55, Arrival Time: 07:40",
+    "breakfast": "Eggscellent, Las Vegas",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:00 to 08:30, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Eggscellent, visit from 09:00 to 09:40, nearest transit: The Strat, 4208.46m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to New York",
+    "transportation": "Flight Number: F4048822, from Nashville to New York, Departure Time: 09:27, Arrival Time: 12:52",
+    "breakfast": "-",
+    "lunch": "Manhatta, New York",
+    "dinner": "Harry's, New York",
+    "attraction": "Empire State Building, New York",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 13:22 to 13:52, nearest transit: 6 AV/W 45 ST, 155.74m away; Manhatta, visit from 14:22 to 15:02, nearest transit: BROADWAY/THAMES ST, 199.51m away; Empire State Building, visit from 15:32 to 17:32, nearest transit: 5 AV/W 33 ST, 105.15m away; Harry's, visit from 19:02 to 19:42, nearest transit: WATER ST/HANOVER SQ, 85.83m away; High Rise haven + Free Breakfast, stay from 23:00 to 08:00, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Gallaghers Steakhouse, New York",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 08:00 to 08:30, nearest transit: 6 AV/W 45 ST, 155.74m away; Gallaghers Steakhouse, visit from 09:00 to 09:40, nearest transit: 7 AV/W 52 ST, 131.50m away; Central Park, visit from 10:10 to 12:10, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; Peak Restaurant & Bar, visit from 13:40 to 14:20, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; Del Frisco's Grille, visit from 19:00 to 19:40, nearest transit: 5 AV/W 50 ST, 139.24m away; High Rise haven + Free Breakfast, stay from 23:00 to 08:00, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Nashville",
+    "transportation": "Flight Number: F0127261, from New York to Nashville, Departure Time: 17:25, Arrival Time: 18:35",
+    "breakfast": "Nobu Fifty Seven, New York",
+    "lunch": "RH Rooftop Restaurant New York, New York",
+    "dinner": "Burger & Lobster, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 08:00 to 08:30, nearest transit: 6 AV/W 45 ST, 155.74m away; Nobu Fifty Seven, visit from 09:00 to 09:40, nearest transit: W 57 ST/AVENUE OF THE AMERICAS, 57.03m away; The High Line, visit from 10:10 to 12:10, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; RH Rooftop Restaurant New York, visit from 12:40 to 13:20, nearest transit: 9 AV/W 13 ST, 56.34m away; Burger & Lobster, visit from 16:15 to 16:55, nearest transit: W 42 ST/BROADWAY, 75.08m away"
+  }
+]

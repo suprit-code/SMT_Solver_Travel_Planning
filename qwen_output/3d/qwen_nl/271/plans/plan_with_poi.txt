@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Key West",
+    "transportation": "Flight Number: F4038547, from Houston to Key West, Departure Time: 12:28, Arrival Time: 16:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Lobster Shack Key West, Key West",
+    "attraction": "-",
+    "accommodation": "Downtown KeyWest 2Bed Oceanfront, Key West",
+    "event": "-",
+    "point_of_interest_list": "Downtown KeyWest 2Bed Oceanfront, stay from 16:59 to 17:29, nearest transit: Whitehead & Greene St., 168.65m away; The Lobster Shack Key West, Key West, visit from 19:00 to 23:08, ; Downtown KeyWest 2Bed Oceanfront, stay from 23:38 to 07:38, nearest transit: Whitehead & Greene St., 168.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Key West",
+    "transportation": "-",
+    "breakfast": "Prime Steakhouse, Key West",
+    "lunch": "Onlywood Grill, Key West",
+    "dinner": "Seaside Cafe at the Mansion, Key West",
+    "attraction": "Florida Keys Eco-Discovery Center, Key West",
+    "accommodation": "Downtown KeyWest 2Bed Oceanfront, Key West",
+    "event": "-",
+    "point_of_interest_list": "Downtown KeyWest 2Bed Oceanfront, stay from 08:08 to 08:38, nearest transit: Whitehead & Greene St., 168.65m away; Prime Steakhouse, Key West, visit from 09:08 to 09:58, ; Onlywood Grill, Key West, visit from 13:59 to 14:59, ; Florida Keys Eco-Discovery Center, Key West, visit from 15:29 to 18:59, ; Seaside Cafe at the Mansion, Key West, visit from 19:29 to 20:44, ; Downtown KeyWest 2Bed Oceanfront, stay from 21:14 to 05:30, nearest transit: Whitehead & Greene St., 168.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Key West to Houston",
+    "transportation": "Flight Number: F4043172, from Key West to Houston, Departure Time: 16:48, Arrival Time: 19:29",
+    "breakfast": "The Flaming Buoy Filet Co., Key West",
+    "lunch": "Thirsty Mermaid, Key West",
+    "dinner": "-",
+    "attraction": "Key West Garden Club, Key West",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown KeyWest 2Bed Oceanfront, stay from 06:00 to 06:30, nearest transit: Whitehead & Greene St., 168.65m away; The Flaming Buoy Filet Co., Key West, visit from 08:00 to 08:50, ; Key West Garden Club, Key West, visit from 09:20 to 12:50, ; Thirsty Mermaid, Key West, visit from 13:20 to 14:20, "
+  }
+]

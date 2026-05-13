@@ -1,0 +1,6 @@
+Destination cities: ['Las Vegas'],
+Transportation dates: ['2024-11-23', '2024-11-25'],
+Transportation methods between cities: ['Flight Number: F3772502, from Hartford to Las Vegas, Departure Time: 17:08, Arrival Time: 19:17', 'Flight Number: F3770462, from Las Vegas to Hartford, Departure Time: 21:26, Arrival Time: 05:08'],
+Restaurants (3 meals per day): ['-', '-', '-', "Carmine's, Las Vegas", "Gordon Ramsay Hell's Kitchen, Las Vegas", 'Mr. Mamas, Las Vegas', '-', '-', '-'],
+Attractions (1 per day): ['-', 'The LINQ Promenade, Las Vegas', '-'],
+Accommodations (1 per city): ['Private Cozy Room with own entrance and pool ., Las Vegas']

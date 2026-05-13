@@ -1,0 +1,6 @@
+Destination cities: ['New York', 'Rochester'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F0148083, from Nashville to New York, Departure Time: 06:56, Arrival Time: 09:57', 'Flight Number: F0724850, from New York to Rochester, Departure Time: 08:04, Arrival Time: 09:13', 'taxi, from Rochester to Nashville, duration: 878.5083333333333, distance: 1244.6226, cost: 1244'],
+Restaurants (3 meals per day): ['Manhatta, New York', "Sylvia's Restaurant, New York", 'Gallaghers Steakhouse, New York', 'Westway Diner, New York', 'Peak Restaurant & Bar, New York', 'Times Square Diner, New York', "Harry's, New York", 'Chocolaterie Stam, Rochester', "Lipuma's Coney Island, Rochester", 'Restaurant Fiorella, Rochester', 'The Eagle Tavern, Rochester', "Tiny Tim's Tea Rooms, Rochester", 'Nick Tahou Hots, Rochester', 'Good Luck, Rochester', "Rooney's Restaurant, Rochester"],
+Attractions (1 per day): ['Chelsea Market, New York', 'New York Public Library, New York', 'Guildhall Museum, Rochester', 'Eastman Theatre, Rochester', 'The Strong National Museum of Play, Rochester'],
+Accommodations (1 per city): ['Private Studio & SPA near JFK| UBS arena., New York', 'Luxury Entertaining 4BR House, Rochester']

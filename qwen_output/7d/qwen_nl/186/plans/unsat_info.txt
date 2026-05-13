@@ -1,0 +1,8 @@
+not ok
+Unsatisfiable core:
+visit city in cities list
+attraction in which city
+valid travel date
+no flight for fourth transportation
+non repeating attraction index
+valid attraction index

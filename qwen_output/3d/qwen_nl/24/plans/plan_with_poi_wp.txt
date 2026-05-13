@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to Washington",
+    "transportation": "Self-driving from Louisville to Washington, duration: 658.9766666666667, distance: 939.9079, cost : 46.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Old Ebbitt Grill, Washington",
+    "attraction": "-",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 19:45 to 20:15, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away; Old Ebbitt Grill, Washington, visit from 20:45 to 22:00, ; A Cozy room, stay from 22:30 to 06:45, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "The Pembroke, Washington",
+    "lunch": "The Tombs, Washington",
+    "dinner": "Jaleo by Jose Andres, Washington",
+    "attraction": "Ford's Theatre, Washington",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 07:15 to 07:45, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away; The Pembroke, Washington, visit from 08:15 to 09:05, ; Ford's Theatre, Washington, visit from 09:35 to 13:05, ; The Tombs, Washington, visit from 13:59 to 14:59, ; Jaleo by Jose Andres, Washington, visit from 19:00 to 20:15, ; A Cozy room, stay from 20:45 to 04:45, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Louisville",
+    "transportation": "Self-driving from Washington to Louisville, duration: 658.2983333333334, distance: 939.4599, cost : 46.0",
+    "breakfast": "-",
+    "lunch": "Unconventional Diner, Washington",
+    "dinner": "Smoke & Mirrors Rooftop Bar, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 06:00 to 06:30, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.6m away; United States Botanic Garden, Washington, visit from 09:00 to 12:30, ; Unconventional Diner, Washington, visit from 13:00 to 14:00, ; Smoke & Mirrors Rooftop Bar, Washington, visit from 19:00 to 20:15, "
+  }
+]

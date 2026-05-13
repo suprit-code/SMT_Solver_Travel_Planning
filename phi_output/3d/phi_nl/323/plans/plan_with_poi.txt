@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Tampa",
+    "transportation": "Flight Number: F3158032, from Kansas City to Tampa, Departure Time: 06:20, Arrival Time: 09:47",
+    "breakfast": "-",
+    "lunch": "Bernini Restaurant, Tampa",
+    "dinner": "On Swann, Tampa",
+    "attraction": "ZooTampa At Lowry Park, Tampa",
+    "accommodation": "No Fees! Introverts Paradise! Central Pinellas!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 10:17 to 10:47, nearest transit: U Mall to MSC, 35717.79m away; Bernini Restaurant, Tampa, visit from 12:00 to 13:00, ; ZooTampa At Lowry Park, Tampa, visit from 13:30 to 17:00, ; On Swann, Tampa, visit from 19:00 to 20:15, ; No Fees! Introverts Paradise! Central Pinellas!, stay from 20:45 to 04:45, nearest transit: U Mall to MSC, 35717.79m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Whiskey Joe's Bar & Grill - Tampa, Tampa",
+    "lunch": "The Pearl Tampa, Tampa",
+    "dinner": "Columbia Restaurant, Tampa",
+    "attraction": "Tampa Riverwalk, Tampa",
+    "accommodation": "No Fees! Introverts Paradise! Central Pinellas!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 06:00 to 06:30, nearest transit: U Mall to MSC, 35717.79m away; Whiskey Joe's Bar & Grill - Tampa, Tampa, visit from 09:03 to 09:53, ; Tampa Riverwalk, Tampa, visit from 10:23 to 13:53, ; The Pearl Tampa, Tampa, visit from 14:30 to 15:30, ; Columbia Restaurant, Tampa, visit from 20:45 to 22:00, ; No Fees! Introverts Paradise! Central Pinellas!, stay from 22:30 to 06:30, nearest transit: U Mall to MSC, 35717.79m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Kansas City",
+    "transportation": "Flight Number: F3963178, from Tampa to Kansas City, Departure Time: 21:04, Arrival Time: 23:03",
+    "breakfast": "Green Lemon, Tampa",
+    "lunch": "Curry Leaves Indian Cuisine, Tampa",
+    "dinner": "Besito Mexican, Tampa",
+    "attraction": "The Florida Aquarium, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 07:00 to 07:30, nearest transit: U Mall to MSC, 35717.79m away; Green Lemon, Tampa, visit from 08:00 to 08:50, ; Curry Leaves Indian Cuisine, Tampa, visit from 12:51 to 13:51, ; The Florida Aquarium, Tampa, visit from 14:21 to 18:30, ; Besito Mexican, Tampa, visit from 19:00 to 20:15, "
+  }
+]

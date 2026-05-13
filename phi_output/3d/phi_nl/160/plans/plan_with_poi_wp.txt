@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Baltimore",
+    "transportation": "Flight Number: F2173317, from Indianapolis to Baltimore, Departure Time: 10:18, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "Phillips Seafood, Baltimore",
+    "dinner": "-",
+    "attraction": "Federal Hill Park, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 12:22 to 12:52, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Phillips Seafood, Baltimore, visit from 14:00 to 15:00, ; Federal Hill Park, Baltimore, visit from 15:30 to 21:00, ; The basement, stay from 21:30 to 05:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Alexander's Tavern, Baltimore",
+    "lunch": "The Helmand, Baltimore",
+    "dinner": "Twist Fell's Point, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 06:00 to 06:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Alexander's Tavern, Baltimore, visit from 08:43 to 09:33, ; National Aquarium, Baltimore, visit from 10:03 to 13:33, ; The Helmand, Baltimore, visit from 14:03 to 15:03, ; Twist Fell's Point, Baltimore, visit from 19:04 to 21:00, ; The basement, stay from 21:30 to 05:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Indianapolis",
+    "transportation": "Flight Number: F1564950, from Baltimore to Indianapolis, Departure Time: 17:05, Arrival Time: 18:38",
+    "breakfast": "Angies Seafood, Baltimore",
+    "lunch": "The Abbey Burger Bistro, Baltimore",
+    "dinner": "-",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 06:00 to 06:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Angies Seafood, Baltimore, visit from 08:00 to 08:50, ; The Maryland Zoo, Baltimore, visit from 10:30 to 14:00, ; The Abbey Burger Bistro, Baltimore, visit from 14:30 to 15:30, "
+  }
+]

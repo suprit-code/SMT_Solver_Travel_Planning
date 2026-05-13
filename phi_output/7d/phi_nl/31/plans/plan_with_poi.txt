@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to Nashville",
+    "transportation": "Flight Number: F3999953, from Atlanta to Nashville, Departure Time: 08:46, Arrival Time: 08:46",
+    "breakfast": "-",
+    "lunch": "The Standard, Nashville",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Walk to Vandy Historic Private Cottage Apartment, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Walk to Vandy Historic Private Cottage Apartment, stay from 09:16 to 09:46, nearest transit: 31ST AVE N & LONG BLVD SB, 191.51m away; The Standard, Nashville, visit from 12:00 to 13:00, ; Belmont Mansion, Nashville, visit from 13:30 to 18:30, ; Aquarium Restaurant, Nashville, visit from 19:00 to 20:15, ; Walk to Vandy Historic Private Cottage Apartment, stay from 20:45 to 04:45, nearest transit: 31ST AVE N & LONG BLVD SB, 191.51m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Deacon’s New South, Nashville",
+    "lunch": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "dinner": "Harriet's Rooftop, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Walk to Vandy Historic Private Cottage Apartment, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Walk to Vandy Historic Private Cottage Apartment, stay from 06:00 to 08:39, nearest transit: 31ST AVE N & LONG BLVD SB, 191.51m away; Deacon’s New South, Nashville, visit from 09:09 to 09:59, ; Bourbon Street Blues and Boogie Bar, Nashville, visit from 14:00 to 15:00, ; Cheekwood, Nashville, visit from 15:30 to 19:15, ; Harriet's Rooftop, Nashville, visit from 19:45 to 21:00, ; Walk to Vandy Historic Private Cottage Apartment, stay from 21:30 to 05:30, nearest transit: 31ST AVE N & LONG BLVD SB, 191.51m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "lunch": "-",
+    "dinner": "Cafe Bristol, Bristol",
+    "attraction": "Andrew Jackson's Hermitage, Nashville",
+    "accommodation": "Comfortable and cozy in the heart of Bristol, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Walk to Vandy Historic Private Cottage Apartment, stay from 06:00 to 07:30, nearest transit: 31ST AVE N & LONG BLVD SB, 191.51m away; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 08:00 to 08:57, ; Andrew Jackson's Hermitage, Nashville, visit from 09:27 to 12:57, ; Comfortable and cozy in the heart of Bristol, stay from 19:16 to 20:15, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Cafe Bristol, Bristol, visit from 20:45 to 22:00, ; Comfortable and cozy in the heart of Bristol, stay from 23:40 to 07:40, nearest transit: Kroger-Gate City Hwy, 4622.18m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Bristol Lounge, Bristol",
+    "lunch": "Bristol Seafood Restaurant, Bristol",
+    "dinner": "Bristol Seafood + Steak + Social, Bristol",
+    "attraction": "Wills Memorial Building And Tower Tours, Bristol",
+    "accommodation": "Comfortable and cozy in the heart of Bristol, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Comfortable and cozy in the heart of Bristol, stay from 08:10 to 08:40, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Bristol Lounge, Bristol, visit from 09:10 to 10:00, ; Wills Memorial Building And Tower Tours, Bristol, visit from 10:30 to 14:00, ; Bristol Seafood Restaurant, Bristol, visit from 14:30 to 15:44, ; Bristol Seafood + Steak + Social, Bristol, visit from 19:45 to 21:00, ; Comfortable and cozy in the heart of Bristol, stay from 21:30 to 05:30, nearest transit: Kroger-Gate City Hwy, 4622.18m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Baba Ganoush Kitchen - Jerusalem Falafel, Bristol",
+    "lunch": "Don Giovanni's Restaurant, Bristol",
+    "dinner": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "attraction": "Clifton Suspension Bridge, Bristol",
+    "accommodation": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Comfortable and cozy in the heart of Bristol, stay from 06:00 to 06:30, nearest transit: Kroger-Gate City Hwy, 4622.18m away; Baba Ganoush Kitchen - Jerusalem Falafel, Bristol, visit from 08:00 to 08:50, ; Clifton Suspension Bridge, Bristol, visit from 09:20 to 12:50, ; Don Giovanni's Restaurant, Bristol, visit from 13:20 to 14:20, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 19:29 to 19:59, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; The Purple Daisy Picnic Cafe, Chattanooga, visit from 20:29 to 21:44, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 23:37 to 07:37, nearest transit: Boynton & 953 Boynton-0, 3119.08m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "HiFi Clyde's Chattanooga, Chattanooga",
+    "lunch": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "dinner": "La Cabriole, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 08:07 to 08:37, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; HiFi Clyde's Chattanooga, Chattanooga, visit from 09:07 to 09:57, ; Maple Street Biscuit Company - City Center, Chattanooga, visit from 14:00 to 15:00, ; Coolidge Park, Chattanooga, visit from 15:30 to 19:00, ; La Cabriole, Chattanooga, visit from 19:30 to 20:45, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 21:15 to 07:54, nearest transit: Boynton & 953 Boynton-0, 3119.08m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Atlanta",
+    "transportation": "Taxi from Chattanooga to Atlanta, duration: 134.17, distance: 189.2182, cost : 189.0",
+    "breakfast": "-",
+    "lunch": "Ruth's Chris Steak House, Chattanooga",
+    "dinner": "Public House, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 08:24 to 08:54, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; Tennessee Aquarium, Chattanooga, visit from 09:24 to 13:29, ; Ruth's Chris Steak House, Chattanooga, visit from 13:59 to 14:59, ; Public House, Chattanooga, visit from 19:00 to 20:15, "
+  }
+]

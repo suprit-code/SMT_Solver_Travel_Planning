@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Lynchburg to Greensboro",
+    "transportation": "Taxi from Lynchburg to Greensboro, duration: 143.46166666666667, distance: 183.1366, cost : 183.0",
+    "breakfast": "-",
+    "lunch": "Carolina's Diner, Greensboro",
+    "dinner": "Mythos Grill, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 12:35 to 13:05, nearest transit: Glendale/Randleman Rd., 155.05m away; Carolina's Diner, Greensboro, visit from 13:35 to 14:35, ; Ambleside Gallery, Greensboro, visit from 15:05 to 20:15, ; Mythos Grill, Greensboro, visit from 20:45 to 22:49, ; A little Southern Hospitality, stay from 23:19 to 07:19, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Dear Dad's, Greensboro",
+    "lunch": "Stamey's Barbecue, Greensboro",
+    "dinner": "Sarah's Kabob Shop, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:49 to 08:19, nearest transit: Glendale/Randleman Rd., 155.05m away; Dear Dad's, Greensboro, visit from 08:49 to 09:39, ; Stamey's Barbecue, Greensboro, visit from 13:40 to 14:40, ; International Civil Rights Center & Museum, Greensboro, visit from 15:10 to 18:40, ; Sarah's Kabob Shop, Greensboro, visit from 19:10 to 20:25, ; A little Southern Hospitality, stay from 20:55 to 04:55, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Golden Wok, Greensboro",
+    "lunch": "-",
+    "dinner": "The Basics, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 06:00 to 06:30, nearest transit: Glendale/Randleman Rd., 155.05m away; Golden Wok, Greensboro, visit from 08:42 to 09:32, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 14:30 to 15:00, nearest transit: Market St WB at 12th St, 326.9m away; Burgwin-Wright House and Gardens, Wilmington, visit from 15:30 to 19:00, ; The Basics, Wilmington, visit from 20:45 to 22:15, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 22:45 to 06:45, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Winnie's Tavern, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "attraction": "-",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 07:15 to 07:45, nearest transit: Market St WB at 12th St, 326.9m away; Winnie's Tavern, Wilmington, visit from 08:15 to 09:05, ; Flaming Amy's Burrito Barn, Wilmington, visit from 13:35 to 14:35, ; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 19:00 to 20:15, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 00:00 to 08:00, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F1014254, from Wilmington to Charlotte, Departure Time: 16:09, Arrival Time: 17:09",
+    "breakfast": "The Anchor, Wilmington",
+    "lunch": "PinPoint Restaurant, Wilmington",
+    "dinner": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "attraction": "-",
+    "accommodation": "Quiet Cozy Stay in CLT, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 08:30 to 09:00, nearest transit: Market St WB at 12th St, 326.9m away; The Anchor, Wilmington, visit from 09:30 to 10:20, ; PinPoint Restaurant, Wilmington, visit from 14:21 to 15:21, ; Quiet Cozy Stay in CLT, stay from 17:39 to 18:09, nearest transit: Tryon St & Choate Rd, 121.01m away; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 19:22 to 20:37, ; Quiet Cozy Stay in CLT, stay from 21:07 to 06:33, nearest transit: Tryon St & Choate Rd, 121.01m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Tavern, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "Charlotte Bakery, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "Quiet Cozy Stay in CLT, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 07:03 to 07:33, nearest transit: Tryon St & Choate Rd, 121.01m away; Charlotte's Tavern, Charlotte, visit from 08:03 to 08:53, ; Levine Museum of the New South, Charlotte, visit from 09:23 to 12:53, ; Charlotte's Eats and Sweets, Charlotte, visit from 13:23 to 14:23, ; Charlotte Bakery, Charlotte, visit from 19:00 to 20:15, ; Quiet Cozy Stay in CLT, stay from 20:45 to 04:45, nearest transit: Tryon St & Choate Rd, 121.01m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Lynchburg",
+    "transportation": "Flight Number: F0234002, from Charlotte to Lynchburg, Departure Time: 20:28, Arrival Time: 21:21",
+    "breakfast": "-",
+    "lunch": "Pinky's Westside Grill, Charlotte",
+    "dinner": "-",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 06:00 to 06:30, nearest transit: Tryon St & Choate Rd, 121.01m away; NASCAR Hall of Fame, Charlotte, visit from 09:00 to 12:30, ; Pinky's Westside Grill, Charlotte, visit from 13:00 to 14:00, "
+  }
+]

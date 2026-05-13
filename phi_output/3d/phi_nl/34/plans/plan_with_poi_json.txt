@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to Charleston",
+    "transportation": "Flight Number: F3981643, from Nashville to Charleston, Departure Time: 09:38, Arrival Time: 11:50",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Palmetto Cafe, Charleston",
+    "attraction": "Battery & White Point Gardens, Charleston",
+    "accommodation": "Secret Garden Guesthouse, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 12:20 to 12:50, nearest transit: Coming St / George St, 490.45m away; Battery & White Point Gardens, visit from 13:20 to 15:20, nearest transit: Broad St / Meeting St, 758.27m away; The Palmetto Cafe, visit from 19:00 to 19:40, nearest transit: Meeting St / Market St, 55.01m away; Secret Garden Guesthouse, stay from 23:00 to 08:00, nearest transit: Coming St / George St, 490.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Stella's, Charleston",
+    "lunch": "Oak Steakhouse, Charleston",
+    "dinner": "Eli's Table, Charleston",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "Secret Garden Guesthouse, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 08:00 to 08:30, nearest transit: Coming St / George St, 490.45m away; Stella's, visit from 09:00 to 09:40, nearest transit: Warren St / St Philip St, 16.55m away; Magnolia Plantation & Gardens, visit from 10:10 to 12:10, nearest transit: Dorchester Rd / Lambs Rd, 2137.23m away; Oak Steakhouse, visit from 13:40 to 14:20, nearest transit: Broad St / Church St, 111.55m away; Eli's Table, visit from 19:00 to 19:40, nearest transit: Meeting St / Queen St, 19.72m away; Secret Garden Guesthouse, stay from 23:00 to 08:00, nearest transit: Coming St / George St, 490.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Nashville",
+    "transportation": "Flight Number: F1675566, from Charleston to Nashville, Departure Time: 21:20, Arrival Time: 21:37",
+    "breakfast": "Amen Street Fish & Raw Bar, Charleston",
+    "lunch": "The Ordinary, Charleston",
+    "dinner": "-",
+    "attraction": "Charleston City Market, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 08:00 to 08:30, nearest transit: Coming St / George St, 490.45m away; Amen Street Fish & Raw Bar, visit from 09:00 to 09:40, nearest transit: East Bay St / S. Market St, 56.01m away; Charleston City Market, visit from 10:10 to 12:10, nearest transit: Market St / Meeting St, 50.09m away; The Ordinary, visit from 13:40 to 14:20, nearest transit: King St / Cannon St, 22.53m away"
+  }
+]

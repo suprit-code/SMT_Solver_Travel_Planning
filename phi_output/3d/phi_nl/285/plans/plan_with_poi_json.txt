@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Houston",
+    "transportation": "Flight Number: F2460534, from Memphis to Houston, Departure Time: 11:57, Arrival Time: 13:25",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "EaDo Room | Private Entrance | Walk 2 Astros Games, Houston",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 13:55 to 14:25, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Downtown Aquarium, visit from 14:55 to 16:55, nearest transit: Preston St @ Bagby St, 75.65m away; Kenny & Ziggy's New York Deli, visit from 19:00 to 19:40, nearest transit: Ambassador Station NB, 181.42m away; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 23:00 to 08:00, nearest transit: Navigation Blvd @ Canal St, 329.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston's Restaurant & Pub, Houston",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "Phoenicia Specialty Foods, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "EaDo Room | Private Entrance | Walk 2 Astros Games, Houston",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 08:00 to 08:30, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Houston's Restaurant & Pub, visit from 09:00 to 09:40, nearest transit: Conroe Park & Ride, 11421055.39m away; Hermann Park, visit from 10:10 to 12:10, nearest transit: Cambridge St @ Ben Taub Loop, 355.64m away; Market on Houston, visit from 13:40 to 14:20, nearest transit: Grand Parkway Park & Ride, 265982.52m away; Phoenicia Specialty Foods, visit from 19:00 to 19:40, nearest transit: Lamar St @ Austin St, 9.87m away; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 23:00 to 08:00, nearest transit: Navigation Blvd @ Canal St, 329.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Memphis",
+    "transportation": "Flight Number: F1785883, from Houston to Memphis, Departure Time: 16:37, Arrival Time: 18:16",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Houstons Bar and Grill, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 08:00 to 08:30, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Hugo's, visit from 09:00 to 09:40, nearest transit: Westheimer Rd @ Mandell St, 26.11m away; Houston Zoo, visit from 10:10 to 12:10, nearest transit: Cambridge St @ Ben Taub Loop, 473.45m away; Houstons Bar and Grill, visit from 13:40 to 14:20, nearest transit: Conroe Park & Ride, 7360300.27m away"
+  }
+]

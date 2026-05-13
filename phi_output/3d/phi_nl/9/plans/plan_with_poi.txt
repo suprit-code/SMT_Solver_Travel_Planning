@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Cincinnati",
+    "transportation": "Flight Number: F2559456, from Sarasota to Cincinnati, Departure Time: 22:48, Arrival Time: 00:58",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Historic Lyric Presidential Suite, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "The Historic Lyric Presidential Suite, stay from 01:28 to 01:58, nearest transit: RACE ST & 7TH ST, 60.16m away; The Historic Lyric Presidential Suite, stay from 02:28 to 08:00, nearest transit: RACE ST & 7TH ST, 60.16m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Cincinnati",
+    "transportation": "-",
+    "breakfast": "Jeff Ruby's Carlo & Johnny, Cincinnati",
+    "lunch": "Tony's Of Cincinnati, Cincinnati",
+    "dinner": "Boca, Cincinnati",
+    "attraction": "-",
+    "accommodation": "The Historic Lyric Presidential Suite, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "The Historic Lyric Presidential Suite, stay from 08:30 to 09:00, nearest transit: RACE ST & 7TH ST, 60.16m away; Jeff Ruby's Carlo & Johnny, Cincinnati, visit from 09:39 to 10:29, ; Tony's Of Cincinnati, Cincinnati, visit from 14:30 to 15:30, ; Boca, Cincinnati, visit from 19:31 to 20:46, ; The Historic Lyric Presidential Suite, stay from 21:16 to 05:16, nearest transit: RACE ST & 7TH ST, 60.16m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Cincinnati to Sarasota",
+    "transportation": "Flight Number: F1342106, from Cincinnati to Sarasota, Departure Time: 17:40, Arrival Time: 19:46",
+    "breakfast": "Subito, Cincinnati",
+    "lunch": "Nicola's Ristorante, Cincinnati",
+    "dinner": "-",
+    "attraction": "Great American Ball Park, Cincinnati",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Historic Lyric Presidential Suite, stay from 06:00 to 06:30, nearest transit: RACE ST & 7TH ST, 60.16m away; Subito, Cincinnati, visit from 08:00 to 10:00, ; Great American Ball Park, Cincinnati, visit from 10:30 to 14:00, ; Nicola's Ristorante, Cincinnati, visit from 14:30 to 15:46, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Albuquerque",
+    "transportation": "Flight Number: F1471995, from Chicago to Albuquerque, Departure Time: 10:09, Arrival Time: 11:58",
+    "breakfast": "-",
+    "lunch": "Two Fools Tavern, Albuquerque",
+    "dinner": "Farina, Albuquerque",
+    "attraction": "Turquoise Museum, Albuquerque",
+    "accommodation": "Clean & Cozy 1-bed Casita with relaxing courtyard, Albuquerque",
+    "event": "-",
+    "point_of_interest_list": "Clean & Cozy 1-bed Casita with relaxing courtyard, stay from 12:28 to 12:58, nearest transit: Coors @ Irving (Target), 727.68m away; Two Fools Tavern, Albuquerque, visit from 13:28 to 15:00, ; Turquoise Museum, Albuquerque, visit from 15:30 to 20:15, ; Farina, Albuquerque, visit from 20:45 to 22:22, ; Clean & Cozy 1-bed Casita with relaxing courtyard, stay from 22:52 to 06:52, nearest transit: Coors @ Irving (Target), 727.68m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Albuquerque",
+    "transportation": "-",
+    "breakfast": "Dog House Drive In, Albuquerque",
+    "lunch": "The Original Cocina Azul, Albuquerque",
+    "dinner": "Padilla's Mexican Kitchen, Albuquerque",
+    "attraction": "Petroglyph National Monument, Albuquerque",
+    "accommodation": "Clean & Cozy 1-bed Casita with relaxing courtyard, Albuquerque",
+    "event": "-",
+    "point_of_interest_list": "Clean & Cozy 1-bed Casita with relaxing courtyard, stay from 07:22 to 07:52, nearest transit: Coors @ Irving (Target), 727.68m away; Dog House Drive In, Albuquerque, visit from 08:22 to 09:59, ; The Original Cocina Azul, Albuquerque, visit from 14:00 to 15:00, ; Petroglyph National Monument, Albuquerque, visit from 15:30 to 19:00, ; Padilla's Mexican Kitchen, Albuquerque, visit from 19:30 to 20:45, ; Clean & Cozy 1-bed Casita with relaxing courtyard, stay from 21:15 to 05:15, nearest transit: Coors @ Irving (Target), 727.68m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Albuquerque to Chicago",
+    "transportation": "Flight Number: F0064855, from Albuquerque to Chicago, Departure Time: 16:09, Arrival Time: 19:38",
+    "breakfast": "Le Troquet Bistro, Albuquerque",
+    "lunch": "Budai Gourmet Chinese Restaurant, Albuquerque",
+    "dinner": "-",
+    "attraction": "American International Rattlesnake Museum, Albuquerque",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Clean & Cozy 1-bed Casita with relaxing courtyard, stay from 06:00 to 06:30, nearest transit: Coors @ Irving (Target), 727.68m away; Le Troquet Bistro, Albuquerque, visit from 08:00 to 08:50, ; American International Rattlesnake Museum, Albuquerque, visit from 09:20 to 12:50, ; Budai Gourmet Chinese Restaurant, Albuquerque, visit from 14:30 to 15:30, "
+  }
+]

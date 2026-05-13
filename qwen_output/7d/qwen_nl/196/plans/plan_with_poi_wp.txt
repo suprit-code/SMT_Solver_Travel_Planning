@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Greensboro",
+    "transportation": "Taxi from Sarasota to Greensboro, duration: 790.9466666666667, distance: 1113.121, cost : 1113.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "MJ's Steak and Seafood, Greensboro",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 19:40 to 20:10, nearest transit: Glendale/Randleman Rd., 155.05m away; MJ's Steak and Seafood, Greensboro, visit from 20:40 to 21:55, ; A little Southern Hospitality, stay from 22:25 to 06:25, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Mythos Grill, Greensboro",
+    "lunch": "Dames Chicken & Waffles, Greensboro",
+    "dinner": "Mimi's Cafe, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 06:55 to 07:25, nearest transit: Glendale/Randleman Rd., 155.05m away; Mythos Grill, Greensboro, visit from 08:07 to 09:59, ; Dames Chicken & Waffles, Greensboro, visit from 14:00 to 15:00, ; International Civil Rights Center & Museum, Greensboro, visit from 15:30 to 20:15, ; Mimi's Cafe, Greensboro, visit from 20:45 to 22:27, ; A little Southern Hospitality, stay from 22:57 to 06:57, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "lunch": "Dear Dad's, Greensboro",
+    "dinner": "Winnie's Tavern, Wilmington",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Serendipitous Studio - Entire Place, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:27 to 07:57, nearest transit: Glendale/Randleman Rd., 155.05m away; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 08:27 to 09:17, ; Ambleside Gallery, Greensboro, visit from 09:47 to 13:17, ; Dear Dad's, Greensboro, visit from 13:47 to 14:47, ; Serendipitous Studio - Entire Place, stay from 19:45 to 20:15, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; Winnie's Tavern, Wilmington, visit from 20:45 to 22:00, ; Serendipitous Studio - Entire Place, stay from 22:30 to 06:30, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Banks' Seafood Kitchen, Wilmington",
+    "lunch": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "dinner": "Flaming Amy's Burrito Barn, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Serendipitous Studio - Entire Place, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Serendipitous Studio - Entire Place, stay from 07:00 to 07:30, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; Banks' Seafood Kitchen, Wilmington, visit from 09:10 to 10:00, ; Burgwin-Wright House and Gardens, Wilmington, visit from 10:30 to 14:00, ; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 14:30 to 15:30, ; Flaming Amy's Burrito Barn, Wilmington, visit from 19:31 to 20:46, ; Serendipitous Studio - Entire Place, stay from 21:16 to 05:16, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F1100491, from Wilmington to Charlotte, Departure Time: 15:54, Arrival Time: 17:02",
+    "breakfast": "Catch, Wilmington",
+    "lunch": "The Anchor, Wilmington",
+    "dinner": "Charlottes Chocolates, Charlotte",
+    "attraction": "-",
+    "accommodation": "Colorful, Comfortable, Private and Unique, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Serendipitous Studio - Entire Place, stay from 06:00 to 06:30, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; Catch, Wilmington, visit from 08:00 to 08:50, ; The Anchor, Wilmington, visit from 13:20 to 14:20, ; Colorful, Comfortable, Private and Unique, stay from 17:32 to 18:02, nearest transit: Monroe Rd & Conference Dr, 720.15m away; Charlottes Chocolates, Charlotte, visit from 19:00 to 20:15, ; Colorful, Comfortable, Private and Unique, stay from 20:45 to 07:36, nearest transit: Monroe Rd & Conference Dr, 720.15m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Gaucho Charlotte Street, Charlotte",
+    "lunch": "Charlotte's Teahouse, Charlotte",
+    "dinner": "Charlotte's Tavern, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Colorful, Comfortable, Private and Unique, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Colorful, Comfortable, Private and Unique, stay from 08:06 to 08:36, nearest transit: Monroe Rd & Conference Dr, 720.15m away; Gaucho Charlotte Street, Charlotte, visit from 09:06 to 10:00, ; NASCAR Hall of Fame, Charlotte, visit from 10:30 to 14:00, ; Charlotte's Teahouse, Charlotte, visit from 14:30 to 15:30, ; Charlotte's Tavern, Charlotte, visit from 19:31 to 20:46, ; Colorful, Comfortable, Private and Unique, stay from 21:16 to 05:16, nearest transit: Monroe Rd & Conference Dr, 720.15m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Sarasota",
+    "transportation": "Taxi from Charlotte to Sarasota, duration: 711.625, distance: 1015.2705, cost : 1015.0",
+    "breakfast": "Charlotte's Restaurant, Charlotte",
+    "lunch": "Charlotte Bakery, Charlotte",
+    "dinner": "-",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Colorful, Comfortable, Private and Unique, stay from 06:00 to 06:30, nearest transit: Monroe Rd & Conference Dr, 720.15m away; Charlotte's Restaurant, Charlotte, visit from 08:00 to 08:50, ; Charlotte Bakery, Charlotte, visit from 14:00 to 15:00, ; Discovery Place Science, Charlotte, visit from 15:30 to 20:17, "
+  }
+]

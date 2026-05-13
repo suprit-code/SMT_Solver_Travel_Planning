@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F3511787, from Atlanta to San Diego, Departure Time: 08:21, Arrival Time: 09:54",
+    "breakfast": "-",
+    "lunch": "Meze Greek Fusion, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Beach Getaway ♥Romantic Patio& Fire ☝Remote Office, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Beach Getaway ♥Romantic Patio& Fire ☝Remote Office, stay from 10:24 to 10:54, nearest transit: Mission Bl & Santa Rita Pl, 123.95m away; Meze Greek Fusion, San Diego, visit from 12:00 to 13:00, ; Cabrillo National Monument, San Diego, visit from 13:30 to 17:00, ; Mimmo's, San Diego, visit from 20:45 to 22:05, ; Beach Getaway ♥Romantic Patio& Fire ☝Remote Office, stay from 22:35 to 06:35, nearest transit: Mission Bl & Santa Rita Pl, 123.95m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "Old Town San Diego, San Diego",
+    "accommodation": "Beach Getaway ♥Romantic Patio& Fire ☝Remote Office, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Beach Getaway ♥Romantic Patio& Fire ☝Remote Office, stay from 07:05 to 07:35, nearest transit: Mission Bl & Santa Rita Pl, 123.95m away; Born & Raised, San Diego, visit from 08:05 to 10:00, ; Old Town San Diego, San Diego, visit from 10:30 to 14:00, ; Cowboy Star, San Diego, visit from 14:30 to 15:30, ; Juniper and Ivy, San Diego, visit from 20:45 to 22:00, ; Beach Getaway ♥Romantic Patio& Fire ☝Remote Office, stay from 23:07 to 07:07, nearest transit: Mission Bl & Santa Rita Pl, 123.95m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F2670675, from San Diego to Sacramento, Departure Time: 18:58, Arrival Time: 20:43",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "-",
+    "attraction": "Seaport Village, San Diego",
+    "accommodation": "Large Comfy Cottage- Close to Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Beach Getaway ♥Romantic Patio& Fire ☝Remote Office, stay from 07:37 to 08:07, nearest transit: Mission Bl & Santa Rita Pl, 123.95m away; Ruth's Chris Steak House, San Diego, visit from 08:37 to 09:27, ; Addison Restaurant, San Diego, visit from 13:28 to 14:28, ; Seaport Village, San Diego, visit from 14:58 to 18:28, ; Large Comfy Cottage- Close to Downtown, stay from 21:13 to 21:43, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Large Comfy Cottage- Close to Downtown, stay from 22:13 to 06:13, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "The Porch Restaurant and Bar, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "Tipsy Putt, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Large Comfy Cottage- Close to Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Large Comfy Cottage- Close to Downtown, stay from 06:43 to 07:13, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; The Porch Restaurant and Bar, Sacramento, visit from 08:04 to 08:54, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; Nopalitos, Sacramento, visit from 14:30 to 15:30, ; Tipsy Putt, Sacramento, visit from 19:31 to 21:33, ; Large Comfy Cottage- Close to Downtown, stay from 22:03 to 06:03, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Atlanta",
+    "transportation": "Flight Number: F2955269, from Sacramento to Atlanta, Departure Time: 12:36, Arrival Time: 20:04",
+    "breakfast": "Mulvaney's Building & Loan, Sacramento",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Large Comfy Cottage- Close to Downtown, stay from 06:33 to 07:03, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Mulvaney's Building & Loan, Sacramento, visit from 08:00 to 12:06, "
+  }
+]

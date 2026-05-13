@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to San Francisco",
+    "transportation": "Flight Number: F3828375, from Boise to San Francisco, Departure Time: 08:14, Arrival Time: 08:48",
+    "breakfast": "-",
+    "lunch": "Scoma's Restaurant, San Francisco",
+    "dinner": "Waterbar, San Francisco",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "Airy private room in quiet home, Castro, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Airy private room in quiet home, Castro, stay from 09:18 to 09:48, nearest transit: Civic Center BART (9th and Market), 2659.13m away; Pier 39, visit from 10:18 to 12:18, nearest transit: Mission @ Spear (Embarcadero), 2268.81m away; Scoma's Restaurant, visit from 12:48 to 13:28, nearest transit: Mission @ Spear (Embarcadero), 2812.24m away; Waterbar, visit from 19:00 to 19:40, nearest transit: Mission @ Spear (Embarcadero), 478.55m away; Airy private room in quiet home, Castro, stay from 23:00 to 08:00, nearest transit: Civic Center BART (9th and Market), 2659.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Mersea Restaurant & Bar, San Francisco",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "dinner": "Kokkari Estiatorio, San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Airy private room in quiet home, Castro, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Airy private room in quiet home, Castro, stay from 08:00 to 08:30, nearest transit: Civic Center BART (9th and Market), 2659.13m away; Mersea Restaurant & Bar, visit from 09:00 to 09:40, nearest transit: Mission @ Spear (Embarcadero), 3667.91m away; Lands End, visit from 10:10 to 12:10, nearest transit: Civic Center BART (9th and Market), 7487.45m away; Fogo de Chao Brazilian Steakhouse, visit from 13:40 to 14:20, nearest transit: Powell @ 22 4th, 490.45m away; Kokkari Estiatorio, visit from 19:00 to 19:40, nearest transit: Mission @ Spear (Embarcadero), 718.77m away; Airy private room in quiet home, Castro, stay from 23:00 to 08:00, nearest transit: Civic Center BART (9th and Market), 2659.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Boise",
+    "transportation": "Flight Number: F3819931, from San Francisco to Boise, Departure Time: 17:32, Arrival Time: 20:07",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "dinner": "-",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Airy private room in quiet home, Castro, stay from 08:00 to 08:30, nearest transit: Civic Center BART (9th and Market), 2659.13m away; Quince, visit from 09:00 to 09:40, nearest transit: Mission @ Spear (Embarcadero), 994.70m away; Golden Gate Park, visit from 10:10 to 12:10, nearest transit: Civic Center BART (9th and Market), 5974.62m away; Harris' Restaurant - The San Francisco Steakhouse, visit from 13:40 to 14:20, nearest transit: Powell @ 22 4th, 1858.31m away"
+  }
+]

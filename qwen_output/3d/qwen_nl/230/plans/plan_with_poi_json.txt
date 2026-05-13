@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Seattle",
+    "transportation": "Flight Number: F1078799, from Houston to Seattle, Departure Time: 09:39, Arrival Time: 12:22",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Spinasse, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "2-King Executive Penthouse Near Pike & Waterfront, Seattle",
+    "event": "-",
+    "point_of_interest_list": "2-King Executive Penthouse Near Pike & Waterfront, stay from 12:47 to 13:07, nearest transit: 2nd Ave & Pike St, 194.14m away; Klondike Gold Rush National Historical Park, visit from 13:32 to 15:32, nearest transit: Occidental Mall, 113.08m away; Spinasse, visit from 19:00 to 19:40, nearest transit: E Pine St & 15th Ave, 90.45m away; 2-King Executive Penthouse Near Pike & Waterfront, stay from 20:05 to 08:00, nearest transit: 2nd Ave & Pike St, 194.14m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Salty's On Alki Beach, Seattle",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "2-King Executive Penthouse Near Pike & Waterfront, Seattle",
+    "event": "-",
+    "point_of_interest_list": "2-King Executive Penthouse Near Pike & Waterfront, stay from 08:00 to 08:30, nearest transit: 2nd Ave & Pike St, 194.14m away; Noi Thai Cuisine, visit from 08:55 to 09:35, nearest transit: 2nd Ave & Seneca St, 181.65m away; Woodland Park Zoo, visit from 10:00 to 12:00, nearest transit: Phinney Ave N & N 55th St, 257.77m away; Salty's On Alki Beach, visit from 13:35 to 14:15, nearest transit: Harbor Ave SW & 2100 Block, 145.40m away; Vons 1000 Spirits, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Seneca St, 159.67m away; 2-King Executive Penthouse Near Pike & Waterfront, stay from 20:05 to 08:00, nearest transit: 2nd Ave & Pike St, 194.14m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Houston",
+    "transportation": "Flight Number: F3446835, from Seattle to Houston, Departure Time: 16:11, Arrival Time: 22:08",
+    "breakfast": "13 Coins Restaurant, Seattle",
+    "lunch": "The Capital Grille, Seattle",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "Discovery Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "2-King Executive Penthouse Near Pike & Waterfront, stay from 08:00 to 08:10, nearest transit: 2nd Ave & Pike St, 194.14m away; 13 Coins Restaurant, visit from 08:35 to 08:48, nearest transit: King Street Station, 107.40m away; Discovery Park, visit from 09:13 to 11:13, nearest transit: Discovery Park Road & Texas Way, 604.23m away; The Capital Grille, visit from 12:00 to 12:13, nearest transit: 4th Ave & University, 41.04m away; Il Terrazzo Carmine, visit from 15:33 to 15:46, nearest transit: Alaskan Way S & S Jackson St, 103.57m away"
+  }
+]

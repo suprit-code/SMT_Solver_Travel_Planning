@@ -1,0 +1,9 @@
+not ok
+Unsatisfiable core:
+visit city in cities list
+no flight for first transportation
+attraction in which city
+non repeating attraction index
+category score constraint
+valid attraction index
+no flight for second transportation

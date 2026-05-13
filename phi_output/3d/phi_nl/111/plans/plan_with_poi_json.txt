@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to San Francisco",
+    "transportation": "Flight Number: F1474906, from Charlotte to San Francisco, Departure Time: 13:11, Arrival Time: 15:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Codmother Fish & Chips, San Francisco",
+    "attraction": "Ghirardelli Square, San Francisco",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 15:50 to 16:20, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Ghirardelli Square, visit from 16:50 to 18:50, nearest transit: Powell @ 22 4th, 2687.95m away; The Codmother Fish & Chips, visit from 19:20 to 20:00, nearest transit: Mission @ Spear (Embarcadero), 2616.38m away; Updated Private Bedroom with Ensuite Bathroom., stay from 23:00 to 08:00, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Good Mong Kok Bakery, San Francisco",
+    "lunch": "Mersea Restaurant & Bar, San Francisco",
+    "dinner": "Capital Restaurant, San Francisco",
+    "attraction": "Ferry Building Marketplace, San Francisco",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 08:00 to 08:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Good Mong Kok Bakery, visit from 09:00 to 09:40, nearest transit: Powell @ 22 4th, 1141.50m away; Ferry Building Marketplace, visit from 10:10 to 12:10, nearest transit: Mission @ Spear (Embarcadero), 334.47m away; Mersea Restaurant & Bar, visit from 13:40 to 14:20, nearest transit: Mission @ Spear (Embarcadero), 3667.91m away; Capital Restaurant, visit from 19:00 to 19:40, nearest transit: Powell @ 22 4th, 972.30m away; Updated Private Bedroom with Ensuite Bathroom., stay from 23:00 to 08:00, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Charlotte",
+    "transportation": "Flight Number: F2811338, from San Francisco to Charlotte, Departure Time: 13:20, Arrival Time: 21:04",
+    "breakfast": "Eagle Cafe, San Francisco",
+    "lunch": "Mo's Grill, San Francisco",
+    "dinner": "-",
+    "attraction": "Exploratorium, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

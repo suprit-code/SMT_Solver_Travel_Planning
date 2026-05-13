@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Chattanooga",
+    "transportation": "Flight Number: F3632122, from Washington to Chattanooga, Departure Time: 13:38, Arrival Time: 15:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "-",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 15:45 to 16:15, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Uncle Larry's Restaurant, Chattanooga, visit from 19:00 to 22:01, ; Wren’s nest on the ridge, stay from 22:31 to 06:31, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Mellow Mushroom Chattanooga, Chattanooga",
+    "lunch": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "dinner": "Hickory Pit Bar-B-Que, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Wren’s nest on the ridge, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 07:01 to 07:31, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; Mellow Mushroom Chattanooga, Chattanooga, visit from 08:01 to 09:59, ; Maple Street Biscuit Company - City Center, Chattanooga, visit from 14:00 to 15:00, ; Coolidge Park, Chattanooga, visit from 15:30 to 19:00, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 19:30 to 20:45, ; Wren’s nest on the ridge, stay from 23:40 to 07:40, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Washington",
+    "transportation": "Self-driving from Chattanooga to Washington, duration: 663.0733333333334, distance: 961.8596, cost : 48.0",
+    "breakfast": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "lunch": "HiFi Clyde's Chattanooga, Chattanooga",
+    "dinner": "Public House, Chattanooga",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Wren’s nest on the ridge, stay from 08:10 to 08:40, nearest transit: BRAINERD RD + SEMINOLE, 196.66m away; The Purple Daisy Picnic Cafe, Chattanooga, visit from 09:10 to 10:00, ; Tennessee Valley Railroad Museum, Chattanooga, visit from 10:30 to 14:00, ; HiFi Clyde's Chattanooga, Chattanooga, visit from 14:30 to 15:30, ; Public House, Chattanooga, visit from 19:31 to 20:46, "
+  }
+]

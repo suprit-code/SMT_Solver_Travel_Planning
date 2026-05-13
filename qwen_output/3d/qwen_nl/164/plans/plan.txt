@@ -1,0 +1,6 @@
+Destination cities: ['San Antonio'],
+Transportation dates: ['2024-11-01', '2024-11-03'],
+Transportation methods between cities: ['Flight Number: F1372422, from Miami to San Antonio, Departure Time: 13:47, Arrival Time: 16:10', 'Flight Number: F2584235, from San Antonio to Miami, Departure Time: 17:50, Arrival Time: 21:42'],
+Restaurants (3 meals per day): ['-', '-', 'Sichuan House, San Antonio', "Pinkerton's Barbecue, San Antonio", 'Biga on the Banks, San Antonio', 'Domingo Restaurant, San Antonio', 'The Guenther House, San Antonio', "Perry's Steakhouse & Grille- San Antonio, San Antonio", "Schilo's, San Antonio"],
+Attractions (1 per day): ['San Antonio Zoo, San Antonio', 'Pearl Brewery, San Antonio', 'Historic Market Square, San Antonio'],
+Accommodations (1 per city): ['Couples getaway kink dungeon, San Antonio']

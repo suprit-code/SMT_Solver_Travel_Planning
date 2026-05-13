@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Asheville to New York",
+    "transportation": "Flight Number: F0151209, from Asheville to New York, Departure Time: 13:00, Arrival Time: 14:37",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Lobster Place, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 15:07 to 15:37, nearest transit: 9 AV/W 30 ST, 139.35m away; The High Line, visit from 16:07 to 18:07, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Lobster Place, visit from 19:00 to 19:40, nearest transit: W 14 ST/WASHINGTON ST, 138.20m away; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 23:00 to 08:00, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Piccola Cucina Osteria, New York",
+    "lunch": "RH Rooftop Restaurant New York, New York",
+    "dinner": "Westway Diner, New York",
+    "attraction": "One World Observatory, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 08:00 to 08:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Piccola Cucina Osteria, visit from 09:00 to 09:40, nearest transit: 6 AV/SPRING ST, 89.22m away; One World Observatory, visit from 10:10 to 12:10, nearest transit: VESEY ST/NORTH END AV, 231.75m away; RH Rooftop Restaurant New York, visit from 13:40 to 14:20, nearest transit: 9 AV/W 13 ST, 56.34m away; Westway Diner, visit from 19:00 to 19:40, nearest transit: 9 AV/W 44 ST, 44.32m away; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 23:00 to 08:00, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Asheville",
+    "transportation": "Flight Number: F0150801, from New York to Asheville, Departure Time: 16:54, Arrival Time: 19:06",
+    "breakfast": "Sarge\u2019s Delicatessen & Diner, New York",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "-",
+    "attraction": "Central Park, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 08:00 to 08:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Sarge\u2019s Delicatessen & Diner, visit from 09:00 to 09:40, nearest transit: 3 AV/E 37 ST, 101.41m away; Central Park, visit from 10:10 to 12:10, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; Times Square Diner, visit from 13:40 to 14:20, nearest transit: W 49 ST/8 AV, 51.46m away"
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-14', '2024-11-16'],
+Transportation methods between cities: ['Flight Number: F0302873, from San Francisco to Atlanta, Departure Time: 00:26, Arrival Time: 07:11', 'Flight Number: F2929783, from Atlanta to San Francisco, Departure Time: 21:17, Arrival Time: 23:41'],
+Restaurants (3 meals per day): ['The Optimist, Atlanta', 'Home Grown, Atlanta', 'Kevin Rathbun Steak, Atlanta', 'Canoe, Atlanta', 'Bangkok Station, Atlanta', 'St. Cecilia, Atlanta', 'Aria, Atlanta', "Trader Vic's, Atlanta", 'Aviva by Kameel, Atlanta'],
+Attractions (1 per day): ['Georgia Aquarium, Atlanta', 'Zoo Atlanta, Atlanta', 'Atlanta History Center, Atlanta'],
+Accommodations (1 per city): ['Tiny House Urban Farm Stay in Heart of Atlanta, Atlanta']

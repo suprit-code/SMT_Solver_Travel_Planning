@@ -1,0 +1,6 @@
+Destination cities: ['Hartford'],
+Transportation dates: ['2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F1848894, from Denver to Hartford, Departure Time: 18:03, Arrival Time: 23:31', 'Flight Number: F1064155, from Hartford to Denver, Departure Time: 10:43, Arrival Time: 12:59'],
+Restaurants (3 meals per day): ['-', '-', '-', "Max's Oyster Bar, Hartford", 'Max Downtown, Hartford', 'Hartford House, Hartford', 'Wissota Chophouse - Hartford, Hartford', 'The Capital Grille, Hartford', '-'],
+Attractions (1 per day): ['-', 'Hartford Stage, Hartford', '-'],
+Accommodations (1 per city): ['Loft - Queen Anne Row House in a historic district, Hartford']

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Asheville to Amarillo",
+    "transportation": "Taxi from Asheville to Amarillo, duration: 1322.18, distance: 1968.2969, cost : 1968.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "🪴HIDDEN HAVEN renovated King Bed studio W/garage 🍃, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "🪴HIDDEN HAVEN renovated King Bed studio W/garage 🍃, stay from 04:32 to 05:02, nearest transit: SW 10th Ave & Bryan, 403.39m away; 🪴HIDDEN HAVEN renovated King Bed studio W/garage 🍃, stay from 05:32 to 08:00, nearest transit: SW 10th Ave & Bryan, 403.39m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "El Manantial, Amarillo",
+    "dinner": "Drunken Oyster, Amarillo",
+    "attraction": "-",
+    "accommodation": "🪴HIDDEN HAVEN renovated King Bed studio W/garage 🍃, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "🪴HIDDEN HAVEN renovated King Bed studio W/garage 🍃, stay from 08:30 to 09:00, nearest transit: SW 10th Ave & Bryan, 403.39m away; Golden Light Cafe & Cantina, Amarillo, visit from 09:39 to 10:29, ; El Manantial, Amarillo, visit from 14:30 to 16:44, ; Drunken Oyster, Amarillo, visit from 20:45 to 23:30, ; 🪴HIDDEN HAVEN renovated King Bed studio W/garage 🍃, stay from 00:00 to 08:00, nearest transit: SW 10th Ave & Bryan, 403.39m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Taxi from Amarillo to Houston, duration: 649.365, distance: 961.8577, cost : 961.0",
+    "breakfast": "The Plaza Restaurant, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "🪴HIDDEN HAVEN renovated King Bed studio W/garage 🍃, stay from 08:30 to 09:00, nearest transit: SW 10th Ave & Bryan, 403.39m away; The Plaza Restaurant, Amarillo, visit from 09:30 to 10:20, ; Entire Apt in the Heart of the City - Galleria, stay from 22:09 to 22:39, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Entire Apt in the Heart of the City - Galleria, stay from 23:24 to 07:24, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Merrill & Houston's Steak Joint, Houston",
+    "dinner": "The Breakfast Klub, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 07:54 to 08:24, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Hugo's, Houston, visit from 08:54 to 09:44, ; Houston Zoo, Houston, visit from 10:14 to 13:44, ; Merrill & Houston's Steak Joint, Houston, visit from 14:30 to 15:30, ; The Breakfast Klub, Houston, visit from 20:45 to 22:00, ; Entire Apt in the Heart of the City - Galleria, stay from 23:10 to 07:10, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Asheville",
+    "transportation": "Flight Number: F2555751, from Houston to Asheville, Departure Time: 08:40, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 07:40 to 08:10, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  }
+]

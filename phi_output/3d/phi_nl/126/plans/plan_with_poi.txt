@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Washington",
+    "transportation": "Flight Number: F3067830, from Charleston to Washington, Departure Time: 15:51, Arrival Time: 17:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A Classy Corner of DC // Minutes walk to Dupont Circle, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 17:46 to 18:16, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.6m away; A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 18:46 to 02:46, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Kingbird, Washington",
+    "lunch": "Succotash Prime, Washington",
+    "dinner": "RPM Italian, Washington",
+    "attraction": "National Air and Space Museum, Washington",
+    "accommodation": "A Classy Corner of DC // Minutes walk to Dupont Circle, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 06:00 to 07:32, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.6m away; Kingbird, Washington, visit from 08:02 to 08:52, ; National Air and Space Museum, Washington, visit from 09:22 to 12:52, ; Succotash Prime, Washington, visit from 13:22 to 14:22, ; RPM Italian, Washington, visit from 19:00 to 20:15, ; A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 20:45 to 04:45, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Charleston",
+    "transportation": "Taxi from Washington to Charleston, duration: 593.9566666666667, distance: 860.1441, cost : 860.0",
+    "breakfast": "Smoke & Mirrors Rooftop Bar, Washington",
+    "lunch": "Thip Khao, Washington",
+    "dinner": "Cafe Milano, Washington",
+    "attraction": "Ford's Theatre, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 06:00 to 07:30, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.6m away; Smoke & Mirrors Rooftop Bar, Washington, visit from 08:00 to 08:50, ; Ford's Theatre, Washington, visit from 09:20 to 12:50, ; Thip Khao, Washington, visit from 13:20 to 14:20, ; Cafe Milano, Washington, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Charleston'],
+Transportation dates: ['2024-11-11', '2024-11-13'],
+Transportation methods between cities: ['Flight Number: F1520279, from Seattle to Charleston, Departure Time: 07:19, Arrival Time: 15:27', 'Flight Number: F1521835, from Charleston to Seattle, Departure Time: 17:26, Arrival Time: 20:51'],
+Restaurants (3 meals per day): ['-', '-', 'The Ordinary, Charleston', 'Amen Street Fish & Raw Bar, Charleston', 'Husk Restaurant, Charleston', "Hank's Seafood Restaurant, Charleston", 'Oak Steakhouse, Charleston', '82 Queen, Charleston', '-'],
+Attractions (1 per day): ['Fort Sumter National Monument, Charleston', 'The Charleston Museum, Charleston', 'Nathaniel Russell House, Charleston'],
+Accommodations (1 per city): ['Dianna Browns Place | Historic District, Charleston']

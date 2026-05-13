@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Wilmington",
+    "transportation": "Flight Number: F2580987, from Boston to Wilmington, Departure Time: 11:54, Arrival Time: 14:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Fish Bites Seafood, Wilmington",
+    "attraction": "-",
+    "accommodation": "Serendipitous Studio - Entire Place, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Serendipitous Studio - Entire Place, stay from 14:31 to 15:02, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; Fish Bites Seafood, Wilmington, visit from 19:00 to 20:15, ; Serendipitous Studio - Entire Place, stay from 20:45 to 04:45, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Elijah's Restaurant, Wilmington",
+    "lunch": "Catch, Wilmington",
+    "dinner": "Winnie's Tavern, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "Serendipitous Studio - Entire Place, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Serendipitous Studio - Entire Place, stay from 07:38 to 08:08, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; Elijah's Restaurant, Wilmington, visit from 08:38 to 09:28, ; Catch, Wilmington, visit from 13:29 to 14:29, ; Battleship North Carolina, Wilmington, visit from 14:59 to 18:29, ; Winnie's Tavern, Wilmington, visit from 19:00 to 20:15, ; Serendipitous Studio - Entire Place, stay from 20:45 to 06:03, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wilmington to Boston",
+    "transportation": "Flight Number: F2581019, from Wilmington to Boston, Departure Time: 15:00, Arrival Time: 17:06",
+    "breakfast": "PinPoint Restaurant, Wilmington",
+    "lunch": "The Basics, Wilmington",
+    "dinner": "-",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Serendipitous Studio - Entire Place, stay from 06:33 to 07:03, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; PinPoint Restaurant, Wilmington, visit from 08:00 to 08:50, ; Burgwin-Wright House and Gardens, Wilmington, visit from 09:20 to 12:50, ; The Basics, Wilmington, visit from 13:20 to 14:20, "
+  }
+]

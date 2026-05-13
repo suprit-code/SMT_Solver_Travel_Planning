@@ -1,0 +1,31 @@
+
+            # Define cuisine preference variables for Chinese and Italian cuisines
+            chinese_cuisine_preference = True
+            italian_cuisine_preference = False
+            
+            # List of restaurants with their cuisines
+            restaurants = {
+                "restaurant_a": "Chinese",
+                "restaurant_b": "Italian",
+                "restaurant_c": "Japanese",
+                "restaurant_d": "Chinese",
+                "restaurant_e": "Italian"
+            }
+            
+            # Function to choose a restaurant based on cuisine preference
+            def choose_restaurant(restaurants, chinese_pref, italian_pref):
+                for restaurant, cuisine in restaurants.items():
+                    if (cuisine == "Chinese" and chinese_pref) or (cuisine == "Italian" and italian_pref):
+                        print(f"Chosen restaurant: {restaurant} ({cuisine})")
+                        break
+                else:
+                    print("No suitable restaurant found based on preferences.")
+            
+            # Check for Chinese cuisine preference
+            choose_restaurant(restaurants, chinese_cuisine_preference, italian_cuisine_preference)
+            
+            # Check for Italian cuisine preference
+            chinese_cuisine_preference = False
+            italian_cuisine_preference = True
+            choose_restaurant(restaurants, chinese_cuisine_preference, italian_cuisine_preference)
+            

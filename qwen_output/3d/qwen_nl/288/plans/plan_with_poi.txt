@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Baltimore",
+    "transportation": "Flight Number: F1566774, from Miami to Baltimore, Departure Time: 22:32, Arrival Time: 00:55",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private bath & entrance, Cozy City Suite, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Private bath & entrance, Cozy City Suite, stay from 01:25 to 01:55, nearest transit: LEXINGTON MARKET (METRO) sb, 1131.86m away; Private bath & entrance, Cozy City Suite, stay from 02:25 to 08:00, nearest transit: LEXINGTON MARKET (METRO) sb, 1131.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "The Abbey Burger Bistro, Baltimore",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Baltimore",
+    "dinner": "LP Steamers, Baltimore",
+    "attraction": "-",
+    "accommodation": "Private bath & entrance, Cozy City Suite, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Private bath & entrance, Cozy City Suite, stay from 08:30 to 09:00, nearest transit: LEXINGTON MARKET (METRO) sb, 1131.86m away; The Abbey Burger Bistro, Baltimore, visit from 09:39 to 10:29, ; Fogo de Chao Brazilian Steakhouse, Baltimore, visit from 14:30 to 16:44, ; LP Steamers, Baltimore, visit from 20:45 to 22:00, ; Private bath & entrance, Cozy City Suite, stay from 23:40 to 07:40, nearest transit: LEXINGTON MARKET (METRO) sb, 1131.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Miami",
+    "transportation": "Flight Number: F3606677, from Baltimore to Miami, Departure Time: 17:31, Arrival Time: 20:07",
+    "breakfast": "La Scala, Baltimore",
+    "lunch": "Restaurante Tio Pepe, Baltimore",
+    "dinner": "-",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private bath & entrance, Cozy City Suite, stay from 08:10 to 08:40, nearest transit: LEXINGTON MARKET (METRO) sb, 1131.86m away; La Scala, Baltimore, visit from 09:10 to 10:00, ; The Maryland Zoo, Baltimore, visit from 10:30 to 14:00, ; Restaurante Tio Pepe, Baltimore, visit from 14:30 to 17:01, "
+  }
+]

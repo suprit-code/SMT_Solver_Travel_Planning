@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Helena to Durango",
+    "transportation": "Taxi from Helena to Durango, duration: 938.795, distance: 1407.4631000000002, cost : 1407.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Modern Townhome on the River, Roof Top Deck, Durango",
+    "event": "-",
+    "point_of_interest_list": "Modern Townhome on the River, Roof Top Deck, stay from 22:24 to 22:54, nearest transit: Tamarin Square Apt., 138.17m away; Modern Townhome on the River, Roof Top Deck, stay from 23:24 to 07:24, nearest transit: Tamarin Square Apt., 138.17m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Durango",
+    "transportation": "-",
+    "breakfast": "Durango's Mexican, Durango",
+    "lunch": "Serious Texas Bar-B-Q, Durango",
+    "dinner": "Seasons of Durango, Durango",
+    "attraction": "San Juan National Forest, Durango",
+    "accommodation": "Modern Townhome on the River, Roof Top Deck, Durango",
+    "event": "-",
+    "point_of_interest_list": "Modern Townhome on the River, Roof Top Deck, stay from 07:54 to 08:24, nearest transit: Tamarin Square Apt., 138.17m away; Durango's Mexican, Durango, visit from 08:54 to 10:00, ; San Juan National Forest, Durango, visit from 10:30 to 14:00, ; Serious Texas Bar-B-Q, Durango, visit from 14:30 to 15:30, ; Seasons of Durango, Durango, visit from 19:31 to 20:46, ; Modern Townhome on the River, Roof Top Deck, stay from 21:30 to 05:30, nearest transit: Tamarin Square Apt., 138.17m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Durango to Colorado Springs",
+    "transportation": "Taxi from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost : 506.0",
+    "breakfast": "Michel's Corner Crepes, Durango",
+    "lunch": "Durango Doughworks, Durango",
+    "dinner": "-",
+    "attraction": "The Colorado Trail, Durango",
+    "accommodation": "Two-Bed Two-Bath house, walk to Garden of the Gods, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Modern Townhome on the River, Roof Top Deck, stay from 06:00 to 06:30, nearest transit: Tamarin Square Apt., 138.17m away; Michel's Corner Crepes, Durango, visit from 08:00 to 08:50, ; The Colorado Trail, Durango, visit from 09:20 to 12:50, ; Durango Doughworks, Durango, visit from 13:20 to 14:20, ; Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 21:54 to 22:24, nearest transit: Colorado/34th, 175.71m away; Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 22:54 to 06:54, nearest transit: Colorado/34th, 175.71m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Mountain Shadows Restaurant, Colorado Springs",
+    "lunch": "Margarita At Pine Creek, Colorado Springs",
+    "dinner": "Shuga's Restaurant, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "Two-Bed Two-Bath house, walk to Garden of the Gods, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 07:24 to 07:54, nearest transit: Colorado/34th, 175.71m away; Mountain Shadows Restaurant, Colorado Springs, visit from 09:09 to 09:59, ; Seven Falls, Colorado Springs, visit from 10:30 to 14:00, ; Margarita At Pine Creek, Colorado Springs, visit from 14:30 to 15:30, ; Shuga's Restaurant, Colorado Springs, visit from 19:31 to 20:46, ; Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 23:09 to 07:09, nearest transit: Colorado/34th, 175.71m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Colorado Springs to Helena",
+    "transportation": "Taxi from Colorado Springs to Helena, duration: 879.4416666666667, distance: 1384.2815, cost : 1384.0",
+    "breakfast": "La Bella Vita, Colorado Springs",
+    "lunch": "The Great British Food Company, Colorado Springs",
+    "dinner": "Prime 25, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Two-Bed Two-Bath house, walk to Garden of the Gods, stay from 07:39 to 08:09, nearest transit: Colorado/34th, 175.71m away; La Bella Vita, Colorado Springs, visit from 08:39 to 09:29, ; Garden of the Gods, Colorado Springs, visit from 09:59 to 13:29, ; The Great British Food Company, Colorado Springs, visit from 13:59 to 14:59, ; Prime 25, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

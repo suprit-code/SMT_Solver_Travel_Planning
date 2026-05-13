@@ -1,0 +1,6 @@
+Destination cities: ['Washington'],
+Transportation dates: ['2024-11-26', '2024-11-28'],
+Transportation methods between cities: ['Flight Number: F2293507, from Sarasota to Washington, Departure Time: 11:59, Arrival Time: 14:42', 'Flight Number: F0117436, from Washington to Sarasota, Departure Time: 08:35, Arrival Time: 11:12'],
+Restaurants (3 meals per day): ['-', 'The Dabney, Washington', 'The Capital Grille, Washington', 'Kingbird, Washington', "Joe's Seafood Prime Steak & Stone Crab, Washington", 'RPM Italian, Washington', "L'Ardente, Washington", 'FIG & OLIVE, Washington', '-'],
+Attractions (1 per day): ['National Mall, Washington', 'United States Botanic Garden, Washington', '-'],
+Accommodations (1 per city): ['A Classy Corner of DC // Minutes walk to Dupont Circle, Washington']

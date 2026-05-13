@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Hartford",
+    "transportation": "taxi, from Washington to Hartford, duration: 426.4883333333333, distance: 540.9555, cost: 540",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Spacious Cozy Guest Suite, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Spacious Cozy Guest Suite, stay from 08:00 to 08:30, nearest transit: Berlin, 5588.91m away; Spacious Cozy Guest Suite, stay from 23:00 to 08:00, nearest transit: Berlin, 5588.91m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "Hartford Baking Company, Hartford",
+    "lunch": "Hartford Coffee Co., Hartford",
+    "dinner": "Treva, Hartford",
+    "attraction": "Hartford Stage, Hartford",
+    "accommodation": "Spacious Cozy Guest Suite, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Spacious Cozy Guest Suite, stay from 08:00 to 08:30, nearest transit: Berlin, 5588.91m away; Hartford Baking Company, visit from 09:00 to 09:40, nearest transit: Hartford, 5307.99m away; Hartford Stage, visit from 10:10 to 12:10, nearest transit: Hartford, 624.67m away; Hartford Coffee Co., visit from 13:40 to 14:20, nearest transit: New Haven Union Station, 1507853.16m away; Treva, visit from 19:00 to 19:40, nearest transit: Hartford, 5261.04m away; Spacious Cozy Guest Suite, stay from 23:00 to 08:00, nearest transit: Berlin, 5588.91m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Washington",
+    "transportation": "Flight Number: F0440641, from Hartford to Washington, Departure Time: 13:50, Arrival Time: 15:05",
+    "breakfast": "The Capital Grille, Hartford",
+    "lunch": "Hartford House, Hartford",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Spacious Cozy Guest Suite, stay from 08:00 to 08:30, nearest transit: Berlin, 5588.91m away; The Capital Grille, visit from 09:00 to 09:40, nearest transit: Hartford, 1146.76m away; Hartford House, visit from 12:40 to 13:20, nearest transit: Windsor, 13097370.54m away"
+  }
+]

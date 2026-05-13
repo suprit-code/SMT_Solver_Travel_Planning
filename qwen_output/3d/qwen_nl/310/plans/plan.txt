@@ -1,0 +1,6 @@
+Destination cities: ['Ontario'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F0975748, from Las Vegas to Ontario, Departure Time: 08:08, Arrival Time: 08:57', 'Flight Number: F0654879, from Ontario to Las Vegas, Departure Time: 17:41, Arrival Time: 18:51'],
+Restaurants (3 meals per day): ['Gran Sasso Restaurant, Ontario', "Kel's Family Restaurant, Ontario", 'Jumbo Dragon Chinese Restaurant, Ontario', 'Shanghai Restaurant, Ontario', "Zaza's Pizzzeria, Ontario", 'Nine North Viet-Thai Cuisine, Ontario', 'The Keg Steakhouse + Bar - Brantford, Ontario', 'On The Lam Restaurant, Ontario', 'Duke on Park, Ontario'],
+Attractions (1 per day): ["Ripley's Aquarium of Canada, Ontario", 'Niagara Falls Canada, Ontario', 'White Water Walk, Ontario'],
+Accommodations (1 per city): ['Amazing Condo Heart of Downtown + 1 Free Parking, Ontario']

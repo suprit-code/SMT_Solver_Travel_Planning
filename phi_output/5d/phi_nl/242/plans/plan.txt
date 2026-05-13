@@ -1,0 +1,6 @@
+Destination cities: ['Durango', 'Colorado Springs'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['taxi, from Santa Fe to Durango, duration: 284.2033333333333, distance: 390.1447, cost: 390', 'taxi, from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost: 506', 'taxi, from Colorado Springs to Santa Fe, duration: 336.54833333333335, distance: 522.037, cost: 522'],
+Restaurants (3 meals per day): ['-', '-', '-', '81301 Coffee House and Roasters, Durango', 'Durango Bagel, Durango', 'Zia Taqueria, Durango', "Durango's Mexican Restaurant, Durango", "Durango's Mexican Grill, Durango", 'Bread, Durango', 'Saltgrass Steak House, Colorado Springs', 'Urban Egg A Daytime Eatery, Colorado Springs', 'NaRai Thai Restaurant, Colorado Springs', 'Restaurant 1858, Colorado Springs', 'Mountain Shadows Restaurant, Colorado Springs', 'The Airplane Restaurant, Colorado Springs'],
+Attractions (1 per day): ['-', 'The Colorado Trail, Durango', 'San Juan National Forest, Durango', 'Garden of the Gods, Colorado Springs', 'Seven Falls, Colorado Springs'],
+Accommodations (1 per city): ['2ndWind Ranch Country Aspen Suite Outside Durango, Durango', 'Casa De Mariposas, Colorado Springs']

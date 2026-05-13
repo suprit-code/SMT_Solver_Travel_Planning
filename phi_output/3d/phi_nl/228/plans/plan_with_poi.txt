@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Santa Rosa",
+    "transportation": "Flight Number: F0400302, from Dallas to Santa Rosa, Departure Time: 11:25, Arrival Time: 13:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Franchettis' Gasthaus And Biergarten, Santa Rosa",
+    "attraction": "St. Francis Winery and Vineyards, Santa Rosa",
+    "accommodation": "Lovely older home w/ private rm and bath/tub., Santa Rosa",
+    "event": "-",
+    "point_of_interest_list": "Lovely older home w/ private rm and bath/tub., stay from 13:46 to 14:30, nearest transit: Fourth St @ Talbot Ave, 237.09m away; St. Francis Winery and Vineyards, Santa Rosa, visit from 15:00 to 18:30, ; Franchettis' Gasthaus And Biergarten, Santa Rosa, visit from 19:00 to 20:15, ; Lovely older home w/ private rm and bath/tub., stay from 23:10 to 07:10, nearest transit: Fourth St @ Talbot Ave, 237.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Santa Rosa",
+    "transportation": "-",
+    "breakfast": "East West Cafe, Santa Rosa",
+    "lunch": "Yeti Restaurant, Santa Rosa",
+    "dinner": "Sazon, Santa Rosa",
+    "attraction": "Safari West, Santa Rosa",
+    "accommodation": "Lovely older home w/ private rm and bath/tub., Santa Rosa",
+    "event": "-",
+    "point_of_interest_list": "Lovely older home w/ private rm and bath/tub., stay from 07:40 to 08:10, nearest transit: Fourth St @ Talbot Ave, 237.09m away; East West Cafe, Santa Rosa, visit from 08:40 to 09:30, ; Safari West, Santa Rosa, visit from 10:00 to 13:30, ; Yeti Restaurant, Santa Rosa, visit from 14:00 to 15:00, ; Sazon, Santa Rosa, visit from 19:01 to 20:16, ; Lovely older home w/ private rm and bath/tub., stay from 20:46 to 05:30, nearest transit: Fourth St @ Talbot Ave, 237.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Santa Rosa to Dallas",
+    "transportation": "Flight Number: F3602678, from Santa Rosa to Dallas, Departure Time: 14:02, Arrival Time: 19:23",
+    "breakfast": "Piner Cafe, Santa Rosa",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Harvest Moon Winery, Santa Rosa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lovely older home w/ private rm and bath/tub., stay from 06:00 to 06:30, nearest transit: Fourth St @ Talbot Ave, 237.09m away; Piner Cafe, Santa Rosa, visit from 08:00 to 09:32, ; Harvest Moon Winery, Santa Rosa, visit from 10:02 to 13:32, "
+  }
+]

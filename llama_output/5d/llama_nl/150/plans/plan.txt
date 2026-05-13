@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-07', '2024-11-09', '2024-11-11'],
+Transportation methods between cities: ['Flight Number: F0451626, from Boise to San Diego, Departure Time: 12:01, Arrival Time: 13:10', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Boise, duration: 689.16, distance: 840.3919000000001, cost: 840'],
+Restaurants (3 meals per day): ['-', "Lou & Mickey's, San Diego", 'Barbusa, San Diego', 'Din Tai Fung, San Diego', 'Morning Glory, San Diego', 'Born & Raised, San Diego', "Ruth's Chris Steak House, San Diego", 'La Puerta, San Diego', 'Cafe Coyote, San Diego', "Chu's Too, Redding", 'Fratelli’s Pizza Parlour, Redding', 'Olive Garden Italian Restaurant, Redding', 'Thai Cafe, Redding', 'Janya Thai Cusine, Redding', 'Vintage Public House, Redding'],
+Attractions (1 per day): ['San Diego Zoo, San Diego', 'SeaWorld, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Redding Civic Auditorium, Redding', 'Turtle Bay Exploration Park, Redding'],
+Accommodations (1 per city): ['Place to Stay with Private Entrance near Beach, San Diego', 'Berit’s Place ~ Oasis with Scenic Views, Redding']

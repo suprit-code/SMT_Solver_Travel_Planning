@@ -1,0 +1,6 @@
+Destination cities: ['Reno'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F1227826, from Chicago to Reno, Departure Time: 20:09, Arrival Time: 22:12', 'Flight Number: F3896509, from Reno to Chicago, Departure Time: 00:06, Arrival Time: 05:55'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Smiling with hope Pizza, Reno', 'Pho 777 Vietnamese Restaurant, Reno', "Bertha Miranda's Mexican Restaurant, Reno", '-', '-', '-'],
+Attractions (1 per day): ['-', 'Truckee River Walk, Reno', '-'],
+Accommodations (1 per city): ['The Foley Nest, Reno']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to Baltimore",
+    "transportation": "Flight Number: F4036779, from Louisville to Baltimore, Departure Time: 13:32, Arrival Time: 14:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Abbey Burger Bistro, Baltimore",
+    "attraction": "-",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 15:22 to 15:52, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; The Abbey Burger Bistro, Baltimore, visit from 19:00 to 20:15, ; The basement, stay from 20:45 to 06:36, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Amicci's, Baltimore",
+    "lunch": "Pratt Street Ale House, Baltimore",
+    "dinner": "Magdalena, A Maryland Bistro, Baltimore",
+    "attraction": "Federal Hill Park, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 07:06 to 07:36, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Amicci's, Baltimore, visit from 08:06 to 08:56, ; Federal Hill Park, Baltimore, visit from 09:26 to 12:56, ; Pratt Street Ale House, Baltimore, visit from 14:30 to 15:30, ; Magdalena, A Maryland Bistro, Baltimore, visit from 20:45 to 22:00, ; The basement, stay from 22:30 to 06:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Louisville",
+    "transportation": "Flight Number: F0030670, from Baltimore to Louisville, Departure Time: 17:57, Arrival Time: 19:30",
+    "breakfast": "Tagliata, Baltimore",
+    "lunch": "Angies Seafood, Baltimore",
+    "dinner": "-",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 07:00 to 07:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Tagliata, Baltimore, visit from 08:00 to 08:50, ; National Aquarium, Baltimore, visit from 09:20 to 12:50, ; Angies Seafood, Baltimore, visit from 13:20 to 14:20, "
+  }
+]

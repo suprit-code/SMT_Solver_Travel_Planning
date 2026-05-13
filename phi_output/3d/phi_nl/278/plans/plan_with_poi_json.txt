@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Wichita",
+    "transportation": "Flight Number: F2463339, from Houston to Wichita, Departure Time: 16:19, Arrival Time: 17:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Wichita Art Museum, Wichita",
+    "accommodation": "Downtown Retreat, Wichita",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Wichita",
+    "transportation": "-",
+    "breakfast": "Beacon Restaurant, Wichita",
+    "lunch": "Doo-Dah Diner, Wichita",
+    "dinner": "Cafe Bel Ami, Wichita",
+    "attraction": "Mid-America All-Indian Center, Wichita",
+    "accommodation": "Downtown Retreat, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Downtown Retreat, stay from 08:00 to 08:30, nearest transit: Emporia and Lincoln IB, 233.24m away; Beacon Restaurant, visit from 09:00 to 09:40, nearest transit: Washington and Douglas IB, 66.33m away; Mid-America All-Indian Center, visit from 10:10 to 12:10, nearest transit: Mid American Indian Center, 104.49m away; Doo-Dah Diner, visit from 13:40 to 14:20, nearest transit: Broadway and Dewey OB, 87.77m away; Cafe Bel Ami, visit from 19:00 to 19:40, nearest transit: Douglas and Market IB, 141.26m away; Downtown Retreat, stay from 23:00 to 08:00, nearest transit: Emporia and Lincoln IB, 233.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wichita to Houston",
+    "transportation": "Flight Number: F1088823, from Wichita to Houston, Departure Time: 16:40, Arrival Time: 18:32",
+    "breakfast": "Whiskey Dicks, Wichita",
+    "lunch": "Puero Vallarta Mexican Restaurant, Wichita",
+    "dinner": "Chester's Chophouse and Wine Bar, Wichita",
+    "attraction": "The Keeper of the Plains, Wichita",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Retreat, stay from 08:00 to 08:30, nearest transit: Emporia and Lincoln IB, 233.24m away; Whiskey Dicks, visit from 09:00 to 09:40, nearest transit: Seneca and McCormick OB, 236.36m away; The Keeper of the Plains, visit from 10:10 to 12:10, nearest transit: Central and Nims IB, 186.30m away; Puero Vallarta Mexican Restaurant, visit from 12:40 to 13:20, nearest transit: Central and Tyler IB, 133.40m away; Chester's Chophouse and Wine Bar, visit from 15:30 to 16:10, nearest transit: Whole Foods on Webb, 279.88m away"
+  }
+]

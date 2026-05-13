@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Tampa",
+    "transportation": "Self-driving from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost : 52.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Curry Leaves Indian Cuisine, Tampa",
+    "attraction": "-",
+    "accommodation": "Cozy Suite, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Cozy Suite, stay from 19:45 to 20:15, nearest transit: U Mall to MSC, 3243.17m away; Curry Leaves Indian Cuisine, Tampa, visit from 20:45 to 22:03, ; Cozy Suite, stay from 22:33 to 06:33, nearest transit: U Mall to MSC, 3243.17m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "La Terrazza Restaurant, Tampa",
+    "lunch": "Yummy House China Bistro, Tampa",
+    "dinner": "Al's Finger Licking Good Bar-B-Que, Tampa",
+    "attraction": "Tampa Riverwalk, Tampa",
+    "accommodation": "Cozy Suite, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Cozy Suite, stay from 07:03 to 07:33, nearest transit: U Mall to MSC, 3243.17m away; La Terrazza Restaurant, Tampa, visit from 08:03 to 09:29, ; Yummy House China Bistro, Tampa, visit from 13:30 to 14:30, ; Tampa Riverwalk, Tampa, visit from 15:00 to 18:30, ; Al's Finger Licking Good Bar-B-Que, Tampa, visit from 19:00 to 20:15, ; Cozy Suite, stay from 20:45 to 04:45, nearest transit: U Mall to MSC, 3243.17m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Raleigh",
+    "transportation": "Self-driving from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost : 51.0",
+    "breakfast": "-",
+    "lunch": "The Pearl Tampa, Tampa",
+    "dinner": "Bern's Steak House, Tampa",
+    "attraction": "Raymond James Stadium, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Suite, stay from 06:00 to 06:30, nearest transit: U Mall to MSC, 3243.17m away; Raymond James Stadium, Tampa, visit from 09:00 to 12:30, ; The Pearl Tampa, Tampa, visit from 13:00 to 14:00, ; Bern's Steak House, Tampa, visit from 19:00 to 20:15, "
+  }
+]

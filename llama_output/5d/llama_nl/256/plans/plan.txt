@@ -1,0 +1,6 @@
+Destination cities: ['New York', 'Rochester'],
+Transportation dates: ['2024-11-03', '2024-11-05', '2024-11-07'],
+Transportation methods between cities: ["Flight Number: F2759026, from Martha's Vineyard to New York, Departure Time: 15:51, Arrival Time: 17:08", 'Flight Number: F1412048, from New York to Rochester, Departure Time: 16:50, Arrival Time: 18:36', "taxi, from Rochester to Martha's Vineyard, duration: 603.14, distance: 746.2836, cost: 746"],
+Restaurants (3 meals per day): ['-', '-', '-', 'Azalea Ristorante, New York', 'Sarge’s Delicatessen & Diner, New York', 'Westway Diner, New York', "Sylvia's Restaurant, New York", 'Times Square Diner, New York', "Tiny Tim's Tea Rooms, Rochester", 'Nick Tahou Hots, Rochester', 'Savoia Pastry Shoppe, Rochester', "Lipuma's Coney Island, Rochester", 'Canadian Honker Restaurant & Lounge, Rochester', 'The Eagle Tavern, Rochester', 'Don Vincenzo, Rochester'],
+Attractions (1 per day): ['The High Line, New York', 'Central Park, New York', 'Chelsea Market, New York', 'Restoration House, Rochester', 'Rochester Castle, Rochester'],
+Accommodations (1 per city): ['Private Studio with Shared Bath, New York', 'Historic Henrietta Apartment, Rochester']

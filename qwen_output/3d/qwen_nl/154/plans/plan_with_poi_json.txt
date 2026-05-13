@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to San Francisco",
+    "transportation": "Flight Number: F0460749, from Boise to San Francisco, Departure Time: 16:30, Arrival Time: 17:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "Style & Comfort-Private Suite near UCSF and GGPark, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Morton's The Steakhouse, San Francisco",
+    "lunch": "Mersea Restaurant & Bar, San Francisco",
+    "dinner": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Style & Comfort-Private Suite near UCSF and GGPark, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Style & Comfort-Private Suite near UCSF and GGPark, stay from 08:00 to 08:30, nearest transit: Civic Center BART (9th and Market), 5178.06m away; Morton's The Steakhouse, visit from 08:55 to 09:35, nearest transit: Powell @ 22 4th, 441.77m away; Lands End, visit from 10:00 to 12:00, nearest transit: Civic Center BART (9th and Market), 7487.45m away; Mersea Restaurant & Bar, visit from 13:35 to 14:15, nearest transit: Mission @ Spear (Embarcadero), 3667.91m away; Harris' Restaurant - The San Francisco Steakhouse, visit from 19:00 to 19:40, nearest transit: Powell @ 22 4th, 1858.31m away; Style & Comfort-Private Suite near UCSF and GGPark, stay from 20:05 to 08:00, nearest transit: Civic Center BART (9th and Market), 5178.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Boise",
+    "transportation": "Flight Number: F0452587, from San Francisco to Boise, Departure Time: 19:10, Arrival Time: 21:34",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "Scala's Bistro, San Francisco",
+    "dinner": "Honey Honey Cafe & Crepery, San Francisco",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Style & Comfort-Private Suite near UCSF and GGPark, stay from 08:00 to 08:30, nearest transit: Civic Center BART (9th and Market), 5178.06m away; Quince, visit from 08:55 to 09:35, nearest transit: Mission @ Spear (Embarcadero), 994.70m away; Golden Gate Park, visit from 10:00 to 12:00, nearest transit: Civic Center BART (9th and Market), 5974.62m away; Scala's Bistro, visit from 13:35 to 14:15, nearest transit: Powell @ 22 4th, 451.00m away; Honey Honey Cafe & Crepery, visit from 18:32 to 18:45, nearest transit: Powell @ 22 4th, 579.32m away"
+  }
+]

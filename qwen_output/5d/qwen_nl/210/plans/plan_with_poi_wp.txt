@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to San Diego",
+    "transportation": "Flight Number: F3171353, from Las Vegas to San Diego, Departure Time: 09:40, Arrival Time: 10:41",
+    "breakfast": "-",
+    "lunch": "Morning Glory, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "Balboa Park, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 11:11 to 11:41, nearest transit: Upas St & 30th St, 403.13m away; Morning Glory, San Diego, visit from 12:11 to 13:11, ; Balboa Park, San Diego, visit from 15:00 to 18:30, ; Lou & Mickey's, San Diego, visit from 19:00 to 20:15, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 20:45 to 04:45, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Covewood Restaurant, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "Petco Park, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 06:00 to 06:30, nearest transit: Upas St & 30th St, 403.13m away; Covewood Restaurant, San Diego, visit from 09:09 to 09:59, ; Petco Park, San Diego, visit from 10:29 to 13:59, ; Mimmo's, San Diego, visit from 14:29 to 15:29, ; Pacific Beach AleHouse, San Diego, visit from 20:45 to 22:00, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 22:30 to 06:30, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Redding Farmhouse Getaway, Redding",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:00 to 07:30, nearest transit: Upas St & 30th St, 403.13m away; Filippi's Pizza Grotto Little Italy, San Diego, visit from 08:00 to 08:50, ; Redding Farmhouse Getaway, stay from 22:04 to 22:34, nearest transit: College View Dr at Old Oregon Trail, 408.05m away; Redding Farmhouse Getaway, stay from 23:04 to 07:04, nearest transit: College View Dr at Old Oregon Trail, 408.05m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Thai Hut, Redding",
+    "lunch": "Los Gordos, Redding",
+    "dinner": "Champa Garden, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "Redding Farmhouse Getaway, Redding",
+    "event": "-",
+    "point_of_interest_list": "Redding Farmhouse Getaway, stay from 07:34 to 08:04, nearest transit: College View Dr at Old Oregon Trail, 408.05m away; Thai Hut, Redding, visit from 09:10 to 10:00, ; Sundial Bridge, Redding, visit from 10:30 to 14:00, ; Los Gordos, Redding, visit from 14:30 to 15:30, ; Champa Garden, Redding, visit from 19:31 to 20:46, ; Redding Farmhouse Getaway, stay from 21:16 to 05:16, nearest transit: College View Dr at Old Oregon Trail, 408.05m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Las Vegas",
+    "transportation": "Taxi from Redding to Las Vegas, duration: 756.2466666666667, distance: 1007.9322, cost : 1007.0",
+    "breakfast": "Trendy's, Redding",
+    "lunch": "New China, Redding",
+    "dinner": "Karlines, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Redding Farmhouse Getaway, stay from 06:00 to 06:30, nearest transit: College View Dr at Old Oregon Trail, 408.05m away; Trendy's, Redding, visit from 08:00 to 08:50, ; New China, Redding, visit from 12:51 to 13:51, ; Turtle Bay Exploration Park, Redding, visit from 15:00 to 18:30, ; Karlines, Redding, visit from 19:00 to 20:15, "
+  }
+]

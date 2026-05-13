@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Fresno'],
+Transportation dates: ['2024-11-24', '2024-11-26', '2024-11-28'],
+Transportation methods between cities: ['Flight Number: F0080601, from Tucson to San Diego, Departure Time: 14:22, Arrival Time: 15:31', 'Flight Number: F0589388, from San Diego to Fresno, Departure Time: 19:57, Arrival Time: 21:23', 'taxi, from Fresno to Tucson, duration: 762.06, distance: 1129.7628, cost: 1129'],
+Restaurants (3 meals per day): ['-', '-', "Lou & Mickey's, San Diego", 'Juniper and Ivy, San Diego', 'Pacific Beach AleHouse, San Diego', 'Born & Raised, San Diego', "Mister A'S, San Diego", "Mimmo's, San Diego", 'Addison Restaurant, San Diego', 'Phoenician Garden Mediterranean Bar & Grill, Fresno', 'Taqueria Don Pepe, Fresno', 'Fig Garden Village, Fresno', 'Ampersand Ice Cream, Fresno', 'The Annex Kitchen, Fresno', 'Parma, Fresno'],
+Attractions (1 per day): ['San Diego Zoo, San Diego', 'SeaWorld, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Fresno Chaffee Zoo, Fresno', 'Kearney Mansion Museum & Gallery, Fresno'],
+Accommodations (1 per city): ['Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego', 'Warm Suite with Private Bath and Kitchenette, Fresno']

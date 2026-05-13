@@ -1,0 +1,10 @@
+########## Transportation response ##########
+            variables['self-driving'] = [Bool('self-driving_travel_' + str(i)) for i in range(3)]
+            driving_0_arrtime = IntVal(-1)
+            driving_1_arrtime = IntVal(-1)
+            driving_2_arrtime = IntVal(-1)
+            s.assert_and_track(Or(variables['self-driving'][0], variables['self-driving'][1], variables['self-driving'][2]), 'all three transportations are self-driving')
+            s.assert_and_track(variables['self-driving'][0], 'first transportation is self-driving')
+            s.assert_and_track(variables['self-driving'][1], 'second transportation is self-driving')
+            s.assert_and_track(variables['self-driving'][2], 'third transportation is self-driving')
+            ########## Transportation response ends ##########

@@ -1,0 +1,4 @@
+not ok
+Unsatisfiable core:
+valid attraction index
+attraction in which city

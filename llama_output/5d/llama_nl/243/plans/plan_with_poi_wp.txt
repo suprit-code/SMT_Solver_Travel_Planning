@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Greensboro",
+    "transportation": "Flight Number: F4050722, from New York to Greensboro, Departure Time: 10:50, Arrival Time: 12:27",
+    "breakfast": "-",
+    "lunch": "Golden Wok, Greensboro",
+    "dinner": "Print Works Bistro, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "Cottage at Three Magnolias, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 12:57 to 13:27, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; Golden Wok, Greensboro, visit from 13:57 to 14:57, ; Carolina Theatre, Greensboro, visit from 15:27 to 18:57, ; Print Works Bistro, Greensboro, visit from 19:27 to 20:42, ; Cottage at Three Magnolias, stay from 21:12 to 05:12, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Hops Burger Bar, Greensboro",
+    "lunch": "Lucky 32 Southern Kitchen, Greensboro",
+    "dinner": "Darryl's Wood Fired Grill, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Cottage at Three Magnolias, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 06:00 to 06:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; Hops Burger Bar, Greensboro, visit from 08:31 to 09:21, ; Lucky 32 Southern Kitchen, Greensboro, visit from 13:22 to 14:22, ; Ambleside Gallery, Greensboro, visit from 15:30 to 19:15, ; Darryl's Wood Fired Grill, Greensboro, visit from 19:45 to 21:00, ; Cottage at Three Magnolias, stay from 21:30 to 05:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Vito's Italian Restaurant, Greensboro",
+    "lunch": "1618 West Seafood Grill, Greensboro",
+    "dinner": "Fish Bites Seafood, Wilmington",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "The Retro Room- Private Suite with bathroom, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 06:00 to 06:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; Vito's Italian Restaurant, Greensboro, visit from 08:00 to 08:50, ; International Civil Rights Center & Museum, Greensboro, visit from 09:20 to 12:50, ; 1618 West Seafood Grill, Greensboro, visit from 13:20 to 14:20, ; The Retro Room- Private Suite with bathroom, stay from 19:18 to 19:48, nearest transit: Market St WB at 12th St, 153.0m away; Fish Bites Seafood, Wilmington, visit from 20:18 to 21:33, ; The Retro Room- Private Suite with bathroom, stay from 22:03 to 06:03, nearest transit: Market St WB at 12th St, 153.0m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Catch, Wilmington",
+    "lunch": "Iron Hill Brewery & Restaurant, Wilmington",
+    "dinner": "The Wilmington, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "The Retro Room- Private Suite with bathroom, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Retro Room- Private Suite with bathroom, stay from 06:33 to 07:03, nearest transit: Market St WB at 12th St, 153.0m away; Catch, Wilmington, visit from 08:31 to 09:21, ; Battleship North Carolina, Wilmington, visit from 09:51 to 13:21, ; Iron Hill Brewery & Restaurant, Wilmington, visit from 13:51 to 14:51, ; The Wilmington, Wilmington, visit from 19:00 to 20:15, ; The Retro Room- Private Suite with bathroom, stay from 20:45 to 04:45, nearest transit: Market St WB at 12th St, 153.0m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to New York",
+    "transportation": "Flight Number: F3205421, from Wilmington to New York, Departure Time: 17:43, Arrival Time: 19:20",
+    "breakfast": "Roko Italian Cuisine, Wilmington",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Retro Room- Private Suite with bathroom, stay from 06:00 to 06:30, nearest transit: Market St WB at 12th St, 153.0m away; Roko Italian Cuisine, Wilmington, visit from 08:00 to 08:50, ; Burgwin-Wright House and Gardens, Wilmington, visit from 09:20 to 12:50, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Charleston'],
+Transportation dates: ['2024-11-09', '2024-11-11'],
+Transportation methods between cities: ['Flight Number: F0388998, from Miami to Charleston, Departure Time: 16:02, Arrival Time: 17:48', 'Flight Number: F1029485, from Charleston to Miami, Departure Time: 19:48, Arrival Time: 21:44'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Amen Street Fish & Raw Bar, Charleston', 'Stars Restaurant-Rooftop & Grill Room, Charleston', "Virginia's on King, Charleston", "Eli's Table, Charleston", "Poogan's Porch, Charleston", '-'],
+Attractions (1 per day): ['Charleston Waterfront Park, Charleston', 'Middleton Place, Charleston', 'Magnolia Plantation & Gardens, Charleston'],
+Accommodations (1 per city): ['The Backpacker, Charleston']

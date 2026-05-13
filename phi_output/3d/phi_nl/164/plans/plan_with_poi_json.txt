@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Antonio",
+    "transportation": "Flight Number: F1372422, from Miami to San Antonio, Departure Time: 13:47, Arrival Time: 16:10",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bubba Gump Shrimp Co., San Antonio",
+    "attraction": "Pearl Brewery, San Antonio",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Battalion, San Antonio",
+    "lunch": "J Prime Steakhouse, San Antonio",
+    "dinner": "Bliss, San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 08:00 to 08:30, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Battalion, visit from 09:00 to 09:40, nearest transit: S ALAMO OPPOSITE REFUGIO & LAVACA, 55.78m away; The Alamo, visit from 10:10 to 12:10, nearest transit: THIRD & AVENUE E, 126.00m away; J Prime Steakhouse, visit from 13:40 to 14:20, nearest transit: WESTBOUND LOOP 1604 ACCESS RD. 645 FT. WEST OF BLANCO, 134.64m away; Bliss, visit from 19:00 to 19:40, nearest transit: S. PRESA OPPOSITE SADIE, 41.72m away; Couples getaway kink dungeon, stay from 23:00 to 08:00, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Antonio to Miami",
+    "transportation": "Flight Number: F2584235, from San Antonio to Miami, Departure Time: 17:50, Arrival Time: 21:42",
+    "breakfast": "Boudro's Texas Bistro, San Antonio",
+    "lunch": "Schilo's, San Antonio",
+    "dinner": "Santa Diabla - Cocina Mexicana, San Antonio",
+    "attraction": "Tower Of The Americas, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 08:00 to 08:30, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Boudro's Texas Bistro, visit from 09:00 to 09:40, nearest transit: COMMERCE & PRESA, 59.28m away; Tower Of The Americas, visit from 10:10 to 12:10, nearest transit: CESAR CHAVEZ OPPOSITE INDIANOLA, 223.17m away; Schilo's, visit from 12:40 to 13:20, nearest transit: COMMERCE & PRESA, 72.30m away; Santa Diabla - Cocina Mexicana, visit from 16:40 to 17:20, nearest transit: N. ST. MARY'S & ELMIRA, 105.46m away"
+  }
+]

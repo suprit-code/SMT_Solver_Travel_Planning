@@ -1,0 +1,6 @@
+Destination cities: ['Charlotte'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Self-driving, from Valparaiso to Charlotte, duration: 839.0333333333333, distance: 1153.1453, cost: 57', 'Self-driving, from Charlotte to Valparaiso, duration: 836.4466666666667, distance: 1151.8786, cost: 57'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Gaucho Charlotte Street, Charlotte', 'The Terrace at The Charlotte Inn, Charlotte', "Charlotte's Web, Charlotte", 'Cabo Fish Taco Baja Seagrill, Charlotte', 'The Charlotte Hotel & Restaurant, Charlotte', 'Charlotte & Fritz, Charlotte'],
+Attractions (1 per day): ['-', 'NASCAR Hall of Fame, Charlotte', 'Discovery Place Science, Charlotte'],
+Accommodations (1 per city): ['Bedroom with Private Patio & Gym Near Uptown!, Charlotte']

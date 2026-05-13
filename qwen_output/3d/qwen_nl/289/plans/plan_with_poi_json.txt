@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Memphis",
+    "transportation": "Flight Number: F2748427, from Boston to Memphis, Departure Time: 07:37, Arrival Time: 09:39",
+    "breakfast": "-",
+    "lunch": "Interstate Barbecue, Memphis",
+    "dinner": "Itta Bena, Memphis",
+    "attraction": "Backbeat Tours, Memphis",
+    "accommodation": "Historic Cooper Young Midtown Shotgun House, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 10:04 to 10:24, nearest transit: YOUNG@MEDA, 88.72m away; Backbeat Tours, visit from 10:49 to 12:49, nearest transit: THIRD@PEABODYPL, 78.56m away; Interstate Barbecue, visit from 13:14 to 13:54, nearest transit: MALLORY@THIRD, 92.75m away; Itta Bena, visit from 19:00 to 19:40, nearest transit: SECOND@BEALE, 52.19m away; Historic Cooper Young Midtown Shotgun House, stay from 20:05 to 08:00, nearest transit: YOUNG@MEDA, 88.72m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Memphis",
+    "transportation": "-",
+    "breakfast": "Mcewen's Memphis, Memphis",
+    "lunch": "Pig On Beale, Memphis",
+    "dinner": "Flight Restaurant and Wine Bar, Memphis",
+    "attraction": "Mud Island River Park, Memphis",
+    "accommodation": "Historic Cooper Young Midtown Shotgun House, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 08:00 to 08:30, nearest transit: YOUNG@MEDA, 88.72m away; Mcewen's Memphis, visit from 08:55 to 09:35, nearest transit: MADISON-MAIN/TRO NB, 125.12m away; Mud Island River Park, visit from 10:00 to 12:00, nearest transit: FRONT@POPLAR, 539.88m away; Pig On Beale, visit from 13:35 to 14:15, nearest transit: THIRD@PEABODYPL, 99.13m away; Flight Restaurant and Wine Bar, visit from 19:00 to 19:40, nearest transit: UNION-MAIN/TRO SB, 103.36m away; Historic Cooper Young Midtown Shotgun House, stay from 20:05 to 08:00, nearest transit: YOUNG@MEDA, 88.72m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Memphis to Boston",
+    "transportation": "Flight Number: F1699917, from Memphis to Boston, Departure Time: 10:45, Arrival Time: 14:33",
+    "breakfast": "Memphis Blues Barbeque House, Memphis",
+    "lunch": "Silky O'sullivan's, Memphis",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 08:00 to 08:10, nearest transit: YOUNG@MEDA, 88.72m away; Memphis Blues Barbeque House, visit from 08:35 to 08:48, nearest transit: BRADEN@BRANDYWINE, 2883218.55m away; Silky O'sullivan's, visit from 10:07 to 10:20, nearest transit: THIRD@PEABODYPL, 87.30m away"
+  }
+]

@@ -1,0 +1,1 @@
+Design a 7-day travel itinerary for 1 person starting from Denver and visiting 3 cities in Iowa between November 15th and November 21st, 2024. The budget is $8,400. Transportation should exclude flights.

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to Atlanta",
+    "transportation": "Flight Number: F1286239, from Boise to Atlanta, Departure Time: 23:59, Arrival Time: 05:47",
+    "breakfast": "-",
+    "lunch": "Kevin Rathbun Steak, Atlanta",
+    "dinner": "The Capital Grille, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "Urban Nature Retreat |  Pets | Insurance, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Urban Nature Retreat |  Pets | Insurance, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Urban Nature Retreat |  Pets | Insurance, stay from 08:00 to 08:30, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away; Cafe Agora, visit from 09:00 to 09:40, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; Georgia Aquarium, visit from 10:10 to 12:10, nearest transit: IVAN ALLEN JR BLVD NW @ LUCKIE ST, 131.37m away; Aviva by Kameel, visit from 13:40 to 14:20, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away; Home Grown, visit from 19:00 to 19:40, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; Urban Nature Retreat |  Pets | Insurance, stay from 23:00 to 08:00, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Boise",
+    "transportation": "Flight Number: F1295674, from Atlanta to Boise, Departure Time: 20:21, Arrival Time: 22:34",
+    "breakfast": "The Optimist, Atlanta",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "St. Cecilia, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Urban Nature Retreat |  Pets | Insurance, stay from 08:00 to 08:30, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away; The Optimist, visit from 09:00 to 09:40, nearest transit: W MARIETTA ST @ BRADY AVE, 164.88m away; Zoo Atlanta, visit from 10:10 to 12:10, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; Steamhouse Lounge, visit from 13:40 to 14:20, nearest transit: W PEACHTREE ST @ 12TH ST, 93.00m away; St. Cecilia, visit from 19:00 to 19:40, nearest transit: PEACHTREE RD NE @ OAK VALLEY RD NE, 63.53m away"
+  }
+]

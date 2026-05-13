@@ -1,0 +1,9 @@
+
+                for accommodation_index in range(len(accommodations)):
+                    accommodations[accommodation_index]['room_type'] = 'Entire home/apt'
+                    accommodations[accommodation_index]['house_rules'] = [
+                        'No restrictions on children under 10',
+                        'No pets allowed',
+                        'No smoking'
+                    ]
+                

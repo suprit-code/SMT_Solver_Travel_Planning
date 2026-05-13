@@ -1,0 +1,60 @@
+
+                def run_event_search(city_ids):
+                    events = {}
+                    for city_id in city_ids:
+                        # Assume EventSearch returns a list of events for each city
+                        events[city_id] = ["Event1", "Event2", "Event3", "Event4", "Event5", "Event6", "Event7"]
+                    return events
+                
+                def set_event_in_which_city(events, city_ids):
+                    event_in_which_city = {}
+                    for i, city_id in enumerate(city_ids):
+                        if i < len(city_ids) - 1:
+                            event_in_which_city[i] = city_id if i % 2 == 0 else city_ids[i + 1]
+                        else:
+                            event_in_which_city[i] = city_id
+                    return event_in_which_city
+                
+                def set_event_index(event_in_which_city, events):
+                    event_index = {}
+                    for key, city_id in event_in_which_city.items():
+                        event_index[key] = events[city_id].index("Event" + str(key + 1))
+                    return event_index
+                
+                def define_category_score(event_index, events):
+                    category_scores = {}
+                    for key, index in event_index.items():
+                        category = events[event_index[key]][index].split()[0]
+                        if category in ["Sports", "Arts & Theatre"]:
+                            category_scores[key] = 1
+                        else:
+                            category_scores[key] = 0
+                    return category_scores
+                
+                def maximize_selected_events(events, city_ids):
+                    events_in_same_city = {city_id: [] for city_id in city_ids}
+                    for i, city_id in enumerate(city_ids):
+                        events_in_same_city[city_id].append("Event" + str(i + 1))
+                    
+                    event_in_which_city = set_event_in_which_city(events, city_ids)
+                    event_index = set_event_index(event_in_which_city, events)
+                    category_scores = define_category_score(event_index, events)
+                    
+                    sports_count = 0
+                    arts_theatre_count = 0
+                    for key, score in category_scores.items():
+                        if score == 1:
+                            if events[event_index[key]][event_index[key]].startswith("Sports"):
+                                sports_count += 1
+                            elif events[event_index[key]][event_index[key]].startswith("Arts & Theatre"):
+                                arts_theatre_count += 1
+                    
+                    print(f"Selected Sports events: {sports_count}")
+                    print(f"Selected Arts & Theatre events: {arts_theatre_count}")
+                
+                # Example usage
+                city_ids = [0, 1, 2]
+                events = run_event_search(city_ids)
+                maximize_selected_events(events, city_ids)
+                
+                

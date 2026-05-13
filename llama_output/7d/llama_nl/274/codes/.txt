@@ -1,0 +1,81 @@
+
+                def run_event_search(city_ids):
+                    events = {}
+                    for city_id in city_ids:
+                        # Assume this function returns a list of events for the given city
+                        events[city_id] = EventSearch(city_id)
+                    return events
+                
+                def set_event_in_which_city(events, city_ids, transportation_arrivals):
+                    event_in_which_city = {}
+                    for i, arrival_time in enumerate(transportation_arrivals):
+                        current_city = city_ids[i % len(city_ids)]
+                        next_city = city_ids[(i + 1) % len(city_ids)]
+                        if arrival_time <= events[current_city][0].start_time:
+                            event_in_which_city[i] = current_city
+                        else:
+                            event_in_which_city[i] = next_city
+                    return event_in_which_city
+                
+                def set_event_index(event_in_which_city, events):
+                    event_index = {}
+                    for i, city in event_in_which_city.items():
+                        event_index[i] = events[city][i]
+                    return event_index
+                
+                def define_category_score(event_index, events):
+                    category_scores = {}
+                    for i, event in event_index.items():
+                        city = event.city
+                        if city not in category_scores:
+                            category_scores[city] = 0
+                        category_scores[city] += event.category_score
+                    return category_scores
+                
+                def get_specific_length_info(events, event_index, event_in_which_city):
+                    specific_length_info = {}
+                    for i, event in event_index.items():
+                        city = event_in_which_city[i]
+                        specific_length_info[i] = events[city].get_specific_length_info(event)
+                    return specific_length_info
+                
+                def assert_valid_range(specific_length_info):
+                    for i, length_info in specific_length_info.items():
+                        assert 0 <= length_info < len(events[event_in_which_city[i]]), f"Index {i} out of range for event in {event_in_which_city[i]}"
+                
+                def ensure_no_repeated_events_in_same_city(event_index, event_in_which_city):
+                    cities = set()
+                    for i, city in event_in_which_city.items():
+                        if city in cities:
+                            raise ValueError(f"Event at index {i} is in the same city as another event: {city}")
+                        cities.add(city)
+                
+                def maximize_selected_events(events, event_index, event_in_which_city, category_scores):
+                    max_score = 0
+                    best_events = []
+                    for i, event in event_index.items():
+                        city = event_in_which_city[i]
+                        if city not in best_events:
+                            current_score = category_scores[city]
+                            if current_score > max_score:
+                                max_score = current_score
+                                best_events = [city]
+                            elif current_score == max_score:
+                                best_events.append(city)
+                    return best_events
+                
+                # Example usage
+                city_ids = [0, 1, 2]
+                events = run_event_search(city_ids)
+                transportation_arrivals = [9, 10, 11, 12, 13, 14, 15]
+                event_in_which_city = set_event_in_which_city(events, city_ids, transportation_arrivals)
+                event_index = set_event_index(event_in_which_city, events)
+                category_scores = define_category_score(event_index, events)
+                specific_length_info = get_specific_length_info(events, event_index, event_in_which_city)
+                assert_valid_range(specific_length_info)
+                ensure_no_repeated_events_in_same_city(event_index, event_in_which_city)
+                best_events = maximize_selected_events(events, event_index, event_in_which_city, category_scores)
+                print("Best events:", best_events)
+                
+                
+                This code follows the steps outlined in your description, including running `EventSearch`, setting `event_in_which_city` and `event_index`, defining category scores, getting specific length information, ensuring valid ranges, avoiding repeated events in the same city, and maximizing the number of selected events belonging to a category.

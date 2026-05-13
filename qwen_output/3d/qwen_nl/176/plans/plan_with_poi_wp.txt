@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Nantucket",
+    "transportation": "Flight Number: F1703223, from Washington to Nantucket, Departure Time: 08:01, Arrival Time: 09:22",
+    "breakfast": "-",
+    "lunch": "The Summer House Restaurant, Nantucket",
+    "dinner": "Galley Beach, Nantucket",
+    "attraction": "Great Point Light, Nantucket",
+    "accommodation": "3 beautifully restored 17th-century buildings, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "3 beautifully restored 17th-century buildings, stay from 09:52 to 10:22, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away; The Summer House Restaurant, Nantucket, visit from 12:00 to 13:00, ; Great Point Light, Nantucket, visit from 13:30 to 17:00, ; Galley Beach, Nantucket, visit from 20:45 to 22:00, ; 3 beautifully restored 17th-century buildings, stay from 22:30 to 06:30, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nantucket",
+    "transportation": "-",
+    "breakfast": "The Chanticleer, Nantucket",
+    "lunch": "Le Languedoc Inn & Bistro, Nantucket",
+    "dinner": "Brant Point Grill, Nantucket",
+    "attraction": "Sankaty Head Lighthouse, Nantucket",
+    "accommodation": "3 beautifully restored 17th-century buildings, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "3 beautifully restored 17th-century buildings, stay from 07:00 to 07:30, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away; The Chanticleer, Nantucket, visit from 08:00 to 08:50, ; Le Languedoc Inn & Bistro, Nantucket, visit from 12:51 to 13:51, ; Sankaty Head Lighthouse, Nantucket, visit from 14:21 to 17:51, ; Brant Point Grill, Nantucket, visit from 19:00 to 20:15, ; 3 beautifully restored 17th-century buildings, stay from 20:45 to 05:30, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nantucket to Washington",
+    "transportation": "Flight Number: F1701497, from Nantucket to Washington, Departure Time: 17:05, Arrival Time: 18:34",
+    "breakfast": "Company of the Cauldron, Nantucket",
+    "lunch": "The Proprietors Bar and Table, Nantucket",
+    "dinner": "-",
+    "attraction": "Nantucket Atheneum, Nantucket",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "3 beautifully restored 17th-century buildings, stay from 06:00 to 06:30, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away; Company of the Cauldron, Nantucket, visit from 08:00 to 08:50, ; Nantucket Atheneum, Nantucket, visit from 10:30 to 14:00, ; The Proprietors Bar and Table, Nantucket, visit from 14:30 to 15:30, "
+  }
+]

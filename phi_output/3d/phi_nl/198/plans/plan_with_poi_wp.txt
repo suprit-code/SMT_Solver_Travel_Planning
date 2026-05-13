@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to New York",
+    "transportation": "Flight Number: F1953031, from Dallas to New York, Departure Time: 13:21, Arrival Time: 17:38",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Piccola Cucina Osteria, New York",
+    "attraction": "-",
+    "accommodation": "Private Studio with Shared Bath, New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio with Shared Bath, stay from 18:08 to 18:38, nearest transit: 3 AV/E 14 ST, 30.6m away; Piccola Cucina Osteria, New York, visit from 19:08 to 20:23, ; Private Studio with Shared Bath, stay from 20:53 to 04:53, nearest transit: 3 AV/E 14 ST, 30.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "FIG & OLIVE, New York",
+    "lunch": "Lillie's Victorian Establishment, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "Brooklyn Bridge, New York",
+    "accommodation": "Private Studio with Shared Bath, New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio with Shared Bath, stay from 06:00 to 06:30, nearest transit: 3 AV/E 14 ST, 30.6m away; FIG & OLIVE, New York, visit from 08:47 to 09:37, ; Lillie's Victorian Establishment, New York, visit from 13:38 to 14:38, ; Brooklyn Bridge, New York, visit from 15:08 to 18:38, ; Times Square Diner, New York, visit from 19:45 to 21:00, ; Private Studio with Shared Bath, stay from 21:30 to 05:30, nearest transit: 3 AV/E 14 ST, 30.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Dallas",
+    "transportation": "Flight Number: F1910038, from New York to Dallas, Departure Time: 16:49, Arrival Time: 19:57",
+    "breakfast": "-",
+    "lunch": "Westway Diner, New York",
+    "dinner": "-",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Studio with Shared Bath, stay from 06:00 to 06:30, nearest transit: 3 AV/E 14 ST, 30.6m away; The Metropolitan Museum of Art, New York, visit from 09:00 to 12:30, ; Westway Diner, New York, visit from 14:30 to 15:30, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Chattanooga",
+    "transportation": "Flight Number: F3363091, from Chicago to Chattanooga, Departure Time: 14:33, Arrival Time: 17:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "-",
+    "accommodation": "Chattanooga - The Isbill House, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Chattanooga - The Isbill House, stay from 17:53 to 20:15, nearest transit: Tenn Ave & 38th-0, 4598.95m away; Uncle Larry's Restaurant, Chattanooga, visit from 20:45 to 22:00, ; Chattanooga - The Isbill House, stay from 22:30 to 06:30, nearest transit: Tenn Ave & 38th-0, 4598.95m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Bluegrass Grill, Chattanooga",
+    "lunch": "Hickory Pit Bar-B-Que, Chattanooga",
+    "dinner": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "Chattanooga - The Isbill House, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Chattanooga - The Isbill House, stay from 07:00 to 07:30, nearest transit: Tenn Ave & 38th-0, 4598.95m away; Bluegrass Grill, Chattanooga, visit from 08:00 to 08:50, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 12:51 to 13:51, ; Tennessee Valley Railroad Museum, Chattanooga, visit from 14:21 to 19:15, ; The Purple Daisy Picnic Cafe, Chattanooga, visit from 19:45 to 21:00, ; Chattanooga - The Isbill House, stay from 21:30 to 05:30, nearest transit: Tenn Ave & 38th-0, 4598.95m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Chicago",
+    "transportation": "Flight Number: F3932754, from Chattanooga to Chicago, Departure Time: 17:43, Arrival Time: 18:55",
+    "breakfast": "-",
+    "lunch": "Stir, Chattanooga",
+    "dinner": "-",
+    "attraction": "Walnut Street Bridge, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Chattanooga - The Isbill House, stay from 06:00 to 06:30, nearest transit: Tenn Ave & 38th-0, 4598.95m away; Walnut Street Bridge, Chattanooga, visit from 09:00 to 12:30, ; Stir, Chattanooga, visit from 13:00 to 14:00, "
+  }
+]

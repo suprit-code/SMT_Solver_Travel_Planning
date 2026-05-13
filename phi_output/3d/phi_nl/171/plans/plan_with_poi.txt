@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Anchorage",
+    "transportation": "Flight Number: F0245216, from Seattle to Anchorage, Departure Time: 14:49, Arrival Time: 17:35",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Club Paris, Anchorage",
+    "attraction": "-",
+    "accommodation": "Cozy Riverside Retreat, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "Cozy Riverside Retreat, stay from 18:05 to 19:15, nearest transit: EAGLE RIVER TRANSIT CENTER, 36971.32m away; Club Paris, Anchorage, visit from 19:45 to 21:00, ; Cozy Riverside Retreat, stay from 21:30 to 05:30, nearest transit: EAGLE RIVER TRANSIT CENTER, 36971.32m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Anchorage",
+    "transportation": "-",
+    "breakfast": "anchorage hotel, Anchorage",
+    "lunch": "Kobuk Coffee Co, Anchorage",
+    "dinner": "Kincaid Grill and Wine Bar, Anchorage",
+    "attraction": "Earthquake Park, Anchorage",
+    "accommodation": "Cozy Riverside Retreat, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "Cozy Riverside Retreat, stay from 06:00 to 06:30, nearest transit: EAGLE RIVER TRANSIT CENTER, 36971.32m away; anchorage hotel, Anchorage, visit from 08:00 to 08:50, ; Earthquake Park, Anchorage, visit from 09:20 to 12:50, ; Kobuk Coffee Co, Anchorage, visit from 13:59 to 14:59, ; Kincaid Grill and Wine Bar, Anchorage, visit from 19:00 to 20:15, ; Cozy Riverside Retreat, stay from 20:45 to 04:45, nearest transit: EAGLE RIVER TRANSIT CENTER, 36971.32m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Anchorage to Seattle",
+    "transportation": "Flight Number: F1288269, from Anchorage to Seattle, Departure Time: 14:02, Arrival Time: 18:33",
+    "breakfast": "Simon & Seafort's Saloon & Grill, Anchorage",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Tony Knowles Coastal Trail, Anchorage",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Riverside Retreat, stay from 06:00 to 06:30, nearest transit: EAGLE RIVER TRANSIT CENTER, 36971.32m away; Simon & Seafort's Saloon & Grill, Anchorage, visit from 08:00 to 08:50, ; Tony Knowles Coastal Trail, Anchorage, visit from 09:20 to 12:50, "
+  }
+]

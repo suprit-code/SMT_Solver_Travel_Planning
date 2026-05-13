@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Manchester to Tampa",
+    "transportation": "Flight Number: F0932639, from Manchester to Tampa, Departure Time: 14:33, Arrival Time: 18:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "No Fees! Introverts Paradise! Central Pinellas!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 18:48 to 19:18, nearest transit: U Mall to MSC, 35717.79m away; No Fees! Introverts Paradise! Central Pinellas!, stay from 21:33 to 05:33, nearest transit: U Mall to MSC, 35717.79m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Whiskey Joe's Bar & Grill - Tampa, Tampa",
+    "lunch": "Green Lemon, Tampa",
+    "dinner": "Bavaro's Pizza Napoletana & Pastaria, Tampa",
+    "attraction": "Tampa Theatre, Tampa",
+    "accommodation": "No Fees! Introverts Paradise! Central Pinellas!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 06:03 to 06:33, nearest transit: U Mall to MSC, 35717.79m away; Whiskey Joe's Bar & Grill - Tampa, Tampa, visit from 08:21 to 09:11, ; Tampa Theatre, Tampa, visit from 09:41 to 13:11, ; Green Lemon, Tampa, visit from 13:41 to 14:59, ; Bavaro's Pizza Napoletana & Pastaria, Tampa, visit from 19:00 to 23:30, ; No Fees! Introverts Paradise! Central Pinellas!, stay from 00:00 to 08:00, nearest transit: U Mall to MSC, 35717.79m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Manchester",
+    "transportation": "Flight Number: F3166481, from Tampa to Manchester, Departure Time: 10:57, Arrival Time: 13:45",
+    "breakfast": "Salt Shack On The Bay, Tampa",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 08:30 to 09:00, nearest transit: U Mall to MSC, 35717.79m away; Salt Shack On The Bay, Tampa, visit from 09:30 to 10:20, "
+  }
+]

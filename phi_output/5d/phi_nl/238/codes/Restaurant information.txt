@@ -1,0 +1,15 @@
+
+            ########## Restaurant response ##########
+            # Set 'cuisine_type' variable for cuisine type "American" required
+            variables['cuisine_type'] = [Int('cuisines_American')]
+            
+            # For each 'cuisine_type', iterate through all restaurant to check if it is satisfied
+            for index, cuisine in enumerate(['American']):
+                count = 0
+                for i, variable in enumerate(variables['restaurant_index']):
+                    restaurant_cuisines_list, _ = RestaurantSearch.get_info(restaurant_cuisines, variables['restaurant_in_which_city'][i], 'Cuisines')
+                    count += If(RestaurantSearch.check_exists(cuisine, restaurant_cuisines_list, variable), 1, 0)
+                s.assert_and_track(variables['cuisine_type'][index] == count,  cuisine + 'type restaurant')
+                s.assert_and_track(variables['cuisine_type'][index] > 0,  cuisine + 'type restaurant is visited')
+            ########## Restaurant response ends ##########
+            

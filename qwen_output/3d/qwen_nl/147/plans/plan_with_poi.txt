@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Atlanta",
+    "transportation": "Flight Number: F0838547, from Memphis to Atlanta, Departure Time: 14:52, Arrival Time: 17:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 17:30 to 18:31, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 22:37 to 06:37, nearest transit: CASCADE AVE SW @ 1113, 82.4m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Home Grown, Atlanta",
+    "lunch": "Fox Bros. Bar-B-Q, Atlanta",
+    "dinner": "Steamhouse Lounge, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 07:07 to 07:37, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Home Grown, Atlanta, visit from 08:07 to 08:57, ; Zoo Atlanta, Atlanta, visit from 09:27 to 12:57, ; Fox Bros. Bar-B-Q, Atlanta, visit from 13:27 to 14:27, ; Steamhouse Lounge, Atlanta, visit from 19:00 to 20:15, ; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 20:45 to 06:30, nearest transit: CASCADE AVE SW @ 1113, 82.4m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Memphis",
+    "transportation": "Self-driving from Atlanta to Memphis, duration: 421.4566666666667, distance: 612.9464, cost : 30.0",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "Bangkok Station, Atlanta",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 07:00 to 07:30, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Cafe Agora, Atlanta, visit from 08:00 to 08:50, ; Bangkok Station, Atlanta, visit from 12:51 to 13:51, ; Atlanta History Center, Atlanta, visit from 14:21 to 18:30, ; Aviva by Kameel, Atlanta, visit from 19:00 to 20:15, "
+  }
+]

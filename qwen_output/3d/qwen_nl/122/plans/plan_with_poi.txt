@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Hartford",
+    "transportation": "Flight Number: F0530437, from Houston to Hartford, Departure Time: 18:42, Arrival Time: 22:55",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy Condo in Heart of Hartford, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Cozy Condo in Heart of Hartford, stay from 23:25 to 23:55, nearest transit: Hartford, 1248.04m away; Cozy Condo in Heart of Hartford, stay from 00:25 to 08:00, nearest transit: Hartford, 1248.04m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "Hartford Mill, Hartford",
+    "lunch": "New Hartford Diner, Hartford",
+    "dinner": "Scoop Deville, Hartford",
+    "attraction": "-",
+    "accommodation": "Cozy Condo in Heart of Hartford, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Cozy Condo in Heart of Hartford, stay from 08:30 to 09:00, nearest transit: Hartford, 1248.04m away; Hartford Mill, Hartford, visit from 09:39 to 10:29, ; New Hartford Diner, Hartford, visit from 14:30 to 15:30, ; Scoop Deville, Hartford, visit from 19:31 to 20:46, ; Cozy Condo in Heart of Hartford, stay from 21:16 to 05:16, nearest transit: Hartford, 1248.04m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Houston",
+    "transportation": "Flight Number: F3872834, from Hartford to Houston, Departure Time: 07:45, Arrival Time: 10:32",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Condo in Heart of Hartford, stay from 06:00 to 06:30, nearest transit: Hartford, 1248.04m away"
+  }
+]

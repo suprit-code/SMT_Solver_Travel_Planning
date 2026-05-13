@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Amarillo",
+    "transportation": "Self-driving from Las Vegas to Amarillo, duration: 894.1333333333333, distance: 1380.6904, cost : 69.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 21:24 to 21:54, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Relaxing Place to Stay with Guest Living Room!, stay from 22:24 to 06:24, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Manantial, Amarillo",
+    "lunch": "575° Pizzeria - Hillside, Amarillo",
+    "dinner": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 06:54 to 07:24, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Manantial, Amarillo, visit from 08:29 to 10:00, ; Cadillac Ranch, Amarillo, visit from 10:30 to 14:00, ; 575° Pizzeria - Hillside, Amarillo, visit from 14:30 to 15:50, ; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 19:51 to 21:06, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:36 to 05:36, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Self-driving from Amarillo to Houston, duration: 649.365, distance: 961.8577, cost : 48.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Houstons Bar and Grill, Houston",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 06:06 to 06:36, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; #4 Northwest Victory Single BR, stay from 19:45 to 20:15, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houstons Bar and Grill, Houston, visit from 20:45 to 22:00, ; #4 Northwest Victory Single BR, stay from 22:30 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "The Original Ninfa's, Houston",
+    "attraction": "Space Center Houston, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:00 to 07:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Hugo's, Houston, visit from 09:10 to 10:00, ; Space Center Houston, Houston, visit from 10:30 to 14:00, ; Houston Restaurant, Houston, visit from 14:30 to 15:30, ; The Original Ninfa's, Houston, visit from 20:45 to 22:00, ; #4 Northwest Victory Single BR, stay from 22:30 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Self-driving from Houston to San Antonio, duration: 211.06833333333333, distance: 315.3022, cost : 15.0",
+    "breakfast": "Market on Houston, Houston",
+    "lunch": "Goode Company BBQ, Houston",
+    "dinner": "Schilo's, San Antonio",
+    "attraction": "National Museum of Funeral History, Houston",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:00 to 07:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Market on Houston, Houston, visit from 08:00 to 08:50, ; National Museum of Funeral History, Houston, visit from 09:20 to 13:44, ; Goode Company BBQ, Houston, visit from 14:14 to 15:14, ; Cozy Private Room near UTSA & LaCantera, stay from 19:45 to 20:15, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Schilo's, San Antonio, visit from 20:45 to 22:06, ; Cozy Private Room near UTSA & LaCantera, stay from 22:36 to 06:36, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Boudro's Texas Bistro, San Antonio",
+    "lunch": "1Watson, San Antonio",
+    "dinner": "Pollos Asados Los Nortenos, San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 07:06 to 07:36, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Boudro's Texas Bistro, San Antonio, visit from 08:06 to 08:56, ; 1Watson, San Antonio, visit from 12:57 to 13:57, ; The Alamo, San Antonio, visit from 14:27 to 17:57, ; Pollos Asados Los Nortenos, San Antonio, visit from 19:00 to 23:30, ; Cozy Private Room near UTSA & LaCantera, stay from 00:00 to 08:00, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Las Vegas",
+    "transportation": "Self-driving from San Antonio to Las Vegas, duration: 1336.2283333333332, distance: 2051.5727, cost : 102.0",
+    "breakfast": "The Guenther House, San Antonio",
+    "lunch": "-",
+    "dinner": "Pinkerton's Barbecue, San Antonio",
+    "attraction": "San Antonio Missions National Historical Park, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 08:30 to 09:00, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; The Guenther House, San Antonio, visit from 09:30 to 14:30, ; San Antonio Missions National Historical Park, San Antonio, visit from 15:00 to 18:30, ; Pinkerton's Barbecue, San Antonio, visit from 19:00 to 20:15, "
+  }
+]

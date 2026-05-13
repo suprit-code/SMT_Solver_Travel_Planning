@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Milwaukee to Seattle",
+    "transportation": "Flight Number: F1521000, from Milwaukee to Seattle, Departure Time: 17:35, Arrival Time: 19:57",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private Room in Townhome near Capitol Hill, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Private Room in Townhome near Capitol Hill, stay from 20:22 to 20:42, nearest transit: E Madison St & 22nd Ave E, 94.31m away; Private Room in Townhome near Capitol Hill, stay from 21:07 to 08:00, nearest transit: E Madison St & 22nd Ave E, 94.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Private Room in Townhome near Capitol Hill, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Private Room in Townhome near Capitol Hill, stay from 08:00 to 08:30, nearest transit: E Madison St & 22nd Ave E, 94.31m away; Dough Zone Dumpling House - Seattle International District, visit from 08:55 to 09:35, nearest transit: 5th Ave S & S Weller St, 26.54m away; Hiram M. Chittenden Locks, visit from 10:00 to 12:00, nearest transit: NW 54th St & 30th Ave NW, 241.41m away; Il Terrazzo Carmine, visit from 13:35 to 14:15, nearest transit: Alaskan Way S & S Jackson St, 103.57m away; Noi Thai Cuisine, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Seneca St, 181.65m away; Private Room in Townhome near Capitol Hill, stay from 20:05 to 08:00, nearest transit: E Madison St & 22nd Ave E, 94.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Milwaukee",
+    "transportation": "Flight Number: F1977344, from Seattle to Milwaukee, Departure Time: 07:29, Arrival Time: 12:59",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

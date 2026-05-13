@@ -1,0 +1,6 @@
+Destination cities: ['Monterey'],
+Transportation dates: ['2024-11-20', '2024-11-22'],
+Transportation methods between cities: ['Flight Number: F1371498, from Dallas to Monterey, Departure Time: 16:31, Arrival Time: 17:51', 'Flight Number: F2133677, from Monterey to Dallas, Departure Time: 13:50, Arrival Time: 19:17'],
+Restaurants (3 meals per day): ['-', '-', '-', 'The Sardine Factory, Monterey', 'C restaurant + bar, Monterey', "Gianni's Pizza, Monterey", "Monterey's Pizza, Monterey", 'Cafe Fina, Monterey', '-'],
+Attractions (1 per day): ["Doc Rickett's Pacific Biological Laboratories, Monterey", 'Monterey Bay Aquarium, Monterey', '17-Mile Drive, Monterey'],
+Accommodations (1 per city): ['Quiet neighborhood near Monterey and the ocean, Monterey']

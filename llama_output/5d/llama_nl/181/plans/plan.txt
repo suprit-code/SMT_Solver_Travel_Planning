@@ -1,0 +1,6 @@
+Destination cities: ['New York', 'Rochester'],
+Transportation dates: ['2024-11-03', '2024-11-05', '2024-11-07'],
+Transportation methods between cities: ["Self-driving, from Martha's Vineyard to New York, duration: 405.94166666666666, distance: 428.0015, cost: 21", 'Self-driving, from New York to Rochester, duration: 404.6833333333333, distance: 511.5847, cost: 25', "Self-driving, from Rochester to Martha's Vineyard, duration: 603.14, distance: 746.2836, cost: 37"],
+Restaurants (3 meals per day): ['-', '-', '-', 'FIG & OLIVE, New York', 'Bryant Park Grill, New York', 'Azalea Ristorante, New York', 'Times Square Diner, New York', 'Westway Diner, New York', "Carmine's, New York", "Lipuma's Coney Island, Rochester", 'Nick Tahou Hots, Rochester', 'The Eagle Tavern, Rochester', "Tiny Tim's Tea Rooms, Rochester", "Sorellina's By Victoria's, Rochester", 'Hunan Garden, Rochester'],
+Attractions (1 per day): ['-', 'Central Park, New York', 'The High Line, New York', 'Rochester Castle, Rochester', 'Guildhall Museum, Rochester'],
+Accommodations (1 per city): ['Private Studio with Shared Bath, New York', 'Historic Henrietta Apartment, Rochester']

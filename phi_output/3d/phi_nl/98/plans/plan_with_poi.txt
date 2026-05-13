@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Lexington",
+    "transportation": "Flight Number: F2320713, from Detroit to Lexington, Departure Time: 16:45, Arrival Time: 17:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "J. Alexander's Restaurant, Lexington",
+    "attraction": "-",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 18:26 to 18:56, nearest transit: Chandler Hospital, 202.96m away; J. Alexander's Restaurant, Lexington, visit from 19:26 to 23:10, ; A single room for your stay, stay from 23:40 to 07:40, nearest transit: Chandler Hospital, 202.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Lexington",
+    "transportation": "-",
+    "breakfast": "Bella Notte, Lexington",
+    "lunch": "Carson's Food & Drink - On Main, Lexington",
+    "dinner": "Keeneland Track Kitchen, Lexington",
+    "attraction": "Lexington Brewing & Distilling Co., Lexington",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 08:10 to 08:40, nearest transit: Chandler Hospital, 202.96m away; Bella Notte, Lexington, visit from 09:10 to 10:00, ; Lexington Brewing & Distilling Co., Lexington, visit from 10:30 to 14:00, ; Carson's Food & Drink - On Main, Lexington, visit from 14:30 to 16:44, ; Keeneland Track Kitchen, Lexington, visit from 20:45 to 23:30, ; A single room for your stay, stay from 00:00 to 08:00, nearest transit: Chandler Hospital, 202.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Lexington to Detroit",
+    "transportation": "Flight Number: F3194745, from Lexington to Detroit, Departure Time: 19:13, Arrival Time: 20:26",
+    "breakfast": "The Triangle Grille, Lexington",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "James E. Pepper Distillery, Lexington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 08:30 to 09:00, nearest transit: Chandler Hospital, 202.96m away; The Triangle Grille, Lexington, visit from 09:30 to 10:20, ; James E. Pepper Distillery, Lexington, visit from 10:50 to 14:20, "
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to Amarillo",
+    "transportation": "Taxi from Tucson to Amarillo, duration: 754.9416666666667, distance: 1079.4477, cost : 1079.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ohms Cafe & Catering, Amarillo",
+    "attraction": "-",
+    "accommodation": "Downtown Luxury High-Rise Suite, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 19:45 to 20:15, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; Ohms Cafe & Catering, Amarillo, visit from 20:45 to 22:25, ; Downtown Luxury High-Rise Suite, stay from 22:55 to 06:55, nearest transit: SW 6th Ave & S Tyler St, 49.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Metropolitan, Amarillo",
+    "lunch": "Tyler's Barbeque, Amarillo",
+    "dinner": "575° Pizzeria - Hillside, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "Downtown Luxury High-Rise Suite, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 07:25 to 07:55, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; Metropolitan, Amarillo, visit from 08:25 to 09:15, ; Cadillac Ranch, Amarillo, visit from 10:30 to 14:00, ; Tyler's Barbeque, Amarillo, visit from 14:30 to 15:44, ; 575° Pizzeria - Hillside, Amarillo, visit from 19:45 to 21:00, ; Downtown Luxury High-Rise Suite, stay from 21:30 to 05:30, nearest transit: SW 6th Ave & S Tyler St, 49.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "“The Cheap Seats” Entertainment Suite, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Downtown Luxury High-Rise Suite, stay from 06:00 to 07:31, nearest transit: SW 6th Ave & S Tyler St, 49.12m away; Golden Light Cafe & Cantina, Amarillo, visit from 08:01 to 09:13, ; “The Cheap Seats” Entertainment Suite, stay from 21:33 to 22:03, nearest transit: 869-Gollihar @ Dody, 315.13m away; “The Cheap Seats” Entertainment Suite, stay from 22:33 to 06:33, nearest transit: 869-Gollihar @ Dody, 315.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Ginger Cafe and Grill, Corpus Christi",
+    "lunch": "Acapulco Restaurant, Corpus Christi",
+    "dinner": "Republic of Texas Bar & Grill, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "“The Cheap Seats” Entertainment Suite, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "“The Cheap Seats” Entertainment Suite, stay from 07:03 to 07:33, nearest transit: 869-Gollihar @ Dody, 315.13m away; Ginger Cafe and Grill, Corpus Christi, visit from 08:03 to 09:59, ; Acapulco Restaurant, Corpus Christi, visit from 14:00 to 15:00, ; USS Lexington Museum, Corpus Christi, visit from 15:30 to 19:00, ; Republic of Texas Bar & Grill, Corpus Christi, visit from 19:30 to 20:45, ; “The Cheap Seats” Entertainment Suite, stay from 21:25 to 05:25, nearest transit: 869-Gollihar @ Dody, 315.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F2236093, from Corpus Christi to Houston, Departure Time: 06:55, Arrival Time: 07:54",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Houston's Trail's End, Houston",
+    "dinner": "The Original Ninfa's, Houston",
+    "attraction": "-",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "“The Cheap Seats” Entertainment Suite, stay from 05:55 to 06:25, nearest transit: 869-Gollihar @ Dody, 315.13m away; Entire Apt in the Heart of the City - Galleria, stay from 08:24 to 08:54, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Hugo's, Houston, visit from 09:24 to 10:29, ; Houston's Trail's End, Houston, visit from 14:30 to 15:30, ; The Original Ninfa's, Houston, visit from 19:31 to 20:46, ; Entire Apt in the Heart of the City - Galleria, stay from 21:16 to 05:16, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Eddie V's Prime Seafood, Houston",
+    "lunch": "Houston White Co, Houston",
+    "dinner": "Goode Company BBQ, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:00 to 06:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Eddie V's Prime Seafood, Houston, visit from 08:18 to 09:08, ; Cockrell Butterfly Center, Houston, visit from 09:59 to 13:29, ; Houston White Co, Houston, visit from 13:59 to 14:59, ; Goode Company BBQ, Houston, visit from 19:00 to 20:15, ; Entire Apt in the Heart of the City - Galleria, stay from 20:45 to 04:45, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Tucson",
+    "transportation": "Flight Number: F3825494, from Houston to Tucson, Departure Time: 19:54, Arrival Time: 21:33",
+    "breakfast": "Taste of Texas, Houston",
+    "lunch": "Niko Niko's Greek, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:00 to 06:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Taste of Texas, Houston, visit from 08:00 to 08:50, ; Houston Zoo, Houston, visit from 09:20 to 12:50, ; Niko Niko's Greek, Houston, visit from 14:30 to 19:24, "
+  }
+]

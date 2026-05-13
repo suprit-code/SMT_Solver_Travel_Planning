@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Nashville",
+    "transportation": "Flight Number: F1980854, from Seattle to Nashville, Departure Time: 08:52, Arrival Time: 15:28",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Kayne Prime, Nashville",
+    "attraction": "Andrew Jackson's Hermitage, Nashville",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 15:58 to 16:28, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; Andrew Jackson's Hermitage, visit from 16:58 to 18:58, nearest transit: LEBANON PIKE & MONACO DR SB, 929.39m away; Kayne Prime, visit from 19:28 to 20:08, nearest transit: 11TH AVE & DEMONBREUN NB, 104.79m away; The Stewart House in 12th South - Half House, stay from 23:00 to 08:00, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "lunch": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "dinner": "Old Hickory Steakhouse, Nashville",
+    "attraction": "Nashville Parthenon, Nashville",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 08:00 to 08:30, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; Bourbon Steak by Michael Mina, a Nashville Steakhouse, visit from 09:00 to 09:40, nearest transit: 8TH AVE S & DEMONBREUN ST NB, 99.41m away; Nashville Parthenon, visit from 10:10 to 12:10, nearest transit: 28TH AVE & PARK PLZ NB, 409.28m away; Jeff Ruby's Steakhouse, Nashville, visit from 13:40 to 14:20, nearest transit: CENTRAL 4TH AVE - BAY 13, 188.66m away; Old Hickory Steakhouse, visit from 19:00 to 19:40, nearest transit: OPRY MILLS DRIVE & WARDROBE BLDNG, 483.51m away; The Stewart House in 12th South - Half House, stay from 23:00 to 08:00, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Seattle",
+    "transportation": "Flight Number: F0253440, from Nashville to Seattle, Departure Time: 16:38, Arrival Time: 19:34",
+    "breakfast": "The Farm House, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "-",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 08:00 to 08:30, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; The Farm House, visit from 09:00 to 09:40, nearest transit: CONVENTION CENTER STATION OUTBOUND, 114.93m away; Cheekwood, visit from 10:10 to 12:10, nearest transit: HWY 70 S & BROOK HOLLOW RD EB, 833.18m away; Aquarium Restaurant, visit from 13:40 to 14:20, nearest transit: OPRY MILLS DR & GENERAL JACKSON'S, 170.74m away"
+  }
+]

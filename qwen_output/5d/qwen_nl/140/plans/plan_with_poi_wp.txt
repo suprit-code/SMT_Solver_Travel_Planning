@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to San Diego",
+    "transportation": "Flight Number: F0589911, from Boise to San Diego, Departure Time: 11:57, Arrival Time: 13:07",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "The Surf Shack  - Point Loma, San Diego",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 13:37 to 14:07, nearest transit: Rosecrans St & Talbot St, 37.36m away; Cabrillo National Monument, San Diego, visit from 14:37 to 18:30, ; Ruth's Chris Steak House, San Diego, visit from 19:00 to 20:15, ; The Surf Shack  - Point Loma, stay from 20:45 to 04:45, nearest transit: Rosecrans St & Talbot St, 37.36m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Barbusa, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "The Surf Shack  - Point Loma, San Diego",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 06:00 to 06:30, nearest transit: Rosecrans St & Talbot St, 37.36m away; Barbusa, San Diego, visit from 09:09 to 09:59, ; Born & Raised, San Diego, visit from 14:00 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 20:15, ; Lou & Mickey's, San Diego, visit from 20:45 to 22:36, ; The Surf Shack  - Point Loma, stay from 23:06 to 07:06, nearest transit: Rosecrans St & Talbot St, 37.36m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Morning Glory, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The God Spa, Redding",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 07:36 to 08:06, nearest transit: Rosecrans St & Talbot St, 37.36m away; Morning Glory, San Diego, visit from 08:36 to 09:26, ; The God Spa, stay from 22:40 to 23:10, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; The God Spa, stay from 23:40 to 07:40, nearest transit: Twin View Blvd at Midway Dr, 557.67m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Janya Thai Cusine, Redding",
+    "lunch": "Olive Garden Italian Restaurant, Redding",
+    "dinner": "Fratelli’s Pizza Parlour, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "The God Spa, Redding",
+    "event": "-",
+    "point_of_interest_list": "The God Spa, stay from 08:10 to 08:40, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; Janya Thai Cusine, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; Olive Garden Italian Restaurant, Redding, visit from 14:30 to 15:30, ; Fratelli’s Pizza Parlour, Redding, visit from 19:31 to 20:46, ; The God Spa, stay from 21:16 to 07:40, nearest transit: Twin View Blvd at Midway Dr, 557.67m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Boise",
+    "transportation": "Taxi from Redding to Boise, duration: 689.16, distance: 840.3919000000001, cost : 840.0",
+    "breakfast": "Nello's Place, Redding",
+    "lunch": "Guadalajara Mexican Restaurant, Redding",
+    "dinner": "Thai Cafe, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The God Spa, stay from 08:10 to 08:40, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; Nello's Place, Redding, visit from 09:10 to 10:00, ; Sundial Bridge, Redding, visit from 10:30 to 14:00, ; Guadalajara Mexican Restaurant, Redding, visit from 14:30 to 15:30, ; Thai Cafe, Redding, visit from 19:31 to 20:46, "
+  }
+]

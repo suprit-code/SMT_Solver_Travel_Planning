@@ -1,0 +1,6 @@
+Destination cities: ['Memphis'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Flight Number: F2748427, from Boston to Memphis, Departure Time: 07:37, Arrival Time: 09:39', 'Flight Number: F1699917, from Memphis to Boston, Departure Time: 10:45, Arrival Time: 14:33'],
+Restaurants (3 meals per day): ['-', 'Interstate Barbecue, Memphis', 'Itta Bena, Memphis', "Mcewen's Memphis, Memphis", 'Pig On Beale, Memphis', 'Flight Restaurant and Wine Bar, Memphis', 'Memphis Blues Barbeque House, Memphis', "Silky O'sullivan's, Memphis", '-'],
+Attractions (1 per day): ['Backbeat Tours, Memphis', 'Mud Island River Park, Memphis', '-'],
+Accommodations (1 per city): ['Historic Cooper Young Midtown Shotgun House, Memphis']

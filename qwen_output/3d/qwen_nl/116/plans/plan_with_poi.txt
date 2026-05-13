@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Colorado Springs",
+    "transportation": "Flight Number: F0011833, from Chicago to Colorado Springs, Departure Time: 08:52, Arrival Time: 10:24",
+    "breakfast": "-",
+    "lunch": "Prime 25, Colorado Springs",
+    "dinner": "-",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "Creekside Cowboy Cabin with 360° Mountain Views, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Creekside Cowboy Cabin with 360° Mountain Views, stay from 10:54 to 11:24, nearest transit: Ruxton/Fairview, 10061.41m away; Prime 25, Colorado Springs, visit from 12:00 to 15:00, ; Seven Falls, Colorado Springs, visit from 15:30 to 19:00, ; Creekside Cowboy Cabin with 360° Mountain Views, stay from 21:30 to 05:30, nearest transit: Ruxton/Fairview, 10061.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Carlos Bistro, Colorado Springs",
+    "lunch": "Margarita At Pine Creek, Colorado Springs",
+    "dinner": "The Melting Pot, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "Creekside Cowboy Cabin with 360° Mountain Views, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Creekside Cowboy Cabin with 360° Mountain Views, stay from 06:00 to 06:30, nearest transit: Ruxton/Fairview, 10061.41m away; Carlos Bistro, Colorado Springs, visit from 08:00 to 09:29, ; Margarita At Pine Creek, Colorado Springs, visit from 13:30 to 14:30, ; Garden of the Gods, Colorado Springs, visit from 15:00 to 18:30, ; The Melting Pot, Colorado Springs, visit from 19:00 to 20:15, ; Creekside Cowboy Cabin with 360° Mountain Views, stay from 20:45 to 04:32, nearest transit: Ruxton/Fairview, 10061.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Colorado Springs to Chicago",
+    "transportation": "Flight Number: F3406506, from Colorado Springs to Chicago, Departure Time: 06:02, Arrival Time: 09:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Creekside Cowboy Cabin with 360° Mountain Views, stay from 05:02 to 05:32, nearest transit: Ruxton/Fairview, 10061.41m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Nashville",
+    "transportation": "Flight Number: F0756245, from Miami to Nashville, Departure Time: 16:01, Arrival Time: 17:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Ryman Auditorium, Nashville",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Puckett's 5th & Church, Nashville",
+    "lunch": "Old Hickory Steakhouse, Nashville",
+    "dinner": "The Farm House, Nashville",
+    "attraction": "Ole Smoky Distillery & Yee-Haw Brewery, Nashville",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 08:00 to 08:30, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Puckett's 5th & Church, visit from 09:00 to 09:40, nearest transit: 5TH AVE N & CHURCH ST NB, 39.47m away; Ole Smoky Distillery & Yee-Haw Brewery, visit from 10:10 to 12:10, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 122.92m away; Old Hickory Steakhouse, visit from 13:40 to 14:20, nearest transit: OPRY MILLS DRIVE & WARDROBE BLDNG, 483.51m away; The Farm House, visit from 19:00 to 19:40, nearest transit: CONVENTION CENTER STATION OUTBOUND, 114.93m away; Dave's Place, stay from 23:00 to 08:00, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Miami",
+    "transportation": "Flight Number: F1610561, from Nashville to Miami, Departure Time: 20:53, Arrival Time: 23:56",
+    "breakfast": "Henley, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "The Mockingbird, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 08:00 to 08:30, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Henley, visit from 09:00 to 09:40, nearest transit: 21ST AVE & BROADWAY AVE SB, 79.55m away; Cheekwood, visit from 10:10 to 12:10, nearest transit: HWY 70 S & BROOK HOLLOW RD EB, 833.18m away; Aquarium Restaurant, visit from 13:40 to 14:20, nearest transit: OPRY MILLS DR & GENERAL JACKSON'S, 170.74m away; The Mockingbird, visit from 19:00 to 19:40, nearest transit: BROADWAY AVE & 12TH AVE N WB, 130.11m away"
+  }
+]

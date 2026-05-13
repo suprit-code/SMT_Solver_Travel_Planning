@@ -1,0 +1,6 @@
+Destination cities: ['Greensboro'],
+Transportation dates: ['2024-11-14', '2024-11-16'],
+Transportation methods between cities: ['taxi, from New York to Greensboro, duration: 640.7433333333333, distance: 863.0494, cost: 863', 'Flight Number: F3648510, from Greensboro to New York, Departure Time: 06:00, Arrival Time: 07:49'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Golden Wok, Greensboro', "Carolina's Diner, Greensboro", "Fleming's Prime Steakhouse & Wine Bar, Greensboro", '-', '-', '-'],
+Attractions (1 per day): ['-', 'Carolina Theatre, Greensboro', '-'],
+Accommodations (1 per city): ['A little Southern Hospitality, Greensboro']

@@ -1,0 +1,51 @@
+
+                def get_arrivals_and_cities(departure_dates):
+                    arrivals = []
+                    cities = []
+                    for i in range(len(departure_dates)):
+                        arrival_date = departure_dates[i] + timedelta(days=1)
+                        arrivals.append(arrival_date)
+                        cities.append(f"city_{i}")
+                    return arrivals, cities
+                
+                def run_shopping_search(city):
+                    # Placeholder function to simulate getting shopping price info
+                    return {"price": 100 + 10 * city}
+                
+                def set_shopping_in_which_city(arrivals, transportation_arrivals):
+                    shopping_in_which_city = []
+                    for i in range(len(arrivals)):
+                        if transportation_arrivals[i] == "next":
+                            shopping_in_which_city.append(cities[i+1])
+                        else:
+                            shopping_in_which_city.append(cities[i])
+                    return shopping_in which_city
+                
+                def set_shopping_index(shopping_in_which_city):
+                    shopping_index = []
+                    for city in shopping_in_which_city:
+                        index = int(city[-1])  # Extract the city number from the string
+                        shopping_index.append(index)
+                    return shopping_index
+                
+                def calculate_shopping_price(shopping_index):
+                    prices = []
+                    for index in shopping_index:
+                        if 0 <= index < len(cities):
+                            price_info = run_shopping_search(index)
+                            price = price_info["price"]
+                            prices.append(price)
+                        else:
+                            raise ValueError(f"Invalid city index: {index}")
+                    return prices
+                
+                departure_dates = [datetime(2023, 10, 1), datetime(2023, 10, 8), datetime(2023, 10, 15), datetime(2023, 10, 22), datetime(2023, 10, 29), datetime(2023, 11, 5), datetime(2023, 11, 12)]
+                transportation_arrivals = ["current", "next", "next", "current", "next", "current", "next"]
+                
+                arrivals, cities = get_arrivals_and_cities(departure_dates)
+                shopping_in_which_city = set_shopping_in_which_city(arrivals, transportation_arrivals)
+                shopping_index = set_shopping_index(shopping_in_which_city)
+                prices = calculate_shopping_price(shopping_index)
+                
+                print(prices)
+                

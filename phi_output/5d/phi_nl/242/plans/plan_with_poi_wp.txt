@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Santa Fe to Durango",
+    "transportation": "Taxi from Santa Fe to Durango, duration: 284.2033333333333, distance: 390.1447, cost : 390.0",
+    "breakfast": "-",
+    "lunch": "81301 Coffee House and Roasters, Durango",
+    "dinner": "Durango Bagel, Durango",
+    "attraction": "The Colorado Trail, Durango",
+    "accommodation": "2ndWind Ranch Country Aspen Suite Outside Durango, Durango",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Aspen Suite Outside Durango, stay from 13:00 to 13:30, nearest transit: Sunnyside, 11140.3m away; 81301 Coffee House and Roasters, Durango, visit from 14:00 to 15:00, ; The Colorado Trail, Durango, visit from 15:30 to 19:00, ; Durango Bagel, Durango, visit from 19:30 to 20:45, ; 2ndWind Ranch Country Aspen Suite Outside Durango, stay from 23:40 to 07:40, nearest transit: Sunnyside, 11140.3m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Durango",
+    "transportation": "-",
+    "breakfast": "Zia Taqueria, Durango",
+    "lunch": "Durango's Mexican Restaurant, Durango",
+    "dinner": "Durango's Mexican Grill, Durango",
+    "attraction": "San Juan National Forest, Durango",
+    "accommodation": "2ndWind Ranch Country Aspen Suite Outside Durango, Durango",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Aspen Suite Outside Durango, stay from 08:10 to 08:40, nearest transit: Sunnyside, 11140.3m away; Zia Taqueria, Durango, visit from 09:10 to 10:00, ; San Juan National Forest, Durango, visit from 10:30 to 14:00, ; Durango's Mexican Restaurant, Durango, visit from 14:30 to 16:44, ; Durango's Mexican Grill, Durango, visit from 20:45 to 23:30, ; 2ndWind Ranch Country Aspen Suite Outside Durango, stay from 00:00 to 08:00, nearest transit: Sunnyside, 11140.3m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Durango to Colorado Springs",
+    "transportation": "Taxi from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost : 506.0",
+    "breakfast": "Bread, Durango",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Casa De Mariposas, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "2ndWind Ranch Country Aspen Suite Outside Durango, stay from 08:30 to 09:00, nearest transit: Sunnyside, 11140.3m away; Bread, Durango, visit from 09:40 to 10:51, ; Casa De Mariposas, stay from 22:25 to 23:10, nearest transit: Galley/Ford, 862.13m away; Casa De Mariposas, stay from 23:40 to 07:40, nearest transit: Galley/Ford, 862.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Saltgrass Steak House, Colorado Springs",
+    "lunch": "Urban Egg A Daytime Eatery, Colorado Springs",
+    "dinner": "NaRai Thai Restaurant, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "Casa De Mariposas, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 08:10 to 08:40, nearest transit: Galley/Ford, 862.13m away; Saltgrass Steak House, Colorado Springs, visit from 09:10 to 10:00, ; Garden of the Gods, Colorado Springs, visit from 10:30 to 14:00, ; Urban Egg A Daytime Eatery, Colorado Springs, visit from 14:30 to 15:30, ; NaRai Thai Restaurant, Colorado Springs, visit from 19:31 to 20:46, ; Casa De Mariposas, stay from 21:16 to 05:16, nearest transit: Galley/Ford, 862.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Colorado Springs to Santa Fe",
+    "transportation": "Taxi from Colorado Springs to Santa Fe, duration: 336.54833333333335, distance: 522.037, cost : 522.0",
+    "breakfast": "Restaurant 1858, Colorado Springs",
+    "lunch": "Mountain Shadows Restaurant, Colorado Springs",
+    "dinner": "The Airplane Restaurant, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 06:00 to 07:30, nearest transit: Galley/Ford, 862.13m away; Restaurant 1858, Colorado Springs, visit from 08:00 to 08:50, ; Mountain Shadows Restaurant, Colorado Springs, visit from 12:51 to 13:51, ; Seven Falls, Colorado Springs, visit from 14:21 to 17:51, ; The Airplane Restaurant, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

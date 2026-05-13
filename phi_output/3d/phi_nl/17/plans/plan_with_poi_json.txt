@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Cincinnati",
+    "transportation": "Flight Number: F3150874, from Chicago to Cincinnati, Departure Time: 12:58, Arrival Time: 14:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Nada, Cincinnati",
+    "attraction": "Eden Park, Cincinnati",
+    "accommodation": "The Ludlow Cottage: Minutes from Cincinnati, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "The Ludlow Cottage: Minutes from Cincinnati, stay from 15:26 to 15:56, nearest transit: RIVER RD 2789, 847.26m away; Eden Park, visit from 16:26 to 18:26, nearest transit: GILBERT AVE & EDEN PARK DR, 132.39m away; Nada, visit from 19:00 to 19:40, nearest transit: 6TH ST & MAIN ST, 60.38m away; The Ludlow Cottage: Minutes from Cincinnati, stay from 23:00 to 08:00, nearest transit: RIVER RD 2789, 847.26m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Cincinnati",
+    "transportation": "-",
+    "breakfast": "Ambar India, Cincinnati",
+    "lunch": "Boca, Cincinnati",
+    "dinner": "Oriental Wok, Cincinnati",
+    "attraction": "Rhinegeist Brewery, Cincinnati",
+    "accommodation": "The Ludlow Cottage: Minutes from Cincinnati, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "The Ludlow Cottage: Minutes from Cincinnati, stay from 08:00 to 08:30, nearest transit: RIVER RD 2789, 847.26m away; Ambar India, visit from 09:00 to 09:40, nearest transit: LUDLOW AVE & ORMOND AVE, 50.16m away; Rhinegeist Brewery, visit from 10:10 to 12:10, nearest transit: BREWERY DISTRICT Station, Elm & Henry, 36.41m away; Boca, visit from 13:40 to 14:20, nearest transit: 6TH ST & MAIN ST, 42.37m away; Oriental Wok, visit from 19:00 to 19:40, nearest transit: MADISON RD & OBSERVATORY AVE, 197.00m away; The Ludlow Cottage: Minutes from Cincinnati, stay from 23:00 to 08:00, nearest transit: RIVER RD 2789, 847.26m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Cincinnati to Chicago",
+    "transportation": "Flight Number: F3104420, from Cincinnati to Chicago, Departure Time: 18:04, Arrival Time: 18:03",
+    "breakfast": "Subito, Cincinnati",
+    "lunch": "The Eagle Food and Beer Hall, Cincinnati",
+    "dinner": "Nicola's Ristorante, Cincinnati",
+    "attraction": "Findlay Market, Cincinnati",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Ludlow Cottage: Minutes from Cincinnati, stay from 08:00 to 08:30, nearest transit: RIVER RD 2789, 847.26m away; Subito, visit from 09:00 to 09:40, nearest transit: PIKE ST & 3RD ST, 50.20m away; Findlay Market, visit from 10:10 to 12:10, nearest transit: FINDLAY MARKET-ELM Station, Elm & Glass Alley, 68.13m away; The Eagle Food and Beer Hall, visit from 12:40 to 13:20, nearest transit: VINE ST & 15TH ST, 114.71m away; Nicola's Ristorante, visit from 16:54 to 17:34, nearest transit: LIBERTY ST & SYCAMORE ST, 55.35m away"
+  }
+]

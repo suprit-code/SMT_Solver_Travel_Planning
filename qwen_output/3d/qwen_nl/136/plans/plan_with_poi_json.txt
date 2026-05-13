@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Washington",
+    "transportation": "Flight Number: F2764410, from New York to Washington, Departure Time: 15:12, Arrival Time: 16:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Jaleo by Jose Andres, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "The Half Note Bedroom at HUM District Music, Washington",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Smoke & Mirrors Rooftop Bar, Washington",
+    "lunch": "Bourbon Steak - Four Seasons Washington DC, Washington",
+    "dinner": "Cafe Milano, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "The Half Note Bedroom at HUM District Music, Washington",
+    "event": "-",
+    "point_of_interest_list": "The Half Note Bedroom at HUM District Music, stay from 08:00 to 08:30, nearest transit: GEORGIA AVE-PETWORTH, 456.48m away; Smoke & Mirrors Rooftop Bar, visit from 08:55 to 09:35, nearest transit: NAVY YARD-BALLPARK, 408.46m away; United States Botanic Garden, visit from 10:00 to 12:00, nearest transit: FEDERAL CENTER SW, 414.35m away; Bourbon Steak - Four Seasons Washington DC, visit from 13:35 to 14:15, nearest transit: FOGGY BOTTOM, 693.85m away; Cafe Milano, visit from 19:00 to 19:40, nearest transit: ROSSLYN, 1240.98m away; The Half Note Bedroom at HUM District Music, stay from 20:05 to 08:00, nearest transit: GEORGIA AVE-PETWORTH, 456.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to New York",
+    "transportation": "Flight Number: F3482103, from Washington to New York, Departure Time: 17:49, Arrival Time: 20:07",
+    "breakfast": "Sichuan Pavilion, Washington",
+    "lunch": "1789 Restaurant & Bar, Washington",
+    "dinner": "-",
+    "attraction": "Lincoln Memorial, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Half Note Bedroom at HUM District Music, stay from 08:00 to 08:30, nearest transit: GEORGIA AVE-PETWORTH, 456.48m away; Sichuan Pavilion, visit from 08:55 to 09:35, nearest transit: FARRAGUT WEST METRORAIL STATION - NW CORNER 18TH & I STS., NW, 91.54m away; Lincoln Memorial, visit from 10:00 to 12:00, nearest transit: ARLINGTON CEMETERY METRORAIL STATION - MEMORIAL DRIVE FOR BLUE LINE TO DOWNTOWN LARGO (ELEVATOR), 1224.21m away; 1789 Restaurant & Bar, visit from 13:35 to 14:15, nearest transit: ROSSLYN, 1065.49m away"
+  }
+]

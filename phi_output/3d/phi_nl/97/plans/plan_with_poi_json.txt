@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Martha's Vineyard",
+    "transportation": "Self-driving, from Charlotte to Martha's Vineyard, duration: 1122.7316666666666, distance: 1420.8184, cost: 71",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Martha's Vineyard Getaway Cottage, Martha's Vineyard",
+    "event": "-",
+    "point_of_interest_list": "Martha's Vineyard Getaway Cottage, stay from 08:00 to 08:30, nearest transit: West Chop Lighthouse, 468.41m away; Martha's Vineyard Getaway Cottage, stay from 23:00 to 08:00, nearest transit: West Chop Lighthouse, 468.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Martha's Vineyard",
+    "transportation": "-",
+    "breakfast": "Atria, Martha's Vineyard",
+    "lunch": "Bobby B's Restaurant & Bakery, Martha's Vineyard",
+    "dinner": "The Attic, Martha's Vineyard",
+    "attraction": "Flying Horses Carousel, Martha's Vineyard",
+    "accommodation": "Martha's Vineyard Getaway Cottage, Martha's Vineyard",
+    "event": "-",
+    "point_of_interest_list": "Martha's Vineyard Getaway Cottage, stay from 08:00 to 08:30, nearest transit: West Chop Lighthouse, 468.41m away; Atria, visit from 09:00 to 09:40, nearest transit: West Tisbury Road, 57.89m away; Flying Horses Carousel, visit from 10:10 to 12:10, nearest transit: Ocean Park, Oak Bluffs, 87.87m away; Bobby B's Restaurant & Bakery, visit from 13:40 to 14:20, nearest transit: Tisbury Town Hall, 152.29m away; The Attic, visit from 19:00 to 19:40, nearest transit: Vineyard Haven SSA Terminal, 158.85m away; Martha's Vineyard Getaway Cottage, stay from 23:00 to 08:00, nearest transit: West Chop Lighthouse, 468.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Martha's Vineyard to Charlotte",
+    "transportation": "Self-driving, from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost: 71",
+    "breakfast": "Detente Restaurant and Wine Bar, Martha's Vineyard",
+    "lunch": "Bettini Restaurant, Martha's Vineyard",
+    "dinner": "The Terrace at The Charlotte Inn, Martha's Vineyard",
+    "attraction": "Aquinnah Cliffs, Martha's Vineyard",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Martha's Vineyard Getaway Cottage, stay from 08:00 to 08:30, nearest transit: West Chop Lighthouse, 468.41m away; Detente Restaurant and Wine Bar, visit from 09:00 to 09:40, nearest transit: Mayhew Lane, 121.49m away; Aquinnah Cliffs, visit from 10:10 to 12:10, nearest transit: Beetlebung Corner, 157.94m away; Bettini Restaurant, visit from 13:40 to 14:20, nearest transit: Mayhew Lane, 578.89m away; The Terrace at The Charlotte Inn, visit from 19:00 to 19:40, nearest transit: Mayhew Lane, 197.27m away"
+  }
+]

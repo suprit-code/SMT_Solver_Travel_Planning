@@ -1,0 +1,6 @@
+Destination cities: ['New York', 'Rochester'],
+Transportation dates: ['2024-11-03', '2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Flight Number: F2780055, from Cleveland to New York, Departure Time: 16:27, Arrival Time: 17:55', 'Flight Number: F1412048, from New York to Rochester, Departure Time: 16:50, Arrival Time: 18:36', 'taxi, from Rochester to Cleveland, duration: 306.565, distance: 415.7125, cost: 415'],
+Restaurants (3 meals per day): ['-', '-', '-', "Carmine's, New York", 'Sarge’s Delicatessen & Diner, New York', 'Westway Diner, New York', 'Times Square Diner, New York', 'Azalea Ristorante, New York', 'Jines Restaurant, Rochester', 'The Quills, Rochester', "Lipuma's Coney Island, Rochester", 'Good Luck, Rochester', 'Nick Tahou Hots, Rochester', 'The Eagle Tavern, Rochester', "Tiny Tim's Tea Rooms, Rochester"],
+Attractions (1 per day): ['The National 9/11 Memorial & Museum, New York', 'The High Line, New York', 'Central Park, New York', 'Restoration House, Rochester', 'Rochester Castle, Rochester'],
+Accommodations (1 per city): ['Minimal room 1 SofaBed + loft bed in Manhattan, New York', 'Historic Henrietta Apartment, Rochester']

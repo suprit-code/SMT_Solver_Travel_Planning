@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Wilmington",
+    "transportation": "Self-driving, from Boston to Wilmington, duration: 962.64, distance: 1302.4002, cost: 65",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Harbor Oaks, rest, relax, renew..., Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Harbor Oaks, rest, relax, renew..., stay from 08:00 to 08:30, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away; Harbor Oaks, rest, relax, renew..., stay from 23:00 to 08:00, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Flaming Amy's Burrito Barn, Wilmington",
+    "lunch": "The Wilmington, Wilmington",
+    "dinner": "Copper Penny, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "Harbor Oaks, rest, relax, renew..., Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Harbor Oaks, rest, relax, renew..., stay from 08:00 to 08:30, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away; Flaming Amy's Burrito Barn, visit from 09:00 to 09:40, nearest transit: Oleander Dr EB at Audubon Blvd, 106.71m away; Battleship North Carolina, visit from 10:10 to 12:10, nearest transit: Front St SB at Chestnut St, 454.38m away; The Wilmington, visit from 13:40 to 14:20, nearest transit: Gordon Rd WB at Military Cutoff Rd, 6310808.05m away; Copper Penny, visit from 19:00 to 19:40, nearest transit: Front St SB at Chestnut St, 63.70m away; Harbor Oaks, rest, relax, renew..., stay from 23:00 to 08:00, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wilmington to Boston",
+    "transportation": "Self-driving, from Wilmington to Boston, duration: 960.1366666666668, distance: 1295.6133, cost: 64",
+    "breakfast": "Winnie's Tavern, Wilmington",
+    "lunch": "The Anchor, Wilmington",
+    "dinner": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Harbor Oaks, rest, relax, renew..., stay from 08:00 to 08:30, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away; Winnie's Tavern, visit from 09:00 to 09:40, nearest transit: Carolina Beach Rd SB at North Carolina Ave , 552.62m away; Burgwin-Wright House and Gardens, visit from 10:10 to 12:10, nearest transit: 3rd St SB at Dock St, 75.52m away; The Anchor, visit from 13:40 to 14:20, nearest transit: Gordon Rd WB at Military Cutoff Rd, 1047961.40m away; Casey's Buffet Barbecue & Home Cookin, visit from 19:00 to 19:40, nearest transit: Oleander Dr EB at Dogwood Ln, 157.69m away"
+  }
+]

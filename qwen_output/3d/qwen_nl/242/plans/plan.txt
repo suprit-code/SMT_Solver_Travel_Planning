@@ -1,0 +1,6 @@
+Destination cities: ['New York'],
+Transportation dates: ['2024-11-07', '2024-11-09'],
+Transportation methods between cities: ['Self-driving, from Nashville to New York, duration: 994.2066666666668, distance: 1424.3848, cost: 71', 'Self-driving, from New York to Nashville, duration: 993.97, distance: 1424.3275, cost: 71'],
+Restaurants (3 meals per day): ['-', '-', '-', "Rao's Restaurant, New York", 'Manhatta, New York', "Del Frisco's Grille, New York", 'Peak Restaurant & Bar, New York', 'BOOM, New York', 'Gallaghers Steakhouse, New York'],
+Attractions (1 per day): ['-', 'The High Line, New York', 'Central Park, New York'],
+Accommodations (1 per city): ['Dazzling Oasis | Times Square.  Restaurant, New York']

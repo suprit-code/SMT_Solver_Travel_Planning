@@ -1,0 +1,6 @@
+Destination cities: ['Nashville'],
+Transportation dates: ['2024-11-14', '2024-11-16'],
+Transportation methods between cities: ['Flight Number: F3978382, from Los Angeles to Nashville, Departure Time: 19:09, Arrival Time: 00:57', 'Flight Number: F0407877, from Nashville to Los Angeles, Departure Time: 20:20, Arrival Time: 23:00'],
+Restaurants (3 meals per day): ['Gannons Nashville, Nashville', '1 Kitchen, Nashville', "Puckett's 5th & Church, Nashville", 'The Catbird Seat, Nashville', 'Old Hickory Steakhouse, Nashville', "Jeff Ruby's Steakhouse, Nashville, Nashville", 'Luogo, Nashville', 'Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville', 'Kayne Prime, Nashville'],
+Attractions (1 per day): ["Andrew Jackson's Hermitage, Nashville", 'Cheekwood, Nashville', 'Belmont Mansion, Nashville'],
+Accommodations (1 per city): ['Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville']

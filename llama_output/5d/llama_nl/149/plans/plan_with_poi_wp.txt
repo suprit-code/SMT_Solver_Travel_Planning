@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Peoria to Amarillo",
+    "transportation": "Taxi from Peoria to Amarillo, duration: 983.8333333333334, distance: 1485.595, cost : 1485.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 22:53 to 23:23, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Relaxing Place to Stay with Guest Living Room!, stay from 23:53 to 07:53, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Manantial, Amarillo",
+    "lunch": "El Bracero Mexican Grill, Amarillo",
+    "dinner": "Ye Olde Pancake Station, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:23 to 08:53, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Manantial, Amarillo, visit from 09:24 to 10:14, ; El Bracero Mexican Grill, Amarillo, visit from 14:15 to 15:15, ; Ye Olde Pancake Station, Amarillo, visit from 19:16 to 20:31, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:01 to 05:01, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F0453699, from Amarillo to Houston, Departure Time: 09:13, Arrival Time: 10:56",
+    "breakfast": "-",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Houston Restaurant, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 06:00 to 08:43, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; #4 Northwest Victory Single BR, stay from 11:26 to 11:56, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Brennan's of Houston, Houston, visit from 12:26 to 13:26, ; Hermann Park, Houston, visit from 13:56 to 17:26, ; Houston Restaurant, Houston, visit from 19:00 to 20:15, ; #4 Northwest Victory Single BR, stay from 20:45 to 04:45, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Uchi Houston, Houston",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "Eddie V's Prime Seafood, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 07:40, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Uchi Houston, Houston, visit from 08:10 to 09:00, ; Downtown Aquarium, Houston, visit from 09:30 to 13:00, ; Market on Houston, Houston, visit from 13:30 to 14:30, ; Eddie V's Prime Seafood, Houston, visit from 19:00 to 20:15, ; #4 Northwest Victory Single BR, stay from 20:45 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Peoria",
+    "transportation": "Taxi from Houston to Peoria, duration: 1047.755, distance: 1518.975, cost : 1518.0",
+    "breakfast": "-",
+    "lunch": "Houstons Bar and Grill, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:00 to 07:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston Zoo, Houston, visit from 09:00 to 12:30, ; Houstons Bar and Grill, Houston, visit from 13:00 to 14:59, ; Pappas Bros. Steakhouse, Houston, visit from 19:00 to 20:15, "
+  }
+]

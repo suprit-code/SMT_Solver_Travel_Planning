@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Atlanta",
+    "transportation": "Flight Number: F0318269, from Oklahoma City to Atlanta, Departure Time: 06:53, Arrival Time: 10:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "No Mas! Cantina, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "New Sky Views HighRise, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 10:31 to 11:01, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.60m away; Centennial Olympic Park, visit from 11:31 to 13:31, nearest transit: MARIETTA ST @ PARK AVE WEST, 143.86m away; No Mas! Cantina, visit from 19:00 to 19:40, nearest transit: PETERS ST SW @ HAYNES ST SW, 123.79m away; New Sky Views HighRise, stay from 23:00 to 08:00, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.60m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Home Grown, Atlanta",
+    "lunch": "Max's Coal Oven Pizzeria, Atlanta",
+    "dinner": "Bangkok Station, Atlanta",
+    "attraction": "Piedmont Park, Atlanta",
+    "accommodation": "New Sky Views HighRise, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 08:00 to 08:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.60m away; Home Grown, visit from 09:00 to 09:40, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; Piedmont Park, visit from 10:10 to 12:10, nearest transit: PIEDMONT AVE NE @ PRADO, 407.10m away; Max's Coal Oven Pizzeria, visit from 13:40 to 14:20, nearest transit: MARIETTA ST @ BAKER ST NW, 33.64m away; Bangkok Station, visit from 19:00 to 19:40, nearest transit: PIEDMONT RD NE @ PEACHTREE DR NE, 153.20m away; New Sky Views HighRise, stay from 23:00 to 08:00, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.60m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Oklahoma City",
+    "transportation": "Flight Number: F2928784, from Atlanta to Oklahoma City, Departure Time: 18:56, Arrival Time: 19:57",
+    "breakfast": "Kevin Rathbun Steak, Atlanta",
+    "lunch": "Fox Bros. Bar-B-Q, Atlanta",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 08:00 to 08:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.60m away; Kevin Rathbun Steak, visit from 09:00 to 09:40, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 465.73m away; Zoo Atlanta, visit from 10:10 to 12:10, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; Fox Bros. Bar-B-Q, visit from 13:06 to 13:46, nearest transit: MORELAND AVE @ 299, 219.31m away; Cafe Agora, visit from 17:46 to 18:26, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away"
+  }
+]

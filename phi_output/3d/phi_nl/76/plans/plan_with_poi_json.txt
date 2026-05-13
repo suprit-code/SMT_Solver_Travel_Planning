@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to New York",
+    "transportation": "Flight Number: F4067662, from Charleston to New York, Departure Time: 13:50, Arrival Time: 15:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "New Cozy Escape, Heart of Times Square, New York",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge\u2019s Delicatessen & Diner, New York",
+    "lunch": "Manhatta, New York",
+    "dinner": "Westway Diner, New York",
+    "attraction": "Chelsea Market, New York",
+    "accommodation": "New Cozy Escape, Heart of Times Square, New York",
+    "event": "-",
+    "point_of_interest_list": "New Cozy Escape, Heart of Times Square, stay from 08:00 to 08:30, nearest transit: 9 AV/W 52 ST, 137.31m away; Sarge\u2019s Delicatessen & Diner, visit from 09:00 to 09:40, nearest transit: 3 AV/E 37 ST, 101.41m away; Chelsea Market, visit from 10:10 to 12:10, nearest transit: W 14 ST/WASHINGTON ST, 131.35m away; Manhatta, visit from 13:40 to 14:20, nearest transit: BROADWAY/THAMES ST, 199.51m away; Westway Diner, visit from 19:00 to 19:40, nearest transit: 9 AV/W 44 ST, 44.32m away; New Cozy Escape, Heart of Times Square, stay from 23:00 to 08:00, nearest transit: 9 AV/W 52 ST, 137.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Charleston",
+    "transportation": "Flight Number: F1883469, from New York to Charleston, Departure Time: 18:27, Arrival Time: 20:33",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Rao's Restaurant, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "New Cozy Escape, Heart of Times Square, stay from 08:00 to 08:30, nearest transit: 9 AV/W 52 ST, 137.31m away; Peak Restaurant & Bar, visit from 09:00 to 09:40, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; The High Line, visit from 10:10 to 12:10, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Rao's Restaurant, visit from 12:40 to 13:20, nearest transit: E 116 ST/PLEASANT AV, 168.60m away; FIG & OLIVE, visit from 17:17 to 17:57, nearest transit: 5 AV/W 52 ST, 84.16m away"
+  }
+]

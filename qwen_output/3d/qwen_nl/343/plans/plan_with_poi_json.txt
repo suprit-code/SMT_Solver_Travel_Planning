@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Wichita",
+    "transportation": "Self-driving, from Denver to Wichita, duration: 533.1016666666667, distance: 834.2885, cost: 41",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy Spacious Wizard of Oz themed Tiny House, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Cozy Spacious Wizard of Oz themed Tiny House, stay from 17:18 to 17:38, nearest transit: Ross Pkwy and Hillside IB, 736.33m away; Cozy Spacious Wizard of Oz themed Tiny House, stay from 18:03 to 08:00, nearest transit: Ross Pkwy and Hillside IB, 736.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wichita",
+    "transportation": "-",
+    "breakfast": "Bite Me BBQ, Wichita",
+    "lunch": "Doo-Dah Diner, Wichita",
+    "dinner": "Beacon Restaurant, Wichita",
+    "attraction": "Wichita Art Museum, Wichita",
+    "accommodation": "Cozy Spacious Wizard of Oz themed Tiny House, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Cozy Spacious Wizard of Oz themed Tiny House, stay from 08:00 to 08:30, nearest transit: Ross Pkwy and Hillside IB, 736.33m away; Bite Me BBQ, visit from 08:55 to 09:35, nearest transit: Douglas and St. Francis IB, 115.21m away; Wichita Art Museum, visit from 10:00 to 12:00, nearest transit: Wichita Art Museum, 76.98m away; Doo-Dah Diner, visit from 13:35 to 14:15, nearest transit: Broadway and Dewey OB, 87.77m away; Beacon Restaurant, visit from 19:00 to 19:40, nearest transit: Washington and Douglas IB, 66.33m away; Cozy Spacious Wizard of Oz themed Tiny House, stay from 23:00 to 08:00, nearest transit: Ross Pkwy and Hillside IB, 736.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wichita to Denver",
+    "transportation": "Self-driving, from Wichita to Denver, duration: 533.3983333333333, distance: 834.7207, cost: 41",
+    "breakfast": "Old Mill Tasty Shop, Wichita",
+    "lunch": "Little Saigon, Wichita",
+    "dinner": "Puero Vallarta Mexican Restaurant, Wichita",
+    "attraction": "Mid-America All-Indian Center, Wichita",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Spacious Wizard of Oz themed Tiny House, stay from 08:00 to 08:30, nearest transit: Ross Pkwy and Hillside IB, 736.33m away; Old Mill Tasty Shop, visit from 08:55 to 09:35, nearest transit: Douglas and St. Francis OB, 39.59m away; Mid-America All-Indian Center, visit from 10:00 to 12:00, nearest transit: Mid American Indian Center, 104.49m away; Little Saigon, visit from 13:35 to 14:15, nearest transit: Broadway and 9th St IB, 34.07m away; Puero Vallarta Mexican Restaurant, visit from 19:00 to 19:40, nearest transit: Central and Tyler IB, 133.40m away"
+  }
+]

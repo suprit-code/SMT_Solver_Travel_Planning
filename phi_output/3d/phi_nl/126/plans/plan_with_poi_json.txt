@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Washington",
+    "transportation": "Flight Number: F3067830, from Charleston to Washington, Departure Time: 15:51, Arrival Time: 17:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "National Air and Space Museum, Washington",
+    "accommodation": "A Classy Corner of DC // Minutes walk to Dupont Circle, Washington",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Kingbird, Washington",
+    "lunch": "Succotash Prime, Washington",
+    "dinner": "RPM Italian, Washington",
+    "attraction": "Ford's Theatre, Washington",
+    "accommodation": "A Classy Corner of DC // Minutes walk to Dupont Circle, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 08:00 to 08:30, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.60m away; Kingbird, visit from 09:00 to 09:40, nearest transit: FOGGY BOTTOM, 488.73m away; Ford's Theatre, visit from 10:10 to 12:10, nearest transit: ENTRANCE B - 11TH AND G STS., 172.16m away; Succotash Prime, visit from 13:40 to 14:20, nearest transit: Entrance B - 9St & G St, GALLERY PLACE METRORAIL STATION, 103.86m away; RPM Italian, visit from 19:00 to 19:40, nearest transit: Entrance C - 7th & H St, GALLERY PLACE METRORAIL STATION, 292.84m away; A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 23:00 to 08:00, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.60m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Charleston",
+    "transportation": "taxi, from Washington to Charleston, duration: 593.9566666666667, distance: 860.1441, cost: 860",
+    "breakfast": "Smoke & Mirrors Rooftop Bar, Washington",
+    "lunch": "Thip Khao, Washington",
+    "dinner": "Cafe Milano, Washington",
+    "attraction": "The National Archives Museum, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 08:00 to 08:30, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.60m away; Smoke & Mirrors Rooftop Bar, visit from 09:00 to 09:40, nearest transit: NAVY YARD-BALLPARK, 408.46m away; The National Archives Museum, visit from 10:10 to 12:10, nearest transit: ARCHIVES-NAVY MEM'L-PENN QUARTER, GREEN/YELLOW LINE CENTER PLATFORM, 121.14m away; Thip Khao, visit from 13:40 to 14:20, nearest transit: COLUMBIA HEIGHTS METRORAIL STATION - NE CORNER OF 14TH AND IRVING STS. NW, 448.99m away; Cafe Milano, visit from 19:00 to 19:40, nearest transit: ROSSLYN, 1240.98m away"
+  }
+]

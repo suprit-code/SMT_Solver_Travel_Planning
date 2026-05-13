@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F1983288, from San Diego to Seattle, Departure Time: 13:50, Arrival Time: 17:02",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy Studio with Kitchenette and Laundry, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 17:32 to 19:15, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; Vons 1000 Spirits, Seattle, visit from 19:45 to 21:00, ; Cozy Studio with Kitchenette and Laundry, stay from 21:30 to 05:30, nearest transit: 8th Ave SW & SW Barton St, 278.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Tulio, Seattle",
+    "lunch": "Salty's On Alki Beach, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Cozy Studio with Kitchenette and Laundry, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 06:00 to 06:30, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; Tulio, Seattle, visit from 08:55 to 09:45, ; Salty's On Alki Beach, Seattle, visit from 13:46 to 14:46, ; Hiram M. Chittenden Locks, Seattle, visit from 15:16 to 18:46, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 19:16 to 20:31, ; Cozy Studio with Kitchenette and Laundry, stay from 21:01 to 05:30, nearest transit: 8th Ave SW & SW Barton St, 278.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F1529957, from Seattle to San Diego, Departure Time: 15:54, Arrival Time: 18:40",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Spinasse, Seattle",
+    "dinner": "-",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 06:00 to 06:30, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; Noi Thai Cuisine, Seattle, visit from 08:00 to 08:50, ; Woodland Park Zoo, Seattle, visit from 09:20 to 12:50, ; Spinasse, Seattle, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Anchorage'],
+Transportation dates: ['2024-11-09', '2024-11-11'],
+Transportation methods between cities: ['Flight Number: F0245216, from Seattle to Anchorage, Departure Time: 14:49, Arrival Time: 17:35', 'Flight Number: F1288269, from Anchorage to Seattle, Departure Time: 14:02, Arrival Time: 18:33'],
+Restaurants (3 meals per day): ['-', '-', 'Club Paris, Anchorage', 'anchorage hotel, Anchorage', 'Kobuk Coffee Co, Anchorage', 'Kincaid Grill and Wine Bar, Anchorage', "Simon & Seafort's Saloon & Grill, Anchorage", "Jens' Restaurant, Anchorage", "Crow's Nest, Anchorage"],
+Attractions (1 per day): ['Earthquake Park, Anchorage', 'Tony Knowles Coastal Trail, Anchorage', 'Alaska Railroad, Anchorage'],
+Accommodations (1 per city): ['Cozy Riverside Retreat, Anchorage']

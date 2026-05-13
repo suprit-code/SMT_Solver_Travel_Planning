@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to San Diego",
+    "transportation": "Flight Number: F3737122, from Portland to San Diego, Departure Time: 07:00, Arrival Time: 09:28",
+    "breakfast": "-",
+    "lunch": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "dinner": "Alforon, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private Hideaway, Shelter Island, Beach  & Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 09:58 to 10:28, nearest transit: Canon St & Evergreen St, 448.33m away; Filippi's Pizza Grotto Little Italy, San Diego, visit from 12:00 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 19:00, ; Alforon, San Diego, visit from 20:45 to 23:10, ; Private Hideaway, Shelter Island, Beach  & Bay, stay from 23:40 to 07:40, nearest transit: Canon St & Evergreen St, 448.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Ruth's Chris Steak House, San Diego",
+    "dinner": "El Agave Restaurant & Tequileria, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Private Hideaway, Shelter Island, Beach  & Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 08:10 to 08:40, nearest transit: Canon St & Evergreen St, 448.33m away; Lou & Mickey's, San Diego, visit from 09:10 to 10:00, ; SeaWorld, San Diego, visit from 10:30 to 14:00, ; Ruth's Chris Steak House, San Diego, visit from 14:30 to 15:44, ; El Agave Restaurant & Tequileria, San Diego, visit from 19:45 to 21:00, ; Private Hideaway, Shelter Island, Beach  & Bay, stay from 21:30 to 05:30, nearest transit: Canon St & Evergreen St, 448.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Addison Restaurant, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relax and Enjoy!, Redding",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 06:00 to 06:30, nearest transit: Canon St & Evergreen St, 448.33m away; Addison Restaurant, San Diego, visit from 08:00 to 08:50, ; Relax and Enjoy!, stay from 22:04 to 22:34, nearest transit: Lake Blvd at Panorama Dr, 566.63m away; Relax and Enjoy!, stay from 23:04 to 07:04, nearest transit: Lake Blvd at Panorama Dr, 566.63m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Jack's Grill, Redding",
+    "lunch": "Black Bear Diner, Redding",
+    "dinner": "New China, Redding",
+    "attraction": "Redding Civic Auditorium, Redding",
+    "accommodation": "Relax and Enjoy!, Redding",
+    "event": "-",
+    "point_of_interest_list": "Relax and Enjoy!, stay from 07:34 to 08:04, nearest transit: Lake Blvd at Panorama Dr, 566.63m away; Jack's Grill, Redding, visit from 08:35 to 09:25, ; Black Bear Diner, Redding, visit from 13:30 to 14:30, ; Redding Civic Auditorium, Redding, visit from 15:00 to 18:30, ; New China, Redding, visit from 19:00 to 20:15, ; Relax and Enjoy!, stay from 20:45 to 04:45, nearest transit: Lake Blvd at Panorama Dr, 566.63m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Taxi from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 259.0",
+    "breakfast": "Karlines, Redding",
+    "lunch": "Nello's Place, Redding",
+    "dinner": "-",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Relax and Enjoy!, stay from 06:00 to 08:40, nearest transit: Lake Blvd at Panorama Dr, 566.63m away; Karlines, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; Nello's Place, Redding, visit from 14:30 to 15:30, ; Private Guest Bed 'N Bath near Downtown, stay from 19:26 to 19:56, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Private Guest Bed 'N Bath near Downtown, stay from 22:11 to 06:11, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "The Firehouse Restaurant, Sacramento",
+    "lunch": "Mulvaney's Building & Loan, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 06:41 to 08:05, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; The Firehouse Restaurant, Sacramento, visit from 08:35 to 09:25, ; Mulvaney's Building & Loan, Sacramento, visit from 13:26 to 14:26, ; California State Capitol Museum, Sacramento, visit from 14:56 to 18:30, ; Grange Restaurant & Bar, Sacramento, visit from 19:00 to 20:15, ; Private Guest Bed 'N Bath near Downtown, stay from 20:45 to 04:45, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Portland",
+    "transportation": "Taxi from Sacramento to Portland, duration: 667.9300000000001, distance: 932.3056, cost : 932.0",
+    "breakfast": "The Waterboy, Sacramento",
+    "lunch": "Aviators Restaurant, Sacramento",
+    "dinner": "Cafeteria 15L, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; The Waterboy, Sacramento, visit from 08:00 to 08:50, ; Aviators Restaurant, Sacramento, visit from 12:51 to 13:51, ; Capitol Park, Sacramento, visit from 14:21 to 17:51, ; Cafeteria 15L, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

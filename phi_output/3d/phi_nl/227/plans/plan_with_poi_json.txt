@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Monterey",
+    "transportation": "Flight Number: F1766520, from Seattle to Monterey, Departure Time: 11:49, Arrival Time: 14:08",
+    "breakfast": "-",
+    "lunch": "Cafe Fina, Monterey",
+    "dinner": "Peter B's Brewpub, Monterey",
+    "attraction": "17-Mile Drive, Monterey",
+    "accommodation": "Serene Redwood Retreat w/Modern Comfort, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 14:38 to 15:08, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Cafe Fina, visit from 15:38 to 16:18, nearest transit: Olivier St / 155 MPR Trail, 146.98m away; 17-Mile Drive, visit from 16:48 to 18:48, nearest transit: Asilomar - Conference Center, 2694.67m away; Peter B's Brewpub, visit from 20:18 to 20:58, nearest transit: Pacific /  Scott, 78.24m away; Serene Redwood Retreat w/Modern Comfort, stay from 23:00 to 08:00, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Monterey",
+    "transportation": "-",
+    "breakfast": "Compagno's Market & Deli, Monterey",
+    "lunch": "Monterey's Pizza, Monterey",
+    "dinner": "Monterey's Fish House, Monterey",
+    "attraction": "Monterey Bay Aquarium, Monterey",
+    "accommodation": "Serene Redwood Retreat w/Modern Comfort, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 08:00 to 08:30, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Compagno's Market & Deli, visit from 09:00 to 09:40, nearest transit: David /  Lottie, 372.32m away; Monterey Bay Aquarium, visit from 10:10 to 12:10, nearest transit: Cannery Row / Aquarium, 78.70m away; Monterey's Pizza, visit from 13:40 to 14:20, nearest transit: Mission St / 14th St, 3848688.09m away; Monterey's Fish House, visit from 19:00 to 19:40, nearest transit: Del Monte /  Casa Verde, 119.40m away; Serene Redwood Retreat w/Modern Comfort, stay from 23:00 to 08:00, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Monterey to Seattle",
+    "transportation": "Flight Number: F3820057, from Monterey to Seattle, Departure Time: 14:17, Arrival Time: 16:41",
+    "breakfast": "Old Monterey Cafe, Monterey",
+    "lunch": "The Sardine Factory, Monterey",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 08:00 to 08:30, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Old Monterey Cafe, visit from 09:00 to 09:40, nearest transit: Monterey Transit Plaza / Gate 3 Pearl, 45.93m away; The Sardine Factory, visit from 13:07 to 13:47, nearest transit: Wave /  Cr1 Parking Garage, 112.50m away"
+  }
+]

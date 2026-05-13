@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Lexington",
+    "transportation": "Self-driving, from Detroit to Lexington, duration: 387.0566666666667, distance: 548.257, cost: 27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 08:00 to 08:30, nearest transit: Chandler Hospital, 202.96m away; A single room for your stay, stay from 23:00 to 08:00, nearest transit: Chandler Hospital, 202.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Lexington",
+    "transportation": "-",
+    "breakfast": "J. Alexander's Restaurant, Lexington",
+    "lunch": "The Triangle Grille, Lexington",
+    "dinner": "The Rackhouse Tavern, Lexington",
+    "attraction": "James E. Pepper Distillery, Lexington",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 08:00 to 08:30, nearest transit: Chandler Hospital, 202.96m away; J. Alexander's Restaurant, visit from 09:00 to 09:40, nearest transit: Nicholasville @ The Summit, 237.54m away; James E. Pepper Distillery, visit from 10:10 to 12:10, nearest transit: Forbes @ 255 Outbound, 435.89m away; The Triangle Grille, visit from 13:40 to 14:20, nearest transit: North Broadway @ Main Inbound, 68.41m away; The Rackhouse Tavern, visit from 19:00 to 19:40, nearest transit: Harrodsburg @ Saint Joseph Hosp Outbound, 224.59m away; A single room for your stay, stay from 23:00 to 08:00, nearest transit: Chandler Hospital, 202.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Lexington to Detroit",
+    "transportation": "Self-driving, from Lexington to Detroit, duration: 389.9566666666667, distance: 549.431, cost: 27",
+    "breakfast": "Bluegrass Bistro, Lexington",
+    "lunch": "Carson's Food & Drink - On Main, Lexington",
+    "dinner": "Keeneland Track Kitchen, Lexington",
+    "attraction": "Lexington Brewing & Distilling Co., Lexington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 08:00 to 08:30, nearest transit: Chandler Hospital, 202.96m away; Bluegrass Bistro, visit from 09:00 to 09:40, nearest transit: Newtown @ Pintail (Marriott), 188.40m away; Lexington Brewing & Distilling Co., visit from 10:10 to 12:10, nearest transit: Versailles @ Pine Inbound, 112.53m away; Carson's Food & Drink - On Main, visit from 13:40 to 14:20, nearest transit: Elm Tree @ Main Outbound, 116.68m away; Keeneland Track Kitchen, visit from 19:00 to 19:40, nearest transit: Keeneland Race Track, 480.33m away"
+  }
+]

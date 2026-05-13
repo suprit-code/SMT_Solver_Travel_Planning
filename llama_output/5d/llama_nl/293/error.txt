@@ -1,0 +1,11 @@
+
+--- JOB 293 FAILED ---
+Error: name 'city_list' is not defined
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 95, in <module>
+NameError: name 'city_list' is not defined
+
+----------------------------------------

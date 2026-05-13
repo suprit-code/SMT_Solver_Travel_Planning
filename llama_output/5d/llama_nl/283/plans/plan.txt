@@ -1,0 +1,6 @@
+Destination cities: ['New York', 'Rochester'],
+Transportation dates: ['2024-11-03', '2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Flight Number: F3115734, from St. Louis to New York, Departure Time: 14:48, Arrival Time: 17:56', 'Flight Number: F0820727, from New York to Rochester, Departure Time: 02:31, Arrival Time: 03:54', 'taxi, from Rochester to St. Louis, duration: 916.39, distance: 1303.6043, cost: 1303'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Piccola Cucina Osteria, New York', 'Westway Diner, New York', 'Times Square Diner, New York', "Tiny Tim's Tea Rooms, Rochester", 'The Eagle Tavern, Rochester', 'Restaurant Fiorella, Rochester', "Lipuma's Coney Island, Rochester", 'Dinosaur Bar-B-Que, Rochester', 'Savoia Pastry Shoppe, Rochester', 'Good Luck, Rochester', 'Nick Tahou Hots, Rochester', "Rochester's Barbecue & Grill, Rochester"],
+Attractions (1 per day): ['The High Line, New York', 'Central Park, New York', 'Rochester Castle, Rochester', 'Eastman Theatre, Rochester', 'Restoration House, Rochester'],
+Accommodations (1 per city): ['Lamartine Chelsea 1B, New York', 'Historic Henrietta Apartment, Rochester']

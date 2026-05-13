@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Valparaiso to Charlotte",
+    "transportation": "Self-driving, from Valparaiso to Charlotte, duration: 839.0333333333333, distance: 1153.1453, cost: 57",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Bedroom with Private Patio & Gym Near Uptown!, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Bedroom with Private Patio & Gym Near Uptown!, stay from 08:00 to 08:30, nearest transit: West Blvd & Beech Nut Rd, 390.41m away; Bedroom with Private Patio & Gym Near Uptown!, stay from 23:00 to 08:00, nearest transit: West Blvd & Beech Nut Rd, 390.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Gaucho Charlotte Street, Charlotte",
+    "lunch": "The Terrace at The Charlotte Inn, Charlotte",
+    "dinner": "Charlotte's Web, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Bedroom with Private Patio & Gym Near Uptown!, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Bedroom with Private Patio & Gym Near Uptown!, stay from 08:00 to 08:30, nearest transit: West Blvd & Beech Nut Rd, 390.41m away; Gaucho Charlotte Street, visit from 09:00 to 09:40, nearest transit: Beaty St @ 866, 6415294.40m away; NASCAR Hall of Fame, visit from 10:10 to 12:10, nearest transit: Caldwell St & 3rd St, 96.74m away; The Terrace at The Charlotte Inn, visit from 13:40 to 14:20, nearest transit: Beaty St @ 866, 1111842.47m away; Charlotte's Web, visit from 19:00 to 19:40, nearest transit: Beaty St @ 866, 811477.47m away; Bedroom with Private Patio & Gym Near Uptown!, stay from 23:00 to 08:00, nearest transit: West Blvd & Beech Nut Rd, 390.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Valparaiso",
+    "transportation": "Self-driving, from Charlotte to Valparaiso, duration: 836.4466666666667, distance: 1151.8786, cost: 57",
+    "breakfast": "Cabo Fish Taco Baja Seagrill, Charlotte",
+    "lunch": "The Charlotte Hotel & Restaurant, Charlotte",
+    "dinner": "Charlotte & Fritz, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Bedroom with Private Patio & Gym Near Uptown!, stay from 08:00 to 08:30, nearest transit: West Blvd & Beech Nut Rd, 390.41m away; Cabo Fish Taco Baja Seagrill, visit from 09:00 to 09:40, nearest transit: Davidson & 35th, 57.25m away; Discovery Place Science, visit from 10:10 to 12:10, nearest transit: Church St & 6th St, 53.42m away; The Charlotte Hotel & Restaurant, visit from 13:40 to 14:20, nearest transit: Concord Mills Mall, 515812.44m away; Charlotte & Fritz, visit from 19:00 to 19:40, nearest transit: Beaty St @ 866, 7233404.02m away"
+  }
+]

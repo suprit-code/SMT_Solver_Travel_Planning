@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Martha's Vineyard",
+    "transportation": "Self-driving from Charlotte to Martha's Vineyard, duration: 1122.7316666666666, distance: 1420.8184, cost : 71.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "\"Ferry's Landing\" Private Bed & Bath w/Harbor View, Martha's Vineyard",
+    "event": "-",
+    "point_of_interest_list": "\"Ferry's Landing\" Private Bed & Bath w/Harbor View, stay from 01:12 to 01:42, nearest transit: Vineyard Haven SSA Terminal, 181.29m away; \"Ferry's Landing\" Private Bed & Bath w/Harbor View, stay from 02:12 to 08:00, nearest transit: Vineyard Haven SSA Terminal, 181.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Martha's Vineyard",
+    "transportation": "-",
+    "breakfast": "Biscuits, Martha's Vineyard",
+    "lunch": "The Attic, Martha's Vineyard",
+    "dinner": "Offshore Ale Company, Martha's Vineyard",
+    "attraction": "-",
+    "accommodation": "\"Ferry's Landing\" Private Bed & Bath w/Harbor View, Martha's Vineyard",
+    "event": "-",
+    "point_of_interest_list": "\"Ferry's Landing\" Private Bed & Bath w/Harbor View, stay from 08:30 to 09:00, nearest transit: Vineyard Haven SSA Terminal, 181.29m away; Biscuits, Martha's Vineyard, visit from 09:34 to 10:24, ; The Attic, Martha's Vineyard, visit from 14:25 to 15:44, ; Offshore Ale Company, Martha's Vineyard, visit from 19:45 to 21:00, ; \"Ferry's Landing\" Private Bed & Bath w/Harbor View, stay from 21:30 to 05:30, nearest transit: Vineyard Haven SSA Terminal, 181.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Martha's Vineyard to Charlotte",
+    "transportation": "Self-driving from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost : 71.0",
+    "breakfast": "Wharf Pub & Restaurant, Martha's Vineyard",
+    "lunch": "Bobby B's Restaurant & Bakery, Martha's Vineyard",
+    "dinner": "Marthas Vineyard Chowder Company, Martha's Vineyard",
+    "attraction": "Aquinnah Cliffs, Martha's Vineyard",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "\"Ferry's Landing\" Private Bed & Bath w/Harbor View, stay from 06:00 to 06:30, nearest transit: Vineyard Haven SSA Terminal, 181.29m away; Wharf Pub & Restaurant, Martha's Vineyard, visit from 08:00 to 09:59, ; Bobby B's Restaurant & Bakery, Martha's Vineyard, visit from 14:00 to 15:00, ; Aquinnah Cliffs, Martha's Vineyard, visit from 15:30 to 19:00, ; Marthas Vineyard Chowder Company, Martha's Vineyard, visit from 19:30 to 20:45, "
+  }
+]

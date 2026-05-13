@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Madison to New York",
+    "transportation": "Flight Number: F0715790, from Madison to New York, Departure Time: 05:55, Arrival Time: 09:13",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "BOOM, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 09:43 to 10:13, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Peak Restaurant & Bar, visit from 10:43 to 11:23, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; The National 9/11 Memorial & Museum, visit from 11:53 to 13:53, nearest transit: CHURCH ST/LIBERTY ST, 234.55m away; BOOM, visit from 14:50 to 15:30, nearest transit: W 14 ST/WASHINGTON ST, 126.07m away; Times Square Diner, visit from 19:30 to 20:10, nearest transit: W 49 ST/8 AV, 51.46m away; Church view bedroom in Harlem brownstone, stay from 23:00 to 08:00, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Rao's Restaurant, New York",
+    "lunch": "Manhatta, New York",
+    "dinner": "La Grande Boucherie, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Church view bedroom in Harlem brownstone, New York",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 08:00 to 08:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Rao's Restaurant, visit from 09:00 to 09:40, nearest transit: E 116 ST/PLEASANT AV, 168.60m away; Central Park, visit from 10:10 to 12:10, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; Manhatta, visit from 13:40 to 14:20, nearest transit: BROADWAY/THAMES ST, 199.51m away; La Grande Boucherie, visit from 19:00 to 19:40, nearest transit: 7 AV/W 54 ST, 124.66m away; Church view bedroom in Harlem brownstone, stay from 23:00 to 08:00, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Madison",
+    "transportation": "Flight Number: F0727671, from New York to Madison, Departure Time: 20:45, Arrival Time: 22:38",
+    "breakfast": "Del Frisco's Double Eagle Steakhouse, New York",
+    "lunch": "Rainbow Room, New York",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Church view bedroom in Harlem brownstone, stay from 08:00 to 08:30, nearest transit: FREDERICK DOUGLASS BLVD/W 138 ST, 79.67m away; Del Frisco's Double Eagle Steakhouse, visit from 09:00 to 09:40, nearest transit: W 49 ST/AVENUE OF THE AMERICAS, 94.03m away; The High Line, visit from 10:10 to 12:10, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Rainbow Room, visit from 13:40 to 14:20, nearest transit: W 50 ST/AVENUE OF THE AMERICAS, 92.40m away; Gallaghers Steakhouse, visit from 19:00 to 19:40, nearest transit: 7 AV/W 52 ST, 131.50m away"
+  }
+]

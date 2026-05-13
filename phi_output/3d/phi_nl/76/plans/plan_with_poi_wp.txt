@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to New York",
+    "transportation": "Flight Number: F4067662, from Charleston to New York, Departure Time: 13:50, Arrival Time: 15:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "-",
+    "accommodation": "New Cozy Escape, Heart of Times Square, New York",
+    "event": "-",
+    "point_of_interest_list": "New Cozy Escape, Heart of Times Square, stay from 16:29 to 18:30, nearest transit: 9 AV/W 52 ST, 137.31m away; Del Frisco's Grille, New York, visit from 19:00 to 21:00, ; New Cozy Escape, Heart of Times Square, stay from 21:30 to 05:30, nearest transit: 9 AV/W 52 ST, 137.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "Manhatta, New York",
+    "dinner": "Westway Diner, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "New Cozy Escape, Heart of Times Square, New York",
+    "event": "-",
+    "point_of_interest_list": "New Cozy Escape, Heart of Times Square, stay from 06:00 to 06:30, nearest transit: 9 AV/W 52 ST, 137.31m away; Sarge’s Delicatessen & Diner, New York, visit from 08:15 to 09:05, ; Central Park, New York, visit from 09:35 to 14:00, ; Manhatta, New York, visit from 14:30 to 15:30, ; Westway Diner, New York, visit from 19:45 to 21:00, ; New Cozy Escape, Heart of Times Square, stay from 21:30 to 05:30, nearest transit: 9 AV/W 52 ST, 137.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Charleston",
+    "transportation": "Flight Number: F1883469, from New York to Charleston, Departure Time: 18:27, Arrival Time: 20:33",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Rao's Restaurant, New York",
+    "dinner": "-",
+    "attraction": "Chelsea Market, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "New Cozy Escape, Heart of Times Square, stay from 06:00 to 06:30, nearest transit: 9 AV/W 52 ST, 137.31m away; Peak Restaurant & Bar, New York, visit from 08:00 to 08:50, ; Rao's Restaurant, New York, visit from 12:51 to 13:51, ; Chelsea Market, New York, visit from 14:21 to 17:51, "
+  }
+]

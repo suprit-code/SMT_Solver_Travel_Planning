@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to New York",
+    "transportation": "Flight Number: F1014617, from Raleigh to New York, Departure Time: 15:44, Arrival Time: 17:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Westway Diner, New York",
+    "attraction": "-",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 17:47 to 20:15, nearest transit: 9 AV/W 30 ST, 139.35m away; Westway Diner, New York, visit from 20:45 to 23:05, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 23:35 to 07:35, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Trattoria Trecolori, New York",
+    "lunch": "FIG & OLIVE, New York",
+    "dinner": "Carmine's, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 08:05 to 08:35, nearest transit: 9 AV/W 30 ST, 139.35m away; Trattoria Trecolori, New York, visit from 09:05 to 09:55, ; FIG & OLIVE, New York, visit from 13:56 to 14:56, ; New York Public Library, New York, visit from 15:26 to 18:56, ; Carmine's, New York, visit from 19:26 to 20:41, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 21:11 to 05:11, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Raleigh",
+    "transportation": "Flight Number: F3200896, from New York to Raleigh, Departure Time: 18:55, Arrival Time: 20:37",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 06:00 to 06:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Times Square Diner, New York, visit from 08:00 to 08:50, ; The Metropolitan Museum of Art, New York, visit from 09:20 to 18:25, "
+  }
+]

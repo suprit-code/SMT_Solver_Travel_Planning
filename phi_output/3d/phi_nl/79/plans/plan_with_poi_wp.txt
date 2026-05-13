@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F0834281, from Hartford to Las Vegas, Departure Time: 16:52, Arrival Time: 20:24",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 20:54 to 21:24, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 22:47 to 06:47, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "lunch": "Mr. Mamas, Las Vegas",
+    "dinner": "Kabuto, Las Vegas",
+    "attraction": "Wynn Las Vegas Casino, Las Vegas",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 07:17 to 07:47, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 08:17 to 09:59, ; Mr. Mamas, Las Vegas, visit from 14:00 to 15:00, ; Wynn Las Vegas Casino, Las Vegas, visit from 15:30 to 19:15, ; Kabuto, Las Vegas, visit from 19:45 to 21:00, ; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 21:30 to 05:30, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F0278234, from Las Vegas to Hartford, Departure Time: 23:01, Arrival Time: 06:35",
+    "breakfast": "-",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 06:00 to 06:30, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Eggscellent, Las Vegas, visit from 14:30 to 22:31, "
+  }
+]

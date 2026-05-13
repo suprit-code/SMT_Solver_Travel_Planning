@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Hartford",
+    "transportation": "Flight Number: F0554770, from Denver to Hartford, Departure Time: 18:09, Arrival Time: 23:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private room \u201cB\u201d in Hartford, Hartford",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "New Hartford Diner, Hartford",
+    "lunch": "Hartford Baking Company, Hartford",
+    "dinner": "bartaco, Hartford",
+    "attraction": "Hartford Stage, Hartford",
+    "accommodation": "Private room \u201cB\u201d in Hartford, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Private room \u201cB\u201d in Hartford, stay from 08:00 to 08:30, nearest transit: Hartford, 2463.33m away; New Hartford Diner, visit from 09:00 to 09:40, nearest transit: Hartford, 25255.57m away; Hartford Stage, visit from 10:10 to 12:10, nearest transit: Hartford, 624.67m away; Hartford Baking Company, visit from 13:40 to 14:20, nearest transit: Hartford, 5307.99m away; bartaco, visit from 19:00 to 19:40, nearest transit: Hartford, 5192.42m away; Private room \u201cB\u201d in Hartford, stay from 23:00 to 08:00, nearest transit: Hartford, 2463.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Denver",
+    "transportation": "Flight Number: F1064155, from Hartford to Denver, Departure Time: 10:43, Arrival Time: 12:59",
+    "breakfast": "Hartford Coffee Co., Hartford",
+    "lunch": "Hartford Steak Co Tavern, Hartford",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

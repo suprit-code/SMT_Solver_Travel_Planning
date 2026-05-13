@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F4016069, from Denver to San Diego, Departure Time: 13:07, Arrival Time: 14:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "-",
+    "accommodation": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 14:41 to 15:11, nearest transit: 30th St & Dwight St, 360.48m away; Ruth's Chris Steak House, San Diego, visit from 19:00 to 22:11, ; Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 22:41 to 06:41, nearest transit: 30th St & Dwight St, 360.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 07:11 to 07:41, nearest transit: 30th St & Dwight St, 360.48m away; Born & Raised, San Diego, visit from 08:11 to 09:59, ; Pacific Beach AleHouse, San Diego, visit from 14:00 to 15:00, ; Cabrillo National Monument, San Diego, visit from 15:30 to 20:15, ; Mimmo's, San Diego, visit from 20:45 to 22:00, ; Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 22:30 to 06:30, nearest transit: 30th St & Dwight St, 360.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "World Famous, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 07:00 to 07:30, nearest transit: 30th St & Dwight St, 360.48m away; World Famous, San Diego, visit from 08:00 to 08:50, ; Modern Apt Near Downtown Sac, stay from 19:11 to 19:41, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Modern Apt Near Downtown Sac, stay from 21:56 to 05:56, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "Grange Restaurant & Bar, Sacramento",
+    "dinner": "Bangkok @12 Thai Restaurant, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 06:26 to 06:56, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Paesano's Pizzeria, Sacramento, visit from 08:02 to 08:52, ; Grange Restaurant & Bar, Sacramento, visit from 12:53 to 13:53, ; Capitol Park, Sacramento, visit from 14:23 to 20:15, ; Bangkok @12 Thai Restaurant, Sacramento, visit from 20:45 to 22:00, ; Modern Apt Near Downtown Sac, stay from 22:30 to 06:30, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Denver",
+    "transportation": "Flight Number: F1609841, from Sacramento to Denver, Departure Time: 15:44, Arrival Time: 19:01",
+    "breakfast": "Nopalitos, Sacramento",
+    "lunch": "The Kitchen Restaurant, Sacramento",
+    "dinner": "-",
+    "attraction": "Old Sacramento, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 07:00 to 07:30, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Nopalitos, Sacramento, visit from 08:00 to 08:50, ; Old Sacramento, Sacramento, visit from 09:20 to 12:50, ; The Kitchen Restaurant, Sacramento, visit from 14:14 to 15:14, "
+  }
+]

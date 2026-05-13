@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F0814694, from San Diego to Seattle, Departure Time: 14:09, Arrival Time: 17:12",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Queen Anne Courtyard Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Spinasse, Seattle",
+    "lunch": "Salty's On Alki Beach, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Queen Anne Courtyard Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Queen Anne Courtyard Suite, stay from 08:00 to 08:30, nearest transit: Queen Anne Ave N & W Howe St, 58.44m away; Spinasse, visit from 09:00 to 09:40, nearest transit: E Pine St & 15th Ave, 90.45m away; Hiram M. Chittenden Locks, visit from 10:10 to 12:10, nearest transit: NW 54th St & 30th Ave NW, 241.41m away; Salty's On Alki Beach, visit from 13:40 to 14:20, nearest transit: Harbor Ave SW & 2100 Block, 145.40m away; Dough Zone Dumpling House - Seattle International District, visit from 19:00 to 19:40, nearest transit: 5th Ave S & S Weller St, 26.54m away; Queen Anne Courtyard Suite, stay from 23:00 to 08:00, nearest transit: Queen Anne Ave N & W Howe St, 58.44m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F0346358, from Seattle to San Diego, Departure Time: 15:28, Arrival Time: 18:03",
+    "breakfast": "Il Terrazzo Carmine, Seattle",
+    "lunch": "The Capital Grille, Seattle",
+    "dinner": "-",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Queen Anne Courtyard Suite, stay from 08:00 to 08:30, nearest transit: Queen Anne Ave N & W Howe St, 58.44m away; Il Terrazzo Carmine, visit from 09:00 to 09:40, nearest transit: Alaskan Way S & S Jackson St, 103.57m away; Woodland Park Zoo, visit from 10:10 to 12:10, nearest transit: Phinney Ave N & N 55th St, 257.77m away; The Capital Grille, visit from 13:40 to 14:20, nearest transit: 4th Ave & University, 41.04m away"
+  }
+]

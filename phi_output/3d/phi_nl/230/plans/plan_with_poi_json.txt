@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Seattle",
+    "transportation": "Flight Number: F3454856, from Houston to Seattle, Departure Time: 10:12, Arrival Time: 12:58",
+    "breakfast": "-",
+    "lunch": "Canlis Restaurant, Seattle",
+    "dinner": "Six Seven Restaurant, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Magical Mountain Retreat and Sauna, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Magical Mountain Retreat and Sauna, stay from 13:28 to 13:58, nearest transit: S Alder Ave & E Stanley St, 9276.19m away; Canlis Restaurant, visit from 14:28 to 15:08, nearest transit: Dexter Ave N & Wheeler St, 87.69m away; Seattle Center, visit from 15:38 to 17:38, nearest transit: Seattle Center, 84.22m away; Six Seven Restaurant, visit from 19:08 to 19:48, nearest transit: 1st Ave & Broad St, 540.95m away; Magical Mountain Retreat and Sauna, stay from 23:00 to 08:00, nearest transit: S Alder Ave & E Stanley St, 9276.19m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Metropolitan Grill, Seattle",
+    "lunch": "Place Pigalle Restaurant and Bar, Seattle",
+    "dinner": "El Gaucho Seattle, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Magical Mountain Retreat and Sauna, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Magical Mountain Retreat and Sauna, stay from 08:00 to 08:30, nearest transit: S Alder Ave & E Stanley St, 9276.19m away; Metropolitan Grill, visit from 09:00 to 09:40, nearest transit: 2nd Ave & Marion St, 39.95m away; Woodland Park Zoo, visit from 10:10 to 12:10, nearest transit: Phinney Ave N & N 55th St, 257.77m away; Place Pigalle Restaurant and Bar, visit from 13:40 to 14:20, nearest transit: 2nd Ave & Pike St, 154.30m away; El Gaucho Seattle, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Bell St, 181.71m away; Magical Mountain Retreat and Sauna, stay from 23:00 to 08:00, nearest transit: S Alder Ave & E Stanley St, 9276.19m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Houston",
+    "transportation": "Flight Number: F3446835, from Seattle to Houston, Departure Time: 16:11, Arrival Time: 22:08",
+    "breakfast": "Matt's in the Market, Seattle",
+    "lunch": "The Butcher's Table, Seattle",
+    "dinner": "Salty's On Alki Beach, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Magical Mountain Retreat and Sauna, stay from 08:00 to 08:30, nearest transit: S Alder Ave & E Stanley St, 9276.19m away; Matt's in the Market, visit from 09:00 to 09:40, nearest transit: 2nd Ave & Pike St, 155.00m away; Hiram M. Chittenden Locks, visit from 10:10 to 12:10, nearest transit: NW 54th St & 30th Ave NW, 241.41m away; The Butcher's Table, visit from 12:40 to 13:20, nearest transit: Westlake & 9th-Denny, 32.31m away; Salty's On Alki Beach, visit from 15:01 to 15:41, nearest transit: Harbor Ave SW & 2100 Block, 145.40m away"
+  }
+]

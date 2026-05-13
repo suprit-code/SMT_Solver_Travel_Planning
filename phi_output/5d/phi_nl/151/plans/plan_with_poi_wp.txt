@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Amarillo",
+    "transportation": "Self-driving from Memphis to Amarillo, duration: 751.4483333333334, distance: 1165.9254, cost : 58.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ye Olde Pancake Station, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 19:01 to 19:31, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Ye Olde Pancake Station, Amarillo, visit from 20:01 to 21:16, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:46 to 05:46, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Manantial, Amarillo",
+    "lunch": "Jorge's Mexican Restaurant, Amarillo",
+    "dinner": "Six Car Pub & Brewery, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 06:16 to 06:46, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Manantial, Amarillo, visit from 09:10 to 10:00, ; Route 66 Historic District, Amarillo, visit from 10:30 to 14:00, ; Jorge's Mexican Restaurant, Amarillo, visit from 14:30 to 16:44, ; Six Car Pub & Brewery, Amarillo, visit from 20:45 to 22:00, ; Relaxing Place to Stay with Guest Living Room!, stay from 22:30 to 06:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Self-driving from Amarillo to Houston, duration: 649.365, distance: 961.8577, cost : 48.0",
+    "breakfast": "El Bracero Mexican Grill, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 07:00 to 07:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Bracero Mexican Grill, Amarillo, visit from 08:00 to 08:50, ; #4 Northwest Victory Single BR, stay from 20:39 to 21:09, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; #4 Northwest Victory Single BR, stay from 23:24 to 07:24, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Market on Houston, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Houstons Bar and Grill, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:54 to 08:24, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Market on Houston, Houston, visit from 09:08 to 09:59, ; Houston Restaurant, Houston, visit from 14:00 to 15:00, ; Houston Zoo, Houston, visit from 15:30 to 19:00, ; Houstons Bar and Grill, Houston, visit from 19:30 to 20:45, ; #4 Northwest Victory Single BR, stay from 21:15 to 05:15, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Memphis",
+    "transportation": "Self-driving from Houston to Memphis, duration: 625.0183333333333, distance: 911.4177, cost : 45.0",
+    "breakfast": "Houston's Restaurant & Pub, Houston",
+    "lunch": "Kenny & Ziggy's New York Deli, Houston",
+    "dinner": "Houston's Trail's End, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston's Restaurant & Pub, Houston, visit from 08:00 to 08:50, ; Kenny & Ziggy's New York Deli, Houston, visit from 12:51 to 13:51, ; Cockrell Butterfly Center, Houston, visit from 14:21 to 17:51, ; Houston's Trail's End, Houston, visit from 19:00 to 20:15, "
+  }
+]

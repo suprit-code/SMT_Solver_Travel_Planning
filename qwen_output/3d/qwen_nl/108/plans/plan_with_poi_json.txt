@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Sacramento",
+    "transportation": "Flight Number: F2846011, from Charlotte to Sacramento, Departure Time: 18:57, Arrival Time: 21:21",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "-",
+    "accommodation": "Private Bath & Private Balcony *420-Friendly*, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Bath & Private Balcony *420-Friendly*, stay from 21:46 to 21:52, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away; Paesano's Pizzeria, visit from 22:17 to 22:35, nearest transit: 19TH ST & CAPITOL AVE (SB), 83.96m away; Private Bath & Private Balcony *420-Friendly*, stay from 23:00 to 08:00, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "lunch": "Grange Restaurant & Bar, Sacramento",
+    "dinner": "The Firehouse Restaurant, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Private Bath & Private Balcony *420-Friendly*, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Bath & Private Balcony *420-Friendly*, stay from 08:00 to 08:30, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away; Kru Contemporary Japanese Cuisine, visit from 08:55 to 09:35, nearest transit: 30TH ST & CAPITOL AVE (NB), 196.13m away; California State Capitol Museum, visit from 10:00 to 12:00, nearest transit: Archives Plaza Station (WB), 196.45m away; Grange Restaurant & Bar, visit from 13:35 to 14:15, nearest transit: J ST & 10TH ST (EB), 36.29m away; The Firehouse Restaurant, visit from 19:00 to 19:40, nearest transit: 3RD ST & K ST (NB), 164.92m away; Private Bath & Private Balcony *420-Friendly*, stay from 20:05 to 08:00, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to Charlotte",
+    "transportation": "Flight Number: F3275332, from Sacramento to Charlotte, Departure Time: 22:13, Arrival Time: 05:54",
+    "breakfast": "Echo and Rig, Sacramento",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Bath & Private Balcony *420-Friendly*, stay from 08:00 to 08:30, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away; Echo and Rig, visit from 08:55 to 09:35, nearest transit: J ST & 6TH ST (EB), 75.13m away"
+  }
+]

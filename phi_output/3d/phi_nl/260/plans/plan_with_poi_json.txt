@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from St. Louis to San Diego",
+    "transportation": "Flight Number: F2275818, from St. Louis to San Diego, Departure Time: 10:00, Arrival Time: 11:21",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 11:51 to 12:21, nearest transit: Adams Av & Biona Dr, 102.11m away; SeaWorld, visit from 12:51 to 14:51, nearest transit: SeaWorld, 299.84m away; Din Tai Fung, visit from 19:00 to 19:40, nearest transit: La Jolla Village Dr & Genesee Av, 68.36m away; Central & Serene Secret Garden Guesthouse, stay from 23:00 to 08:00, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Alforon, San Diego",
+    "lunch": "The Fishery, San Diego",
+    "dinner": "La Puerta, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 08:00 to 08:30, nearest transit: Adams Av & Biona Dr, 102.11m away; Alforon, visit from 09:00 to 09:40, nearest transit: El Cajon Bl & 59th St, 121.18m away; San Diego Zoo, visit from 10:10 to 12:10, nearest transit: Park Bl & Zoo Pl, 300.95m away; The Fishery, visit from 13:40 to 14:20, nearest transit: Mission Bl & Opal St, 346.99m away; La Puerta, visit from 19:00 to 19:40, nearest transit: 4th Av & G St, 127.08m away; Central & Serene Secret Garden Guesthouse, stay from 23:00 to 08:00, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to St. Louis",
+    "transportation": "Flight Number: F3174319, from San Diego to St. Louis, Departure Time: 06:58, Arrival Time: 12:17",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Cafe Coyote, San Diego",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

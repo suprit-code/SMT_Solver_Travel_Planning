@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F3171350, from Las Vegas to San Diego, Departure Time: 16:33, Arrival Time: 17:37', 'Flight Number: F1613480, from San Diego to Sacramento, Departure Time: 17:23, Arrival Time: 18:50', 'Flight Number: F2701446, from Sacramento to Las Vegas, Departure Time: 20:24, Arrival Time: 21:42'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Cafe Coyote, San Diego', 'Alforon, San Diego', 'Morning Glory, San Diego', 'Pacific Beach AleHouse, San Diego', "Mimmo's, San Diego", "Frank Fat's Restaurant, Sacramento", 'Nopalitos, Sacramento', 'Pilothouse Restaurant on the Delta King, Sacramento', 'Chicago Fire, Sacramento', 'Kru Contemporary Japanese Cuisine, Sacramento', 'Bangkok @12 Thai Restaurant, Sacramento', '-'],
+Attractions (1 per day): ['Balboa Park, San Diego', 'Petco Park, San Diego', 'Birch Aquarium at Scripps, San Diego', 'California State Capitol Museum, Sacramento', 'Capitol Park, Sacramento'],
+Accommodations (1 per city): ['Place to Stay with Private Entrance near Beach, San Diego', 'Home Away From Home, Sacramento']

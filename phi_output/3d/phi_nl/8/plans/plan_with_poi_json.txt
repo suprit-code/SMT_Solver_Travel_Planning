@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Shreveport to Las Vegas",
+    "transportation": "Flight Number: F1343296, from Shreveport to Las Vegas, Departure Time: 23:25, Arrival Time: 00:23",
+    "breakfast": "Garden Court, Las Vegas",
+    "lunch": "Eggslut, Las Vegas",
+    "dinner": "Nora's Italian Cuisine, Las Vegas",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Mr. Mamas, Las Vegas",
+    "lunch": "The Peppermill Restaurant & Fireside Lounge, Las Vegas",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Mr. Mamas, visit from 09:00 to 09:40, nearest transit: The Strat, 9224.85m away; Bellagio Conservatory & Botanical Garden, visit from 10:10 to 12:10, nearest transit: The Strat, 4344.51m away; The Peppermill Restaurant & Fireside Lounge, visit from 13:40 to 14:20, nearest transit: The Strat, 1656.61m away; Eggscellent, visit from 19:00 to 19:40, nearest transit: The Strat, 4208.46m away; Gamble Adventure | Restaurant. Outside Pool, stay from 23:00 to 08:00, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Shreveport",
+    "transportation": "Flight Number: F2107836, from Las Vegas to Shreveport, Departure Time: 16:11, Arrival Time: 20:56",
+    "breakfast": "Hash House a Go Go, Las Vegas",
+    "lunch": "Ameribrunch Cafe, Las Vegas",
+    "dinner": "-",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Hash House a Go Go, visit from 09:00 to 09:40, nearest transit: The Strat, 3519.43m away; Hoover Dam Bypass, visit from 10:10 to 12:10, nearest transit: Fremont East Entertainment District, 39777.46m away; Ameribrunch Cafe, visit from 13:40 to 14:20, nearest transit: Fremont East Entertainment District, 393.75m away"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Amarillo",
+    "transportation": "Taxi from Oklahoma City to Amarillo, duration: 268.945, distance: 415.9372, cost : 415.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Camp Hideaway, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Camp Hideaway, stay from 14:30 to 15:00, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 1956.81m away; Route 66 Historic District, Amarillo, visit from 15:30 to 23:10, ; Camp Hideaway, stay from 23:40 to 07:40, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 1956.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Ye Olde Pancake Station, Amarillo",
+    "lunch": "Ohms Cafe & Catering, Amarillo",
+    "dinner": "Metropolitan, Amarillo",
+    "attraction": "-",
+    "accommodation": "Camp Hideaway, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Camp Hideaway, stay from 08:10 to 08:40, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 1956.81m away; Ye Olde Pancake Station, Amarillo, visit from 09:10 to 10:00, ; Ohms Cafe & Catering, Amarillo, visit from 14:30 to 15:39, ; Metropolitan, Amarillo, visit from 19:40 to 20:55, ; Camp Hideaway, stay from 21:25 to 05:25, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 1956.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F3841602, from Amarillo to Houston, Departure Time: 06:55, Arrival Time: 08:37",
+    "breakfast": "-",
+    "lunch": "The Breakfast Klub, Houston",
+    "dinner": "Houston's Restaurant, Houston",
+    "attraction": "Discovery Green, Houston",
+    "accommodation": "EaDo Room | Private Entrance | Walk 2 Astros Games, Houston",
+    "event": "-",
+    "point_of_interest_list": "Camp Hideaway, stay from 05:55 to 06:25, nearest transit: Canyon Dr & S Western St (Ardvark Automotive), 1956.81m away; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 09:07 to 09:37, nearest transit: Navigation Blvd @ Canal St, 329.09m away; The Breakfast Klub, Houston, visit from 12:00 to 13:00, ; Discovery Green, Houston, visit from 13:30 to 17:00, ; Houston's Restaurant, Houston, visit from 19:00 to 20:15, ; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 20:45 to 07:03, nearest transit: Navigation Blvd @ Canal St, 329.09m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Niko Niko's Greek, Houston",
+    "lunch": "Hugo's, Houston",
+    "dinner": "Brenner's on the Bayou, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "EaDo Room | Private Entrance | Walk 2 Astros Games, Houston",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 07:33 to 08:03, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Niko Niko's Greek, Houston, visit from 08:33 to 09:23, ; Hugo's, Houston, visit from 13:24 to 14:24, ; Houston Zoo, Houston, visit from 14:54 to 18:24, ; Brenner's on the Bayou, Houston, visit from 19:00 to 20:15, ; EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 20:45 to 04:45, nearest transit: Navigation Blvd @ Canal St, 329.09m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Oklahoma City",
+    "transportation": "Flight Number: F2738186, from Houston to Oklahoma City, Departure Time: 21:53, Arrival Time: 23:08",
+    "breakfast": "Phoenicia Specialty Foods, Houston",
+    "lunch": "Houston's, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "EaDo Room | Private Entrance | Walk 2 Astros Games, stay from 06:00 to 06:30, nearest transit: Navigation Blvd @ Canal St, 329.09m away; Phoenicia Specialty Foods, Houston, visit from 08:00 to 08:50, ; Downtown Aquarium, Houston, visit from 09:20 to 12:50, ; Houston's, Houston, visit from 13:20 to 14:20, ; Brennan's of Houston, Houston, visit from 19:00 to 20:15, "
+  }
+]

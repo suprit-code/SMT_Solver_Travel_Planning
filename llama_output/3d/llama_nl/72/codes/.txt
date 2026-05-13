@@ -1,0 +1,28 @@
+
+    # Run TaxiSearch to get taxi info for St. Louis as origin and city_0
+    taxi_info = TaxiSearch(origin="St. Louis", destination="city_0")
+    
+    # Get specific taxi price info with St. Louis as origin and final destination, specific city, and departure date for 2 transportations
+    taxi_price_info_1 = taxi_info.get_taxi_price(origin="St. Louis", destination="city_0", departure_date="2024-07-26")
+    taxi_price_info_2 = taxi_info.get_taxi_price(origin="St. Louis", destination="city_1", departure_date="2024-07-27")
+    
+    # Set 'taxi_index' variable for 2 transportations
+    taxi_index_1 = 0
+    taxi_index_2 = 1
+    
+    # Assert 2 'taxi_index' variables are within valid range if taking taxi, assert taxi index to be -1 if not taking taxi
+    assert 0 <= taxi_index_1 <= len(taxi_price_info_1) - 1, "Invalid taxi index"
+    assert 0 <= taxi_index_2 <= len(taxi_price_info_2) - 1, "Invalid taxi index"
+    
+    # Calculate taxi price for 7 people for 2 transportations based on taxi index variable
+    taxi_price_1 = taxi_price_info_1[taxi_index_1] * 7
+    taxi_price_2 = taxi_price_info_2[taxi_index_2] * 7
+    
+    # Get specific taxi arrival time info with St. Louis as origin and final destination, specific city, and departure date for 2 transportations
+    taxi_arrival_time_info_1 = taxi_info.get_taxi_arrival_time(origin="St. Louis", destination="city_0", departure_date="2024-07-26")
+    taxi_arrival_time_info_2 = taxi_info.get_taxi_arrival_time(origin="St. Louis", destination="city_1", departure_date="2024-07-27")
+    
+    # Calculate taxi arrival time for 2 transportations based on taxi index variable
+    taxi_arrival_time_1 = taxi_arrival_time_info_1[taxi_index_1]
+    taxi_arrival_time_2 = taxi_arrival_time_info_2[taxi_index_2]
+    

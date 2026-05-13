@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Houston",
+    "transportation": "Flight Number: F3349762, from New York to Houston, Departure Time: 13:56, Arrival Time: 17:19",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Brenner's on the Bayou, Houston",
+    "attraction": "-",
+    "accommodation": "Alexander Guesthouse in the Historic Houston Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Alexander Guesthouse in the Historic Houston Heights, stay from 17:49 to 20:15, nearest transit: W 11th St @ Dorothy St, 92.77m away; Brenner's on the Bayou, Houston, visit from 20:45 to 22:00, ; Alexander Guesthouse in the Historic Houston Heights, stay from 22:30 to 06:30, nearest transit: W 11th St @ Dorothy St, 92.77m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "Houston White Co, Houston",
+    "dinner": "Taste of Texas, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Alexander Guesthouse in the Historic Houston Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Alexander Guesthouse in the Historic Houston Heights, stay from 07:00 to 07:30, nearest transit: W 11th St @ Dorothy St, 92.77m away; Brennan's of Houston, Houston, visit from 08:00 to 08:50, ; Houston White Co, Houston, visit from 12:51 to 13:51, ; Downtown Aquarium, Houston, visit from 15:30 to 19:00, ; Taste of Texas, Houston, visit from 19:30 to 20:45, ; Alexander Guesthouse in the Historic Houston Heights, stay from 21:15 to 05:15, nearest transit: W 11th St @ Dorothy St, 92.77m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to New York",
+    "transportation": "Flight Number: F2527801, from Houston to New York, Departure Time: 19:09, Arrival Time: 23:18",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "lunch": "Pappas Bros. Steakhouse, Houston",
+    "dinner": "-",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Alexander Guesthouse in the Historic Houston Heights, stay from 06:00 to 06:30, nearest transit: W 11th St @ Dorothy St, 92.77m away; Fogo de Chao Brazilian Steakhouse, Houston, visit from 08:00 to 08:50, ; Hermann Park, Houston, visit from 09:20 to 14:00, ; Pappas Bros. Steakhouse, Houston, visit from 14:30 to 15:30, "
+  }
+]

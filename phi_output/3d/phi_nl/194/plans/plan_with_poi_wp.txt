@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Savannah",
+    "transportation": "Taxi from Washington to Savannah, duration: 641.56, distance: 930.7148, cost : 930.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Goose Feathers Cafe & Bakery, Savannah",
+    "attraction": "-",
+    "accommodation": "Timeless, Reimagined Cottage | Midnight Garden Inn, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 19:45 to 20:15, nearest transit: WHITAKER & GASTON, 90.64m away; Goose Feathers Cafe & Bakery, Savannah, visit from 20:45 to 22:00, ; Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 22:30 to 06:30, nearest transit: WHITAKER & GASTON, 90.64m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Alligator Soul, Savannah",
+    "lunch": "Stone & Webster Chophouse, Savannah",
+    "dinner": "17 Hundred 90 Restaurant, Savannah",
+    "attraction": "SCADstory, Savannah",
+    "accommodation": "Timeless, Reimagined Cottage | Midnight Garden Inn, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 07:00 to 07:30, nearest transit: WHITAKER & GASTON, 90.64m away; Alligator Soul, Savannah, visit from 08:00 to 08:50, ; SCADstory, Savannah, visit from 09:20 to 14:00, ; Stone & Webster Chophouse, Savannah, visit from 14:30 to 15:30, ; 17 Hundred 90 Restaurant, Savannah, visit from 19:31 to 20:46, ; Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 21:16 to 05:16, nearest transit: WHITAKER & GASTON, 90.64m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Washington",
+    "transportation": "Taxi from Savannah to Washington, duration: 640.9533333333333, distance: 929.4432, cost : 929.0",
+    "breakfast": "Planters Tavern, Savannah",
+    "lunch": "Noble Fare, Savannah",
+    "dinner": "-",
+    "attraction": "Owens-Thomas House & Slave Quarters, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 06:00 to 06:30, nearest transit: WHITAKER & GASTON, 90.64m away; Planters Tavern, Savannah, visit from 09:08 to 09:58, ; Noble Fare, Savannah, visit from 13:59 to 14:59, ; Owens-Thomas House & Slave Quarters, Savannah, visit from 15:29 to 18:59, "
+  }
+]

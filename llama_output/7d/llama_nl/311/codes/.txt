@@ -1,0 +1,4 @@
+
+                for accommodation_index in range(len(accommodations)):
+                    assert accommodations[accommodation_index]['room_type'] == 'Private room'
+                

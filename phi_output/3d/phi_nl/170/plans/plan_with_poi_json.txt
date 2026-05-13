@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Hartford",
+    "transportation": "Flight Number: F0526338, from Houston to Hartford, Departure Time: 18:10, Arrival Time: 22:25",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private suite in James Colt townhouse, Hartford",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "Black-Eyed Sally's Southern Kitchen, Hartford",
+    "lunch": "Max's Oyster Bar, Hartford",
+    "dinner": "Treva, Hartford",
+    "attraction": "Hartford Stage, Hartford",
+    "accommodation": "Private suite in James Colt townhouse, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Private suite in James Colt townhouse, stay from 08:00 to 08:30, nearest transit: Hartford, 1004.40m away; Black-Eyed Sally's Southern Kitchen, visit from 09:00 to 09:40, nearest transit: Hartford, 224.35m away; Hartford Stage, visit from 10:10 to 12:10, nearest transit: Hartford, 624.67m away; Max's Oyster Bar, visit from 13:40 to 14:20, nearest transit: Hartford, 5144.93m away; Treva, visit from 19:00 to 19:40, nearest transit: Hartford, 5261.04m away; Private suite in James Colt townhouse, stay from 23:00 to 08:00, nearest transit: Hartford, 1004.40m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Houston",
+    "transportation": "Flight Number: F3875359, from Hartford to Houston, Departure Time: 08:17, Arrival Time: 11:17",
+    "breakfast": "Angelina's Pizza, Hartford",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

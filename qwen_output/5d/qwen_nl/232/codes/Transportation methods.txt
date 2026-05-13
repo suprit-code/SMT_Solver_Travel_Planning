@@ -1,0 +1,9 @@
+########## Transportation response ##########
+            variables['flight'] = [Bool('flight_travel_' + str(i)) for i in range(3)]
+            variables['self-driving'] = [Bool('self-driving_travel_' + str(i)) for i in range(3)]
+            variables['taxi'] = [Bool('taxi_travel_' + str(i)) for i in range(3)]
+            driving_0_arrtime = IntVal(-1)
+            driving_1_arrtime = IntVal(-1)
+            driving_2_arrtime = IntVal(-1)
+            s.assert_and_track(Not(Or(variables['flight'][0], variables['flight'][1], variables['flight'][2])), 'no flight for any transportation')
+            ########## Transportation response ends ##########

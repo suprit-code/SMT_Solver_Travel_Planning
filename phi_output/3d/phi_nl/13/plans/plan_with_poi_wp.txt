@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to Tucson",
+    "transportation": "Flight Number: F0632476, from Everett to Tucson, Departure Time: 10:42, Arrival Time: 14:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "North Italia, Tucson",
+    "attraction": "-",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 14:59 to 15:29, nearest transit: El Con Center, 2837.66m away; North Italia, Tucson, visit from 19:00 to 22:29, ; Accessible Private Studio, Entrance & Parking., stay from 22:59 to 06:59, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tucson",
+    "transportation": "-",
+    "breakfast": "Baja Cafe of Tucson, Tucson",
+    "lunch": "Blue Willow Restaurant & Gift Shop, Tucson",
+    "dinner": "Opa's Best Greek American Cuisine, Tucson",
+    "attraction": "The Mini Time Machine Museum of Miniatures, Tucson",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 07:29 to 07:59, nearest transit: El Con Center, 2837.66m away; Baja Cafe of Tucson, Tucson, visit from 08:29 to 09:19, ; The Mini Time Machine Museum of Miniatures, Tucson, visit from 09:49 to 13:19, ; Blue Willow Restaurant & Gift Shop, Tucson, visit from 14:30 to 15:30, ; Opa's Best Greek American Cuisine, Tucson, visit from 19:45 to 21:00, ; Accessible Private Studio, Entrance & Parking., stay from 21:30 to 05:30, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tucson to Everett",
+    "transportation": "Flight Number: F0515324, from Tucson to Everett, Departure Time: 14:11, Arrival Time: 17:26",
+    "breakfast": "5 Points Market and Restaurant, Tucson",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Arizona-Sonora Desert Museum, Tucson",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 06:00 to 06:30, nearest transit: El Con Center, 2837.66m away; 5 Points Market and Restaurant, Tucson, visit from 08:00 to 09:41, ; Arizona-Sonora Desert Museum, Tucson, visit from 10:11 to 13:41, "
+  }
+]

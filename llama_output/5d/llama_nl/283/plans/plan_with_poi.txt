@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from St. Louis to New York",
+    "transportation": "Flight Number: F3115734, from St. Louis to New York, Departure Time: 14:48, Arrival Time: 17:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Lamartine Chelsea 1B, New York",
+    "event": "-",
+    "point_of_interest_list": "Lamartine Chelsea 1B, stay from 18:26 to 18:56, nearest transit: 8 AV/W 31 ST, 59.3m away; Lamartine Chelsea 1B, stay from 19:26 to 05:30, nearest transit: 8 AV/W 31 ST, 59.3m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Piccola Cucina Osteria, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Lamartine Chelsea 1B, New York",
+    "event": "-",
+    "point_of_interest_list": "Lamartine Chelsea 1B, stay from 06:00 to 06:30, nearest transit: 8 AV/W 31 ST, 59.3m away; Piccola Cucina Osteria, New York, visit from 08:38 to 09:28, ; Westway Diner, New York, visit from 13:29 to 14:29, ; The High Line, New York, visit from 15:00 to 18:30, ; Times Square Diner, New York, visit from 19:00 to 20:15, ; Lamartine Chelsea 1B, stay from 20:45 to 02:01, nearest transit: 8 AV/W 31 ST, 59.3m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Rochester",
+    "transportation": "Flight Number: F0820727, from New York to Rochester, Departure Time: 02:31, Arrival Time: 03:54",
+    "breakfast": "Tiny Tim's Tea Rooms, Rochester",
+    "lunch": "The Eagle Tavern, Rochester",
+    "dinner": "Restaurant Fiorella, Rochester",
+    "attraction": "Rochester Castle, Rochester",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 04:24 to 04:54, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Historic Henrietta Apartment, stay from 06:00 to 06:30, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Tiny Tim's Tea Rooms, Rochester, visit from 08:00 to 08:50, ; Rochester Castle, Rochester, visit from 09:20 to 12:50, ; The Eagle Tavern, Rochester, visit from 13:20 to 14:20, ; Restaurant Fiorella, Rochester, visit from 19:00 to 20:15, ; Historic Henrietta Apartment, stay from 22:50 to 06:50, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Rochester",
+    "transportation": "-",
+    "breakfast": "Lipuma's Coney Island, Rochester",
+    "lunch": "Dinosaur Bar-B-Que, Rochester",
+    "dinner": "Savoia Pastry Shoppe, Rochester",
+    "attraction": "Eastman Theatre, Rochester",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 07:20 to 07:50, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Lipuma's Coney Island, Rochester, visit from 08:20 to 09:59, ; Dinosaur Bar-B-Que, Rochester, visit from 14:00 to 15:00, ; Eastman Theatre, Rochester, visit from 15:30 to 19:00, ; Savoia Pastry Shoppe, Rochester, visit from 19:30 to 20:45, ; Historic Henrietta Apartment, stay from 21:15 to 05:15, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Rochester to St. Louis",
+    "transportation": "Taxi from Rochester to St. Louis, duration: 916.39, distance: 1303.6043, cost : 1303.0",
+    "breakfast": "Good Luck, Rochester",
+    "lunch": "Nick Tahou Hots, Rochester",
+    "dinner": "Rochester's Barbecue & Grill, Rochester",
+    "attraction": "Restoration House, Rochester",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 06:00 to 06:30, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Good Luck, Rochester, visit from 08:00 to 08:50, ; Nick Tahou Hots, Rochester, visit from 12:51 to 13:51, ; Restoration House, Rochester, visit from 14:21 to 18:30, ; Rochester's Barbecue & Grill, Rochester, visit from 19:00 to 20:15, "
+  }
+]

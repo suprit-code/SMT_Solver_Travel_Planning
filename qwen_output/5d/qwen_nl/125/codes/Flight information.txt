@@ -1,0 +1,10 @@
+########## Flight response ##########
+            flight_info = FlightSearch.run_for_all_cities_and_dates('Spokane', cities, [city_0, city_1], ["2024-11-18", "2024-11-19", "2024-11-20", "2024-11-21", "2024-11-22"]) # use flight_info, do not customize
+            flight_0_price_list, flight_0_price_list_length = FlightSearch.get_info(flight_info, 'Spokane', variables['city'][0], variables['departure_dates'][0], 'Price')
+            variables['flight_index'] = [Int('flight_0_index')]
+            s.assert_and_track(Implies(variables['flight'][0], And(variables['flight_index'][0] >= 0, variables['flight_index'][0] < flight_0_price_list_length)), 'valid flight index for flight 0')
+            s.assert_and_track(Implies(Not(variables['flight'][0]), variables['flight_index'][0] == -1), 'valid flight index for flight 0')
+            flight_0_price = 1 * FlightSearch.get_info_for_index(flight_0_price_list, variables['flight_index'][0])
+            flight_0_arrtime_list, _ = FlightSearch.get_info(flight_info, 'Spokane', variables['city'][0], variables['departure_dates'][0], 'ArrTime')
+            flight_0_arrtime = FlightSearch.get_info_for_index(flight_0_arrtime_list, variables['flight_index'][0])
+            ########## Flight response ends ##########

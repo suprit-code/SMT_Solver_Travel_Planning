@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Anchorage",
+    "transportation": "Flight Number: F2880624, from Seattle to Anchorage, Departure Time: 16:32, Arrival Time: 18:55",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Spacious 1750sq 2 BR with sauna, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "Spacious 1750sq 2 BR with sauna, stay from 19:20 to 19:40, nearest transit: WISCONSIN & BALCHEN SSW, 578.98m away; Spacious 1750sq 2 BR with sauna, stay from 20:05 to 08:00, nearest transit: WISCONSIN & BALCHEN SSW, 578.98m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Anchorage",
+    "transportation": "-",
+    "breakfast": "Wild Scoops, Anchorage",
+    "lunch": "Anchorage Tavern & Restaurant, Anchorage",
+    "dinner": "Orso, Anchorage",
+    "attraction": "Tony Knowles Coastal Trail, Anchorage",
+    "accommodation": "Spacious 1750sq 2 BR with sauna, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "Spacious 1750sq 2 BR with sauna, stay from 08:00 to 08:30, nearest transit: WISCONSIN & BALCHEN SSW, 578.98m away; Wild Scoops, visit from 08:55 to 09:35, nearest transit: 5TH AVENUE & F STREET WNW, 131.66m away; Tony Knowles Coastal Trail, visit from 10:00 to 12:00, nearest transit: 5TH AVENUE & F STREET WNW, 331.65m away; Anchorage Tavern & Restaurant, visit from 13:35 to 14:15, nearest transit: OLD GLENN & CENTERFIELD NNW, 5495921.83m away; Orso, visit from 19:00 to 19:40, nearest transit: 5TH AVENUE & F STREET WNW, 125.77m away; Spacious 1750sq 2 BR with sauna, stay from 20:05 to 08:00, nearest transit: WISCONSIN & BALCHEN SSW, 578.98m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Anchorage to Seattle",
+    "transportation": "Flight Number: F1288269, from Anchorage to Seattle, Departure Time: 14:02, Arrival Time: 18:33",
+    "breakfast": "Jens' Restaurant, Anchorage",
+    "lunch": "Kaladi Brothers Coffee, Anchorage",
+    "dinner": "Kincaid Grill and Wine Bar, Anchorage",
+    "attraction": "Earthquake Park, Anchorage",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Spacious 1750sq 2 BR with sauna, stay from 08:00 to 08:10, nearest transit: WISCONSIN & BALCHEN SSW, 578.98m away; Jens' Restaurant, visit from 08:35 to 08:48, nearest transit: ARCTIC & 34TH AVENUE SSW, 85.08m away; Earthquake Park, visit from 09:13 to 11:13, nearest transit: WISCONSIN & 29TH AVENUE SSW, 1731.37m away; Kaladi Brothers Coffee, visit from 12:00 to 12:13, nearest transit: I STREET & 13TH AVENUE NNE, 67.68m away; Kincaid Grill and Wine Bar, visit from 13:24 to 13:37, nearest transit: JEWEL LAKE & RASPBERRY NNE, 76.87m away"
+  }
+]

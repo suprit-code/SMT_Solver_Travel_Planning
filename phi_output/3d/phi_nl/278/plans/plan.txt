@@ -1,0 +1,6 @@
+Destination cities: ['Wichita'],
+Transportation dates: ['2024-11-18', '2024-11-20'],
+Transportation methods between cities: ['Flight Number: F2463339, from Houston to Wichita, Departure Time: 16:19, Arrival Time: 17:52', 'Flight Number: F1088823, from Wichita to Houston, Departure Time: 16:40, Arrival Time: 18:32'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Beacon Restaurant, Wichita', 'Doo-Dah Diner, Wichita', 'Cafe Bel Ami, Wichita', 'Whiskey Dicks, Wichita', 'Puero Vallarta Mexican Restaurant, Wichita', "Chester's Chophouse and Wine Bar, Wichita"],
+Attractions (1 per day): ['Wichita Art Museum, Wichita', 'Mid-America All-Indian Center, Wichita', 'The Keeper of the Plains, Wichita'],
+Accommodations (1 per city): ['Downtown Retreat, Wichita']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Wilmington",
+    "transportation": "Flight Number: F2580987, from Boston to Wilmington, Departure Time: 11:54, Arrival Time: 14:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Catch, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Hawks Nest 3 @UNCW, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Hawks Nest 3 @UNCW, stay from 14:31 to 15:01, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; Burgwin-Wright House and Gardens, visit from 15:31 to 17:31, nearest transit: 3rd St SB at Dock St, 75.52m away; Catch, visit from 19:00 to 19:40, nearest transit: Market St WB at Dollar General, 552.38m away; Hawks Nest 3 @UNCW, stay from 23:00 to 08:00, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "PinPoint Restaurant, Wilmington",
+    "lunch": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "dinner": "Ruth's Chris Steak House, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "Hawks Nest 3 @UNCW, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Hawks Nest 3 @UNCW, stay from 08:00 to 08:30, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; PinPoint Restaurant, visit from 09:00 to 09:40, nearest transit: Front St NB at Market St, 42.83m away; Battleship North Carolina, visit from 10:10 to 12:10, nearest transit: Front St SB at Chestnut St, 454.38m away; Casey's Buffet Barbecue & Home Cookin, visit from 13:40 to 14:20, nearest transit: Oleander Dr EB at Dogwood Ln, 157.69m away; Ruth's Chris Steak House, visit from 19:00 to 19:40, nearest transit: Front St NB at Grace St, 153.44m away; Hawks Nest 3 @UNCW, stay from 23:00 to 08:00, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wilmington to Boston",
+    "transportation": "Flight Number: F2581019, from Wilmington to Boston, Departure Time: 15:00, Arrival Time: 17:06",
+    "breakfast": "Pilot House, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "The Anchor, Wilmington",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hawks Nest 3 @UNCW, stay from 08:00 to 08:30, nearest transit: College Rd NB at Chili's Restaurant, 390.28m away; Pilot House, visit from 09:00 to 09:40, nearest transit: Front St SB at Ann St, 112.21m away; Flaming Amy's Burrito Barn, visit from 12:00 to 12:40, nearest transit: Oleander Dr EB at Audubon Blvd, 106.71m away; The Anchor, visit from 13:50 to 14:30, nearest transit: Gordon Rd WB at Military Cutoff Rd, 1047961.40m away"
+  }
+]

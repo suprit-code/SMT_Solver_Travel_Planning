@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Wichita",
+    "transportation": "Flight Number: F3924504, from Houston to Wichita, Departure Time: 09:36, Arrival Time: 11:57",
+    "breakfast": "-",
+    "lunch": "Chester's Chophouse and Wine Bar, Wichita",
+    "dinner": "Doo-Dah Diner, Wichita",
+    "attraction": "Wichita Art Museum, Wichita",
+    "accommodation": "Comfortable large bedroom in residential home,, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Comfortable large bedroom in residential home,, stay from 12:22 to 12:42, nearest transit: Armour and Morris OB, 114.98m away; Chester's Chophouse and Wine Bar, visit from 13:07 to 13:47, nearest transit: Whole Foods on Webb, 279.88m away; Wichita Art Museum, visit from 14:12 to 16:12, nearest transit: Wichita Art Museum, 76.98m away; Doo-Dah Diner, visit from 19:00 to 19:40, nearest transit: Broadway and Dewey OB, 87.77m away; Comfortable large bedroom in residential home,, stay from 20:05 to 08:00, nearest transit: Armour and Morris OB, 114.98m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wichita",
+    "transportation": "-",
+    "breakfast": "Siena Tuscan Steakhouse, Wichita",
+    "lunch": "Sabor Latin Bar & Grill, Wichita",
+    "dinner": "Redrock Canyon Grill, Wichita",
+    "attraction": "The Keeper of the Plains, Wichita",
+    "accommodation": "Comfortable large bedroom in residential home,, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Comfortable large bedroom in residential home,, stay from 08:00 to 08:30, nearest transit: Armour and Morris OB, 114.98m away; Siena Tuscan Steakhouse, visit from 08:55 to 09:35, nearest transit: Douglas and Topeka NW, 90.19m away; The Keeper of the Plains, visit from 10:00 to 12:00, nearest transit: Central and Nims IB, 186.30m away; Sabor Latin Bar & Grill, visit from 13:35 to 14:15, nearest transit: Emporia & 2nd St Outbd Outbd, 276.82m away; Redrock Canyon Grill, visit from 19:00 to 19:40, nearest transit: Rock and Bradley Fair NB, 57.14m away; Comfortable large bedroom in residential home,, stay from 20:05 to 08:00, nearest transit: Armour and Morris OB, 114.98m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wichita to Houston",
+    "transportation": "Flight Number: F3465015, from Wichita to Houston, Departure Time: 16:45, Arrival Time: 18:45",
+    "breakfast": "Newport Grill, Wichita",
+    "lunch": "Old Mill Tasty Shop, Wichita",
+    "dinner": "-",
+    "attraction": "Mid-America All-Indian Center, Wichita",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfortable large bedroom in residential home,, stay from 08:00 to 08:30, nearest transit: Armour and Morris OB, 114.98m away; Newport Grill, visit from 08:55 to 09:35, nearest transit: 2000 Rock NB, 195.32m away; Mid-America All-Indian Center, visit from 10:00 to 12:00, nearest transit: Mid American Indian Center, 104.49m away; Old Mill Tasty Shop, visit from 13:35 to 14:15, nearest transit: Douglas and St. Francis OB, 39.59m away"
+  }
+]

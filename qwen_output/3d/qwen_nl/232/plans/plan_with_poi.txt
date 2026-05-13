@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Washington",
+    "transportation": "Flight Number: F1630470, from Houston to Washington, Departure Time: 11:50, Arrival Time: 15:40",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 16:10 to 16:40, nearest transit: FOGGY BOTTOM, 373.15m away; King Studio | 2500 Penn, a Placemakr Experience, stay from 17:10 to 01:10, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Thip Khao, Washington",
+    "lunch": "The Palm - Washington, D.C., Washington",
+    "dinner": "Kingbird, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 06:00 to 06:30, nearest transit: FOGGY BOTTOM, 373.15m away; Thip Khao, Washington, visit from 08:30 to 09:20, ; The Palm - Washington, D.C., Washington, visit from 13:21 to 14:21, ; National Mall, Washington, visit from 15:00 to 18:30, ; Kingbird, Washington, visit from 19:00 to 20:15, ; King Studio | 2500 Penn, a Placemakr Experience, stay from 20:45 to 04:45, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Houston",
+    "transportation": "Flight Number: F0985557, from Washington to Houston, Departure Time: 22:04, Arrival Time: 00:13",
+    "breakfast": "-",
+    "lunch": "Smoke & Mirrors Rooftop Bar, Washington",
+    "dinner": "-",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 06:00 to 06:30, nearest transit: FOGGY BOTTOM, 373.15m away; United States Botanic Garden, Washington, visit from 09:00 to 12:30, ; Smoke & Mirrors Rooftop Bar, Washington, visit from 13:00 to 20:13, "
+  }
+]

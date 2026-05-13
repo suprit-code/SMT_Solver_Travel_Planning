@@ -1,0 +1,6 @@
+Destination cities: ['Detroit'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F0508126, from Birmingham to Detroit, Departure Time: 07:03, Arrival Time: 10:15', 'Flight Number: F1123078, from Detroit to Birmingham, Departure Time: 10:17, Arrival Time: 11:09'],
+Restaurants (3 meals per day): ['-', "Honest John's Bar & Grill - Selden St., Detroit", 'Green Dot Stables, Detroit', 'Taqueria Mi Pueblo, Detroit', 'The Brooklyn Street Local, Detroit', 'Grey Ghost Detroit, Detroit', 'San Morello, Detroit', 'Andiamo Detroit Riverfront, Detroit', '-'],
+Attractions (1 per day): ['Comerica Park, Detroit', 'Detroit Institute of Arts, Detroit', '-'],
+Accommodations (1 per city): ['Luxury Comfy Gem Downtown Det, Detroit']

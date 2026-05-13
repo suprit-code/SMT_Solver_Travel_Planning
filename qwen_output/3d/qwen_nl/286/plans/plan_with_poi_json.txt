@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to San Luis Obispo",
+    "transportation": "Flight Number: F3605296, from Dallas to San Luis Obispo, Departure Time: 11:39, Arrival Time: 13:12",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Lure Fish House, San Luis Obispo",
+    "attraction": "Bubblegum Alley, San Luis Obispo",
+    "accommodation": "The Corner Nook, San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "The Corner Nook, stay from 13:37 to 13:57, nearest transit: Santa Rosa & Higuera, 181.48m away; Bubblegum Alley, visit from 14:22 to 16:22, nearest transit: Marsh & Broad, 136.91m away; Lure Fish House, visit from 19:00 to 19:40, nearest transit: Santa Rosa & Higuera, 83.37m away; The Corner Nook, stay from 20:05 to 08:00, nearest transit: Santa Rosa & Higuera, 181.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Luis Obispo",
+    "transportation": "-",
+    "breakfast": "Alex Madonna's Gold Rush Steak House, San Luis Obispo",
+    "lunch": "Taco King, San Luis Obispo",
+    "dinner": "Novo Restaurant & Lounge, San Luis Obispo",
+    "attraction": "San Luis Obispo botanical garden, San Luis Obispo",
+    "accommodation": "The Corner Nook, San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "The Corner Nook, stay from 08:00 to 08:30, nearest transit: Santa Rosa & Higuera, 181.48m away; Alex Madonna's Gold Rush Steak House, visit from 08:55 to 09:35, nearest transit: Higuera & South, 537.81m away; San Luis Obispo botanical garden, visit from 10:00 to 12:00, nearest transit: Cuesta College, 1230.74m away; Taco King, visit from 13:35 to 14:15, nearest transit: Higuera & South, 166.07m away; Novo Restaurant & Lounge, visit from 19:00 to 19:40, nearest transit: Marsh & Broad, 140.28m away; The Corner Nook, stay from 20:05 to 08:00, nearest transit: Santa Rosa & Higuera, 181.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Luis Obispo to Dallas",
+    "transportation": "Flight Number: F2135017, from San Luis Obispo to Dallas, Departure Time: 13:04, Arrival Time: 18:11",
+    "breakfast": "Giuseppe\u2019s Cucina Rustica, San Luis Obispo",
+    "lunch": "Nate's On Marsh, San Luis Obispo",
+    "dinner": "-",
+    "attraction": "Mission San Luis Obispo de Tolosa, San Luis Obispo",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Corner Nook, stay from 08:00 to 08:10, nearest transit: Santa Rosa & Higuera, 181.48m away; Giuseppe\u2019s Cucina Rustica, visit from 08:35 to 08:48, nearest transit: Government Center, 245.54m away; Mission San Luis Obispo de Tolosa, visit from 09:13 to 11:13, nearest transit: Marsh & Broad, 306.47m away; Nate's On Marsh, visit from 12:26 to 12:39, nearest transit: Marsh & Broad, 378.58m away"
+  }
+]

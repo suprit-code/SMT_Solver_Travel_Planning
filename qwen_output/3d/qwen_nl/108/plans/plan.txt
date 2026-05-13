@@ -1,0 +1,6 @@
+Destination cities: ['Sacramento'],
+Transportation dates: ['2024-11-07', '2024-11-09'],
+Transportation methods between cities: ['Flight Number: F2846011, from Charlotte to Sacramento, Departure Time: 18:57, Arrival Time: 21:21', 'Flight Number: F3275332, from Sacramento to Charlotte, Departure Time: 22:13, Arrival Time: 05:54'],
+Restaurants (3 meals per day): ['-', '-', "Paesano's Pizzeria, Sacramento", 'Kru Contemporary Japanese Cuisine, Sacramento', 'Grange Restaurant & Bar, Sacramento', 'The Firehouse Restaurant, Sacramento', 'Echo and Rig, Sacramento', '-', '-'],
+Attractions (1 per day): ['-', 'California State Capitol Museum, Sacramento', '-'],
+Accommodations (1 per city): ['Private Bath & Private Balcony *420-Friendly*, Sacramento']

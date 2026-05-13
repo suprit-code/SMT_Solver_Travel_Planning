@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Nashville",
+    "transportation": "Flight Number: F3169214, from San Diego to Nashville, Departure Time: 09:01, Arrival Time: 14:46",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "-",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 15:16 to 15:46, nearest transit: PEABODY STATION INBOUND, 149.43m away; Aquarium Restaurant, Nashville, visit from 19:34 to 22:12, ; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 22:42 to 06:42, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Harriet's Rooftop, Nashville",
+    "lunch": "Henley, Nashville",
+    "dinner": "Puckett's 5th & Church, Nashville",
+    "attraction": "Ole Smoky Distillery & Yee-Haw Brewery, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 07:12 to 07:42, nearest transit: PEABODY STATION INBOUND, 149.43m away; Harriet's Rooftop, Nashville, visit from 08:12 to 10:00, ; Ole Smoky Distillery & Yee-Haw Brewery, Nashville, visit from 10:30 to 14:00, ; Henley, Nashville, visit from 14:30 to 15:30, ; Puckett's 5th & Church, Nashville, visit from 19:31 to 20:46, ; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 22:30 to 06:30, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to San Diego",
+    "transportation": "Flight Number: F2641692, from Nashville to San Diego, Departure Time: 19:27, Arrival Time: 21:15",
+    "breakfast": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "-",
+    "attraction": "Ryman Auditorium, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 07:00 to 07:30, nearest transit: PEABODY STATION INBOUND, 149.43m away; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 08:00 to 08:50, ; Ryman Auditorium, Nashville, visit from 09:20 to 12:50, ; Kayne Prime, Nashville, visit from 13:20 to 14:20, "
+  }
+]

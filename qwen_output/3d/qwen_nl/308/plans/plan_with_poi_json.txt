@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tampa to Nashville",
+    "transportation": "Flight Number: F3202893, from Tampa to Nashville, Departure Time: 09:30, Arrival Time: 10:23",
+    "breakfast": "-",
+    "lunch": "The Bluebird Cafe, Nashville",
+    "dinner": "Honky Tonk \u2013 The Twelve Thirty Club, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 10:48 to 11:08, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; The Bluebird Cafe, visit from 12:00 to 12:40, nearest transit: RICHARD JONES RD & HILLSBORO PIKE W, 383.04m away; Centennial Park, visit from 13:05 to 15:05, nearest transit: WEST END AVE & 27TH AVE S WB, 441.64m away; Honky Tonk \u2013 The Twelve Thirty Club, visit from 19:00 to 19:40, nearest transit: 5TH AVE N & COMMERCE ST NB, 126.03m away; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 20:05 to 08:00, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "attraction": "Country Music Hall of Fame and Museum, Nashville",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 08:00 to 08:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Bourbon Steak by Michael Mina, a Nashville Steakhouse, visit from 08:55 to 09:35, nearest transit: 8TH AVE S & DEMONBREUN ST NB, 99.41m away; Country Music Hall of Fame and Museum, visit from 10:00 to 12:00, nearest transit: CONVENTION CENTER STATION OUTBOUND, 106.41m away; Aquarium Restaurant, visit from 13:35 to 14:15, nearest transit: OPRY MILLS DR & GENERAL JACKSON'S, 170.74m away; Jeff Ruby's Steakhouse, Nashville, visit from 19:00 to 19:40, nearest transit: CENTRAL 4TH AVE - BAY 13, 188.66m away; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 20:05 to 08:00, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Tampa",
+    "transportation": "taxi, from Nashville to Tampa, duration: 771.62, distance: 1128.6763, cost: 1128",
+    "breakfast": "Deacon\u2019s New South, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "The Southern Steak & Oyster, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 08:00 to 08:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Deacon\u2019s New South, visit from 08:55 to 09:35, nearest transit: 4TH AVE N & CHURCH ST SB, 40.02m away; Belmont Mansion, visit from 10:00 to 12:00, nearest transit: WEDGEWOOD AVE & 16TH AVE EB, 92.02m away; Kayne Prime, visit from 13:35 to 14:15, nearest transit: 11TH AVE & DEMONBREUN NB, 104.79m away; The Southern Steak & Oyster, visit from 19:00 to 19:40, nearest transit: CONVENTION CENTER STATION OUTBOUND, 153.98m away"
+  }
+]

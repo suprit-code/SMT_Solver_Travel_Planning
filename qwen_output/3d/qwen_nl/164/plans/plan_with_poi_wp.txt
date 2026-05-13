@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Antonio",
+    "transportation": "Flight Number: F1372422, from Miami to San Antonio, Departure Time: 13:47, Arrival Time: 16:10",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Sichuan House, San Antonio",
+    "attraction": "-",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 16:40 to 20:15, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Sichuan House, San Antonio, visit from 20:45 to 22:26, ; Couples getaway kink dungeon, stay from 22:56 to 06:56, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Pinkerton's Barbecue, San Antonio",
+    "lunch": "Biga on the Banks, San Antonio",
+    "dinner": "Domingo Restaurant, San Antonio",
+    "attraction": "San Antonio Zoo, San Antonio",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 07:26 to 07:56, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Pinkerton's Barbecue, San Antonio, visit from 08:26 to 09:59, ; Biga on the Banks, San Antonio, visit from 14:00 to 15:00, ; San Antonio Zoo, San Antonio, visit from 15:30 to 19:00, ; Domingo Restaurant, San Antonio, visit from 19:30 to 20:45, ; Couples getaway kink dungeon, stay from 21:15 to 05:15, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Antonio to Miami",
+    "transportation": "Flight Number: F2584235, from San Antonio to Miami, Departure Time: 17:50, Arrival Time: 21:42",
+    "breakfast": "The Guenther House, San Antonio",
+    "lunch": "Perry's Steakhouse & Grille- San Antonio, San Antonio",
+    "dinner": "-",
+    "attraction": "Pearl Brewery, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 06:00 to 06:30, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; The Guenther House, San Antonio, visit from 08:00 to 08:50, ; Pearl Brewery, San Antonio, visit from 09:20 to 12:50, ; Perry's Steakhouse & Grille- San Antonio, San Antonio, visit from 13:20 to 14:20, "
+  }
+]

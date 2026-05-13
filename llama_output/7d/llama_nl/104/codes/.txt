@@ -1,0 +1,44 @@
+
+                def run_event_search(city_ids):
+                    events = {}
+                    for city_id in city_ids:
+                        # Assume EventSearch returns a list of events for each city
+                        events[city_id] = ["Event1", "Event2", "Event3", "Event4", "Event5", "Event6", "Event7"]
+                    return events
+                
+                def set_event_in_which_city(events, city_ids):
+                    event_in_which_city = {}
+                    for i, city_id in enumerate(city_ids):
+                        event_in_which_city[i] = city_id if i % 2 == 0 else (city_id + 1) % len(city_ids)
+                    return event_in.which_city
+                
+                def set_event_index(events, event_in_which_city):
+                    event_index = {}
+                    for i, city_id in event_in_which_city.items():
+                        event_index[i] = events[city_id][i]
+                    return event_index
+                
+                def get_event_price(event_index):
+                    prices = {"Event1": 100, "Event2": 150, "Event3": 200, "Event4": 250, "Event5": 300, "Event6": 350, "Event7": 400}
+                    return prices[event_index]
+                
+                def set_category(events):
+                    category = {}
+                    for i, event in enumerate(events):
+                        category[i] = "Sports"
+                    return category
+                
+                def check_event_satisfaction(category, events):
+                    for i, cat in category.items():
+                        if cat == "Sports":
+                            print(f"Event {i+1} is a {cat}")
+                
+                # Example usage
+                city_ids = [0, 1, 2]
+                events = run_event_search(city_ids)
+                event_in_which_city = set_event_in_which_city(events, city_ids)
+                event_index = set_event_index(events, event_in_which_city)
+                event_prices = {i: get_event_price(event_index[i]) * 2 for i in event_index}
+                category = set_category(events)
+                check_event_satisfaction(category, events)
+                

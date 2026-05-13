@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F3749555, from San Diego to Seattle, Departure Time: 13:45, Arrival Time: 16:58",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "-",
+    "accommodation": "Magical Mountain Retreat and Sauna, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Magical Mountain Retreat and Sauna, stay from 17:28 to 17:58, nearest transit: S Alder Ave & E Stanley St, 9276.19m away; Il Terrazzo Carmine, Seattle, visit from 20:45 to 23:06, ; Magical Mountain Retreat and Sauna, stay from 23:36 to 07:36, nearest transit: S Alder Ave & E Stanley St, 9276.19m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "The Pike Pub and Brewery, Seattle",
+    "lunch": "Assaggio Ristorante, Seattle",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Magical Mountain Retreat and Sauna, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Magical Mountain Retreat and Sauna, stay from 08:06 to 08:36, nearest transit: S Alder Ave & E Stanley St, 9276.19m away; The Pike Pub and Brewery, Seattle, visit from 09:06 to 09:59, ; Assaggio Ristorante, Seattle, visit from 14:00 to 15:00, ; Hiram M. Chittenden Locks, Seattle, visit from 15:30 to 19:00, ; Vons 1000 Spirits, Seattle, visit from 19:30 to 20:45, ; Magical Mountain Retreat and Sauna, stay from 23:40 to 07:40, nearest transit: S Alder Ave & E Stanley St, 9276.19m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F0816104, from Seattle to San Diego, Departure Time: 16:07, Arrival Time: 18:41",
+    "breakfast": "Toulouse Petit Kitchen & Lounge, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Magical Mountain Retreat and Sauna, stay from 08:10 to 08:40, nearest transit: S Alder Ave & E Stanley St, 9276.19m away; Toulouse Petit Kitchen & Lounge, Seattle, visit from 09:10 to 10:00, ; Klondike Gold Rush National Historical Park, Seattle, visit from 10:30 to 14:00, ; Noi Thai Cuisine, Seattle, visit from 14:30 to 15:30, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Seattle",
+    "transportation": "Flight Number: F2887185, from Indianapolis to Seattle, Departure Time: 07:24, Arrival Time: 08:40",
+    "breakfast": "-",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "Sky View Observatory, Seattle",
+    "accommodation": "Private mother-in-law studio apartment., Seattle",
+    "event": "-",
+    "point_of_interest_list": "Private mother-in-law studio apartment., stay from 09:10 to 09:40, nearest transit: 28th Ave W & W Dravus St, 12.67m away; Il Terrazzo Carmine, Seattle, visit from 12:00 to 13:00, ; Sky View Observatory, Seattle, visit from 15:00 to 18:30, ; Noi Thai Cuisine, Seattle, visit from 19:00 to 20:15, ; Private mother-in-law studio apartment., stay from 22:42 to 06:42, nearest transit: 28th Ave W & W Dravus St, 12.67m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "El Gaucho Seattle, Seattle",
+    "lunch": "The Pike Pub and Brewery, Seattle",
+    "dinner": "Canlis Restaurant, Seattle",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "Private mother-in-law studio apartment., Seattle",
+    "event": "-",
+    "point_of_interest_list": "Private mother-in-law studio apartment., stay from 07:12 to 07:42, nearest transit: 28th Ave W & W Dravus St, 12.67m away; El Gaucho Seattle, Seattle, visit from 08:12 to 10:00, ; Pike Place Market, Seattle, visit from 10:30 to 14:00, ; The Pike Pub and Brewery, Seattle, visit from 14:30 to 15:30, ; Canlis Restaurant, Seattle, visit from 19:31 to 20:46, ; Private mother-in-law studio apartment., stay from 21:16 to 05:16, nearest transit: 28th Ave W & W Dravus St, 12.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Indianapolis",
+    "transportation": "Flight Number: F0253124, from Seattle to Indianapolis, Departure Time: 11:11, Arrival Time: 18:05",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private mother-in-law studio apartment., stay from 06:00 to 06:30, nearest transit: 28th Ave W & W Dravus St, 12.67m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 08:00 to 08:50, "
+  }
+]

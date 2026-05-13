@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Las Vegas",
+    "transportation": "Flight Number: F2139496, from Cleveland to Las Vegas, Departure Time: 07:39, Arrival Time: 09:21",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 09:51 to 10:21, nearest transit: The Strat, 5367.88m away; Gamble Adventure | Restaurant. Outside Pool, stay from 23:22 to 07:22, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Carmine's, Las Vegas",
+    "lunch": "Skyfall Lounge, Las Vegas",
+    "dinner": "Vic & Anthony's Steakhouse, Las Vegas",
+    "attraction": "The Las Vegas Strip, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 07:52 to 08:22, nearest transit: The Strat, 5367.88m away; Carmine's, Las Vegas, visit from 08:52 to 09:59, ; Skyfall Lounge, Las Vegas, visit from 14:00 to 15:00, ; The Las Vegas Strip, Las Vegas, visit from 15:30 to 19:00, ; Vic & Anthony's Steakhouse, Las Vegas, visit from 20:45 to 23:30, ; Gamble Adventure | Restaurant. Outside Pool, stay from 00:00 to 08:00, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Cleveland",
+    "transportation": "Flight Number: F1336792, from Las Vegas to Cleveland, Departure Time: 22:15, Arrival Time: 05:17",
+    "breakfast": "Eggscellent, Las Vegas",
+    "lunch": "-",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:30 to 09:00, nearest transit: The Strat, 5367.88m away; Eggscellent, Las Vegas, visit from 09:30 to 10:20, ; Hoover Dam Bypass, Las Vegas, visit from 10:50 to 18:30, ; Mr. Mamas, Las Vegas, visit from 19:00 to 21:45, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Madison",
+    "transportation": "Flight Number: F1858768, from Chicago to Madison, Departure Time: 10:55, Arrival Time: 11:40",
+    "breakfast": "-",
+    "lunch": "Town 220 Restaurant, Madison",
+    "dinner": "Avra Madison Estiatorio, Madison",
+    "attraction": "Olbrich Botanical Gardens, Madison",
+    "accommodation": "Walk/Bike to Badger games, Monroe Street and more!, Madison",
+    "event": "-",
+    "point_of_interest_list": "Walk/Bike to Badger games, Monroe Street and more!, stay from 12:10 to 12:40, nearest transit: Godfrey Walmart, 458381.51m away; Town 220 Restaurant, visit from 13:10 to 13:50, nearest transit: Highland Park & Ride, 799291.34m away; Olbrich Botanical Gardens, visit from 14:20 to 16:20, nearest transit: Godfrey Walmart, 464104.06m away; Avra Madison Estiatorio, visit from 19:00 to 19:40, nearest transit: Highland Park & Ride, 1364379.29m away; Walk/Bike to Badger games, Monroe Street and more!, stay from 23:00 to 08:00, nearest transit: Godfrey Walmart, 458381.51m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Madison",
+    "transportation": "-",
+    "breakfast": "Madison & Vine, Madison",
+    "lunch": "Madison's Cafe, Madison",
+    "dinner": "Sant Ambroeus Madison, Madison",
+    "attraction": "Wisconsin State Capitol, Madison",
+    "accommodation": "Walk/Bike to Badger games, Monroe Street and more!, Madison",
+    "event": "-",
+    "point_of_interest_list": "Walk/Bike to Badger games, Monroe Street and more!, stay from 08:00 to 08:30, nearest transit: Godfrey Walmart, 458381.51m away; Madison & Vine, visit from 09:00 to 09:40, nearest transit: Highland Park & Ride, 1363622.56m away; Wisconsin State Capitol, visit from 10:10 to 12:10, nearest transit: Godfrey Walmart, 461505.22m away; Madison's Cafe, visit from 13:40 to 14:20, nearest transit: MunyTheater, 38659.18m away; Sant Ambroeus Madison, visit from 19:00 to 19:40, nearest transit: Highland Park & Ride, 1365203.26m away; Walk/Bike to Badger games, Monroe Street and more!, stay from 23:00 to 08:00, nearest transit: Godfrey Walmart, 458381.51m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Madison to Chicago",
+    "transportation": "taxi, from Madison to Chicago, duration: 171.81, distance: 237.1483, cost: 237",
+    "breakfast": "The Madison, Madison",
+    "lunch": "Madison Avenue Cafe and Deli, Madison",
+    "dinner": "Madison Crossing Lounge, Madison",
+    "attraction": "Henry Vilas Zoo, Madison",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Walk/Bike to Badger games, Monroe Street and more!, stay from 08:00 to 08:30, nearest transit: Godfrey Walmart, 458381.51m away; The Madison, visit from 09:00 to 09:40, nearest transit: Highland Park & Ride, 1276198.72m away; Henry Vilas Zoo, visit from 10:10 to 12:10, nearest transit: Godfrey Walmart, 459640.31m away; Madison Avenue Cafe and Deli, visit from 13:40 to 14:20, nearest transit: Highland Park & Ride, 1429358.15m away; Madison Crossing Lounge, visit from 19:00 to 19:40, nearest transit: Godfrey Walmart, 1842324.58m away"
+  }
+]

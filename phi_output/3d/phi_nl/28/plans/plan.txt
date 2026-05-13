@@ -1,0 +1,6 @@
+Destination cities: ['Huntsville'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Self-driving, from Indianapolis to Huntsville, duration: 451.75, distance: 639.0136, cost: 31', 'Self-driving, from Huntsville to Indianapolis, duration: 451.3783333333333, distance: 638.8732, cost: 31'],
+Restaurants (3 meals per day): ['-', '-', '-', "Nick's Ristorante, Huntsville", 'The Boot Pizzeria, Huntsville', "Ruth's Chris Steak House, Huntsville", 'Cotton Row, Huntsville', 'Four Leaves Asian Restaurant, Huntsville', "Rosie's Mexican Cantina, Huntsville"],
+Attractions (1 per day): ['-', 'Sugarbush Hill Maple Farm, Huntsville', 'U.S. Space and Rocket Center, Huntsville'],
+Accommodations (1 per city): ['Downtown Charm: Modern Comforts!, Huntsville']

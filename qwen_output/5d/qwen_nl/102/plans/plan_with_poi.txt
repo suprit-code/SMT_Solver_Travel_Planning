@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to San Diego",
+    "transportation": "Flight Number: F3546693, from Atlanta to San Diego, Departure Time: 11:21, Arrival Time: 12:54",
+    "breakfast": "-",
+    "lunch": "Union Kitchen and Tap Gaslamp, San Diego",
+    "dinner": "Civico 1845, San Diego",
+    "attraction": "-",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 13:24 to 13:54, nearest transit: 30th St & Dwight St, 532.03m away; Union Kitchen and Tap Gaslamp, San Diego, visit from 14:30 to 16:44, ; Civico 1845, San Diego, visit from 20:45 to 23:10, ; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 23:40 to 07:40, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Bencotto Italian Kitchen, San Diego",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 08:10 to 08:40, nearest transit: 30th St & Dwight St, 532.03m away; Mimmo's, San Diego, visit from 09:10 to 10:00, ; SeaWorld, San Diego, visit from 10:30 to 14:00, ; Bencotto Italian Kitchen, San Diego, visit from 14:30 to 16:44, ; Ruth's Chris Steak House, San Diego, visit from 20:45 to 22:51, ; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 23:21 to 07:21, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F3951102, from San Diego to Sacramento, Departure Time: 19:12, Arrival Time: 20:41",
+    "breakfast": "Trailer Park After Dark, San Diego",
+    "lunch": "Ironside Fish & Oyster, San Diego",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Large Comfy Cottage- Close to Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 07:51 to 08:21, nearest transit: 30th St & Dwight St, 532.03m away; Trailer Park After Dark, San Diego, visit from 08:51 to 09:41, ; Ironside Fish & Oyster, San Diego, visit from 13:42 to 14:42, ; San Diego Zoo, San Diego, visit from 15:12 to 18:42, ; Large Comfy Cottage- Close to Downtown, stay from 21:11 to 21:41, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Large Comfy Cottage- Close to Downtown, stay from 22:11 to 06:11, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Scott's Seafood on The River, Sacramento",
+    "lunch": "Frank Fat's Restaurant, Sacramento",
+    "dinner": "Mulvaney's Building & Loan, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Large Comfy Cottage- Close to Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Large Comfy Cottage- Close to Downtown, stay from 06:41 to 07:11, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Scott's Seafood on The River, Sacramento, visit from 08:00 to 09:29, ; Capitol Park, Sacramento, visit from 09:59 to 13:29, ; Frank Fat's Restaurant, Sacramento, visit from 13:59 to 14:59, ; Mulvaney's Building & Loan, Sacramento, visit from 19:00 to 23:30, ; Large Comfy Cottage- Close to Downtown, stay from 00:00 to 08:00, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Atlanta",
+    "transportation": "Flight Number: F3527038, from Sacramento to Atlanta, Departure Time: 12:18, Arrival Time: 19:54",
+    "breakfast": "Orphan, Sacramento",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Large Comfy Cottage- Close to Downtown, stay from 08:30 to 09:00, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Orphan, Sacramento, visit from 09:30 to 10:20, "
+  }
+]

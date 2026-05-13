@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Milwaukee to Atlanta",
+    "transportation": "Flight Number: F3553116, from Milwaukee to Atlanta, Departure Time: 10:41, Arrival Time: 13:51",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Fox Bros. Bar-B-Q, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Charm in the Heart of Va-Hi: Serene Studio Retreat, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 14:21 to 14:51, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away; Atlanta History Center, visit from 15:21 to 17:21, nearest transit: PEACHTREE RD @ BUCKHEAD AVE NE, 610.21m away; Fox Bros. Bar-B-Q, visit from 19:00 to 19:40, nearest transit: MORELAND AVE @ 299, 219.31m away; Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 23:00 to 08:00, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "Charm in the Heart of Va-Hi: Serene Studio Retreat, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 08:00 to 08:30, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away; Cafe Agora, visit from 09:00 to 09:40, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; Centennial Olympic Park, visit from 10:10 to 12:10, nearest transit: MARIETTA ST @ PARK AVE WEST, 143.86m away; Steamhouse Lounge, visit from 13:40 to 14:20, nearest transit: W PEACHTREE ST @ 12TH ST, 93.00m away; Aviva by Kameel, visit from 19:00 to 19:40, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away; Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 23:00 to 08:00, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Milwaukee",
+    "transportation": "Flight Number: F0334001, from Atlanta to Milwaukee, Departure Time: 18:02, Arrival Time: 18:52",
+    "breakfast": "Kevin Rathbun Steak, Atlanta",
+    "lunch": "Home Grown, Atlanta",
+    "dinner": "St. Cecilia, Atlanta",
+    "attraction": "National Center for Civil and Human Rights, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 08:00 to 08:30, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away; Kevin Rathbun Steak, visit from 09:00 to 09:40, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 465.73m away; National Center for Civil and Human Rights, visit from 10:10 to 12:10, nearest transit: IVAN ALLEN JR BLVD NW @ LOVEJOY ST, 78.15m away; Home Grown, visit from 12:40 to 13:20, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; St. Cecilia, visit from 16:52 to 17:32, nearest transit: PEACHTREE RD NE @ OAK VALLEY RD NE, 63.53m away"
+  }
+]

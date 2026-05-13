@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Chattanooga",
+    "transportation": "Flight Number: F3632122, from Washington to Chattanooga, Departure Time: 13:38, Arrival Time: 15:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Hickory Pit Bar-B-Que, Chattanooga",
+    "attraction": "-",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 15:45 to 16:15, nearest transit: BONNOAK, 4223.21m away; Hickory Pit Bar-B-Que, Chattanooga, visit from 19:00 to 20:15, ; Cozy Stylish Studio, stay from 20:45 to 04:45, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "lunch": "Puckett's Chattanooga, Chattanooga",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "Walnut Street Bridge, Chattanooga",
+    "accommodation": "Cozy Stylish Studio, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 06:00 to 06:30, nearest transit: BONNOAK, 4223.21m away; The Purple Daisy Picnic Cafe, Chattanooga, visit from 08:19 to 09:09, ; Walnut Street Bridge, Chattanooga, visit from 09:39 to 13:09, ; Puckett's Chattanooga, Chattanooga, visit from 13:59 to 14:59, ; Uncle Larry's Restaurant, Chattanooga, visit from 19:00 to 20:15, ; Cozy Stylish Studio, stay from 20:45 to 04:45, nearest transit: BONNOAK, 4223.21m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Washington",
+    "transportation": "Flight Number: F0956154, from Chattanooga to Washington, Departure Time: 17:37, Arrival Time: 19:15",
+    "breakfast": "Stir, Chattanooga",
+    "lunch": "HiFi Clyde's Chattanooga, Chattanooga",
+    "dinner": "-",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Stylish Studio, stay from 06:00 to 06:30, nearest transit: BONNOAK, 4223.21m away; Stir, Chattanooga, visit from 08:00 to 08:50, ; Coolidge Park, Chattanooga, visit from 09:20 to 12:50, ; HiFi Clyde's Chattanooga, Chattanooga, visit from 14:30 to 15:50, "
+  }
+]

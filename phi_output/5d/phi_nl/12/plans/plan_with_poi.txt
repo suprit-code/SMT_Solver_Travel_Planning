@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Lynchburg to Greensboro",
+    "transportation": "Self-driving from Lynchburg to Greensboro, duration: 143.46166666666667, distance: 183.1366, cost : 9.0",
+    "breakfast": "-",
+    "lunch": "MJ's Steak and Seafood, Greensboro",
+    "dinner": "Golden Wok, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 13:00 to 13:30, nearest transit: Elm/Fisher (OB), 111.24m away; MJ's Steak and Seafood, Greensboro, visit from 14:00 to 15:00, ; Ambleside Gallery, Greensboro, visit from 15:30 to 19:48, ; Golden Wok, Greensboro, visit from 20:18 to 22:10, ; Leftwich St APT 2, stay from 22:40 to 06:40, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Stamey's Barbecue, Greensboro",
+    "lunch": "Print Works Bistro, Greensboro",
+    "dinner": "Dear Dad's, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 07:10 to 07:40, nearest transit: Elm/Fisher (OB), 111.24m away; Stamey's Barbecue, Greensboro, visit from 08:10 to 09:59, ; Print Works Bistro, Greensboro, visit from 14:00 to 15:00, ; Carolina Theatre, Greensboro, visit from 15:30 to 19:00, ; Dear Dad's, Greensboro, visit from 19:30 to 21:00, ; Leftwich St APT 2, stay from 21:30 to 05:30, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Self-driving from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 16.0",
+    "breakfast": "B. Christopher's, Greensboro",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Downtown | Balcony | River views | Free parking, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 06:00 to 06:30, nearest transit: Elm/Fisher (OB), 111.24m away; B. Christopher's, Greensboro, visit from 08:00 to 08:50, ; Downtown | Balcony | River views | Free parking, stay from 14:21 to 14:51, nearest transit: Front St SB at Market St, 127.7m away; Downtown | Balcony | River views | Free parking, stay from 23:39 to 07:39, nearest transit: Front St SB at Market St, 127.7m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Flaming Amy's Burrito Barn, Wilmington",
+    "lunch": "The George on the Riverwalk, Wilmington",
+    "dinner": "Catch, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "Downtown | Balcony | River views | Free parking, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Downtown | Balcony | River views | Free parking, stay from 08:09 to 08:39, nearest transit: Front St SB at Market St, 127.7m away; Flaming Amy's Burrito Barn, Wilmington, visit from 09:09 to 09:59, ; The George on the Riverwalk, Wilmington, visit from 14:00 to 15:00, ; Battleship North Carolina, Wilmington, visit from 15:30 to 19:00, ; Catch, Wilmington, visit from 19:30 to 20:45, ; Downtown | Balcony | River views | Free parking, stay from 21:15 to 05:15, nearest transit: Front St SB at Market St, 127.7m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Lynchburg",
+    "transportation": "Self-driving from Wilmington to Lynchburg, duration: 337.39666666666665, distance: 448.5329, cost : 22.0",
+    "breakfast": "Fat Tony's Italian Pub, Wilmington",
+    "lunch": "Winnie's Tavern, Wilmington",
+    "dinner": "The Basics, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown | Balcony | River views | Free parking, stay from 06:00 to 06:30, nearest transit: Front St SB at Market St, 127.7m away; Fat Tony's Italian Pub, Wilmington, visit from 08:00 to 08:50, ; Winnie's Tavern, Wilmington, visit from 12:51 to 13:51, ; Burgwin-Wright House and Gardens, Wilmington, visit from 14:21 to 18:30, ; The Basics, Wilmington, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Detroit",
+    "transportation": "Flight Number: F2774451, from Indianapolis to Detroit, Departure Time: 17:56, Arrival Time: 19:04",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Black Royal House-Apartment 1, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Black Royal House-Apartment 1, stay from 19:29 to 19:49, nearest transit: Canfield St - Northbound, 4192.44m away; Black Royal House-Apartment 1, stay from 20:14 to 08:00, nearest transit: Canfield St - Northbound, 4192.44m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Detroit",
+    "transportation": "-",
+    "breakfast": "Green Dot Stables, Detroit",
+    "lunch": "Honest John's Bar & Grill - Selden St., Detroit",
+    "dinner": "Taqueria Mi Pueblo, Detroit",
+    "attraction": "Detroit Institute of Arts, Detroit",
+    "accommodation": "Black Royal House-Apartment 1, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Black Royal House-Apartment 1, stay from 08:00 to 08:30, nearest transit: Canfield St - Northbound, 4192.44m away; Green Dot Stables, visit from 08:55 to 09:35, nearest transit: Campus Martius - Southbound, 2304.45m away; Detroit Institute of Arts, visit from 10:00 to 12:00, nearest transit: Warren Ave - Northbound, 171.21m away; Honest John's Bar & Grill - Selden St., visit from 13:35 to 14:15, nearest transit: Mack Ave - Southbound, 509.79m away; Taqueria Mi Pueblo, visit from 19:00 to 19:40, nearest transit: Sproat St - Southbound, 6384.90m away; Black Royal House-Apartment 1, stay from 23:00 to 08:00, nearest transit: Canfield St - Northbound, 4192.44m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Detroit to Indianapolis",
+    "transportation": "Flight Number: F3399752, from Detroit to Indianapolis, Departure Time: 08:30, Arrival Time: 09:49",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

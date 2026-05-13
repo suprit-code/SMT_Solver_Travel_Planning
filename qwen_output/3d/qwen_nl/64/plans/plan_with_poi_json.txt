@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Wilmington",
+    "transportation": "Self-driving, from Boston to Wilmington, duration: 962.64, distance: 1302.4002, cost: 65",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 00:27 to 00:33, nearest transit: Market St WB at 12th St, 326.90m away; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 00:58 to 08:00, nearest transit: Market St WB at 12th St, 326.90m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "The Anchor, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "The Basics, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 08:00 to 08:30, nearest transit: Market St WB at 12th St, 326.90m away; The Anchor, visit from 08:55 to 09:35, nearest transit: Gordon Rd WB at Military Cutoff Rd, 1047961.40m away; Burgwin-Wright House and Gardens, visit from 10:00 to 12:00, nearest transit: 3rd St SB at Dock St, 75.52m away; Flaming Amy's Burrito Barn, visit from 13:35 to 14:15, nearest transit: Oleander Dr EB at Audubon Blvd, 106.71m away; The Basics, visit from 19:00 to 19:40, nearest transit: Front St NB at Grace St, 96.37m away; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 20:05 to 08:00, nearest transit: Market St WB at 12th St, 326.90m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wilmington to Boston",
+    "transportation": "Self-driving, from Wilmington to Boston, duration: 960.1366666666668, distance: 1295.6133, cost: 64",
+    "breakfast": "Winnie's Tavern, Wilmington",
+    "lunch": "Iron Hill Brewery & Restaurant, Wilmington",
+    "dinner": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 08:00 to 08:30, nearest transit: Market St WB at 12th St, 326.90m away; Winnie's Tavern, visit from 08:55 to 09:35, nearest transit: Carolina Beach Rd SB at North Carolina Ave , 552.62m away; Battleship North Carolina, visit from 10:00 to 12:00, nearest transit: Front St SB at Chestnut St, 454.38m away; Iron Hill Brewery & Restaurant, visit from 13:35 to 14:15, nearest transit: Gordon Rd WB at Military Cutoff Rd, 639822.86m away; Casey's Buffet Barbecue & Home Cookin, visit from 19:00 to 19:40, nearest transit: Oleander Dr EB at Dogwood Ln, 157.69m away"
+  }
+]

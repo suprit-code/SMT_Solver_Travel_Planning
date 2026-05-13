@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Reno to San Diego",
+    "transportation": "Flight Number: F2631027, from Reno to San Diego, Departure Time: 07:29, Arrival Time: 08:59",
+    "breakfast": "-",
+    "lunch": "Juniper and Ivy, San Diego",
+    "dinner": "Mister A'S, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 09:29 to 09:59, nearest transit: Upas St & 30th St, 403.13m away; SeaWorld, San Diego, visit from 10:30 to 14:00, ; Juniper and Ivy, San Diego, visit from 14:30 to 16:44, ; Mister A'S, San Diego, visit from 20:45 to 22:06, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 22:36 to 06:36, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "The Fish Market - San Diego, San Diego",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:06 to 07:36, nearest transit: Upas St & 30th St, 403.13m away; Born & Raised, San Diego, visit from 08:06 to 08:56, ; San Diego Zoo, San Diego, visit from 09:26 to 12:56, ; The Fish Market - San Diego, San Diego, visit from 13:26 to 14:26, ; Ruth's Chris Steak House, San Diego, visit from 19:00 to 20:15, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 20:45 to 05:30, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Jack's Grill, Redding",
+    "attraction": "-",
+    "accommodation": "The Cottage, 3 bedroom 2 bath w/ garden view, Redding",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 06:00 to 06:30, nearest transit: Upas St & 30th St, 403.13m away; The Cottage, 3 bedroom 2 bath w/ garden view, stay from 19:44 to 20:15, nearest transit: Lake Blvd at Black Marble Way, 533.52m away; Jack's Grill, Redding, visit from 20:45 to 23:10, ; The Cottage, 3 bedroom 2 bath w/ garden view, stay from 23:40 to 07:40, nearest transit: Lake Blvd at Black Marble Way, 533.52m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Jeff's California Cattle Company Restaurant, Redding",
+    "lunch": "Market Street Steakhouse, Redding",
+    "dinner": "View 202, Redding",
+    "attraction": "Redding Civic Auditorium, Redding",
+    "accommodation": "The Cottage, 3 bedroom 2 bath w/ garden view, Redding",
+    "event": "-",
+    "point_of_interest_list": "The Cottage, 3 bedroom 2 bath w/ garden view, stay from 08:10 to 08:40, nearest transit: Lake Blvd at Black Marble Way, 533.52m away; Jeff's California Cattle Company Restaurant, Redding, visit from 09:10 to 10:00, ; Redding Civic Auditorium, Redding, visit from 10:30 to 14:00, ; Market Street Steakhouse, Redding, visit from 14:30 to 16:44, ; View 202, Redding, visit from 20:45 to 23:10, ; The Cottage, 3 bedroom 2 bath w/ garden view, stay from 23:40 to 07:40, nearest transit: Lake Blvd at Black Marble Way, 533.52m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Taxi from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 259.0",
+    "breakfast": "Thai Hut, Redding",
+    "lunch": "Peter Chu's Skyroom, Redding",
+    "dinner": "Il Fornaio, Sacramento",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Beautiful home in W. Sacramento, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "The Cottage, 3 bedroom 2 bath w/ garden view, stay from 08:10 to 08:40, nearest transit: Lake Blvd at Black Marble Way, 533.52m away; Thai Hut, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; Peter Chu's Skyroom, Redding, visit from 14:30 to 15:30, ; Beautiful home in W. Sacramento, stay from 19:26 to 19:56, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Il Fornaio, Sacramento, visit from 20:26 to 21:41, ; Beautiful home in W. Sacramento, stay from 22:11 to 06:11, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Grange Restaurant & Bar, Sacramento",
+    "lunch": "Ella Dining Room & Bar, Sacramento",
+    "dinner": "The Firehouse Restaurant, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Beautiful home in W. Sacramento, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Beautiful home in W. Sacramento, stay from 06:41 to 07:11, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Grange Restaurant & Bar, Sacramento, visit from 08:00 to 08:50, ; Ella Dining Room & Bar, Sacramento, visit from 12:51 to 13:51, ; California State Capitol Museum, Sacramento, visit from 14:21 to 18:30, ; The Firehouse Restaurant, Sacramento, visit from 19:00 to 20:15, ; Beautiful home in W. Sacramento, stay from 20:45 to 04:45, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Reno",
+    "transportation": "Taxi from Sacramento to Reno, duration: 155.59166666666667, distance: 212.9319, cost : 212.0",
+    "breakfast": "Dawson's Steakhouse, Sacramento",
+    "lunch": "Moxie, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful home in W. Sacramento, stay from 06:00 to 06:30, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Dawson's Steakhouse, Sacramento, visit from 08:00 to 08:50, ; Moxie, Sacramento, visit from 12:51 to 13:51, ; Capitol Park, Sacramento, visit from 15:30 to 20:17, "
+  }
+]

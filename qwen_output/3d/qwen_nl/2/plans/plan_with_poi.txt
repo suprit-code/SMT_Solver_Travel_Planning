@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Montgomery to Washington",
+    "transportation": "Self-driving from Montgomery to Washington, duration: 906.42, distance: 1284.9725, cost : 64.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private room in Capitol Hill, Washington",
+    "event": "-",
+    "point_of_interest_list": "Private room in Capitol Hill, stay from 21:44 to 22:14, nearest transit: POTOMAC AVE METRORAIL STATION - NE CORNER 14TH ST. & POTOMAC AVE., SE, NORTH OF PENNSYLVANIA AVE., 296.75m away; Private room in Capitol Hill, stay from 22:44 to 06:44, nearest transit: POTOMAC AVE METRORAIL STATION - NE CORNER 14TH ST. & POTOMAC AVE., SE, NORTH OF PENNSYLVANIA AVE., 296.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Thip Khao, Washington",
+    "lunch": "Cafe Milano, Washington",
+    "dinner": "The Dabney, Washington",
+    "attraction": "Ford's Theatre, Washington",
+    "accommodation": "Private room in Capitol Hill, Washington",
+    "event": "-",
+    "point_of_interest_list": "Private room in Capitol Hill, stay from 07:14 to 07:44, nearest transit: POTOMAC AVE METRORAIL STATION - NE CORNER 14TH ST. & POTOMAC AVE., SE, NORTH OF PENNSYLVANIA AVE., 296.75m away; Thip Khao, Washington, visit from 08:14 to 09:04, ; Ford's Theatre, Washington, visit from 09:34 to 13:04, ; Cafe Milano, Washington, visit from 13:34 to 14:34, ; The Dabney, Washington, visit from 19:00 to 20:15, ; Private room in Capitol Hill, stay from 20:45 to 04:45, nearest transit: POTOMAC AVE METRORAIL STATION - NE CORNER 14TH ST. & POTOMAC AVE., SE, NORTH OF PENNSYLVANIA AVE., 296.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Montgomery",
+    "transportation": "Self-driving from Washington to Montgomery, duration: 910.0733333333334, distance: 1287.7221000000002, cost : 64.0",
+    "breakfast": "RPM Italian, Washington",
+    "lunch": "Martin's Tavern, Washington",
+    "dinner": "Smoke & Mirrors Rooftop Bar, Washington",
+    "attraction": "National Air and Space Museum, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private room in Capitol Hill, stay from 06:00 to 06:30, nearest transit: POTOMAC AVE METRORAIL STATION - NE CORNER 14TH ST. & POTOMAC AVE., SE, NORTH OF PENNSYLVANIA AVE., 296.75m away; RPM Italian, Washington, visit from 08:00 to 08:50, ; National Air and Space Museum, Washington, visit from 09:20 to 12:50, ; Martin's Tavern, Washington, visit from 13:20 to 14:20, ; Smoke & Mirrors Rooftop Bar, Washington, visit from 19:00 to 20:15, "
+  }
+]

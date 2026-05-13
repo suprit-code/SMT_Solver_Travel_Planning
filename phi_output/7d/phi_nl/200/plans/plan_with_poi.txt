@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to San Diego",
+    "transportation": "Flight Number: F1296796, from Detroit to San Diego, Departure Time: 08:34, Arrival Time: 10:04",
+    "breakfast": "-",
+    "lunch": "Provisional Kitchen, Cafe, and Mercantile, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 10:34 to 11:04, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Provisional Kitchen, Cafe, and Mercantile, San Diego, visit from 12:00 to 13:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:00 to 18:30, ; Din Tai Fung, San Diego, visit from 19:00 to 20:15, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 20:45 to 04:45, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 06:00 to 06:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Ruth's Chris Steak House, San Diego, visit from 08:34 to 09:24, ; Cabrillo National Monument, San Diego, visit from 09:59 to 13:29, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 13:59 to 14:59, ; Born & Raised, San Diego, visit from 19:00 to 23:10, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 23:40 to 07:40, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Flight Number: F2386966, from San Diego to Los Angeles, Departure Time: 14:30, Arrival Time: 15:26",
+    "breakfast": "Cafe Coyote, San Diego",
+    "lunch": "-",
+    "dinner": "Republique, Los Angeles",
+    "attraction": "-",
+    "accommodation": "Topanga Pool House, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 08:10 to 08:40, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Cafe Coyote, San Diego, visit from 09:10 to 10:00, ; Topanga Pool House, stay from 15:56 to 16:26, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away; Republique, Los Angeles, visit from 19:00 to 20:15, ; Topanga Pool House, stay from 20:45 to 06:36, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Water Grill, Los Angeles",
+    "lunch": "The Lobster, Los Angeles",
+    "dinner": "Langer's Delicatessen Restaurant, Los Angeles",
+    "attraction": "The Grove, Los Angeles",
+    "accommodation": "Topanga Pool House, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Topanga Pool House, stay from 07:06 to 07:36, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away; Water Grill, Los Angeles, visit from 08:06 to 09:29, ; The Grove, Los Angeles, visit from 09:59 to 13:29, ; The Lobster, Los Angeles, visit from 13:59 to 14:59, ; Langer's Delicatessen Restaurant, Los Angeles, visit from 19:00 to 20:15, ; Topanga Pool House, stay from 20:45 to 04:44, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 8887.49m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Flight Number: F0059505, from Los Angeles to San Francisco, Departure Time: 05:14, Arrival Time: 06:31",
+    "breakfast": "Waterbar, San Francisco",
+    "lunch": "Quince, San Francisco",
+    "dinner": "Tadich Grill, San Francisco",
+    "attraction": "Exploratorium, San Francisco",
+    "accommodation": "#3 SF 24th ave& kirkham st  King master bedroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "#3 SF 24th ave& kirkham st  King master bedroom, stay from 07:01 to 07:31, nearest transit: Civic Center BART (9th and Market), 6053.71m away; #3 SF 24th ave& kirkham st  King master bedroom, stay from 08:01 to 08:31, nearest transit: Civic Center BART (9th and Market), 6053.71m away; Waterbar, San Francisco, visit from 09:01 to 09:51, ; Quince, San Francisco, visit from 13:52 to 14:52, ; Exploratorium, San Francisco, visit from 15:22 to 18:52, ; Tadich Grill, San Francisco, visit from 19:22 to 20:37, ; #3 SF 24th ave& kirkham st  King master bedroom, stay from 21:07 to 05:07, nearest transit: Civic Center BART (9th and Market), 6053.71m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Morton's The Steakhouse, San Francisco",
+    "lunch": "Mersea Restaurant & Bar, San Francisco",
+    "dinner": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "attraction": "Ghirardelli Square, San Francisco",
+    "accommodation": "#3 SF 24th ave& kirkham st  King master bedroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "#3 SF 24th ave& kirkham st  King master bedroom, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 6053.71m away; Morton's The Steakhouse, San Francisco, visit from 08:27 to 09:17, ; Mersea Restaurant & Bar, San Francisco, visit from 13:18 to 14:18, ; Ghirardelli Square, San Francisco, visit from 14:48 to 18:18, ; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 20:45 to 22:00, ; #3 SF 24th ave& kirkham st  King master bedroom, stay from 22:30 to 06:30, nearest transit: Civic Center BART (9th and Market), 6053.71m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to Detroit",
+    "transportation": "Flight Number: F0303407, from San Francisco to Detroit, Departure Time: 12:48, Arrival Time: 20:16",
+    "breakfast": "Crab House at Pier 39, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#3 SF 24th ave& kirkham st  King master bedroom, stay from 07:00 to 07:30, nearest transit: Civic Center BART (9th and Market), 6053.71m away; Crab House at Pier 39, San Francisco, visit from 08:00 to 12:18, "
+  }
+]

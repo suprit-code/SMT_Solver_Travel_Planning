@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Colorado Springs",
+    "transportation": "Self-driving from Las Vegas to Colorado Springs, duration: 844.2, distance: 1309.3198, cost : 65.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy Colo Springs Home near transportation routes, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Cozy Colo Springs Home near transportation routes, stay from 21:48 to 22:18, nearest transit: Academy/Airport, 443.32m away; Cozy Colo Springs Home near transportation routes, stay from 22:48 to 06:48, nearest transit: Academy/Airport, 443.32m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Front Range Barbeque, Colorado Springs",
+    "lunch": "Paravicini's Italian Bistro, Colorado Springs",
+    "dinner": "Pizzeria Rustica, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "Cozy Colo Springs Home near transportation routes, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Cozy Colo Springs Home near transportation routes, stay from 07:18 to 07:48, nearest transit: Academy/Airport, 443.32m away; Front Range Barbeque, Colorado Springs, visit from 08:18 to 09:08, ; Paravicini's Italian Bistro, Colorado Springs, visit from 13:09 to 14:09, ; Seven Falls, Colorado Springs, visit from 14:39 to 18:09, ; Pizzeria Rustica, Colorado Springs, visit from 19:00 to 20:15, ; Cozy Colo Springs Home near transportation routes, stay from 20:45 to 04:45, nearest transit: Academy/Airport, 443.32m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Colorado Springs to Las Vegas",
+    "transportation": "Self-driving from Colorado Springs to Las Vegas, duration: 842.7216666666667, distance: 1310.3347, cost : 65.0",
+    "breakfast": "Restaurant 1858, Colorado Springs",
+    "lunch": "Mountain Shadows Restaurant, Colorado Springs",
+    "dinner": "The Great British Food Company, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Colo Springs Home near transportation routes, stay from 06:00 to 06:30, nearest transit: Academy/Airport, 443.32m away; Restaurant 1858, Colorado Springs, visit from 08:00 to 08:50, ; Mountain Shadows Restaurant, Colorado Springs, visit from 12:51 to 13:51, ; Garden of the Gods, Colorado Springs, visit from 14:21 to 17:51, ; The Great British Food Company, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

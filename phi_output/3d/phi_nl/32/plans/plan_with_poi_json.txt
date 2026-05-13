@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Albany to Nashville",
+    "transportation": "Flight Number: F2105072, from Albany to Nashville, Departure Time: 11:04, Arrival Time: 12:47",
+    "breakfast": "-",
+    "lunch": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "dinner": "Deacon\u2019s New South, Nashville",
+    "attraction": "Andrew Jackson's Hermitage, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 13:17 to 13:47, nearest transit: PEABODY STATION INBOUND, 149.43m away; Bourbon Steak by Michael Mina, a Nashville Steakhouse, visit from 14:17 to 14:57, nearest transit: 8TH AVE S & DEMONBREUN ST NB, 99.41m away; Andrew Jackson's Hermitage, visit from 15:27 to 17:27, nearest transit: LEBANON PIKE & MONACO DR SB, 929.39m away; Deacon\u2019s New South, visit from 19:00 to 19:40, nearest transit: 4TH AVE N & CHURCH ST SB, 40.02m away; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 23:00 to 08:00, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Old Hickory Steakhouse, Nashville",
+    "lunch": "Luogo, Nashville",
+    "dinner": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 08:00 to 08:30, nearest transit: PEABODY STATION INBOUND, 149.43m away; Old Hickory Steakhouse, visit from 09:00 to 09:40, nearest transit: OPRY MILLS DRIVE & WARDROBE BLDNG, 483.51m away; Cheekwood, visit from 10:10 to 12:10, nearest transit: HWY 70 S & BROOK HOLLOW RD EB, 833.18m away; Luogo, visit from 13:40 to 14:20, nearest transit: 12TH AVE & LAUREL ST NB, 86.33m away; Jeff Ruby's Steakhouse, Nashville, visit from 19:00 to 19:40, nearest transit: CENTRAL 4TH AVE - BAY 13, 188.66m away; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 23:00 to 08:00, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Albany",
+    "transportation": "Flight Number: F1348960, from Nashville to Albany, Departure Time: 12:31, Arrival Time: 15:32",
+    "breakfast": "Gannons Nashville, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 08:00 to 08:30, nearest transit: PEABODY STATION INBOUND, 149.43m away; Gannons Nashville, visit from 09:00 to 09:40, nearest transit: 4TH AVE N & CHURCH ST SB, 35.96m away; Kayne Prime, visit from 11:21 to 12:01, nearest transit: 11TH AVE & DEMONBREUN NB, 104.79m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Montgomery to Atlanta",
+    "transportation": "Taxi from Montgomery to Atlanta, duration: 179.01166666666668, distance: 259.3936, cost : 259.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 14:30 to 15:00, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Georgia Aquarium, Atlanta, visit from 15:30 to 23:07, ; Historic Lounge - Private BR in the Heart of ATL#2, stay from 23:37 to 07:37, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Nikolai's Roof, Atlanta",
+    "lunch": "St. Cecilia, Atlanta",
+    "dinner": "No Mas! Cantina, Atlanta",
+    "attraction": "-",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 08:07 to 08:37, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Nikolai's Roof, Atlanta, visit from 09:07 to 09:57, ; St. Cecilia, Atlanta, visit from 14:27 to 15:27, ; No Mas! Cantina, Atlanta, visit from 19:28 to 20:43, ; Historic Lounge - Private BR in the Heart of ATL#2, stay from 21:13 to 06:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Montgomery",
+    "transportation": "Taxi from Atlanta to Montgomery, duration: 178.06833333333333, distance: 258.9032, cost : 258.0",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "The Optimist, Atlanta",
+    "dinner": "Kevin Rathbun Steak, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 07:00 to 07:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Canoe, Atlanta, visit from 08:00 to 08:50, ; The Optimist, Atlanta, visit from 12:51 to 13:51, ; Zoo Atlanta, Atlanta, visit from 14:21 to 17:51, ; Kevin Rathbun Steak, Atlanta, visit from 19:00 to 20:15, "
+  }
+]

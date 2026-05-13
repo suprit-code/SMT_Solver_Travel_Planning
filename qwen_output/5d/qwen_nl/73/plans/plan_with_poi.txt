@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Nashville",
+    "transportation": "Flight Number: F0638643, from Chicago to Nashville, Departure Time: 15:46, Arrival Time: 17:24",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Caney Fork River Valley Grille, Nashville",
+    "attraction": "-",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 17:54 to 20:15, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; Caney Fork River Valley Grille, Nashville, visit from 20:45 to 22:21, ; The Stewart House in 12th South - Half House, stay from 22:51 to 06:51, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "1 Kitchen, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "Paula Deen's Family Kitchen, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 07:21 to 07:51, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; 1 Kitchen, Nashville, visit from 08:21 to 10:00, ; Belmont Mansion, Nashville, visit from 10:30 to 14:00, ; Aquarium Restaurant, Nashville, visit from 14:30 to 15:30, ; Paula Deen's Family Kitchen, Nashville, visit from 19:31 to 22:01, ; The Stewart House in 12th South - Half House, stay from 22:31 to 06:31, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "417 Union, Nashville",
+    "lunch": "The Southern Steak & Oyster, Nashville",
+    "dinner": "-",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "The Secret Society Suite, Bristol",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 07:01 to 07:31, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; 417 Union, Nashville, visit from 08:01 to 08:51, ; Cheekwood, Nashville, visit from 09:21 to 12:51, ; The Southern Steak & Oyster, Nashville, visit from 13:21 to 14:21, ; The Secret Society Suite, stay from 20:40 to 21:10, nearest transit: Cumberland St & Waters Alley, 149.61m away; The Secret Society Suite, stay from 23:25 to 07:25, nearest transit: Cumberland St & Waters Alley, 149.61m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Caribbean Croft, Bristol",
+    "lunch": "Urban Tandoor, Bristol",
+    "dinner": "Ciao, Bristol",
+    "attraction": "Wills Memorial Building And Tower Tours, Bristol",
+    "accommodation": "The Secret Society Suite, Bristol",
+    "event": "-",
+    "point_of_interest_list": "The Secret Society Suite, stay from 07:55 to 08:25, nearest transit: Cumberland St & Waters Alley, 149.61m away; Caribbean Croft, Bristol, visit from 08:55 to 09:45, ; Wills Memorial Building And Tower Tours, Bristol, visit from 10:15 to 13:45, ; Urban Tandoor, Bristol, visit from 14:15 to 15:15, ; Ciao, Bristol, visit from 19:16 to 20:31, ; The Secret Society Suite, stay from 21:01 to 05:01, nearest transit: Cumberland St & Waters Alley, 149.61m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chicago",
+    "transportation": "Taxi from Bristol to Chicago, duration: 691.9866666666666, distance: 965.0259, cost : 965.0",
+    "breakfast": "Eat a Pitta, Bristol",
+    "lunch": "Blackbird Bakery, Bristol",
+    "dinner": "Coronation Curry House, Bristol",
+    "attraction": "Bristol Cathedral, Bristol",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Secret Society Suite, stay from 06:00 to 06:30, nearest transit: Cumberland St & Waters Alley, 149.61m away; Eat a Pitta, Bristol, visit from 08:00 to 09:59, ; Blackbird Bakery, Bristol, visit from 14:00 to 15:00, ; Bristol Cathedral, Bristol, visit from 15:30 to 19:00, ; Coronation Curry House, Bristol, visit from 19:30 to 20:45, "
+  }
+]

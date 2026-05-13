@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Charlotte",
+    "transportation": "Flight Number: F3265346, from Dallas to Charlotte, Departure Time: 08:45, Arrival Time: 12:06",
+    "breakfast": "-",
+    "lunch": "Charlotte & Fritz, Charlotte",
+    "dinner": "Pinky's Westside Grill, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Jungle themed airnhb, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Jungle themed airnhb, stay from 12:36 to 13:06, nearest transit: Sunnyside St CityLYNX, 102.83m away; Charlotte & Fritz, Charlotte, visit from 13:36 to 14:36, ; NASCAR Hall of Fame, Charlotte, visit from 15:06 to 18:36, ; Pinky's Westside Grill, Charlotte, visit from 19:06 to 20:21, ; Jungle themed airnhb, stay from 22:37 to 06:37, nearest transit: Sunnyside St CityLYNX, 102.83m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "ROKA Charlotte Street, Charlotte",
+    "lunch": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "dinner": "Midwood Smokehouse, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "Jungle themed airnhb, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Jungle themed airnhb, stay from 07:07 to 07:37, nearest transit: Sunnyside St CityLYNX, 102.83m away; ROKA Charlotte Street, Charlotte, visit from 08:07 to 08:57, ; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 13:30 to 14:30, ; Levine Museum of the New South, Charlotte, visit from 15:00 to 18:30, ; Midwood Smokehouse, Charlotte, visit from 19:00 to 20:15, ; Jungle themed airnhb, stay from 20:45 to 06:30, nearest transit: Sunnyside St CityLYNX, 102.83m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Dallas",
+    "transportation": "Flight Number: F3727451, from Charlotte to Dallas, Departure Time: 21:10, Arrival Time: 23:14",
+    "breakfast": "Charlotte's Restaurant, Charlotte",
+    "lunch": "Charlotte's Tavern, Charlotte",
+    "dinner": "The Charlotte Hotel & Restaurant, Charlotte",
+    "attraction": "Belk Theater at Blumenthal Performing Arts Center, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Jungle themed airnhb, stay from 07:00 to 07:30, nearest transit: Sunnyside St CityLYNX, 102.83m away; Charlotte's Restaurant, Charlotte, visit from 08:00 to 08:50, ; Charlotte's Tavern, Charlotte, visit from 12:51 to 13:51, ; Belk Theater at Blumenthal Performing Arts Center, Charlotte, visit from 14:21 to 17:51, ; The Charlotte Hotel & Restaurant, Charlotte, visit from 19:25 to 20:40, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Kansas City",
+    "transportation": "Flight Number: F1045980, from Denver to Kansas City, Departure Time: 13:56, Arrival Time: 16:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bella Napoli, Kansas City",
+    "attraction": "Country Club Plaza, Kansas City",
+    "accommodation": "Private King Room + Bath - (The Collins), Kansas City",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Trezo Mare Restaurant & Lounge, Kansas City",
+    "lunch": "Char Bar - Westport, Kansas City",
+    "dinner": "Garozzo's Ristorante, Kansas City",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "Private King Room + Bath - (The Collins), Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Private King Room + Bath - (The Collins), stay from 08:00 to 08:30, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away; Trezo Mare Restaurant & Lounge, visit from 09:00 to 09:40, nearest transit: ON N OAK AT N EVANSDALE SOUTHBOUND, 1731.93m away; Tom's Town Distilling Co., visit from 10:10 to 12:10, nearest transit: KAUFFMAN CENTER ON MAIN AT 16TH ST SB, 116.42m away; Char Bar - Westport, visit from 13:40 to 14:20, nearest transit: ON WESTPORT AT MILL WESTBOUND, 172.08m away; Garozzo's Ristorante, visit from 19:00 to 19:40, nearest transit: ON INDEPENDENCE AVE AT CAMPBELL WESTBOUND, 249.38m away; Private King Room + Bath - (The Collins), stay from 23:00 to 08:00, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Denver",
+    "transportation": "Flight Number: F1197829, from Kansas City to Denver, Departure Time: 16:57, Arrival Time: 18:01",
+    "breakfast": "KC Chop House, Kansas City",
+    "lunch": "Grunauer, Kansas City",
+    "dinner": "-",
+    "attraction": "Crown Center, Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private King Room + Bath - (The Collins), stay from 08:00 to 08:30, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away; KC Chop House, visit from 09:00 to 09:40, nearest transit: ON 210 HWY AT AMERISTAR DR EASTBOUND, 675.92m away; Crown Center, visit from 10:10 to 12:10, nearest transit: ON GRAND AT 26TH SOUTHBOUND, 215.60m away; Grunauer, visit from 13:40 to 14:20, nearest transit: ON SW BLVD AT CENTRAL WESTBOUND, 251.35m away"
+  }
+]

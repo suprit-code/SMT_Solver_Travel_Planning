@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Milwaukee to Atlanta",
+    "transportation": "Flight Number: F3553116, from Milwaukee to Atlanta, Departure Time: 10:41, Arrival Time: 13:51",
+    "breakfast": "-",
+    "lunch": "The Optimist, Atlanta",
+    "dinner": "Steamhouse Lounge, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 14:16 to 14:25, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; The Optimist, visit from 14:50 to 15:30, nearest transit: W MARIETTA ST @ BRADY AVE, 164.88m away; Centennial Olympic Park, visit from 15:55 to 17:55, nearest transit: MARIETTA ST @ PARK AVE WEST, 143.86m away; Steamhouse Lounge, visit from 19:30 to 20:10, nearest transit: W PEACHTREE ST @ 12TH ST, 93.00m away; Historic Lounge - Private BR in the Heart of ATL#2, stay from 20:35 to 08:00, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Fox Bros. Bar-B-Q, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 08:00 to 08:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Fox Bros. Bar-B-Q, visit from 08:55 to 09:35, nearest transit: MORELAND AVE @ 299, 219.31m away; Atlanta History Center, visit from 10:00 to 12:00, nearest transit: PEACHTREE RD @ BUCKHEAD AVE NE, 610.21m away; Cafe Agora, visit from 13:35 to 14:15, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; Home Grown, visit from 19:00 to 19:40, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; Historic Lounge - Private BR in the Heart of ATL#2, stay from 20:05 to 08:00, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Milwaukee",
+    "transportation": "Flight Number: F2983765, from Atlanta to Milwaukee, Departure Time: 17:51, Arrival Time: 18:46",
+    "breakfast": "Kevin Rathbun Steak, Atlanta",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "-",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 08:00 to 08:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Kevin Rathbun Steak, visit from 08:55 to 09:35, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 465.73m away; Georgia Aquarium, visit from 10:00 to 12:00, nearest transit: IVAN ALLEN JR BLVD NW @ LUCKIE ST, 131.37m away; Aviva by Kameel, visit from 13:35 to 14:15, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away"
+  }
+]

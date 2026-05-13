@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sitka to Seattle",
+    "transportation": "Flight Number: F2878676, from Sitka to Seattle, Departure Time: 13:45, Arrival Time: 17:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 17:33 to 20:15, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Noi Thai Cuisine, Seattle, visit from 20:45 to 22:04, ; Cozy room near UW, stay from 22:34 to 06:34, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "Tulio, Seattle",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "Chihuly Garden and Glass, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:04 to 07:34, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 08:04 to 09:59, ; Tulio, Seattle, visit from 14:00 to 15:00, ; Chihuly Garden and Glass, Seattle, visit from 15:30 to 19:00, ; Vons 1000 Spirits, Seattle, visit from 19:30 to 20:45, ; Cozy room near UW, stay from 22:30 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Sitka",
+    "transportation": "Flight Number: F2337064, from Seattle to Sitka, Departure Time: 17:12, Arrival Time: 18:31",
+    "breakfast": "Lola, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:00 to 07:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Lola, Seattle, visit from 08:00 to 08:50, ; Klondike Gold Rush National Historical Park, Seattle, visit from 09:20 to 12:50, "
+  }
+]

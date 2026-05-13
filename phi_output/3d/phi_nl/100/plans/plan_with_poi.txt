@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Houston",
+    "transportation": "Flight Number: F3519646, from New York to Houston, Departure Time: 09:42, Arrival Time: 12:25",
+    "breakfast": "-",
+    "lunch": "Niko Niko's Greek, Houston",
+    "dinner": "Hugo's, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 12:55 to 13:25, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Niko Niko's Greek, Houston, visit from 13:55 to 14:55, ; Downtown Aquarium, Houston, visit from 15:25 to 18:55, ; Hugo's, Houston, visit from 19:25 to 20:40, ; Entire Apt in the Heart of the City - Galleria, stay from 21:10 to 05:10, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Goode Company Seafood, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:00 to 06:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Pappadeaux Seafood Kitchen, Houston, visit from 08:31 to 09:21, ; Goode Company Seafood, Houston, visit from 13:22 to 14:22, ; Hermann Park, Houston, visit from 14:52 to 18:22, ; Brennan's of Houston, Houston, visit from 19:00 to 20:15, ; Entire Apt in the Heart of the City - Galleria, stay from 23:01 to 07:01, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to New York",
+    "transportation": "Flight Number: F4060003, from Houston to New York, Departure Time: 18:52, Arrival Time: 23:23",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 07:31 to 08:01, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Pappas Bros. Steakhouse, Houston, visit from 08:31 to 09:21, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 13:22 to 14:22, ; Houston Zoo, Houston, visit from 14:52 to 18:22, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to Tucson",
+    "transportation": "Flight Number: F0632476, from Everett to Tucson, Departure Time: 10:42, Arrival Time: 14:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mariscos Chihuahua, Tucson",
+    "attraction": "The Mini Time Machine Museum of Miniatures, Tucson",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 14:59 to 15:29, nearest transit: El Con Center, 2837.66m away; The Mini Time Machine Museum of Miniatures, visit from 15:59 to 17:59, nearest transit: El Con Center, 5192.86m away; Mariscos Chihuahua, visit from 19:00 to 19:40, nearest transit: 9006 Lot, 1365.92m away; Accessible Private Studio, Entrance & Parking., stay from 23:00 to 08:00, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tucson",
+    "transportation": "-",
+    "breakfast": "Baja Cafe of Tucson, Tucson",
+    "lunch": "Prep & Pastry, Tucson",
+    "dinner": "Bobo's Restaurant, Tucson",
+    "attraction": "Pima Air and Space Museum, Tucson",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 08:00 to 08:30, nearest transit: El Con Center, 2837.66m away; Baja Cafe of Tucson, visit from 09:00 to 09:40, nearest transit: El Con Center, 7188.68m away; Pima Air and Space Museum, visit from 10:10 to 12:10, nearest transit: El Con Center, 10570.87m away; Prep & Pastry, visit from 13:40 to 14:20, nearest transit: Copper East, 851.59m away; Bobo's Restaurant, visit from 19:00 to 19:40, nearest transit: AHSL/ Health Sciences Innovation Building, 2168.55m away; Accessible Private Studio, Entrance & Parking., stay from 23:00 to 08:00, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tucson to Everett",
+    "transportation": "Flight Number: F0515324, from Tucson to Everett, Departure Time: 14:11, Arrival Time: 17:26",
+    "breakfast": "North Italia, Tucson",
+    "lunch": "Blue Willow Restaurant & Gift Shop, Tucson",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 08:00 to 08:30, nearest transit: El Con Center, 2837.66m away; North Italia, visit from 09:00 to 09:40, nearest transit: 9004 Lot, 6274.73m away; Blue Willow Restaurant & Gift Shop, visit from 13:01 to 13:41, nearest transit: Copper East, 835.09m away"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Peoria to Nashville",
+    "transportation": "Flight Number: F3576207, from Peoria to Nashville, Departure Time: 17:09, Arrival Time: 18:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Puckett's 5th & Church, Nashville",
+    "attraction": "-",
+    "accommodation": "Rustic & Modern Loft by Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Rustic & Modern Loft by Broadway, stay from 19:29 to 20:15, nearest transit: LAFAYETTE ST & EWING AVE SB, 69.36m away; Puckett's 5th & Church, Nashville, visit from 20:45 to 22:35, ; Rustic & Modern Loft by Broadway, stay from 23:05 to 07:05, nearest transit: LAFAYETTE ST & EWING AVE SB, 69.36m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "417 Union, Nashville",
+    "dinner": "Harriet's Rooftop, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Rustic & Modern Loft by Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Rustic & Modern Loft by Broadway, stay from 07:35 to 08:05, nearest transit: LAFAYETTE ST & EWING AVE SB, 69.36m away; Aquarium Restaurant, Nashville, visit from 08:35 to 10:00, ; Cheekwood, Nashville, visit from 10:30 to 14:00, ; 417 Union, Nashville, visit from 14:30 to 15:30, ; Harriet's Rooftop, Nashville, visit from 19:45 to 21:00, ; Rustic & Modern Loft by Broadway, stay from 21:30 to 05:30, nearest transit: LAFAYETTE ST & EWING AVE SB, 69.36m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "-",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Little Betty Blue cottage, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Rustic & Modern Loft by Broadway, stay from 06:00 to 06:30, nearest transit: LAFAYETTE ST & EWING AVE SB, 69.36m away; Bourbon Street Blues and Boogie Bar, Nashville, visit from 08:00 to 08:50, ; Belmont Mansion, Nashville, visit from 09:20 to 12:50, ; Kayne Prime, Nashville, visit from 13:20 to 14:20, ; Little Betty Blue cottage, stay from 20:39 to 22:09, nearest transit: Kroger-Gate City Hwy, 845.58m away; Little Betty Blue cottage, stay from 22:39 to 06:39, nearest transit: Kroger-Gate City Hwy, 845.58m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "The River Grille, Bristol",
+    "lunch": "Little Bristol Beach Bar, Bristol",
+    "dinner": "Bristol Seafood + Steak + Social, Bristol",
+    "attraction": "Bristol Cathedral, Bristol",
+    "accommodation": "Little Betty Blue cottage, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Little Betty Blue cottage, stay from 07:09 to 07:39, nearest transit: Kroger-Gate City Hwy, 845.58m away; The River Grille, Bristol, visit from 08:09 to 08:59, ; Little Bristol Beach Bar, Bristol, visit from 13:00 to 14:00, ; Bristol Cathedral, Bristol, visit from 14:30 to 18:00, ; Bristol Seafood + Steak + Social, Bristol, visit from 19:00 to 20:15, ; Little Betty Blue cottage, stay from 20:45 to 04:45, nearest transit: Kroger-Gate City Hwy, 845.58m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Peoria",
+    "transportation": "Taxi from Bristol to Peoria, duration: 711.3566666666667, distance: 1009.8111, cost : 1009.0",
+    "breakfast": "Baba Ganoush Kitchen - Jerusalem Falafel, Bristol",
+    "lunch": "Raj, Bristol",
+    "dinner": "Bristol Seafood Restaurant, Bristol",
+    "attraction": "Wills Memorial Building And Tower Tours, Bristol",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Little Betty Blue cottage, stay from 06:00 to 06:30, nearest transit: Kroger-Gate City Hwy, 845.58m away; Baba Ganoush Kitchen - Jerusalem Falafel, Bristol, visit from 08:00 to 08:50, ; Wills Memorial Building And Tower Tours, Bristol, visit from 09:20 to 12:50, ; Raj, Bristol, visit from 13:20 to 14:20, ; Bristol Seafood Restaurant, Bristol, visit from 19:00 to 20:15, "
+  }
+]

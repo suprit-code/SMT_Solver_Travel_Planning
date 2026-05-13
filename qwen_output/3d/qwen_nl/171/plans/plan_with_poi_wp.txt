@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Anchorage",
+    "transportation": "Flight Number: F2880624, from Seattle to Anchorage, Departure Time: 16:32, Arrival Time: 18:55",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Wild Scoops, Anchorage",
+    "attraction": "-",
+    "accommodation": "Spacious 1750sq 2 BR with sauna, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "Spacious 1750sq 2 BR with sauna, stay from 19:25 to 19:55, nearest transit: WISCONSIN & BALCHEN SSW, 578.98m away; Wild Scoops, Anchorage, visit from 20:45 to 23:05, ; Spacious 1750sq 2 BR with sauna, stay from 23:35 to 07:35, nearest transit: WISCONSIN & BALCHEN SSW, 578.98m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Anchorage",
+    "transportation": "-",
+    "breakfast": "Anchorage Tavern & Restaurant, Anchorage",
+    "lunch": "Orso, Anchorage",
+    "dinner": "Jens' Restaurant, Anchorage",
+    "attraction": "Tony Knowles Coastal Trail, Anchorage",
+    "accommodation": "Spacious 1750sq 2 BR with sauna, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "Spacious 1750sq 2 BR with sauna, stay from 08:05 to 08:35, nearest transit: WISCONSIN & BALCHEN SSW, 578.98m away; Anchorage Tavern & Restaurant, Anchorage, visit from 09:05 to 09:59, ; Orso, Anchorage, visit from 14:00 to 15:00, ; Tony Knowles Coastal Trail, Anchorage, visit from 15:30 to 19:00, ; Jens' Restaurant, Anchorage, visit from 19:30 to 20:45, ; Spacious 1750sq 2 BR with sauna, stay from 23:12 to 07:12, nearest transit: WISCONSIN & BALCHEN SSW, 578.98m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Anchorage to Seattle",
+    "transportation": "Flight Number: F1288269, from Anchorage to Seattle, Departure Time: 14:02, Arrival Time: 18:33",
+    "breakfast": "Kaladi Brothers Coffee, Anchorage",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Earthquake Park, Anchorage",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Spacious 1750sq 2 BR with sauna, stay from 07:42 to 08:12, nearest transit: WISCONSIN & BALCHEN SSW, 578.98m away; Kaladi Brothers Coffee, Anchorage, visit from 08:42 to 09:32, ; Earthquake Park, Anchorage, visit from 10:02 to 13:32, "
+  }
+]

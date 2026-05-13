@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Key West",
+    "transportation": "Flight Number: F3476719, from Houston to Key West, Departure Time: 10:49, Arrival Time: 14:30",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Waterfront Brewery, Key West",
+    "attraction": "-",
+    "accommodation": "Hidden Beach unit 1 The Perfect Place to stay, Key West",
+    "event": "-",
+    "point_of_interest_list": "Hidden Beach unit 1 The Perfect Place to stay, stay from 15:00 to 15:30, nearest transit: South & Simonton, 238.65m away; Waterfront Brewery, Key West, visit from 19:00 to 20:15, ; Hidden Beach unit 1 The Perfect Place to stay, stay from 20:45 to 07:16, nearest transit: South & Simonton, 238.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Key West",
+    "transportation": "-",
+    "breakfast": "Seaside Cafe at the Mansion, Key West",
+    "lunch": "Prime Steakhouse, Key West",
+    "dinner": "Harpoon Harry's, Key West",
+    "attraction": "Fort Zachary Taylor Historic State Park, Key West",
+    "accommodation": "Hidden Beach unit 1 The Perfect Place to stay, Key West",
+    "event": "-",
+    "point_of_interest_list": "Hidden Beach unit 1 The Perfect Place to stay, stay from 07:46 to 08:16, nearest transit: South & Simonton, 238.65m away; Seaside Cafe at the Mansion, Key West, visit from 08:46 to 09:59, ; Prime Steakhouse, Key West, visit from 14:00 to 15:00, ; Fort Zachary Taylor Historic State Park, Key West, visit from 15:30 to 19:15, ; Harpoon Harry's, Key West, visit from 19:45 to 21:00, ; Hidden Beach unit 1 The Perfect Place to stay, stay from 21:30 to 05:30, nearest transit: South & Simonton, 238.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Key West to Houston",
+    "transportation": "Flight Number: F0987158, from Key West to Houston, Departure Time: 16:45, Arrival Time: 19:01",
+    "breakfast": "The Breakfast Club, Too, Key West",
+    "lunch": "The Lobster Shack Key West, Key West",
+    "dinner": "-",
+    "attraction": "Florida Keys Eco-Discovery Center, Key West",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hidden Beach unit 1 The Perfect Place to stay, stay from 06:00 to 06:30, nearest transit: South & Simonton, 238.65m away; The Breakfast Club, Too, Key West, visit from 08:00 to 08:50, ; Florida Keys Eco-Discovery Center, Key West, visit from 09:20 to 14:00, ; The Lobster Shack Key West, Key West, visit from 14:30 to 15:30, "
+  }
+]

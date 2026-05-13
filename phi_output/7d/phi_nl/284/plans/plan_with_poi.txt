@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Valparaiso to Greensboro",
+    "transportation": "Taxi from Valparaiso to Greensboro, duration: 798.6066666666667, distance: 1108.9996, cost : 1108.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Newly Renovated Modern Ranch Home, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Modern Ranch Home, stay from 21:17 to 21:47, nearest transit: Battleground/Brassfield, 1904.78m away; Newly Renovated Modern Ranch Home, stay from 22:17 to 06:17, nearest transit: Battleground/Brassfield, 1904.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "B. Christopher's, Greensboro",
+    "lunch": "Mimi's Cafe, Greensboro",
+    "dinner": "Golden Wok, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "Newly Renovated Modern Ranch Home, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Modern Ranch Home, stay from 06:47 to 07:17, nearest transit: Battleground/Brassfield, 1904.78m away; B. Christopher's, Greensboro, visit from 09:10 to 10:00, ; Carolina Theatre, Greensboro, visit from 10:30 to 14:00, ; Mimi's Cafe, Greensboro, visit from 14:30 to 15:30, ; Golden Wok, Greensboro, visit from 19:31 to 20:46, ; Newly Renovated Modern Ranch Home, stay from 22:57 to 06:57, nearest transit: Battleground/Brassfield, 1904.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Undercurrent Restaurant, Greensboro",
+    "lunch": "MJ's Steak and Seafood, Greensboro",
+    "dinner": "Winnie's Tavern, Wilmington",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Davy Jones' Treehouse Treasure Hunt w/ Inlet View, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Modern Ranch Home, stay from 07:27 to 07:57, nearest transit: Battleground/Brassfield, 1904.78m away; Undercurrent Restaurant, Greensboro, visit from 08:27 to 09:17, ; International Civil Rights Center & Museum, Greensboro, visit from 09:47 to 13:17, ; MJ's Steak and Seafood, Greensboro, visit from 13:47 to 14:47, ; Davy Jones' Treehouse Treasure Hunt w/ Inlet View, stay from 19:45 to 20:15, nearest transit: Oleander Dr EB at Engelwood Dr, 2230.99m away; Winnie's Tavern, Wilmington, visit from 20:45 to 22:11, ; Davy Jones' Treehouse Treasure Hunt w/ Inlet View, stay from 22:41 to 06:41, nearest transit: Oleander Dr EB at Engelwood Dr, 2230.99m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Catch, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "Roko Italian Cuisine, Wilmington",
+    "attraction": "-",
+    "accommodation": "Davy Jones' Treehouse Treasure Hunt w/ Inlet View, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Davy Jones' Treehouse Treasure Hunt w/ Inlet View, stay from 07:11 to 07:41, nearest transit: Oleander Dr EB at Engelwood Dr, 2230.99m away; Catch, Wilmington, visit from 08:11 to 09:01, ; Flaming Amy's Burrito Barn, Wilmington, visit from 14:30 to 15:30, ; Roko Italian Cuisine, Wilmington, visit from 20:45 to 22:00, ; Davy Jones' Treehouse Treasure Hunt w/ Inlet View, stay from 22:30 to 06:30, nearest transit: Oleander Dr EB at Engelwood Dr, 2230.99m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F3786884, from Wilmington to Charlotte, Departure Time: 16:05, Arrival Time: 17:02",
+    "breakfast": "The Anchor, Wilmington",
+    "lunch": "Caprice Bistro, Wilmington",
+    "dinner": "Charlotte & Fritz, Charlotte",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Walk to Light Rail from a Roomy Basement Apartment, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Davy Jones' Treehouse Treasure Hunt w/ Inlet View, stay from 07:00 to 07:30, nearest transit: Oleander Dr EB at Engelwood Dr, 2230.99m away; The Anchor, Wilmington, visit from 09:10 to 10:00, ; Burgwin-Wright House and Gardens, Wilmington, visit from 10:30 to 14:00, ; Caprice Bistro, Wilmington, visit from 14:30 to 15:35, ; Walk to Light Rail from a Roomy Basement Apartment, stay from 17:32 to 18:02, nearest transit: Scaleybark Station Bus Bay, 563.2m away; Charlotte & Fritz, Charlotte, visit from 19:45 to 21:00, ; Walk to Light Rail from a Roomy Basement Apartment, stay from 21:30 to 05:30, nearest transit: Scaleybark Station Bus Bay, 563.2m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "lunch": "Charlotte's Tavern, Charlotte",
+    "dinner": "Mac's Speed Shop, Charlotte",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "Walk to Light Rail from a Roomy Basement Apartment, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Walk to Light Rail from a Roomy Basement Apartment, stay from 06:00 to 06:30, nearest transit: Scaleybark Station Bus Bay, 563.2m away; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 09:10 to 10:00, ; Mint Museum Uptown, Charlotte, visit from 10:30 to 14:00, ; Charlotte's Tavern, Charlotte, visit from 14:30 to 15:30, ; Mac's Speed Shop, Charlotte, visit from 20:45 to 22:00, ; Walk to Light Rail from a Roomy Basement Apartment, stay from 22:30 to 07:30, nearest transit: Scaleybark Station Bus Bay, 563.2m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Valparaiso",
+    "transportation": "Taxi from Charlotte to Valparaiso, duration: 836.4466666666667, distance: 1151.8786, cost : 1151.0",
+    "breakfast": "-",
+    "lunch": "The Charlotte Hotel & Restaurant, Charlotte",
+    "dinner": "Pinky's Westside Grill, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Walk to Light Rail from a Roomy Basement Apartment, stay from 08:00 to 08:30, nearest transit: Scaleybark Station Bus Bay, 563.2m away; Truist Field, Charlotte, visit from 09:00 to 13:29, ; The Charlotte Hotel & Restaurant, Charlotte, visit from 13:59 to 14:59, ; Pinky's Westside Grill, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

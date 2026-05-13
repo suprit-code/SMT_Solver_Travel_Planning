@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Birmingham to Detroit",
+    "transportation": "Flight Number: F0508126, from Birmingham to Detroit, Departure Time: 07:03, Arrival Time: 10:15",
+    "breakfast": "-",
+    "lunch": "Honest John's Bar & Grill - Selden St., Detroit",
+    "dinner": "Green Dot Stables, Detroit",
+    "attraction": "Comerica Park, Detroit",
+    "accommodation": "Luxury Comfy Gem Downtown Det, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Luxury Comfy Gem Downtown Det, stay from 10:45 to 11:15, nearest transit: Grand Blvd, 192.56m away; Honest John's Bar & Grill - Selden St., Detroit, visit from 12:00 to 13:00, ; Comerica Park, Detroit, visit from 13:30 to 18:30, ; Green Dot Stables, Detroit, visit from 19:00 to 20:15, ; Luxury Comfy Gem Downtown Det, stay from 20:45 to 04:45, nearest transit: Grand Blvd, 192.56m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Detroit",
+    "transportation": "-",
+    "breakfast": "Taqueria Mi Pueblo, Detroit",
+    "lunch": "The Brooklyn Street Local, Detroit",
+    "dinner": "Grey Ghost Detroit, Detroit",
+    "attraction": "Detroit Institute of Arts, Detroit",
+    "accommodation": "Luxury Comfy Gem Downtown Det, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Luxury Comfy Gem Downtown Det, stay from 06:00 to 06:30, nearest transit: Grand Blvd, 192.56m away; Taqueria Mi Pueblo, Detroit, visit from 09:10 to 10:00, ; Detroit Institute of Arts, Detroit, visit from 10:30 to 14:00, ; The Brooklyn Street Local, Detroit, visit from 14:30 to 15:30, ; Grey Ghost Detroit, Detroit, visit from 20:45 to 22:57, ; Luxury Comfy Gem Downtown Det, stay from 23:27 to 07:27, nearest transit: Grand Blvd, 192.56m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Detroit to Birmingham",
+    "transportation": "Flight Number: F1123078, from Detroit to Birmingham, Departure Time: 10:17, Arrival Time: 11:09",
+    "breakfast": "San Morello, Detroit",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Luxury Comfy Gem Downtown Det, stay from 07:57 to 08:27, nearest transit: Grand Blvd, 192.56m away; San Morello, Detroit, visit from 08:57 to 09:47, "
+  }
+]

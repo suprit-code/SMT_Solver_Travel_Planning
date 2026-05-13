@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to Seattle",
+    "transportation": "Flight Number: F3860013, from El Paso to Seattle, Departure Time: 21:06, Arrival Time: 00:06",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 00:36 to 01:06, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Ballard Greenwood Private Suite, stay from 01:36 to 08:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Bacco Cafe, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "Can Can Culinary Cabaret, Seattle",
+    "attraction": "-",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:30 to 09:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Bacco Cafe, Seattle, visit from 09:39 to 10:29, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 14:30 to 16:44, ; Can Can Culinary Cabaret, Seattle, visit from 20:45 to 22:00, ; Ballard Greenwood Private Suite, stay from 22:30 to 06:30, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to El Paso",
+    "transportation": "Flight Number: F3860425, from Seattle to El Paso, Departure Time: 13:53, Arrival Time: 18:02",
+    "breakfast": "The Pike Pub and Brewery, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 07:33 to 08:03, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; The Pike Pub and Brewery, Seattle, visit from 08:33 to 09:23, ; Hiram M. Chittenden Locks, Seattle, visit from 09:53 to 13:23, "
+  }
+]

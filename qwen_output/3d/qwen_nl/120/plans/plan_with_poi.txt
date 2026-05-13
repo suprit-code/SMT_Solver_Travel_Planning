@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Spokane to Boise",
+    "transportation": "Self-driving from Spokane to Boise, duration: 468.525, distance: 678.2546, cost : 33.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Charming and Convenient, Boise",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 14:18 to 15:00, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Charming and Convenient, stay from 20:45 to 04:45, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Boise",
+    "transportation": "-",
+    "breakfast": "Flying M Coffee House, Boise",
+    "lunch": "Chiang Mai House Thai, Boise",
+    "dinner": "Guido's Original New York Style Pizza Downtown, Boise",
+    "attraction": "Boise River Greenbelt, Boise",
+    "accommodation": "Charming and Convenient, Boise",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 06:00 to 06:30, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Flying M Coffee House, Boise, visit from 09:10 to 10:00, ; Boise River Greenbelt, Boise, visit from 10:30 to 14:00, ; Chiang Mai House Thai, Boise, visit from 14:30 to 15:30, ; Guido's Original New York Style Pizza Downtown, Boise, visit from 20:45 to 23:09, ; Charming and Convenient, stay from 23:39 to 07:39, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Boise to Spokane",
+    "transportation": "Self-driving from Boise to Spokane, duration: 468.455, distance: 685.3743000000001, cost : 34.0",
+    "breakfast": "Westside Drive In, Boise",
+    "lunch": "Boise Fry Company, Boise",
+    "dinner": "Thai Cuisine, Boise",
+    "attraction": "Freak Alley Gallery, Boise",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 08:09 to 08:39, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Westside Drive In, Boise, visit from 09:09 to 09:59, ; Boise Fry Company, Boise, visit from 14:00 to 15:00, ; Freak Alley Gallery, Boise, visit from 15:30 to 19:00, ; Thai Cuisine, Boise, visit from 19:30 to 20:45, "
+  }
+]

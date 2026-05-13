@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to San Diego",
+    "transportation": "Flight Number: F4023983, from Las Vegas to San Diego, Departure Time: 16:47, Arrival Time: 17:41",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "World Famous, San Diego",
+    "attraction": "-",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 18:11 to 20:15, nearest transit: 30th St & Dwight St, 532.03m away; World Famous, San Diego, visit from 20:45 to 22:02, ; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 22:32 to 06:32, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Barbusa, San Diego",
+    "lunch": "Lou & Mickey's, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 07:02 to 07:32, nearest transit: 30th St & Dwight St, 532.03m away; Barbusa, San Diego, visit from 08:02 to 08:52, ; Lou & Mickey's, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 19:15, ; Pacific Beach AleHouse, San Diego, visit from 19:45 to 21:00, ; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 21:30 to 05:30, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F2670689, from San Diego to Sacramento, Departure Time: 20:01, Arrival Time: 21:28",
+    "breakfast": "-",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 06:00 to 09:00, nearest transit: 30th St & Dwight St, 532.03m away; Cabrillo National Monument, San Diego, visit from 10:30 to 14:00, ; Mimmo's, San Diego, visit from 14:30 to 15:30, ; Private Guest Bed 'N Bath near Downtown, stay from 21:58 to 22:28, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Private Guest Bed 'N Bath near Downtown, stay from 22:58 to 06:58, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Bangkok @12 Thai Restaurant, Sacramento",
+    "lunch": "Tower Cafe, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 07:28 to 08:25, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Bangkok @12 Thai Restaurant, Sacramento, visit from 08:55 to 09:45, ; Tower Cafe, Sacramento, visit from 13:46 to 14:46, ; Capitol Park, Sacramento, visit from 15:16 to 18:46, ; Grange Restaurant & Bar, Sacramento, visit from 19:16 to 20:31, ; Private Guest Bed 'N Bath near Downtown, stay from 21:01 to 05:01, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Las Vegas",
+    "transportation": "Flight Number: F3566498, from Sacramento to Las Vegas, Departure Time: 16:50, Arrival Time: 18:37",
+    "breakfast": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "lunch": "Paesano's Pizzeria, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Kru Contemporary Japanese Cuisine, Sacramento, visit from 08:00 to 08:50, ; California State Capitol Museum, Sacramento, visit from 09:20 to 14:00, ; Paesano's Pizzeria, Sacramento, visit from 14:30 to 15:30, "
+  }
+]

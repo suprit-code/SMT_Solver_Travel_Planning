@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to San Luis Obispo",
+    "transportation": "Flight Number: F0402404, from Dallas to San Luis Obispo, Departure Time: 10:46, Arrival Time: 13:01",
+    "breakfast": "-",
+    "lunch": "Nate's On Marsh, San Luis Obispo",
+    "dinner": "High Street Market & Deli, San Luis Obispo",
+    "attraction": "Mission San Luis Obispo de Tolosa, San Luis Obispo",
+    "accommodation": "Harris House, San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "Harris House, stay from 13:26 to 13:46, nearest transit: Higuera & South, 520.23m away; Nate's On Marsh, visit from 14:11 to 14:51, nearest transit: Marsh & Broad, 378.58m away; Mission San Luis Obispo de Tolosa, visit from 15:16 to 17:16, nearest transit: Marsh & Broad, 306.47m away; High Street Market & Deli, visit from 19:00 to 19:40, nearest transit: Higuera & South, 549.80m away; Harris House, stay from 20:05 to 08:00, nearest transit: Higuera & South, 520.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Luis Obispo",
+    "transportation": "-",
+    "breakfast": "Taco King, San Luis Obispo",
+    "lunch": "Lure Fish House, San Luis Obispo",
+    "dinner": "Ox + Anchor, San Luis Obispo",
+    "attraction": "Bubblegum Alley, San Luis Obispo",
+    "accommodation": "Harris House, San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "Harris House, stay from 08:00 to 08:30, nearest transit: Higuera & South, 520.23m away; Taco King, visit from 08:55 to 09:35, nearest transit: Higuera & South, 166.07m away; Bubblegum Alley, visit from 10:00 to 12:00, nearest transit: Marsh & Broad, 136.91m away; Lure Fish House, visit from 13:35 to 14:15, nearest transit: Santa Rosa & Higuera, 83.37m away; Ox + Anchor, visit from 19:00 to 19:40, nearest transit: Government Center, 167.54m away; Harris House, stay from 20:05 to 08:00, nearest transit: Higuera & South, 520.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Luis Obispo to Dallas",
+    "transportation": "Flight Number: F1376911, from San Luis Obispo to Dallas, Departure Time: 12:34, Arrival Time: 18:07",
+    "breakfast": "Alex Madonna's Gold Rush Steak House, San Luis Obispo",
+    "lunch": "Louisa's Place Restaurant, San Luis Obispo",
+    "dinner": "-",
+    "attraction": "San Luis Obispo botanical garden, San Luis Obispo",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Harris House, stay from 08:00 to 08:10, nearest transit: Higuera & South, 520.23m away; Alex Madonna's Gold Rush Steak House, visit from 08:35 to 08:48, nearest transit: Higuera & South, 537.81m away; San Luis Obispo botanical garden, visit from 09:13 to 11:13, nearest transit: Cuesta College, 1230.74m away; Louisa's Place Restaurant, visit from 11:56 to 12:09, nearest transit: Government Center, 205.54m away"
+  }
+]

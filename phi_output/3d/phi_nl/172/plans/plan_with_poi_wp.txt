@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Monterey",
+    "transportation": "Flight Number: F1371498, from Dallas to Monterey, Departure Time: 16:31, Arrival Time: 17:51",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Monterey's Pizza, Monterey",
+    "attraction": "-",
+    "accommodation": "Sallie’s Cottage, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Sallie’s Cottage, stay from 18:21 to 18:51, nearest transit: Lighthouse / 19th, 149.42m away; Monterey's Pizza, Monterey, visit from 19:21 to 20:36, ; Sallie’s Cottage, stay from 21:06 to 05:06, nearest transit: Lighthouse / 19th, 149.42m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Monterey",
+    "transportation": "-",
+    "breakfast": "Monterey Bay Fish Grotto, Monterey",
+    "lunch": "Monterey Jack's Perth, Monterey",
+    "dinner": "C restaurant + bar, Monterey",
+    "attraction": "Dennis the Menace Park, Monterey",
+    "accommodation": "Sallie’s Cottage, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Sallie’s Cottage, stay from 06:00 to 06:30, nearest transit: Lighthouse / 19th, 149.42m away; Monterey Bay Fish Grotto, Monterey, visit from 08:03 to 08:53, ; Monterey Jack's Perth, Monterey, visit from 12:54 to 13:54, ; Dennis the Menace Park, Monterey, visit from 15:30 to 19:00, ; C restaurant + bar, Monterey, visit from 19:30 to 20:45, ; Sallie’s Cottage, stay from 21:15 to 05:15, nearest transit: Lighthouse / 19th, 149.42m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Monterey to Dallas",
+    "transportation": "Flight Number: F0400894, from Monterey to Dallas, Departure Time: 13:52, Arrival Time: 18:59",
+    "breakfast": "Chart House, Monterey",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "17-Mile Drive, Monterey",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sallie’s Cottage, stay from 06:00 to 06:30, nearest transit: Lighthouse / 19th, 149.42m away; Chart House, Monterey, visit from 08:00 to 08:50, ; 17-Mile Drive, Monterey, visit from 09:20 to 12:50, "
+  }
+]

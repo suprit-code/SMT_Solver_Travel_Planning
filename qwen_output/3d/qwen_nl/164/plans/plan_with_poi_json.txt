@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Antonio",
+    "transportation": "Flight Number: F1372422, from Miami to San Antonio, Departure Time: 13:47, Arrival Time: 16:10",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Sichuan House, San Antonio",
+    "attraction": "San Antonio Zoo, San Antonio",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Pinkerton's Barbecue, San Antonio",
+    "lunch": "Biga on the Banks, San Antonio",
+    "dinner": "Domingo Restaurant, San Antonio",
+    "attraction": "Pearl Brewery, San Antonio",
+    "accommodation": "Couples getaway kink dungeon, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 08:00 to 08:30, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; Pinkerton's Barbecue, visit from 08:55 to 09:35, nearest transit: FLORES & HOUSTON, 60.01m away; Pearl Brewery, visit from 10:00 to 12:00, nearest transit: JOSEPHINE & ISLETA, 335.74m away; Biga on the Banks, visit from 13:35 to 14:15, nearest transit: ST MARYS BET. MARKET & VILLITA, 27.33m away; Domingo Restaurant, visit from 19:00 to 19:40, nearest transit: ST. MARY'S & COMMERCE, 28.70m away; Couples getaway kink dungeon, stay from 20:05 to 08:00, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Antonio to Miami",
+    "transportation": "Flight Number: F2584235, from San Antonio to Miami, Departure Time: 17:50, Arrival Time: 21:42",
+    "breakfast": "The Guenther House, San Antonio",
+    "lunch": "Perry's Steakhouse & Grille- San Antonio, San Antonio",
+    "dinner": "Schilo's, San Antonio",
+    "attraction": "Historic Market Square, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Couples getaway kink dungeon, stay from 08:00 to 08:10, nearest transit: ABE LINCOLN & OXFORD TRACE, 361.31m away; The Guenther House, visit from 08:35 to 08:48, nearest transit: S. ALAMO AT THE SAN ANTONIO RIVER, 131.98m away; Historic Market Square, visit from 09:13 to 11:13, nearest transit: Dolorosa Between San Saba & Santa Rosa, 133.44m away; Perry's Steakhouse & Grille- San Antonio, visit from 12:48 to 13:12, nearest transit: LOOP 1604 W ACCESS/ENTR. LA CANTERA, 402.57m away; Schilo's, visit from 17:12 to 17:25, nearest transit: COMMERCE & PRESA, 72.30m away"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Lynchburg to Greensboro",
+    "transportation": "Taxi from Lynchburg to Greensboro, duration: 143.46166666666667, distance: 183.1366, cost : 183.0",
+    "breakfast": "-",
+    "lunch": "Golden Wok, Greensboro",
+    "dinner": "Carolina's Diner, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 08:53 to 09:23, nearest transit: Elm/Fisher (OB), 111.24m away; International Civil Rights Center & Museum, Greensboro, visit from 09:53 to 14:00, ; Golden Wok, Greensboro, visit from 14:30 to 16:44, ; Carolina's Diner, Greensboro, visit from 20:45 to 22:37, ; Leftwich St APT 2, stay from 23:07 to 07:07, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Mythos Grill, Greensboro",
+    "lunch": "Dear Dad's, Greensboro",
+    "dinner": "Sarah's Kabob Shop, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 07:37 to 08:07, nearest transit: Elm/Fisher (OB), 111.24m away; Mythos Grill, Greensboro, visit from 08:37 to 09:59, ; Dear Dad's, Greensboro, visit from 14:00 to 15:00, ; Ambleside Gallery, Greensboro, visit from 15:30 to 19:15, ; Sarah's Kabob Shop, Greensboro, visit from 19:45 to 21:00, ; Leftwich St APT 2, stay from 21:30 to 05:30, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Stamey's Barbecue, Greensboro",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 06:00 to 08:02, nearest transit: Elm/Fisher (OB), 111.24m away; Stamey's Barbecue, Greensboro, visit from 08:42 to 09:32, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 14:30 to 15:00, nearest transit: Market St WB at 12th St, 326.9m away; Burgwin-Wright House and Gardens, Wilmington, visit from 15:30 to 19:00, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 22:30 to 06:30, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "The Anchor, Wilmington",
+    "lunch": "Winnie's Tavern, Wilmington",
+    "dinner": "Fish Bites Seafood, Wilmington",
+    "attraction": "-",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 07:00 to 07:30, nearest transit: Market St WB at 12th St, 326.9m away; The Anchor, Wilmington, visit from 09:06 to 09:56, ; Winnie's Tavern, Wilmington, visit from 14:26 to 15:26, ; Fish Bites Seafood, Wilmington, visit from 19:27 to 20:42, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 21:12 to 05:12, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Lynchburg",
+    "transportation": "Taxi from Wilmington to Lynchburg, duration: 337.39666666666665, distance: 448.5329, cost : 448.0",
+    "breakfast": "Circa 1922, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 06:00 to 06:30, nearest transit: Market St WB at 12th St, 326.9m away; Circa 1922, Wilmington, visit from 08:00 to 08:50, ; Flaming Amy's Burrito Barn, Wilmington, visit from 12:51 to 13:51, ; Battleship North Carolina, Wilmington, visit from 14:21 to 17:51, ; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 19:00 to 20:15, "
+  }
+]

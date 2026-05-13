@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Las Vegas",
+    "transportation": "Flight Number: F2155164, from Kansas City to Las Vegas, Departure Time: 15:49, Arrival Time: 16:50",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Triple George Grill, Las Vegas",
+    "attraction": "Fashion Show Las Vegas, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Mr. Mamas, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Garden Court, Las Vegas",
+    "attraction": "The Grand Canal Shoppes at The Venetian Resort, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Mr. Mamas, visit from 09:00 to 09:40, nearest transit: The Strat, 9224.85m away; The Grand Canal Shoppes at The Venetian Resort, visit from 10:10 to 12:10, nearest transit: The Strat, 2980.91m away; Eggscellent, visit from 13:40 to 14:20, nearest transit: The Strat, 4208.46m away; Garden Court, visit from 19:00 to 19:40, nearest transit: Circa, 185.80m away; Gamble Adventure | Restaurant. Outside Pool, stay from 23:00 to 08:00, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Kansas City",
+    "transportation": "Flight Number: F0644422, from Las Vegas to Kansas City, Departure Time: 17:13, Arrival Time: 21:44",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "Eggslut, Las Vegas",
+    "dinner": "-",
+    "attraction": "Las Vegas North Premium Outlets, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Ameribrunch Cafe, visit from 09:00 to 09:40, nearest transit: Fremont East Entertainment District, 393.75m away; Las Vegas North Premium Outlets, visit from 10:10 to 12:10, nearest transit: Las Vegas North Premium Outlets, 74.04m away; Eggslut, visit from 13:40 to 14:20, nearest transit: The Strat, 4473.66m away"
+  }
+]

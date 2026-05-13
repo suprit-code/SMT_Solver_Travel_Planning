@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Valparaiso to Greensboro",
+    "transportation": "Taxi from Valparaiso to Greensboro, duration: 798.6066666666667, distance: 1108.9996, cost : 1108.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 21:17 to 21:47, nearest transit: Glendale/Randleman Rd., 155.05m away; A little Southern Hospitality, stay from 22:17 to 06:17, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Dear Dad's, Greensboro",
+    "lunch": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "dinner": "MJ's Steak and Seafood, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 06:47 to 07:17, nearest transit: Glendale/Randleman Rd., 155.05m away; Dear Dad's, Greensboro, visit from 09:10 to 10:00, ; Carolina Theatre, Greensboro, visit from 10:30 to 14:00, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 14:30 to 15:30, ; MJ's Steak and Seafood, Greensboro, visit from 20:45 to 22:00, ; A little Southern Hospitality, stay from 22:57 to 06:57, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Stamey's Barbecue, Greensboro",
+    "lunch": "Print Works Bistro, Greensboro",
+    "dinner": "-",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "The Retro Room- Private Suite with bathroom, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:27 to 07:57, nearest transit: Glendale/Randleman Rd., 155.05m away; Stamey's Barbecue, Greensboro, visit from 08:27 to 09:17, ; Ambleside Gallery, Greensboro, visit from 09:47 to 13:17, ; Print Works Bistro, Greensboro, visit from 13:47 to 14:47, ; The Retro Room- Private Suite with bathroom, stay from 19:45 to 20:15, nearest transit: Market St WB at 12th St, 153.0m away; The Retro Room- Private Suite with bathroom, stay from 23:27 to 07:27, nearest transit: Market St WB at 12th St, 153.0m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Banks' Seafood Kitchen, Wilmington",
+    "lunch": "Caprice Bistro, Wilmington",
+    "dinner": "Catch, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "The Retro Room- Private Suite with bathroom, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Retro Room- Private Suite with bathroom, stay from 07:57 to 08:27, nearest transit: Market St WB at 12th St, 153.0m away; Banks' Seafood Kitchen, Wilmington, visit from 08:57 to 09:47, ; Burgwin-Wright House and Gardens, Wilmington, visit from 10:17 to 13:47, ; Caprice Bistro, Wilmington, visit from 14:30 to 15:30, ; Catch, Wilmington, visit from 19:31 to 20:46, ; The Retro Room- Private Suite with bathroom, stay from 21:16 to 05:16, nearest transit: Market St WB at 12th St, 153.0m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F0953797, from Wilmington to Charlotte, Departure Time: 10:40, Arrival Time: 11:38",
+    "breakfast": "Winnie's Tavern, Wilmington",
+    "lunch": "The Terrace at The Charlotte Inn, Charlotte",
+    "dinner": "Gaucho Charlotte Street, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The Retro Room- Private Suite with bathroom, stay from 06:00 to 06:30, nearest transit: Market St WB at 12th St, 153.0m away; Winnie's Tavern, Wilmington, visit from 08:00 to 09:07, ; Comfy private bed and bath, stay from 12:08 to 12:38, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; The Terrace at The Charlotte Inn, Charlotte, visit from 13:08 to 14:08, ; Discovery Place Science, Charlotte, visit from 15:00 to 18:30, ; Gaucho Charlotte Street, Charlotte, visit from 19:00 to 20:15, ; Comfy private bed and bath, stay from 20:45 to 04:45, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte & Fritz, Charlotte",
+    "lunch": "ROKA Charlotte Street, Charlotte",
+    "dinner": "Charlotte’s Kitchen, Charlotte",
+    "attraction": "Belk Theater at Blumenthal Performing Arts Center, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 06:00 to 06:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Charlotte & Fritz, Charlotte, visit from 08:05 to 08:55, ; Belk Theater at Blumenthal Performing Arts Center, Charlotte, visit from 09:25 to 14:00, ; ROKA Charlotte Street, Charlotte, visit from 14:30 to 15:30, ; Charlotte’s Kitchen, Charlotte, visit from 19:31 to 20:46, ; Comfy private bed and bath, stay from 21:16 to 05:16, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Valparaiso",
+    "transportation": "Flight Number: F0184233, from Charlotte to Valparaiso, Departure Time: 13:10, Arrival Time: 14:01",
+    "breakfast": "Charlotte Quay Restaurant, Charlotte",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 08:30 to 09:00, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Charlotte Quay Restaurant, Charlotte, visit from 09:30 to 10:20, "
+  }
+]

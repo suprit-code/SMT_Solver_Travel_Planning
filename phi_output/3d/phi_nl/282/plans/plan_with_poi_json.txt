@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Newburgh to Savannah",
+    "transportation": "Self-driving, from Newburgh to Savannah, duration: 993.655, distance: 1386.7442, cost: 69",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Luxe Townhome in Historic Downtown Savannah, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Luxe Townhome in Historic Downtown Savannah, stay from 08:00 to 08:30, nearest transit: PRICE & LIBERTY SB, 56.93m away; Luxe Townhome in Historic Downtown Savannah, stay from 23:00 to 08:00, nearest transit: PRICE & LIBERTY SB, 56.93m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Planters Tavern, Savannah",
+    "lunch": "Noble Fare, Savannah",
+    "dinner": "Huey's On The River, Savannah",
+    "attraction": "SCADstory, Savannah",
+    "accommodation": "Luxe Townhome in Historic Downtown Savannah, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Luxe Townhome in Historic Downtown Savannah, stay from 08:00 to 08:30, nearest transit: PRICE & LIBERTY SB, 56.93m away; Planters Tavern, visit from 09:00 to 09:40, nearest transit: CONGRESS & BULL, 147.90m away; SCADstory, visit from 10:10 to 12:10, nearest transit: DRAYTON & CHARLTON, 100.71m away; Noble Fare, visit from 13:40 to 14:20, nearest transit: LIBERTY & JEFFERSON, 120.34m away; Huey's On The River, visit from 19:00 to 19:40, nearest transit: CONGRESS & BULL, 254.45m away; Luxe Townhome in Historic Downtown Savannah, stay from 23:00 to 08:00, nearest transit: PRICE & LIBERTY SB, 56.93m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Newburgh",
+    "transportation": "Self-driving, from Savannah to Newburgh, duration: 989.985, distance: 1384.401, cost: 69",
+    "breakfast": "Goose Feathers Cafe & Bakery, Savannah",
+    "lunch": "Alligator Soul, Savannah",
+    "dinner": "Vinnie Van Go-Go's, Savannah",
+    "attraction": "Owens-Thomas House & Slave Quarters, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Luxe Townhome in Historic Downtown Savannah, stay from 08:00 to 08:30, nearest transit: PRICE & LIBERTY SB, 56.93m away; Goose Feathers Cafe & Bakery, visit from 09:00 to 09:40, nearest transit: CONGRESS & JEFFERSON, 51.14m away; Owens-Thomas House & Slave Quarters, visit from 10:10 to 12:10, nearest transit: OGLETHORPE & ABERCORN WB, 145.81m away; Alligator Soul, visit from 13:40 to 14:20, nearest transit: WHITAKER & BROUGHTON, 112.63m away; Vinnie Van Go-Go's, visit from 19:00 to 19:40, nearest transit: CONGRESS & JEFFERSON, 133.92m away"
+  }
+]

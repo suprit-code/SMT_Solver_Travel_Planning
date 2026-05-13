@@ -1,0 +1,6 @@
+Destination cities: ['Colorado Springs'],
+Transportation dates: ['2024-11-17', '2024-11-19'],
+Transportation methods between cities: ['Self-driving, from Las Vegas to Colorado Springs, duration: 844.2, distance: 1309.3198, cost: 65', 'Self-driving, from Colorado Springs to Las Vegas, duration: 842.7216666666667, distance: 1310.3347, cost: 65'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Front Range Barbeque, Colorado Springs', "Paravicini's Italian Bistro, Colorado Springs", 'Pizzeria Rustica, Colorado Springs', 'Restaurant 1858, Colorado Springs', 'Mountain Shadows Restaurant, Colorado Springs', 'The Great British Food Company, Colorado Springs'],
+Attractions (1 per day): ['-', 'Seven Falls, Colorado Springs', 'Garden of the Gods, Colorado Springs'],
+Accommodations (1 per city): ['Cozy Colo Springs Home near transportation routes, Colorado Springs']

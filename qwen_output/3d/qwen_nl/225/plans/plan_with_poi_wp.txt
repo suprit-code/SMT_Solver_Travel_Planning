@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Houston",
+    "transportation": "Flight Number: F2426090, from New York to Houston, Departure Time: 07:30, Arrival Time: 09:44",
+    "breakfast": "-",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Eddie V's Prime Seafood, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 10:14 to 11:30, nearest transit: Yale St @ Thornton Rd, 203.09m away; Brennan's of Houston, Houston, visit from 12:00 to 13:00, ; Downtown Aquarium, Houston, visit from 13:30 to 20:15, ; Eddie V's Prime Seafood, Houston, visit from 20:45 to 22:10, ; Modern Houston Heights Getaway, stay from 22:40 to 06:40, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 07:10 to 07:40, nearest transit: Yale St @ Thornton Rd, 203.09m away; Hugo's, Houston, visit from 08:10 to 09:00, ; Houston Restaurant, Houston, visit from 13:01 to 14:01, ; Hermann Park, Houston, visit from 14:31 to 18:30, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 19:00 to 20:15, ; Modern Houston Heights Getaway, stay from 20:45 to 05:30, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to New York",
+    "transportation": "Flight Number: F1685399, from Houston to New York, Departure Time: 16:19, Arrival Time: 20:55",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 06:00 to 06:30, nearest transit: Yale St @ Thornton Rd, 203.09m away; Pappas Bros. Steakhouse, Houston, visit from 08:00 to 08:50, ; Houston Zoo, Houston, visit from 09:20 to 14:00, ; Pappadeaux Seafood Kitchen, Houston, visit from 14:30 to 15:30, "
+  }
+]

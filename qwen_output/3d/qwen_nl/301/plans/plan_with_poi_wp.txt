@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F1175204, from Everett to San Diego, Departure Time: 09:16, Arrival Time: 12:14",
+    "breakfast": "-",
+    "lunch": "The Fishery, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 12:44 to 13:14, nearest transit: 30th St & Dwight St, 532.03m away; The Fishery, San Diego, visit from 13:44 to 15:00, ; San Diego Zoo, San Diego, visit from 15:30 to 20:15, ; Pacific Beach AleHouse, San Diego, visit from 20:45 to 22:03, ; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 22:33 to 06:33, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "Torrey Pines State Natural Reserve, San Diego",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 07:03 to 07:33, nearest transit: 30th St & Dwight St, 532.03m away; Born & Raised, San Diego, visit from 08:03 to 09:59, ; Cowboy Star, San Diego, visit from 14:00 to 15:00, ; Torrey Pines State Natural Reserve, San Diego, visit from 15:30 to 19:00, ; Juniper and Ivy, San Diego, visit from 19:30 to 20:45, ; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 21:15 to 05:15, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Everett",
+    "transportation": "Flight Number: F0509620, from San Diego to Everett, Departure Time: 15:16, Arrival Time: 18:20",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 06:00 to 06:30, nearest transit: 30th St & Dwight St, 532.03m away; Ruth's Chris Steak House, San Diego, visit from 08:00 to 08:50, ; La Jolla Shores Park, San Diego, visit from 09:20 to 12:50, ; Mimmo's, San Diego, visit from 13:20 to 14:20, "
+  }
+]

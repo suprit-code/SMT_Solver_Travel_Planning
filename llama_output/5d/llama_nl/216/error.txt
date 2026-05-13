@@ -1,0 +1,30 @@
+
+--- JOB 216 FAILED ---
+Error: Error tokenizing data. C error: Calling read(nbytes) on source failed. Try engine='python'.
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 2, in <module>
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/tools/cities/apis.py", line 31, in run
+    RestaurantSearch = Restaurants()
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/tools/restaurants/apis.py", line 12, in __init__
+    self.data = self.load_db()
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/tools/restaurants/apis.py", line 22, in load_db
+    df = pd.read_csv(self.path)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 583, in _read
+    return parser.read(nrows)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1704, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File "pandas/_libs/parsers.pyx", line 812, in pandas._libs.parsers.TextReader.read_low_memory
+  File "pandas/_libs/parsers.pyx", line 873, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas/_libs/parsers.pyx", line 848, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas/_libs/parsers.pyx", line 859, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File "pandas/_libs/parsers.pyx", line 2025, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Calling read(nbytes) on source failed. Try engine='python'.
+
+----------------------------------------

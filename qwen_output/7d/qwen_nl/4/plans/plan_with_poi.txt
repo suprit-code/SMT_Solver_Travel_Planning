@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Nashville",
+    "transportation": "Flight Number: F1629747, from Cleveland to Nashville, Departure Time: 06:25, Arrival Time: 06:50",
+    "breakfast": "Luogo, Nashville",
+    "lunch": "Old Hickory Steakhouse, Nashville",
+    "dinner": "The Standard, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 07:20 to 07:50, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Luogo, Nashville, visit from 08:20 to 09:10, ; Old Hickory Steakhouse, Nashville, visit from 13:11 to 14:11, ; Centennial Park, Nashville, visit from 15:00 to 18:30, ; The Standard, Nashville, visit from 19:00 to 20:15, ; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 20:45 to 04:45, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Gannons Nashville, Nashville",
+    "lunch": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "dinner": "The Chef And I, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 06:00 to 06:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Gannons Nashville, Nashville, visit from 08:13 to 09:03, ; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 13:04 to 14:04, ; Belmont Mansion, Nashville, visit from 14:34 to 18:04, ; The Chef And I, Nashville, visit from 19:00 to 20:15, ; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 20:45 to 04:45, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "lunch": "The Catbird Seat, Nashville",
+    "dinner": "-",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Hard Rock Cottage - 3 Bedrooms, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 06:00 to 06:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 08:00 to 08:50, ; Cheekwood, Nashville, visit from 10:30 to 14:00, ; The Catbird Seat, Nashville, visit from 14:30 to 16:21, ; Hard Rock Cottage - 3 Bedrooms, stay from 22:40 to 23:10, nearest transit: Euclid Ave @ Grace Medical, 655.29m away; Hard Rock Cottage - 3 Bedrooms, stay from 23:40 to 07:40, nearest transit: Euclid Ave @ Grace Medical, 655.29m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Bristol Seafood Grill, Bristol",
+    "lunch": "Bristol Seafood Restaurant, Bristol",
+    "dinner": "Bristol Seafood + Steak + Social, Bristol",
+    "attraction": "Cycle the City, Bristol",
+    "accommodation": "Hard Rock Cottage - 3 Bedrooms, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Hard Rock Cottage - 3 Bedrooms, stay from 08:10 to 08:40, nearest transit: Euclid Ave @ Grace Medical, 655.29m away; Bristol Seafood Grill, Bristol, visit from 09:10 to 10:00, ; Cycle the City, Bristol, visit from 10:30 to 14:00, ; Bristol Seafood Restaurant, Bristol, visit from 14:30 to 15:30, ; Bristol Seafood + Steak + Social, Bristol, visit from 19:45 to 21:00, ; Hard Rock Cottage - 3 Bedrooms, stay from 21:30 to 05:30, nearest transit: Euclid Ave @ Grace Medical, 655.29m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "-",
+    "lunch": "Bridgeman's Chophouse, Chattanooga",
+    "dinner": "Hennen's, Chattanooga",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "The Sassafras Treehouse, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Hard Rock Cottage - 3 Bedrooms, stay from 06:00 to 06:30, nearest transit: Euclid Ave @ Grace Medical, 655.29m away; The Sassafras Treehouse, stay from 11:39 to 12:09, nearest transit: ALABAMA + 56TH, 23937.87m away; Bridgeman's Chophouse, Chattanooga, visit from 14:00 to 15:00, ; Tennessee Valley Railroad Museum, Chattanooga, visit from 15:30 to 19:00, ; Hennen's, Chattanooga, visit from 19:30 to 22:09, ; The Sassafras Treehouse, stay from 22:39 to 06:39, nearest transit: ALABAMA + 56TH, 23937.87m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Easy Bistro & Bar, Chattanooga",
+    "lunch": "Alleia, Chattanooga",
+    "dinner": "Ruth's Chris Steak House, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "The Sassafras Treehouse, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "The Sassafras Treehouse, stay from 07:09 to 07:39, nearest transit: ALABAMA + 56TH, 23937.87m away; Easy Bistro & Bar, Chattanooga, visit from 08:09 to 08:59, ; Tennessee Aquarium, Chattanooga, visit from 09:29 to 14:00, ; Alleia, Chattanooga, visit from 14:30 to 15:30, ; Ruth's Chris Steak House, Chattanooga, visit from 19:31 to 20:46, ; The Sassafras Treehouse, stay from 22:30 to 06:30, nearest transit: ALABAMA + 56TH, 23937.87m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Cleveland",
+    "transportation": "Taxi from Chattanooga to Cleveland, duration: 679.58, distance: 943.5034, cost : 943.0",
+    "breakfast": "Zaya 1943 Korean Steakhouse, Chattanooga",
+    "lunch": "Whitebird, Chattanooga",
+    "dinner": "St. John's Restaurant, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Sassafras Treehouse, stay from 07:00 to 07:30, nearest transit: ALABAMA + 56TH, 23937.87m away; Zaya 1943 Korean Steakhouse, Chattanooga, visit from 08:00 to 08:50, ; Coolidge Park, Chattanooga, visit from 09:20 to 12:50, ; Whitebird, Chattanooga, visit from 13:20 to 14:59, ; St. John's Restaurant, Chattanooga, visit from 19:00 to 20:15, "
+  }
+]

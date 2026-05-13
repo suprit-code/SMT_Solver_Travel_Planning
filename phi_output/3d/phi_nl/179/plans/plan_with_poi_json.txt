@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Houston",
+    "transportation": "Flight Number: F3451692, from Boston to Houston, Departure Time: 05:27, Arrival Time: 08:46",
+    "breakfast": "-",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Hugo's, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Garage Apt & Patio Near Rail and FREE EGGS!, Houston",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 09:16 to 09:46, nearest transit: Irvington Blvd @ English, 356.07m away; Hermann Park, visit from 10:16 to 12:16, nearest transit: Cambridge St @ Ben Taub Loop, 355.64m away; Brennan's of Houston, visit from 12:46 to 13:26, nearest transit: Elgin St @ Smith St, 102.40m away; Hugo's, visit from 19:00 to 19:40, nearest transit: Westheimer Rd @ Mandell St, 26.11m away; Garage Apt & Patio Near Rail and FREE EGGS!, stay from 23:00 to 08:00, nearest transit: Irvington Blvd @ English, 356.07m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Uchi Houston, Houston",
+    "lunch": "Goode Company Seafood, Houston",
+    "dinner": "Taste of Texas, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Garage Apt & Patio Near Rail and FREE EGGS!, Houston",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 08:00 to 08:30, nearest transit: Irvington Blvd @ English, 356.07m away; Uchi Houston, visit from 09:00 to 09:40, nearest transit: Westheimer Rd @ Montrose Blvd, 31.07m away; Houston Zoo, visit from 10:10 to 12:10, nearest transit: Cambridge St @ Ben Taub Loop, 473.45m away; Goode Company Seafood, visit from 13:40 to 14:20, nearest transit: Westpark Dr @ Wakeforest St, 141.76m away; Taste of Texas, visit from 19:00 to 19:40, nearest transit: Katy Freeway @ Town And Country Way, 260.58m away; Garage Apt & Patio Near Rail and FREE EGGS!, stay from 23:00 to 08:00, nearest transit: Irvington Blvd @ English, 356.07m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Boston",
+    "transportation": "Flight Number: F2438325, from Houston to Boston, Departure Time: 16:51, Arrival Time: 21:25",
+    "breakfast": "Houstons Bar and Grill, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "-",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 08:00 to 08:30, nearest transit: Irvington Blvd @ English, 356.07m away; Houstons Bar and Grill, visit from 09:00 to 09:40, nearest transit: Conroe Park & Ride, 7360300.27m away; Downtown Aquarium, visit from 10:10 to 12:10, nearest transit: Preston St @ Bagby St, 75.65m away; Pappadeaux Seafood Kitchen, visit from 13:40 to 14:20, nearest transit: Bush IAH Terminal C, 295.38m away"
+  }
+]

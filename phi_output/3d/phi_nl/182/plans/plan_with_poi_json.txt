@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Green Bay to Atlanta",
+    "transportation": "Flight Number: F0889275, from Green Bay to Atlanta, Departure Time: 06:43, Arrival Time: 09:42",
+    "breakfast": "-",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "First-Class Flats | * From 1 to 10 Guests *, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "First-Class Flats | * From 1 to 10 Guests *, stay from 10:12 to 10:42, nearest transit: N DECATUR RD @ PARKDALE DR, 168.06m away; Atlanta History Center, visit from 11:12 to 13:12, nearest transit: PEACHTREE RD @ BUCKHEAD AVE NE, 610.21m away; Aviva by Kameel, visit from 13:42 to 14:22, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away; Home Grown, visit from 19:00 to 19:40, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; First-Class Flats | * From 1 to 10 Guests *, stay from 23:00 to 08:00, nearest transit: N DECATUR RD @ PARKDALE DR, 168.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "Max's Coal Oven Pizzeria, Atlanta",
+    "attraction": "National Center for Civil and Human Rights, Atlanta",
+    "accommodation": "First-Class Flats | * From 1 to 10 Guests *, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "First-Class Flats | * From 1 to 10 Guests *, stay from 08:00 to 08:30, nearest transit: N DECATUR RD @ PARKDALE DR, 168.06m away; Canoe, visit from 09:00 to 09:40, nearest transit: NORTHSIDE PKWY @ RIVER GREEN DR, 738.85m away; National Center for Civil and Human Rights, visit from 10:10 to 12:10, nearest transit: IVAN ALLEN JR BLVD NW @ LOVEJOY ST, 78.15m away; Steamhouse Lounge, visit from 13:40 to 14:20, nearest transit: W PEACHTREE ST @ 12TH ST, 93.00m away; Max's Coal Oven Pizzeria, visit from 19:00 to 19:40, nearest transit: MARIETTA ST @ BAKER ST NW, 33.64m away; First-Class Flats | * From 1 to 10 Guests *, stay from 23:00 to 08:00, nearest transit: N DECATUR RD @ PARKDALE DR, 168.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Green Bay",
+    "transportation": "Flight Number: F0889249, from Atlanta to Green Bay, Departure Time: 17:56, Arrival Time: 18:55",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "The Optimist, Atlanta",
+    "dinner": "Kevin Rathbun Steak, Atlanta",
+    "attraction": "Fox Theatre, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "First-Class Flats | * From 1 to 10 Guests *, stay from 08:00 to 08:30, nearest transit: N DECATUR RD @ PARKDALE DR, 168.06m away; Cafe Agora, visit from 09:00 to 09:40, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; Fox Theatre, visit from 10:10 to 12:10, nearest transit: PEACHTREE ST NE @ PONCE DE LEON AVE, 41.68m away; The Optimist, visit from 12:40 to 13:20, nearest transit: W MARIETTA ST @ BRADY AVE, 164.88m away; Kevin Rathbun Steak, visit from 16:46 to 17:26, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 465.73m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to Baltimore",
+    "transportation": "Flight Number: F4036779, from Louisville to Baltimore, Departure Time: 13:32, Arrival Time: 14:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Abbey Burger Bistro, Baltimore",
+    "attraction": "Federal Hill Park, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 15:17 to 15:37, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Federal Hill Park, visit from 16:02 to 18:02, nearest transit: SHOT TOWER METRO West Entrance, 1089.59m away; The Abbey Burger Bistro, visit from 19:00 to 19:40, nearest transit: CHARLES CENTER METRO EV Entrance, 1364.87m away; The basement, stay from 20:05 to 08:00, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Amicci's, Baltimore",
+    "lunch": "Pratt Street Ale House, Baltimore",
+    "dinner": "Magdalena, A Maryland Bistro, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Amicci's, visit from 08:55 to 09:35, nearest transit: SHOT TOWER STATION (METRO) sb, 440.38m away; National Aquarium, visit from 10:00 to 12:00, nearest transit: SHOT TOWER METRO West Entrance, 474.59m away; Pratt Street Ale House, visit from 13:35 to 14:15, nearest transit: CHARLES CENTER METRO West Entrance, 365.69m away; Magdalena, A Maryland Bistro, visit from 19:00 to 19:40, nearest transit: STATE CENTER (METRO) sb, 839.14m away; The basement, stay from 20:05 to 08:00, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Louisville",
+    "transportation": "Flight Number: F0030670, from Baltimore to Louisville, Departure Time: 17:57, Arrival Time: 19:30",
+    "breakfast": "Tagliata, Baltimore",
+    "lunch": "Angies Seafood, Baltimore",
+    "dinner": "-",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Tagliata, visit from 08:55 to 09:35, nearest transit: SHOT TOWER STATION (METRO) sb, 767.14m away; The Maryland Zoo, visit from 10:00 to 12:00, nearest transit: MONDAWMIN METRO Escalator 4, 586.50m away; Angies Seafood, visit from 13:35 to 14:15, nearest transit: JOHNS HOPKINS STATION (METRO), 839.06m away"
+  }
+]

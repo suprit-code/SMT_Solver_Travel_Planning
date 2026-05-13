@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Savannah",
+    "transportation": "Taxi from Washington to Savannah, duration: 641.56, distance: 930.7148, cost : 930.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Timeless, Reimagined Cottage | Midnight Garden Inn, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 19:45 to 20:15, nearest transit: WHITAKER & GASTON, 90.64m away; Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 22:35 to 06:35, nearest transit: WHITAKER & GASTON, 90.64m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Alligator Soul, Savannah",
+    "lunch": "17 Hundred 90 Restaurant, Savannah",
+    "dinner": "Garibaldi's Cafe, Savannah",
+    "attraction": "The Old Sorrel Weed House Museum & Tours, Savannah",
+    "accommodation": "Timeless, Reimagined Cottage | Midnight Garden Inn, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 07:05 to 07:35, nearest transit: WHITAKER & GASTON, 90.64m away; Alligator Soul, Savannah, visit from 08:05 to 08:55, ; The Old Sorrel Weed House Museum & Tours, Savannah, visit from 09:25 to 12:55, ; 17 Hundred 90 Restaurant, Savannah, visit from 13:25 to 14:25, ; Garibaldi's Cafe, Savannah, visit from 19:00 to 20:15, ; Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 20:45 to 04:45, nearest transit: WHITAKER & GASTON, 90.64m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Washington",
+    "transportation": "Taxi from Savannah to Washington, duration: 640.9533333333333, distance: 929.4432, cost : 929.0",
+    "breakfast": "Vinnie Van Go-Go's, Savannah",
+    "lunch": "Planters Tavern, Savannah",
+    "dinner": "Noble Fare, Savannah",
+    "attraction": "SCADstory, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Timeless, Reimagined Cottage | Midnight Garden Inn, stay from 07:00 to 07:30, nearest transit: WHITAKER & GASTON, 90.64m away; Vinnie Van Go-Go's, Savannah, visit from 08:00 to 08:50, ; SCADstory, Savannah, visit from 09:20 to 12:50, ; Planters Tavern, Savannah, visit from 13:20 to 14:20, ; Noble Fare, Savannah, visit from 19:00 to 20:15, "
+  }
+]

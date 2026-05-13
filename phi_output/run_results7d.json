@@ -1,0 +1,663 @@
+[
+  {
+    "job_id": 137,
+    "status": "failed",
+    "error": "list index out of range",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 31, in <module>\nIndexError: list index out of range\n"
+  },
+  {
+    "job_id": 25,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 195, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 90,
+    "status": "failed",
+    "error": "'Steakhouse' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Steakhouse' is not in list\n"
+  },
+  {
+    "job_id": 167,
+    "status": "failed",
+    "error": "'Seafood' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Seafood' is not in list\n"
+  },
+  {
+    "job_id": 192,
+    "status": "failed",
+    "error": "'Seafood' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 195, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Seafood' is not in list\n"
+  },
+  {
+    "job_id": 179,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 254, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 171,
+    "status": "failed",
+    "error": "'Seafood' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Seafood' is not in list\n"
+  },
+  {
+    "job_id": 30,
+    "status": "failed",
+    "error": "check_exists_any() got an unexpected keyword argument 'subcategories'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 225, in <module>\nTypeError: check_exists_any() got an unexpected keyword argument 'subcategories'\n"
+  },
+  {
+    "job_id": 194,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 218,
+    "status": "failed",
+    "error": "'Thai' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Thai' is not in list\n"
+  },
+  {
+    "job_id": 214,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 200, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 181,
+    "status": "failed",
+    "error": "'Steakhouse' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 200, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Steakhouse' is not in list\n"
+  },
+  {
+    "job_id": 68,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 242, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 195,
+    "status": "failed",
+    "error": "'Bars' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 195, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Bars' is not in list\n"
+  },
+  {
+    "job_id": 211,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 182, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 136,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 200, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 213,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 188,
+    "status": "failed",
+    "error": "'Steakhouse' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Steakhouse' is not in list\n"
+  },
+  {
+    "job_id": 138,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 200, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 73,
+    "status": "failed",
+    "error": "check_exists_any() got an unexpected keyword argument 'subcategories'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 216, in <module>\nTypeError: check_exists_any() got an unexpected keyword argument 'subcategories'\n"
+  },
+  {
+    "job_id": 193,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 195, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 256,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 195, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 32,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 71,
+    "status": "failed",
+    "error": "'Accommodations' object has no attribute 'check_compliance_with_house_rules'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 237, in <module>\nAttributeError: 'Accommodations' object has no attribute 'check_compliance_with_house_rules'\n"
+  },
+  {
+    "job_id": 184,
+    "status": "failed",
+    "error": "'Pizza' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 198, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Pizza' is not in list\n"
+  },
+  {
+    "job_id": 189,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 182,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 244, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 235,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 212,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 182, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 238,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 254, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 60,
+    "status": "failed",
+    "error": "'Steakhouse' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 198, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Steakhouse' is not in list\n"
+  },
+  {
+    "job_id": 59,
+    "status": "failed",
+    "error": "'Steakhouse' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Steakhouse' is not in list\n"
+  },
+  {
+    "job_id": 296,
+    "status": "failed",
+    "error": "'flight'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 63, in <module>\nKeyError: 'flight'\n"
+  },
+  {
+    "job_id": 94,
+    "status": "failed",
+    "error": "'European' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 195, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'European' is not in list\n"
+  },
+  {
+    "job_id": 164,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 249, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 135,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 182, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 129,
+    "status": "failed",
+    "error": "'Japanese' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Japanese' is not in list\n"
+  },
+  {
+    "job_id": 295,
+    "status": "failed",
+    "error": "'Cajun & Creole' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Cajun & Creole' is not in list\n"
+  },
+  {
+    "job_id": 307,
+    "status": "failed",
+    "error": "'International' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'International' is not in list\n"
+  },
+  {
+    "job_id": 327,
+    "status": "failed",
+    "error": "'Steakhouse' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Steakhouse' is not in list\n"
+  },
+  {
+    "job_id": 328,
+    "status": "failed",
+    "error": "'Steakhouses' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/z3_execution.py\", line 218, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 194, in <module>\n  File \"/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/restaurants/apis.py\", line 153, in check_exists\n    exists = Select(restaurant_cuisines_list, restaurant_index, cuisines_list.index(cuisine))\nValueError: 'Steakhouses' is not in list\n"
+  },
+  {
+    "job_id": 241,
+    "status": "success",
+    "time": 242.97472047805786
+  },
+  {
+    "job_id": 259,
+    "status": "success",
+    "time": 239.00646424293518
+  },
+  {
+    "job_id": 105,
+    "status": "success",
+    "time": 247.80933380126953
+  },
+  {
+    "job_id": 232,
+    "status": "success",
+    "time": 444.17041015625
+  },
+  {
+    "job_id": 233,
+    "status": "success",
+    "time": 445.7617871761322
+  },
+  {
+    "job_id": 253,
+    "status": "success",
+    "time": 447.2338135242462
+  },
+  {
+    "job_id": 254,
+    "status": "success",
+    "time": 447.2873718738556
+  },
+  {
+    "job_id": 82,
+    "status": "success",
+    "time": 448.902459859848
+  },
+  {
+    "job_id": 197,
+    "status": "success",
+    "time": 449.2704255580902
+  },
+  {
+    "job_id": 236,
+    "status": "success",
+    "time": 449.91917538642883
+  },
+  {
+    "job_id": 98,
+    "status": "success",
+    "time": 450.51415181159973
+  },
+  {
+    "job_id": 205,
+    "status": "success",
+    "time": 450.54970121383667
+  },
+  {
+    "job_id": 172,
+    "status": "success",
+    "time": 451.2676799297333
+  },
+  {
+    "job_id": 202,
+    "status": "success",
+    "time": 452.6053068637848
+  },
+  {
+    "job_id": 264,
+    "status": "success",
+    "time": 443.251451253891
+  },
+  {
+    "job_id": 301,
+    "status": "success",
+    "time": 439.42452239990234
+  },
+  {
+    "job_id": 37,
+    "status": "success",
+    "time": 453.9071435928345
+  },
+  {
+    "job_id": 300,
+    "status": "success",
+    "time": 443.2908182144165
+  },
+  {
+    "job_id": 270,
+    "status": "success",
+    "time": 446.9829068183899
+  },
+  {
+    "job_id": 326,
+    "status": "success",
+    "time": 441.86254143714905
+  },
+  {
+    "job_id": 198,
+    "status": "success",
+    "time": 458.66883993148804
+  },
+  {
+    "job_id": 204,
+    "status": "success",
+    "time": 459.20712995529175
+  },
+  {
+    "job_id": 299,
+    "status": "success",
+    "time": 447.15849924087524
+  },
+  {
+    "job_id": 325,
+    "status": "success",
+    "time": 444.08293747901917
+  },
+  {
+    "job_id": 226,
+    "status": "success",
+    "time": 462.12378549575806
+  },
+  {
+    "job_id": 277,
+    "status": "success",
+    "time": 453.0479300022125
+  },
+  {
+    "job_id": 227,
+    "status": "success",
+    "time": 464.4993953704834
+  },
+  {
+    "job_id": 119,
+    "status": "success",
+    "time": 465.98154735565186
+  },
+  {
+    "job_id": 35,
+    "status": "success",
+    "time": 466.72496795654297
+  },
+  {
+    "job_id": 248,
+    "status": "success",
+    "time": 466.7703289985657
+  },
+  {
+    "job_id": 130,
+    "status": "success",
+    "time": 466.88400959968567
+  },
+  {
+    "job_id": 247,
+    "status": "success",
+    "time": 466.8592052459717
+  },
+  {
+    "job_id": 87,
+    "status": "success",
+    "time": 467.5521283149719
+  },
+  {
+    "job_id": 86,
+    "status": "success",
+    "time": 468.28513264656067
+  },
+  {
+    "job_id": 12,
+    "status": "success",
+    "time": 468.4458906650543
+  },
+  {
+    "job_id": 38,
+    "status": "success",
+    "time": 469.2261610031128
+  },
+  {
+    "job_id": 215,
+    "status": "success",
+    "time": 469.2109305858612
+  },
+  {
+    "job_id": 109,
+    "status": "success",
+    "time": 470.34198546409607
+  },
+  {
+    "job_id": 261,
+    "status": "success",
+    "time": 461.89902997016907
+  },
+  {
+    "job_id": 142,
+    "status": "success",
+    "time": 473.53443002700806
+  },
+  {
+    "job_id": 22,
+    "status": "success",
+    "time": 474.49880170822144
+  },
+  {
+    "job_id": 304,
+    "status": "success",
+    "time": 462.3106892108917
+  },
+  {
+    "job_id": 310,
+    "status": "success",
+    "time": 463.8908498287201
+  },
+  {
+    "job_id": 281,
+    "status": "success",
+    "time": 468.4031159877777
+  },
+  {
+    "job_id": 303,
+    "status": "success",
+    "time": 465.9533107280731
+  },
+  {
+    "job_id": 280,
+    "status": "success",
+    "time": 468.82941365242004
+  },
+  {
+    "job_id": 279,
+    "status": "success",
+    "time": 469.10639929771423
+  },
+  {
+    "job_id": 133,
+    "status": "success",
+    "time": 481.2823586463928
+  },
+  {
+    "job_id": 311,
+    "status": "success",
+    "time": 466.4012110233307
+  },
+  {
+    "job_id": 330,
+    "status": "success",
+    "time": 466.7935302257538
+  },
+  {
+    "job_id": 312,
+    "status": "success",
+    "time": 468.5071542263031
+  },
+  {
+    "job_id": 23,
+    "status": "success",
+    "time": 485.50447130203247
+  },
+  {
+    "job_id": 99,
+    "status": "success",
+    "time": 485.81346797943115
+  },
+  {
+    "job_id": 141,
+    "status": "success",
+    "time": 486.16112422943115
+  },
+  {
+    "job_id": 298,
+    "status": "success",
+    "time": 474.0429141521454
+  },
+  {
+    "job_id": 116,
+    "status": "success",
+    "time": 486.77463150024414
+  },
+  {
+    "job_id": 108,
+    "status": "success",
+    "time": 487.0610282421112
+  },
+  {
+    "job_id": 173,
+    "status": "success",
+    "time": 487.2027413845062
+  },
+  {
+    "job_id": 122,
+    "status": "success",
+    "time": 487.3803942203522
+  },
+  {
+    "job_id": 107,
+    "status": "success",
+    "time": 487.3848366737366
+  },
+  {
+    "job_id": 220,
+    "status": "success",
+    "time": 487.66204285621643
+  },
+  {
+    "job_id": 123,
+    "status": "success",
+    "time": 487.8281464576721
+  },
+  {
+    "job_id": 11,
+    "status": "success",
+    "time": 487.89045810699463
+  },
+  {
+    "job_id": 258,
+    "status": "success",
+    "time": 488.51081109046936
+  },
+  {
+    "job_id": 217,
+    "status": "success",
+    "time": 489.3193986415863
+  },
+  {
+    "job_id": 19,
+    "status": "success",
+    "time": 489.5713121891022
+  },
+  {
+    "job_id": 237,
+    "status": "success",
+    "time": 489.8591251373291
+  },
+  {
+    "job_id": 324,
+    "status": "success",
+    "time": 474.50240564346313
+  },
+  {
+    "job_id": 39,
+    "status": "success",
+    "time": 490.47388553619385
+  },
+  {
+    "job_id": 144,
+    "status": "success",
+    "time": 492.0084738731384
+  },
+  {
+    "job_id": 240,
+    "status": "success",
+    "time": 492.8579967021942
+  },
+  {
+    "job_id": 14,
+    "status": "success",
+    "time": 497.7311255931854
+  },
+  {
+    "job_id": 88,
+    "status": "success",
+    "time": 499.39088225364685
+  },
+  {
+    "job_id": 139,
+    "status": "success",
+    "time": 500.3916640281677
+  },
+  {
+    "job_id": 111,
+    "status": "success",
+    "time": 506.4153401851654
+  },
+  {
+    "job_id": 331,
+    "status": "success",
+    "time": 489.6203351020813
+  },
+  {
+    "job_id": 282,
+    "status": "success",
+    "time": 500.88563537597656
+  },
+  {
+    "job_id": 115,
+    "status": "success",
+    "time": 518.2963967323303
+  },
+  {
+    "job_id": 124,
+    "status": "success",
+    "time": 519.5977845191956
+  },
+  {
+    "job_id": 18,
+    "status": "success",
+    "time": 520.4818842411041
+  },
+  {
+    "job_id": 26,
+    "status": "success",
+    "time": 520.4982466697693
+  },
+  {
+    "job_id": 24,
+    "status": "success",
+    "time": 521.9490370750427
+  },
+  {
+    "job_id": 125,
+    "status": "success",
+    "time": 523.9420685768127
+  }
+]

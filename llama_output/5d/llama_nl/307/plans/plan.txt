@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-22', '2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F3316967, from Seattle to San Diego, Departure Time: 07:58, Arrival Time: 10:58', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'Flight Number: F3864812, from Redding to Seattle, Departure Time: 07:20, Arrival Time: 09:07'],
+Restaurants (3 meals per day): ['-', '-', "Filippi's Pizza Grotto Little Italy, San Diego", 'The Butcher Shop, San Diego', 'Alforon, San Diego', 'Pacific Beach AleHouse, San Diego', 'Barbusa, San Diego', 'Din Tai Fung, San Diego', 'Juniper and Ivy, San Diego', 'New China, Redding', "Trendy's, Redding", 'Los Gordos, Redding', '-', '-', '-'],
+Attractions (1 per day): ['Birch Aquarium at Scripps, San Diego', 'Old Town San Diego State Historic Park, San Diego', 'Torrey Pines State Natural Reserve, San Diego', 'Turtle Bay Exploration Park, Redding', '-'],
+Accommodations (1 per city): ['Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego', 'The Forest Room, Redding']

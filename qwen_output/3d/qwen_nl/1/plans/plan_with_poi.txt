@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Savannah to Baltimore",
+    "transportation": "Flight Number: F0017532, from Savannah to Baltimore, Departure Time: 06:12, Arrival Time: 07:39",
+    "breakfast": "-",
+    "lunch": "Cypriana of Roland Park, Baltimore",
+    "dinner": "Dalesio's of Little Italy Restaurant, Baltimore",
+    "attraction": "Fort McHenry National Monument And Historic Shrine, Baltimore",
+    "accommodation": "Luxe Houseboat: Stunning Inner Harbor 360 Views, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 08:09 to 08:39, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; Cypriana of Roland Park, Baltimore, visit from 14:00 to 15:00, ; Fort McHenry National Monument And Historic Shrine, Baltimore, visit from 15:30 to 19:15, ; Dalesio's of Little Italy Restaurant, Baltimore, visit from 19:45 to 21:00, ; Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 21:30 to 05:30, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Blue Moon Cafe, Baltimore",
+    "lunch": "Angies Seafood, Baltimore",
+    "dinner": "La Tavola, Baltimore",
+    "attraction": "Federal Hill Park, Baltimore",
+    "accommodation": "Luxe Houseboat: Stunning Inner Harbor 360 Views, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 06:00 to 06:30, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; Blue Moon Cafe, Baltimore, visit from 08:29 to 09:19, ; Angies Seafood, Baltimore, visit from 13:20 to 14:20, ; Federal Hill Park, Baltimore, visit from 14:50 to 18:20, ; La Tavola, Baltimore, visit from 19:00 to 20:15, ; Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 23:40 to 07:40, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Savannah",
+    "transportation": "Flight Number: F3149443, from Baltimore to Savannah, Departure Time: 19:14, Arrival Time: 21:04",
+    "breakfast": "The Abbey Burger Bistro, Baltimore",
+    "lunch": "Thames Street Oyster House, Baltimore",
+    "dinner": "-",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 08:10 to 08:40, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; The Abbey Burger Bistro, Baltimore, visit from 09:10 to 10:00, ; The Maryland Zoo, Baltimore, visit from 10:30 to 14:00, ; Thames Street Oyster House, Baltimore, visit from 14:30 to 15:30, "
+  }
+]

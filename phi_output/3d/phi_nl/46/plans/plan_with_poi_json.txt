@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Indianapolis",
+    "transportation": "Flight Number: F0035972, from Denver to Indianapolis, Departure Time: 11:57, Arrival Time: 16:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Thai Spice, Indianapolis",
+    "attraction": "The Eiteljorg Museum, Indianapolis",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Conner's Kitchen + Bar, Indianapolis",
+    "lunch": "The Old Spaghetti Factory, Indianapolis",
+    "dinner": "Milktooth, Indianapolis",
+    "attraction": "Indianapolis Motor Speedway Museum, Indianapolis",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 08:00 to 08:30, nearest transit: New York St & State St, 65.71m away; Conner's Kitchen + Bar, visit from 09:00 to 09:40, nearest transit: Maryland St & Missouri St, 96.02m away; Indianapolis Motor Speedway Museum, visit from 10:10 to 12:10, nearest transit: 4500 W 16th St - Indy Motor Speedway, 293.75m away; The Old Spaghetti Factory, visit from 13:40 to 14:20, nearest transit: Pennsylvania St & South St, 318.19m away; Milktooth, visit from 19:00 to 19:40, nearest transit: Fletcher Place Station NB, 34.30m away; Queen Bed Getaway Room Downtown Indy, stay from 23:00 to 08:00, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Denver",
+    "transportation": "Flight Number: F3994907, from Indianapolis to Denver, Departure Time: 18:18, Arrival Time: 19:14",
+    "breakfast": "Bluebeard, Indianapolis",
+    "lunch": "Lincoln Square Pancake House, Indianapolis",
+    "dinner": "-",
+    "attraction": "Indiana War Memorial, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 08:00 to 08:30, nearest transit: New York St & State St, 65.71m away; Bluebeard, visit from 09:00 to 09:40, nearest transit: Virginia Ave & College Ave, 33.77m away; Indiana War Memorial, visit from 10:10 to 12:10, nearest transit: Meridian St & Michigan St, 98.89m away; Lincoln Square Pancake House, visit from 13:40 to 14:20, nearest transit: Illinois St & 23rd St, 188.41m away"
+  }
+]

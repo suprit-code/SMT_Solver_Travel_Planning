@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Washington",
+    "transportation": "Flight Number: F2293507, from Sarasota to Washington, Departure Time: 11:59, Arrival Time: 14:42",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Dabney, Washington",
+    "attraction": "-",
+    "accommodation": "A Classy Corner of DC // Minutes walk to Dupont Circle, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 15:12 to 20:15, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.6m away; The Dabney, Washington, visit from 20:45 to 23:10, ; A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 23:40 to 07:40, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "The Capital Grille, Washington",
+    "lunch": "Kingbird, Washington",
+    "dinner": "Joe's Seafood Prime Steak & Stone Crab, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "A Classy Corner of DC // Minutes walk to Dupont Circle, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 08:10 to 08:40, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.6m away; The Capital Grille, Washington, visit from 09:10 to 10:00, ; National Mall, Washington, visit from 10:30 to 14:00, ; Kingbird, Washington, visit from 14:30 to 16:44, ; Joe's Seafood Prime Steak & Stone Crab, Washington, visit from 20:45 to 22:35, ; A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 23:05 to 07:05, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Sarasota",
+    "transportation": "Flight Number: F0117436, from Washington to Sarasota, Departure Time: 08:35, Arrival Time: 11:12",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A Classy Corner of DC // Minutes walk to Dupont Circle, stay from 07:35 to 08:05, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & Q ST. NW, 278.6m away"
+  }
+]

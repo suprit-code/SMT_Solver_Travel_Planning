@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Tampa",
+    "transportation": "Self-driving, from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost: 52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy Suite, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Cozy Suite, stay from 20:33 to 20:53, nearest transit: U Mall to MSC, 3243.17m away; Cozy Suite, stay from 21:18 to 08:00, nearest transit: U Mall to MSC, 3243.17m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Curry Leaves Indian Cuisine, Tampa",
+    "lunch": "La Terrazza Restaurant, Tampa",
+    "dinner": "Yummy House China Bistro, Tampa",
+    "attraction": "Tampa Riverwalk, Tampa",
+    "accommodation": "Cozy Suite, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Cozy Suite, stay from 08:00 to 08:30, nearest transit: U Mall to MSC, 3243.17m away; Curry Leaves Indian Cuisine, visit from 08:55 to 09:35, nearest transit: Busch Gardens Employee Entrance, 15004.90m away; Tampa Riverwalk, visit from 10:00 to 12:00, nearest transit: Busch Gardens Employee Entrance, 11564.24m away; La Terrazza Restaurant, visit from 13:35 to 14:15, nearest transit: Busch Gardens Employee Entrance, 9415.25m away; Yummy House China Bistro, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 5274.93m away; Cozy Suite, stay from 20:05 to 08:00, nearest transit: U Mall to MSC, 3243.17m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Raleigh",
+    "transportation": "Self-driving, from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost: 51",
+    "breakfast": "Al's Finger Licking Good Bar-B-Que, Tampa",
+    "lunch": "The Pearl Tampa, Tampa",
+    "dinner": "Bern's Steak House, Tampa",
+    "attraction": "Raymond James Stadium, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Suite, stay from 08:00 to 08:30, nearest transit: U Mall to MSC, 3243.17m away; Al's Finger Licking Good Bar-B-Que, visit from 08:55 to 09:35, nearest transit: Busch Gardens Employee Entrance, 9501.24m away; Raymond James Stadium, visit from 10:00 to 12:00, nearest transit: Busch Gardens Employee Entrance, 11040.73m away; The Pearl Tampa, visit from 13:35 to 14:15, nearest transit: Busch Gardens Employee Entrance, 11463.33m away; Bern's Steak House, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 13852.06m away"
+  }
+]

@@ -1,0 +1,4 @@
+not ok
+Unsatisfiable core:
+Nature & Parkstype restaurant
+Nature & Parkstype restaurant is visited

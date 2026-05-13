@@ -1,0 +1,1 @@
+Design a 7-day travel itinerary for 2 people starting from Chicago and visiting 3 cities in Iowa between November 10th and November 16th, 2024. The budget is $11,250. The plan should include attending music events.

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to San Diego",
+    "transportation": "Flight Number: F3665170, from Chicago to San Diego, Departure Time: 15:33, Arrival Time: 17:34",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Alforon, San Diego",
+    "attraction": "-",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 18:04 to 18:34, nearest transit: Adams Av & Hawley Bl, 292.57m away; Alforon, San Diego, visit from 19:04 to 22:18, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 22:48 to 06:48, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 07:18 to 07:48, nearest transit: Adams Av & Hawley Bl, 292.57m away; Mimmo's, San Diego, visit from 08:18 to 10:00, ; Birch Aquarium at Scripps, San Diego, visit from 10:30 to 14:00, ; Born & Raised, San Diego, visit from 14:30 to 16:44, ; Morning Glory, San Diego, visit from 20:45 to 23:30, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 00:00 to 08:00, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F3966915, from San Diego to Sacramento, Departure Time: 21:08, Arrival Time: 22:23",
+    "breakfast": "-",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Buon Appetito, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Large Comfy Cottage- Close to Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 08:30 to 09:00, nearest transit: Adams Av & Hawley Bl, 292.57m away; Pacific Beach AleHouse, San Diego, visit from 13:53 to 14:53, ; Cabrillo National Monument, San Diego, visit from 15:23 to 18:53, ; Buon Appetito, San Diego, visit from 19:23 to 20:38, ; Large Comfy Cottage- Close to Downtown, stay from 22:53 to 23:30, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Large Comfy Cottage- Close to Downtown, stay from 00:00 to 08:00, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "-",
+    "accommodation": "Large Comfy Cottage- Close to Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Large Comfy Cottage- Close to Downtown, stay from 08:30 to 09:00, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Paesano's Pizzeria, Sacramento, visit from 09:37 to 10:27, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 14:28 to 16:44, ; Grange Restaurant & Bar, Sacramento, visit from 20:45 to 23:10, ; Large Comfy Cottage- Close to Downtown, stay from 23:40 to 07:40, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Fresno",
+    "transportation": "Taxi from Sacramento to Fresno, duration: 198.32166666666663, distance: 273.258, cost : 273.0",
+    "breakfast": "Zocalo, Sacramento",
+    "lunch": "Paragary's, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Private in-law suite!, Fresno",
+    "event": "-",
+    "point_of_interest_list": "Large Comfy Cottage- Close to Downtown, stay from 08:10 to 08:40, nearest transit: ARDEN WAY & CANTALIER ST (WB), 143.78m away; Zocalo, Sacramento, visit from 09:10 to 10:00, ; California State Capitol Museum, Sacramento, visit from 10:30 to 14:00, ; Paragary's, Sacramento, visit from 14:30 to 18:42, ; Private in-law suite!, stay from 23:00 to 23:30, nearest transit: NW KINGS CANYON - FOWLER, 727.89m away; Private in-law suite!, stay from 00:00 to 08:00, nearest transit: NW KINGS CANYON - FOWLER, 727.89m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Fresno",
+    "transportation": "-",
+    "breakfast": "Train Depot, Fresno",
+    "lunch": "Pismo's Coastal Grill, Fresno",
+    "dinner": "Ampersand Ice Cream, Fresno",
+    "attraction": "-",
+    "accommodation": "Private in-law suite!, Fresno",
+    "event": "-",
+    "point_of_interest_list": "Private in-law suite!, stay from 08:30 to 09:00, nearest transit: NW KINGS CANYON - FOWLER, 727.89m away; Train Depot, Fresno, visit from 09:33 to 10:23, ; Pismo's Coastal Grill, Fresno, visit from 14:30 to 15:30, ; Ampersand Ice Cream, Fresno, visit from 20:45 to 23:30, ; Private in-law suite!, stay from 00:00 to 08:00, nearest transit: NW KINGS CANYON - FOWLER, 727.89m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Fresno to Chicago",
+    "transportation": "Flight Number: F2417142, from Fresno to Chicago, Departure Time: 23:56, Arrival Time: 05:32",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Yosemite Ranch, Fresno",
+    "attraction": "Fresno Chaffee Zoo, Fresno",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private in-law suite!, stay from 08:30 to 09:00, nearest transit: NW KINGS CANYON - FOWLER, 727.89m away; Fresno Chaffee Zoo, Fresno, visit from 09:30 to 13:00, ; Yosemite Ranch, Fresno, visit from 20:45 to 22:00, "
+  }
+]

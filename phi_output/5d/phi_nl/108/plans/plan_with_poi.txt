@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to San Diego",
+    "transportation": "Flight Number: F4023986, from Las Vegas to San Diego, Departure Time: 14:26, Arrival Time: 15:22",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "-",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 15:52 to 20:15, nearest transit: Imperial Av & 54th St, 396.9m away; Cowboy Star, San Diego, visit from 20:45 to 22:01, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 22:31 to 06:31, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "Civico 1845, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 07:01 to 07:31, nearest transit: Imperial Av & 54th St, 396.9m away; Lou & Mickey's, San Diego, visit from 08:01 to 08:51, ; San Diego Zoo, San Diego, visit from 09:59 to 13:29, ; Addison Restaurant, San Diego, visit from 13:59 to 14:59, ; Civico 1845, San Diego, visit from 19:00 to 20:15, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 20:45 to 04:45, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F2670674, from San Diego to Sacramento, Departure Time: 16:54, Arrival Time: 18:27",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Ruth's Chris Steak House, San Diego",
+    "dinner": "Mikuni Japanese Restaurant & Sushi Bar, Sacramento",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 06:00 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away; Pacific Beach AleHouse, San Diego, visit from 08:00 to 08:50, ; Cabrillo National Monument, San Diego, visit from 09:20 to 12:50, ; Ruth's Chris Steak House, San Diego, visit from 14:30 to 15:56, ; Modern Apt Near Downtown Sac, stay from 18:57 to 19:27, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Mikuni Japanese Restaurant & Sushi Bar, Sacramento, visit from 19:57 to 21:12, ; Modern Apt Near Downtown Sac, stay from 21:42 to 05:42, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Grange Restaurant & Bar, Sacramento",
+    "lunch": "Moxie, Sacramento",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 06:12 to 06:42, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Grange Restaurant & Bar, Sacramento, visit from 08:09 to 08:59, ; Moxie, Sacramento, visit from 13:00 to 14:00, ; Capitol Park, Sacramento, visit from 15:00 to 18:30, ; Paesano's Pizzeria, Sacramento, visit from 19:00 to 20:15, ; Modern Apt Near Downtown Sac, stay from 20:45 to 04:45, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Las Vegas",
+    "transportation": "Flight Number: F2598105, from Sacramento to Las Vegas, Departure Time: 20:07, Arrival Time: 21:42",
+    "breakfast": "-",
+    "lunch": "Bacon & Butter, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 06:00 to 06:30, nearest transit: 3RD ST & V ST (SB), 1612.57m away; California State Capitol Museum, Sacramento, visit from 09:00 to 12:30, ; Bacon & Butter, Sacramento, visit from 14:30 to 19:37, "
+  }
+]

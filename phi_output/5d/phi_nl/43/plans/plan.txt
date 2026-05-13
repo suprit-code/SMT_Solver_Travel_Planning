@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-21', '2024-11-23', '2024-11-25'],
+Transportation methods between cities: ['Flight Number: F0590668, from Boise to San Diego, Departure Time: 12:00, Arrival Time: 13:13', 'Flight Number: F0076602, from San Diego to Sacramento, Departure Time: 08:51, Arrival Time: 10:20', 'Flight Number: F2401688, from Sacramento to Boise, Departure Time: 07:34, Arrival Time: 09:52'],
+Restaurants (3 meals per day): ['-', '-', "Mister A'S, San Diego", 'Din Tai Fung, San Diego', 'Cafe Coyote, San Diego', "Lou & Mickey's, San Diego", 'Morning Glory, San Diego', 'Pilothouse Restaurant on the Delta King, Sacramento', 'Grange Restaurant & Bar, Sacramento', 'Kru Contemporary Japanese Cuisine, Sacramento', 'The Porch Restaurant and Bar, Sacramento', 'Moxie, Sacramento', '-', '-', '-'],
+Attractions (1 per day): ['Sunset Cliffs Natural Park, San Diego', 'Cabrillo National Monument, San Diego', 'Old Sacramento, Sacramento', 'California State Railroad Museum, Sacramento', '-'],
+Accommodations (1 per city): ['South Mission Beach - Hotel Style Unit w/ AC, San Diego', 'Sac City Loft, Sacramento']

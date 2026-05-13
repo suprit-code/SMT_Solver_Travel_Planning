@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Tampa",
+    "transportation": "Self-driving, from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost: 52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Newly Renovated Private Eco Cottage, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Private Eco Cottage, stay from 08:00 to 08:30, nearest transit: U Mall to MSC, 4913.52m away; Newly Renovated Private Eco Cottage, stay from 23:00 to 08:00, nearest transit: U Mall to MSC, 4913.52m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Yummy House China Bistro, Tampa",
+    "lunch": "Bern's Steak House, Tampa",
+    "dinner": "Olivia, Tampa",
+    "attraction": "Tampa Riverwalk, Tampa",
+    "accommodation": "Newly Renovated Private Eco Cottage, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Private Eco Cottage, stay from 08:00 to 08:30, nearest transit: U Mall to MSC, 4913.52m away; Yummy House China Bistro, visit from 09:00 to 09:40, nearest transit: Busch Gardens Employee Entrance, 5274.93m away; Tampa Riverwalk, visit from 10:10 to 12:10, nearest transit: Busch Gardens Employee Entrance, 11564.24m away; Bern's Steak House, visit from 13:40 to 14:20, nearest transit: Busch Gardens Employee Entrance, 13852.06m away; Olivia, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 14172.81m away; Newly Renovated Private Eco Cottage, stay from 23:00 to 08:00, nearest transit: U Mall to MSC, 4913.52m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Raleigh",
+    "transportation": "Self-driving, from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost: 51",
+    "breakfast": "Curry Leaves Indian Cuisine, Tampa",
+    "lunch": "Samurai Blue Sushi & Sake Bar, Tampa",
+    "dinner": "Bella's Italian Cafe, Tampa",
+    "attraction": "Raymond James Stadium, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Private Eco Cottage, stay from 08:00 to 08:30, nearest transit: U Mall to MSC, 4913.52m away; Curry Leaves Indian Cuisine, visit from 09:00 to 09:40, nearest transit: Busch Gardens Employee Entrance, 15004.90m away; Raymond James Stadium, visit from 10:10 to 12:10, nearest transit: Busch Gardens Employee Entrance, 11040.73m away; Samurai Blue Sushi & Sake Bar, visit from 13:40 to 14:20, nearest transit: Busch Gardens Employee Entrance, 9381.71m away; Bella's Italian Cafe, visit from 19:00 to 19:40, nearest transit: Busch Gardens Employee Entrance, 14152.26m away"
+  }
+]

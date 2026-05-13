@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to New York",
+    "transportation": "Flight Number: F4051924, from Louisville to New York, Departure Time: 15:23, Arrival Time: 17:55",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Private Studio & SPA near JFK| UBS arena., New York",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Azalea Ristorante, New York",
+    "lunch": "Carmine's, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "Private Studio & SPA near JFK| UBS arena., New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 08:00 to 08:30, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; Azalea Ristorante, visit from 08:55 to 09:35, nearest transit: W 50 ST/8 AV, 83.22m away; New York Public Library, visit from 10:00 to 12:00, nearest transit: 5 AV/W 42 ST, 34.90m away; Carmine's, visit from 13:35 to 14:15, nearest transit: 7 AV/W 44 ST, 61.95m away; Times Square Diner, visit from 19:00 to 19:40, nearest transit: W 49 ST/8 AV, 51.46m away; Private Studio & SPA near JFK| UBS arena., stay from 20:05 to 08:00, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Louisville",
+    "transportation": "Flight Number: F3201732, from New York to Louisville, Departure Time: 18:17, Arrival Time: 20:34",
+    "breakfast": "FIG & OLIVE, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Sarge\u2019s Delicatessen & Diner, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 08:00 to 08:10, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; FIG & OLIVE, visit from 08:35 to 08:59, nearest transit: 5 AV/W 52 ST, 84.16m away; The Metropolitan Museum of Art, visit from 09:24 to 11:24, nearest transit: 5 AV/E 80 ST, 182.01m away; Westway Diner, visit from 12:59 to 13:39, nearest transit: 9 AV/W 44 ST, 44.32m away; Sarge\u2019s Delicatessen & Diner, visit from 17:39 to 17:52, nearest transit: 3 AV/E 37 ST, 101.41m away"
+  }
+]

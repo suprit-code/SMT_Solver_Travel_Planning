@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Spokane to Boise",
+    "transportation": "Self-driving from Spokane to Boise, duration: 468.525, distance: 678.2546, cost : 33.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Boise Fry Company, Boise",
+    "attraction": "Boise River Greenbelt, Boise",
+    "accommodation": "North End Private Guest Suite in Historic Home, Boise",
+    "event": "-",
+    "point_of_interest_list": "North End Private Guest Suite in Historic Home, stay from 14:30 to 15:00, nearest transit: W Fort St & N 9th St NEC, 809.58m away; Boise River Greenbelt, Boise, visit from 15:30 to 20:15, ; Boise Fry Company, Boise, visit from 20:45 to 23:10, ; North End Private Guest Suite in Historic Home, stay from 23:40 to 07:40, nearest transit: W Fort St & N 9th St NEC, 809.58m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Boise",
+    "transportation": "-",
+    "breakfast": "Flying M Coffee House, Boise",
+    "lunch": "Westside Drive In, Boise",
+    "dinner": "Guido's Original New York Style Pizza Downtown, Boise",
+    "attraction": "-",
+    "accommodation": "North End Private Guest Suite in Historic Home, Boise",
+    "event": "-",
+    "point_of_interest_list": "North End Private Guest Suite in Historic Home, stay from 08:10 to 08:40, nearest transit: W Fort St & N 9th St NEC, 809.58m away; Flying M Coffee House, Boise, visit from 09:10 to 10:00, ; Westside Drive In, Boise, visit from 14:30 to 15:30, ; Guido's Original New York Style Pizza Downtown, Boise, visit from 19:31 to 22:00, ; North End Private Guest Suite in Historic Home, stay from 22:30 to 06:30, nearest transit: W Fort St & N 9th St NEC, 809.58m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Boise to Spokane",
+    "transportation": "Self-driving from Boise to Spokane, duration: 468.455, distance: 685.3743000000001, cost : 34.0",
+    "breakfast": "Thai Cuisine, Boise",
+    "lunch": "Chiang Mai House Thai, Boise",
+    "dinner": "-",
+    "attraction": "Freak Alley Gallery, Boise",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "North End Private Guest Suite in Historic Home, stay from 07:00 to 07:30, nearest transit: W Fort St & N 9th St NEC, 809.58m away; Thai Cuisine, Boise, visit from 08:00 to 08:50, ; Freak Alley Gallery, Boise, visit from 09:20 to 12:50, ; Chiang Mai House Thai, Boise, visit from 13:20 to 14:20, "
+  }
+]

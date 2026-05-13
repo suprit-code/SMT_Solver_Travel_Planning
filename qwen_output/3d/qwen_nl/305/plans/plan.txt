@@ -1,0 +1,6 @@
+Destination cities: ['San Francisco'],
+Transportation dates: ['2024-11-01', '2024-11-03'],
+Transportation methods between cities: ['Flight Number: F1484425, from Miami to San Francisco, Departure Time: 08:49, Arrival Time: 11:47', 'Flight Number: F1484458, from San Francisco to Miami, Departure Time: 12:53, Arrival Time: 21:41'],
+Restaurants (3 meals per day): ['-', '-', 'Z & Y Restaurant, San Francisco', "Morton's The Steakhouse, San Francisco", 'Waterbar, San Francisco', 'Fog Harbor Fish House, San Francisco', 'Fogo de Chao Brazilian Steakhouse, San Francisco', 'Quince, San Francisco', "Luisa's Restaurant Wine Bar Since 1959, San Francisco"],
+Attractions (1 per day): ['Alcatraz Island, San Francisco', 'Pier 39, San Francisco', 'Japanese Tea Garden, San Francisco'],
+Accommodations (1 per city): ['Recent Remodeled Beautiful Unit, San Francisco']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Greensboro",
+    "transportation": "Taxi from New York to Greensboro, duration: 640.7433333333333, distance: 863.0494, cost : 863.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 20:52 to 21:22, nearest transit: Glendale/Randleman Rd., 155.05m away; A little Southern Hospitality, stay from 21:52 to 05:52, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Golden Wok, Greensboro",
+    "lunch": "Carolina's Diner, Greensboro",
+    "dinner": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 06:22 to 06:52, nearest transit: Glendale/Randleman Rd., 155.05m away; Golden Wok, Greensboro, visit from 08:39 to 09:29, ; Carolina Theatre, Greensboro, visit from 09:59 to 13:29, ; Carolina's Diner, Greensboro, visit from 13:59 to 14:59, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 19:00 to 20:15, ; A little Southern Hospitality, stay from 20:45 to 04:30, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to New York",
+    "transportation": "Flight Number: F3648510, from Greensboro to New York, Departure Time: 06:00, Arrival Time: 07:49",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 05:00 to 05:30, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  }
+]

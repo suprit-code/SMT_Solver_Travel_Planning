@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to Seattle",
+    "transportation": "Flight Number: F3860013, from El Paso to Seattle, Departure Time: 21:06, Arrival Time: 00:06",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 00:36 to 01:06, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Ballard Greenwood Private Suite, stay from 01:36 to 08:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Wild Ginger, Seattle",
+    "lunch": "The Pike Pub and Brewery, Seattle",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "-",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:30 to 09:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Wild Ginger, Seattle, visit from 09:37 to 10:27, ; The Pike Pub and Brewery, Seattle, visit from 14:28 to 15:28, ; Vons 1000 Spirits, Seattle, visit from 19:29 to 20:44, ; Ballard Greenwood Private Suite, stay from 21:14 to 05:14, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to El Paso",
+    "transportation": "Flight Number: F3860425, from Seattle to El Paso, Departure Time: 13:53, Arrival Time: 18:02",
+    "breakfast": "13 Coins Restaurant, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 06:00 to 07:23, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; 13 Coins Restaurant, Seattle, visit from 08:00 to 08:50, ; Hiram M. Chittenden Locks, Seattle, visit from 09:20 to 13:23, "
+  }
+]

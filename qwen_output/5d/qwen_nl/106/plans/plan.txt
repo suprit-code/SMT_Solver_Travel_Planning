@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F2604735, from Las Vegas to San Diego, Departure Time: 12:42, Arrival Time: 13:51', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Las Vegas, duration: 756.2466666666667, distance: 1007.9322, cost: 1007'],
+Restaurants (3 meals per day): ['-', 'Pacific Beach AleHouse, San Diego', "Lou & Mickey's, San Diego", 'Buon Appetito, San Diego', 'Morning Glory, San Diego', "Filippi's Pizza Grotto Little Italy, San Diego", 'Ironside Fish & Oyster, San Diego', 'Juniper and Ivy, San Diego', 'Din Tai Fung, San Diego', "Trendy's, Redding", 'Thai Hut, Redding', 'Dam Burger, Redding', 'Los Gordos, Redding', 'Champa Garden, Redding', 'deja vu, Redding'],
+Attractions (1 per day): ['Cabrillo National Monument, San Diego', 'USS Midway Museum, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Sundial Bridge, Redding', 'Turtle Bay Exploration Park, Redding'],
+Accommodations (1 per city): ['South Mission Beach - Hotel Style Unit w/ AC, San Diego', 'The God Spa, Redding']

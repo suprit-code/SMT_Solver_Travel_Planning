@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Manchester to Charlotte",
+    "transportation": "Flight Number: F2823759, from Manchester to Charlotte, Departure Time: 05:59, Arrival Time: 08:18",
+    "breakfast": "-",
+    "lunch": "The Terrace at The Charlotte Inn, Charlotte",
+    "dinner": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "Quiet Cozy Stay in CLT, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 08:48 to 09:18, nearest transit: Tryon St & Choate Rd, 121.01m away; Levine Museum of the New South, visit from 09:48 to 11:48, nearest transit: Tryon St & 2nd St, 38.18m away; The Terrace at The Charlotte Inn, visit from 12:18 to 12:58, nearest transit: Beaty St @ 866, 1111842.47m away; Rooster's Wood-Fired Kitchen - Uptown, visit from 19:00 to 19:40, nearest transit: Trade St & College St, 139.39m away; Quiet Cozy Stay in CLT, stay from 23:00 to 08:00, nearest transit: Tryon St & Choate Rd, 121.01m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Tavern, Charlotte",
+    "lunch": "Bistro Charlotte, Charlotte",
+    "dinner": "Charlotte's Restaurant, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "Quiet Cozy Stay in CLT, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 08:00 to 08:30, nearest transit: Tryon St & Choate Rd, 121.01m away; Charlotte's Tavern, visit from 09:00 to 09:40, nearest transit: Oakland St & Main Ave, 3482493.72m away; Truist Field, visit from 10:10 to 12:10, nearest transit: 4th St & Graham St, 146.25m away; Bistro Charlotte, visit from 13:40 to 14:20, nearest transit: Beaty St @ 866, 7764630.63m away; Charlotte's Restaurant, visit from 19:00 to 19:40, nearest transit: Davidson Gateway Dr & Griffith St, 5594544.94m away; Quiet Cozy Stay in CLT, stay from 23:00 to 08:00, nearest transit: Tryon St & Choate Rd, 121.01m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Manchester",
+    "transportation": "Flight Number: F3786306, from Charlotte to Manchester, Departure Time: 16:15, Arrival Time: 18:15",
+    "breakfast": "Cabo Fish Taco Baja Seagrill, Charlotte",
+    "lunch": "The Charlotte Hotel & Restaurant, Charlotte",
+    "dinner": "-",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 08:00 to 08:30, nearest transit: Tryon St & Choate Rd, 121.01m away; Cabo Fish Taco Baja Seagrill, visit from 09:00 to 09:40, nearest transit: Davidson & 35th, 57.25m away; Discovery Place Science, visit from 10:10 to 12:10, nearest transit: Church St & 6th St, 53.42m away; The Charlotte Hotel & Restaurant, visit from 13:40 to 14:20, nearest transit: Concord Mills Mall, 515812.44m away"
+  }
+]

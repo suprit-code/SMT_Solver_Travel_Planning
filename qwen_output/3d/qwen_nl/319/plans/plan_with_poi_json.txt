@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F0270992, from Hartford to Las Vegas, Departure Time: 19:00, Arrival Time: 21:44",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Kabuto, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Private Cozy Room with own entrance and pool ., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 22:09 to 22:15, nearest transit: The Strat, 8199.37m away; Kabuto, visit from 22:40 to 22:53, nearest transit: The Strat, 5300.92m away; Private Cozy Room with own entrance and pool ., stay from 23:18 to 08:00, nearest transit: The Strat, 8199.37m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Top of the World, Las Vegas",
+    "lunch": "Eiffel Tower Restaurant, Las Vegas",
+    "dinner": "The Mayfair Supper Club, Las Vegas",
+    "attraction": "Las Vegas North Premium Outlets, Las Vegas",
+    "accommodation": "Private Cozy Room with own entrance and pool ., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 08:00 to 08:30, nearest transit: The Strat, 8199.37m away; Top of the World, visit from 08:55 to 09:35, nearest transit: The Strat, 140.60m away; Las Vegas North Premium Outlets, visit from 10:00 to 12:00, nearest transit: Las Vegas North Premium Outlets, 74.04m away; Eiffel Tower Restaurant, visit from 13:35 to 14:15, nearest transit: The Strat, 4101.83m away; The Mayfair Supper Club, visit from 19:00 to 19:40, nearest transit: The Strat, 4225.93m away; Private Cozy Room with own entrance and pool ., stay from 20:05 to 08:00, nearest transit: The Strat, 8199.37m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F0821771, from Las Vegas to Hartford, Departure Time: 23:55, Arrival Time: 07:40",
+    "breakfast": "Sw Steakhouse, Las Vegas",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 08:00 to 08:30, nearest transit: The Strat, 8199.37m away; Sw Steakhouse, visit from 08:55 to 09:35, nearest transit: The Strat, 2548.07m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Indianapolis",
+    "transportation": "Flight Number: F0161855, from Detroit to Indianapolis, Departure Time: 15:59, Arrival Time: 17:02",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Luxe 1BR Cottage with Private Backyard, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Luxe 1BR Cottage with Private Backyard, stay from 17:32 to 18:30, nearest transit: New York St & Keystone Ave, 174.16m away; Luxe 1BR Cottage with Private Backyard, stay from 21:30 to 05:30, nearest transit: New York St & Keystone Ave, 174.16m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Vida, Indianapolis",
+    "lunch": "The Capital Grille, Indianapolis",
+    "dinner": "The Old Spaghetti Factory, Indianapolis",
+    "attraction": "Indiana War Memorial, Indianapolis",
+    "accommodation": "Luxe 1BR Cottage with Private Backyard, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Luxe 1BR Cottage with Private Backyard, stay from 06:00 to 06:30, nearest transit: New York St & Keystone Ave, 174.16m away; Vida, Indianapolis, visit from 08:25 to 10:00, ; Indiana War Memorial, Indianapolis, visit from 10:30 to 14:00, ; The Capital Grille, Indianapolis, visit from 14:30 to 15:30, ; The Old Spaghetti Factory, Indianapolis, visit from 20:45 to 22:00, ; Luxe 1BR Cottage with Private Backyard, stay from 23:39 to 07:39, nearest transit: New York St & Keystone Ave, 174.16m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Detroit",
+    "transportation": "Taxi from Indianapolis to Detroit, duration: 328.4183333333333, distance: 448.0768, cost : 448.0",
+    "breakfast": "Tony's of Indianapolis, Indianapolis",
+    "lunch": "Mesh Indy, Indianapolis",
+    "dinner": "The Melting Pot, Indianapolis",
+    "attraction": "Indianapolis Motor Speedway Museum, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Luxe 1BR Cottage with Private Backyard, stay from 08:09 to 08:39, nearest transit: New York St & Keystone Ave, 174.16m away; Tony's of Indianapolis, Indianapolis, visit from 09:09 to 09:59, ; Mesh Indy, Indianapolis, visit from 14:00 to 15:00, ; Indianapolis Motor Speedway Museum, Indianapolis, visit from 15:30 to 19:00, ; The Melting Pot, Indianapolis, visit from 19:30 to 20:45, "
+  }
+]

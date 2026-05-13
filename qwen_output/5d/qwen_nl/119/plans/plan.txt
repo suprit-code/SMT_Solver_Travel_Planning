@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-04', '2024-11-06', '2024-11-08'],
+Transportation methods between cities: ['Flight Number: F1175772, from Everett to San Diego, Departure Time: 09:16, Arrival Time: 12:12', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Everett, duration: 735.17, distance: 1000.015, cost: 1000'],
+Restaurants (3 meals per day): ['-', '-', "Mimmo's, San Diego", "Filippi's Pizza Grotto Little Italy, San Diego", 'Alforon, San Diego', 'Pacific Beach AleHouse, San Diego', 'Trailer Park After Dark, San Diego', "Lou & Mickey's, San Diego", 'Din Tai Fung, San Diego', "Nello's Place, Redding", 'Cheesecakes Unlimited, Redding', 'Guadalajara Mexican Restaurant, Redding', 'Dam Burger, Redding', 'Olive Garden Italian Restaurant, Redding', 'Thai Cafe, Redding'],
+Attractions (1 per day): ['SeaWorld, San Diego', 'Birch Aquarium at Scripps, San Diego', 'San Diego Zoo, San Diego', 'Turtle Bay Exploration Park, Redding', 'Redding Civic Auditorium, Redding'],
+Accommodations (1 per city): ['Hilltop cabin retreat with lake & mountain views, San Diego', 'The God Spa, Redding']

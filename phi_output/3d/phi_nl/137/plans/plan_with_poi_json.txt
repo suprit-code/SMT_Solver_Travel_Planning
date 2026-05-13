@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Seattle",
+    "transportation": "Flight Number: F2887185, from Indianapolis to Seattle, Departure Time: 07:24, Arrival Time: 08:40",
+    "breakfast": "-",
+    "lunch": "Chan Seattle, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "The Museum of Flight, Seattle",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 09:10 to 09:40, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; The Museum of Flight, visit from 10:10 to 12:10, nearest transit: East Marginal Way S & S 94th Pl, 95.97m away; Chan Seattle, visit from 12:40 to 13:20, nearest transit: Pine St & 9th Ave, 68.08m away; Dough Zone Dumpling House - Seattle International District, visit from 19:00 to 19:40, nearest transit: 5th Ave S & S Weller St, 26.54m away; Ballard Greenwood Private Suite, stay from 23:00 to 08:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "JaK's Grill, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "Tulio, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:00 to 08:30, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; JaK's Grill, visit from 09:00 to 09:40, nearest transit: SW Alaska St & California Ave SW - Bay 1, 47.69m away; Klondike Gold Rush National Historical Park, visit from 10:10 to 12:10, nearest transit: Occidental Mall, 113.08m away; Noi Thai Cuisine, visit from 13:40 to 14:20, nearest transit: 2nd Ave & Seneca St, 181.65m away; Tulio, visit from 19:00 to 19:40, nearest transit: 5th Ave & Spring St, 55.15m away; Ballard Greenwood Private Suite, stay from 23:00 to 08:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Indianapolis",
+    "transportation": "Flight Number: F3316260, from Seattle to Indianapolis, Departure Time: 10:52, Arrival Time: 18:06",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "13 Coins Restaurant, Seattle",
+    "dinner": "-",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

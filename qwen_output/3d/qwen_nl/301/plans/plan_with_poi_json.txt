@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F1175204, from Everett to San Diego, Departure Time: 09:16, Arrival Time: 12:14",
+    "breakfast": "-",
+    "lunch": "The Fishery, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 12:39 to 12:59, nearest transit: 30th St & Dwight St, 532.03m away; The Fishery, visit from 13:24 to 14:04, nearest transit: Mission Bl & Opal St, 346.99m away; San Diego Zoo, visit from 14:29 to 16:29, nearest transit: Park Bl & Zoo Pl, 300.95m away; Pacific Beach AleHouse, visit from 19:00 to 19:40, nearest transit: Mission Bl & Thomas Av, 87.26m away; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 20:05 to 08:00, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "Torrey Pines State Natural Reserve, San Diego",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 08:00 to 08:30, nearest transit: 30th St & Dwight St, 532.03m away; Born & Raised, visit from 08:55 to 09:35, nearest transit: Kettner Bl & Grape St, 125.64m away; Torrey Pines State Natural Reserve, visit from 10:00 to 12:00, nearest transit: 11099 Callan Rd, 2058.55m away; Cowboy Star, visit from 13:35 to 14:15, nearest transit: 10th Av & Market St, 50.81m away; Juniper and Ivy, visit from 19:00 to 19:40, nearest transit: Kettner Bl & Grape St, 310.93m away; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 20:05 to 08:00, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Everett",
+    "transportation": "Flight Number: F0509620, from San Diego to Everett, Departure Time: 15:16, Arrival Time: 18:20",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 08:00 to 08:30, nearest transit: 30th St & Dwight St, 532.03m away; Ruth's Chris Steak House, visit from 08:55 to 09:35, nearest transit: N Harbor Dr & Ash St, 171.43m away; La Jolla Shores Park, visit from 10:00 to 12:00, nearest transit: La Jolla Shores Dr & Calle Frescota, 243.08m away; Mimmo's, visit from 13:35 to 14:15, nearest transit: India St & Cedar St, 148.81m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Francisco",
+    "transportation": "Flight Number: F3274088, from Miami to San Francisco, Departure Time: 08:41, Arrival Time: 11:43",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Capital Restaurant, San Francisco",
+    "attraction": "Exploratorium, San Francisco",
+    "accommodation": "Single Bed in 4-Bed Female Capsule Room, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Single Bed in 4-Bed Female Capsule Room, stay from 12:13 to 12:43, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away; Exploratorium, visit from 13:13 to 15:13, nearest transit: Mission @ Spear (Embarcadero), 1042.01m away; Capital Restaurant, visit from 19:00 to 19:40, nearest transit: Powell @ 22 4th, 972.30m away; Single Bed in 4-Bed Female Capsule Room, stay from 23:00 to 08:00, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "lunch": "Mo's Grill, San Francisco",
+    "dinner": "The Codmother Fish & Chips, San Francisco",
+    "attraction": "Ferry Building Marketplace, San Francisco",
+    "accommodation": "Single Bed in 4-Bed Female Capsule Room, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Single Bed in 4-Bed Female Capsule Room, stay from 08:00 to 08:30, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away; Luisa's Restaurant Wine Bar Since 1959, visit from 09:00 to 09:40, nearest transit: Powell @ 22 4th, 1897.76m away; Ferry Building Marketplace, visit from 10:10 to 12:10, nearest transit: Mission @ Spear (Embarcadero), 334.47m away; Mo's Grill, visit from 13:40 to 14:20, nearest transit: Mission @ Spear (Embarcadero), 1392.17m away; The Codmother Fish & Chips, visit from 19:00 to 19:40, nearest transit: Mission @ Spear (Embarcadero), 2616.38m away; Single Bed in 4-Bed Female Capsule Room, stay from 23:00 to 08:00, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Miami",
+    "transportation": "Flight Number: F1938562, from San Francisco to Miami, Departure Time: 13:15, Arrival Time: 21:35",
+    "breakfast": "Tadich Grill, San Francisco",
+    "lunch": "Good Mong Kok Bakery, San Francisco",
+    "dinner": "-",
+    "attraction": "Ghirardelli Square, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

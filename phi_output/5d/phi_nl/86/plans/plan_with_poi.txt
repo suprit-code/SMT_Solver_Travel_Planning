@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Lynchburg to Greensboro",
+    "transportation": "Taxi from Lynchburg to Greensboro, duration: 143.46166666666667, distance: 183.1366, cost : 183.0",
+    "breakfast": "-",
+    "lunch": "Golden Wok, Greensboro",
+    "dinner": "Mythos Grill, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 13:00 to 13:30, nearest transit: Glendale/Randleman Rd., 155.05m away; Golden Wok, Greensboro, visit from 14:00 to 15:00, ; International Civil Rights Center & Museum, Greensboro, visit from 15:30 to 20:15, ; Mythos Grill, Greensboro, visit from 20:45 to 23:10, ; A little Southern Hospitality, stay from 23:40 to 07:40, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Sarah's Kabob Shop, Greensboro",
+    "lunch": "Stamey's Barbecue, Greensboro",
+    "dinner": "Carolina's Diner, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:10 to 08:40, nearest transit: Glendale/Randleman Rd., 155.05m away; Sarah's Kabob Shop, Greensboro, visit from 09:10 to 10:00, ; Carolina Theatre, Greensboro, visit from 10:30 to 14:00, ; Stamey's Barbecue, Greensboro, visit from 14:30 to 16:44, ; Carolina's Diner, Greensboro, visit from 20:45 to 22:42, ; A little Southern Hospitality, stay from 23:12 to 07:12, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Dear Dad's, Greensboro",
+    "lunch": "-",
+    "dinner": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:42 to 08:12, nearest transit: Glendale/Randleman Rd., 155.05m away; Dear Dad's, Greensboro, visit from 08:42 to 09:32, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 14:30 to 15:00, nearest transit: Market St WB at 12th St, 326.9m away; Burgwin-Wright House and Gardens, Wilmington, visit from 15:30 to 19:00, ; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 19:30 to 20:45, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 21:15 to 05:15, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "General Denver Pub, Wilmington",
+    "lunch": "The Dixie Grill, Wilmington",
+    "dinner": "Flaming Amy's Burrito Barn, Wilmington",
+    "attraction": "-",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 07:52 to 08:22, nearest transit: Market St WB at 12th St, 326.9m away; General Denver Pub, Wilmington, visit from 08:52 to 10:00, ; The Dixie Grill, Wilmington, visit from 14:30 to 15:30, ; Flaming Amy's Burrito Barn, Wilmington, visit from 20:45 to 22:00, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 22:30 to 06:30, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Lynchburg",
+    "transportation": "Taxi from Wilmington to Lynchburg, duration: 337.39666666666665, distance: 448.5329, cost : 448.0",
+    "breakfast": "-",
+    "lunch": "Winnie's Tavern, Wilmington",
+    "dinner": "The Anchor, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 07:00 to 07:30, nearest transit: Market St WB at 12th St, 326.9m away; Battleship North Carolina, Wilmington, visit from 09:00 to 12:30, ; Winnie's Tavern, Wilmington, visit from 14:30 to 15:30, ; The Anchor, Wilmington, visit from 19:31 to 20:46, "
+  }
+]

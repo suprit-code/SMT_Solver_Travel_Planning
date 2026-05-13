@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Lexington",
+    "transportation": "Flight Number: F2350646, from Chicago to Lexington, Departure Time: 11:26, Arrival Time: 13:38",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Keeneland Track Kitchen, Lexington",
+    "attraction": "Lexington Brewing & Distilling Co., Lexington",
+    "accommodation": "Lexington Apt. with parking & private entrance, Lexington",
+    "event": "-",
+    "point_of_interest_list": "Lexington Apt. with parking & private entrance, stay from 14:08 to 14:38, nearest transit: Harrodsburg @ Man-O-War, 2139.72m away; Lexington Brewing & Distilling Co., visit from 15:08 to 17:08, nearest transit: Versailles @ Pine Inbound, 112.53m away; Keeneland Track Kitchen, visit from 19:00 to 19:40, nearest transit: Keeneland Race Track, 480.33m away; Lexington Apt. with parking & private entrance, stay from 23:00 to 08:00, nearest transit: Harrodsburg @ Man-O-War, 2139.72m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Lexington",
+    "transportation": "-",
+    "breakfast": "The Blue Heron Steakhouse, Lexington",
+    "lunch": "Carson's Food & Drink - On Main, Lexington",
+    "dinner": "Giuseppe's Ristorante Italiano, Lexington",
+    "attraction": "James E. Pepper Distillery, Lexington",
+    "accommodation": "Lexington Apt. with parking & private entrance, Lexington",
+    "event": "-",
+    "point_of_interest_list": "Lexington Apt. with parking & private entrance, stay from 08:00 to 08:30, nearest transit: Harrodsburg @ Man-O-War, 2139.72m away; The Blue Heron Steakhouse, visit from 09:00 to 09:40, nearest transit: Connie Griffith, 67.25m away; James E. Pepper Distillery, visit from 10:10 to 12:10, nearest transit: Forbes @ 255 Outbound, 435.89m away; Carson's Food & Drink - On Main, visit from 13:40 to 14:20, nearest transit: Elm Tree @ Main Outbound, 116.68m away; Giuseppe's Ristorante Italiano, visit from 19:00 to 19:40, nearest transit: Wal Mart @ Nicholas Park, 1206.73m away; Lexington Apt. with parking & private entrance, stay from 23:00 to 08:00, nearest transit: Harrodsburg @ Man-O-War, 2139.72m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Lexington to Chicago",
+    "transportation": "taxi, from Lexington to Chicago, duration: 421.46, distance: 594.2556999999999, cost: 594",
+    "breakfast": "Taj India Indian Restaurant, Lexington",
+    "lunch": "The Rackhouse Tavern, Lexington",
+    "dinner": "The Ketch Seafood Grill, Lexington",
+    "attraction": "Lexington Cemetery, Lexington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lexington Apt. with parking & private entrance, stay from 08:00 to 08:30, nearest transit: Harrodsburg @ Man-O-War, 2139.72m away; Taj India Indian Restaurant, visit from 09:00 to 09:40, nearest transit: Richmond @ Patchen, 98.84m away; Lexington Cemetery, visit from 10:10 to 12:10, nearest transit: West Main @ 833, 497.50m away; The Rackhouse Tavern, visit from 13:40 to 14:20, nearest transit: Harrodsburg @ Saint Joseph Hosp Outbound, 224.59m away; The Ketch Seafood Grill, visit from 19:00 to 19:40, nearest transit: Southland @ Rainbow, 237.59m away"
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Greensboro', 'Wilmington'],
+Transportation dates: ['2024-11-02', '2024-11-04', '2024-11-06'],
+Transportation methods between cities: ['taxi, from Lynchburg to Greensboro, duration: 143.46166666666667, distance: 183.1366, cost: 183', 'taxi, from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost: 334', 'taxi, from Wilmington to Lynchburg, duration: 337.39666666666665, distance: 448.5329, cost: 448'],
+Restaurants (3 meals per day): ['-', '-', '-', "Vito's Italian Restaurant, Greensboro", "Mimi's Cafe, Greensboro", "Dear Dad's, Greensboro", "Captain Bill's Seafood & Steak, Greensboro", 'Golden Wok, Greensboro', 'Crafted The Art of the Taco, Greensboro', 'The Dixie Grill, Wilmington', 'The Anchor, Wilmington', 'Catch, Wilmington', "Fat Tony's Italian Pub, Wilmington", 'Iron Hill Brewery & Restaurant, Wilmington', 'The Peppered Cupcake, Wilmington'],
+Attractions (1 per day): ['-', 'Carolina Theatre, Greensboro', 'Ambleside Gallery, Greensboro', 'Burgwin-Wright House and Gardens, Wilmington', 'Battleship North Carolina, Wilmington'],
+Accommodations (1 per city): ['⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊\u200d♀️🏥, Greensboro', 'Harbor Oaks, rest, relax, renew..., Wilmington']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Seattle",
+    "transportation": "Flight Number: F0854784, from Raleigh to Seattle, Departure Time: 07:13, Arrival Time: 10:06",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "Discovery Park, Seattle",
+    "accommodation": "At Mine - Prime Apartment in Seattle Downtown, Seattle",
+    "event": "-",
+    "point_of_interest_list": "At Mine - Prime Apartment in Seattle Downtown, stay from 10:31 to 10:51, nearest transit: 2nd Ave & Stewart St, 117.25m away; Discovery Park, visit from 11:16 to 13:16, nearest transit: Discovery Park Road & Texas Way, 604.23m away; Vons 1000 Spirits, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Seneca St, 159.67m away; At Mine - Prime Apartment in Seattle Downtown, stay from 20:05 to 08:00, nearest transit: 2nd Ave & Stewart St, 117.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "The Capital Grille, Seattle",
+    "dinner": "Salty's On Alki Beach, Seattle",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "At Mine - Prime Apartment in Seattle Downtown, Seattle",
+    "event": "-",
+    "point_of_interest_list": "At Mine - Prime Apartment in Seattle Downtown, stay from 08:00 to 08:30, nearest transit: 2nd Ave & Stewart St, 117.25m away; Noi Thai Cuisine, visit from 08:55 to 09:35, nearest transit: 2nd Ave & Seneca St, 181.65m away; Seattle Aquarium, visit from 10:00 to 12:00, nearest transit: 2nd Ave & Pike St, 363.98m away; The Capital Grille, visit from 13:35 to 14:15, nearest transit: 4th Ave & University, 41.04m away; Salty's On Alki Beach, visit from 19:00 to 19:40, nearest transit: Harbor Ave SW & 2100 Block, 145.40m away; At Mine - Prime Apartment in Seattle Downtown, stay from 20:05 to 08:00, nearest transit: 2nd Ave & Stewart St, 117.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Raleigh",
+    "transportation": "Flight Number: F3512440, from Seattle to Raleigh, Departure Time: 15:33, Arrival Time: 23:31",
+    "breakfast": "13 Coins Restaurant, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "At Mine - Prime Apartment in Seattle Downtown, stay from 08:00 to 08:10, nearest transit: 2nd Ave & Stewart St, 117.25m away; 13 Coins Restaurant, visit from 08:35 to 08:48, nearest transit: King Street Station, 107.40m away; Woodland Park Zoo, visit from 09:13 to 11:13, nearest transit: Phinney Ave N & N 55th St, 257.77m away; Dough Zone Dumpling House - Seattle International District, visit from 12:00 to 12:13, nearest transit: 5th Ave S & S Weller St, 26.54m away; Il Terrazzo Carmine, visit from 14:55 to 15:08, nearest transit: Alaskan Way S & S Jackson St, 103.57m away"
+  }
+]

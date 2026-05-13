@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Amarillo",
+    "transportation": "Taxi from Oklahoma City to Amarillo, duration: 268.945, distance: 415.9372, cost : 415.0",
+    "breakfast": "-",
+    "lunch": "Golden Light Cafe & Cantina, Amarillo",
+    "dinner": "El Manantial, Amarillo",
+    "attraction": "Amarillo Museum of Art, Amarillo",
+    "accommodation": "The Longhorn Lodge, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Longhorn Lodge, stay from 13:00 to 13:30, nearest transit: Plumb Creek Dr & Tascosa Rd (At North End of Walmart), 7016.08m away; Golden Light Cafe & Cantina, Amarillo, visit from 14:00 to 15:00, ; Amarillo Museum of Art, Amarillo, visit from 15:30 to 20:15, ; El Manantial, Amarillo, visit from 20:45 to 22:20, ; The Longhorn Lodge, stay from 22:50 to 06:50, nearest transit: Plumb Creek Dr & Tascosa Rd (At North End of Walmart), 7016.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Bracero Mexican Grill, Amarillo",
+    "lunch": "Ye Olde Pancake Station, Amarillo",
+    "dinner": "Coyote Bluff Cafe, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "The Longhorn Lodge, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "The Longhorn Lodge, stay from 07:20 to 07:50, nearest transit: Plumb Creek Dr & Tascosa Rd (At North End of Walmart), 7016.08m away; El Bracero Mexican Grill, Amarillo, visit from 08:20 to 09:59, ; Ye Olde Pancake Station, Amarillo, visit from 14:00 to 15:00, ; Route 66 Historic District, Amarillo, visit from 15:30 to 20:15, ; Coyote Bluff Cafe, Amarillo, visit from 20:45 to 22:23, ; The Longhorn Lodge, stay from 22:53 to 06:53, nearest transit: Plumb Creek Dr & Tascosa Rd (At North End of Walmart), 7016.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Metropolitan, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "N Padre Island-Mustang Island 1br 3bd Pet friendly, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "The Longhorn Lodge, stay from 07:23 to 07:53, nearest transit: Plumb Creek Dr & Tascosa Rd (At North End of Walmart), 7016.08m away; Metropolitan, Amarillo, visit from 08:23 to 09:13, ; N Padre Island-Mustang Island 1br 3bd Pet friendly, stay from 21:33 to 22:03, nearest transit: 2600-15002 Leeward, 56.34m away; N Padre Island-Mustang Island 1br 3bd Pet friendly, stay from 22:33 to 06:33, nearest transit: 2600-15002 Leeward, 56.34m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Republic of Texas Bar & Grill, Corpus Christi",
+    "lunch": "Acapulco Restaurant, Corpus Christi",
+    "dinner": "Andy's Kitchen, Corpus Christi",
+    "attraction": "-",
+    "accommodation": "N Padre Island-Mustang Island 1br 3bd Pet friendly, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "N Padre Island-Mustang Island 1br 3bd Pet friendly, stay from 07:03 to 07:33, nearest transit: 2600-15002 Leeward, 56.34m away; Republic of Texas Bar & Grill, Corpus Christi, visit from 08:03 to 08:53, ; Acapulco Restaurant, Corpus Christi, visit from 13:23 to 14:23, ; Andy's Kitchen, Corpus Christi, visit from 19:00 to 20:15, ; N Padre Island-Mustang Island 1br 3bd Pet friendly, stay from 20:45 to 04:45, nearest transit: 2600-15002 Leeward, 56.34m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F2236095, from Corpus Christi to Houston, Departure Time: 14:59, Arrival Time: 15:51",
+    "breakfast": "Yardarm Restaurant, Corpus Christi",
+    "lunch": "Executive Surf Club, Corpus Christi",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "N Padre Island-Mustang Island 1br 3bd Pet friendly, stay from 06:00 to 06:30, nearest transit: 2600-15002 Leeward, 56.34m away; Yardarm Restaurant, Corpus Christi, visit from 08:00 to 08:50, ; USS Lexington Museum, Corpus Christi, visit from 09:20 to 12:59, ; Executive Surf Club, Corpus Christi, visit from 13:29 to 14:29, ; Entire Apt in the Heart of the City - Galleria, stay from 16:21 to 16:51, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Pappas Bros. Steakhouse, Houston, visit from 19:00 to 20:15, ; Entire Apt in the Heart of the City - Galleria, stay from 20:45 to 04:45, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "National Museum of Funeral History, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:00 to 06:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Pappadeaux Seafood Kitchen, Houston, visit from 09:10 to 10:00, ; National Museum of Funeral History, Houston, visit from 10:30 to 14:00, ; Market on Houston, Houston, visit from 14:30 to 15:30, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 19:45 to 21:00, ; Entire Apt in the Heart of the City - Galleria, stay from 21:30 to 05:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Oklahoma City",
+    "transportation": "Taxi from Houston to Oklahoma City, duration: 471.9616666666667, distance: 715.9145, cost : 715.0",
+    "breakfast": "Eddie V's Prime Seafood, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:00 to 06:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Eddie V's Prime Seafood, Houston, visit from 08:00 to 08:50, ; Children's Museum Houston, Houston, visit from 09:20 to 12:50, ; Brennan's of Houston, Houston, visit from 14:30 to 15:30, ; Kenny & Ziggy's New York Deli, Houston, visit from 19:31 to 20:46, "
+  }
+]

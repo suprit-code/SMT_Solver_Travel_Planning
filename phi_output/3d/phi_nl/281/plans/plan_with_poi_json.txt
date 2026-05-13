@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Nashville",
+    "transportation": "Flight Number: F3263553, from Miami to Nashville, Departure Time: 16:02, Arrival Time: 17:25",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Ryman Auditorium, Nashville",
+    "accommodation": "Fancy Stay Walk to Broadway Park Free Let\u2019s Roll!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Puckett's 5th & Church, Nashville",
+    "lunch": "Paula Deen's Family Kitchen, Nashville",
+    "dinner": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Fancy Stay Walk to Broadway Park Free Let\u2019s Roll!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let\u2019s Roll!, stay from 08:00 to 08:30, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; Puckett's 5th & Church, visit from 09:00 to 09:40, nearest transit: 5TH AVE N & CHURCH ST NB, 39.47m away; Cheekwood, visit from 10:10 to 12:10, nearest transit: HWY 70 S & BROOK HOLLOW RD EB, 833.18m away; Paula Deen's Family Kitchen, visit from 13:40 to 14:20, nearest transit: OPRY MILLS FOOD COURT, 113.85m away; Bourbon Street Blues and Boogie Bar, visit from 19:00 to 19:40, nearest transit: 4TH AVE N & CHURCH ST SB, 75.44m away; Fancy Stay Walk to Broadway Park Free Let\u2019s Roll!, stay from 23:00 to 08:00, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Miami",
+    "transportation": "Flight Number: F1358790, from Nashville to Miami, Departure Time: 17:52, Arrival Time: 21:05",
+    "breakfast": "Kayne Prime, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "-",
+    "attraction": "Ole Smoky Distillery & Yee-Haw Brewery, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let\u2019s Roll!, stay from 08:00 to 08:30, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; Kayne Prime, visit from 09:00 to 09:40, nearest transit: 11TH AVE & DEMONBREUN NB, 104.79m away; Ole Smoky Distillery & Yee-Haw Brewery, visit from 10:10 to 12:10, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 122.92m away; Aquarium Restaurant, visit from 13:40 to 14:20, nearest transit: OPRY MILLS DR & GENERAL JACKSON'S, 170.74m away"
+  }
+]

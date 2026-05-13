@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to San Francisco",
+    "transportation": "Flight Number: F2378078, from Boise to San Francisco, Departure Time: 08:41, Arrival Time: 09:41",
+    "breakfast": "Mo's Grill, San Francisco",
+    "lunch": "Waterbar, San Francisco",
+    "dinner": "Scoma's Restaurant, San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Immaculate studio space  with free parking, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 10:06 to 10:12, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Mo's Grill, visit from 10:37 to 10:50, nearest transit: Mission @ Spear (Embarcadero), 1392.17m away; Lands End, visit from 11:15 to 13:15, nearest transit: Civic Center BART (9th and Market), 7487.45m away; Waterbar, visit from 14:50 to 15:30, nearest transit: Mission @ Spear (Embarcadero), 478.55m away; Scoma's Restaurant, visit from 19:30 to 20:10, nearest transit: Mission @ Spear (Embarcadero), 2812.24m away; Immaculate studio space  with free parking, stay from 20:35 to 08:00, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "House of Prime Rib, San Francisco",
+    "lunch": "Kokkari Estiatorio, San Francisco",
+    "dinner": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "Immaculate studio space  with free parking, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 08:00 to 08:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; House of Prime Rib, visit from 08:55 to 09:35, nearest transit: Civic Center @ 7th (Yotel), 1701.24m away; Golden Gate Park, visit from 10:00 to 12:00, nearest transit: Civic Center BART (9th and Market), 5974.62m away; Kokkari Estiatorio, visit from 13:35 to 14:15, nearest transit: Mission @ Spear (Embarcadero), 718.77m away; Luisa's Restaurant Wine Bar Since 1959, visit from 19:00 to 19:40, nearest transit: Powell @ 22 4th, 1897.76m away; Immaculate studio space  with free parking, stay from 23:00 to 08:00, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Boise",
+    "transportation": "Flight Number: F0592372, from San Francisco to Boise, Departure Time: 18:32, Arrival Time: 21:06",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "dinner": "Fog Harbor Fish House, San Francisco",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 08:00 to 08:10, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Quince, visit from 08:35 to 09:14, nearest transit: Mission @ Spear (Embarcadero), 994.70m away; Alcatraz Island, visit from 09:39 to 11:39, nearest transit: Mission @ Spear (Embarcadero), 4605.72m away; Fogo de Chao Brazilian Steakhouse, visit from 13:14 to 13:54, nearest transit: Powell @ 22 4th, 490.45m away; Fog Harbor Fish House, visit from 17:54 to 18:07, nearest transit: Mission @ Spear (Embarcadero), 2323.00m away"
+  }
+]

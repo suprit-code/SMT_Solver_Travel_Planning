@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to San Diego",
+    "transportation": "Flight Number: F2174068, from Chicago to San Diego, Departure Time: 05:37, Arrival Time: 07:55",
+    "breakfast": "Cafe Coyote, San Diego",
+    "lunch": "Mister A'S, San Diego",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "-",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 08:25 to 08:55, nearest transit: Upas St & 30th St, 403.13m away; Cafe Coyote, San Diego, visit from 09:39 to 10:29, ; Mister A'S, San Diego, visit from 14:30 to 15:30, ; Ruth's Chris Steak House, San Diego, visit from 19:31 to 20:46, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 21:16 to 05:16, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Addison Restaurant, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 06:00 to 06:30, nearest transit: Upas St & 30th St, 403.13m away; Addison Restaurant, San Diego, visit from 08:40 to 10:00, ; Birch Aquarium at Scripps, San Diego, visit from 10:30 to 14:00, ; Pacific Beach AleHouse, San Diego, visit from 14:30 to 16:44, ; Juniper and Ivy, San Diego, visit from 20:45 to 22:34, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 23:04 to 07:04, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "-",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "-",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:34 to 08:04, nearest transit: Upas St & 30th St, 403.13m away; Lou & Mickey's, San Diego, visit from 08:34 to 09:24, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 19:45 to 20:15, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Grange Restaurant & Bar, Sacramento, visit from 20:45 to 22:42, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 23:12 to 07:16, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Ella Dining Room & Bar, Sacramento",
+    "lunch": "Localis, Sacramento",
+    "dinner": "The Firehouse Restaurant, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 07:46 to 08:16, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Ella Dining Room & Bar, Sacramento, visit from 08:46 to 09:36, ; California State Capitol Museum, Sacramento, visit from 10:06 to 13:36, ; Localis, Sacramento, visit from 14:06 to 15:06, ; The Firehouse Restaurant, Sacramento, visit from 19:07 to 20:22, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 20:52 to 04:52, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Fresno",
+    "transportation": "Taxi from Sacramento to Fresno, duration: 198.32166666666663, distance: 273.258, cost : 273.0",
+    "breakfast": "Dawson's Steakhouse, Sacramento",
+    "lunch": "The Kitchen Restaurant, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Mid-Century Modern Oasis W/Spa, Fresno",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 06:00 to 06:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Dawson's Steakhouse, Sacramento, visit from 08:00 to 08:50, ; Capitol Park, Sacramento, visit from 09:20 to 12:50, ; The Kitchen Restaurant, Sacramento, visit from 13:20 to 14:20, ; Mid-Century Modern Oasis W/Spa, stay from 18:38 to 19:08, nearest transit: NW SHAW - SHAW LANE, 164.27m away; Mid-Century Modern Oasis W/Spa, stay from 19:38 to 03:38, nearest transit: NW SHAW - SHAW LANE, 164.27m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Fresno",
+    "transportation": "-",
+    "breakfast": "Sam's Italian Deli and Market, Fresno",
+    "lunch": "Fresno, Fresno",
+    "dinner": "Fleming's Prime Steakhouse & Wine Bar, Fresno",
+    "attraction": "-",
+    "accommodation": "Mid-Century Modern Oasis W/Spa, Fresno",
+    "event": "-",
+    "point_of_interest_list": "Mid-Century Modern Oasis W/Spa, stay from 06:00 to 06:30, nearest transit: NW SHAW - SHAW LANE, 164.27m away; Sam's Italian Deli and Market, Fresno, visit from 09:39 to 10:29, ; Fresno, Fresno, visit from 14:30 to 16:44, ; Fleming's Prime Steakhouse & Wine Bar, Fresno, visit from 20:45 to 23:30, ; Mid-Century Modern Oasis W/Spa, stay from 00:00 to 08:00, nearest transit: NW SHAW - SHAW LANE, 164.27m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Fresno to Chicago",
+    "transportation": "Flight Number: F2417142, from Fresno to Chicago, Departure Time: 23:56, Arrival Time: 05:32",
+    "breakfast": "Parma, Fresno",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Fresno Discovery Center, Fresno",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Mid-Century Modern Oasis W/Spa, stay from 08:30 to 09:00, nearest transit: NW SHAW - SHAW LANE, 164.27m away; Parma, Fresno, visit from 09:30 to 10:20, ; Fresno Discovery Center, Fresno, visit from 10:50 to 14:20, "
+  }
+]

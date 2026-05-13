@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Los Angeles to Nashville",
+    "transportation": "Flight Number: F3978382, from Los Angeles to Nashville, Departure Time: 19:09, Arrival Time: 00:57",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 01:27 to 01:57, nearest transit: PEABODY STATION INBOUND, 149.43m away; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 02:27 to 08:00, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Gannons Nashville, Nashville",
+    "lunch": "1 Kitchen, Nashville",
+    "dinner": "Puckett's 5th & Church, Nashville",
+    "attraction": "-",
+    "accommodation": "Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 08:30 to 09:00, nearest transit: PEABODY STATION INBOUND, 149.43m away; Gannons Nashville, Nashville, visit from 09:39 to 10:29, ; 1 Kitchen, Nashville, visit from 14:30 to 15:30, ; Puckett's 5th & Church, Nashville, visit from 19:31 to 20:46, ; Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 21:16 to 05:16, nearest transit: PEABODY STATION INBOUND, 149.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Los Angeles",
+    "transportation": "Flight Number: F0407877, from Nashville to Los Angeles, Departure Time: 20:20, Arrival Time: 23:00",
+    "breakfast": "The Catbird Seat, Nashville",
+    "lunch": "Old Hickory Steakhouse, Nashville",
+    "dinner": "-",
+    "attraction": "Andrew Jackson's Hermitage, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Little Zen Studio Apt. Downtown - Walk to Broadway, stay from 06:00 to 06:30, nearest transit: PEABODY STATION INBOUND, 149.43m away; The Catbird Seat, Nashville, visit from 08:00 to 08:50, ; Andrew Jackson's Hermitage, Nashville, visit from 09:20 to 12:50, ; Old Hickory Steakhouse, Nashville, visit from 13:20 to 14:20, "
+  }
+]

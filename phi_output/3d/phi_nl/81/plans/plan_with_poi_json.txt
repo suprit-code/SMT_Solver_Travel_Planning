@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Houston",
+    "transportation": "Flight Number: F2425432, from Cleveland to Houston, Departure Time: 15:20, Arrival Time: 17:24",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "The Breakfast Klub, Houston",
+    "lunch": "Merrill & Houston's Steak Joint, Houston",
+    "dinner": "Houstons Bar and Grill, Houston",
+    "attraction": "Holocaust Museum Houston, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 08:00 to 08:30, nearest transit: Yale St @ Thornton Rd, 203.09m away; The Breakfast Klub, visit from 09:00 to 09:40, nearest transit: Ensemble/Hcc Stn SB, 127.57m away; Holocaust Museum Houston, visit from 10:10 to 12:10, nearest transit: Binz St @ San Jacinto St, 202.78m away; Merrill & Houston's Steak Joint, visit from 13:40 to 14:20, nearest transit: Conroe Park & Ride, 1469727.25m away; Houstons Bar and Grill, visit from 19:00 to 19:40, nearest transit: Conroe Park & Ride, 7360300.27m away; Modern Houston Heights Getaway, stay from 23:00 to 08:00, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Cleveland",
+    "transportation": "Flight Number: F3417684, from Houston to Cleveland, Departure Time: 18:34, Arrival Time: 22:06",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Houston White Co, Houston",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 08:00 to 08:30, nearest transit: Yale St @ Thornton Rd, 203.09m away; Fogo de Chao Brazilian Steakhouse, visit from 09:00 to 09:40, nearest transit: Westheimer Rd @ Old Farm Rd, 57.72m away; Children's Museum Houston, visit from 10:10 to 12:10, nearest transit: Binz St @ Crawford St, 103.26m away; Houston Restaurant, visit from 12:44 to 13:24, nearest transit: Conroe Park & Ride, 2530051.98m away; Houston White Co, visit from 17:24 to 18:04, nearest transit: Baytown Park & Ride, 2075682.55m away"
+  }
+]

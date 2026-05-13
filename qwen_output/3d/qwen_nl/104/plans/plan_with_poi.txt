@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Nashville",
+    "transportation": "Flight Number: F3543281, from Seattle to Nashville, Departure Time: 17:55, Arrival Time: 00:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 00:31 to 01:01, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Dave's Place, stay from 01:31 to 08:00, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Gannons Nashville, Nashville",
+    "lunch": "Deacon’s New South, Nashville",
+    "dinner": "Kayne Prime, Nashville",
+    "attraction": "-",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 08:30 to 09:00, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Gannons Nashville, Nashville, visit from 09:30 to 10:20, ; Deacon’s New South, Nashville, visit from 14:21 to 15:21, ; Kayne Prime, Nashville, visit from 19:22 to 20:37, ; Dave's Place, stay from 21:07 to 04:29, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Seattle",
+    "transportation": "Flight Number: F1294517, from Nashville to Seattle, Departure Time: 05:59, Arrival Time: 08:46",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 04:59 to 05:29, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away"
+  }
+]

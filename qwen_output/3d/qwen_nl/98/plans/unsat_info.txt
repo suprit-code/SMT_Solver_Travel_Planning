@@ -1,0 +1,9 @@
+not ok
+Unsatisfiable core:
+travel start date
+travel end date
+visit city in cities list
+attraction in which city
+category score constraint
+valid attraction index
+non repeating attraction index

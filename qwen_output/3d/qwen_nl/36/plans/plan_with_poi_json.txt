@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Charleston",
+    "transportation": "Flight Number: F1298384, from Detroit to Charleston, Departure Time: 10:05, Arrival Time: 12:04",
+    "breakfast": "-",
+    "lunch": "Eli's Table, Charleston",
+    "dinner": "Husk Restaurant, Charleston",
+    "attraction": "Charleston City Market, Charleston",
+    "accommodation": "Lodge Alley Inn Steps to Charleston Harbor -Studio, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 12:29 to 12:49, nearest transit: East Bay St / Vendue Range, 68.87m away; Eli's Table, visit from 13:14 to 13:54, nearest transit: Meeting St / Queen St, 19.72m away; Charleston City Market, visit from 14:19 to 16:19, nearest transit: Market St / Meeting St, 50.09m away; Husk Restaurant, visit from 19:00 to 19:40, nearest transit: Meeting St / Queen St, 76.78m away; Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 20:05 to 08:00, nearest transit: East Bay St / Vendue Range, 68.87m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Oak Steakhouse, Charleston",
+    "lunch": "Hank's Seafood Restaurant, Charleston",
+    "dinner": "High Cotton Charleston, Charleston",
+    "attraction": "Cathedral of Saint John the Baptist, Charleston",
+    "accommodation": "Lodge Alley Inn Steps to Charleston Harbor -Studio, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 08:00 to 08:30, nearest transit: East Bay St / Vendue Range, 68.87m away; Oak Steakhouse, visit from 08:55 to 09:35, nearest transit: Broad St / Church St, 111.55m away; Cathedral of Saint John the Baptist, visit from 10:00 to 12:00, nearest transit: King St / Broad St, 154.57m away; Hank's Seafood Restaurant, visit from 13:35 to 14:15, nearest transit: Market St / Meeting St, 145.46m away; High Cotton Charleston, visit from 19:00 to 19:40, nearest transit: East Bay St / S. Market St, 85.53m away; Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 20:05 to 08:00, nearest transit: East Bay St / Vendue Range, 68.87m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Detroit",
+    "transportation": "taxi, from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost: 1366",
+    "breakfast": "Stars Restaurant-Rooftop & Grill Room, Charleston",
+    "lunch": "Poogan's Porch, Charleston",
+    "dinner": "Amen Street Fish & Raw Bar, Charleston",
+    "attraction": "The Charleston Museum, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 08:00 to 08:30, nearest transit: East Bay St / Vendue Range, 68.87m away; Stars Restaurant-Rooftop & Grill Room, visit from 08:55 to 09:35, nearest transit: King St / Morris St, 82.36m away; The Charleston Museum, visit from 10:00 to 12:00, nearest transit: Charleston Museum / Visitors Center, 4.15m away; Poogan's Porch, visit from 13:35 to 14:15, nearest transit: Meeting St / Queen St, 57.05m away; Amen Street Fish & Raw Bar, visit from 19:00 to 19:40, nearest transit: East Bay St / S. Market St, 56.01m away"
+  }
+]

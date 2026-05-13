@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sitka to Seattle",
+    "transportation": "Flight Number: F1516791, from Sitka to Seattle, Departure Time: 14:00, Arrival Time: 17:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Place Pigalle Restaurant and Bar, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "Treehouse with a VIEW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Spinasse, Seattle",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "Museum of Pop Culture, Seattle",
+    "accommodation": "Treehouse with a VIEW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Treehouse with a VIEW, stay from 08:00 to 08:30, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away; Noi Thai Cuisine, visit from 09:00 to 09:40, nearest transit: 2nd Ave & Seneca St, 181.65m away; Museum of Pop Culture, visit from 10:10 to 12:10, nearest transit: 5th Ave N & Broad St, 53.97m away; Spinasse, visit from 13:40 to 14:20, nearest transit: E Pine St & 15th Ave, 90.45m away; Il Terrazzo Carmine, visit from 19:00 to 19:40, nearest transit: Alaskan Way S & S Jackson St, 103.57m away; Treehouse with a VIEW, stay from 23:00 to 08:00, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Sitka",
+    "transportation": "Flight Number: F1518675, from Seattle to Sitka, Departure Time: 22:36, Arrival Time: 23:53",
+    "breakfast": "Tulio, Seattle",
+    "lunch": "Chinook's, Seattle",
+    "dinner": "JaK's Grill, Seattle",
+    "attraction": "The Museum of Flight, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Treehouse with a VIEW, stay from 08:00 to 08:30, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away; Tulio, visit from 09:00 to 09:40, nearest transit: 5th Ave & Spring St, 55.15m away; The Museum of Flight, visit from 10:10 to 12:10, nearest transit: East Marginal Way S & S 94th Pl, 95.97m away; Chinook's, visit from 13:40 to 14:20, nearest transit: W Emerson Pl & 21st Ave W, 135.06m away; JaK's Grill, visit from 19:00 to 19:40, nearest transit: SW Alaska St & California Ave SW - Bay 1, 47.69m away"
+  }
+]

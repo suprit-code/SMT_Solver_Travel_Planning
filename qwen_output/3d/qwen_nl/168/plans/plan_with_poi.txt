@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Flight Number: F1547631, from Martha's Vineyard to New York, Departure Time: 13:22, Arrival Time: 14:39",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Sylvia's Restaurant, New York",
+    "attraction": "-",
+    "accommodation": "NYC Bliss | Sightseeing. Fitness Center, New York",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 15:09 to 15:39, nearest transit: W 34 ST/BROADWAY, 60.68m away; Sylvia's Restaurant, New York, visit from 19:00 to 20:15, ; NYC Bliss | Sightseeing. Fitness Center, stay from 20:45 to 04:45, nearest transit: W 34 ST/BROADWAY, 60.68m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Gallaghers Steakhouse, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Azalea Ristorante, New York",
+    "attraction": "Brooklyn Bridge, New York",
+    "accommodation": "NYC Bliss | Sightseeing. Fitness Center, New York",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 06:00 to 06:30, nearest transit: W 34 ST/BROADWAY, 60.68m away; Gallaghers Steakhouse, New York, visit from 08:56 to 09:46, ; Brooklyn Bridge, New York, visit from 10:16 to 13:46, ; Westway Diner, New York, visit from 14:16 to 15:16, ; Azalea Ristorante, New York, visit from 19:17 to 20:32, ; NYC Bliss | Sightseeing. Fitness Center, stay from 21:02 to 05:02, nearest transit: W 34 ST/BROADWAY, 60.68m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Martha's Vineyard",
+    "transportation": "Flight Number: F1549408, from New York to Martha's Vineyard, Departure Time: 17:24, Arrival Time: 18:24",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "Del Frisco's Grille, New York",
+    "dinner": "-",
+    "attraction": "One World Observatory, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 06:00 to 06:30, nearest transit: W 34 ST/BROADWAY, 60.68m away; Times Square Diner, New York, visit from 08:00 to 08:50, ; One World Observatory, New York, visit from 09:20 to 12:50, ; Del Frisco's Grille, New York, visit from 14:30 to 15:30, "
+  }
+]

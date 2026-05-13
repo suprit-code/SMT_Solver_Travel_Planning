@@ -1,0 +1,6 @@
+not ok
+Unsatisfiable core:
+visit city in cities list
+valid accommodation index
+No parties rules accommodation visited
+Entire home/apt types accommodation visited

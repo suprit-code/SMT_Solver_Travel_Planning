@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-18', '2024-11-20'],
+Transportation methods between cities: ['Flight Number: F0311431, from Sacramento to Atlanta, Departure Time: 06:54, Arrival Time: 13:55', 'Flight Number: F2495358, from Atlanta to Sacramento, Departure Time: 16:56, Arrival Time: 18:38'],
+Restaurants (3 meals per day): ['-', '-', 'Home Grown, Atlanta', 'Pasta Da Pulcinella, Atlanta', 'Aviva by Kameel, Atlanta', "Ted's Montana Grill, Atlanta", 'Fox Bros. Bar-B-Q, Atlanta', 'Cafe Agora, Atlanta', '-'],
+Attractions (1 per day): ['Zoo Atlanta, Atlanta', 'Centennial Olympic Park, Atlanta', 'Atlanta History Center, Atlanta'],
+Accommodations (1 per city): ['Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta']

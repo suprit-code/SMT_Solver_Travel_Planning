@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Self-driving from Martha's Vineyard to New York, duration: 405.94166666666666, distance: 428.0015, cost : 21.0",
+    "breakfast": "-",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "Carmine's, New York",
+    "attraction": "-",
+    "accommodation": "One Bedroom 2 Queen room at Brooklyn, New York",
+    "event": "-",
+    "point_of_interest_list": "One Bedroom 2 Queen room at Brooklyn, stay from 13:30 to 14:00, nearest transit: PIKE ST/SOUTH ST, 2462.58m away; Peak Restaurant & Bar, New York, visit from 14:30 to 16:44, ; Carmine's, New York, visit from 20:45 to 22:00, ; One Bedroom 2 Queen room at Brooklyn, stay from 22:30 to 06:33, nearest transit: PIKE ST/SOUTH ST, 2462.58m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Times Square Diner, New York",
+    "lunch": "Del Frisco's Grille, New York",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "One Bedroom 2 Queen room at Brooklyn, New York",
+    "event": "-",
+    "point_of_interest_list": "One Bedroom 2 Queen room at Brooklyn, stay from 07:03 to 07:33, nearest transit: PIKE ST/SOUTH ST, 2462.58m away; Times Square Diner, New York, visit from 08:03 to 08:53, ; New York Public Library, New York, visit from 09:23 to 12:53, ; Del Frisco's Grille, New York, visit from 13:23 to 14:23, ; Gallaghers Steakhouse, New York, visit from 19:00 to 20:15, ; One Bedroom 2 Queen room at Brooklyn, stay from 23:47 to 07:47, nearest transit: PIKE ST/SOUTH ST, 2462.58m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Rochester",
+    "transportation": "Self-driving from New York to Rochester, duration: 404.6833333333333, distance: 511.5847, cost : 25.0",
+    "breakfast": "-",
+    "lunch": "Westway Diner, New York",
+    "dinner": "-",
+    "attraction": "Chelsea Market, New York",
+    "accommodation": "City View Loft 2BR, Rochester",
+    "event": "-",
+    "point_of_interest_list": "One Bedroom 2 Queen room at Brooklyn, stay from 08:17 to 08:47, nearest transit: PIKE ST/SOUTH ST, 2462.58m away; Chelsea Market, New York, visit from 09:17 to 12:47, ; Westway Diner, New York, visit from 13:17 to 14:56, ; City View Loft 2BR, stay from 22:40 to 23:10, nearest transit: Winona 61 & Hwy. 14, 1139740.73m away; City View Loft 2BR, stay from 23:40 to 07:40, nearest transit: Winona 61 & Hwy. 14, 1139740.73m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Rochester",
+    "transportation": "-",
+    "breakfast": "Don Vincenzo, Rochester",
+    "lunch": "Nick Tahou Hots, Rochester",
+    "dinner": "Rochester's Barbecue & Grill, Rochester",
+    "attraction": "The Strong National Museum of Play, Rochester",
+    "accommodation": "City View Loft 2BR, Rochester",
+    "event": "-",
+    "point_of_interest_list": "City View Loft 2BR, stay from 08:10 to 08:40, nearest transit: Winona 61 & Hwy. 14, 1139740.73m away; Don Vincenzo, Rochester, visit from 09:10 to 10:00, ; The Strong National Museum of Play, Rochester, visit from 10:30 to 14:00, ; Nick Tahou Hots, Rochester, visit from 14:30 to 15:30, ; Rochester's Barbecue & Grill, Rochester, visit from 20:45 to 22:00, ; City View Loft 2BR, stay from 22:30 to 06:30, nearest transit: Winona 61 & Hwy. 14, 1139740.73m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Rochester to Martha's Vineyard",
+    "transportation": "Self-driving from Rochester to Martha's Vineyard, duration: 603.14, distance: 746.2836, cost : 37.0",
+    "breakfast": "Hunan Garden, Rochester",
+    "lunch": "Rooney's Restaurant, Rochester",
+    "dinner": "Tiny Tim's Tea Rooms, Rochester",
+    "attraction": "Eastman Theatre, Rochester",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "City View Loft 2BR, stay from 07:00 to 07:30, nearest transit: Winona 61 & Hwy. 14, 1139740.73m away; Hunan Garden, Rochester, visit from 08:00 to 08:50, ; Eastman Theatre, Rochester, visit from 09:20 to 12:50, ; Rooney's Restaurant, Rochester, visit from 13:20 to 14:20, ; Tiny Tim's Tea Rooms, Rochester, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Francisco to Las Vegas",
+    "transportation": "Flight Number: F0555964, from San Francisco to Las Vegas, Departure Time: 16:12, Arrival Time: 17:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Garden Court, Las Vegas",
+    "lunch": "Ameribrunch Cafe, Las Vegas",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Garden Court, visit from 08:55 to 09:35, nearest transit: Circa, 185.80m away; Bellagio Conservatory & Botanical Garden, visit from 10:00 to 12:00, nearest transit: The Strat, 4344.51m away; Ameribrunch Cafe, visit from 13:35 to 14:15, nearest transit: Fremont East Entertainment District, 393.75m away; Eggscellent, visit from 19:00 to 19:40, nearest transit: The Strat, 4208.46m away; Gamble Adventure | Restaurant. Outside Pool, stay from 20:05 to 08:00, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to San Francisco",
+    "transportation": "Self-driving, from Las Vegas to San Francisco, duration: 635.1733333333334, distance: 911.6445, cost: 45",
+    "breakfast": "Mr. Mamas, Las Vegas",
+    "lunch": "Skyfall Lounge, Las Vegas",
+    "dinner": "Eggslut, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Mr. Mamas, visit from 08:55 to 09:35, nearest transit: The Strat, 9224.85m away; Hoover Dam Bypass, visit from 10:00 to 12:00, nearest transit: Fremont East Entertainment District, 39777.46m away; Skyfall Lounge, visit from 13:35 to 14:15, nearest transit: The Strat, 6368.08m away; Eggslut, visit from 19:00 to 19:40, nearest transit: The Strat, 4473.66m away"
+  }
+]

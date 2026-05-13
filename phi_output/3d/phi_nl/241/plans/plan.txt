@@ -1,0 +1,6 @@
+Destination cities: ['Santa Fe'],
+Transportation dates: ['2024-11-01', '2024-11-03'],
+Transportation methods between cities: ['Flight Number: F2624236, from Denver to Santa Fe, Departure Time: 13:27, Arrival Time: 14:29', 'taxi, from Santa Fe to Denver, duration: 412.9866666666667, distance: 631.7925, cost: 631'],
+Restaurants (3 meals per day): ['-', '-', 'La Boca, Santa Fe', 'Pantry Restaurant, Santa Fe', 'India House, Santa Fe', 'Palacio Restaurant, Santa Fe', "Tia Sophia's, Santa Fe", 'Rustica Fresh Italian Kitchen, Santa Fe', 'Clafoutis, Santa Fe'],
+Attractions (1 per day): ['Loretto Chapel, Santa Fe', 'Canyon Road, Santa Fe', 'San Miguel Chapel, Santa Fe'],
+Accommodations (1 per city): ["Cactus Bdrm- Ray's Country Gardens, Santa Fe"]

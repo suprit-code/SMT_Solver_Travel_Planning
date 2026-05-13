@@ -1,0 +1,6 @@
+Destination cities: ['New York'],
+Transportation dates: ['2024-11-21', '2024-11-23'],
+Transportation methods between cities: ['Flight Number: F1419289, from Madison to New York, Departure Time: 05:55, Arrival Time: 09:03', 'taxi, from New York to Madison, duration: 1065.7733333333333, distance: 1519.9384, cost: 1519'],
+Restaurants (3 meals per day): ['-', 'Nobu Fifty Seven, New York', 'Papillon Bistro & Bar, New York', 'Westway Diner, New York', 'Burger & Lobster, New York', 'Times Square Diner, New York', "Rao's Restaurant, New York", 'Piccola Cucina Estiatorio, New York', 'Rainbow Room, New York'],
+Attractions (1 per day): ['The National 9/11 Memorial & Museum, New York', 'The Metropolitan Museum of Art, New York', 'New York Public Library, New York'],
+Accommodations (1 per city): ['High Rise haven + Free Breakfast, New York']

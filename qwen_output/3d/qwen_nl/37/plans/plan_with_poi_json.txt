@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Greensboro",
+    "transportation": "Flight Number: F3788392, from Washington to Greensboro, Departure Time: 12:52, Arrival Time: 13:52",
+    "breakfast": "-",
+    "lunch": "MJ's Steak and Seafood, Greensboro",
+    "dinner": "B. Christopher's, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Cottage at Three Magnolias, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 14:17 to 14:25, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; MJ's Steak and Seafood, visit from 14:50 to 15:30, nearest transit: West Friendly/Dolly Madison, 84.21m away; International Civil Rights Center & Museum, visit from 15:55 to 17:55, nearest transit: International Civil Rights Museum , 3.98m away; B. Christopher's, visit from 19:30 to 20:10, nearest transit: Elm/Friendly (Northbound), 22.34m away; Cottage at Three Magnolias, stay from 20:35 to 08:00, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "1618 West Seafood Grill, Greensboro",
+    "lunch": "Osteria Italian Restaurant, Greensboro",
+    "dinner": "Dear Dad's, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "Cottage at Three Magnolias, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 08:00 to 08:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; 1618 West Seafood Grill, visit from 08:55 to 09:35, nearest transit: West Friendly/Radiance Dr (OB), 39.88m away; Carolina Theatre, visit from 10:00 to 12:00, nearest transit: Washington/Eugene, 118.33m away; Osteria Italian Restaurant, visit from 13:35 to 14:15, nearest transit: 1400 Westover, 116.00m away; Dear Dad's, visit from 19:00 to 19:40, nearest transit: Battleground/Old Battleground, 64.41m away; Cottage at Three Magnolias, stay from 20:05 to 08:00, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Washington",
+    "transportation": "taxi, from Greensboro to Washington, duration: 357.15833333333336, distance: 496.6706, cost: 496",
+    "breakfast": "Print Works Bistro, Greensboro",
+    "lunch": "Mimi's Cafe, Greensboro",
+    "dinner": "Undercurrent Restaurant, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 08:00 to 08:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; Print Works Bistro, visit from 08:55 to 09:35, nearest transit: Westover Ave/Lucky 32, 672.45m away; Ambleside Gallery, visit from 10:00 to 12:00, nearest transit: Elm/Lewis, 35.43m away; Mimi's Cafe, visit from 13:35 to 14:15, nearest transit: West Friendly/Mimi's Restaurant, 40.77m away; Undercurrent Restaurant, visit from 19:00 to 19:40, nearest transit: Elm/Lindsay (Southbound), 207.83m away"
+  }
+]

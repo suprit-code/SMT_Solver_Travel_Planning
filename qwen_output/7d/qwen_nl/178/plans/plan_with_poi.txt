@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to San Diego",
+    "transportation": "Flight Number: F2624868, from Nashville to San Diego, Departure Time: 11:44, Arrival Time: 13:53",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Covewood Restaurant, San Diego",
+    "attraction": "Torrey Pines State Natural Reserve, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 14:23 to 14:53, nearest transit: Adams Av & Biona Dr, 102.11m away; Torrey Pines State Natural Reserve, San Diego, visit from 15:23 to 20:15, ; Covewood Restaurant, San Diego, visit from 20:45 to 22:12, ; Central & Serene Secret Garden Guesthouse, stay from 22:42 to 06:42, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Barbusa, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 07:12 to 07:42, nearest transit: Adams Av & Biona Dr, 102.11m away; Barbusa, San Diego, visit from 08:12 to 10:00, ; San Diego Zoo, San Diego, visit from 10:30 to 14:00, ; Born & Raised, San Diego, visit from 14:30 to 15:30, ; Morning Glory, San Diego, visit from 19:45 to 21:00, ; Central & Serene Secret Garden Guesthouse, stay from 21:30 to 05:30, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Flight Number: F2347051, from San Diego to Los Angeles, Departure Time: 20:46, Arrival Time: 21:36",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "Cozy Beverly Hills Studio Guest House, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 06:00 to 06:30, nearest transit: Adams Av & Biona Dr, 102.11m away; Mimmo's, San Diego, visit from 08:00 to 08:50, ; Pacific Beach AleHouse, San Diego, visit from 12:51 to 13:51, ; La Jolla Shores Park, San Diego, visit from 14:21 to 18:31, ; Lou & Mickey's, San Diego, visit from 19:01 to 20:16, ; Cozy Beverly Hills Studio Guest House, stay from 22:06 to 22:36, nearest transit: Olympic Blvd & Beverwil Dr. (Westbound), 127.65m away; Cozy Beverly Hills Studio Guest House, stay from 23:06 to 07:09, nearest transit: Olympic Blvd & Beverwil Dr. (Westbound), 127.65m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Perch, Los Angeles",
+    "lunch": "Cafe Gratitude Venice, Los Angeles",
+    "dinner": "Ayara Thai Cuisine, Los Angeles",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "Cozy Beverly Hills Studio Guest House, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Cozy Beverly Hills Studio Guest House, stay from 07:39 to 08:09, nearest transit: Olympic Blvd & Beverwil Dr. (Westbound), 127.65m away; Perch, Los Angeles, visit from 08:39 to 09:29, ; Griffith Park, Los Angeles, visit from 09:59 to 13:29, ; Cafe Gratitude Venice, Los Angeles, visit from 13:59 to 16:44, ; Ayara Thai Cuisine, Los Angeles, visit from 20:45 to 23:30, ; Cozy Beverly Hills Studio Guest House, stay from 00:00 to 08:00, nearest transit: Olympic Blvd & Beverwil Dr. (Westbound), 127.65m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Flight Number: F3971922, from Los Angeles to San Francisco, Departure Time: 12:19, Arrival Time: 13:29",
+    "breakfast": "Water Grill, Los Angeles",
+    "lunch": "-",
+    "dinner": "Mersea Restaurant & Bar, San Francisco",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Cozy Beverly Hills Studio Guest House, stay from 08:30 to 09:00, nearest transit: Olympic Blvd & Beverwil Dr. (Westbound), 127.65m away; Water Grill, Los Angeles, visit from 09:30 to 11:49, ; Spacious and charming 1bd apartment on Ocean Beach, stay from 13:59 to 14:29, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Alcatraz Island, San Francisco, visit from 14:59 to 18:29, ; Mersea Restaurant & Bar, San Francisco, visit from 19:00 to 20:15, ; Spacious and charming 1bd apartment on Ocean Beach, stay from 20:45 to 05:30, nearest transit: Civic Center BART (9th and Market), 8766.73m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "dinner": "Waterbar, San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Spacious and charming 1bd apartment on Ocean Beach, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 8766.73m away; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 08:05 to 08:55, ; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 12:56 to 13:56, ; Lands End, San Francisco, visit from 14:26 to 17:56, ; Waterbar, San Francisco, visit from 20:45 to 22:00, ; Spacious and charming 1bd apartment on Ocean Beach, stay from 22:30 to 06:30, nearest transit: Civic Center BART (9th and Market), 8766.73m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to Nashville",
+    "transportation": "Flight Number: F3434343, from San Francisco to Nashville, Departure Time: 17:00, Arrival Time: 23:06",
+    "breakfast": "The Stinking Rose, San Francisco",
+    "lunch": "Pier Market Seafood Restaurant, San Francisco",
+    "dinner": "-",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Spacious and charming 1bd apartment on Ocean Beach, stay from 07:00 to 07:30, nearest transit: Civic Center BART (9th and Market), 8766.73m away; The Stinking Rose, San Francisco, visit from 08:00 to 08:50, ; Pier 39, San Francisco, visit from 09:20 to 12:50, ; Pier Market Seafood Restaurant, San Francisco, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Atlanta",
+    "transportation": "Self-driving from Oklahoma City to Atlanta, duration: 905.6433333333332, distance: 1363.4583, cost : 68.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 21:52 to 22:22, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Historic Lounge - Private BR in the Heart of ATL#2, stay from 22:52 to 06:52, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Marcel, Atlanta",
+    "lunch": "Bone's Restaurant, Atlanta",
+    "dinner": "Canoe, Atlanta",
+    "attraction": "Lenox Square, Atlanta",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 07:22 to 07:52, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Marcel, Atlanta, visit from 08:22 to 09:12, ; Lenox Square, Atlanta, visit from 09:42 to 13:12, ; Bone's Restaurant, Atlanta, visit from 14:30 to 16:44, ; Canoe, Atlanta, visit from 20:45 to 22:00, ; Historic Lounge - Private BR in the Heart of ATL#2, stay from 22:30 to 06:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Oklahoma City",
+    "transportation": "Self-driving from Atlanta to Oklahoma City, duration: 906.8333333333334, distance: 1364.7578999999998, cost : 68.0",
+    "breakfast": "The Capital Grille, Atlanta",
+    "lunch": "Ray's in the City, Atlanta",
+    "dinner": "The Sun Dial Restaurant, Bar & View, Atlanta",
+    "attraction": "Fox Theatre, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 07:00 to 07:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; The Capital Grille, Atlanta, visit from 08:00 to 08:50, ; Fox Theatre, Atlanta, visit from 09:20 to 12:50, ; Ray's in the City, Atlanta, visit from 13:20 to 14:20, ; The Sun Dial Restaurant, Bar & View, Atlanta, visit from 19:00 to 20:15, "
+  }
+]

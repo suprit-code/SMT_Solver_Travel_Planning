@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F0270992, from Hartford to Las Vegas, Departure Time: 19:00, Arrival Time: 21:44",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private Cozy Room with own entrance and pool ., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 22:14 to 22:44, nearest transit: The Strat, 8199.37m away; Private Cozy Room with own entrance and pool ., stay from 23:14 to 07:14, nearest transit: The Strat, 8199.37m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Kabuto, Las Vegas",
+    "lunch": "Top of the World, Las Vegas",
+    "dinner": "Eiffel Tower Restaurant, Las Vegas",
+    "attraction": "Las Vegas North Premium Outlets, Las Vegas",
+    "accommodation": "Private Cozy Room with own entrance and pool ., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 07:44 to 08:14, nearest transit: The Strat, 8199.37m away; Kabuto, Las Vegas, visit from 08:44 to 09:59, ; Top of the World, Las Vegas, visit from 14:00 to 15:00, ; Las Vegas North Premium Outlets, Las Vegas, visit from 15:30 to 19:00, ; Eiffel Tower Restaurant, Las Vegas, visit from 19:30 to 20:45, ; Private Cozy Room with own entrance and pool ., stay from 00:00 to 08:00, nearest transit: The Strat, 8199.37m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F0821771, from Las Vegas to Hartford, Departure Time: 23:55, Arrival Time: 07:40",
+    "breakfast": "The Mayfair Supper Club, Las Vegas",
+    "lunch": "-",
+    "dinner": "Sw Steakhouse, Las Vegas",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 08:30 to 09:00, nearest transit: The Strat, 8199.37m away; The Mayfair Supper Club, Las Vegas, visit from 09:30 to 10:20, ; Sw Steakhouse, Las Vegas, visit from 19:22 to 20:37, "
+  }
+]

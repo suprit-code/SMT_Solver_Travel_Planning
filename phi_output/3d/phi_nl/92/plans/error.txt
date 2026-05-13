@@ -1,0 +1,11 @@
+Error message:
+'House rules for visitors' is not in list
+
+Full traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/SMT_Solver_TravelPlanning/Test_TravelPlannerv2.py", line 366, in pipeline
+    exec(codes)
+  File "<string>", line 194, in <module>
+  File "/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/accommodations/apis.py", line 185, in check_exists
+    exists = Select(accommodation_list, index, types_rule_list.index(type))
+ValueError: 'House rules for visitors' is not in list

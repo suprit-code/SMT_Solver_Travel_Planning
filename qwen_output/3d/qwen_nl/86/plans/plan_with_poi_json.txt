@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Las Vegas",
+    "transportation": "Flight Number: F3577733, from Sioux Falls to Las Vegas, Departure Time: 12:16, Arrival Time: 13:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "Super cozy brand new furnished private room! 2, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Super cozy brand new furnished private room! 2, stay from 13:36 to 13:56, nearest transit: The Strat, 5032.45m away; Bellagio Conservatory & Botanical Garden, visit from 14:21 to 16:21, nearest transit: The Strat, 4344.51m away; Mr. Mamas, visit from 19:00 to 19:40, nearest transit: The Strat, 9224.85m away; Super cozy brand new furnished private room! 2, stay from 20:05 to 08:00, nearest transit: The Strat, 5032.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "dinner": "Garden Court, Las Vegas",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "Super cozy brand new furnished private room! 2, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Super cozy brand new furnished private room! 2, stay from 08:00 to 08:30, nearest transit: The Strat, 5032.45m away; Ameribrunch Cafe, visit from 08:55 to 09:35, nearest transit: Fremont East Entertainment District, 393.75m away; Red Rock Canyon National Conservation Area, visit from 10:00 to 12:00, nearest transit: The Strat, 24322.91m away; Firefly Tapas Kitchen & Bar, visit from 13:35 to 14:15, nearest transit: The Strat, 3079.37m away; Garden Court, visit from 19:00 to 19:40, nearest transit: Circa, 185.80m away; Super cozy brand new furnished private room! 2, stay from 20:05 to 08:00, nearest transit: The Strat, 5032.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Sioux Falls",
+    "transportation": "Flight Number: F2560739, from Las Vegas to Sioux Falls, Departure Time: 16:07, Arrival Time: 20:39",
+    "breakfast": "Eggslut, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Carmine's, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Super cozy brand new furnished private room! 2, stay from 08:00 to 08:10, nearest transit: The Strat, 5032.45m away; Eggslut, visit from 08:35 to 08:48, nearest transit: The Strat, 4473.66m away; Hoover Dam Bypass, visit from 09:13 to 11:13, nearest transit: Fremont East Entertainment District, 39777.46m away; Eggscellent, visit from 12:00 to 12:13, nearest transit: The Strat, 4208.46m away; Carmine's, visit from 15:29 to 15:42, nearest transit: The Strat, 3610.12m away"
+  }
+]

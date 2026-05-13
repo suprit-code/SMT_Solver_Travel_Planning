@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Las Vegas",
+    "transportation": "Flight Number: F2106965, from Memphis to Las Vegas, Departure Time: 16:28, Arrival Time: 17:57",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Hash House a Go Go, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "MGM Signature-17-803 F1 Track & Strip View Studio, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Skyfall Lounge, Las Vegas",
+    "lunch": "Mr. Mamas, Las Vegas",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "MGM Signature-17-803 F1 Track & Strip View Studio, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "MGM Signature-17-803 F1 Track & Strip View Studio, stay from 08:00 to 08:30, nearest transit: The Strat, 4553.09m away; Skyfall Lounge, visit from 08:55 to 09:35, nearest transit: The Strat, 6368.08m away; Red Rock Canyon National Conservation Area, visit from 10:00 to 12:00, nearest transit: The Strat, 24322.91m away; Mr. Mamas, visit from 13:35 to 14:15, nearest transit: The Strat, 9224.85m away; Eggscellent, visit from 19:00 to 19:40, nearest transit: The Strat, 4208.46m away; MGM Signature-17-803 F1 Track & Strip View Studio, stay from 20:05 to 08:00, nearest transit: The Strat, 4553.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Memphis",
+    "transportation": "Flight Number: F0376611, from Las Vegas to Memphis, Departure Time: 16:07, Arrival Time: 21:45",
+    "breakfast": "Gordon Ramsay Pub & Grill, Las Vegas",
+    "lunch": "Ping Pang Pong, Las Vegas",
+    "dinner": "-",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "MGM Signature-17-803 F1 Track & Strip View Studio, stay from 08:00 to 08:30, nearest transit: The Strat, 4553.09m away; Gordon Ramsay Pub & Grill, visit from 08:55 to 09:35, nearest transit: The Strat, 3768.48m away; Hoover Dam Bypass, visit from 10:00 to 12:00, nearest transit: Fremont East Entertainment District, 39777.46m away; Ping Pang Pong, visit from 13:35 to 14:15, nearest transit: The Strat, 4724.71m away"
+  }
+]

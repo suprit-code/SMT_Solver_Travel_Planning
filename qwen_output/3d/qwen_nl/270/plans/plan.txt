@@ -1,0 +1,6 @@
+Destination cities: ['Madison'],
+Transportation dates: ['2024-11-22', '2024-11-24'],
+Transportation methods between cities: ['Flight Number: F2367542, from Chicago to Madison, Departure Time: 09:06, Arrival Time: 09:56', 'Flight Number: F2460212, from Madison to Chicago, Departure Time: 18:00, Arrival Time: 18:59'],
+Restaurants (3 meals per day): ['Town 220 Restaurant, Madison', 'The Madison, Madison', 'Naples 15, Madison', "L'Etoile Restaurant, Madison", "Madison's, Madison", 'Avra Madison Estiatorio, Madison', 'Madison, Madison', 'Mickies Dairy Bar, Madison', '-'],
+Attractions (1 per day): ['Olbrich Botanical Gardens, Madison', 'Henry Vilas Zoo, Madison', 'Downtown Madison, Madison'],
+Accommodations (1 per city): ['Lakeview Loft - Downtown Madison, Madison']

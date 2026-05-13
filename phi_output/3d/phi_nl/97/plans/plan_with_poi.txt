@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Martha's Vineyard",
+    "transportation": "Self-driving from Charlotte to Martha's Vineyard, duration: 1122.7316666666666, distance: 1420.8184, cost : 71.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Martha's Vineyard Getaway Cottage, Martha's Vineyard",
+    "event": "-",
+    "point_of_interest_list": "Martha's Vineyard Getaway Cottage, stay from 01:12 to 01:42, nearest transit: West Chop Lighthouse, 468.41m away; Martha's Vineyard Getaway Cottage, stay from 02:12 to 08:00, nearest transit: West Chop Lighthouse, 468.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Martha's Vineyard",
+    "transportation": "-",
+    "breakfast": "Atria, Martha's Vineyard",
+    "lunch": "Bobby B's Restaurant & Bakery, Martha's Vineyard",
+    "dinner": "The Attic, Martha's Vineyard",
+    "attraction": "-",
+    "accommodation": "Martha's Vineyard Getaway Cottage, Martha's Vineyard",
+    "event": "-",
+    "point_of_interest_list": "Martha's Vineyard Getaway Cottage, stay from 08:30 to 09:00, nearest transit: West Chop Lighthouse, 468.41m away; Atria, Martha's Vineyard, visit from 09:39 to 10:29, ; Bobby B's Restaurant & Bakery, Martha's Vineyard, visit from 14:30 to 15:30, ; The Attic, Martha's Vineyard, visit from 19:31 to 20:46, ; Martha's Vineyard Getaway Cottage, stay from 21:16 to 05:16, nearest transit: West Chop Lighthouse, 468.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Martha's Vineyard to Charlotte",
+    "transportation": "Self-driving from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost : 71.0",
+    "breakfast": "Detente Restaurant and Wine Bar, Martha's Vineyard",
+    "lunch": "Bettini Restaurant, Martha's Vineyard",
+    "dinner": "The Terrace at The Charlotte Inn, Martha's Vineyard",
+    "attraction": "Flying Horses Carousel, Martha's Vineyard",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Martha's Vineyard Getaway Cottage, stay from 06:00 to 06:30, nearest transit: West Chop Lighthouse, 468.41m away; Detente Restaurant and Wine Bar, Martha's Vineyard, visit from 08:00 to 08:50, ; Flying Horses Carousel, Martha's Vineyard, visit from 09:20 to 12:50, ; Bettini Restaurant, Martha's Vineyard, visit from 13:59 to 14:59, ; The Terrace at The Charlotte Inn, Martha's Vineyard, visit from 19:00 to 20:15, "
+  }
+]

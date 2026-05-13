@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Charlotte",
+    "transportation": "Flight Number: F3974104, from Denver to Charlotte, Departure Time: 14:32, Arrival Time: 19:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 19:53 to 20:23, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Comfy private bed and bath, stay from 23:00 to 08:00, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Bistro Charlotte, Charlotte",
+    "lunch": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "dinner": "The Charlotte Hotel & Restaurant, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 08:00 to 08:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Bistro Charlotte, visit from 09:00 to 09:40, nearest transit: Beaty St @ 866, 7764630.63m away; Truist Field, visit from 10:10 to 12:10, nearest transit: 4th St & Graham St, 146.25m away; Rooster's Wood-Fired Kitchen - Uptown, visit from 13:40 to 14:20, nearest transit: Trade St & College St, 139.39m away; The Charlotte Hotel & Restaurant, visit from 19:00 to 19:40, nearest transit: Concord Mills Mall, 515812.44m away; Comfy private bed and bath, stay from 23:00 to 08:00, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Denver",
+    "transportation": "Flight Number: F2379557, from Charlotte to Denver, Departure Time: 15:59, Arrival Time: 17:49",
+    "breakfast": "The Terrace at The Charlotte Inn, Charlotte",
+    "lunch": "Charlotte's Tavern, Charlotte",
+    "dinner": "Charlotte & Fritz, Charlotte",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 08:00 to 08:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; The Terrace at The Charlotte Inn, visit from 09:00 to 09:40, nearest transit: Beaty St @ 866, 1111842.47m away; Charlotte's Tavern, visit from 12:00 to 12:40, nearest transit: Oakland St & Main Ave, 3482493.72m away; Charlotte & Fritz, visit from 14:49 to 15:29, nearest transit: Beaty St @ 866, 7233404.02m away"
+  }
+]

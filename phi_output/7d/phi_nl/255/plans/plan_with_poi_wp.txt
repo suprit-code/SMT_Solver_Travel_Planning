@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Greensboro",
+    "transportation": "Taxi from Sarasota to Greensboro, duration: 790.9466666666667, distance: 1113.121, cost : 1113.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mimi's Cafe, Greensboro",
+    "attraction": "-",
+    "accommodation": "Will's Place - Close to Downtown!, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Will's Place - Close to Downtown!, stay from 19:45 to 20:15, nearest transit: Battleground/Mill St, 534.7m away; Mimi's Cafe, Greensboro, visit from 20:45 to 22:31, ; Will's Place - Close to Downtown!, stay from 23:01 to 07:01, nearest transit: Battleground/Mill St, 534.7m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Print Works Bistro, Greensboro",
+    "lunch": "MJ's Steak and Seafood, Greensboro",
+    "dinner": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Will's Place - Close to Downtown!, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Will's Place - Close to Downtown!, stay from 07:31 to 08:01, nearest transit: Battleground/Mill St, 534.7m away; Print Works Bistro, Greensboro, visit from 08:31 to 09:29, ; MJ's Steak and Seafood, Greensboro, visit from 13:30 to 14:30, ; Ambleside Gallery, Greensboro, visit from 15:00 to 18:30, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 19:00 to 20:15, ; Will's Place - Close to Downtown!, stay from 20:45 to 04:45, nearest transit: Battleground/Mill St, 534.7m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Undercurrent Restaurant, Greensboro",
+    "lunch": "Captain Bill's Seafood & Steak, Greensboro",
+    "dinner": "-",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Harbor Oaks, rest, relax, renew..., Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Will's Place - Close to Downtown!, stay from 06:00 to 06:30, nearest transit: Battleground/Mill St, 534.7m away; Undercurrent Restaurant, Greensboro, visit from 08:00 to 08:50, ; International Civil Rights Center & Museum, Greensboro, visit from 09:20 to 12:50, ; Captain Bill's Seafood & Steak, Greensboro, visit from 13:20 to 14:20, ; Harbor Oaks, rest, relax, renew..., stay from 22:11 to 22:41, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away; Harbor Oaks, rest, relax, renew..., stay from 23:11 to 07:11, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Ruth's Chris Steak House, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "The Basics, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Harbor Oaks, rest, relax, renew..., Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Harbor Oaks, rest, relax, renew..., stay from 07:41 to 08:11, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away; Ruth's Chris Steak House, Wilmington, visit from 08:41 to 10:00, ; Burgwin-Wright House and Gardens, Wilmington, visit from 10:30 to 14:00, ; Flaming Amy's Burrito Barn, Wilmington, visit from 14:30 to 15:30, ; The Basics, Wilmington, visit from 20:45 to 22:52, ; Harbor Oaks, rest, relax, renew..., stay from 23:22 to 07:22, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F2161517, from Wilmington to Charlotte, Departure Time: 08:52, Arrival Time: 10:00",
+    "breakfast": "-",
+    "lunch": "ROKA Charlotte Street, Charlotte",
+    "dinner": "Bistro Charlotte, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Harbor Oaks, rest, relax, renew..., stay from 07:52 to 08:22, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away; ❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 10:30 to 11:00, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; ROKA Charlotte Street, Charlotte, visit from 12:00 to 13:00, ; Levine Museum of the New South, Charlotte, visit from 15:00 to 18:30, ; Bistro Charlotte, Charlotte, visit from 19:00 to 20:15, ; ❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 20:45 to 04:45, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Midwood Smokehouse, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "The Charlotte Hotel & Restaurant, Charlotte",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 06:00 to 06:30, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Midwood Smokehouse, Charlotte, visit from 08:03 to 08:53, ; Charlotte's Eats and Sweets, Charlotte, visit from 12:54 to 13:54, ; Mint Museum Uptown, Charlotte, visit from 14:24 to 17:54, ; The Charlotte Hotel & Restaurant, Charlotte, visit from 19:00 to 20:15, ; ❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 23:40 to 07:40, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Sarasota",
+    "transportation": "Taxi from Charlotte to Sarasota, duration: 711.625, distance: 1015.2705, cost : 1015.0",
+    "breakfast": "The Terrace at The Charlotte Inn, Charlotte",
+    "lunch": "Charlotte Bakery, Charlotte",
+    "dinner": "Charlotte's Tavern, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 08:10 to 08:40, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; The Terrace at The Charlotte Inn, Charlotte, visit from 09:10 to 10:00, ; NASCAR Hall of Fame, Charlotte, visit from 10:30 to 14:00, ; Charlotte Bakery, Charlotte, visit from 14:30 to 15:30, ; Charlotte's Tavern, Charlotte, visit from 19:31 to 20:46, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Wilmington",
+    "transportation": "Self-driving from Boston to Wilmington, duration: 962.64, distance: 1302.4002, cost : 65.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Harbor Oaks, rest, relax, renew..., Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Harbor Oaks, rest, relax, renew..., stay from 22:32 to 23:02, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away; Harbor Oaks, rest, relax, renew..., stay from 23:32 to 07:32, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Flaming Amy's Burrito Barn, Wilmington",
+    "lunch": "The Wilmington, Wilmington",
+    "dinner": "Copper Penny, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "Harbor Oaks, rest, relax, renew..., Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Harbor Oaks, rest, relax, renew..., stay from 08:02 to 08:32, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away; Flaming Amy's Burrito Barn, Wilmington, visit from 09:10 to 10:00, ; Battleship North Carolina, Wilmington, visit from 10:30 to 14:00, ; The Wilmington, Wilmington, visit from 14:30 to 15:44, ; Copper Penny, Wilmington, visit from 19:45 to 21:00, ; Harbor Oaks, rest, relax, renew..., stay from 21:30 to 05:30, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wilmington to Boston",
+    "transportation": "Self-driving from Wilmington to Boston, duration: 960.1366666666668, distance: 1295.6133, cost : 64.0",
+    "breakfast": "Winnie's Tavern, Wilmington",
+    "lunch": "The Anchor, Wilmington",
+    "dinner": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Harbor Oaks, rest, relax, renew..., stay from 06:00 to 07:30, nearest transit: Carolina Beach Rd SB at Horn Rd, 1330.15m away; Winnie's Tavern, Wilmington, visit from 08:00 to 08:50, ; The Anchor, Wilmington, visit from 12:51 to 13:51, ; Burgwin-Wright House and Gardens, Wilmington, visit from 15:00 to 18:30, ; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 19:00 to 20:15, "
+  }
+]

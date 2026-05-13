@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Reno",
+    "transportation": "Flight Number: F3771295, from New York to Reno, Departure Time: 20:11, Arrival Time: 23:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Room in Sparks, Reno",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Reno",
+    "transportation": "-",
+    "breakfast": "Bricks Restaurant & Wine Bar, Reno",
+    "lunch": "La Strada, Reno",
+    "dinner": "Bimini Steakhouse, Reno",
+    "attraction": "Truckee River Walk, Reno",
+    "accommodation": "Room in Sparks, Reno",
+    "event": "-",
+    "point_of_interest_list": "Room in Sparks, stay from 08:00 to 08:30, nearest transit: Victorian Avenue and 3rd Street, 40.66m away; Bricks Restaurant & Wine Bar, visit from 09:00 to 09:40, nearest transit: Regency Way Station, 81.32m away; Truckee River Walk, visit from 10:10 to 12:10, nearest transit: Arlington Avenue at Wingfield Park, 157.20m away; La Strada, visit from 13:40 to 14:20, nearest transit: North Virginia Street and 5th Street, 246.87m away; Bimini Steakhouse, visit from 19:00 to 19:40, nearest transit: South Virginia Street at Peppermill Casino, 175.86m away; Room in Sparks, stay from 23:00 to 08:00, nearest transit: Victorian Avenue and 3rd Street, 40.66m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Reno to New York",
+    "transportation": "Flight Number: F0819895, from Reno to New York, Departure Time: 00:57, Arrival Time: 08:36",
+    "breakfast": "Red Bloom, Reno",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

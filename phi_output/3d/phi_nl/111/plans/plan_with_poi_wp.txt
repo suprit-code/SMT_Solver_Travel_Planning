@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to San Francisco",
+    "transportation": "Flight Number: F1474906, from Charlotte to San Francisco, Departure Time: 13:11, Arrival Time: 15:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Codmother Fish & Chips, San Francisco",
+    "attraction": "-",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 15:50 to 16:20, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; The Codmother Fish & Chips, San Francisco, visit from 19:00 to 20:15, ; Updated Private Bedroom with Ensuite Bathroom., stay from 21:30 to 05:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Good Mong Kok Bakery, San Francisco",
+    "lunch": "Mersea Restaurant & Bar, San Francisco",
+    "dinner": "Capital Restaurant, San Francisco",
+    "attraction": "Ghirardelli Square, San Francisco",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 06:00 to 06:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Good Mong Kok Bakery, San Francisco, visit from 08:22 to 09:12, ; Mersea Restaurant & Bar, San Francisco, visit from 14:00 to 15:00, ; Ghirardelli Square, San Francisco, visit from 15:30 to 19:15, ; Capital Restaurant, San Francisco, visit from 19:45 to 21:00, ; Updated Private Bedroom with Ensuite Bathroom., stay from 21:30 to 05:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Charlotte",
+    "transportation": "Flight Number: F2811338, from San Francisco to Charlotte, Departure Time: 13:20, Arrival Time: 21:04",
+    "breakfast": "Eagle Cafe, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Ferry Building Marketplace, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 06:00 to 06:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Eagle Cafe, San Francisco, visit from 08:00 to 08:50, ; Ferry Building Marketplace, San Francisco, visit from 09:20 to 12:50, "
+  }
+]

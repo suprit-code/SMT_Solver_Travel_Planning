@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to New York",
+    "transportation": "Flight Number: F3155997, from Sarasota to New York, Departure Time: 12:05, Arrival Time: 14:35",
+    "breakfast": "-",
+    "lunch": "Rao's Restaurant, New York",
+    "dinner": "La Grande Boucherie, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "NYC Bliss | Sightseeing. Fitness Center, New York",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 15:00 to 15:06, nearest transit: W 34 ST/BROADWAY, 60.68m away; Rao's Restaurant, visit from 15:31 to 16:11, nearest transit: E 116 ST/PLEASANT AV, 168.60m away; Central Park, visit from 16:36 to 18:36, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; La Grande Boucherie, visit from 20:11 to 20:51, nearest transit: 7 AV/W 54 ST, 124.66m away; NYC Bliss | Sightseeing. Fitness Center, stay from 21:16 to 08:00, nearest transit: W 34 ST/BROADWAY, 60.68m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge\u2019s Delicatessen & Diner, New York",
+    "lunch": "Del Frisco's Double Eagle Steakhouse, New York",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "American Museum of Natural History, New York",
+    "accommodation": "NYC Bliss | Sightseeing. Fitness Center, New York",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 08:00 to 08:30, nearest transit: W 34 ST/BROADWAY, 60.68m away; Sarge\u2019s Delicatessen & Diner, visit from 08:55 to 09:35, nearest transit: 3 AV/E 37 ST, 101.41m away; American Museum of Natural History, visit from 10:00 to 12:00, nearest transit: CENTRAL PARK WEST/W 79 ST, 124.14m away; Del Frisco's Double Eagle Steakhouse, visit from 13:35 to 14:15, nearest transit: W 49 ST/AVENUE OF THE AMERICAS, 94.03m away; Gallaghers Steakhouse, visit from 19:00 to 19:40, nearest transit: 7 AV/W 52 ST, 131.50m away; NYC Bliss | Sightseeing. Fitness Center, stay from 20:05 to 08:00, nearest transit: W 34 ST/BROADWAY, 60.68m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Sarasota",
+    "transportation": "Flight Number: F2914264, from New York to Sarasota, Departure Time: 15:38, Arrival Time: 18:52",
+    "breakfast": "Nobu Fifty Seven, New York",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "NYC Bliss | Sightseeing. Fitness Center, stay from 08:00 to 08:10, nearest transit: W 34 ST/BROADWAY, 60.68m away; Nobu Fifty Seven, visit from 08:35 to 08:48, nearest transit: W 57 ST/AVENUE OF THE AMERICAS, 57.03m away; The High Line, visit from 09:13 to 11:13, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Peak Restaurant & Bar, visit from 12:00 to 12:13, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; Del Frisco's Grille, visit from 15:00 to 15:13, nearest transit: 5 AV/W 50 ST, 139.24m away"
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Nashville'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Self-driving, from New York to Nashville, duration: 993.97, distance: 1424.3275, cost: 71', 'Self-driving, from Nashville to New York, duration: 994.2066666666668, distance: 1424.3848, cost: 71'],
+Restaurants (3 meals per day): ['-', '-', '-', "Puckett's 5th & Church, Nashville", 'The Catbird Seat, Nashville', "Jeff Ruby's Steakhouse, Nashville, Nashville", 'Deacon’s New South, Nashville', 'Aquarium Restaurant, Nashville', 'The Farm House, Nashville'],
+Attractions (1 per day): ['-', 'Cheekwood, Nashville', 'Gaylord Opryland Garden Conservatory, Nashville'],
+Accommodations (1 per city): ['Rustic & Modern Loft by Broadway, Nashville']

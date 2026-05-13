@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Los Angeles",
+    "transportation": "Flight Number: F0167865, from Charlotte to Los Angeles, Departure Time: 15:12, Arrival Time: 17:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Pizzeria Mozza, Los Angeles",
+    "lunch": "Bavel, Los Angeles",
+    "dinner": "L'Antica Pizzeria Da Michele, Los Angeles",
+    "attraction": "Citadel Outlets, Los Angeles",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 08:00 to 08:30, nearest transit: Oxnard St & Radford Ave, 386.65m away; Pizzeria Mozza, visit from 09:00 to 09:40, nearest transit: Fountain & Las Palmas Ave., 1264.33m away; Citadel Outlets, visit from 10:10 to 12:10, nearest transit: Herbert Ave & Whittier Blvd (4354), 3385.72m away; Bavel, visit from 13:40 to 14:20, nearest transit: Molino St & Palmetto St, 153.71m away; L'Antica Pizzeria Da Michele, visit from 19:00 to 19:40, nearest transit: Highland & Sunset Blvd., 159.83m away; Hollywood Hideaway, stay from 23:00 to 08:00, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Charlotte",
+    "transportation": "Flight Number: F2804166, from Los Angeles to Charlotte, Departure Time: 13:33, Arrival Time: 21:16",
+    "breakfast": "Ayara Thai Cuisine, Los Angeles",
+    "lunch": "Perch, Los Angeles",
+    "dinner": "-",
+    "attraction": "The Grove, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Tampa",
+    "transportation": "Self-driving from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost : 52.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bernini Restaurant, Tampa",
+    "attraction": "-",
+    "accommodation": "Downtown Tampa Pool House! Walk to Armature Works!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Downtown Tampa Pool House! Walk to Armature Works!, stay from 18:38 to 19:08, nearest transit: Busch Gardens Employee Entrance, 9918.32m away; Bernini Restaurant, Tampa, visit from 19:38 to 22:25, ; Downtown Tampa Pool House! Walk to Armature Works!, stay from 22:55 to 06:55, nearest transit: Busch Gardens Employee Entrance, 9918.32m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Eddie V's Prime Seafood, Tampa",
+    "lunch": "Yummy House China Bistro, Tampa",
+    "dinner": "Bern's Steak House, Tampa",
+    "attraction": "Museum of Science and Industry, Tampa",
+    "accommodation": "Downtown Tampa Pool House! Walk to Armature Works!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Downtown Tampa Pool House! Walk to Armature Works!, stay from 07:25 to 07:55, nearest transit: Busch Gardens Employee Entrance, 9918.32m away; Eddie V's Prime Seafood, Tampa, visit from 08:25 to 09:59, ; Yummy House China Bistro, Tampa, visit from 14:00 to 15:00, ; Museum of Science and Industry, Tampa, visit from 15:30 to 20:15, ; Bern's Steak House, Tampa, visit from 20:45 to 23:09, ; Downtown Tampa Pool House! Walk to Armature Works!, stay from 23:39 to 07:39, nearest transit: Busch Gardens Employee Entrance, 9918.32m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Raleigh",
+    "transportation": "Self-driving from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost : 51.0",
+    "breakfast": "Curry Leaves Indian Cuisine, Tampa",
+    "lunch": "Rusty Pelican Tampa, Tampa",
+    "dinner": "-",
+    "attraction": "Glazer Children's Museum, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Tampa Pool House! Walk to Armature Works!, stay from 08:09 to 08:39, nearest transit: Busch Gardens Employee Entrance, 9918.32m away; Curry Leaves Indian Cuisine, Tampa, visit from 09:09 to 09:59, ; Rusty Pelican Tampa, Tampa, visit from 14:00 to 15:00, ; Glazer Children's Museum, Tampa, visit from 15:30 to 19:00, "
+  }
+]

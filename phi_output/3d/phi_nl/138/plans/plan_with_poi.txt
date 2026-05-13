@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Colorado Springs",
+    "transportation": "Flight Number: F1809643, from Chicago to Colorado Springs, Departure Time: 09:53, Arrival Time: 11:24",
+    "breakfast": "-",
+    "lunch": "Jack Quinn's Irish Pub & Restaurant, Colorado Springs",
+    "dinner": "Pizzeria Rustica, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "Casa De Mariposas, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 11:54 to 12:24, nearest transit: Galley/Ford, 862.13m away; Jack Quinn's Irish Pub & Restaurant, Colorado Springs, visit from 12:54 to 14:30, ; Seven Falls, Colorado Springs, visit from 15:00 to 18:30, ; Pizzeria Rustica, Colorado Springs, visit from 19:00 to 20:15, ; Casa De Mariposas, stay from 23:02 to 07:02, nearest transit: Galley/Ford, 862.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Edelweiss German Restaurant, Colorado Springs",
+    "lunch": "Carlos Bistro, Colorado Springs",
+    "dinner": "The Melting Pot, Colorado Springs",
+    "attraction": "U.S. Olympic & Paralympic Museum, Colorado Springs",
+    "accommodation": "Casa De Mariposas, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 07:32 to 08:02, nearest transit: Galley/Ford, 862.13m away; Edelweiss German Restaurant, Colorado Springs, visit from 08:32 to 09:59, ; Carlos Bistro, Colorado Springs, visit from 14:00 to 15:00, ; U.S. Olympic & Paralympic Museum, Colorado Springs, visit from 15:30 to 19:00, ; The Melting Pot, Colorado Springs, visit from 19:30 to 20:45, ; Casa De Mariposas, stay from 22:30 to 06:30, nearest transit: Galley/Ford, 862.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Colorado Springs to Chicago",
+    "transportation": "Flight Number: F2664912, from Colorado Springs to Chicago, Departure Time: 17:13, Arrival Time: 20:21",
+    "breakfast": "Mountain Shadows Restaurant, Colorado Springs",
+    "lunch": "The Famous Steak House, Colorado Springs",
+    "dinner": "-",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 07:00 to 07:30, nearest transit: Galley/Ford, 862.13m away; Mountain Shadows Restaurant, Colorado Springs, visit from 08:00 to 08:50, ; Garden of the Gods, Colorado Springs, visit from 09:20 to 12:50, ; The Famous Steak House, Colorado Springs, visit from 13:20 to 16:43, "
+  }
+]

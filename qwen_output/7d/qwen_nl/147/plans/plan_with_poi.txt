@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to San Diego",
+    "transportation": "Flight Number: F1969922, from Portland to San Diego, Departure Time: 15:00, Arrival Time: 17:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "-",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 17:43 to 18:13, nearest transit: Imperial Av & 54th St, 396.9m away; Mimmo's, San Diego, visit from 19:00 to 20:15, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 20:45 to 04:45, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Las Hadas Grill, San Diego",
+    "lunch": "Buon Appetito, San Diego",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 06:00 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away; Las Hadas Grill, San Diego, visit from 09:10 to 10:00, ; SeaWorld, San Diego, visit from 10:30 to 14:00, ; Buon Appetito, San Diego, visit from 14:30 to 15:30, ; Pacific Beach AleHouse, San Diego, visit from 19:31 to 20:46, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 22:30 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Bencotto Italian Kitchen, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Forest Room, Redding",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 07:00 to 07:30, nearest transit: Imperial Av & 54th St, 396.9m away; Bencotto Italian Kitchen, San Diego, visit from 08:00 to 08:50, ; The Forest Room, stay from 22:17 to 22:47, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; The Forest Room, stay from 23:17 to 07:17, nearest transit: Hartnell Ave at Churn Ct, 100.85m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Trendy's, Redding",
+    "lunch": "New China, Redding",
+    "dinner": "Champa Garden, Redding",
+    "attraction": "Redding Civic Auditorium, Redding",
+    "accommodation": "The Forest Room, Redding",
+    "event": "-",
+    "point_of_interest_list": "The Forest Room, stay from 07:47 to 08:17, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; Trendy's, Redding, visit from 08:47 to 09:37, ; Redding Civic Auditorium, Redding, visit from 10:07 to 13:37, ; New China, Redding, visit from 14:07 to 15:07, ; Champa Garden, Redding, visit from 19:08 to 20:23, ; The Forest Room, stay from 22:30 to 06:30, nearest transit: Hartnell Ave at Churn Ct, 100.85m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Taxi from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 259.0",
+    "breakfast": "Los Gordos, Redding",
+    "lunch": "Dam Burger, Redding",
+    "dinner": "-",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "The Forest Room, stay from 07:00 to 07:30, nearest transit: Hartnell Ave at Churn Ct, 100.85m away; Los Gordos, Redding, visit from 08:00 to 08:50, ; Dam Burger, Redding, visit from 12:51 to 13:51, ; Turtle Bay Exploration Park, Redding, visit from 14:21 to 17:51, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 21:47 to 22:17, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 22:47 to 06:47, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Bangkok @12 Thai Restaurant, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 07:17 to 07:47, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Bangkok @12 Thai Restaurant, Sacramento, visit from 08:31 to 10:00, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; Nopalitos, Sacramento, visit from 14:30 to 15:30, ; Paesano's Pizzeria, Sacramento, visit from 19:31 to 20:46, ; 1 or 2 Bedrooms next to downtown Sacramento/River, stay from 22:30 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Portland",
+    "transportation": "Flight Number: F1113927, from Sacramento to Portland, Departure Time: 18:21, Arrival Time: 19:51",
+    "breakfast": "Aviators Restaurant, Sacramento",
+    "lunch": "Pilothouse Restaurant on the Delta King, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 or 2 Bedrooms next to downtown Sacramento/River, stay from 07:00 to 07:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 625.07m away; Aviators Restaurant, Sacramento, visit from 08:00 to 08:50, ; Pilothouse Restaurant on the Delta King, Sacramento, visit from 12:51 to 13:51, ; California State Capitol Museum, Sacramento, visit from 14:21 to 17:51, "
+  }
+]

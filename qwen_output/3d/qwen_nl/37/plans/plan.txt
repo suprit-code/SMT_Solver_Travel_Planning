@@ -1,0 +1,6 @@
+Destination cities: ['Greensboro'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F3788392, from Washington to Greensboro, Departure Time: 12:52, Arrival Time: 13:52', 'taxi, from Greensboro to Washington, duration: 357.15833333333336, distance: 496.6706, cost: 496'],
+Restaurants (3 meals per day): ['-', "MJ's Steak and Seafood, Greensboro", "B. Christopher's, Greensboro", '1618 West Seafood Grill, Greensboro', 'Osteria Italian Restaurant, Greensboro', "Dear Dad's, Greensboro", 'Print Works Bistro, Greensboro', "Mimi's Cafe, Greensboro", 'Undercurrent Restaurant, Greensboro'],
+Attractions (1 per day): ['International Civil Rights Center & Museum, Greensboro', 'Carolina Theatre, Greensboro', 'Ambleside Gallery, Greensboro'],
+Accommodations (1 per city): ['Cottage at Three Magnolias, Greensboro']

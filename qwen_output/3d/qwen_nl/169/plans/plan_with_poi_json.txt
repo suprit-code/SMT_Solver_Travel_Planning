@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Santa Rosa to Seattle",
+    "transportation": "Flight Number: F0514692, from Santa Rosa to Seattle, Departure Time: 07:06, Arrival Time: 09:15",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "El Gaucho Seattle, Seattle",
+    "dinner": "The Capital Grille, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Inviting heart of Seattle hidaway, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Inviting heart of Seattle hidaway, stay from 09:40 to 09:46, nearest transit: 3rd Ave & Bell St, 135.88m away; Noi Thai Cuisine, visit from 10:11 to 10:50, nearest transit: 2nd Ave & Seneca St, 181.65m away; Woodland Park Zoo, visit from 11:15 to 13:15, nearest transit: Phinney Ave N & N 55th St, 257.77m away; El Gaucho Seattle, visit from 14:50 to 15:30, nearest transit: 2nd Ave & Bell St, 181.71m away; The Capital Grille, visit from 19:30 to 20:10, nearest transit: 4th Ave & University, 41.04m away; Inviting heart of Seattle hidaway, stay from 20:35 to 08:00, nearest transit: 3rd Ave & Bell St, 135.88m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Matt's in the Market, Seattle",
+    "lunch": "Salty's On Alki Beach, Seattle",
+    "dinner": "Six Seven Restaurant, Seattle",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "Inviting heart of Seattle hidaway, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Inviting heart of Seattle hidaway, stay from 08:00 to 08:30, nearest transit: 3rd Ave & Bell St, 135.88m away; Matt's in the Market, visit from 08:55 to 09:35, nearest transit: 2nd Ave & Pike St, 155.00m away; Seattle Aquarium, visit from 10:00 to 12:00, nearest transit: 2nd Ave & Pike St, 363.98m away; Salty's On Alki Beach, visit from 13:35 to 14:15, nearest transit: Harbor Ave SW & 2100 Block, 145.40m away; Six Seven Restaurant, visit from 19:00 to 19:40, nearest transit: 1st Ave & Broad St, 540.95m away; Inviting heart of Seattle hidaway, stay from 20:05 to 08:00, nearest transit: 3rd Ave & Bell St, 135.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Santa Rosa",
+    "transportation": "Flight Number: F3864799, from Seattle to Santa Rosa, Departure Time: 15:58, Arrival Time: 18:10",
+    "breakfast": "Spinasse, Seattle",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "The Butcher's Table, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Inviting heart of Seattle hidaway, stay from 08:00 to 08:10, nearest transit: 3rd Ave & Bell St, 135.88m away; Spinasse, visit from 08:35 to 08:48, nearest transit: E Pine St & 15th Ave, 90.45m away; Klondike Gold Rush National Historical Park, visit from 09:13 to 11:13, nearest transit: Occidental Mall, 113.08m away; Il Terrazzo Carmine, visit from 12:00 to 12:13, nearest transit: Alaskan Way S & S Jackson St, 103.57m away; The Butcher's Table, visit from 15:20 to 15:33, nearest transit: Westlake & 9th-Denny, 32.31m away"
+  }
+]

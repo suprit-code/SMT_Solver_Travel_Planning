@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Madison to New York",
+    "transportation": "Flight Number: F1419289, from Madison to New York, Departure Time: 05:55, Arrival Time: 09:03",
+    "breakfast": "-",
+    "lunch": "Nobu Fifty Seven, New York",
+    "dinner": "Papillon Bistro & Bar, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 09:33 to 10:03, nearest transit: 6 AV/W 45 ST, 155.74m away; The National 9/11 Memorial & Museum, visit from 10:33 to 12:33, nearest transit: CHURCH ST/LIBERTY ST, 234.55m away; Nobu Fifty Seven, visit from 13:03 to 13:43, nearest transit: W 57 ST/AVENUE OF THE AMERICAS, 57.03m away; Papillon Bistro & Bar, visit from 19:00 to 19:40, nearest transit: MADISON AV/E 53 ST, 82.27m away; High Rise haven + Free Breakfast, stay from 23:00 to 08:00, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Westway Diner, New York",
+    "lunch": "Burger & Lobster, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 08:00 to 08:30, nearest transit: 6 AV/W 45 ST, 155.74m away; Westway Diner, visit from 09:00 to 09:40, nearest transit: 9 AV/W 44 ST, 44.32m away; The Metropolitan Museum of Art, visit from 10:10 to 12:10, nearest transit: 5 AV/E 80 ST, 182.01m away; Burger & Lobster, visit from 13:40 to 14:20, nearest transit: W 42 ST/BROADWAY, 75.08m away; Times Square Diner, visit from 19:00 to 19:40, nearest transit: W 49 ST/8 AV, 51.46m away; High Rise haven + Free Breakfast, stay from 23:00 to 08:00, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Madison",
+    "transportation": "taxi, from New York to Madison, duration: 1065.7733333333333, distance: 1519.9384, cost: 1519",
+    "breakfast": "Rao's Restaurant, New York",
+    "lunch": "Piccola Cucina Estiatorio, New York",
+    "dinner": "Rainbow Room, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 08:00 to 08:30, nearest transit: 6 AV/W 45 ST, 155.74m away; Rao's Restaurant, visit from 09:00 to 09:40, nearest transit: E 116 ST/PLEASANT AV, 168.60m away; New York Public Library, visit from 10:10 to 12:10, nearest transit: 5 AV/W 42 ST, 34.90m away; Piccola Cucina Estiatorio, visit from 13:40 to 14:20, nearest transit: 6 AV/BROOME ST, 118.93m away; Rainbow Room, visit from 19:00 to 19:40, nearest transit: W 50 ST/AVENUE OF THE AMERICAS, 92.40m away"
+  }
+]

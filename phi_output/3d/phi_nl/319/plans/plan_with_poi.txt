@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F0270992, from Hartford to Las Vegas, Departure Time: 19:00, Arrival Time: 21:44",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 22:14 to 22:44, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 23:14 to 07:14, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Sw Steakhouse, Las Vegas",
+    "lunch": "Primal Steakhouse, Las Vegas",
+    "dinner": "Top of the World, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 07:44 to 08:14, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Sw Steakhouse, Las Vegas, visit from 09:10 to 10:00, ; Hoover Dam Bypass, Las Vegas, visit from 10:30 to 14:00, ; Primal Steakhouse, Las Vegas, visit from 14:30 to 15:30, ; Top of the World, Las Vegas, visit from 19:31 to 20:46, ; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 21:16 to 05:16, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F0821771, from Las Vegas to Hartford, Departure Time: 23:55, Arrival Time: 07:40",
+    "breakfast": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "lunch": "-",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:30 to 09:00, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 09:30 to 10:20, ; Eggscellent, Las Vegas, visit from 20:45 to 22:00, "
+  }
+]

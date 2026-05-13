@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Victoria to Amarillo",
+    "transportation": "Taxi from Victoria to Amarillo, duration: 663.5933333333334, distance: 1000.8854, cost : 1000.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Green Chile Willy's Grill, Amarillo",
+    "attraction": "-",
+    "accommodation": "❤️Relax in charming 1920s Bohemian Bungalow❤️, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 18:45 to 19:15, nearest transit: S Washington St & SW 28th Ave, 319.2m away; Green Chile Willy's Grill, Amarillo, visit from 19:45 to 21:00, ; ❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 21:30 to 05:30, nearest transit: S Washington St & SW 28th Ave, 319.2m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Metropolitan, Amarillo",
+    "lunch": "Ohms Cafe & Catering, Amarillo",
+    "dinner": "575° Pizzeria - Hillside, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "❤️Relax in charming 1920s Bohemian Bungalow❤️, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 06:00 to 06:30, nearest transit: S Washington St & SW 28th Ave, 319.2m away; Metropolitan, Amarillo, visit from 09:10 to 10:00, ; Cadillac Ranch, Amarillo, visit from 10:30 to 14:00, ; Ohms Cafe & Catering, Amarillo, visit from 14:30 to 15:30, ; 575° Pizzeria - Hillside, Amarillo, visit from 19:31 to 20:46, ; ❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 21:16 to 05:16, nearest transit: S Washington St & SW 28th Ave, 319.2m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Geraldine's Petite Chateau, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 06:00 to 07:30, nearest transit: S Washington St & SW 28th Ave, 319.2m away; Golden Light Cafe & Cantina, Amarillo, visit from 08:00 to 08:50, ; Geraldine's Petite Chateau, stay from 21:10 to 21:40, nearest transit: 412-Alameda @ Louisiana, 244.45m away; Geraldine's Petite Chateau, stay from 22:10 to 06:10, nearest transit: 412-Alameda @ Louisiana, 244.45m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Yardarm Restaurant, Corpus Christi",
+    "lunch": "Island Time Sushi Bar & Seafood Grill, Corpus Christi",
+    "dinner": "Bellino Ristorante Italiano and Bottega, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "Geraldine's Petite Chateau, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Geraldine's Petite Chateau, stay from 06:40 to 07:10, nearest transit: 412-Alameda @ Louisiana, 244.45m away; Yardarm Restaurant, Corpus Christi, visit from 08:41 to 09:31, ; Island Time Sushi Bar & Seafood Grill, Corpus Christi, visit from 13:32 to 14:32, ; USS Lexington Museum, Corpus Christi, visit from 15:02 to 18:32, ; Bellino Ristorante Italiano and Bottega, Corpus Christi, visit from 19:02 to 20:17, ; Geraldine's Petite Chateau, stay from 20:47 to 04:47, nearest transit: 412-Alameda @ Louisiana, 244.45m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F3472684, from Corpus Christi to Houston, Departure Time: 09:43, Arrival Time: 10:58",
+    "breakfast": "Republic of Texas Bar & Grill, Corpus Christi",
+    "lunch": "Houston's Restaurant & Pub, Houston",
+    "dinner": "Houston Restaurant, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Modern Guesthouse in the Heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Geraldine's Petite Chateau, stay from 06:00 to 06:30, nearest transit: 412-Alameda @ Louisiana, 244.45m away; Republic of Texas Bar & Grill, Corpus Christi, visit from 08:00 to 08:50, ; Modern Guesthouse in the Heart of the Heights, stay from 11:28 to 11:58, nearest transit: Heights Blvd @ W 15th St, 357.4m away; Houston's Restaurant & Pub, Houston, visit from 12:51 to 13:51, ; Hermann Park, Houston, visit from 15:30 to 20:15, ; Houston Restaurant, Houston, visit from 20:45 to 22:16, ; Modern Guesthouse in the Heart of the Heights, stay from 22:46 to 06:46, nearest transit: Heights Blvd @ W 15th St, 357.4m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Goode Company BBQ, Houston",
+    "lunch": "Merrill & Houston's Steak Joint, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Modern Guesthouse in the Heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 07:16 to 07:46, nearest transit: Heights Blvd @ W 15th St, 357.4m away; Goode Company BBQ, Houston, visit from 08:16 to 09:59, ; Merrill & Houston's Steak Joint, Houston, visit from 14:00 to 15:00, ; Downtown Aquarium, Houston, visit from 15:30 to 19:00, ; Brennan's of Houston, Houston, visit from 19:30 to 20:45, ; Modern Guesthouse in the Heart of the Heights, stay from 21:15 to 05:15, nearest transit: Heights Blvd @ W 15th St, 357.4m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Victoria",
+    "transportation": "Taxi from Houston to Victoria, duration: 148.28, distance: 202.0761, cost : 202.0",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Pappas Bros. Steakhouse, Houston",
+    "dinner": "Uchi Houston, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Guesthouse in the Heart of the Heights, stay from 06:00 to 06:30, nearest transit: Heights Blvd @ W 15th St, 357.4m away; Pappadeaux Seafood Kitchen, Houston, visit from 08:00 to 08:50, ; Pappas Bros. Steakhouse, Houston, visit from 14:00 to 15:00, ; Houston Zoo, Houston, visit from 15:30 to 19:00, ; Uchi Houston, Houston, visit from 19:30 to 20:45, "
+  }
+]

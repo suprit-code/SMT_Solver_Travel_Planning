@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-22', '2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F0672173, from Denver to San Diego, Departure Time: 06:20, Arrival Time: 07:52', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Denver, duration: 1285.4166666666667, distance: 1981.5151, cost: 1981'],
+Restaurants (3 meals per day): ['-', "Mimmo's, San Diego", 'Las Hadas Grill, San Diego', 'Din Tai Fung, San Diego', 'Pacific Beach AleHouse, San Diego', 'Alforon, San Diego', "Lou & Mickey's, San Diego", 'Trailer Park After Dark, San Diego', 'Cafe Coyote, San Diego', "Sweetie's Cafe & Catering, Redding", "Trendy's, Redding", 'Final Draft Brewing Company, Redding', 'Los Gordos, Redding', 'Priya Indian Cuisine, Redding', 'New China, Redding'],
+Attractions (1 per day): ['San Diego Zoo, San Diego', 'Cabrillo National Monument, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Turtle Bay Exploration Park, Redding', 'Sundial Bridge, Redding'],
+Accommodations (1 per city): ['Safe Private Sanctuary - TOWER STUDIO/ Northpark, San Diego', 'Relax and Enjoy!, Redding']

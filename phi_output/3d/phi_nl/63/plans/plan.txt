@@ -1,0 +1,6 @@
+Destination cities: ['New York'],
+Transportation dates: ['2024-11-16', '2024-11-18'],
+Transportation methods between cities: ['taxi, from Jackson to New York, duration: 1338.075, distance: 1930.1602, cost: 1930', 'taxi, from New York to Jackson, duration: 1338.7966666666666, distance: 1930.066, cost: 1930'],
+Restaurants (3 meals per day): ['-', '-', '-', 'La Grande Boucherie, New York', 'Westway Diner, New York', 'Piccola Cucina Osteria, New York', 'Nobu Fifty Seven, New York', 'Broadway Lounge, New York', 'Sarge’s Delicatessen & Diner, New York'],
+Attractions (1 per day): ['-', 'The National 9/11 Memorial & Museum, New York', 'The Metropolitan Museum of Art, New York'],
+Accommodations (1 per city): ['Standard Queen Room in Small Hotel, New York']

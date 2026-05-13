@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Baltimore",
+    "transportation": "Flight Number: F2173317, from Indianapolis to Baltimore, Departure Time: 10:18, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "LP Steamers, Baltimore",
+    "dinner": "Alexander's Tavern, Baltimore",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 12:22 to 13:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; LP Steamers, Baltimore, visit from 14:00 to 15:00, ; The Maryland Zoo, Baltimore, visit from 15:30 to 19:00, ; Alexander's Tavern, Baltimore, visit from 19:30 to 20:45, ; The basement, stay from 22:51 to 06:51, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Amicci's, Baltimore",
+    "lunch": "Pratt Street Ale House, Baltimore",
+    "dinner": "La Tavola, Baltimore",
+    "attraction": "Fort McHenry National Monument And Historic Shrine, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 07:21 to 07:51, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Amicci's, Baltimore, visit from 08:21 to 09:11, ; Fort McHenry National Monument And Historic Shrine, Baltimore, visit from 09:41 to 13:11, ; Pratt Street Ale House, Baltimore, visit from 14:30 to 15:30, ; La Tavola, Baltimore, visit from 20:45 to 22:00, ; The basement, stay from 22:30 to 06:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Indianapolis",
+    "transportation": "Flight Number: F1564950, from Baltimore to Indianapolis, Departure Time: 17:05, Arrival Time: 18:38",
+    "breakfast": "-",
+    "lunch": "Phillips Seafood, Baltimore",
+    "dinner": "-",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 07:00 to 07:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; National Aquarium, Baltimore, visit from 09:00 to 14:00, ; Phillips Seafood, Baltimore, visit from 14:30 to 15:30, "
+  }
+]

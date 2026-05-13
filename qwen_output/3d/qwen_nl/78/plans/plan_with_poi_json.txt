@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Charlotte",
+    "transportation": "Flight Number: F3713102, from Denver to Charlotte, Departure Time: 16:16, Arrival Time: 21:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 21:40 to 22:00, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Room with a king bed., stay from 22:25 to 08:00, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Mert's Heart and Soul, Charlotte",
+    "lunch": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "dinner": "Gaucho Charlotte Street, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 08:00 to 08:30, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Mert's Heart and Soul, visit from 08:55 to 09:35, nearest transit: College St & 6th St, 64.34m away; Truist Field, visit from 10:00 to 12:00, nearest transit: 4th St & Graham St, 146.25m away; Rooster's Wood-Fired Kitchen - Uptown, visit from 13:35 to 14:15, nearest transit: Trade St & College St, 139.39m away; Gaucho Charlotte Street, visit from 19:00 to 19:40, nearest transit: Beaty St @ 866, 6415294.40m away; Room with a king bed., stay from 20:05 to 08:00, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Denver",
+    "transportation": "Flight Number: F1954956, from Charlotte to Denver, Departure Time: 13:13, Arrival Time: 14:50",
+    "breakfast": "Pinky's Westside Grill, Charlotte",
+    "lunch": "The Terrace at The Charlotte Inn, Charlotte",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 08:00 to 08:10, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Pinky's Westside Grill, visit from 08:35 to 08:48, nearest transit: Morehead St & Grandin Rd, 166.98m away; The Terrace at The Charlotte Inn, visit from 12:08 to 12:48, nearest transit: Beaty St @ 866, 1111842.47m away"
+  }
+]

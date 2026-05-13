@@ -1,0 +1,24 @@
+not ok
+Unsatisfiable core:
+no self-driving for first transportation
+valid flight index for flight 2
+valid restaurant index
+eat in which city l
+attraction in which city
+either flight, self-driving, or taxi for first transportation
+no self-driving for third transportation
+budget enough
+non repeating attraction index
+visit city in cities list
+valid flight index for flight 1
+eat in which city b
+valid flight index for flight 0
+eat in which city d
+Entire home/apttypes accomadation visited
+valid accomodation index
+either flight, self-driving, or taxi for third transportation
+no self-driving for second transportation
+valid travel date
+travel end date
+travel start date
+either flight, self-driving, or taxi for second transportation

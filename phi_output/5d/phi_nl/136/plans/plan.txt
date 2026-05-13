@@ -1,0 +1,6 @@
+Destination cities: ['New York', 'Rochester'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F3552323, from Boston to New York, Departure Time: 15:51, Arrival Time: 17:01', 'Flight Number: F1885613, from New York to Rochester, Departure Time: 08:04, Arrival Time: 09:13', 'taxi, from Rochester to Boston, duration: 461.52, distance: 631.7575, cost: 631'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Peak Restaurant & Bar, New York', 'Westway Diner, New York', 'Sarge’s Delicatessen & Diner, New York', "Tiny Tim's Tea Rooms, Rochester", 'Good Luck, Rochester', 'The Eagle Tavern, Rochester', "Lipuma's Coney Island, Rochester", "Rooney's Restaurant, Rochester", "Rochester's Barbecue & Grill, Rochester", 'Jaggers Rochester, Rochester', 'Nick Tahou Hots, Rochester', 'Canadian Honker Restaurant & Lounge, Rochester'],
+Attractions (1 per day): ['The National 9/11 Memorial & Museum, New York', 'The Metropolitan Museum of Art, New York', 'Six Poor Travellers House, Rochester', 'Restoration House, Rochester', 'Rochester Castle, Rochester'],
+Accommodations (1 per city): ['Private Studio with Shared Bath, New York', 'Quiet 2 bedroom cottage with mid-century decor, Rochester']

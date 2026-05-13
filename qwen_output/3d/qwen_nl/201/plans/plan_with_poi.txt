@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Seattle",
+    "transportation": "Flight Number: F1066385, from Denver to Seattle, Departure Time: 15:56, Arrival Time: 17:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "13 Coins Restaurant, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 18:18 to 18:48, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; 13 Coins Restaurant, Seattle, visit from 19:18 to 20:33, ; Cozy room near UW, stay from 21:03 to 05:03, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "Bacco Cafe, Seattle",
+    "dinner": "Chan Seattle, Seattle",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 07:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Vons 1000 Spirits, Seattle, visit from 08:00 to 08:50, ; Bacco Cafe, Seattle, visit from 12:51 to 13:51, ; Seattle Aquarium, Seattle, visit from 15:00 to 18:30, ; Chan Seattle, Seattle, visit from 19:00 to 20:15, ; Cozy room near UW, stay from 22:48 to 06:48, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Denver",
+    "transportation": "Flight Number: F2234843, from Seattle to Denver, Departure Time: 14:39, Arrival Time: 18:02",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Kerry Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:18 to 07:48, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 08:18 to 09:08, ; Kerry Park, Seattle, visit from 10:39 to 14:09, "
+  }
+]

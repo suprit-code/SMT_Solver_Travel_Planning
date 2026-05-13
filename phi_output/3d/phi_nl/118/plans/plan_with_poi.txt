@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Portland",
+    "transportation": "Flight Number: F0253972, from Boston to Portland, Departure Time: 07:36, Arrival Time: 11:20",
+    "breakfast": "-",
+    "lunch": "Restaurant Murata, Portland",
+    "dinner": "Southpark Seafood, Portland",
+    "attraction": "Portland Discovery Land & Sea Tours, Portland",
+    "accommodation": "Lovely Private Room & Bath in SE (South Tabor), Portland",
+    "event": "-",
+    "point_of_interest_list": "Lovely Private Room & Bath in SE (South Tabor), stay from 11:50 to 12:20, nearest transit: 207 GANNETT DR, 4081465.84m away; Restaurant Murata, Portland, visit from 13:30 to 14:30, ; Portland Discovery Land & Sea Tours, Portland, visit from 15:00 to 18:30, ; Southpark Seafood, Portland, visit from 19:00 to 20:15, ; Lovely Private Room & Bath in SE (South Tabor), stay from 20:45 to 04:45, nearest transit: 207 GANNETT DR, 4081465.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Portland",
+    "transportation": "-",
+    "breakfast": "Sayler's Old Country Kitchen, Portland",
+    "lunch": "Portland City Grill, Portland",
+    "dinner": "Tin Shed Garden Cafe, Portland",
+    "attraction": "Pittock Mansion, Portland",
+    "accommodation": "Lovely Private Room & Bath in SE (South Tabor), Portland",
+    "event": "-",
+    "point_of_interest_list": "Lovely Private Room & Bath in SE (South Tabor), stay from 06:00 to 08:12, nearest transit: 207 GANNETT DR, 4081465.84m away; Sayler's Old Country Kitchen, Portland, visit from 08:42 to 10:00, ; Pittock Mansion, Portland, visit from 10:30 to 14:00, ; Portland City Grill, Portland, visit from 14:30 to 15:30, ; Tin Shed Garden Cafe, Portland, visit from 19:31 to 20:46, ; Lovely Private Room & Bath in SE (South Tabor), stay from 21:16 to 05:16, nearest transit: 207 GANNETT DR, 4081465.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Portland to Boston",
+    "transportation": "Flight Number: F0254738, from Portland to Boston, Departure Time: 10:04, Arrival Time: 18:26",
+    "breakfast": "Cheryl's on 12th, Portland",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lovely Private Room & Bath in SE (South Tabor), stay from 06:00 to 08:14, nearest transit: 207 GANNETT DR, 4081465.84m away; Cheryl's on 12th, Portland, visit from 08:44 to 09:34, "
+  }
+]

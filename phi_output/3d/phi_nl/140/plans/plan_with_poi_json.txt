@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Houston",
+    "transportation": "Flight Number: F3084504, from Boston to Houston, Departure Time: 11:29, Arrival Time: 15:00",
+    "breakfast": "-",
+    "lunch": "Houston White Co, Houston",
+    "dinner": "Houstons Bar and Grill, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Secluded Room with En-suite Bathroom Midtown, Houston",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 15:30 to 16:00, nearest transit: W Gray St @ Bailey St, 81.25m away; Downtown Aquarium, visit from 16:30 to 18:30, nearest transit: Preston St @ Bagby St, 75.65m away; Houston White Co, visit from 19:00 to 19:40, nearest transit: Baytown Park & Ride, 2075682.55m away; Houstons Bar and Grill, visit from 21:20 to 22:00, nearest transit: Conroe Park & Ride, 7360300.27m away; Secluded Room with En-suite Bathroom Midtown, stay from 23:00 to 08:00, nearest transit: W Gray St @ Bailey St, 81.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston's Trail's End, Houston",
+    "lunch": "Hugo's, Houston",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Secluded Room with En-suite Bathroom Midtown, Houston",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 08:00 to 08:30, nearest transit: W Gray St @ Bailey St, 81.25m away; Houston's Trail's End, visit from 09:00 to 09:40, nearest transit: Conroe Park & Ride, 1745953.84m away; Houston Zoo, visit from 10:10 to 12:10, nearest transit: Cambridge St @ Ben Taub Loop, 473.45m away; Hugo's, visit from 13:40 to 14:20, nearest transit: Westheimer Rd @ Mandell St, 26.11m away; Kenny & Ziggy's New York Deli, visit from 19:00 to 19:40, nearest transit: Ambassador Station NB, 181.42m away; Secluded Room with En-suite Bathroom Midtown, stay from 23:00 to 08:00, nearest transit: W Gray St @ Bailey St, 81.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Boston",
+    "transportation": "Flight Number: F0555070, from Houston to Boston, Departure Time: 18:42, Arrival Time: 23:22",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 08:00 to 08:30, nearest transit: W Gray St @ Bailey St, 81.25m away; Pappadeaux Seafood Kitchen, visit from 09:00 to 09:40, nearest transit: Bush IAH Terminal C, 295.38m away; Hermann Park, visit from 10:10 to 12:10, nearest transit: Cambridge St @ Ben Taub Loop, 355.64m away; Eddie V's Prime Seafood, visit from 12:52 to 13:32, nearest transit: Katy Freeway @ Town And Country Way, 600.03m away; Brennan's of Houston, visit from 17:32 to 18:12, nearest transit: Elgin St @ Smith St, 102.40m away"
+  }
+]

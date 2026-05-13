@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to Sacramento",
+    "transportation": "Flight Number: F1616921, from Ontario to Sacramento, Departure Time: 13:31, Arrival Time: 14:46",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Firestone Public House, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 15:11 to 15:31, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Sacramento History Museum, visit from 15:56 to 17:56, nearest transit: 3RD ST & K ST (NB), 375.58m away; Firestone Public House, visit from 19:00 to 19:40, nearest transit: L ST & 17TH ST (WB), 110.64m away; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 20:05 to 08:00, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Frank Fat's Restaurant, Sacramento",
+    "lunch": "Grange Restaurant & Bar, Sacramento",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 08:00 to 08:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Frank Fat's Restaurant, visit from 08:55 to 09:35, nearest transit: L ST & 9TH ST (WB), 44.30m away; Capitol Park, visit from 10:00 to 12:00, nearest transit: L ST & 14TH ST (WB), 86.40m away; Grange Restaurant & Bar, visit from 13:35 to 14:15, nearest transit: J ST & 10TH ST (EB), 36.29m away; Paesano's Pizzeria, visit from 19:00 to 19:40, nearest transit: 19TH ST & CAPITOL AVE (SB), 83.96m away; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 23:00 to 08:00, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to Ontario",
+    "transportation": "Flight Number: F3984484, from Sacramento to Ontario, Departure Time: 21:44, Arrival Time: 22:58",
+    "breakfast": "Paragary's, Sacramento",
+    "lunch": "Zocalo, Sacramento",
+    "dinner": "Chicago Fire, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 08:00 to 08:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Paragary's, visit from 08:55 to 09:35, nearest transit: 29TH ST & N ST (SB), 107.65m away; California State Capitol Museum, visit from 10:00 to 12:00, nearest transit: Archives Plaza Station (WB), 196.45m away; Zocalo, visit from 13:35 to 14:15, nearest transit: 19TH ST & CAPITOL AVE (SB), 112.06m away; Chicago Fire, visit from 19:00 to 19:40, nearest transit: J ST & 25TH ST (EB), 70.25m away"
+  }
+]

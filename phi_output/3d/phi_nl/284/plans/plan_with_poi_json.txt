@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to Sacramento",
+    "transportation": "Flight Number: F3954104, from Ontario to Sacramento, Departure Time: 13:58, Arrival Time: 15:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Zocalo, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 15:47 to 16:17, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Sacramento History Museum, visit from 16:47 to 18:47, nearest transit: 3RD ST & K ST (NB), 375.58m away; Zocalo, visit from 19:17 to 19:57, nearest transit: 19TH ST & CAPITOL AVE (SB), 112.06m away; Home Away From Home, stay from 23:00 to 08:00, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Aviators Restaurant, Sacramento",
+    "lunch": "Paragary's, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "California State Railroad Museum, Sacramento",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 08:00 to 08:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Aviators Restaurant, visit from 09:00 to 09:40, nearest transit: FREEPORT BLVD & MCALLISTER AVE (SB), 185.83m away; California State Railroad Museum, visit from 10:10 to 12:10, nearest transit: Sacramento Valley Station (WB), 337.38m away; Paragary's, visit from 13:40 to 14:20, nearest transit: 29TH ST & N ST (SB), 107.65m away; Nopalitos, visit from 19:00 to 19:40, nearest transit: 56TH ST & H ST (NB), 106.44m away; Home Away From Home, stay from 23:00 to 08:00, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to Ontario",
+    "transportation": "Flight Number: F2705274, from Sacramento to Ontario, Departure Time: 19:02, Arrival Time: 20:17",
+    "breakfast": "Cafeteria 15L, Sacramento",
+    "lunch": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 08:00 to 08:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Cafeteria 15L, visit from 09:00 to 09:40, nearest transit: 15TH ST & K ST (SB), 126.90m away; California State Capitol Museum, visit from 10:10 to 12:10, nearest transit: Archives Plaza Station (WB), 196.45m away; Kru Contemporary Japanese Cuisine, visit from 13:40 to 14:20, nearest transit: 30TH ST & CAPITOL AVE (NB), 196.13m away"
+  }
+]

@@ -1,0 +1,6 @@
+not ok
+Unsatisfiable core:
+either flight, self-driving, or taxi for first transportation
+no flight for first transportation
+visit city in cities list
+driving is possible for transportation 0

@@ -1,0 +1,6 @@
+Destination cities: ['Kansas City'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F1560460, from Detroit to Kansas City, Departure Time: 08:24, Arrival Time: 09:10', 'Flight Number: F2955877, from Kansas City to Detroit, Departure Time: 18:42, Arrival Time: 21:32'],
+Restaurants (3 meals per day): ["Lidia's, Kansas City", '801 Chophouse, Kansas City', 'Jack Stack Barbecue - Freight House, Kansas City', "Eddie V's Prime Seafood, Kansas City", 'KC Chop House, Kansas City', 'The Majestic Restaurant, Kansas City', 'The Big Biscuit, Kansas City', 'Chaz on the Plaza, Kansas City', 'Gram & Dun, Kansas City'],
+Attractions (1 per day): ['National WWI Museum and Memorial, Kansas City', 'GEHA Field at Arrowhead Stadium, Kansas City', "Tom's Town Distilling Co., Kansas City"],
+Accommodations (1 per city): ['KC Studio in the Heart of it All, Kansas City']

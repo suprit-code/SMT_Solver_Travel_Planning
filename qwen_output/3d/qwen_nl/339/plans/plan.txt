@@ -1,0 +1,6 @@
+Destination cities: ['Washington'],
+Transportation dates: ['2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F1054591, from Charleston to Washington, Departure Time: 07:28, Arrival Time: 08:42', 'taxi, from Washington to Charleston, duration: 593.9566666666667, distance: 860.1441, cost: 860'],
+Restaurants (3 meals per day): ['Zaytinya by Jose Andres, Washington', 'La Grande Boucherie, Washington', 'The Palm - Washington, D.C., Washington', 'The Dabney, Washington', 'Smoke & Mirrors Rooftop Bar, Washington', "Joe's Seafood Prime Steak & Stone Crab, Washington", 'RPM Italian, Washington', 'Fiola, Washington', 'Kingbird, Washington'],
+Attractions (1 per day): ["Ford's Theatre, Washington", 'Korean War Veterans Memorial, Washington', 'Washington Monument, Washington'],
+Accommodations (1 per city): ['Private room in Capitol Hill, Washington']

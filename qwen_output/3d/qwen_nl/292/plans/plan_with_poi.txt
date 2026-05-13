@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Newburgh to Savannah",
+    "transportation": "Self-driving from Newburgh to Savannah, duration: 993.655, distance: 1386.7442, cost : 69.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Garden Tiny House, Savannah",
+    "event": "-",
+    "point_of_interest_list": "The Garden Tiny House, stay from 23:03 to 23:33, nearest transit: DIXON & OBYRNE EB, 367.91m away; The Garden Tiny House, stay from 00:03 to 08:00, nearest transit: DIXON & OBYRNE EB, 367.91m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Wiley's Championship BBQ, Savannah",
+    "lunch": "Madame Butterfly, Savannah",
+    "dinner": "Little Duck Diner, Savannah",
+    "attraction": "-",
+    "accommodation": "The Garden Tiny House, Savannah",
+    "event": "-",
+    "point_of_interest_list": "The Garden Tiny House, stay from 08:30 to 09:00, nearest transit: DIXON & OBYRNE EB, 367.91m away; Wiley's Championship BBQ, Savannah, visit from 09:37 to 10:29, ; Madame Butterfly, Savannah, visit from 14:30 to 16:44, ; Little Duck Diner, Savannah, visit from 20:45 to 22:00, ; The Garden Tiny House, stay from 22:30 to 06:30, nearest transit: DIXON & OBYRNE EB, 367.91m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Newburgh",
+    "transportation": "Self-driving from Savannah to Newburgh, duration: 989.985, distance: 1384.401, cost : 69.0",
+    "breakfast": "Vinnie Van Go-Go's, Savannah",
+    "lunch": "Goose Feathers Cafe & Bakery, Savannah",
+    "dinner": "Huey's On The River, Savannah",
+    "attraction": "Skidaway Island State Park, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Garden Tiny House, stay from 07:00 to 07:30, nearest transit: DIXON & OBYRNE EB, 367.91m away; Vinnie Van Go-Go's, Savannah, visit from 08:00 to 08:50, ; Skidaway Island State Park, Savannah, visit from 09:20 to 12:50, ; Goose Feathers Cafe & Bakery, Savannah, visit from 13:20 to 14:20, ; Huey's On The River, Savannah, visit from 19:00 to 20:15, "
+  }
+]

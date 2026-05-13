@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Houston",
+    "transportation": "Flight Number: F3451633, from Boston to Houston, Departure Time: 15:22, Arrival Time: 18:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Niko Niko's Greek, Houston",
+    "attraction": "-",
+    "accommodation": "The Green Room - Prime Location, VIP Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "The Green Room - Prime Location, VIP Getaway, stay from 19:17 to 19:47, nearest transit: TC Jester Blvd @ Larkin St, 310.27m away; Niko Niko's Greek, Houston, visit from 20:17 to 21:32, ; The Green Room - Prime Location, VIP Getaway, stay from 22:02 to 06:02, nearest transit: TC Jester Blvd @ Larkin St, 310.27m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Brenner's on the Bayou, Houston",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "Pappas Bros. Steakhouse, Houston",
+    "attraction": "Discovery Green, Houston",
+    "accommodation": "The Green Room - Prime Location, VIP Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "The Green Room - Prime Location, VIP Getaway, stay from 06:32 to 07:02, nearest transit: TC Jester Blvd @ Larkin St, 310.27m away; Brenner's on the Bayou, Houston, visit from 09:10 to 10:00, ; Discovery Green, Houston, visit from 10:30 to 14:00, ; Eddie V's Prime Seafood, Houston, visit from 14:30 to 15:30, ; Pappas Bros. Steakhouse, Houston, visit from 19:31 to 20:46, ; The Green Room - Prime Location, VIP Getaway, stay from 21:16 to 05:16, nearest transit: TC Jester Blvd @ Larkin St, 310.27m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Boston",
+    "transportation": "Flight Number: F1235689, from Houston to Boston, Departure Time: 17:51, Arrival Time: 22:20",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "-",
+    "attraction": "Space Center Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Green Room - Prime Location, VIP Getaway, stay from 06:00 to 08:40, nearest transit: TC Jester Blvd @ Larkin St, 310.27m away; Fogo de Chao Brazilian Steakhouse, Houston, visit from 09:10 to 10:00, ; Space Center Houston, Houston, visit from 10:30 to 14:00, ; Brennan's of Houston, Houston, visit from 14:30 to 15:30, "
+  }
+]

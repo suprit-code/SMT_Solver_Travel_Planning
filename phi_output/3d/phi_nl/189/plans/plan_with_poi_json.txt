@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Charleston",
+    "transportation": "Flight Number: F0501001, from Detroit to Charleston, Departure Time: 15:28, Arrival Time: 17:35",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Charleston City Market, Charleston",
+    "accommodation": "Secret Garden Guesthouse, Charleston",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Frannie & The Fox, Charleston",
+    "lunch": "High Cotton Charleston, Charleston",
+    "dinner": "Oak Steakhouse, Charleston",
+    "attraction": "Battery & White Point Gardens, Charleston",
+    "accommodation": "Secret Garden Guesthouse, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 08:00 to 08:30, nearest transit: Coming St / George St, 490.45m away; Frannie & The Fox, visit from 09:00 to 09:40, nearest transit: Market St / Meeting St, 124.64m away; Battery & White Point Gardens, visit from 10:10 to 12:10, nearest transit: Broad St / Meeting St, 758.27m away; High Cotton Charleston, visit from 13:40 to 14:20, nearest transit: East Bay St / S. Market St, 85.53m away; Oak Steakhouse, visit from 19:00 to 19:40, nearest transit: Broad St / Church St, 111.55m away; Secret Garden Guesthouse, stay from 23:00 to 08:00, nearest transit: Coming St / George St, 490.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Detroit",
+    "transportation": "taxi, from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost: 1366",
+    "breakfast": "Hyman's Seafood, Charleston",
+    "lunch": "Charleston Crab House-Market Street, Charleston",
+    "dinner": "Stella's, Charleston",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Secret Garden Guesthouse, stay from 08:00 to 08:30, nearest transit: Coming St / George St, 490.45m away; Hyman's Seafood, visit from 09:00 to 09:40, nearest transit: Meeting St / Market St, 46.63m away; Magnolia Plantation & Gardens, visit from 10:10 to 12:10, nearest transit: Dorchester Rd / Lambs Rd, 2137.23m away; Charleston Crab House-Market Street, visit from 13:40 to 14:20, nearest transit: East Bay St / S. Market St, 113.89m away; Stella's, visit from 19:00 to 19:40, nearest transit: Warren St / St Philip St, 16.55m away"
+  }
+]

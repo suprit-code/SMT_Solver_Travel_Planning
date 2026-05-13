@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to Atlanta",
+    "transportation": "Flight Number: F1286239, from Boise to Atlanta, Departure Time: 23:59, Arrival Time: 05:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 06:17 to 06:47, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Downtown Beach Room **FREE PARKING** Private Room, stay from 07:17 to 08:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "St. Cecilia, Atlanta",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "-",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 08:30 to 09:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Canoe, Atlanta, visit from 09:36 to 10:26, ; St. Cecilia, Atlanta, visit from 14:27 to 15:27, ; Cafe Agora, Atlanta, visit from 19:28 to 20:43, ; Downtown Beach Room **FREE PARKING** Private Room, stay from 21:13 to 05:13, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Boise",
+    "transportation": "Flight Number: F1295674, from Atlanta to Boise, Departure Time: 20:21, Arrival Time: 22:34",
+    "breakfast": "Fox Bros. Bar-B-Q, Atlanta",
+    "lunch": "Aria, Atlanta",
+    "dinner": "-",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 06:00 to 06:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Fox Bros. Bar-B-Q, Atlanta, visit from 08:00 to 08:50, ; Aria, Atlanta, visit from 12:51 to 13:51, ; Zoo Atlanta, Atlanta, visit from 14:21 to 17:51, "
+  }
+]

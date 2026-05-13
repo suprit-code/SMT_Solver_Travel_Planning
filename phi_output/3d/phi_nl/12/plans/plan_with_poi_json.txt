@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Charleston",
+    "transportation": "Flight Number: F0388998, from Miami to Charleston, Departure Time: 16:02, Arrival Time: 17:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Amen Street Fish & Raw Bar, Charleston",
+    "lunch": "Stars Restaurant-Rooftop & Grill Room, Charleston",
+    "dinner": "Virginia's on King, Charleston",
+    "attraction": "Middleton Place, Charleston",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 08:00 to 08:30, nearest transit: Broad St / Church St, 4048.31m away; Amen Street Fish & Raw Bar, visit from 09:00 to 09:40, nearest transit: East Bay St / S. Market St, 56.01m away; Middleton Place, visit from 10:10 to 12:10, nearest transit: Dorchester Rd / Park Forest Pkwy, 3298.85m away; Stars Restaurant-Rooftop & Grill Room, visit from 13:40 to 14:20, nearest transit: King St / Morris St, 82.36m away; Virginia's on King, visit from 19:00 to 19:40, nearest transit: King St / Vanderhorst St, 13.91m away; The Backpacker, stay from 23:00 to 08:00, nearest transit: Broad St / Church St, 4048.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Miami",
+    "transportation": "Flight Number: F1029485, from Charleston to Miami, Departure Time: 19:48, Arrival Time: 21:44",
+    "breakfast": "Eli's Table, Charleston",
+    "lunch": "Poogan's Porch, Charleston",
+    "dinner": "-",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 08:00 to 08:30, nearest transit: Broad St / Church St, 4048.31m away; Eli's Table, visit from 09:00 to 09:40, nearest transit: Meeting St / Queen St, 19.72m away; Magnolia Plantation & Gardens, visit from 10:10 to 12:10, nearest transit: Dorchester Rd / Lambs Rd, 2137.23m away; Poogan's Porch, visit from 13:40 to 14:20, nearest transit: Meeting St / Queen St, 57.05m away"
+  }
+]

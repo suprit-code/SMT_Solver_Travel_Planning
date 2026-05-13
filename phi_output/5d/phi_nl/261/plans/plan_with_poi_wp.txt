@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to Sacramento",
+    "transportation": "Flight Number: F0097128, from Ontario to Sacramento, Departure Time: 16:00, Arrival Time: 17:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "-",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 17:48 to 18:18, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Paesano's Pizzeria, Sacramento, visit from 19:00 to 20:15, ; Peaceful and Cozy Studio, stay from 20:45 to 04:45, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Tower Cafe, Sacramento",
+    "lunch": "The Firehouse Restaurant, Sacramento",
+    "dinner": "Cafeteria 15L, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 06:00 to 06:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Tower Cafe, Sacramento, visit from 09:06 to 09:56, ; The Firehouse Restaurant, Sacramento, visit from 13:57 to 14:57, ; Capitol Park, Sacramento, visit from 15:27 to 18:57, ; Cafeteria 15L, Sacramento, visit from 19:27 to 21:00, ; Peaceful and Cozy Studio, stay from 21:30 to 05:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to San Francisco",
+    "transportation": "Flight Number: F0459283, from Sacramento to San Francisco, Departure Time: 09:38, Arrival Time: 10:33",
+    "breakfast": "Zocalo, Sacramento",
+    "lunch": "Scala's Bistro, San Francisco",
+    "dinner": "Good Mong Kok Bakery, San Francisco",
+    "attraction": "Twin Peaks, San Francisco",
+    "accommodation": "#3 SF 24th ave& kirkham st  King master bedroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 06:00 to 07:48, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Zocalo, Sacramento, visit from 08:18 to 09:08, ; #3 SF 24th ave& kirkham st  King master bedroom, stay from 11:03 to 12:39, nearest transit: Civic Center BART (9th and Market), 6053.71m away; Scala's Bistro, San Francisco, visit from 13:09 to 14:09, ; Twin Peaks, San Francisco, visit from 15:00 to 18:30, ; Good Mong Kok Bakery, San Francisco, visit from 19:00 to 22:27, ; #3 SF 24th ave& kirkham st  King master bedroom, stay from 22:57 to 06:57, nearest transit: Civic Center BART (9th and Market), 6053.71m away"
+  },
+  {
+    "days": 4,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Kokkari Estiatorio, San Francisco",
+    "lunch": "Hog Island Oyster Co., San Francisco",
+    "dinner": "The Codmother Fish & Chips, San Francisco",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "#3 SF 24th ave& kirkham st  King master bedroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "#3 SF 24th ave& kirkham st  King master bedroom, stay from 07:27 to 07:57, nearest transit: Civic Center BART (9th and Market), 6053.71m away; Kokkari Estiatorio, San Francisco, visit from 08:27 to 09:17, ; Hog Island Oyster Co., San Francisco, visit from 13:18 to 14:18, ; Alcatraz Island, San Francisco, visit from 14:48 to 18:30, ; The Codmother Fish & Chips, San Francisco, visit from 19:00 to 23:30, ; #3 SF 24th ave& kirkham st  King master bedroom, stay from 00:00 to 08:00, nearest transit: Civic Center BART (9th and Market), 6053.71m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from San Francisco to Ontario",
+    "transportation": "Flight Number: F1761443, from San Francisco to Ontario, Departure Time: 18:27, Arrival Time: 19:40",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Fisherman's Wharf, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#3 SF 24th ave& kirkham st  King master bedroom, stay from 08:30 to 09:00, nearest transit: Civic Center BART (9th and Market), 6053.71m away; Quince, San Francisco, visit from 09:30 to 10:20, ; Fisherman's Wharf, San Francisco, visit from 10:50 to 14:20, "
+  }
+]

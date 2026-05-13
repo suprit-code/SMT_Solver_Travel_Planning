@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Nashville",
+    "transportation": "Flight Number: F0374728, from Sioux Falls to Nashville, Departure Time: 20:07, Arrival Time: 22:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cute Cottage Apartment Downtown, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Cute Cottage Apartment Downtown, stay from 22:33 to 23:03, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away; Cute Cottage Apartment Downtown, stay from 23:33 to 07:33, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "The Stillery, Nashville",
+    "lunch": "Puckett's 5th & Church, Nashville",
+    "dinner": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Cute Cottage Apartment Downtown, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Cute Cottage Apartment Downtown, stay from 08:03 to 08:33, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away; The Stillery, Nashville, visit from 09:03 to 09:59, ; Puckett's 5th & Church, Nashville, visit from 14:00 to 15:00, ; Belmont Mansion, Nashville, visit from 15:30 to 20:15, ; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 20:45 to 22:00, ; Cute Cottage Apartment Downtown, stay from 22:30 to 06:30, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Sioux Falls",
+    "transportation": "Taxi from Nashville to Sioux Falls, duration: 1007.0416666666666, distance: 1481.2943, cost : 1481.0",
+    "breakfast": "Old Hickory Steakhouse, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "Pelato, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cute Cottage Apartment Downtown, stay from 07:00 to 07:30, nearest transit: JEFFERSON ST & 14TH AVE N WB, 56.42m away; Old Hickory Steakhouse, Nashville, visit from 08:00 to 08:50, ; Cheekwood, Nashville, visit from 09:20 to 13:29, ; Aquarium Restaurant, Nashville, visit from 13:59 to 14:59, ; Pelato, Nashville, visit from 19:00 to 20:15, "
+  }
+]

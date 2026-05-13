@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Green Bay to Atlanta",
+    "transportation": "Flight Number: F0889275, from Green Bay to Atlanta, Departure Time: 06:43, Arrival Time: 09:42",
+    "breakfast": "-",
+    "lunch": "Stoney River Steakhouse and Grill, Atlanta",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 10:12 to 10:42, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away; Stoney River Steakhouse and Grill, Atlanta, visit from 12:00 to 13:00, ; Atlanta History Center, Atlanta, visit from 13:30 to 17:00, ; Home Grown, Atlanta, visit from 19:00 to 20:15, ; Tiny House Retreat * Stock Tank Pool, stay from 20:45 to 04:45, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Max's Coal Oven Pizzeria, Atlanta",
+    "lunch": "St. Cecilia, Atlanta",
+    "dinner": "By George restaurant and bar, Atlanta",
+    "attraction": "Fox Theatre, Atlanta",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 07:20 to 07:50, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away; Max's Coal Oven Pizzeria, Atlanta, visit from 08:20 to 10:00, ; Fox Theatre, Atlanta, visit from 10:30 to 14:00, ; St. Cecilia, Atlanta, visit from 14:30 to 15:30, ; By George restaurant and bar, Atlanta, visit from 19:31 to 20:46, ; Tiny House Retreat * Stock Tank Pool, stay from 21:16 to 05:16, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Green Bay",
+    "transportation": "Flight Number: F0889249, from Atlanta to Green Bay, Departure Time: 17:56, Arrival Time: 18:55",
+    "breakfast": "Aviva by Kameel, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "-",
+    "attraction": "National Center for Civil and Human Rights, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 06:00 to 06:30, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.1m away; Aviva by Kameel, Atlanta, visit from 08:00 to 08:50, ; National Center for Civil and Human Rights, Atlanta, visit from 09:20 to 12:50, ; Cafe Agora, Atlanta, visit from 14:30 to 15:30, "
+  }
+]

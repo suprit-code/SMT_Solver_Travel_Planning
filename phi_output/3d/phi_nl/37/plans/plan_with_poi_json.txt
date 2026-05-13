@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Greensboro",
+    "transportation": "Flight Number: F3061727, from Washington to Greensboro, Departure Time: 07:35, Arrival Time: 08:45",
+    "breakfast": "Print Works Bistro, Greensboro",
+    "lunch": "Mythos Grill, Greensboro",
+    "dinner": "Carolina's Diner, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Arya\u2019s cottage with a loft & jacuzzi, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Arya\u2019s cottage with a loft & jacuzzi, stay from 09:15 to 09:45, nearest transit: Elmsley/Chesham, 2226.43m away; Print Works Bistro, visit from 10:15 to 10:55, nearest transit: Westover Ave/Lucky 32, 672.45m away; International Civil Rights Center & Museum, visit from 11:25 to 13:25, nearest transit: International Civil Rights Museum , 3.98m away; Mythos Grill, visit from 14:50 to 15:30, nearest transit: West Market/Walker, 60.36m away; Carolina's Diner, visit from 19:30 to 20:10, nearest transit: Swing Rd/Swing Court, 4333.60m away; Arya\u2019s cottage with a loft & jacuzzi, stay from 23:00 to 08:00, nearest transit: Elmsley/Chesham, 2226.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "MJ's Steak and Seafood, Greensboro",
+    "lunch": "B. Christopher's, Greensboro",
+    "dinner": "Dear Dad's, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "Arya\u2019s cottage with a loft & jacuzzi, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Arya\u2019s cottage with a loft & jacuzzi, stay from 08:00 to 08:30, nearest transit: Elmsley/Chesham, 2226.43m away; MJ's Steak and Seafood, visit from 09:00 to 09:40, nearest transit: West Friendly/Dolly Madison, 84.21m away; Carolina Theatre, visit from 10:10 to 12:10, nearest transit: Washington/Eugene, 118.33m away; B. Christopher's, visit from 13:40 to 14:20, nearest transit: Elm/Friendly (Northbound), 22.34m away; Dear Dad's, visit from 19:00 to 19:40, nearest transit: Battleground/Old Battleground, 64.41m away; Arya\u2019s cottage with a loft & jacuzzi, stay from 23:00 to 08:00, nearest transit: Elmsley/Chesham, 2226.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Washington",
+    "transportation": "taxi, from Greensboro to Washington, duration: 357.15833333333336, distance: 496.6706, cost: 496",
+    "breakfast": "Captain Bill's Seafood & Steak, Greensboro",
+    "lunch": "Stamey's Barbecue, Greensboro",
+    "dinner": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Arya\u2019s cottage with a loft & jacuzzi, stay from 08:00 to 08:30, nearest transit: Elmsley/Chesham, 2226.43m away; Captain Bill's Seafood & Steak, visit from 09:00 to 09:40, nearest transit: West Market/Weslo-Willow, 188.98m away; Ambleside Gallery, visit from 10:10 to 12:10, nearest transit: Elm/Lewis, 35.43m away; Stamey's Barbecue, visit from 13:40 to 14:20, nearest transit: Gate City/Patterson, 46.58m away; Fleming's Prime Steakhouse & Wine Bar, visit from 19:00 to 19:40, nearest transit: West Friendly/Hobbs Road (OB), 99.18m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Los Angeles to Reno",
+    "transportation": "Flight Number: F1171638, from Los Angeles to Reno, Departure Time: 18:54, Arrival Time: 20:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Sealy Super Comfy Mattress 4.1 Stars, Reno",
+    "event": "-",
+    "point_of_interest_list": "Sealy Super Comfy Mattress 4.1 Stars, stay from 20:47 to 21:17, nearest transit: Kietzke Lane and Vassar Street, 22.16m away; Sealy Super Comfy Mattress 4.1 Stars, stay from 23:00 to 08:00, nearest transit: Kietzke Lane and Vassar Street, 22.16m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Reno",
+    "transportation": "-",
+    "breakfast": "Peg's Glorified Ham n Eggs, Reno",
+    "lunch": "Pho 777 Vietnamese Restaurant, Reno",
+    "dinner": "Bertha Miranda's Mexican Restaurant, Reno",
+    "attraction": "Truckee River Walk, Reno",
+    "accommodation": "Sealy Super Comfy Mattress 4.1 Stars, Reno",
+    "event": "-",
+    "point_of_interest_list": "Sealy Super Comfy Mattress 4.1 Stars, stay from 08:00 to 08:30, nearest transit: Kietzke Lane and Vassar Street, 22.16m away; Peg's Glorified Ham n Eggs, visit from 09:00 to 09:40, nearest transit: Liberty Street Station, 92.50m away; Truckee River Walk, visit from 10:10 to 12:10, nearest transit: Arlington Avenue at Wingfield Park, 157.20m away; Pho 777 Vietnamese Restaurant, visit from 13:40 to 14:20, nearest transit: Lake Street and E 2nd Street, 94.17m away; Bertha Miranda's Mexican Restaurant, visit from 19:00 to 19:40, nearest transit: Mill Street and River Rock Street, 54.94m away; Sealy Super Comfy Mattress 4.1 Stars, stay from 23:00 to 08:00, nearest transit: Kietzke Lane and Vassar Street, 22.16m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Reno to Los Angeles",
+    "transportation": "Flight Number: F1147930, from Reno to Los Angeles, Departure Time: 07:20, Arrival Time: 08:54",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sealy Super Comfy Mattress 4.1 Stars, stay from 09:24 to 09:54, nearest transit: Kietzke Lane and Vassar Street, 22.16m away"
+  }
+]

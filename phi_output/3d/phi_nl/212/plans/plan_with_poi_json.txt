@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F3772502, from Hartford to Las Vegas, Departure Time: 17:08, Arrival Time: 19:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 19:47 to 20:17, nearest transit: Fremont East Entertainment District, 1810.60m away; Gordon Ramsay Hell's Kitchen, visit from 20:47 to 21:27, nearest transit: The Strat, 3843.18m away; Room in Down Town Las Vegas., stay from 23:00 to 08:00, nearest transit: Fremont East Entertainment District, 1810.60m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Skyfall Lounge, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "attraction": "Wynn Las Vegas Casino, Las Vegas",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 08:00 to 08:30, nearest transit: Fremont East Entertainment District, 1810.60m away; Skyfall Lounge, visit from 09:00 to 09:40, nearest transit: The Strat, 6368.08m away; Wynn Las Vegas Casino, visit from 10:10 to 12:10, nearest transit: The Strat, 2447.07m away; Eggscellent, visit from 13:40 to 14:20, nearest transit: The Strat, 4208.46m away; Firefly Tapas Kitchen & Bar, visit from 19:00 to 19:40, nearest transit: The Strat, 3079.37m away; Room in Down Town Las Vegas., stay from 23:00 to 08:00, nearest transit: Fremont East Entertainment District, 1810.60m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F3770462, from Las Vegas to Hartford, Departure Time: 21:26, Arrival Time: 05:08",
+    "breakfast": "Carmine's, Las Vegas",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 08:00 to 08:30, nearest transit: Fremont East Entertainment District, 1810.60m away; Carmine's, visit from 09:00 to 09:40, nearest transit: The Strat, 3610.12m away"
+  }
+]

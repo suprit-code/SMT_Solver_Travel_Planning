@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F0540291, from Denver to San Diego, Departure Time: 16:03, Arrival Time: 17:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "-",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 17:39 to 18:09, nearest transit: 30th St & Dwight St, 532.03m away; Din Tai Fung, San Diego, visit from 19:45 to 21:00, ; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 21:30 to 05:30, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Oceana Coastal Kitchen, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "The Butcher Shop, San Diego",
+    "attraction": "Little Italy, San Diego",
+    "accommodation": "Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 06:00 to 06:30, nearest transit: 30th St & Dwight St, 532.03m away; Oceana Coastal Kitchen, San Diego, visit from 09:10 to 10:00, ; Little Italy, San Diego, visit from 10:30 to 14:00, ; Born & Raised, San Diego, visit from 14:30 to 15:30, ; The Butcher Shop, San Diego, visit from 20:45 to 22:00, ; Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 23:06 to 07:06, nearest transit: 30th St & Dwight St, 532.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "House of Peace - Quiet, Peaceful, near Shasta Lake, Redding",
+    "event": "-",
+    "point_of_interest_list": "Safe Hip Quiet GARDEN STUDIO / Northpark, stay from 07:36 to 08:06, nearest transit: 30th St & Dwight St, 532.03m away; Juniper and Ivy, San Diego, visit from 08:36 to 09:26, ; House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 22:40 to 23:10, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away; House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 23:40 to 07:40, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Priya Indian Cuisine, Redding",
+    "lunch": "Grand Buffet, Redding",
+    "dinner": "View 202, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "House of Peace - Quiet, Peaceful, near Shasta Lake, Redding",
+    "event": "-",
+    "point_of_interest_list": "House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 08:10 to 08:40, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away; Priya Indian Cuisine, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; Grand Buffet, Redding, visit from 14:30 to 15:30, ; View 202, Redding, visit from 20:45 to 22:00, ; House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 22:30 to 06:30, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Denver",
+    "transportation": "Taxi from Redding to Denver, duration: 1285.4166666666667, distance: 1981.5151, cost : 1981.0",
+    "breakfast": "deja vu, Redding",
+    "lunch": "Chu's Too, Redding",
+    "dinner": "Champa Garden, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 07:00 to 07:30, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away; deja vu, Redding, visit from 08:00 to 08:50, ; Sundial Bridge, Redding, visit from 09:20 to 12:50, ; Chu's Too, Redding, visit from 13:20 to 14:59, ; Champa Garden, Redding, visit from 19:00 to 20:15, "
+  }
+]

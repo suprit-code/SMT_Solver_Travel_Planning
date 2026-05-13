@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Cincinnati",
+    "transportation": "Flight Number: F2559456, from Sarasota to Cincinnati, Departure Time: 22:48, Arrival Time: 00:58",
+    "breakfast": "Losanti, Cincinnati",
+    "lunch": "Tony's Of Cincinnati, Cincinnati",
+    "dinner": "Jeff Ruby's Precinct, Cincinnati",
+    "attraction": "Eden Park, Cincinnati",
+    "accommodation": "Luxury Suite w/Rooftop Deck near UC Hospitals Zoo, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Cincinnati",
+    "transportation": "-",
+    "breakfast": "Nicola's Ristorante, Cincinnati",
+    "lunch": "Subito, Cincinnati",
+    "dinner": "Boca, Cincinnati",
+    "attraction": "National Underground Railroad Freedom Center, Cincinnati",
+    "accommodation": "Luxury Suite w/Rooftop Deck near UC Hospitals Zoo, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "Luxury Suite w/Rooftop Deck near UC Hospitals Zoo, stay from 08:00 to 08:30, nearest transit: LUDLOW AVE & ORMOND AVE, 36.00m away; Nicola's Ristorante, visit from 08:55 to 09:35, nearest transit: LIBERTY ST & SYCAMORE ST, 55.35m away; National Underground Railroad Freedom Center, visit from 10:00 to 12:00, nearest transit: Riverfront Transit Center Stop, 102.78m away; Subito, visit from 13:35 to 14:15, nearest transit: PIKE ST & 3RD ST, 50.20m away; Boca, visit from 19:00 to 19:40, nearest transit: 6TH ST & MAIN ST, 42.37m away; Luxury Suite w/Rooftop Deck near UC Hospitals Zoo, stay from 23:00 to 08:00, nearest transit: LUDLOW AVE & ORMOND AVE, 36.00m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Cincinnati to Sarasota",
+    "transportation": "Flight Number: F1342106, from Cincinnati to Sarasota, Departure Time: 17:40, Arrival Time: 19:46",
+    "breakfast": "The Melting Pot, Cincinnati",
+    "lunch": "Jeff Ruby's Carlo & Johnny, Cincinnati",
+    "dinner": "Jeff Ruby's Steakhouse, Cincinnati",
+    "attraction": "Rhinegeist Brewery, Cincinnati",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Luxury Suite w/Rooftop Deck near UC Hospitals Zoo, stay from 08:00 to 08:10, nearest transit: LUDLOW AVE & ORMOND AVE, 36.00m away; The Melting Pot, visit from 08:35 to 08:48, nearest transit: MONTGOMERY RD 10981, 148.77m away; Rhinegeist Brewery, visit from 09:13 to 11:13, nearest transit: BREWERY DISTRICT Station, Elm & Henry, 36.41m away; Jeff Ruby's Carlo & Johnny, visit from 12:22 to 13:02, nearest transit: MONTGOMERY RD 9709, 237.80m away; Jeff Ruby's Steakhouse, visit from 17:02 to 17:15, nearest transit: 5TH ST & VINE ST, 59.37m away"
+  }
+]

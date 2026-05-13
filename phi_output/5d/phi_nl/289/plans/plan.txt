@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F2270110, from Reno to San Diego, Departure Time: 07:23, Arrival Time: 08:44', 'Flight Number: F1754306, from San Diego to Sacramento, Departure Time: 22:15, Arrival Time: 23:46', 'taxi, from Sacramento to Reno, duration: 155.59166666666667, distance: 212.9319, cost: 212'],
+Restaurants (3 meals per day): ['Pacific Beach AleHouse, San Diego', "Mister A'S, San Diego", 'Casa Guadalajara, San Diego', 'Cowboy Star, San Diego', 'Born & Raised, San Diego', 'Juniper and Ivy, San Diego', "Ruth's Chris Steak House, San Diego", 'Vessel Restaurant + Bar, San Diego', 'Addison Restaurant, San Diego', "Dawson's Steakhouse, Sacramento", 'The Kitchen Restaurant, Sacramento', 'Echo and Rig, Sacramento', 'The Firehouse Restaurant, Sacramento', 'Bangkok @12 Thai Restaurant, Sacramento', 'Grange Restaurant & Bar, Sacramento'],
+Attractions (1 per day): ['San Diego Zoo, San Diego', 'Cabrillo National Monument, San Diego', 'Coronado Bridge, San Diego', 'Old Sacramento, Sacramento', 'Capitol Park, Sacramento'],
+Accommodations (1 per city): ['Big Bay Views, San Diego Bay, San Diego', "Private Guest Bed 'N Bath near Downtown, Sacramento"]

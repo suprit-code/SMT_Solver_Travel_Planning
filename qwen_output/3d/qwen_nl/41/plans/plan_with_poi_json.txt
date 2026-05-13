@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to Cincinnati",
+    "transportation": "Flight Number: F0325743, from Atlanta to Cincinnati, Departure Time: 12:12, Arrival Time: 13:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Blind Lemon, Cincinnati",
+    "attraction": "Cincinnati Museum Center, Cincinnati",
+    "accommodation": "Cincinnati D-Listers Extravaganza, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "Cincinnati D-Listers Extravaganza, stay from 13:48 to 14:08, nearest transit: WIEHE RD & BREMONT AVE, 245.11m away; Cincinnati Museum Center, visit from 14:33 to 16:33, nearest transit: MUSEUM CENTER, 69.48m away; The Blind Lemon, visit from 19:00 to 19:40, nearest transit: PARADROME ST 941, 64.25m away; Cincinnati D-Listers Extravaganza, stay from 20:05 to 08:00, nearest transit: WIEHE RD & BREMONT AVE, 245.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Cincinnati",
+    "transportation": "-",
+    "breakfast": "Agave & Rye Rookwood, Cincinnati",
+    "lunch": "Five On Vine, Cincinnati",
+    "dinner": "Ambar India, Cincinnati",
+    "attraction": "National Underground Railroad Freedom Center, Cincinnati",
+    "accommodation": "Cincinnati D-Listers Extravaganza, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "Cincinnati D-Listers Extravaganza, stay from 08:00 to 08:30, nearest transit: WIEHE RD & BREMONT AVE, 245.11m away; Agave & Rye Rookwood, visit from 08:55 to 09:35, nearest transit: EDMONDSON RD & ROOKWOOD COMMONS, 80.67m away; National Underground Railroad Freedom Center, visit from 10:00 to 12:00, nearest transit: Riverfront Transit Center Stop, 102.78m away; Five On Vine, visit from 13:35 to 14:15, nearest transit: WALNUT ST & 13TH ST, 134.59m away; Ambar India, visit from 19:00 to 19:40, nearest transit: LUDLOW AVE & ORMOND AVE, 50.16m away; Cincinnati D-Listers Extravaganza, stay from 20:05 to 08:00, nearest transit: WIEHE RD & BREMONT AVE, 245.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Cincinnati to Atlanta",
+    "transportation": "Flight Number: F1327592, from Cincinnati to Atlanta, Departure Time: 17:18, Arrival Time: 18:50",
+    "breakfast": "Sotto, Cincinnati",
+    "lunch": "Pepp & Dolores, Cincinnati",
+    "dinner": "-",
+    "attraction": "Eden Park, Cincinnati",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cincinnati D-Listers Extravaganza, stay from 08:00 to 08:30, nearest transit: WIEHE RD & BREMONT AVE, 245.11m away; Sotto, visit from 08:55 to 09:35, nearest transit: 6TH ST & MAIN ST, 35.42m away; Eden Park, visit from 10:00 to 12:00, nearest transit: GILBERT AVE & EDEN PARK DR, 132.39m away; Pepp & Dolores, visit from 13:35 to 14:15, nearest transit: VINE ST & 15TH ST, 39.78m away"
+  }
+]

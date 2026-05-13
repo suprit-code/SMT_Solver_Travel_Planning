@@ -1,0 +1,6 @@
+Destination cities: ['Cincinnati'],
+Transportation dates: ['2024-11-02', '2024-11-04'],
+Transportation methods between cities: ['Flight Number: F0325743, from Atlanta to Cincinnati, Departure Time: 12:12, Arrival Time: 13:23', 'Flight Number: F1327592, from Cincinnati to Atlanta, Departure Time: 17:18, Arrival Time: 18:50'],
+Restaurants (3 meals per day): ['-', '-', 'Via Vite, Cincinnati', 'Moerlein Lager House, Cincinnati', 'Sotto, Cincinnati', 'Agave & Rye Rookwood, Cincinnati', 'Boomtown Biscuits & Whiskey, Cincinnati', 'Nada, Cincinnati', '-'],
+Attractions (1 per day): ['Cincinnati Museum Center, Cincinnati', 'National Underground Railroad Freedom Center, Cincinnati', 'Rhinegeist Brewery, Cincinnati'],
+Accommodations (1 per city): ['Carter #6, Two Bedroom Apartment near Xavier, Cincinnati']

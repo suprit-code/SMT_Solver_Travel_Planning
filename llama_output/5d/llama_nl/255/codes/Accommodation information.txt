@@ -1,0 +1,8 @@
+########## Accommodation response ##########
+            # For each 'accommodation_index', get specific room type info, assert 'Private room' exist for all accommodations, assert 'Entire home/apt' exist for all accommodations, assert 'No pets' does not exist for all accommodations
+            for i, variable in enumerate(variables['accommodation_index']):
+                accommodation_room_types_list, _ = AccommodationSearch.get_info(accommodation_constraints, variables['city'][i], 'Room_types')
+                s.assert_and_track(AccommodationSearch.check_exists('Private room', accommodation_room_types_list, variable) == True,  'Private room' + 'types accomadation visited')
+                s.assert_and_track(AccommodationSearch.check_exists('Entire home/apt', accommodation_room_types_list, variable) == True,  'Entire home/apt' + 'types accomadation visited')
+                s.assert_and_track(AccommodationSearch.check_exists('No pets', accommodation_room_types_list, variable) == False,  'No pets' + 'types accomadation not visited')
+            ########## Accommodation response ends ##########

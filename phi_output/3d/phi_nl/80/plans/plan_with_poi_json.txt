@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sitka to Seattle",
+    "transportation": "Flight Number: F2878676, from Sitka to Seattle, Departure Time: 13:45, Arrival Time: 17:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Museum of Pop Culture, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "The Pike Pub and Brewery, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Chihuly Garden and Glass, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; The Pike Pub and Brewery, visit from 09:00 to 09:40, nearest transit: 2nd Ave & Pike St, 113.99m away; Chihuly Garden and Glass, visit from 10:10 to 12:10, nearest transit: Seattle Center, 78.76m away; Noi Thai Cuisine, visit from 13:40 to 14:20, nearest transit: 2nd Ave & Seneca St, 181.65m away; Dough Zone Dumpling House - Seattle International District, visit from 19:00 to 19:40, nearest transit: 5th Ave S & S Weller St, 26.54m away; Cozy room near UW, stay from 23:00 to 08:00, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Sitka",
+    "transportation": "Flight Number: F2337064, from Seattle to Sitka, Departure Time: 17:12, Arrival Time: 18:31",
+    "breakfast": "13 Coins Restaurant, Seattle",
+    "lunch": "Vons 1000 Spirits, Seattle",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; 13 Coins Restaurant, visit from 09:00 to 09:40, nearest transit: King Street Station, 107.40m away; Klondike Gold Rush National Historical Park, visit from 10:10 to 12:10, nearest transit: Occidental Mall, 113.08m away; Vons 1000 Spirits, visit from 13:40 to 14:20, nearest transit: 2nd Ave & Seneca St, 159.67m away"
+  }
+]

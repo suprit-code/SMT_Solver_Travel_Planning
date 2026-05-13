@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Charleston",
+    "transportation": "Flight Number: F0388998, from Miami to Charleston, Departure Time: 16:02, Arrival Time: 17:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Poogan's Porch, Charleston",
+    "attraction": "-",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 18:18 to 18:48, nearest transit: Broad St / Church St, 4048.31m away; Poogan's Porch, Charleston, visit from 19:18 to 20:33, ; The Backpacker, stay from 21:03 to 05:03, nearest transit: Broad St / Church St, 4048.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Stars Restaurant-Rooftop & Grill Room, Charleston",
+    "lunch": "Amen Street Fish & Raw Bar, Charleston",
+    "dinner": "Stella's, Charleston",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 06:00 to 07:55, nearest transit: Broad St / Church St, 4048.31m away; Stars Restaurant-Rooftop & Grill Room, Charleston, visit from 08:25 to 09:15, ; Amen Street Fish & Raw Bar, Charleston, visit from 13:16 to 14:16, ; Charleston Waterfront Park, Charleston, visit from 14:46 to 18:30, ; Stella's, Charleston, visit from 19:00 to 20:15, ; The Backpacker, stay from 23:39 to 07:39, nearest transit: Broad St / Church St, 4048.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Miami",
+    "transportation": "Self-driving from Charleston to Miami, duration: 661.9983333333333, distance: 935.2003, cost : 46.0",
+    "breakfast": "Frannie & The Fox, Charleston",
+    "lunch": "Eli's Table, Charleston",
+    "dinner": "-",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 08:09 to 08:39, nearest transit: Broad St / Church St, 4048.31m away; Frannie & The Fox, Charleston, visit from 09:09 to 09:59, ; Eli's Table, Charleston, visit from 14:00 to 15:00, ; Magnolia Plantation & Gardens, Charleston, visit from 15:30 to 19:00, "
+  }
+]

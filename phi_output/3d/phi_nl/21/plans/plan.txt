@@ -1,0 +1,6 @@
+Destination cities: ['Las Vegas'],
+Transportation dates: ['2024-11-02', '2024-11-04'],
+Transportation methods between cities: ['Flight Number: F0555964, from San Francisco to Las Vegas, Departure Time: 16:12, Arrival Time: 17:45', 'Flight Number: F3439527, from Las Vegas to San Francisco, Departure Time: 20:23, Arrival Time: 21:58'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Garden Court, Las Vegas', 'Eggslut, Las Vegas', 'Mr. Mamas, Las Vegas', 'Ameribrunch Cafe, Las Vegas', 'Eggscellent, Las Vegas', '-'],
+Attractions (1 per day): ['Bellagio Conservatory & Botanical Garden, Las Vegas', 'Red Rock Canyon National Conservation Area, Las Vegas', 'Hoover Dam Bypass, Las Vegas'],
+Accommodations (1 per city): ['Gamble Adventure | Restaurant. Outside Pool, Las Vegas']

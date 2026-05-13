@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tampa to Bloomington",
+    "transportation": "Self-driving from Tampa to Bloomington, duration: 1228.5449999999998, distance: 1769.4128, cost : 88.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Arcade House - Hot Tub, Games, Grill, FirePit, FUN, Bloomington",
+    "event": "-",
+    "point_of_interest_list": "Arcade House - Hot Tub, Games, Grill, FirePit, FUN, stay from 02:58 to 03:28, nearest transit: Prow Rd @ Meadows Hospital, 251003.54m away; Arcade House - Hot Tub, Games, Grill, FirePit, FUN, stay from 03:58 to 08:00, nearest transit: Prow Rd @ Meadows Hospital, 251003.54m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Bloomington",
+    "transportation": "-",
+    "breakfast": "My Thai Cafe & Sushi Bar, Bloomington",
+    "lunch": "Jim's Steak House, Bloomington",
+    "dinner": "Bloomington ChopHouse, Bloomington",
+    "attraction": "-",
+    "accommodation": "Arcade House - Hot Tub, Games, Grill, FirePit, FUN, Bloomington",
+    "event": "-",
+    "point_of_interest_list": "Arcade House - Hot Tub, Games, Grill, FirePit, FUN, stay from 08:30 to 09:00, nearest transit: Prow Rd @ Meadows Hospital, 251003.54m away; My Thai Cafe & Sushi Bar, Bloomington, visit from 09:39 to 10:29, ; Jim's Steak House, Bloomington, visit from 14:30 to 15:30, ; Bloomington ChopHouse, Bloomington, visit from 19:31 to 20:46, ; Arcade House - Hot Tub, Games, Grill, FirePit, FUN, stay from 21:16 to 05:16, nearest transit: Prow Rd @ Meadows Hospital, 251003.54m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Bloomington to Tampa",
+    "transportation": "Self-driving from Bloomington to Tampa, duration: 1224.335, distance: 1765.7608, cost : 88.0",
+    "breakfast": "Epiphany Farms Restaurant, Bloomington",
+    "lunch": "Bub's Burgers and Ice Cream, Bloomington",
+    "dinner": "Janko's Little Zagreb, Bloomington",
+    "attraction": "Monroe County History Center and Research Library, Bloomington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Arcade House - Hot Tub, Games, Grill, FirePit, FUN, stay from 06:00 to 06:30, nearest transit: Prow Rd @ Meadows Hospital, 251003.54m away; Epiphany Farms Restaurant, Bloomington, visit from 08:00 to 08:50, ; Bub's Burgers and Ice Cream, Bloomington, visit from 12:51 to 13:51, ; Monroe County History Center and Research Library, Bloomington, visit from 14:21 to 17:51, ; Janko's Little Zagreb, Bloomington, visit from 19:00 to 20:15, "
+  }
+]

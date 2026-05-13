@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Bend to Seattle",
+    "transportation": "Flight Number: F2394861, from Bend to Seattle, Departure Time: 13:30, Arrival Time: 14:32",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Rocco's, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 15:02 to 15:32, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Klondike Gold Rush National Historical Park, visit from 16:02 to 18:02, nearest transit: Occidental Mall, 113.08m away; Rocco's, visit from 19:00 to 19:40, nearest transit: 3rd Ave & Bell St, 90.96m away; Cozy room near UW, stay from 23:00 to 08:00, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Vons 1000 Spirits, visit from 09:00 to 09:40, nearest transit: 2nd Ave & Seneca St, 159.67m away; Hiram M. Chittenden Locks, visit from 10:10 to 12:10, nearest transit: NW 54th St & 30th Ave NW, 241.41m away; Dough Zone Dumpling House - Seattle International District, visit from 13:40 to 14:20, nearest transit: 5th Ave S & S Weller St, 26.54m away; Noi Thai Cuisine, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Seneca St, 181.65m away; Cozy room near UW, stay from 23:00 to 08:00, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Bend",
+    "transportation": "Flight Number: F0627503, from Seattle to Bend, Departure Time: 19:44, Arrival Time: 20:52",
+    "breakfast": "Chan Seattle, Seattle",
+    "lunch": "Bacco Cafe, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Chan Seattle, visit from 09:00 to 09:40, nearest transit: Pine St & 9th Ave, 68.08m away; Seattle Center, visit from 10:10 to 12:10, nearest transit: Seattle Center, 84.22m away; Bacco Cafe, visit from 13:40 to 14:20, nearest transit: 2nd Ave & Stewart St, 107.26m away"
+  }
+]

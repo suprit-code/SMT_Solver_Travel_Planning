@@ -1,0 +1,6 @@
+Destination cities: ['Nashville'],
+Transportation dates: ['2024-11-17', '2024-11-19'],
+Transportation methods between cities: ['Flight Number: F3263553, from Miami to Nashville, Departure Time: 16:02, Arrival Time: 17:25', 'Flight Number: F1358790, from Nashville to Miami, Departure Time: 17:52, Arrival Time: 21:05'],
+Restaurants (3 meals per day): ['-', '-', '-', "Puckett's 5th & Church, Nashville", "Paula Deen's Family Kitchen, Nashville", 'Bourbon Street Blues and Boogie Bar, Nashville', 'Kayne Prime, Nashville', 'Aquarium Restaurant, Nashville', '-'],
+Attractions (1 per day): ['Ryman Auditorium, Nashville', 'Cheekwood, Nashville', 'Ole Smoky Distillery & Yee-Haw Brewery, Nashville'],
+Accommodations (1 per city): ['Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville']

@@ -1,0 +1,6 @@
+Destination cities: ['Key West'],
+Transportation dates: ['2024-11-15', '2024-11-17'],
+Transportation methods between cities: ['Flight Number: F4038547, from Houston to Key West, Departure Time: 12:28, Arrival Time: 16:29', 'Flight Number: F0987158, from Key West to Houston, Departure Time: 16:45, Arrival Time: 19:01'],
+Restaurants (3 meals per day): ['-', '-', "Frita's Cuban Burger Cafe, Key West", "Harpoon Harry's, Key West", 'Key West Cuban Coffee Shop, Key West', 'Salute! On The Beach, Key West', 'Seaside Cafe at the Mansion, Key West', 'Onlywood Grill, Key West', '-'],
+Attractions (1 per day): ['Florida Keys Eco-Discovery Center, Key West', 'Smathers Beach, Key West', 'Fort Zachary Taylor Historic State Park, Key West'],
+Accommodations (1 per city): ['The Key West Sailboat, Key West']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Seattle",
+    "transportation": "Flight Number: F3305579, from Oklahoma City to Seattle, Departure Time: 14:29, Arrival Time: 16:39",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "13 Coins Restaurant, Seattle",
+    "attraction": "-",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 17:09 to 18:30, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; 13 Coins Restaurant, Seattle, visit from 19:00 to 23:04, ; Ballard Greenwood Private Suite, stay from 23:34 to 07:34, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Tilikum Place Cafe, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "Chan Seattle, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:04 to 08:34, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Tilikum Place Cafe, Seattle, visit from 09:04 to 09:54, ; Hiram M. Chittenden Locks, Seattle, visit from 10:24 to 13:54, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 14:24 to 15:24, ; Chan Seattle, Seattle, visit from 19:25 to 20:40, ; Ballard Greenwood Private Suite, stay from 21:10 to 05:10, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Oklahoma City",
+    "transportation": "Flight Number: F1515441, from Seattle to Oklahoma City, Departure Time: 10:01, Arrival Time: 15:54",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 06:00 to 06:30, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Vons 1000 Spirits, Seattle, visit from 08:00 to 08:50, "
+  }
+]

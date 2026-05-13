@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Bristol to Charlotte",
+    "transportation": "Self-driving from Bristol to Charlotte, duration: 212.82166666666663, distance: 253.2508, cost : 12.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cabo Fish Taco Baja Seagrill, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 14:30 to 15:00, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Levine Museum of the New South, Charlotte, visit from 15:30 to 20:15, ; Cabo Fish Taco Baja Seagrill, Charlotte, visit from 20:45 to 22:01, ; Room with a king bed., stay from 22:31 to 06:31, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's, Charlotte",
+    "lunch": "The Terrace at The Charlotte Inn, Charlotte",
+    "dinner": "Charlotte's Web, Charlotte",
+    "attraction": "-",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 07:01 to 07:31, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Charlotte's, Charlotte, visit from 08:01 to 08:51, ; The Terrace at The Charlotte Inn, Charlotte, visit from 12:52 to 13:52, ; Charlotte's Web, Charlotte, visit from 19:00 to 20:15, ; Room with a king bed., stay from 20:45 to 05:30, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Bristol",
+    "transportation": "Self-driving from Charlotte to Bristol, duration: 212.88166666666663, distance: 252.9456, cost : 12.0",
+    "breakfast": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "lunch": "Charlotte & Fritz, Charlotte",
+    "dinner": "-",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 06:00 to 07:30, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 08:00 to 08:50, ; Charlotte & Fritz, Charlotte, visit from 12:51 to 13:51, ; Discovery Place Science, Charlotte, visit from 14:21 to 17:51, "
+  }
+]

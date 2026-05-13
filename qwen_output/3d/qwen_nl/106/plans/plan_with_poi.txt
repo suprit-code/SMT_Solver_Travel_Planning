@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Boise",
+    "transportation": "Flight Number: F0581768, from Houston to Boise, Departure Time: 18:12, Arrival Time: 21:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Charming and Convenient, Boise",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 21:30 to 22:00, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Charming and Convenient, stay from 22:31 to 06:31, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Boise",
+    "transportation": "-",
+    "breakfast": "Boise Fry Company, Boise",
+    "lunch": "Westside Drive In, Boise",
+    "dinner": "Moon's Kitchen Cafe, Boise",
+    "attraction": "Basque Museum & Cultural Center, Boise",
+    "accommodation": "Charming and Convenient, Boise",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 07:01 to 07:31, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Boise Fry Company, Boise, visit from 08:01 to 09:29, ; Westside Drive In, Boise, visit from 13:30 to 14:30, ; Basque Museum & Cultural Center, Boise, visit from 15:00 to 18:30, ; Moon's Kitchen Cafe, Boise, visit from 19:00 to 20:40, ; Charming and Convenient, stay from 21:10 to 05:10, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Boise to Houston",
+    "transportation": "Flight Number: F2376085, from Boise to Houston, Departure Time: 06:40, Arrival Time: 10:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 05:40 to 06:10, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Las Vegas",
+    "transportation": "Flight Number: F3721420, from Washington to Las Vegas, Departure Time: 10:19, Arrival Time: 12:14",
+    "breakfast": "-",
+    "lunch": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "dinner": "Vic & Anthony's Steakhouse, Las Vegas",
+    "attraction": "The Grand Canal Shoppes at The Venetian Resort, Las Vegas",
+    "accommodation": "Renovated Luxury Studio Suite in Tower 3, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Renovated Luxury Studio Suite in Tower 3, stay from 12:44 to 13:14, nearest transit: The Strat, 4591.41m away; Gordon Ramsay Hell's Kitchen, visit from 13:44 to 14:24, nearest transit: The Strat, 3843.18m away; The Grand Canal Shoppes at The Venetian Resort, visit from 14:54 to 16:54, nearest transit: The Strat, 2980.91m away; Vic & Anthony's Steakhouse, visit from 19:00 to 19:40, nearest transit: Fremont Street Experience, 213.11m away; Renovated Luxury Studio Suite in Tower 3, stay from 23:00 to 08:00, nearest transit: The Strat, 4591.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "THE Steak House, Las Vegas",
+    "attraction": "Fashion Show Las Vegas, Las Vegas",
+    "accommodation": "Renovated Luxury Studio Suite in Tower 3, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Renovated Luxury Studio Suite in Tower 3, stay from 08:00 to 08:30, nearest transit: The Strat, 4591.41m away; Firefly Tapas Kitchen & Bar, visit from 09:00 to 09:40, nearest transit: The Strat, 3079.37m away; Fashion Show Las Vegas, visit from 10:10 to 12:10, nearest transit: The Strat, 2657.04m away; Eggscellent, visit from 13:40 to 14:20, nearest transit: The Strat, 4208.46m away; THE Steak House, visit from 19:00 to 19:40, nearest transit: The Strat, 1363.88m away; Renovated Luxury Studio Suite in Tower 3, stay from 23:00 to 08:00, nearest transit: The Strat, 4591.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Washington",
+    "transportation": "Flight Number: F0562036, from Las Vegas to Washington, Departure Time: 13:12, Arrival Time: 20:23",
+    "breakfast": "Lemongrass, Las Vegas",
+    "lunch": "Triple George Grill, Las Vegas",
+    "dinner": "Eggslut, Las Vegas",
+    "attraction": "Las Vegas North Premium Outlets, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

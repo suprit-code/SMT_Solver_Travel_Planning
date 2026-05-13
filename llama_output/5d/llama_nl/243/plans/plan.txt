@@ -1,0 +1,6 @@
+Destination cities: ['Greensboro', 'Wilmington'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F4050722, from New York to Greensboro, Departure Time: 10:50, Arrival Time: 12:27', 'taxi, from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost: 334', 'Flight Number: F3205421, from Wilmington to New York, Departure Time: 17:43, Arrival Time: 19:20'],
+Restaurants (3 meals per day): ['-', '-', 'Golden Wok, Greensboro', 'Print Works Bistro, Greensboro', 'Hops Burger Bar, Greensboro', 'Lucky 32 Southern Kitchen, Greensboro', "Darryl's Wood Fired Grill, Greensboro", "Vito's Italian Restaurant, Greensboro", '1618 West Seafood Grill, Greensboro', 'Fish Bites Seafood, Wilmington', 'Catch, Wilmington', 'Iron Hill Brewery & Restaurant, Wilmington', 'The Wilmington, Wilmington', 'Roko Italian Cuisine, Wilmington', '-'],
+Attractions (1 per day): ['Carolina Theatre, Greensboro', 'Ambleside Gallery, Greensboro', 'International Civil Rights Center & Museum, Greensboro', 'Battleship North Carolina, Wilmington', 'Burgwin-Wright House and Gardens, Wilmington'],
+Accommodations (1 per city): ['Cottage at Three Magnolias, Greensboro', 'The Retro Room- Private Suite with bathroom, Wilmington']

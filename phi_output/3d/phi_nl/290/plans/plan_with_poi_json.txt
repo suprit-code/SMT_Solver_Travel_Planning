@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Fort Wayne",
+    "transportation": "Flight Number: F0915495, from Las Vegas to Fort Wayne, Departure Time: 23:49, Arrival Time: 06:12",
+    "breakfast": "Catablu Grille, Fort Wayne",
+    "lunch": "Ziano's Italian eatery, Fort Wayne",
+    "dinner": "Sara's Family Restaurant, Fort Wayne",
+    "attraction": "Fort Wayne Firefighters Museum, Fort Wayne",
+    "accommodation": "\u2728 Luxurious 2 bd home - downtown w/ free parking \u2728, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Fort Wayne",
+    "transportation": "-",
+    "breakfast": "Chop's Steak & Seafood, Fort Wayne",
+    "lunch": "The Bluebird Restaurant, Fort Wayne",
+    "dinner": "BakerStreet, Fort Wayne",
+    "attraction": "Fort Wayne Museum of Art, Fort Wayne",
+    "accommodation": "\u2728 Luxurious 2 bd home - downtown w/ free parking \u2728, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "\u2728 Luxurious 2 bd home - downtown w/ free parking \u2728, stay from 08:00 to 08:30, nearest transit: Columbia Ave. at Lafort St. (EB), 139.13m away; Chop's Steak & Seafood, visit from 09:00 to 09:40, nearest transit: Village at Time Corners Taco Bell, 101.43m away; Fort Wayne Museum of Art, visit from 10:10 to 12:10, nearest transit: Main St. just past bus hut west of Lafayette St. (WB), 34.80m away; The Bluebird Restaurant, visit from 13:40 to 14:20, nearest transit: Bluffton Rd. at Sandpoint Rd. (SB), 66.58m away; BakerStreet, visit from 19:00 to 19:40, nearest transit: N. Clinton St. at Fairington Dr. (NB), 53.77m away; \u2728 Luxurious 2 bd home - downtown w/ free parking \u2728, stay from 23:00 to 08:00, nearest transit: Columbia Ave. at Lafort St. (EB), 139.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Fort Wayne to Las Vegas",
+    "transportation": "Flight Number: F2558843, from Fort Wayne to Las Vegas, Departure Time: 13:16, Arrival Time: 14:01",
+    "breakfast": "Cork 'N Cleaver Steak & Seafood, Fort Wayne",
+    "lunch": "Agaves Mexican Grill, Fort Wayne",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "\u2728 Luxurious 2 bd home - downtown w/ free parking \u2728, stay from 08:00 to 08:30, nearest transit: Columbia Ave. at Lafort St. (EB), 139.13m away; Cork 'N Cleaver Steak & Seafood, visit from 09:00 to 09:40, nearest transit: Coldwater Rd. south of Washington Center Rd. (SB), 194.92m away; Agaves Mexican Grill, visit from 12:06 to 12:46, nearest transit: Coldwater Rd. south of Washington Center Rd. (SB), 220.71m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Charlotte",
+    "transportation": "Flight Number: F0665203, from Denver to Charlotte, Departure Time: 14:00, Arrival Time: 18:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The best things in life come in small packages!, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The best things in life come in small packages!, stay from 19:18 to 19:48, nearest transit: Jennings St & Russell Ave, 153.37m away; The best things in life come in small packages!, stay from 23:00 to 08:00, nearest transit: Jennings St & Russell Ave, 153.37m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte Bakery, Charlotte",
+    "lunch": "Pinky's Westside Grill, Charlotte",
+    "dinner": "Charlotte's Eats and Sweets, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "The best things in life come in small packages!, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The best things in life come in small packages!, stay from 08:00 to 08:30, nearest transit: Jennings St & Russell Ave, 153.37m away; Charlotte Bakery, visit from 09:00 to 09:40, nearest transit: White Street Park and Ride, 1016826.02m away; Truist Field, visit from 10:10 to 12:10, nearest transit: 4th St & Graham St, 146.25m away; Pinky's Westside Grill, visit from 13:40 to 14:20, nearest transit: Morehead St & Grandin Rd, 166.98m away; Charlotte's Eats and Sweets, visit from 19:00 to 19:40, nearest transit: Oakland St & Main Ave, 991745.06m away; The best things in life come in small packages!, stay from 23:00 to 08:00, nearest transit: Jennings St & Russell Ave, 153.37m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Denver",
+    "transportation": "Flight Number: F1492603, from Charlotte to Denver, Departure Time: 08:15, Arrival Time: 09:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Memphis",
+    "transportation": "Flight Number: F1695329, from Boston to Memphis, Departure Time: 07:39, Arrival Time: 09:37",
+    "breakfast": "-",
+    "lunch": "Leonard's Pit Barbecue, Memphis",
+    "dinner": "Mcewen's Memphis, Memphis",
+    "attraction": "Memphis Riverboats, Memphis",
+    "accommodation": "Private room/bath in shared home, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Private room/bath in shared home, stay from 10:07 to 11:30, nearest transit: CENTRAL AVE@LAFAYETTE ST, 400.89m away; Leonard's Pit Barbecue, Memphis, visit from 12:00 to 13:34, ; Memphis Riverboats, Memphis, visit from 14:04 to 17:34, ; Mcewen's Memphis, Memphis, visit from 20:45 to 22:00, ; Private room/bath in shared home, stay from 22:30 to 06:30, nearest transit: CENTRAL AVE@LAFAYETTE ST, 400.89m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Memphis",
+    "transportation": "-",
+    "breakfast": "Flight Restaurant and Wine Bar, Memphis",
+    "lunch": "Arcade Restaurant, Memphis",
+    "dinner": "Memphis Blues Barbeque House, Memphis",
+    "attraction": "Mud Island River Park, Memphis",
+    "accommodation": "Private room/bath in shared home, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Private room/bath in shared home, stay from 07:00 to 07:30, nearest transit: CENTRAL AVE@LAFAYETTE ST, 400.89m away; Flight Restaurant and Wine Bar, Memphis, visit from 08:24 to 09:14, ; Mud Island River Park, Memphis, visit from 09:44 to 13:14, ; Arcade Restaurant, Memphis, visit from 13:44 to 14:44, ; Memphis Blues Barbeque House, Memphis, visit from 19:00 to 20:15, ; Private room/bath in shared home, stay from 20:45 to 04:45, nearest transit: CENTRAL AVE@LAFAYETTE ST, 400.89m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Memphis to Boston",
+    "transportation": "Flight Number: F1699917, from Memphis to Boston, Departure Time: 10:45, Arrival Time: 14:33",
+    "breakfast": "Rum Boogie Cafe, Memphis",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private room/bath in shared home, stay from 06:00 to 06:30, nearest transit: CENTRAL AVE@LAFAYETTE ST, 400.89m away; Rum Boogie Cafe, Memphis, visit from 08:00 to 08:50, "
+  }
+]

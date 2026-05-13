@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Charlotte",
+    "transportation": "Flight Number: F3714123, from Denver to Charlotte, Departure Time: 13:53, Arrival Time: 18:51",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Charlotte & Fritz, Charlotte",
+    "attraction": "-",
+    "accommodation": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 19:21 to 19:51, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Charlotte & Fritz, Charlotte, visit from 20:21 to 21:36, ; ❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 22:06 to 06:06, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Cabo Fish Taco Baja Seagrill, Charlotte",
+    "lunch": "Midwood Smokehouse, Charlotte",
+    "dinner": "Charlotte Quay Restaurant, Charlotte",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 06:36 to 07:06, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Cabo Fish Taco Baja Seagrill, Charlotte, visit from 09:10 to 10:00, ; Mint Museum Uptown, Charlotte, visit from 10:30 to 14:00, ; Midwood Smokehouse, Charlotte, visit from 14:30 to 15:30, ; Charlotte Quay Restaurant, Charlotte, visit from 19:31 to 20:46, ; ❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 23:40 to 07:40, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Denver",
+    "transportation": "Flight Number: F2823707, from Charlotte to Denver, Departure Time: 21:25, Arrival Time: 22:42",
+    "breakfast": "The Terrace at The Charlotte Inn, Charlotte",
+    "lunch": "Charlotte's Tavern, Charlotte",
+    "dinner": "Le Potager de Charlotte, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "❀ Sparkling Clean, NODA-Chic at Lightrail Station, stay from 08:10 to 08:40, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; The Terrace at The Charlotte Inn, Charlotte, visit from 09:10 to 10:00, ; Truist Field, Charlotte, visit from 10:30 to 14:00, ; Charlotte's Tavern, Charlotte, visit from 14:30 to 15:30, ; Le Potager de Charlotte, Charlotte, visit from 19:31 to 20:46, "
+  }
+]

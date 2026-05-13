@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Nashville",
+    "transportation": "Flight Number: F3263553, from Miami to Nashville, Departure Time: 16:02, Arrival Time: 17:25",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Puckett's 5th & Church, Nashville",
+    "attraction": "-",
+    "accommodation": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 17:55 to 20:15, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; Puckett's 5th & Church, Nashville, visit from 20:45 to 22:54, ; Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 23:24 to 07:24, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Paula Deen's Family Kitchen, Nashville",
+    "lunch": "Bourbon Street Blues and Boogie Bar, Nashville",
+    "dinner": "Kayne Prime, Nashville",
+    "attraction": "Ryman Auditorium, Nashville",
+    "accommodation": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 07:54 to 08:24, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; Paula Deen's Family Kitchen, Nashville, visit from 08:54 to 09:44, ; Bourbon Street Blues and Boogie Bar, Nashville, visit from 13:45 to 14:45, ; Ryman Auditorium, Nashville, visit from 15:15 to 18:45, ; Kayne Prime, Nashville, visit from 19:15 to 20:30, ; Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 21:30 to 05:30, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Miami",
+    "transportation": "Flight Number: F1358790, from Nashville to Miami, Departure Time: 17:52, Arrival Time: 21:05",
+    "breakfast": "-",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "-",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let’s Roll!, stay from 06:00 to 07:30, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; Cheekwood, Nashville, visit from 09:00 to 12:30, ; Aquarium Restaurant, Nashville, visit from 13:00 to 14:00, "
+  }
+]

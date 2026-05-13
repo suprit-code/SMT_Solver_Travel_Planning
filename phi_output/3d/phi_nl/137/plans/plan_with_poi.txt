@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Seattle",
+    "transportation": "Flight Number: F2887185, from Indianapolis to Seattle, Departure Time: 07:24, Arrival Time: 08:40",
+    "breakfast": "-",
+    "lunch": "Chan Seattle, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "The Museum of Flight, Seattle",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 09:10 to 09:40, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; The Museum of Flight, Seattle, visit from 10:10 to 13:40, ; Chan Seattle, Seattle, visit from 14:10 to 15:10, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 19:11 to 20:26, ; Ballard Greenwood Private Suite, stay from 22:46 to 06:46, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "JaK's Grill, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "Tulio, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 07:16 to 07:46, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; JaK's Grill, Seattle, visit from 08:16 to 09:06, ; Klondike Gold Rush National Historical Park, Seattle, visit from 09:36 to 13:06, ; Noi Thai Cuisine, Seattle, visit from 14:30 to 16:44, ; Tulio, Seattle, visit from 20:45 to 23:30, ; Ballard Greenwood Private Suite, stay from 00:00 to 08:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Indianapolis",
+    "transportation": "Flight Number: F3316260, from Seattle to Indianapolis, Departure Time: 10:52, Arrival Time: 18:06",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:30 to 09:00, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Vons 1000 Spirits, Seattle, visit from 09:30 to 10:22, "
+  }
+]

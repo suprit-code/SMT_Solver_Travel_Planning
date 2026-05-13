@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Las Vegas",
+    "transportation": "Flight Number: F3577733, from Sioux Falls to Las Vegas, Departure Time: 12:16, Arrival Time: 13:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "Super cozy brand new furnished private room! 2, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Super cozy brand new furnished private room! 2, stay from 13:41 to 14:11, nearest transit: The Strat, 5032.45m away; Bellagio Conservatory & Botanical Garden, Las Vegas, visit from 14:41 to 18:30, ; Mr. Mamas, Las Vegas, visit from 19:00 to 22:11, ; Super cozy brand new furnished private room! 2, stay from 22:41 to 06:41, nearest transit: The Strat, 5032.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "dinner": "Garden Court, Las Vegas",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "Super cozy brand new furnished private room! 2, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Super cozy brand new furnished private room! 2, stay from 07:11 to 07:41, nearest transit: The Strat, 5032.45m away; Ameribrunch Cafe, Las Vegas, visit from 08:11 to 09:59, ; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 14:00 to 15:00, ; Red Rock Canyon National Conservation Area, Las Vegas, visit from 15:30 to 20:15, ; Garden Court, Las Vegas, visit from 20:45 to 23:10, ; Super cozy brand new furnished private room! 2, stay from 23:40 to 07:40, nearest transit: The Strat, 5032.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Sioux Falls",
+    "transportation": "Flight Number: F2560739, from Las Vegas to Sioux Falls, Departure Time: 16:07, Arrival Time: 20:39",
+    "breakfast": "Eggslut, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "-",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Super cozy brand new furnished private room! 2, stay from 08:10 to 08:40, nearest transit: The Strat, 5032.45m away; Eggslut, Las Vegas, visit from 09:10 to 10:00, ; Hoover Dam Bypass, Las Vegas, visit from 10:30 to 14:00, ; Eggscellent, Las Vegas, visit from 14:30 to 15:30, "
+  }
+]

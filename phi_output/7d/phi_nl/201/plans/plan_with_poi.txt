@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to San Diego",
+    "transportation": "Flight Number: F0318377, from Detroit to San Diego, Departure Time: 23:00, Arrival Time: 00:35",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 01:05 to 01:35, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; South Mission Beach - Hotel Style Unit w/ AC, stay from 02:05 to 08:00, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Morning Glory, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "-",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 08:30 to 09:00, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Juniper and Ivy, San Diego, visit from 09:30 to 10:20, ; Morning Glory, San Diego, visit from 14:21 to 15:21, ; Mimmo's, San Diego, visit from 19:22 to 20:37, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 21:07 to 04:43, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Flight Number: F2386495, from San Diego to Los Angeles, Departure Time: 06:13, Arrival Time: 07:12",
+    "breakfast": "Spire 73, Los Angeles",
+    "lunch": "Providence, Los Angeles",
+    "dinner": "-",
+    "attraction": "Petersen Automotive Museum, Los Angeles",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 05:13 to 05:43, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Hollywood Hideaway, stay from 07:42 to 08:12, nearest transit: Oxnard St & Radford Ave, 386.65m away; Spire 73, Los Angeles, visit from 08:42 to 09:32, ; Providence, Los Angeles, visit from 13:33 to 14:33, ; Petersen Automotive Museum, Los Angeles, visit from 15:03 to 22:37, ; Hollywood Hideaway, stay from 23:07 to 07:07, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "The Lobster, Los Angeles",
+    "lunch": "25 Degrees, Los Angeles",
+    "dinner": "22nd Street Landing Seafood Grill & Bar, Los Angeles",
+    "attraction": "The Getty Center, Los Angeles",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 07:37 to 08:07, nearest transit: Oxnard St & Radford Ave, 386.65m away; The Lobster, Los Angeles, visit from 08:37 to 09:27, ; The Getty Center, Los Angeles, visit from 09:57 to 13:29, ; 25 Degrees, Los Angeles, visit from 13:59 to 14:59, ; 22nd Street Landing Seafood Grill & Bar, Los Angeles, visit from 19:00 to 20:15, ; Hollywood Hideaway, stay from 20:45 to 04:28, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Flight Number: F2878403, from Los Angeles to San Francisco, Departure Time: 05:58, Arrival Time: 07:17",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "Capital Restaurant, San Francisco",
+    "dinner": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "attraction": "California Academy of Sciences, San Francisco",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 04:58 to 05:28, nearest transit: Oxnard St & Radford Ave, 386.65m away; Updated Private Bedroom with Ensuite Bathroom., stay from 07:47 to 08:17, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Quince, San Francisco, visit from 08:47 to 09:37, ; California Academy of Sciences, San Francisco, visit from 10:07 to 13:37, ; Capital Restaurant, San Francisco, visit from 14:07 to 15:07, ; Harris' Restaurant - The San Francisco Steakhouse, San Francisco, visit from 19:08 to 20:23, ; Updated Private Bedroom with Ensuite Bathroom., stay from 20:53 to 07:19, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Kokkari Estiatorio, San Francisco",
+    "lunch": "The Codmother Fish & Chips, San Francisco",
+    "dinner": "Mersea Restaurant & Bar, San Francisco",
+    "attraction": "Cable Car Museum, San Francisco",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 07:49 to 08:19, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Kokkari Estiatorio, San Francisco, visit from 08:49 to 09:39, ; The Codmother Fish & Chips, San Francisco, visit from 13:40 to 14:40, ; Cable Car Museum, San Francisco, visit from 15:10 to 18:40, ; Mersea Restaurant & Bar, San Francisco, visit from 19:10 to 20:25, ; Updated Private Bedroom with Ensuite Bathroom., stay from 20:55 to 05:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to Detroit",
+    "transportation": "Flight Number: F0303407, from San Francisco to Detroit, Departure Time: 12:48, Arrival Time: 20:16",
+    "breakfast": "Good Mong Kok Bakery, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 06:00 to 06:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Good Mong Kok Bakery, San Francisco, visit from 08:00 to 08:50, "
+  }
+]

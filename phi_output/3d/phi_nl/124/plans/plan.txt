@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F3965490, from Jackson to Atlanta, Departure Time: 15:25, Arrival Time: 17:33', 'Flight Number: F3970669, from Atlanta to Jackson, Departure Time: 19:10, Arrival Time: 19:19'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Steamhouse Lounge, Atlanta', 'Fox Bros. Bar-B-Q, Atlanta', 'Aviva by Kameel, Atlanta', 'Home Grown, Atlanta', 'Cafe Agora, Atlanta', '-'],
+Attractions (1 per day): ['Atlanta History Center, Atlanta', 'Zoo Atlanta, Atlanta', 'Georgia Aquarium, Atlanta'],
+Accommodations (1 per city): ['Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta']

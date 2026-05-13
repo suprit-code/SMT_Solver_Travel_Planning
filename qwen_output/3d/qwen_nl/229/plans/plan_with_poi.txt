@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Atlanta",
+    "transportation": "Flight Number: F0321830, from Sarasota to Atlanta, Departure Time: 11:24, Arrival Time: 12:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bangkok Station, Atlanta",
+    "attraction": "Piedmont Park, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 13:29 to 13:59, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Piedmont Park, Atlanta, visit from 15:00 to 18:30, ; Bangkok Station, Atlanta, visit from 19:00 to 20:15, ; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 20:45 to 04:45, nearest transit: CASCADE AVE SW @ 1113, 82.4m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Home Grown, Atlanta",
+    "lunch": "Fox Bros. Bar-B-Q, Atlanta",
+    "dinner": "Steamhouse Lounge, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 06:00 to 08:14, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Home Grown, Atlanta, visit from 08:44 to 10:00, ; Centennial Olympic Park, Atlanta, visit from 10:30 to 14:00, ; Fox Bros. Bar-B-Q, Atlanta, visit from 14:30 to 15:44, ; Steamhouse Lounge, Atlanta, visit from 19:45 to 21:00, ; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 21:30 to 05:30, nearest transit: CASCADE AVE SW @ 1113, 82.4m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Sarasota",
+    "transportation": "Self-driving from Atlanta to Sarasota, duration: 552.7933333333333, distance: 816.1573000000001, cost : 40.0",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "Ted's Montana Grill, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 06:00 to 06:30, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Cafe Agora, Atlanta, visit from 08:00 to 08:50, ; Atlanta History Center, Atlanta, visit from 09:20 to 14:00, ; Aviva by Kameel, Atlanta, visit from 14:30 to 15:30, ; Ted's Montana Grill, Atlanta, visit from 19:31 to 20:46, "
+  }
+]

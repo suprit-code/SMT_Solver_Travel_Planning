@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Memphis",
+    "transportation": "Flight Number: F1695329, from Boston to Memphis, Departure Time: 07:39, Arrival Time: 09:37",
+    "breakfast": "-",
+    "lunch": "Leonard's Pit Barbecue, Memphis",
+    "dinner": "Mcewen's Memphis, Memphis",
+    "attraction": "Memphis Riverboats, Memphis",
+    "accommodation": "Private room/bath in shared home, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Private room/bath in shared home, stay from 10:07 to 10:37, nearest transit: CENTRAL AVE@LAFAYETTE ST, 400.89m away; Memphis Riverboats, visit from 11:07 to 13:07, nearest transit: RIVERSIDE DR @ COURT AVE, 213.38m away; Leonard's Pit Barbecue, visit from 13:37 to 14:17, nearest transit: MTMORIAH RD@MENDENHALL, 214.04m away; Mcewen's Memphis, visit from 19:00 to 19:40, nearest transit: MADISON-MAIN/TRO NB, 125.12m away; Private room/bath in shared home, stay from 23:00 to 08:00, nearest transit: CENTRAL AVE@LAFAYETTE ST, 400.89m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Memphis",
+    "transportation": "-",
+    "breakfast": "Flight Restaurant and Wine Bar, Memphis",
+    "lunch": "Arcade Restaurant, Memphis",
+    "dinner": "Memphis Blues Barbeque House, Memphis",
+    "attraction": "Mud Island River Park, Memphis",
+    "accommodation": "Private room/bath in shared home, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Private room/bath in shared home, stay from 08:00 to 08:30, nearest transit: CENTRAL AVE@LAFAYETTE ST, 400.89m away; Flight Restaurant and Wine Bar, visit from 09:00 to 09:40, nearest transit: UNION-MAIN/TRO SB, 103.36m away; Mud Island River Park, visit from 10:10 to 12:10, nearest transit: FRONT@POPLAR, 539.88m away; Arcade Restaurant, visit from 13:40 to 14:20, nearest transit: GE PATTERSON@MAIN (Central Station), 56.82m away; Memphis Blues Barbeque House, visit from 19:00 to 19:40, nearest transit: BRADEN@BRANDYWINE, 2883218.55m away; Private room/bath in shared home, stay from 23:00 to 08:00, nearest transit: CENTRAL AVE@LAFAYETTE ST, 400.89m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Memphis to Boston",
+    "transportation": "Flight Number: F1699917, from Memphis to Boston, Departure Time: 10:45, Arrival Time: 14:33",
+    "breakfast": "Rum Boogie Cafe, Memphis",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private room/bath in shared home, stay from 08:00 to 08:30, nearest transit: CENTRAL AVE@LAFAYETTE ST, 400.89m away; Rum Boogie Cafe, visit from 09:00 to 09:40, nearest transit: THIRD@PEABODYPL, 55.30m away"
+  }
+]

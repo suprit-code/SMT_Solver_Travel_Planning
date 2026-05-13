@@ -1,0 +1,6 @@
+Destination cities: ['New York'],
+Transportation dates: ['2024-11-16', '2024-11-18'],
+Transportation methods between cities: ['Flight Number: F0151209, from Asheville to New York, Departure Time: 13:00, Arrival Time: 14:37', 'taxi, from New York to Asheville, duration: 791.7216666666667, distance: 1103.1263, cost: 1103'],
+Restaurants (3 meals per day): ['-', '-', 'Gaonnuri, New York', 'Peak Restaurant & Bar, New York', "Del Frisco's Grille, New York", 'Sarge’s Delicatessen & Diner, New York', 'BOOM, New York', 'Gallaghers Steakhouse, New York', "Del Frisco's Double Eagle Steakhouse, New York"],
+Attractions (1 per day): ['The High Line, New York', 'Central Park, New York', 'One World Observatory, New York'],
+Accommodations (1 per city): ['Standard Queen Room in Small Hotel, New York']

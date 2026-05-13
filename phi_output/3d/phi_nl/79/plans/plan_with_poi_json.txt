@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F0834281, from Hartford to Las Vegas, Departure Time: 16:52, Arrival Time: 20:24",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Mr. Mamas, Las Vegas",
+    "lunch": "Kabuto, Las Vegas",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "Wynn Las Vegas Casino, Las Vegas",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:00 to 08:30, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Mr. Mamas, visit from 09:00 to 09:40, nearest transit: The Strat, 9224.85m away; Wynn Las Vegas Casino, visit from 10:10 to 12:10, nearest transit: The Strat, 2447.07m away; Kabuto, visit from 13:40 to 14:20, nearest transit: The Strat, 5300.92m away; Eggscellent, visit from 19:00 to 19:40, nearest transit: The Strat, 4208.46m away; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 23:00 to 08:00, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F0278234, from Las Vegas to Hartford, Departure Time: 23:01, Arrival Time: 06:35",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:00 to 08:30, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  }
+]

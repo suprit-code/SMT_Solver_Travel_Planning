@@ -1,0 +1,6 @@
+Destination cities: ['Wichita'],
+Transportation dates: ['2024-11-18', '2024-11-20'],
+Transportation methods between cities: ['Flight Number: F3924504, from Houston to Wichita, Departure Time: 09:36, Arrival Time: 11:57', 'Flight Number: F3465015, from Wichita to Houston, Departure Time: 16:45, Arrival Time: 18:45'],
+Restaurants (3 meals per day): ['-', "Chester's Chophouse and Wine Bar, Wichita", 'Doo-Dah Diner, Wichita', 'Siena Tuscan Steakhouse, Wichita', 'Sabor Latin Bar & Grill, Wichita', 'Redrock Canyon Grill, Wichita', 'Newport Grill, Wichita', 'Old Mill Tasty Shop, Wichita', '-'],
+Attractions (1 per day): ['Wichita Art Museum, Wichita', 'The Keeper of the Plains, Wichita', 'Mid-America All-Indian Center, Wichita'],
+Accommodations (1 per city): ['Comfortable large bedroom in residential home,, Wichita']

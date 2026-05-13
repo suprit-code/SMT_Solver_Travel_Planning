@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F3172468, from Reno to San Diego, Departure Time: 08:39, Arrival Time: 10:11', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Reno, duration: 248.73166666666663, distance: 319.7163, cost: 319'],
+Restaurants (3 meals per day): ['-', '-', 'Born & Raised, San Diego', "Lou & Mickey's, San Diego", 'Din Tai Fung, San Diego', 'Juniper and Ivy, San Diego', 'Bencotto Italian Kitchen, San Diego', 'Addison Restaurant, San Diego', 'Covewood Restaurant, San Diego', "Trendy's, Redding", 'Champa Garden, Redding', 'Kobe Seafood & Steakhouse, Redding', 'deja vu, Redding', 'New China, Redding', 'Cicada Cantina, Redding'],
+Attractions (1 per day): ['SeaWorld, San Diego', 'Birch Aquarium at Scripps, San Diego', 'San Diego Zoo, San Diego', 'Turtle Bay Exploration Park, Redding', 'Redding Civic Auditorium, Redding'],
+Accommodations (1 per city): ['Place to Stay with Private Entrance near Beach, San Diego', '★ Spacious Modern Peaceful || 2 Bedroom, Redding']

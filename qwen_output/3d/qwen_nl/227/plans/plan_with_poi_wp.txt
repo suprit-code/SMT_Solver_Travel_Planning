@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Monterey",
+    "transportation": "Flight Number: F0589536, from Seattle to Monterey, Departure Time: 11:15, Arrival Time: 13:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Sardine Factory, Monterey",
+    "attraction": "Monterey Bay Aquarium, Monterey",
+    "accommodation": "Serene Redwood Retreat w/Modern Comfort, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 13:48 to 14:18, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Monterey Bay Aquarium, Monterey, visit from 15:00 to 18:30, ; The Sardine Factory, Monterey, visit from 19:00 to 20:15, ; Serene Redwood Retreat w/Modern Comfort, stay from 20:45 to 04:45, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Monterey",
+    "transportation": "-",
+    "breakfast": "Monterey Bay Fish Grotto, Monterey",
+    "lunch": "Compagno's Market & Deli, Monterey",
+    "dinner": "Monterey's Pizza, Monterey",
+    "attraction": "Dennis the Menace Park, Monterey",
+    "accommodation": "Serene Redwood Retreat w/Modern Comfort, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 06:00 to 06:30, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Monterey Bay Fish Grotto, Monterey, visit from 08:31 to 09:21, ; Dennis the Menace Park, Monterey, visit from 09:51 to 13:21, ; Compagno's Market & Deli, Monterey, visit from 13:51 to 14:51, ; Monterey's Pizza, Monterey, visit from 19:00 to 20:15, ; Serene Redwood Retreat w/Modern Comfort, stay from 20:45 to 04:45, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Monterey to Seattle",
+    "transportation": "Self-driving from Monterey to Seattle, duration: 1120.0633333333333, distance: 1514.4771, cost : 75.0",
+    "breakfast": "Chart House, Monterey",
+    "lunch": "C restaurant + bar, Monterey",
+    "dinner": "Crown & Anchor, Monterey",
+    "attraction": "Doc Rickett's Pacific Biological Laboratories, Monterey",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 08:09 to 08:39, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Chart House, Monterey, visit from 09:09 to 09:59, ; C restaurant + bar, Monterey, visit from 14:00 to 15:00, ; Doc Rickett's Pacific Biological Laboratories, Monterey, visit from 15:30 to 19:00, ; Crown & Anchor, Monterey, visit from 19:30 to 20:45, "
+  }
+]

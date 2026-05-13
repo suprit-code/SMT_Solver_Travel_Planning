@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to Seattle",
+    "transportation": "Flight Number: F1776769, from Portland to Seattle, Departure Time: 16:54, Arrival Time: 17:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Chan Seattle, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 18:17 to 18:47, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Chan Seattle, Seattle, visit from 19:17 to 20:32, ; Cozy room near UW, stay from 21:02 to 05:02, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "13 Coins Restaurant, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 07:41, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Vons 1000 Spirits, Seattle, visit from 08:11 to 09:01, ; Hiram M. Chittenden Locks, Seattle, visit from 09:31 to 13:01, ; Noi Thai Cuisine, Seattle, visit from 13:31 to 16:44, ; 13 Coins Restaurant, Seattle, visit from 20:45 to 22:00, ; Cozy room near UW, stay from 22:30 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Portland",
+    "transportation": "Flight Number: F2890008, from Seattle to Portland, Departure Time: 20:10, Arrival Time: 21:18",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:00 to 07:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 09:39 to 10:29, ; Klondike Gold Rush National Historical Park, Seattle, visit from 10:59 to 14:29, "
+  }
+]

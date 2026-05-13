@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to Charlotte",
+    "transportation": "Self-driving, from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost: 71",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Eats and Sweets, Charlotte",
+    "lunch": "The Capital Grille, Charlotte",
+    "dinner": "Charlotte's, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 08:00 to 08:30, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Charlotte's Eats and Sweets, visit from 08:55 to 09:35, nearest transit: Oakland St & Main Ave, 991745.06m away; Levine Museum of the New South, visit from 10:00 to 12:00, nearest transit: Tryon St & 2nd St, 38.18m away; The Capital Grille, visit from 13:35 to 14:15, nearest transit: Tryon St & 6th St, 103.97m away; Charlotte's, visit from 19:00 to 19:40, nearest transit: Beaty St @ 866, 940467.80m away; \u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 20:05 to 08:00, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Martha's Vineyard",
+    "transportation": "Self-driving, from Charlotte to Martha's Vineyard, duration: 1122.7316666666666, distance: 1420.8184, cost: 71",
+    "breakfast": "Charlotte Quay Restaurant, Charlotte",
+    "lunch": "Charlottes Chocolates, Charlotte",
+    "dinner": "Charlotte's Tea Room, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "\u2740 Sparkling Clean, NODA-Chic at Lightrail Station, stay from 08:00 to 08:30, nearest transit: Sugar Creek Station (BusBridge-NB), 143.94m away; Charlotte Quay Restaurant, visit from 08:55 to 09:35, nearest transit: Beaty St @ 866, 5961834.13m away; Discovery Place Science, visit from 10:00 to 12:00, nearest transit: Church St & 6th St, 53.42m away; Charlottes Chocolates, visit from 13:35 to 14:15, nearest transit: Beaty St @ 866, 6243661.61m away; Charlotte's Tea Room, visit from 19:00 to 19:40, nearest transit: Beaty St @ 866, 852551.45m away"
+  }
+]

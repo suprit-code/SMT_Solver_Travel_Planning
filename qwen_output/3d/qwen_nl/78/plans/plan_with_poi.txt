@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Charlotte",
+    "transportation": "Flight Number: F3713102, from Denver to Charlotte, Departure Time: 16:16, Arrival Time: 21:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 21:45 to 22:27, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Room with a king bed., stay from 22:57 to 06:57, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Mert's Heart and Soul, Charlotte",
+    "lunch": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "dinner": "Gaucho Charlotte Street, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 07:27 to 07:57, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Mert's Heart and Soul, Charlotte, visit from 08:27 to 09:17, ; Truist Field, Charlotte, visit from 09:47 to 14:00, ; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 14:30 to 15:30, ; Gaucho Charlotte Street, Charlotte, visit from 20:45 to 22:00, ; Room with a king bed., stay from 22:30 to 06:30, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Denver",
+    "transportation": "Flight Number: F1954956, from Charlotte to Denver, Departure Time: 13:13, Arrival Time: 14:50",
+    "breakfast": "Pinky's Westside Grill, Charlotte",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 07:00 to 07:30, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Pinky's Westside Grill, Charlotte, visit from 08:00 to 08:50, "
+  }
+]

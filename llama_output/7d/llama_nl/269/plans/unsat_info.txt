@@ -1,0 +1,4 @@
+not ok
+Unsatisfiable core:
+Tex-Mextype restaurant
+Tex-Mextype restaurant is visited

@@ -1,0 +1,6 @@
+Destination cities: ['San Francisco'],
+Transportation dates: ['2024-11-23', '2024-11-25'],
+Transportation methods between cities: ['Flight Number: F3893845, from Denver to San Francisco, Departure Time: 13:32, Arrival Time: 15:00', 'Flight Number: F1817595, from San Francisco to Denver, Departure Time: 16:17, Arrival Time: 19:44'],
+Restaurants (3 meals per day): ['-', '-', 'The Codmother Fish & Chips, San Francisco', "Harris' Restaurant - The San Francisco Steakhouse, San Francisco", 'Kokkari Estiatorio, San Francisco', 'Quince, San Francisco', 'Fog Harbor Fish House, San Francisco', "Luisa's Restaurant Wine Bar Since 1959, San Francisco", 'Waterbar, San Francisco'],
+Attractions (1 per day): ['Exploratorium, San Francisco', 'California Academy of Sciences, San Francisco', 'Cable Car Museum, San Francisco'],
+Accommodations (1 per city): ['Immaculate studio space  with free parking, San Francisco']

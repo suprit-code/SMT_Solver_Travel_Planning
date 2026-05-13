@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Bend to San Diego",
+    "transportation": "Flight Number: F3818296, from Bend to San Diego, Departure Time: 14:17, Arrival Time: 16:35",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Pacific Beach AleHouse, San Diego",
+    "attraction": "-",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 17:05 to 17:35, nearest transit: 30th St & A St, 427.5m away; Pacific Beach AleHouse, San Diego, visit from 19:00 to 22:10, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 22:40 to 06:40, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Cafe Coyote, San Diego",
+    "lunch": "Din Tai Fung, San Diego",
+    "dinner": "Provisional Kitchen, Cafe, and Mercantile, San Diego",
+    "attraction": "Torrey Pines State Natural Reserve, San Diego",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 07:10 to 07:40, nearest transit: 30th St & A St, 427.5m away; Cafe Coyote, San Diego, visit from 08:10 to 09:59, ; Din Tai Fung, San Diego, visit from 14:00 to 15:00, ; Torrey Pines State Natural Reserve, San Diego, visit from 15:30 to 20:15, ; Provisional Kitchen, Cafe, and Mercantile, San Diego, visit from 20:45 to 22:04, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 22:34 to 06:34, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F3954538, from San Diego to Sacramento, Departure Time: 18:25, Arrival Time: 19:56",
+    "breakfast": "Morning Glory, San Diego",
+    "lunch": "Buon Appetito, San Diego",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 07:04 to 07:34, nearest transit: 30th St & A St, 427.5m away; Morning Glory, San Diego, visit from 08:04 to 08:54, ; Buon Appetito, San Diego, visit from 12:55 to 13:55, ; San Diego Zoo, San Diego, visit from 14:25 to 17:55, ; Private Guest Bed 'N Bath near Downtown, stay from 20:26 to 20:56, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Private Guest Bed 'N Bath near Downtown, stay from 21:26 to 06:32, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Frank Fat's Restaurant, Sacramento",
+    "lunch": "Grange Restaurant & Bar, Sacramento",
+    "dinner": "The Waterboy, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 07:02 to 07:32, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Frank Fat's Restaurant, Sacramento, visit from 08:02 to 10:00, ; California State Capitol Museum, Sacramento, visit from 10:30 to 14:00, ; Grange Restaurant & Bar, Sacramento, visit from 14:30 to 15:30, ; The Waterboy, Sacramento, visit from 20:45 to 22:00, ; Private Guest Bed 'N Bath near Downtown, stay from 23:40 to 07:40, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Bend",
+    "transportation": "Taxi from Sacramento to Bend, duration: 502.39833333333337, distance: 701.3331999999999, cost : 701.0",
+    "breakfast": "Zocalo, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 08:10 to 08:40, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Zocalo, Sacramento, visit from 09:10 to 10:00, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; Nopalitos, Sacramento, visit from 14:30 to 15:30, ; Paesano's Pizzeria, Sacramento, visit from 19:31 to 20:46, "
+  }
+]

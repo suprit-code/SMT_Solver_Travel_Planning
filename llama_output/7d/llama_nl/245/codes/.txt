@@ -1,0 +1,55 @@
+
+                def run_event_search(city_ids):
+                    events = {}
+                    for city_id in city_ids:
+                        # Assume EventSearch returns a list of events for each city
+                        events[city_id] = ["Event1", "Event2", "Event3", "Event4", "Event5", "Event6", "Event7"]
+                    return events
+                
+                def set_event_in_which_city(events, city_ids, transportation_times):
+                    event_in_which_city = {}
+                    for i, city_id in enumerate(city_ids):
+                        if i < len(transportation_times) - 1:
+                            next_city_id = city_ids[i + 1]
+                            if transportation_times[i] <= 1:  # Assuming 1 is the threshold for same city
+                                event_in_which_city[f"event_{i+1}"] = city_id
+                            else:
+                                event_in_which_city[f"event_{i+1}"] = next_city_id
+                        else:
+                            event_in_which_city[f"event_{i+1}"] = city_ids[-1]
+                    return event_in_which_city
+                
+                def set_event_index(event_in_which_city, events):
+                    event_index = {}
+                    for event_name, city_id in event_in_which_city.items():
+                        event_index[event_name] = events[city_id].index(event_name.replace("event_", ""))
+                    return event_index
+                
+                def calculate_event_price(event_index, city_ids, prices):
+                    event_prices = {}
+                    for event_name, index in event_index.items():
+                        city_id = event_in_which_city[event_name]
+                        if 0 <= index < len(events[city_id]):
+                            price_per_person = prices[city_id][index]
+                            event_prices[event_name] = price_per_person * 2
+                        else:
+                            event_prices[event_name] = None  # Invalid index
+                    return event_prices
+                
+                # Example usage
+                city_ids = [0, 1, 2]
+                transportation_times = [0.5, 1.5, 2.5, 3.5, 4.5, 5.5, 6.5]
+                prices = {
+                    0: [100, 150, 200, 250, 300, 350, 400],
+                    1: [110, 160, 210, 260, 310, 360, 410],
+                    2: [120, 170, 220, 270, 320, 370, 420]
+                }
+                
+                events = run_event_search(city_ids)
+                event_in_which_city = set_event_in_which_city(events, city_ids, transportation_times)
+                event_index = set_event_index(event_in_which_city, events)
+                event_prices = calculate_event_price(event_index, city_ids, prices)
+                
+                for event_name, price in event_prices.items():
+                    print(f"{event_name}: ${price}")
+                

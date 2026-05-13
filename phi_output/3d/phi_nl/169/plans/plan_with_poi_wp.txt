@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Santa Rosa to Seattle",
+    "transportation": "Flight Number: F2401170, from Santa Rosa to Seattle, Departure Time: 06:53, Arrival Time: 08:42",
+    "breakfast": "-",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "Six Seven Restaurant, Seattle",
+    "attraction": "Chihuly Garden and Glass, Seattle",
+    "accommodation": "Pike Place Market Apt Water View and Balcony, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 09:12 to 09:42, nearest transit: 2nd Ave & Pike St, 369.95m away; Chihuly Garden and Glass, Seattle, visit from 10:12 to 13:42, ; Il Terrazzo Carmine, Seattle, visit from 14:12 to 15:12, ; Six Seven Restaurant, Seattle, visit from 19:13 to 20:28, ; Pike Place Market Apt Water View and Balcony, stay from 20:58 to 04:58, nearest transit: 2nd Ave & Pike St, 369.95m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "El Gaucho Seattle, Seattle",
+    "lunch": "Salty's On Alki Beach, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "The Museum of Flight, Seattle",
+    "accommodation": "Pike Place Market Apt Water View and Balcony, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 06:00 to 06:30, nearest transit: 2nd Ave & Pike St, 369.95m away; El Gaucho Seattle, Seattle, visit from 08:13 to 09:03, ; Salty's On Alki Beach, Seattle, visit from 14:00 to 15:00, ; The Museum of Flight, Seattle, visit from 15:30 to 19:00, ; Noi Thai Cuisine, Seattle, visit from 19:30 to 20:45, ; Pike Place Market Apt Water View and Balcony, stay from 21:15 to 05:15, nearest transit: 2nd Ave & Pike St, 369.95m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Santa Rosa",
+    "transportation": "Flight Number: F0515222, from Seattle to Santa Rosa, Departure Time: 18:08, Arrival Time: 20:01",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "Metropolitan Grill, Seattle",
+    "dinner": "-",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 06:00 to 06:30, nearest transit: 2nd Ave & Pike St, 369.95m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 08:00 to 08:50, ; Pike Place Market, Seattle, visit from 09:20 to 12:50, ; Metropolitan Grill, Seattle, visit from 14:30 to 15:30, "
+  }
+]

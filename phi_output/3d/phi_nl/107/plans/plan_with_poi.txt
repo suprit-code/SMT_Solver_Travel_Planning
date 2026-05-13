@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Milwaukee to Atlanta",
+    "transportation": "Flight Number: F3553116, from Milwaukee to Atlanta, Departure Time: 10:41, Arrival Time: 13:51",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Fox Bros. Bar-B-Q, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Charm in the Heart of Va-Hi: Serene Studio Retreat, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 14:21 to 14:51, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away; Atlanta History Center, Atlanta, visit from 15:21 to 18:51, ; Fox Bros. Bar-B-Q, Atlanta, visit from 19:21 to 20:36, ; Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 23:40 to 07:40, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "Charm in the Heart of Va-Hi: Serene Studio Retreat, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 08:10 to 08:40, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away; Cafe Agora, Atlanta, visit from 09:10 to 10:00, ; Centennial Olympic Park, Atlanta, visit from 10:30 to 14:00, ; Steamhouse Lounge, Atlanta, visit from 14:30 to 15:30, ; Aviva by Kameel, Atlanta, visit from 19:31 to 20:46, ; Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 23:40 to 07:40, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Milwaukee",
+    "transportation": "Flight Number: F0334001, from Atlanta to Milwaukee, Departure Time: 18:02, Arrival Time: 18:52",
+    "breakfast": "Kevin Rathbun Steak, Atlanta",
+    "lunch": "Home Grown, Atlanta",
+    "dinner": "-",
+    "attraction": "National Center for Civil and Human Rights, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charm in the Heart of Va-Hi: Serene Studio Retreat, stay from 08:10 to 08:40, nearest transit: N HIGHLAND AVE NE @ ADAIR AVE NE, 97.11m away; Kevin Rathbun Steak, Atlanta, visit from 09:10 to 10:00, ; National Center for Civil and Human Rights, Atlanta, visit from 10:30 to 14:00, ; Home Grown, Atlanta, visit from 14:30 to 15:30, "
+  }
+]

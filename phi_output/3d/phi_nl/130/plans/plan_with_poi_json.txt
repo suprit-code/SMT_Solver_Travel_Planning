@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Seattle",
+    "transportation": "Flight Number: F3305579, from Oklahoma City to Seattle, Departure Time: 14:29, Arrival Time: 16:39",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Cozy Studio with Kitchenette and Laundry, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Metropolitan Grill, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "The Capital Grille, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Cozy Studio with Kitchenette and Laundry, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy Studio with Kitchenette and Laundry, stay from 08:00 to 08:30, nearest transit: 8th Ave SW & SW Barton St, 278.48m away; Metropolitan Grill, visit from 09:00 to 09:40, nearest transit: 2nd Ave & Marion St, 39.95m away; Woodland Park Zoo, visit from 10:10 to 12:10, nearest transit: Phinney Ave N & N 55th St, 257.77m away; Noi Thai Cuisine, visit from 13:40 to 14:20, nearest transit: 2nd Ave & Seneca St, 181.65m away; The Capital Grille, visit from 19:00 to 19:40, nearest transit: 4th Ave & University, 41.04m away; Cozy Studio with Kitchenette and Laundry, stay from 23:00 to 08:00, nearest transit: 8th Ave SW & SW Barton St, 278.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Oklahoma City",
+    "transportation": "Flight Number: F3737705, from Seattle to Oklahoma City, Departure Time: 11:24, Arrival Time: 17:01",
+    "breakfast": "Bacco Cafe, Seattle",
+    "lunch": "Matt's in the Market, Seattle",
+    "dinner": "The Butcher's Table, Seattle",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

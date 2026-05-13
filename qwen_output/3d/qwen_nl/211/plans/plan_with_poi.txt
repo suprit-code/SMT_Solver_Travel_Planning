@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Tampa",
+    "transportation": "Self-driving from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost : 52.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Columbia Cafe - Riverwalk Tampa, Tampa",
+    "attraction": "-",
+    "accommodation": "Hostal LA Rosa, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 18:38 to 19:08, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Columbia Cafe - Riverwalk Tampa, Tampa, visit from 19:38 to 22:35, ; Hostal LA Rosa, stay from 23:05 to 07:05, nearest transit: Busch Gardens Employee Entrance, 10624.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Curry Leaves Indian Cuisine, Tampa",
+    "lunch": "Daily Eats, Tampa",
+    "dinner": "Columbia Restaurant, Tampa",
+    "attraction": "Bayshore Boulevard, Tampa",
+    "accommodation": "Hostal LA Rosa, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 07:35 to 08:05, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Curry Leaves Indian Cuisine, Tampa, visit from 08:35 to 09:25, ; Daily Eats, Tampa, visit from 13:26 to 14:26, ; Bayshore Boulevard, Tampa, visit from 14:56 to 18:26, ; Columbia Restaurant, Tampa, visit from 19:00 to 20:15, ; Hostal LA Rosa, stay from 20:45 to 04:45, nearest transit: Busch Gardens Employee Entrance, 10624.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Raleigh",
+    "transportation": "Self-driving from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost : 51.0",
+    "breakfast": "-",
+    "lunch": "Bella's Italian Cafe, Tampa",
+    "dinner": "La Terrazza Restaurant, Tampa",
+    "attraction": "ZooTampa At Lowry Park, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hostal LA Rosa, stay from 06:00 to 08:09, nearest transit: Busch Gardens Employee Entrance, 10624.33m away; Bella's Italian Cafe, Tampa, visit from 13:30 to 14:30, ; ZooTampa At Lowry Park, Tampa, visit from 15:00 to 18:30, ; La Terrazza Restaurant, Tampa, visit from 19:00 to 20:15, "
+  }
+]

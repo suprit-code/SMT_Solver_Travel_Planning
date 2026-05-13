@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F1791799, from Everett to San Diego, Departure Time: 11:09, Arrival Time: 13:40",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 14:10 to 14:40, nearest transit: Ulric St & Tait St, 283.34m away; SeaWorld, San Diego, visit from 15:10 to 20:15, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 20:45 to 22:44, ; No contact with host, separate, and close to town!, stay from 23:14 to 07:14, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 07:44 to 08:14, nearest transit: Ulric St & Tait St, 283.34m away; Mimmo's, San Diego, visit from 08:44 to 09:34, ; Addison Restaurant, San Diego, visit from 13:35 to 14:35, ; San Diego Zoo, San Diego, visit from 15:05 to 18:35, ; Cowboy Star, San Diego, visit from 19:05 to 20:20, ; No contact with host, separate, and close to town!, stay from 20:50 to 05:30, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Everett",
+    "transportation": "Flight Number: F1175780, from San Diego to Everett, Departure Time: 17:55, Arrival Time: 20:40",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Ruth's Chris Steak House, San Diego",
+    "dinner": "-",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 06:00 to 08:40, nearest transit: Ulric St & Tait St, 283.34m away; Juniper and Ivy, San Diego, visit from 09:10 to 10:00, ; La Jolla Shores Park, San Diego, visit from 10:30 to 14:00, ; Ruth's Chris Steak House, San Diego, visit from 14:30 to 15:30, "
+  }
+]

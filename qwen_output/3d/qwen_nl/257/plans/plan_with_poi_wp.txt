@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Chattanooga",
+    "transportation": "Flight Number: F0457609, from Chicago to Chattanooga, Departure Time: 13:59, Arrival Time: 16:38",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "-",
+    "accommodation": "Glenn Falls Tiny Cabin, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Glenn Falls Tiny Cabin, stay from 17:08 to 18:50, nearest transit: ALABAMA + 56TH, 428.92m away; Uncle Larry's Restaurant, Chattanooga, visit from 19:20 to 20:35, ; Glenn Falls Tiny Cabin, stay from 21:05 to 05:05, nearest transit: ALABAMA + 56TH, 428.92m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "lunch": "Stir, Chattanooga",
+    "dinner": "Urban Stack, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Glenn Falls Tiny Cabin, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Glenn Falls Tiny Cabin, stay from 06:00 to 07:38, nearest transit: ALABAMA + 56TH, 428.92m away; Maple Street Biscuit Company - City Center, Chattanooga, visit from 08:08 to 08:58, ; Stir, Chattanooga, visit from 12:59 to 13:59, ; Coolidge Park, Chattanooga, visit from 14:29 to 17:59, ; Urban Stack, Chattanooga, visit from 19:00 to 20:15, ; Glenn Falls Tiny Cabin, stay from 20:45 to 04:45, nearest transit: ALABAMA + 56TH, 428.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Chicago",
+    "transportation": "Flight Number: F0493734, from Chattanooga to Chicago, Departure Time: 18:18, Arrival Time: 19:05",
+    "breakfast": "Mellow Mushroom Chattanooga, Chattanooga",
+    "lunch": "Easy Bistro & Bar, Chattanooga",
+    "dinner": "-",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Glenn Falls Tiny Cabin, stay from 06:00 to 07:30, nearest transit: ALABAMA + 56TH, 428.92m away; Mellow Mushroom Chattanooga, Chattanooga, visit from 08:00 to 08:50, ; Tennessee Aquarium, Chattanooga, visit from 09:20 to 12:50, ; Easy Bistro & Bar, Chattanooga, visit from 13:20 to 14:20, "
+  }
+]

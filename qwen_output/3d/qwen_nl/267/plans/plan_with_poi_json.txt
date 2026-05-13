@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Bend to Seattle",
+    "transportation": "Flight Number: F2394861, from Bend to Seattle, Departure Time: 13:30, Arrival Time: 14:32",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bacco Cafe, Seattle",
+    "attraction": "Discovery Park, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 14:57 to 15:17, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Discovery Park, visit from 15:42 to 17:42, nearest transit: Discovery Park Road & Texas Way, 604.23m away; Bacco Cafe, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Stewart St, 107.26m away; Cozy room near UW, stay from 20:05 to 08:00, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "The Pike Pub and Brewery, Seattle",
+    "lunch": "13 Coins Restaurant, Seattle",
+    "dinner": "Tulio, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; The Pike Pub and Brewery, visit from 08:55 to 09:35, nearest transit: 2nd Ave & Pike St, 113.99m away; Woodland Park Zoo, visit from 10:00 to 12:00, nearest transit: Phinney Ave N & N 55th St, 257.77m away; 13 Coins Restaurant, visit from 13:35 to 14:15, nearest transit: King Street Station, 107.40m away; Tulio, visit from 19:00 to 19:40, nearest transit: 5th Ave & Spring St, 55.15m away; Cozy room near UW, stay from 20:05 to 08:00, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Bend",
+    "transportation": "Flight Number: F0627503, from Seattle to Bend, Departure Time: 19:44, Arrival Time: 20:52",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Dough Zone Dumpling House - Seattle International District, visit from 08:55 to 09:35, nearest transit: 5th Ave S & S Weller St, 26.54m away; Seattle Center, visit from 10:00 to 12:00, nearest transit: Seattle Center, 84.22m away; Noi Thai Cuisine, visit from 13:35 to 14:15, nearest transit: 2nd Ave & Seneca St, 181.65m away"
+  }
+]

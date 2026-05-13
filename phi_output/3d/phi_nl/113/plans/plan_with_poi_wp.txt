@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Juan to Charlotte",
+    "transportation": "Flight Number: F0743349, from San Juan to Charlotte, Departure Time: 15:08, Arrival Time: 17:41",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Charlotte's Eats and Sweets, Charlotte",
+    "attraction": "-",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 18:11 to 20:15, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Charlotte's Eats and Sweets, Charlotte, visit from 20:45 to 22:10, ; Comfy private bed and bath, stay from 22:40 to 06:40, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Pinky's Westside Grill, Charlotte",
+    "lunch": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "dinner": "Charlotte Bakery, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 07:10 to 07:40, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Pinky's Westside Grill, Charlotte, visit from 08:10 to 09:00, ; Discovery Place Science, Charlotte, visit from 09:30 to 13:00, ; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 13:30 to 14:30, ; Charlotte Bakery, Charlotte, visit from 19:00 to 20:15, ; Comfy private bed and bath, stay from 20:45 to 07:37, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to San Juan",
+    "transportation": "Flight Number: F1924290, from Charlotte to San Juan, Departure Time: 11:02, Arrival Time: 14:22",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 08:07 to 08:37, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  }
+]

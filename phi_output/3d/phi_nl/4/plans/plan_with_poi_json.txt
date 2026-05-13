@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Green Bay to Atlanta",
+    "transportation": "Flight Number: F0889275, from Green Bay to Atlanta, Departure Time: 06:43, Arrival Time: 09:42",
+    "breakfast": "Stoney River Steakhouse and Grill, Atlanta",
+    "lunch": "Home Grown, Atlanta",
+    "dinner": "Max's Coal Oven Pizzeria, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 10:12 to 10:42, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away; Stoney River Steakhouse and Grill, visit from 11:12 to 11:52, nearest transit: CUMBERLAND TRANSFER CENTER, 388.91m away; Atlanta History Center, visit from 12:22 to 14:22, nearest transit: PEACHTREE RD @ BUCKHEAD AVE NE, 610.21m away; Home Grown, visit from 14:52 to 15:32, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; Max's Coal Oven Pizzeria, visit from 19:32 to 20:12, nearest transit: MARIETTA ST @ BAKER ST NW, 33.64m away; Tiny House Retreat * Stock Tank Pool, stay from 23:00 to 08:00, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "St. Cecilia, Atlanta",
+    "lunch": "By George restaurant and bar, Atlanta",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "Fox Theatre, Atlanta",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 08:00 to 08:30, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away; St. Cecilia, visit from 09:00 to 09:40, nearest transit: PEACHTREE RD NE @ OAK VALLEY RD NE, 63.53m away; Fox Theatre, visit from 10:10 to 12:10, nearest transit: PEACHTREE ST NE @ PONCE DE LEON AVE, 41.68m away; By George restaurant and bar, visit from 13:40 to 14:20, nearest transit: PEACHTREE ST NE @ JOHN WESLEY DOBBS AVE NE, 32.71m away; Aviva by Kameel, visit from 19:00 to 19:40, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away; Tiny House Retreat * Stock Tank Pool, stay from 23:00 to 08:00, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Green Bay",
+    "transportation": "Flight Number: F0889249, from Atlanta to Green Bay, Departure Time: 17:56, Arrival Time: 18:55",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "No Mas! Cantina, Atlanta",
+    "dinner": "-",
+    "attraction": "National Center for Civil and Human Rights, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 08:00 to 08:30, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away; Cafe Agora, visit from 09:00 to 09:40, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; National Center for Civil and Human Rights, visit from 10:10 to 12:10, nearest transit: IVAN ALLEN JR BLVD NW @ LOVEJOY ST, 78.15m away; No Mas! Cantina, visit from 13:40 to 14:20, nearest transit: PETERS ST SW @ HAYNES ST SW, 123.79m away"
+  }
+]

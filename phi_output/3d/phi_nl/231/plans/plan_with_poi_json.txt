@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Anchorage to Atlanta",
+    "transportation": "Flight Number: F2520868, from Anchorage to Atlanta, Departure Time: 20:05, Arrival Time: 06:44",
+    "breakfast": "Bangkok Station, Atlanta",
+    "lunch": "Buttermilk Kitchen, Atlanta",
+    "dinner": "Ted's Montana Grill, Atlanta",
+    "attraction": "Fox Theatre, Atlanta",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "No Mas! Cantina, Atlanta",
+    "lunch": "Murphy's Restaurant, Atlanta",
+    "dinner": "Fox Bros. Bar-B-Q, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 08:00 to 08:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; No Mas! Cantina, visit from 09:00 to 09:40, nearest transit: PETERS ST SW @ HAYNES ST SW, 123.79m away; Atlanta History Center, visit from 10:10 to 12:10, nearest transit: PEACHTREE RD @ BUCKHEAD AVE NE, 610.21m away; Murphy's Restaurant, visit from 13:40 to 14:20, nearest transit: VIRGINIA AVE NE @ TODD RD NE, 29.86m away; Fox Bros. Bar-B-Q, visit from 19:00 to 19:40, nearest transit: MORELAND AVE @ 299, 219.31m away; Historic Lounge - Private BR in the Heart of ATL#2, stay from 23:00 to 08:00, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Anchorage",
+    "transportation": "Flight Number: F2067743, from Atlanta to Anchorage, Departure Time: 15:20, Arrival Time: 18:33",
+    "breakfast": "Pasta Da Pulcinella, Atlanta",
+    "lunch": "Max's Coal Oven Pizzeria, Atlanta",
+    "dinner": "Steamhouse Lounge, Atlanta",
+    "attraction": "National Center for Civil and Human Rights, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 08:00 to 08:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Pasta Da Pulcinella, visit from 09:00 to 09:40, nearest transit: W PEACHTREE ST @ 12TH ST, 81.90m away; National Center for Civil and Human Rights, visit from 10:10 to 12:10, nearest transit: IVAN ALLEN JR BLVD NW @ LOVEJOY ST, 78.15m away; Max's Coal Oven Pizzeria, visit from 12:40 to 13:20, nearest transit: MARIETTA ST @ BAKER ST NW, 33.64m away; Steamhouse Lounge, visit from 14:10 to 14:50, nearest transit: W PEACHTREE ST @ 12TH ST, 93.00m away"
+  }
+]

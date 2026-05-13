@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Sacramento",
+    "transportation": "Flight Number: F2448707, from Washington to Sacramento, Departure Time: 17:49, Arrival Time: 20:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Il Fornaio, Sacramento",
+    "attraction": "-",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Ella Dining Room & Bar, Sacramento",
+    "lunch": "The Kitchen Restaurant, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 08:00 to 08:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Ella Dining Room & Bar, visit from 09:00 to 09:40, nearest transit: Cathedral Square Station (EB), 56.91m away; Capitol Park, visit from 10:10 to 12:10, nearest transit: L ST & 14TH ST (WB), 86.40m away; The Kitchen Restaurant, visit from 13:40 to 14:20, nearest transit: BROADWAY & 10TH ST (WB), 68.15m away; Grange Restaurant & Bar, visit from 19:00 to 19:40, nearest transit: J ST & 10TH ST (EB), 36.29m away; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 23:00 to 08:00, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to Washington",
+    "transportation": "Flight Number: F0536351, from Sacramento to Washington, Departure Time: 22:40, Arrival Time: 06:22",
+    "breakfast": "Zocalo, Sacramento",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 08:00 to 08:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Zocalo, visit from 09:00 to 09:40, nearest transit: 19TH ST & CAPITOL AVE (SB), 112.06m away"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Milwaukee to Greensboro",
+    "transportation": "Taxi from Milwaukee to Greensboro, duration: 940.5666666666668, distance: 1301.4765, cost : 1301.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 22:10 to 22:40, nearest transit: Elm/Fisher (OB), 111.24m away; Leftwich St APT 2, stay from 23:10 to 07:10, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Mythos Grill, Greensboro",
+    "lunch": "Carolina's Diner, Greensboro",
+    "dinner": "Sarah's Kabob Shop, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 07:40 to 08:10, nearest transit: Elm/Fisher (OB), 111.24m away; Mythos Grill, Greensboro, visit from 08:40 to 09:59, ; Carolina's Diner, Greensboro, visit from 14:00 to 15:00, ; Ambleside Gallery, Greensboro, visit from 15:30 to 19:00, ; Sarah's Kabob Shop, Greensboro, visit from 20:45 to 22:00, ; Leftwich St APT 2, stay from 22:57 to 06:57, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Mimi's Cafe, Greensboro",
+    "lunch": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "dinner": "PinPoint Restaurant, Wilmington",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "The Swan • Fully Private Guest Suite, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 07:27 to 07:57, nearest transit: Elm/Fisher (OB), 111.24m away; Mimi's Cafe, Greensboro, visit from 08:27 to 09:17, ; International Civil Rights Center & Museum, Greensboro, visit from 09:47 to 13:17, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 13:47 to 14:47, ; The Swan • Fully Private Guest Suite, stay from 19:45 to 20:15, nearest transit: Forden Station, 1934.13m away; PinPoint Restaurant, Wilmington, visit from 20:45 to 22:00, ; The Swan • Fully Private Guest Suite, stay from 22:30 to 06:30, nearest transit: Forden Station, 1934.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "The Wilmington, Wilmington",
+    "lunch": "Winnie's Tavern, Wilmington",
+    "dinner": "The Anchor, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "The Swan • Fully Private Guest Suite, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Swan • Fully Private Guest Suite, stay from 07:00 to 07:30, nearest transit: Forden Station, 1934.13m away; The Wilmington, Wilmington, visit from 08:01 to 08:51, ; Winnie's Tavern, Wilmington, visit from 12:52 to 13:52, ; Battleship North Carolina, Wilmington, visit from 15:00 to 18:30, ; The Anchor, Wilmington, visit from 19:00 to 20:15, ; The Swan • Fully Private Guest Suite, stay from 20:45 to 04:45, nearest transit: Forden Station, 1934.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Taxi from Wilmington to Charlotte, duration: 245.71, distance: 318.6171, cost : 318.0",
+    "breakfast": "Manna, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "Charlotte Bakery, Charlotte",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "The best things in life come in small packages!, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The Swan • Fully Private Guest Suite, stay from 06:00 to 06:30, nearest transit: Forden Station, 1934.13m away; Manna, Wilmington, visit from 08:00 to 08:50, ; Burgwin-Wright House and Gardens, Wilmington, visit from 09:20 to 13:10, ; Flaming Amy's Burrito Barn, Wilmington, visit from 13:40 to 14:40, ; The best things in life come in small packages!, stay from 19:45 to 20:15, nearest transit: Jennings St & Russell Ave, 153.37m away; Charlotte Bakery, Charlotte, visit from 20:45 to 22:39, ; The best things in life come in small packages!, stay from 23:09 to 07:09, nearest transit: Jennings St & Russell Ave, 153.37m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Tavern, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "The Terrace at The Charlotte Inn, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "The best things in life come in small packages!, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The best things in life come in small packages!, stay from 07:39 to 08:09, nearest transit: Jennings St & Russell Ave, 153.37m away; Charlotte's Tavern, Charlotte, visit from 08:39 to 09:59, ; Charlotte's Eats and Sweets, Charlotte, visit from 14:00 to 15:00, ; Levine Museum of the New South, Charlotte, visit from 15:30 to 19:00, ; The Terrace at The Charlotte Inn, Charlotte, visit from 19:30 to 20:45, ; The best things in life come in small packages!, stay from 21:15 to 05:15, nearest transit: Jennings St & Russell Ave, 153.37m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Milwaukee",
+    "transportation": "Flight Number: F3242616, from Charlotte to Milwaukee, Departure Time: 20:38, Arrival Time: 21:49",
+    "breakfast": "Midwood Smokehouse, Charlotte",
+    "lunch": "Pinky's Westside Grill, Charlotte",
+    "dinner": "-",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The best things in life come in small packages!, stay from 06:00 to 06:30, nearest transit: Jennings St & Russell Ave, 153.37m away; Midwood Smokehouse, Charlotte, visit from 08:00 to 08:50, ; Truist Field, Charlotte, visit from 09:20 to 12:50, ; Pinky's Westside Grill, Charlotte, visit from 14:30 to 18:51, "
+  }
+]

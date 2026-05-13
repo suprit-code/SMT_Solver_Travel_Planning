@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Atlanta",
+    "transportation": "Flight Number: F1290971, from Kansas City to Atlanta, Departure Time: 14:39, Arrival Time: 17:31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Midtown Hidden Gem @Piedmont Park/Private+Parking, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Nikolai's Roof, Atlanta",
+    "lunch": "The Americano Atlanta, Atlanta",
+    "dinner": "By George restaurant and bar, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Midtown Hidden Gem @Piedmont Park/Private+Parking, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 08:00 to 08:30, nearest transit: MONROE DR @ PARK DR, 114.55m away; Nikolai's Roof, visit from 09:00 to 09:40, nearest transit: RALPH MCGILL BLVD NE @ COURTLAND ST, 309.92m away; Georgia Aquarium, visit from 10:10 to 12:10, nearest transit: IVAN ALLEN JR BLVD NW @ LUCKIE ST, 131.37m away; The Americano Atlanta, visit from 13:40 to 14:20, nearest transit: PEACHTREE RD @ HIGHLAND DR, 110.28m away; By George restaurant and bar, visit from 19:00 to 19:40, nearest transit: PEACHTREE ST NE @ JOHN WESLEY DOBBS AVE NE, 32.71m away; Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 23:00 to 08:00, nearest transit: MONROE DR @ PARK DR, 114.55m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Kansas City",
+    "transportation": "taxi, from Atlanta to Kansas City, duration: 893.7883333333334, distance: 1289.864, cost: 1289",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "The Optimist, Atlanta",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 08:00 to 08:30, nearest transit: MONROE DR @ PARK DR, 114.55m away; Canoe, visit from 09:00 to 09:40, nearest transit: NORTHSIDE PKWY @ RIVER GREEN DR, 738.85m away; Centennial Olympic Park, visit from 10:10 to 12:10, nearest transit: MARIETTA ST @ PARK AVE WEST, 143.86m away; The Optimist, visit from 13:40 to 14:20, nearest transit: W MARIETTA ST @ BRADY AVE, 164.88m away; Cafe Agora, visit from 19:00 to 19:40, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away"
+  }
+]

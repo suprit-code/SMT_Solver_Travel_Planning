@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to Charleston",
+    "transportation": "Flight Number: F0051870, from Nashville to Charleston, Departure Time: 10:05, Arrival Time: 12:20",
+    "breakfast": "-",
+    "lunch": "Oak Steakhouse, Charleston",
+    "dinner": "Poogan's Porch, Charleston",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "Waterfront Home Near Downtown!, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Waterfront Home Near Downtown!, stay from 12:45 to 13:05, nearest transit: Folly Rd / Patterson Ave, 2495.09m away; Oak Steakhouse, visit from 13:30 to 14:10, nearest transit: Broad St / Church St, 111.55m away; Magnolia Plantation & Gardens, visit from 14:35 to 16:35, nearest transit: Dorchester Rd / Lambs Rd, 2137.23m away; Poogan's Porch, visit from 19:00 to 19:40, nearest transit: Meeting St / Queen St, 57.05m away; Waterfront Home Near Downtown!, stay from 20:05 to 08:00, nearest transit: Folly Rd / Patterson Ave, 2495.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "The Ordinary, Charleston",
+    "lunch": "Stella's, Charleston",
+    "dinner": "Stars Restaurant-Rooftop & Grill Room, Charleston",
+    "attraction": "Middleton Place, Charleston",
+    "accommodation": "Waterfront Home Near Downtown!, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Waterfront Home Near Downtown!, stay from 08:00 to 08:30, nearest transit: Folly Rd / Patterson Ave, 2495.09m away; The Ordinary, visit from 08:55 to 09:35, nearest transit: King St / Cannon St, 22.53m away; Middleton Place, visit from 10:00 to 12:00, nearest transit: Dorchester Rd / Park Forest Pkwy, 3298.85m away; Stella's, visit from 13:35 to 14:15, nearest transit: Warren St / St Philip St, 16.55m away; Stars Restaurant-Rooftop & Grill Room, visit from 19:00 to 19:40, nearest transit: King St / Morris St, 82.36m away; Waterfront Home Near Downtown!, stay from 20:05 to 08:00, nearest transit: Folly Rd / Patterson Ave, 2495.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Nashville",
+    "transportation": "Flight Number: F4008990, from Charleston to Nashville, Departure Time: 21:09, Arrival Time: 21:35",
+    "breakfast": "Husk Restaurant, Charleston",
+    "lunch": "Amen Street Fish & Raw Bar, Charleston",
+    "dinner": "-",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Waterfront Home Near Downtown!, stay from 08:00 to 08:30, nearest transit: Folly Rd / Patterson Ave, 2495.09m away; Husk Restaurant, visit from 08:55 to 09:35, nearest transit: Meeting St / Queen St, 76.78m away; Charleston Waterfront Park, visit from 10:00 to 12:00, nearest transit: Vendue Range / Concord St, 19.17m away; Amen Street Fish & Raw Bar, visit from 13:35 to 14:15, nearest transit: East Bay St / S. Market St, 56.01m away"
+  }
+]

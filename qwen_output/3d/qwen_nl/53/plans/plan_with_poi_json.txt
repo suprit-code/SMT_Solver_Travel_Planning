@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Montgomery to Atlanta",
+    "transportation": "Self-driving, from Montgomery to Atlanta, duration: 179.01166666666668, distance: 259.3936, cost: 12",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 11:24 to 11:44, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; Downtown Beach Room **FREE PARKING** Private Room, stay from 12:09 to 08:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "By George restaurant and bar, Atlanta",
+    "lunch": "Kevin Rathbun Steak, Atlanta",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Downtown Beach Room **FREE PARKING** Private Room, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 08:00 to 08:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; By George restaurant and bar, visit from 08:55 to 09:35, nearest transit: PEACHTREE ST NE @ JOHN WESLEY DOBBS AVE NE, 32.71m away; Georgia Aquarium, visit from 10:00 to 12:00, nearest transit: IVAN ALLEN JR BLVD NW @ LUCKIE ST, 131.37m away; Kevin Rathbun Steak, visit from 13:35 to 14:15, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 465.73m away; Home Grown, visit from 19:00 to 19:40, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; Downtown Beach Room **FREE PARKING** Private Room, stay from 20:05 to 08:00, nearest transit: SYLVAN RD @ COX AVE, 207.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Montgomery",
+    "transportation": "Self-driving, from Atlanta to Montgomery, duration: 178.06833333333333, distance: 258.9032, cost: 12",
+    "breakfast": "No Mas! Cantina, Atlanta",
+    "lunch": "La Tavola Trattoria, Atlanta",
+    "dinner": "Stoney River Steakhouse and Grill, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Beach Room **FREE PARKING** Private Room, stay from 08:00 to 08:30, nearest transit: SYLVAN RD @ COX AVE, 207.74m away; No Mas! Cantina, visit from 08:55 to 09:35, nearest transit: PETERS ST SW @ HAYNES ST SW, 123.79m away; Zoo Atlanta, visit from 10:00 to 12:00, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; La Tavola Trattoria, visit from 13:35 to 14:15, nearest transit: VIRGINIA AVE NE @ TODD RD NE, 27.36m away; Stoney River Steakhouse and Grill, visit from 19:00 to 19:40, nearest transit: CUMBERLAND TRANSFER CENTER, 388.91m away"
+  }
+]

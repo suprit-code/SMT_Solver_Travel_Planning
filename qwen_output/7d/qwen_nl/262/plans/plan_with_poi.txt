@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Fort Wayne to Amarillo",
+    "transportation": "Taxi from Fort Wayne to Amarillo, duration: 1209.371666666667, distance: 1800.8417, cost : 1800.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 02:39 to 03:09, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Relaxing Place to Stay with Guest Living Room!, stay from 03:39 to 08:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Bracero Mexican Grill, Amarillo",
+    "lunch": "Golden Light Cafe & Cantina, Amarillo",
+    "dinner": "El Manantial, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:30 to 09:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Bracero Mexican Grill, Amarillo, visit from 09:30 to 10:20, ; Golden Light Cafe & Cantina, Amarillo, visit from 14:21 to 15:21, ; El Manantial, Amarillo, visit from 19:22 to 20:37, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:07 to 04:51, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F3473336, from Amarillo to Houston, Departure Time: 06:21, Arrival Time: 07:57",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 05:21 to 05:51, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 08:27 to 08:57, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Houston Zoo, Houston, visit from 09:27 to 12:57, ; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 13:27 to 21:27, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Phoenicia Specialty Foods, Houston",
+    "dinner": "Market on Houston, Houston",
+    "attraction": "-",
+    "accommodation": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, Houston",
+    "event": "-",
+    "point_of_interest_list": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 06:00 to 06:30, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Pappadeaux Seafood Kitchen, Houston, visit from 09:10 to 10:00, ; Phoenicia Specialty Foods, Houston, visit from 14:30 to 15:30, ; Market on Houston, Houston, visit from 19:31 to 20:46, ; #F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 21:16 to 05:16, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F3436110, from Houston to San Antonio, Departure Time: 20:34, Arrival Time: 21:44",
+    "breakfast": "Houston Restaurant, Houston",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "#F5 New Private Rooms\nwith Workspace\n4.9 miles IAH, stay from 06:00 to 09:00, nearest transit: FM 1960 Rd @ Aldine Westfield Rd, 5764.13m away; Houston Restaurant, Houston, visit from 09:30 to 10:20, ; Downtown Aquarium, Houston, visit from 13:03 to 20:04, ; Cozy Private Room near UTSA & LaCantera, stay from 22:14 to 22:44, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Cozy Private Room near UTSA & LaCantera, stay from 23:14 to 07:14, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "1Watson, San Antonio",
+    "lunch": "Schilo's, San Antonio",
+    "dinner": "Boudro's Texas Bistro, San Antonio",
+    "attraction": "Natural Bridge Caverns, San Antonio",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 07:44 to 08:14, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; 1Watson, San Antonio, visit from 09:10 to 10:00, ; Natural Bridge Caverns, San Antonio, visit from 10:30 to 14:00, ; Schilo's, San Antonio, visit from 14:30 to 15:30, ; Boudro's Texas Bistro, San Antonio, visit from 19:31 to 20:46, ; Cozy Private Room near UTSA & LaCantera, stay from 21:16 to 05:16, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Fort Wayne",
+    "transportation": "Taxi from San Antonio to Fort Wayne, duration: 1389.1666666666667, distance: 2066.5601, cost : 2066.0",
+    "breakfast": "Pollos Asados Los Nortenos, San Antonio",
+    "lunch": "Mi Tierra Cafe y Panaderia, San Antonio",
+    "dinner": "The Guenther House, San Antonio",
+    "attraction": "San Antonio Zoo, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 06:00 to 08:39, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Pollos Asados Los Nortenos, San Antonio, visit from 09:09 to 09:59, ; Mi Tierra Cafe y Panaderia, San Antonio, visit from 14:00 to 15:00, ; San Antonio Zoo, San Antonio, visit from 15:30 to 19:00, ; The Guenther House, San Antonio, visit from 19:30 to 20:45, "
+  }
+]

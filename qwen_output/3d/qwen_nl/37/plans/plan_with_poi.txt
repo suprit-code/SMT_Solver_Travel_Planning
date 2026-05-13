@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Greensboro",
+    "transportation": "Flight Number: F3788392, from Washington to Greensboro, Departure Time: 12:52, Arrival Time: 13:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "MJ's Steak and Seafood, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Cottage at Three Magnolias, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 14:22 to 14:52, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; International Civil Rights Center & Museum, Greensboro, visit from 15:30 to 19:15, ; MJ's Steak and Seafood, Greensboro, visit from 19:45 to 21:00, ; Cottage at Three Magnolias, stay from 21:30 to 05:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "B. Christopher's, Greensboro",
+    "lunch": "1618 West Seafood Grill, Greensboro",
+    "dinner": "Osteria Italian Restaurant, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "Cottage at Three Magnolias, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 06:00 to 06:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; B. Christopher's, Greensboro, visit from 08:32 to 10:00, ; Carolina Theatre, Greensboro, visit from 10:30 to 14:00, ; 1618 West Seafood Grill, Greensboro, visit from 14:30 to 15:30, ; Osteria Italian Restaurant, Greensboro, visit from 19:31 to 20:46, ; Cottage at Three Magnolias, stay from 21:16 to 05:16, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Washington",
+    "transportation": "Taxi from Greensboro to Washington, duration: 357.15833333333336, distance: 496.6706, cost : 496.0",
+    "breakfast": "Dear Dad's, Greensboro",
+    "lunch": "Print Works Bistro, Greensboro",
+    "dinner": "Mimi's Cafe, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cottage at Three Magnolias, stay from 06:00 to 07:30, nearest transit: Battleground/Bessemer Ave (OB), 702.72m away; Dear Dad's, Greensboro, visit from 08:00 to 08:50, ; Ambleside Gallery, Greensboro, visit from 09:20 to 12:50, ; Print Works Bistro, Greensboro, visit from 13:20 to 14:20, ; Mimi's Cafe, Greensboro, visit from 19:00 to 20:15, "
+  }
+]

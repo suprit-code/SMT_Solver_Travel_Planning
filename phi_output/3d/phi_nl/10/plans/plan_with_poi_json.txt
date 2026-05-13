@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Louisville",
+    "transportation": "Flight Number: F1028493, from Miami to Louisville, Departure Time: 21:07, Arrival Time: 00:03",
+    "breakfast": "Down One Bourbon Bar & Restaurant, Louisville",
+    "lunch": "Momma's Mustard, Pickles & BBQ, Louisville",
+    "dinner": "Wild Eggs, Louisville",
+    "attraction": "Louisville Slugger Museum & Factory, Louisville",
+    "accommodation": "1 bedroom efficiency kitchenette, Louisville",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Louisville",
+    "transportation": "-",
+    "breakfast": "Doc Crow's, Louisville",
+    "lunch": "The Joy Luck, Louisville",
+    "dinner": "Hell Or High Water, Louisville",
+    "attraction": "Conrad-Caldwell House Museum (Conrad's Castle), Louisville",
+    "accommodation": "1 bedroom efficiency kitchenette, Louisville",
+    "event": "-",
+    "point_of_interest_list": "1 bedroom efficiency kitchenette, stay from 08:00 to 08:30, nearest transit: Bono @ Erni, 486.18m away; Doc Crow's, visit from 09:00 to 09:40, nearest transit: S 1st @ E Main, 131.51m away; Conrad-Caldwell House Museum (Conrad's Castle), visit from 10:10 to 12:10, nearest transit: 4th @ Magnolia, 181.77m away; The Joy Luck, visit from 13:40 to 14:20, nearest transit: Bardstown @ Longest, 70.75m away; Hell Or High Water, visit from 19:00 to 19:40, nearest transit: S 1st @ E Main, 131.92m away; 1 bedroom efficiency kitchenette, stay from 23:00 to 08:00, nearest transit: Bono @ Erni, 486.18m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Louisville to Miami",
+    "transportation": "Flight Number: F2585714, from Louisville to Miami, Departure Time: 19:33, Arrival Time: 22:00",
+    "breakfast": "Garage Bar, Louisville",
+    "lunch": "Noche Mexican BBQ, Louisville",
+    "dinner": "-",
+    "attraction": "Frazier History Museum, Louisville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 bedroom efficiency kitchenette, stay from 08:00 to 08:30, nearest transit: Bono @ Erni, 486.18m away; Garage Bar, visit from 09:00 to 09:40, nearest transit: Market @ Clay, 50.14m away; Frazier History Museum, visit from 10:10 to 12:10, nearest transit: Market @ S 8th, 183.51m away; Noche Mexican BBQ, visit from 13:40 to 14:20, nearest transit: Bardstown @ Esperanza Alley, 34.93m away"
+  }
+]

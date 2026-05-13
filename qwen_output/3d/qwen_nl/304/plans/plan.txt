@@ -1,0 +1,6 @@
+Destination cities: ['Charlotte'],
+Transportation dates: ['2024-11-13', '2024-11-15'],
+Transportation methods between cities: ['Self-driving, from Bristol to Charlotte, duration: 212.82166666666663, distance: 253.2508, cost: 12', 'Self-driving, from Charlotte to Bristol, duration: 212.88166666666663, distance: 252.9456, cost: 12'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Cabo Fish Taco Baja Seagrill, Charlotte', "Charlotte's, Charlotte", 'The Terrace at The Charlotte Inn, Charlotte', "Charlotte's Web, Charlotte", "Rooster's Wood-Fired Kitchen - Uptown, Charlotte", 'Charlotte & Fritz, Charlotte'],
+Attractions (1 per day): ['-', 'Levine Museum of the New South, Charlotte', 'Discovery Place Science, Charlotte'],
+Accommodations (1 per city): ['Room with a king bed., Charlotte']

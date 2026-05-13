@@ -1,0 +1,6 @@
+Destination cities: ['Louisville'],
+Transportation dates: ['2024-11-21', '2024-11-23'],
+Transportation methods between cities: ['Flight Number: F1028493, from Miami to Louisville, Departure Time: 21:07, Arrival Time: 00:03', 'Flight Number: F2585714, from Louisville to Miami, Departure Time: 19:33, Arrival Time: 22:00'],
+Restaurants (3 meals per day): ['Down One Bourbon Bar & Restaurant, Louisville', "Momma's Mustard, Pickles & BBQ, Louisville", 'Wild Eggs, Louisville', "Doc Crow's, Louisville", 'The Joy Luck, Louisville', 'Hell Or High Water, Louisville', 'Garage Bar, Louisville', 'Noche Mexican BBQ, Louisville', '-'],
+Attractions (1 per day): ['Louisville Slugger Museum & Factory, Louisville', "Conrad-Caldwell House Museum (Conrad's Castle), Louisville", 'Frazier History Museum, Louisville'],
+Accommodations (1 per city): ['1 bedroom efficiency kitchenette, Louisville']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Missoula to San Francisco",
+    "transportation": "Flight Number: F2382252, from Missoula to San Francisco, Departure Time: 16:14, Arrival Time: 17:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "attraction": "-",
+    "accommodation": "Harry Potter Lego themed Guestroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Harry Potter Lego themed Guestroom, stay from 18:03 to 20:15, nearest transit: Civic Center BART (9th and Market), 84.44m away; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 20:45 to 22:11, ; Harry Potter Lego themed Guestroom, stay from 22:41 to 06:41, nearest transit: Civic Center BART (9th and Market), 84.44m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Z & Y Restaurant, San Francisco",
+    "lunch": "Mersea Restaurant & Bar, San Francisco",
+    "dinner": "Blue Mermaid Restaurant, San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Harry Potter Lego themed Guestroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Harry Potter Lego themed Guestroom, stay from 07:11 to 07:41, nearest transit: Civic Center BART (9th and Market), 84.44m away; Z & Y Restaurant, San Francisco, visit from 08:11 to 10:00, ; Lands End, San Francisco, visit from 10:30 to 14:00, ; Mersea Restaurant & Bar, San Francisco, visit from 14:30 to 15:30, ; Blue Mermaid Restaurant, San Francisco, visit from 19:31 to 20:46, ; Harry Potter Lego themed Guestroom, stay from 21:16 to 05:16, nearest transit: Civic Center BART (9th and Market), 84.44m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Missoula",
+    "transportation": "Taxi from San Francisco to Missoula, duration: 1112.4816666666666, distance: 1581.5232, cost : 1581.0",
+    "breakfast": "-",
+    "lunch": "Eight Am, San Francisco",
+    "dinner": "Fog Harbor Fish House, San Francisco",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Harry Potter Lego themed Guestroom, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 84.44m away; Pier 39, San Francisco, visit from 09:00 to 12:30, ; Eight Am, San Francisco, visit from 13:00 to 14:59, ; Fog Harbor Fish House, San Francisco, visit from 19:00 to 20:15, "
+  }
+]

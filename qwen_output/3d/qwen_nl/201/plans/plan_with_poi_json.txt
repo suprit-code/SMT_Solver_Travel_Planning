@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Seattle",
+    "transportation": "Flight Number: F1066385, from Denver to Seattle, Departure Time: 15:56, Arrival Time: 17:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "13 Coins Restaurant, Seattle",
+    "lunch": "Vons 1000 Spirits, Seattle",
+    "dinner": "Bacco Cafe, Seattle",
+    "attraction": "Kerry Park, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; 13 Coins Restaurant, visit from 08:55 to 09:35, nearest transit: King Street Station, 107.40m away; Kerry Park, visit from 10:00 to 12:00, nearest transit: Queen Anne Ave N & W Highland Dr, 240.72m away; Vons 1000 Spirits, visit from 13:35 to 14:15, nearest transit: 2nd Ave & Seneca St, 159.67m away; Bacco Cafe, visit from 19:00 to 19:40, nearest transit: 2nd Ave & Stewart St, 107.26m away; Cozy room near UW, stay from 23:00 to 08:00, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Denver",
+    "transportation": "Flight Number: F2234843, from Seattle to Denver, Departure Time: 14:39, Arrival Time: 18:02",
+    "breakfast": "Chan Seattle, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "-",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:29, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Chan Seattle, visit from 08:54 to 09:34, nearest transit: Pine St & 9th Ave, 68.08m away; Woodland Park Zoo, visit from 09:59 to 11:59, nearest transit: Phinney Ave N & N 55th St, 257.77m away; Dough Zone Dumpling House - Seattle International District, visit from 13:34 to 14:14, nearest transit: 5th Ave S & S Weller St, 26.54m away"
+  }
+]

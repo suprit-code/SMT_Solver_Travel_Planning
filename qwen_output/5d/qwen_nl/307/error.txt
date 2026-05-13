@@ -1,0 +1,23 @@
+
+--- JOB 307 FAILED ---
+Error: argument 1: <class 'KeyboardInterrupt'>: 
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 193, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 37, in <module>
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/tools/flights/apis.py", line 135, in run_for_all_cities_and_dates
+    arrTime = Store(arrTime, index, ArrTime[index])
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 4894, in Store
+    return Update(a, args)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 4861, in Update
+    v = a.sort().range().cast(v)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 4648, in sort
+    return ArraySortRef(Z3_get_sort(self.ctx_ref(), self.as_ast()), self.ctx)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 358, in __init__
+    Z3_inc_ref(self.ctx.ref(), self.as_ast())
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3core.py", line 1647, in Z3_inc_ref
+    _elems.f(a0, a1)
+ctypes.ArgumentError: argument 1: <class 'KeyboardInterrupt'>: 
+
+----------------------------------------

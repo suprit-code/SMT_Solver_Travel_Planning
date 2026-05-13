@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Chattanooga",
+    "transportation": "Flight Number: F3363091, from Chicago to Chattanooga, Departure Time: 14:33, Arrival Time: 17:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Public House, Chattanooga",
+    "attraction": "-",
+    "accommodation": "New Town House in Historic District of Chattanooga, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "New Town House in Historic District of Chattanooga, stay from 17:53 to 18:23, nearest transit: S MARKET + 17TH, 37.73m away; Public House, Chattanooga, visit from 19:00 to 20:15, ; New Town House in Historic District of Chattanooga, stay from 21:30 to 05:30, nearest transit: S MARKET + 17TH, 37.73m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "lunch": "Hickory Pit Bar-B-Que, Chattanooga",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "New Town House in Historic District of Chattanooga, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "New Town House in Historic District of Chattanooga, stay from 06:00 to 06:30, nearest transit: S MARKET + 17TH, 37.73m away; The Purple Daisy Picnic Cafe, Chattanooga, visit from 08:37 to 09:27, ; Tennessee Aquarium, Chattanooga, visit from 09:57 to 13:27, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 14:30 to 15:30, ; Uncle Larry's Restaurant, Chattanooga, visit from 20:45 to 22:00, ; New Town House in Historic District of Chattanooga, stay from 22:30 to 06:30, nearest transit: S MARKET + 17TH, 37.73m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Chicago",
+    "transportation": "Flight Number: F2393039, from Chattanooga to Chicago, Departure Time: 17:41, Arrival Time: 18:31",
+    "breakfast": "Whitebird, Chattanooga",
+    "lunch": "Mellow Mushroom Chattanooga, Chattanooga",
+    "dinner": "-",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "New Town House in Historic District of Chattanooga, stay from 07:00 to 07:30, nearest transit: S MARKET + 17TH, 37.73m away; Whitebird, Chattanooga, visit from 08:00 to 08:50, ; Tennessee Valley Railroad Museum, Chattanooga, visit from 09:20 to 12:50, ; Mellow Mushroom Chattanooga, Chattanooga, visit from 13:20 to 14:20, "
+  }
+]

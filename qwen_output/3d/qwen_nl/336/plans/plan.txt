@@ -1,0 +1,6 @@
+Destination cities: ['Nashville'],
+Transportation dates: ['2024-11-16', '2024-11-18'],
+Transportation methods between cities: ['Flight Number: F4006546, from San Diego to Nashville, Departure Time: 09:39, Arrival Time: 15:19', 'Flight Number: F0971317, from Nashville to San Diego, Departure Time: 12:29, Arrival Time: 14:55'],
+Restaurants (3 meals per day): ['-', '-', "Jeff Ruby's Steakhouse, Nashville, Nashville", 'Aquarium Restaurant, Nashville', '1 Kitchen, Nashville', "Harriet's Rooftop, Nashville", 'The Catbird Seat, Nashville', 'Kayne Prime, Nashville', '-'],
+Attractions (1 per day): ['Ole Smoky Distillery & Yee-Haw Brewery, Nashville', 'Musicians Hall of Fame and Museum, Nashville', '-'],
+Accommodations (1 per city): ['The Stewart House in 12th South - Half House, Nashville']

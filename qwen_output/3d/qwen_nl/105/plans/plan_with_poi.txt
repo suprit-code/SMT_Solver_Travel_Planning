@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to Baltimore",
+    "transportation": "Flight Number: F3993064, from Portland to Baltimore, Departure Time: 15:37, Arrival Time: 17:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Large comfortable space w/ private entrance & bath, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Large comfortable space w/ private entrance & bath, stay from 17:33 to 18:03, nearest transit: JOHNS HOPKINS METRO Elevator 2, 6638.83m away; Large comfortable space w/ private entrance & bath, stay from 23:40 to 07:40, nearest transit: JOHNS HOPKINS METRO Elevator 2, 6638.83m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Twist Fell's Point, Baltimore",
+    "lunch": "La Tavola, Baltimore",
+    "dinner": "Blue Moon Cafe, Baltimore",
+    "attraction": "Sagamore Spirit Distillery, Baltimore",
+    "accommodation": "Large comfortable space w/ private entrance & bath, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Large comfortable space w/ private entrance & bath, stay from 08:10 to 08:40, nearest transit: JOHNS HOPKINS METRO Elevator 2, 6638.83m away; Twist Fell's Point, Baltimore, visit from 09:10 to 10:00, ; Sagamore Spirit Distillery, Baltimore, visit from 10:30 to 14:00, ; La Tavola, Baltimore, visit from 14:30 to 15:30, ; Blue Moon Cafe, Baltimore, visit from 19:31 to 20:46, ; Large comfortable space w/ private entrance & bath, stay from 21:16 to 05:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 6638.83m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Portland",
+    "transportation": "Flight Number: F2691923, from Baltimore to Portland, Departure Time: 10:05, Arrival Time: 11:28",
+    "breakfast": "LP Steamers, Baltimore",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Large comfortable space w/ private entrance & bath, stay from 06:00 to 06:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 6638.83m away; LP Steamers, Baltimore, visit from 08:00 to 09:35, "
+  }
+]

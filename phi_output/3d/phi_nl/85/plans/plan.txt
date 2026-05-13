@@ -1,0 +1,6 @@
+Destination cities: ['Fort Wayne'],
+Transportation dates: ['2024-11-06', '2024-11-08'],
+Transportation methods between cities: ['Self-driving, from Charlotte to Fort Wayne, duration: 696.1800000000001, distance: 929.145, cost: 46', 'Self-driving, from Fort Wayne to Charlotte, duration: 697.2533333333333, distance: 928.2367, cost: 46'],
+Restaurants (3 meals per day): ['-', '-', '-', 'The Bluebird Restaurant, Fort Wayne', "Wu's Fine Chinese Cuisine, Fort Wayne", "Fort Wayne's Famous Coney Island, Fort Wayne", 'Casa Ristorante, Fort Wayne', 'Los cabos mexican grill, Fort Wayne', 'Copper Spoon, Fort Wayne'],
+Attractions (1 per day): ['-', 'Fort Wayne Museum of Art, Fort Wayne', 'Fort Wayne Firefighters Museum, Fort Wayne'],
+Accommodations (1 per city): ['A Hidden Oasis-Modern Studio Apartment, Fort Wayne']

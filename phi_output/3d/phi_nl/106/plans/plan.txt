@@ -1,0 +1,6 @@
+Destination cities: ['Boise'],
+Transportation dates: ['2024-11-04', '2024-11-06'],
+Transportation methods between cities: ['Flight Number: F0581768, from Houston to Boise, Departure Time: 18:12, Arrival Time: 21:00', 'Flight Number: F2376085, from Boise to Houston, Departure Time: 06:40, Arrival Time: 10:52'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Flying M Coffee House, Boise', "Guido's Original New York Style Pizza Downtown, Boise", 'Boise Fry Company, Boise', 'Westside Drive In, Boise', '-', '-'],
+Attractions (1 per day): ['-', 'Basque Museum & Cultural Center, Boise', '-'],
+Accommodations (1 per city): ['North End Private Guest Suite in Historic Home, Boise']

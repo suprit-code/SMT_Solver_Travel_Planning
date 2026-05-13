@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to San Diego",
+    "transportation": "Flight Number: F2876473, from Portland to San Diego, Departure Time: 07:59, Arrival Time: 10:31",
+    "breakfast": "-",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 11:01 to 11:48, nearest transit: 30th St & A St, 427.5m away; Cowboy Star, San Diego, visit from 12:18 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 20:15, ; Lou & Mickey's, San Diego, visit from 20:45 to 22:14, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 22:44 to 06:44, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "Mister A'S, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 07:14 to 07:44, nearest transit: 30th St & A St, 427.5m away; Born & Raised, San Diego, visit from 08:14 to 09:04, ; SeaWorld, San Diego, visit from 09:34 to 13:04, ; Addison Restaurant, San Diego, visit from 14:30 to 15:44, ; Mister A'S, San Diego, visit from 19:45 to 21:00, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 21:30 to 05:30, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The God Spa, Redding",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 06:00 to 07:23, nearest transit: 30th St & A St, 427.5m away; Ruth's Chris Steak House, San Diego, visit from 08:00 to 08:50, ; The God Spa, stay from 22:04 to 22:34, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; The God Spa, stay from 23:04 to 07:04, nearest transit: Twin View Blvd at Midway Dr, 557.67m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Kobe Seafood & Steakhouse, Redding",
+    "lunch": "Jack's Grill, Redding",
+    "dinner": "New China, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "The God Spa, Redding",
+    "event": "-",
+    "point_of_interest_list": "The God Spa, stay from 07:34 to 08:40, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; Kobe Seafood & Steakhouse, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; Jack's Grill, Redding, visit from 14:30 to 15:44, ; New China, Redding, visit from 19:45 to 21:00, ; The God Spa, stay from 21:30 to 05:30, nearest transit: Twin View Blvd at Midway Dr, 557.67m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Taxi from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 259.0",
+    "breakfast": "Thai Hut, Redding",
+    "lunch": "View 202, Redding",
+    "dinner": "-",
+    "attraction": "Redding Civic Auditorium, Redding",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "The God Spa, stay from 06:00 to 06:30, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; Thai Hut, Redding, visit from 08:00 to 08:50, ; Redding Civic Auditorium, Redding, visit from 09:20 to 12:50, ; View 202, Redding, visit from 13:20 to 14:20, ; Private Guest Bed 'N Bath near Downtown, stay from 18:16 to 18:46, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Private Guest Bed 'N Bath near Downtown, stay from 21:01 to 05:01, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Dawson's Steakhouse, Sacramento",
+    "lunch": "Sauced BBQ & Spirits, Sacramento",
+    "dinner": "Paragary's, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Dawson's Steakhouse, Sacramento, visit from 09:02 to 09:52, ; Sauced BBQ & Spirits, Sacramento, visit from 13:53 to 14:53, ; Capitol Park, Sacramento, visit from 15:23 to 18:53, ; Paragary's, Sacramento, visit from 19:23 to 20:38, ; Private Guest Bed 'N Bath near Downtown, stay from 21:08 to 05:08, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Portland",
+    "transportation": "Flight Number: F4017872, from Sacramento to Portland, Departure Time: 19:58, Arrival Time: 21:25",
+    "breakfast": "Nopalitos, Sacramento",
+    "lunch": "Grange Restaurant & Bar, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Nopalitos, Sacramento, visit from 08:00 to 08:50, ; California State Capitol Museum, Sacramento, visit from 09:20 to 12:50, ; Grange Restaurant & Bar, Sacramento, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-13', '2024-11-15'],
+Transportation methods between cities: ['Flight Number: F2977150, from Oklahoma City to Atlanta, Departure Time: 07:52, Arrival Time: 10:46', 'Flight Number: F3125700, from Atlanta to Oklahoma City, Departure Time: 17:45, Arrival Time: 18:55'],
+Restaurants (3 meals per day): ['-', '-', 'Cafe Agora, Atlanta', 'South City Kitchen Midtown, Atlanta', 'Steamhouse Lounge, Atlanta', 'Fox Bros. Bar-B-Q, Atlanta', "Ray's in the City, Atlanta", 'Kevin Rathbun Steak, Atlanta', '-'],
+Attractions (1 per day): ['Atlanta Botanical Garden, Atlanta', 'Zoo Atlanta, Atlanta', 'Piedmont Park, Atlanta'],
+Accommodations (1 per city): ['Tiny House Urban Farm Stay in Heart of Atlanta, Atlanta']

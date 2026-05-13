@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Birmingham to Detroit",
+    "transportation": "Flight Number: F3362365, from Birmingham to Detroit, Departure Time: 06:07, Arrival Time: 09:04",
+    "breakfast": "-",
+    "lunch": "SheWolf, Detroit",
+    "dinner": "Townhouse, Detroit",
+    "attraction": "Detroit Institute of Arts, Detroit",
+    "accommodation": "Historic Corktown Loft at Old Tiger Stadium, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Historic Corktown Loft at Old Tiger Stadium, stay from 09:34 to 13:30, nearest transit: Montcalm St - Southbound, 1676.02m away; SheWolf, Detroit, visit from 14:00 to 15:00, ; Detroit Institute of Arts, Detroit, visit from 15:30 to 19:00, ; Townhouse, Detroit, visit from 19:30 to 20:45, ; Historic Corktown Loft at Old Tiger Stadium, stay from 21:30 to 05:30, nearest transit: Montcalm St - Southbound, 1676.02m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Detroit",
+    "transportation": "-",
+    "breakfast": "Grey Ghost Detroit, Detroit",
+    "lunch": "Besa, Detroit",
+    "dinner": "Parc, Detroit",
+    "attraction": "Comerica Park, Detroit",
+    "accommodation": "Historic Corktown Loft at Old Tiger Stadium, Detroit",
+    "event": "-",
+    "point_of_interest_list": "Historic Corktown Loft at Old Tiger Stadium, stay from 06:00 to 06:30, nearest transit: Montcalm St - Southbound, 1676.02m away; Grey Ghost Detroit, Detroit, visit from 08:00 to 10:00, ; Comerica Park, Detroit, visit from 10:30 to 14:00, ; Besa, Detroit, visit from 14:30 to 15:30, ; Parc, Detroit, visit from 19:31 to 20:46, ; Historic Corktown Loft at Old Tiger Stadium, stay from 21:16 to 05:16, nearest transit: Montcalm St - Southbound, 1676.02m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Detroit to Birmingham",
+    "transportation": "Flight Number: F1123078, from Detroit to Birmingham, Departure Time: 10:17, Arrival Time: 11:09",
+    "breakfast": "Pegasus Taverna, Detroit",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Corktown Loft at Old Tiger Stadium, stay from 06:00 to 06:30, nearest transit: Montcalm St - Southbound, 1676.02m away; Pegasus Taverna, Detroit, visit from 08:00 to 08:50, "
+  }
+]

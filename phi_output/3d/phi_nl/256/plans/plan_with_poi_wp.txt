@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Colorado Springs",
+    "transportation": "Flight Number: F0092583, from Las Vegas to Colorado Springs, Departure Time: 09:41, Arrival Time: 12:27",
+    "breakfast": "-",
+    "lunch": "Carlos Bistro, Colorado Springs",
+    "dinner": "Cowboy Star, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "The Master Suite at the Fisher House, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "The Master Suite at the Fisher House, stay from 12:57 to 13:30, nearest transit: Uintah/24th, 223.24m away; Carlos Bistro, Colorado Springs, visit from 14:00 to 15:00, ; Garden of the Gods, Colorado Springs, visit from 15:30 to 20:15, ; Cowboy Star, Colorado Springs, visit from 20:45 to 22:06, ; The Master Suite at the Fisher House, stay from 22:36 to 06:36, nearest transit: Uintah/24th, 223.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Shuga's Restaurant, Colorado Springs",
+    "lunch": "Restaurant 1858, Colorado Springs",
+    "dinner": "Summit at The Broadmoor, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "The Master Suite at the Fisher House, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "The Master Suite at the Fisher House, stay from 07:06 to 07:36, nearest transit: Uintah/24th, 223.24m away; Shuga's Restaurant, Colorado Springs, visit from 08:06 to 08:56, ; Restaurant 1858, Colorado Springs, visit from 13:30 to 14:30, ; Seven Falls, Colorado Springs, visit from 15:00 to 18:30, ; Summit at The Broadmoor, Colorado Springs, visit from 19:00 to 20:15, ; The Master Suite at the Fisher House, stay from 20:45 to 06:30, nearest transit: Uintah/24th, 223.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Colorado Springs to Las Vegas",
+    "transportation": "Flight Number: F3565531, from Colorado Springs to Las Vegas, Departure Time: 19:14, Arrival Time: 20:08",
+    "breakfast": "The Famous Steak House, Colorado Springs",
+    "lunch": "Prime 25, Colorado Springs",
+    "dinner": "-",
+    "attraction": "United States Air Force Academy, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Master Suite at the Fisher House, stay from 07:00 to 07:30, nearest transit: Uintah/24th, 223.24m away; The Famous Steak House, Colorado Springs, visit from 08:00 to 08:50, ; Prime 25, Colorado Springs, visit from 12:51 to 13:51, ; United States Air Force Academy, Colorado Springs, visit from 14:21 to 17:51, "
+  }
+]

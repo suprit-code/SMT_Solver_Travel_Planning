@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Fort Wayne to Amarillo",
+    "transportation": "Taxi from Fort Wayne to Amarillo, duration: 1209.371666666667, distance: 1800.8417, cost : 1800.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Rustic Ridge | Amazing Views of Palo Duro Canyon, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 02:39 to 03:09, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 03:39 to 08:00, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Ohms Cafe & Catering, Amarillo",
+    "lunch": "El Tejavan, Amarillo",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "-",
+    "accommodation": "Rustic Ridge | Amazing Views of Palo Duro Canyon, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 08:30 to 09:00, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Ohms Cafe & Catering, Amarillo, visit from 09:30 to 10:20, ; El Tejavan, Amarillo, visit from 14:21 to 15:21, ; Golden Light Cafe & Cantina, Amarillo, visit from 19:22 to 20:37, ; Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 21:07 to 04:51, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F3473336, from Amarillo to Houston, Departure Time: 06:21, Arrival Time: 07:57",
+    "breakfast": "The Breakfast Klub, Houston",
+    "lunch": "Brenner's on the Bayou, Houston",
+    "dinner": "Eddie V's Prime Seafood, Houston",
+    "attraction": "-",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Rustic Ridge | Amazing Views of Palo Duro Canyon, stay from 05:21 to 05:51, nearest transit: SW 58th Ave & Parker St (Central Baptist Church), 24261.45m away; Entire Apt in the Heart of the City - Galleria, stay from 08:27 to 08:57, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; The Breakfast Klub, Houston, visit from 09:27 to 10:29, ; Brenner's on the Bayou, Houston, visit from 14:30 to 15:30, ; Eddie V's Prime Seafood, Houston, visit from 19:31 to 23:10, ; Entire Apt in the Heart of the City - Galleria, stay from 23:40 to 07:40, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Houston White Co, Houston",
+    "dinner": "Houstons Bar and Grill, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 08:10 to 08:40, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Pappadeaux Seafood Kitchen, Houston, visit from 09:10 to 10:00, ; Houston Zoo, Houston, visit from 10:30 to 14:00, ; Houston White Co, Houston, visit from 14:30 to 16:44, ; Houstons Bar and Grill, Houston, visit from 20:45 to 22:38, ; Entire Apt in the Heart of the City - Galleria, stay from 23:08 to 07:08, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Taxi from Houston to San Antonio, duration: 211.06833333333333, distance: 315.3022, cost : 315.0",
+    "breakfast": "Goode Company Seafood, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "-",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 07:38 to 08:08, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Goode Company Seafood, Houston, visit from 08:38 to 09:28, ; Downtown Aquarium, Houston, visit from 09:58 to 13:28, ; Brennan's of Houston, Houston, visit from 13:58 to 14:58, ; Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, stay from 19:29 to 20:12, nearest transit: BROADWAY & PERSHING, 95.3m away; Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, stay from 20:42 to 06:39, nearest transit: BROADWAY & PERSHING, 95.3m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Pollos Asados Los Nortenos, San Antonio",
+    "lunch": "J Prime Steakhouse, San Antonio",
+    "dinner": "Bliss, San Antonio",
+    "attraction": "San Antonio Missions National Historical Park, San Antonio",
+    "accommodation": "Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, stay from 07:09 to 07:39, nearest transit: BROADWAY & PERSHING, 95.3m away; Pollos Asados Los Nortenos, San Antonio, visit from 08:09 to 08:59, ; San Antonio Missions National Historical Park, San Antonio, visit from 09:29 to 12:59, ; J Prime Steakhouse, San Antonio, visit from 13:29 to 14:59, ; Bliss, San Antonio, visit from 19:00 to 20:15, ; Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, stay from 20:45 to 04:45, nearest transit: BROADWAY & PERSHING, 95.3m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Fort Wayne",
+    "transportation": "Taxi from San Antonio to Fort Wayne, duration: 1389.1666666666667, distance: 2066.5601, cost : 2066.0",
+    "breakfast": "Perry's Steakhouse & Grille- San Antonio, San Antonio",
+    "lunch": "Chama Gaucha Brazilian Steakhouse - San Antonio, San Antonio",
+    "dinner": "Domingo Restaurant, San Antonio",
+    "attraction": "San Antonio Zoo, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Royal Bluebird EnSuite 9 Mins to Riverwalk & Alamo, stay from 06:00 to 06:30, nearest transit: BROADWAY & PERSHING, 95.3m away; Perry's Steakhouse & Grille- San Antonio, San Antonio, visit from 08:00 to 08:50, ; San Antonio Zoo, San Antonio, visit from 09:20 to 12:50, ; Chama Gaucha Brazilian Steakhouse - San Antonio, San Antonio, visit from 13:59 to 14:59, ; Domingo Restaurant, San Antonio, visit from 19:00 to 20:15, "
+  }
+]

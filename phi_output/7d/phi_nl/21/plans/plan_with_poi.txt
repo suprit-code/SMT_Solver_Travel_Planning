@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Champaign to Amarillo",
+    "transportation": "Taxi from Champaign to Amarillo, duration: 996.6283333333332, distance: 1503.3516000000002, cost : 1503.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "❤️Relax in charming 1920s Bohemian Bungalow❤️, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 23:06 to 23:36, nearest transit: S Washington St & SW 28th Ave, 319.2m away; ❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 00:06 to 08:00, nearest transit: S Washington St & SW 28th Ave, 319.2m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Ohms Cafe & Catering, Amarillo",
+    "lunch": "Macaroni Joes, Amarillo",
+    "dinner": "575° Pizzeria - Hillside, Amarillo",
+    "attraction": "-",
+    "accommodation": "❤️Relax in charming 1920s Bohemian Bungalow❤️, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 08:30 to 09:00, nearest transit: S Washington St & SW 28th Ave, 319.2m away; Ohms Cafe & Catering, Amarillo, visit from 09:38 to 10:29, ; Macaroni Joes, Amarillo, visit from 14:30 to 15:44, ; 575° Pizzeria - Hillside, Amarillo, visit from 19:45 to 21:00, ; ❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 21:30 to 05:30, nearest transit: S Washington St & SW 28th Ave, 319.2m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Corpus Christi",
+    "transportation": "Taxi from Amarillo to Corpus Christi, duration: 680.4416666666667, distance: 1045.7828, cost : 1045.0",
+    "breakfast": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Waterfront +Stunning Sunsets +Fishing +Pool, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "❤️Relax in charming 1920s Bohemian Bungalow❤️, stay from 06:00 to 07:08, nearest transit: S Washington St & SW 28th Ave, 319.2m away; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 08:00 to 08:50, ; Waterfront +Stunning Sunsets +Fishing +Pool, stay from 21:10 to 22:00, nearest transit: 2601-15209 Leeward, 116.82m away; Waterfront +Stunning Sunsets +Fishing +Pool, stay from 22:30 to 06:30, nearest transit: 2601-15209 Leeward, 116.82m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Corpus Christi",
+    "transportation": "-",
+    "breakfast": "Katz 21 Steak & Spirits, Corpus Christi",
+    "lunch": "Ol' Steakhouse Co., Corpus Christi",
+    "dinner": "Saltwater Grill, Corpus Christi",
+    "attraction": "USS Lexington Museum, Corpus Christi",
+    "accommodation": "Waterfront +Stunning Sunsets +Fishing +Pool, Corpus Christi",
+    "event": "-",
+    "point_of_interest_list": "Waterfront +Stunning Sunsets +Fishing +Pool, stay from 07:00 to 07:30, nearest transit: 2601-15209 Leeward, 116.82m away; Katz 21 Steak & Spirits, Corpus Christi, visit from 08:00 to 09:43, ; Ol' Steakhouse Co., Corpus Christi, visit from 13:44 to 14:44, ; USS Lexington Museum, Corpus Christi, visit from 15:14 to 18:44, ; Saltwater Grill, Corpus Christi, visit from 19:14 to 20:29, ; Waterfront +Stunning Sunsets +Fishing +Pool, stay from 20:59 to 04:59, nearest transit: 2601-15209 Leeward, 116.82m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Corpus Christi to Houston",
+    "transportation": "Flight Number: F1625907, from Corpus Christi to Houston, Departure Time: 06:29, Arrival Time: 07:18",
+    "breakfast": "Uchi Houston, Houston",
+    "lunch": "Pappas Bros. Steakhouse, Houston",
+    "dinner": "Brennan's of Houston, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Waterfront +Stunning Sunsets +Fishing +Pool, stay from 05:29 to 05:59, nearest transit: 2601-15209 Leeward, 116.82m away; Entire Apt in the Heart of the City - Galleria, stay from 07:48 to 08:18, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Uchi Houston, Houston, visit from 08:48 to 09:38, ; Pappas Bros. Steakhouse, Houston, visit from 13:39 to 14:39, ; Downtown Aquarium, Houston, visit from 15:09 to 18:39, ; Brennan's of Houston, Houston, visit from 19:09 to 20:24, ; Entire Apt in the Heart of the City - Galleria, stay from 20:54 to 05:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "Hugo's, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Entire Apt in the Heart of the City - Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:00 to 06:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Fogo de Chao Brazilian Steakhouse, Houston, visit from 08:00 to 08:50, ; Hermann Park, Houston, visit from 10:30 to 14:00, ; Pappadeaux Seafood Kitchen, Houston, visit from 14:30 to 15:30, ; Hugo's, Houston, visit from 19:31 to 20:46, ; Entire Apt in the Heart of the City - Galleria, stay from 21:16 to 05:16, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Houston to Champaign",
+    "transportation": "Taxi from Houston to Champaign, duration: 1031.7916666666667, distance: 1511.9677, cost : 1511.0",
+    "breakfast": "Niko Niko's Greek, Houston",
+    "lunch": "The Original Ninfa's, Houston",
+    "dinner": "Houston White Co, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire Apt in the Heart of the City - Galleria, stay from 06:00 to 07:30, nearest transit: Fountain View Dr @ Burgoyne Rd, 98.06m away; Niko Niko's Greek, Houston, visit from 08:00 to 08:50, ; The Original Ninfa's, Houston, visit from 12:51 to 13:51, ; Cockrell Butterfly Center, Houston, visit from 14:21 to 17:51, ; Houston White Co, Houston, visit from 19:00 to 20:15, "
+  }
+]

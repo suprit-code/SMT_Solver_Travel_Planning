@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Indianapolis",
+    "transportation": "Flight Number: F0035972, from Denver to Indianapolis, Departure Time: 11:57, Arrival Time: 16:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Tavern on South, Indianapolis",
+    "attraction": "-",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 16:39 to 17:09, nearest transit: New York St & State St, 65.71m away; Tavern on South, Indianapolis, visit from 20:45 to 22:16, ; Queen Bed Getaway Room Downtown Indy, stay from 22:46 to 06:46, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "Conner's Kitchen + Bar, Indianapolis",
+    "lunch": "Maggiano's Little Italy, Indianapolis",
+    "dinner": "Lincoln Square Pancake House, Indianapolis",
+    "attraction": "Indiana War Memorial, Indianapolis",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 07:16 to 07:46, nearest transit: New York St & State St, 65.71m away; Conner's Kitchen + Bar, Indianapolis, visit from 08:16 to 09:06, ; Maggiano's Little Italy, Indianapolis, visit from 13:07 to 14:07, ; Indiana War Memorial, Indianapolis, visit from 14:37 to 18:30, ; Lincoln Square Pancake House, Indianapolis, visit from 19:00 to 20:15, ; Queen Bed Getaway Room Downtown Indy, stay from 22:30 to 06:30, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Denver",
+    "transportation": "Flight Number: F3994907, from Indianapolis to Denver, Departure Time: 18:18, Arrival Time: 19:14",
+    "breakfast": "The Library Restaurant and Pub, Indianapolis",
+    "lunch": "Bluebeard, Indianapolis",
+    "dinner": "-",
+    "attraction": "Indianapolis Motor Speedway Museum, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 07:00 to 07:30, nearest transit: New York St & State St, 65.71m away; The Library Restaurant and Pub, Indianapolis, visit from 08:00 to 08:50, ; Indianapolis Motor Speedway Museum, Indianapolis, visit from 09:20 to 12:50, ; Bluebeard, Indianapolis, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to Washington",
+    "transportation": "Flight Number: F2458656, from Louisville to Washington, Departure Time: 15:18, Arrival Time: 16:51",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Gerrard Street Kitchen, Washington",
+    "attraction": "White House, Washington",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "The Tombs, Washington",
+    "lunch": "Thip Khao, Washington",
+    "dinner": "Unconventional Diner, Washington",
+    "attraction": "Ford's Theatre, Washington",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 08:00 to 08:30, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away; The Tombs, visit from 09:00 to 09:40, nearest transit: ROSSLYN, 1065.40m away; Ford's Theatre, visit from 10:10 to 12:10, nearest transit: ENTRANCE B - 11TH AND G STS., 172.16m away; Thip Khao, visit from 13:40 to 14:20, nearest transit: COLUMBIA HEIGHTS METRORAIL STATION - NE CORNER OF 14TH AND IRVING STS. NW, 448.99m away; Unconventional Diner, visit from 19:00 to 19:40, nearest transit: MT VERNON SQ, 135.98m away; A Cozy room, stay from 23:00 to 08:00, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Louisville",
+    "transportation": "Flight Number: F3188311, from Washington to Louisville, Departure Time: 17:45, Arrival Time: 21:10",
+    "breakfast": "Succotash Prime, Washington",
+    "lunch": "Ambar Shaw, Washington",
+    "dinner": "-",
+    "attraction": "National Mall, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 08:00 to 08:30, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away; Succotash Prime, visit from 09:00 to 09:40, nearest transit: Entrance B - 9St & G St, GALLERY PLACE METRORAIL STATION, 103.86m away; National Mall, visit from 10:10 to 12:10, nearest transit: Entrance  A - 7 St,  Maryland Av, 386.15m away; Ambar Shaw, visit from 13:40 to 14:20, nearest transit: SHAW-HOWARD U, 212.79m away"
+  }
+]

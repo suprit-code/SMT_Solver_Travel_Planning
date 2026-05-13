@@ -1,0 +1,6 @@
+Destination cities: ['Nashville'],
+Transportation dates: ['2024-11-25', '2024-11-27'],
+Transportation methods between cities: ['taxi, from Sioux Falls to Nashville, duration: 1003.3666666666668, distance: 1481.1742, cost: 1481', 'Self-driving, from Nashville to Sioux Falls, duration: 1007.0416666666666, distance: 1481.2943, cost: 74'],
+Restaurants (3 meals per day): ['-', '-', '-', "Skull's Rainbow Room, Nashville", 'Henley, Nashville', 'The Mockingbird, Nashville', 'The Farm House, Nashville', 'Old Hickory Steakhouse, Nashville', 'Aquarium Restaurant, Nashville'],
+Attractions (1 per day): ['-', 'Belmont Mansion, Nashville', 'Grand Ole Opry, Nashville'],
+Accommodations (1 per city): ['Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville']

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Greensboro",
+    "transportation": "Taxi from Sarasota to Greensboro, duration: 790.9466666666667, distance: 1113.121, cost : 1113.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mythos Grill, Greensboro",
+    "attraction": "-",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 19:45 to 20:15, nearest transit: Elm/Fisher (OB), 111.24m away; Mythos Grill, Greensboro, visit from 20:45 to 22:05, ; Leftwich St APT 2, stay from 22:35 to 06:35, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Golden Wok, Greensboro",
+    "lunch": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "dinner": "Stamey's Barbecue, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Leftwich St APT 2, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 07:05 to 07:35, nearest transit: Elm/Fisher (OB), 111.24m away; Golden Wok, Greensboro, visit from 08:05 to 09:59, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 14:00 to 15:00, ; International Civil Rights Center & Museum, Greensboro, visit from 15:30 to 19:15, ; Stamey's Barbecue, Greensboro, visit from 19:45 to 21:00, ; Leftwich St APT 2, stay from 21:30 to 05:30, nearest transit: Elm/Fisher (OB), 111.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "-",
+    "lunch": "Mimi's Cafe, Greensboro",
+    "dinner": "Circa 1922, Wilmington",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "The Swan • Fully Private Guest Suite, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Leftwich St APT 2, stay from 06:00 to 09:00, nearest transit: Elm/Fisher (OB), 111.24m away; Ambleside Gallery, Greensboro, visit from 09:47 to 13:17, ; Mimi's Cafe, Greensboro, visit from 13:47 to 14:47, ; The Swan • Fully Private Guest Suite, stay from 19:45 to 20:15, nearest transit: Forden Station, 1934.13m away; Circa 1922, Wilmington, visit from 20:45 to 22:00, ; The Swan • Fully Private Guest Suite, stay from 22:30 to 06:30, nearest transit: Forden Station, 1934.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "PinPoint Restaurant, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "Manna, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "The Swan • Fully Private Guest Suite, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Swan • Fully Private Guest Suite, stay from 07:00 to 07:30, nearest transit: Forden Station, 1934.13m away; PinPoint Restaurant, Wilmington, visit from 08:02 to 10:00, ; Burgwin-Wright House and Gardens, Wilmington, visit from 10:30 to 14:00, ; Flaming Amy's Burrito Barn, Wilmington, visit from 14:30 to 15:30, ; Manna, Wilmington, visit from 19:31 to 20:46, ; The Swan • Fully Private Guest Suite, stay from 21:16 to 05:30, nearest transit: Forden Station, 1934.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Taxi from Wilmington to Charlotte, duration: 245.71, distance: 318.6171, cost : 318.0",
+    "breakfast": "-",
+    "lunch": "Bistro Charlotte, Charlotte",
+    "dinner": "The Terrace at The Charlotte Inn, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The Swan • Fully Private Guest Suite, stay from 06:00 to 06:30, nearest transit: Forden Station, 1934.13m away; Room with a king bed., stay from 11:35 to 12:05, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Bistro Charlotte, Charlotte, visit from 12:35 to 13:35, ; Discovery Place Science, Charlotte, visit from 14:05 to 18:30, ; The Terrace at The Charlotte Inn, Charlotte, visit from 19:00 to 20:15, ; Room with a king bed., stay from 20:45 to 04:45, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Midwood Smokehouse, Charlotte",
+    "lunch": "Cabo Fish Taco Baja Seagrill, Charlotte",
+    "dinner": "The Capital Grille, Charlotte",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 06:00 to 06:30, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Midwood Smokehouse, Charlotte, visit from 08:41 to 09:31, ; Cabo Fish Taco Baja Seagrill, Charlotte, visit from 13:32 to 14:32, ; Mint Museum Uptown, Charlotte, visit from 15:02 to 18:32, ; The Capital Grille, Charlotte, visit from 19:02 to 20:17, ; Room with a king bed., stay from 20:47 to 04:47, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Sarasota",
+    "transportation": "Taxi from Charlotte to Sarasota, duration: 711.625, distance: 1015.2705, cost : 1015.0",
+    "breakfast": "Charlotte Bakery, Charlotte",
+    "lunch": "Charlotte's Tavern, Charlotte",
+    "dinner": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 06:00 to 06:30, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Charlotte Bakery, Charlotte, visit from 08:00 to 08:50, ; NASCAR Hall of Fame, Charlotte, visit from 09:20 to 12:50, ; Charlotte's Tavern, Charlotte, visit from 13:20 to 14:20, ; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Colorado Springs'],
+Transportation dates: ['2024-11-10', '2024-11-12'],
+Transportation methods between cities: ['Flight Number: F1809643, from Chicago to Colorado Springs, Departure Time: 09:53, Arrival Time: 11:24', 'Flight Number: F2664912, from Colorado Springs to Chicago, Departure Time: 17:13, Arrival Time: 20:21'],
+Restaurants (3 meals per day): ['-', "Jack Quinn's Irish Pub & Restaurant, Colorado Springs", 'Prime 25, Colorado Springs', 'The Melting Pot, Colorado Springs', 'Mountain Shadows Restaurant, Colorado Springs', 'Colorado Mountain Brewery, Colorado Springs', 'Marigold Cafe & Bakery, Colorado Springs', 'Summit at The Broadmoor, Colorado Springs', '-'],
+Attractions (1 per day): ['Garden of the Gods, Colorado Springs', 'Seven Falls, Colorado Springs', 'U.S. Olympic & Paralympic Museum, Colorado Springs'],
+Accommodations (1 per city): ['Casa De Mariposas, Colorado Springs']

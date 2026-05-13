@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Atlanta",
+    "transportation": "Flight Number: F3548860, from Kansas City to Atlanta, Departure Time: 07:10, Arrival Time: 10:23",
+    "breakfast": "-",
+    "lunch": "The Optimist, Atlanta",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Midtown Hidden Gem @Piedmont Park/Private+Parking, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 10:53 to 11:23, nearest transit: MONROE DR @ PARK DR, 114.55m away; The Optimist, visit from 12:00 to 12:40, nearest transit: W MARIETTA ST @ BRADY AVE, 164.88m away; Georgia Aquarium, visit from 13:10 to 15:10, nearest transit: IVAN ALLEN JR BLVD NW @ LUCKIE ST, 131.37m away; Aviva by Kameel, visit from 19:00 to 19:40, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away; Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 23:00 to 08:00, nearest transit: MONROE DR @ PARK DR, 114.55m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "St. Cecilia, Atlanta",
+    "dinner": "Nikolai's Roof, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Midtown Hidden Gem @Piedmont Park/Private+Parking, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 08:00 to 08:30, nearest transit: MONROE DR @ PARK DR, 114.55m away; Canoe, visit from 09:00 to 09:40, nearest transit: NORTHSIDE PKWY @ RIVER GREEN DR, 738.85m away; Zoo Atlanta, visit from 10:10 to 12:10, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; St. Cecilia, visit from 13:40 to 14:20, nearest transit: PEACHTREE RD NE @ OAK VALLEY RD NE, 63.53m away; Nikolai's Roof, visit from 19:00 to 19:40, nearest transit: RALPH MCGILL BLVD NE @ COURTLAND ST, 309.92m away; Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 23:00 to 08:00, nearest transit: MONROE DR @ PARK DR, 114.55m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Kansas City",
+    "transportation": "Flight Number: F2210567, from Atlanta to Kansas City, Departure Time: 19:43, Arrival Time: 20:33",
+    "breakfast": "Stoney River Steakhouse and Grill, Atlanta",
+    "lunch": "Kevin Rathbun Steak, Atlanta",
+    "dinner": "The Capital Grille, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 08:00 to 08:30, nearest transit: MONROE DR @ PARK DR, 114.55m away; Stoney River Steakhouse and Grill, visit from 09:00 to 09:40, nearest transit: CUMBERLAND TRANSFER CENTER, 388.91m away; Centennial Olympic Park, visit from 10:10 to 12:10, nearest transit: MARIETTA ST @ PARK AVE WEST, 143.86m away; Kevin Rathbun Steak, visit from 13:40 to 14:20, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 465.73m away; The Capital Grille, visit from 18:33 to 19:13, nearest transit: PEACHTREE RD @ E PACES FERRY RD NE, 94.17m away"
+  }
+]

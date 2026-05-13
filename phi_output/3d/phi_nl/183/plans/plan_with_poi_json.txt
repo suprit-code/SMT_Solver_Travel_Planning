@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sacramento to Atlanta",
+    "transportation": "Flight Number: F0311431, from Sacramento to Atlanta, Departure Time: 06:54, Arrival Time: 13:55",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 14:25 to 14:55, nearest transit: CASCADE AVE SW @ 1113, 82.40m away; Zoo Atlanta, visit from 15:25 to 17:25, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; Home Grown, visit from 19:00 to 19:40, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 23:00 to 08:00, nearest transit: CASCADE AVE SW @ 1113, 82.40m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Pasta Da Pulcinella, Atlanta",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "Ted's Montana Grill, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 08:00 to 08:30, nearest transit: CASCADE AVE SW @ 1113, 82.40m away; Pasta Da Pulcinella, visit from 09:00 to 09:40, nearest transit: W PEACHTREE ST @ 12TH ST, 81.90m away; Centennial Olympic Park, visit from 10:10 to 12:10, nearest transit: MARIETTA ST @ PARK AVE WEST, 143.86m away; Aviva by Kameel, visit from 13:40 to 14:20, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away; Ted's Montana Grill, visit from 19:00 to 19:40, nearest transit: LUCKIE ST @ CONE ST, 67.84m away; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 23:00 to 08:00, nearest transit: CASCADE AVE SW @ 1113, 82.40m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Sacramento",
+    "transportation": "Flight Number: F2495358, from Atlanta to Sacramento, Departure Time: 16:56, Arrival Time: 18:38",
+    "breakfast": "Fox Bros. Bar-B-Q, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "-",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 08:00 to 08:30, nearest transit: CASCADE AVE SW @ 1113, 82.40m away; Fox Bros. Bar-B-Q, visit from 09:00 to 09:40, nearest transit: MORELAND AVE @ 299, 219.31m away; Atlanta History Center, visit from 10:10 to 12:10, nearest transit: PEACHTREE RD @ BUCKHEAD AVE NE, 610.21m away; Cafe Agora, visit from 13:40 to 14:20, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Ontario to Sacramento",
+    "transportation": "Flight Number: F0097128, from Ontario to Sacramento, Departure Time: 16:00, Arrival Time: 17:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Tres Hermanas Mexican Restaurant, Sacramento",
+    "attraction": "-",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 17:48 to 20:15, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Tres Hermanas Mexican Restaurant, Sacramento, visit from 20:45 to 22:44, ; Private Guest Bed 'N Bath near Downtown, stay from 23:14 to 07:14, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Tipsy Putt, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "Mulvaney's Building & Loan, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 07:44 to 08:14, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Tipsy Putt, Sacramento, visit from 08:44 to 09:59, ; Nopalitos, Sacramento, visit from 14:00 to 15:00, ; California State Capitol Museum, Sacramento, visit from 15:30 to 20:15, ; Mulvaney's Building & Loan, Sacramento, visit from 20:45 to 22:40, ; Private Guest Bed 'N Bath near Downtown, stay from 23:10 to 07:10, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to San Francisco",
+    "transportation": "Flight Number: F2376946, from Sacramento to San Francisco, Departure Time: 10:00, Arrival Time: 10:48",
+    "breakfast": "Echo and Rig, Sacramento",
+    "lunch": "Capital Restaurant, San Francisco",
+    "dinner": "The Codmother Fish & Chips, San Francisco",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "Monroe Studio 303, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 07:40 to 08:10, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Echo and Rig, Sacramento, visit from 08:40 to 09:30, ; Monroe Studio 303, stay from 11:18 to 13:30, nearest transit: Civic Center @ 7th (Yotel), 1571.78m away; Capital Restaurant, San Francisco, visit from 14:00 to 15:00, ; Alcatraz Island, San Francisco, visit from 15:30 to 20:15, ; The Codmother Fish & Chips, San Francisco, visit from 20:45 to 22:15, ; Monroe Studio 303, stay from 22:45 to 06:45, nearest transit: Civic Center @ 7th (Yotel), 1571.78m away"
+  },
+  {
+    "days": 4,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "lunch": "Mo's Grill, San Francisco",
+    "dinner": "Quince, San Francisco",
+    "attraction": "Japanese Tea Garden, San Francisco",
+    "accommodation": "Monroe Studio 303, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Monroe Studio 303, stay from 07:15 to 07:45, nearest transit: Civic Center @ 7th (Yotel), 1571.78m away; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 08:15 to 09:29, ; Japanese Tea Garden, San Francisco, visit from 09:59 to 13:29, ; Mo's Grill, San Francisco, visit from 13:59 to 14:59, ; Quince, San Francisco, visit from 19:00 to 23:10, ; Monroe Studio 303, stay from 23:40 to 07:40, nearest transit: Civic Center @ 7th (Yotel), 1571.78m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from San Francisco to Ontario",
+    "transportation": "Flight Number: F0595670, from San Francisco to Ontario, Departure Time: 18:19, Arrival Time: 19:31",
+    "breakfast": "R&G Lounge, San Francisco",
+    "lunch": "Mersea Restaurant & Bar, San Francisco",
+    "dinner": "-",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Monroe Studio 303, stay from 08:10 to 08:40, nearest transit: Civic Center @ 7th (Yotel), 1571.78m away; R&G Lounge, San Francisco, visit from 09:10 to 10:00, ; Lands End, San Francisco, visit from 10:30 to 14:00, ; Mersea Restaurant & Bar, San Francisco, visit from 14:30 to 15:30, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Montgomery to Washington",
+    "transportation": "Self-driving, from Montgomery to Washington, duration: 906.42, distance: 1284.9725, cost: 64",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 23:31 to 23:37, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away; A Cozy room, stay from 00:02 to 08:00, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Thip Khao, Washington",
+    "lunch": "Martin's Tavern, Washington",
+    "dinner": "Founding Farmers Fishers & Bakers, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 08:00 to 08:30, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away; Thip Khao, visit from 08:55 to 09:35, nearest transit: COLUMBIA HEIGHTS METRORAIL STATION - NE CORNER OF 14TH AND IRVING STS. NW, 448.99m away; National Mall, visit from 10:00 to 12:00, nearest transit: Entrance  A - 7 St,  Maryland Av, 386.15m away; Martin's Tavern, visit from 13:35 to 14:15, nearest transit: FOGGY BOTTOM, 1252.37m away; Founding Farmers Fishers & Bakers, visit from 19:00 to 19:40, nearest transit: FOGGY BOTTOM, 776.65m away; A Cozy room, stay from 20:05 to 08:00, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Montgomery",
+    "transportation": "Self-driving, from Washington to Montgomery, duration: 910.0733333333334, distance: 1287.7221000000002, cost: 64",
+    "breakfast": "Unconventional Diner, Washington",
+    "lunch": "Ambar Shaw, Washington",
+    "dinner": "Smoke & Mirrors Rooftop Bar, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 08:00 to 08:30, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away; Unconventional Diner, visit from 08:55 to 09:35, nearest transit: MT VERNON SQ, 135.98m away; United States Botanic Garden, visit from 10:00 to 12:00, nearest transit: FEDERAL CENTER SW, 414.35m away; Ambar Shaw, visit from 13:35 to 14:15, nearest transit: SHAW-HOWARD U, 212.79m away; Smoke & Mirrors Rooftop Bar, visit from 19:00 to 19:40, nearest transit: NAVY YARD-BALLPARK, 408.46m away"
+  }
+]

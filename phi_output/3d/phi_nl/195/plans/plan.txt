@@ -1,0 +1,6 @@
+Destination cities: ['Wilmington'],
+Transportation dates: ['2024-11-02', '2024-11-04'],
+Transportation methods between cities: ['Self-driving, from Boston to Wilmington, duration: 962.64, distance: 1302.4002, cost: 65', 'Self-driving, from Wilmington to Boston, duration: 960.1366666666668, distance: 1295.6133, cost: 64'],
+Restaurants (3 meals per day): ['-', '-', '-', "Flaming Amy's Burrito Barn, Wilmington", 'The Wilmington, Wilmington', 'Copper Penny, Wilmington', "Winnie's Tavern, Wilmington", 'The Anchor, Wilmington', "Casey's Buffet Barbecue & Home Cookin, Wilmington"],
+Attractions (1 per day): ['-', 'Battleship North Carolina, Wilmington', 'Burgwin-Wright House and Gardens, Wilmington'],
+Accommodations (1 per city): ['Harbor Oaks, rest, relax, renew..., Wilmington']

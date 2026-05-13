@@ -1,0 +1,6 @@
+Destination cities: ['Baltimore'],
+Transportation dates: ['2024-11-01', '2024-11-03'],
+Transportation methods between cities: ['Flight Number: F1596850, from Indianapolis to Baltimore, Departure Time: 10:21, Arrival Time: 11:52', 'Flight Number: F1564950, from Baltimore to Indianapolis, Departure Time: 17:05, Arrival Time: 18:38'],
+Restaurants (3 meals per day): ['-', '-', 'Magdalena, A Maryland Bistro, Baltimore', 'Blue Moon Cafe, Baltimore', 'Tagliata, Baltimore', 'Restaurante Tio Pepe, Baltimore', 'Sotto Sopra, Baltimore', 'La Scala, Baltimore', '-'],
+Attractions (1 per day): ['The Maryland Zoo, Baltimore', 'Fort McHenry National Monument And Historic Shrine, Baltimore', 'National Aquarium, Baltimore'],
+Accommodations (1 per city): ['The basement, Baltimore']

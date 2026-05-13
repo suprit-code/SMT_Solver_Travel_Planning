@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-22', '2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['taxi, from Seattle to San Diego, duration: 1428.7183333333337, distance: 2018.8195, cost: 2018', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Seattle, duration: 698.065, distance: 953.8918, cost: 953'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Morning Glory, San Diego', 'El Agave Restaurant & Tequileria, San Diego', "Filippi's Pizza Grotto Little Italy, San Diego", 'Pacific Beach AleHouse, San Diego', 'Cowboy Star, San Diego', "Lou & Mickey's, San Diego", 'Grand Buffet, Redding', 'Fratelli’s Pizza Parlour, Redding', 'Priya Indian Cuisine, Redding', "Chu's Too, Redding", "Trendy's, Redding", 'Janya Thai Cusine, Redding'],
+Attractions (1 per day): ['-', 'Birch Aquarium at Scripps, San Diego', 'USS Midway Museum, San Diego', 'Turtle Bay Exploration Park, Redding', 'Redding Civic Auditorium, Redding'],
+Accommodations (1 per city): ['Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego', 'Charming modern studio space, bethel friendly, Redding']

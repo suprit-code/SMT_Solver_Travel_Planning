@@ -1,0 +1,5 @@
+
+                for accommodation_index in range(len(accommodations)):
+                    room_type = "Entire home/apt"
+                    house_rules = ["No pets", "No smoking", "No children under 10"]
+                

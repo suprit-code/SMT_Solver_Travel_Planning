@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Greensboro",
+    "transportation": "Flight Number: F3065809, from Washington to Greensboro, Departure Time: 13:44, Arrival Time: 14:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mythos Grill, Greensboro",
+    "attraction": "-",
+    "accommodation": "New!COZY!Ranch,3bed /2bath Private  wooded yard!, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "New!COZY!Ranch,3bed /2bath Private  wooded yard!, stay from 15:18 to 20:15, nearest transit: Battleground/Brassfield, 1545.29m away; Mythos Grill, Greensboro, visit from 20:45 to 22:39, ; New!COZY!Ranch,3bed /2bath Private  wooded yard!, stay from 23:09 to 07:09, nearest transit: Battleground/Brassfield, 1545.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "B. Christopher's, Greensboro",
+    "lunch": "Print Works Bistro, Greensboro",
+    "dinner": "Captain Bill's Seafood & Steak, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "New!COZY!Ranch,3bed /2bath Private  wooded yard!, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "New!COZY!Ranch,3bed /2bath Private  wooded yard!, stay from 07:39 to 08:09, nearest transit: Battleground/Brassfield, 1545.29m away; B. Christopher's, Greensboro, visit from 08:39 to 09:29, ; Print Works Bistro, Greensboro, visit from 14:00 to 15:00, ; Carolina Theatre, Greensboro, visit from 15:30 to 19:00, ; Captain Bill's Seafood & Steak, Greensboro, visit from 19:30 to 20:45, ; New!COZY!Ranch,3bed /2bath Private  wooded yard!, stay from 21:30 to 05:30, nearest transit: Battleground/Brassfield, 1545.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Washington",
+    "transportation": "Taxi from Greensboro to Washington, duration: 357.15833333333336, distance: 496.6706, cost : 496.0",
+    "breakfast": "1618 West Seafood Grill, Greensboro",
+    "lunch": "MJ's Steak and Seafood, Greensboro",
+    "dinner": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "New!COZY!Ranch,3bed /2bath Private  wooded yard!, stay from 06:00 to 06:30, nearest transit: Battleground/Brassfield, 1545.29m away; 1618 West Seafood Grill, Greensboro, visit from 08:00 to 08:50, ; International Civil Rights Center & Museum, Greensboro, visit from 09:20 to 12:50, ; MJ's Steak and Seafood, Greensboro, visit from 13:20 to 14:20, ; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 19:00 to 20:15, "
+  }
+]

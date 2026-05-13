@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Juan to Charlotte",
+    "transportation": "Flight Number: F0743349, from San Juan to Charlotte, Departure Time: 15:08, Arrival Time: 17:41",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "Lovely Studio Apartment for 2 with a patio garden, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlottes of Filey, Charlotte",
+    "lunch": "Charlotte Bakery, Charlotte",
+    "dinner": "Pinky's Westside Grill, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "Lovely Studio Apartment for 2 with a patio garden, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Lovely Studio Apartment for 2 with a patio garden, stay from 08:00 to 08:30, nearest transit: Monroe Rd & Pinafore Dr, 991.95m away; Charlottes of Filey, visit from 08:55 to 09:35, nearest transit: Beaty St @ 866, 6318036.82m away; Truist Field, visit from 10:00 to 12:00, nearest transit: 4th St & Graham St, 146.25m away; Charlotte Bakery, visit from 13:35 to 14:15, nearest transit: White Street Park and Ride, 1016826.02m away; Pinky's Westside Grill, visit from 19:00 to 19:40, nearest transit: Morehead St & Grandin Rd, 166.98m away; Lovely Studio Apartment for 2 with a patio garden, stay from 23:00 to 08:00, nearest transit: Monroe Rd & Pinafore Dr, 991.95m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to San Juan",
+    "transportation": "Flight Number: F1924290, from Charlotte to San Juan, Departure Time: 11:02, Arrival Time: 14:22",
+    "breakfast": "Charlotte's Eats and Sweets, Charlotte",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lovely Studio Apartment for 2 with a patio garden, stay from 08:00 to 08:30, nearest transit: Monroe Rd & Pinafore Dr, 991.95m away; Charlotte's Eats and Sweets, visit from 08:55 to 09:35, nearest transit: Oakland St & Main Ave, 991745.06m away"
+  }
+]

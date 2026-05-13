@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Louisville",
+    "transportation": "Flight Number: F1028493, from Miami to Louisville, Departure Time: 21:07, Arrival Time: 00:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "1 bedroom efficiency kitchenette, Louisville",
+    "event": "-",
+    "point_of_interest_list": "1 bedroom efficiency kitchenette, stay from 00:33 to 01:03, nearest transit: Bono @ Erni, 486.18m away; 1 bedroom efficiency kitchenette, stay from 01:33 to 08:00, nearest transit: Bono @ Erni, 486.18m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Louisville",
+    "transportation": "-",
+    "breakfast": "Down One Bourbon Bar & Restaurant, Louisville",
+    "lunch": "Momma's Mustard, Pickles & BBQ, Louisville",
+    "dinner": "Wild Eggs, Louisville",
+    "attraction": "-",
+    "accommodation": "1 bedroom efficiency kitchenette, Louisville",
+    "event": "-",
+    "point_of_interest_list": "1 bedroom efficiency kitchenette, stay from 08:30 to 09:00, nearest transit: Bono @ Erni, 486.18m away; Down One Bourbon Bar & Restaurant, Louisville, visit from 09:39 to 10:29, ; Momma's Mustard, Pickles & BBQ, Louisville, visit from 14:30 to 15:30, ; Wild Eggs, Louisville, visit from 19:31 to 20:46, ; 1 bedroom efficiency kitchenette, stay from 21:16 to 05:16, nearest transit: Bono @ Erni, 486.18m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Louisville to Miami",
+    "transportation": "Flight Number: F2585714, from Louisville to Miami, Departure Time: 19:33, Arrival Time: 22:00",
+    "breakfast": "Doc Crow's, Louisville",
+    "lunch": "The Joy Luck, Louisville",
+    "dinner": "-",
+    "attraction": "Louisville Slugger Museum & Factory, Louisville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "1 bedroom efficiency kitchenette, stay from 06:00 to 07:30, nearest transit: Bono @ Erni, 486.18m away; Doc Crow's, Louisville, visit from 08:00 to 08:50, ; The Joy Luck, Louisville, visit from 12:51 to 15:00, ; Louisville Slugger Museum & Factory, Louisville, visit from 15:30 to 19:03, "
+  }
+]

@@ -1,0 +1,1 @@
+Design a 5-day travel itinerary for 2 people starting from Ontario and visiting 2 cities in New York between November 1st and November 5th, 2024. The budget is $8,400. Accommodations should be an entire home, and transportation should exclude flights.

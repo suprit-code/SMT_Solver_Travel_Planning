@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Tampa",
+    "transportation": "Self-driving from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost : 52.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Newly Renovated Private Eco Cottage, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Private Eco Cottage, stay from 19:45 to 20:15, nearest transit: U Mall to MSC, 4913.52m away; Newly Renovated Private Eco Cottage, stay from 22:58 to 06:58, nearest transit: U Mall to MSC, 4913.52m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Yummy House China Bistro, Tampa",
+    "lunch": "Bern's Steak House, Tampa",
+    "dinner": "Olivia, Tampa",
+    "attraction": "Tampa Riverwalk, Tampa",
+    "accommodation": "Newly Renovated Private Eco Cottage, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Private Eco Cottage, stay from 07:28 to 07:58, nearest transit: U Mall to MSC, 4913.52m away; Yummy House China Bistro, Tampa, visit from 08:28 to 09:29, ; Tampa Riverwalk, Tampa, visit from 09:59 to 13:29, ; Bern's Steak House, Tampa, visit from 13:59 to 14:59, ; Olivia, Tampa, visit from 19:00 to 20:15, ; Newly Renovated Private Eco Cottage, stay from 20:45 to 04:45, nearest transit: U Mall to MSC, 4913.52m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Raleigh",
+    "transportation": "Self-driving from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost : 51.0",
+    "breakfast": "Curry Leaves Indian Cuisine, Tampa",
+    "lunch": "Samurai Blue Sushi & Sake Bar, Tampa",
+    "dinner": "Bella's Italian Cafe, Tampa",
+    "attraction": "Raymond James Stadium, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Private Eco Cottage, stay from 06:00 to 06:30, nearest transit: U Mall to MSC, 4913.52m away; Curry Leaves Indian Cuisine, Tampa, visit from 08:00 to 08:50, ; Raymond James Stadium, Tampa, visit from 09:20 to 12:50, ; Samurai Blue Sushi & Sake Bar, Tampa, visit from 14:30 to 15:30, ; Bella's Italian Cafe, Tampa, visit from 19:31 to 20:46, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to Charlotte",
+    "transportation": "taxi, from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost: 1427",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Quiet Cozy Stay in CLT, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 08:00 to 08:30, nearest transit: Tryon St & Choate Rd, 121.01m away; Quiet Cozy Stay in CLT, stay from 23:00 to 08:00, nearest transit: Tryon St & Choate Rd, 121.01m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Tavern, Charlotte",
+    "lunch": "Midwood Smokehouse, Charlotte",
+    "dinner": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "Quiet Cozy Stay in CLT, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 08:00 to 08:30, nearest transit: Tryon St & Choate Rd, 121.01m away; Charlotte's Tavern, visit from 09:00 to 09:40, nearest transit: Oakland St & Main Ave, 3482493.72m away; Levine Museum of the New South, visit from 10:10 to 12:10, nearest transit: Tryon St & 2nd St, 38.18m away; Midwood Smokehouse, visit from 13:40 to 14:20, nearest transit: Central Ave & Clement Ave, 40.68m away; Rooster's Wood-Fired Kitchen - Uptown, visit from 19:00 to 19:40, nearest transit: Trade St & College St, 139.39m away; Quiet Cozy Stay in CLT, stay from 23:00 to 08:00, nearest transit: Tryon St & Choate Rd, 121.01m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Martha's Vineyard",
+    "transportation": "Flight Number: F1695043, from Charlotte to Martha's Vineyard, Departure Time: 18:55, Arrival Time: 20:46",
+    "breakfast": "Charlotte Bakery, Charlotte",
+    "lunch": "Charlotte & Fritz, Charlotte",
+    "dinner": "-",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Quiet Cozy Stay in CLT, stay from 08:00 to 08:30, nearest transit: Tryon St & Choate Rd, 121.01m away; Charlotte Bakery, visit from 09:00 to 09:40, nearest transit: White Street Park and Ride, 1016826.02m away; Mint Museum Uptown, visit from 10:10 to 12:10, nearest transit: Tryon St & Stonewall St, 100.42m away; Charlotte & Fritz, visit from 13:40 to 14:20, nearest transit: Beaty St @ 866, 7233404.02m away"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F0814088, from Seattle to San Diego, Departure Time: 06:13, Arrival Time: 08:39",
+    "breakfast": "-",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "Old Town San Diego, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 09:09 to 10:00, nearest transit: Upas St & 30th St, 403.13m away; Old Town San Diego, San Diego, visit from 10:30 to 14:00, ; Born & Raised, San Diego, visit from 14:30 to 16:44, ; Addison Restaurant, San Diego, visit from 20:45 to 22:10, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 22:40 to 06:40, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "The Butcher Shop, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:10 to 07:40, nearest transit: Upas St & 30th St, 403.13m away; Lou & Mickey's, San Diego, visit from 08:10 to 09:00, ; Birch Aquarium at Scripps, San Diego, visit from 09:30 to 14:00, ; The Butcher Shop, San Diego, visit from 14:30 to 15:30, ; Juniper and Ivy, San Diego, visit from 19:31 to 20:46, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 21:16 to 05:30, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Cafe Coyote, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Newly remodeled studio w/private entrance, 2 beds, Redding",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 06:00 to 07:30, nearest transit: Upas St & 30th St, 403.13m away; Cafe Coyote, San Diego, visit from 08:00 to 08:50, ; Newly remodeled studio w/private entrance, 2 beds, stay from 22:04 to 23:10, nearest transit: Park Marina Dr at Olympus Ave, 284.81m away; Newly remodeled studio w/private entrance, 2 beds, stay from 23:40 to 07:40, nearest transit: Park Marina Dr at Olympus Ave, 284.81m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Sweetie's Cafe & Catering, Redding",
+    "lunch": "Logan's Roadhouse, Redding",
+    "dinner": "Dam Burger, Redding",
+    "attraction": "Redding Civic Auditorium, Redding",
+    "accommodation": "Newly remodeled studio w/private entrance, 2 beds, Redding",
+    "event": "-",
+    "point_of_interest_list": "Newly remodeled studio w/private entrance, 2 beds, stay from 08:10 to 08:40, nearest transit: Park Marina Dr at Olympus Ave, 284.81m away; Sweetie's Cafe & Catering, Redding, visit from 09:10 to 10:00, ; Redding Civic Auditorium, Redding, visit from 10:30 to 14:00, ; Logan's Roadhouse, Redding, visit from 14:30 to 15:30, ; Dam Burger, Redding, visit from 19:31 to 20:46, ; Newly remodeled studio w/private entrance, 2 beds, stay from 21:16 to 05:16, nearest transit: Park Marina Dr at Olympus Ave, 284.81m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Seattle",
+    "transportation": "Taxi from Redding to Seattle, duration: 698.065, distance: 953.8918, cost : 953.0",
+    "breakfast": "View 202, Redding",
+    "lunch": "Vintage Public House, Redding",
+    "dinner": "Jeff's California Cattle Company Restaurant, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Newly remodeled studio w/private entrance, 2 beds, stay from 06:00 to 06:30, nearest transit: Park Marina Dr at Olympus Ave, 284.81m away; View 202, Redding, visit from 08:00 to 08:50, ; Turtle Bay Exploration Park, Redding, visit from 09:20 to 12:50, ; Vintage Public House, Redding, visit from 14:30 to 15:30, ; Jeff's California Cattle Company Restaurant, Redding, visit from 19:31 to 20:46, "
+  }
+]

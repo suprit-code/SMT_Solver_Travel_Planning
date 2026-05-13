@@ -1,0 +1,6 @@
+Destination cities: ['San Diego'],
+Transportation dates: ['2024-11-02', '2024-11-04'],
+Transportation methods between cities: ['Flight Number: F1175204, from Everett to San Diego, Departure Time: 09:16, Arrival Time: 12:14', 'Flight Number: F0509620, from San Diego to Everett, Departure Time: 15:16, Arrival Time: 18:20'],
+Restaurants (3 meals per day): ['-', 'The Fishery, San Diego', 'Pacific Beach AleHouse, San Diego', 'Born & Raised, San Diego', 'Cowboy Star, San Diego', 'Juniper and Ivy, San Diego', "Ruth's Chris Steak House, San Diego", "Mimmo's, San Diego", '-'],
+Attractions (1 per day): ['San Diego Zoo, San Diego', 'Torrey Pines State Natural Reserve, San Diego', 'La Jolla Shores Park, San Diego'],
+Accommodations (1 per city): ['Safe Hip Quiet GARDEN STUDIO / Northpark, San Diego']

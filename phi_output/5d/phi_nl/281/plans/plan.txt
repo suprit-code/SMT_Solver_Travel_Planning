@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-05', '2024-11-07', '2024-11-09'],
+Transportation methods between cities: ['Flight Number: F0195816, from Dallas to San Diego, Departure Time: 16:53, Arrival Time: 17:54', 'taxi, from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost: 810', 'Flight Number: F2845838, from Sacramento to Dallas, Departure Time: 14:55, Arrival Time: 20:09'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Din Tai Fung, San Diego', 'Juniper and Ivy, San Diego', 'Born & Raised, San Diego', "Lou & Mickey's, San Diego", 'Addison Restaurant, San Diego', 'Civico 1845, San Diego', 'Grange Restaurant & Bar, Sacramento', 'Ella Dining Room & Bar, Sacramento', "Scott's Seafood on The River, Sacramento", 'The Waterboy, Sacramento', 'The Kitchen Restaurant, Sacramento', 'The Firehouse Restaurant, Sacramento'],
+Attractions (1 per day): ['Cabrillo National Monument, San Diego', 'Sunset Cliffs Natural Park, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Capitol Park, Sacramento', 'California State Capitol Museum, Sacramento'],
+Accommodations (1 per city): ['Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego', '1 or 2 Bedrooms next to downtown Sacramento/River, Sacramento']

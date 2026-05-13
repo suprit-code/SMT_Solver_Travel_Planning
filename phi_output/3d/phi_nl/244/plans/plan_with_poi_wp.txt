@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Wichita",
+    "transportation": "Flight Number: F2463339, from Houston to Wichita, Departure Time: 16:19, Arrival Time: 17:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Beacon Restaurant, Wichita",
+    "attraction": "-",
+    "accommodation": "Cozy Spacious Wizard of Oz themed Tiny House, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Cozy Spacious Wizard of Oz themed Tiny House, stay from 18:22 to 18:52, nearest transit: Ross Pkwy and Hillside IB, 736.33m away; Beacon Restaurant, Wichita, visit from 19:22 to 22:19, ; Cozy Spacious Wizard of Oz themed Tiny House, stay from 22:49 to 06:49, nearest transit: Ross Pkwy and Hillside IB, 736.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wichita",
+    "transportation": "-",
+    "breakfast": "George's French Bistro, Wichita",
+    "lunch": "Scotch & Sirloin, Wichita",
+    "dinner": "Chester's Chophouse and Wine Bar, Wichita",
+    "attraction": "The Keeper of the Plains, Wichita",
+    "accommodation": "Cozy Spacious Wizard of Oz themed Tiny House, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Cozy Spacious Wizard of Oz themed Tiny House, stay from 07:19 to 07:49, nearest transit: Ross Pkwy and Hillside IB, 736.33m away; George's French Bistro, Wichita, visit from 08:19 to 09:29, ; The Keeper of the Plains, Wichita, visit from 09:59 to 13:29, ; Scotch & Sirloin, Wichita, visit from 13:59 to 14:59, ; Chester's Chophouse and Wine Bar, Wichita, visit from 19:00 to 20:15, ; Cozy Spacious Wizard of Oz themed Tiny House, stay from 20:45 to 04:45, nearest transit: Ross Pkwy and Hillside IB, 736.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wichita to Houston",
+    "transportation": "Flight Number: F1088823, from Wichita to Houston, Departure Time: 16:40, Arrival Time: 18:32",
+    "breakfast": "Doo-Dah Diner, Wichita",
+    "lunch": "Puero Vallarta Mexican Restaurant, Wichita",
+    "dinner": "-",
+    "attraction": "Mid-America All-Indian Center, Wichita",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Spacious Wizard of Oz themed Tiny House, stay from 06:00 to 07:30, nearest transit: Ross Pkwy and Hillside IB, 736.33m away; Doo-Dah Diner, Wichita, visit from 08:00 to 08:50, ; Mid-America All-Indian Center, Wichita, visit from 09:20 to 12:50, ; Puero Vallarta Mexican Restaurant, Wichita, visit from 13:20 to 14:20, "
+  }
+]

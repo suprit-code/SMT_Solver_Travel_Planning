@@ -1,0 +1,6 @@
+Destination cities: ['Nashville'],
+Transportation dates: ['2024-11-22', '2024-11-24'],
+Transportation methods between cities: ['Flight Number: F0055097, from Tampa to Nashville, Departure Time: 16:27, Arrival Time: 17:08', 'Flight Number: F3131675, from Nashville to Tampa, Departure Time: 18:04, Arrival Time: 20:41'],
+Restaurants (3 meals per day): ['-', '-', '-', "Harriet's Rooftop, Nashville", 'Henley, Nashville', 'Aquarium Restaurant, Nashville', 'The Bluebird Cafe, Nashville', 'The Stillery, Nashville', '-'],
+Attractions (1 per day): ["Andrew Jackson's Hermitage, Nashville", 'Cheekwood, Nashville', 'Belmont Mansion, Nashville'],
+Accommodations (1 per city): ['Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville']

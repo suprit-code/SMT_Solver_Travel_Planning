@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Albany to Nashville",
+    "transportation": "Flight Number: F2564746, from Albany to Nashville, Departure Time: 11:10, Arrival Time: 12:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Kayne Prime, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Lofts At 30th-Nashville Charm -In West End, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 12:45 to 13:05, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; Cheekwood, visit from 13:30 to 15:30, nearest transit: HWY 70 S & BROOK HOLLOW RD EB, 833.18m away; Kayne Prime, visit from 19:00 to 19:40, nearest transit: 11TH AVE & DEMONBREUN NB, 104.79m away; Lofts At 30th-Nashville Charm -In West End, stay from 20:05 to 08:00, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Harriet's Rooftop, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Lofts At 30th-Nashville Charm -In West End, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 08:00 to 08:30, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; Harriet's Rooftop, visit from 08:55 to 09:35, nearest transit: 8TH AVE S & DEMONBREUN ST SB, 66.96m away; Belmont Mansion, visit from 10:00 to 12:00, nearest transit: WEDGEWOOD AVE & 16TH AVE EB, 92.02m away; Aquarium Restaurant, visit from 13:35 to 14:15, nearest transit: OPRY MILLS DR & GENERAL JACKSON'S, 170.74m away; Jeff Ruby's Steakhouse, Nashville, visit from 19:00 to 19:40, nearest transit: CENTRAL 4TH AVE - BAY 13, 188.66m away; Lofts At 30th-Nashville Charm -In West End, stay from 20:05 to 08:00, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Albany",
+    "transportation": "Self-driving, from Nashville to Albany, duration: 1129.86, distance: 1615.2378, cost: 80",
+    "breakfast": "Miranda Lambert's Casa Rosa, Nashville",
+    "lunch": "The Standard, Nashville",
+    "dinner": "The Chef And I, Nashville",
+    "attraction": "Gaylord Opryland Garden Conservatory, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lofts At 30th-Nashville Charm -In West End, stay from 08:00 to 08:30, nearest transit: 31ST AVE N & BURCH AVE NB, 150.57m away; Miranda Lambert's Casa Rosa, visit from 08:55 to 09:35, nearest transit: BROADWAY AVE & 3RD AVE WB, 55.84m away; Gaylord Opryland Garden Conservatory, visit from 10:00 to 12:00, nearest transit: OPRY MILLS DRIVE & WARDROBE BLDNG, 471.91m away; The Standard, visit from 13:35 to 14:15, nearest transit: 9TH AVE N & COMMERCE ST SB, 91.13m away; The Chef And I, visit from 19:00 to 19:40, nearest transit: 21ST AVE & BROADWAY AVE SB, 157.63m away"
+  }
+]

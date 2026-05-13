@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Sacramento",
+    "transportation": "Flight Number: F1925741, from Charlotte to Sacramento, Departure Time: 19:17, Arrival Time: 21:57",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Room with private bathroom, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Zocalo, Sacramento",
+    "lunch": "Orphan, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Room with private bathroom, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Room with private bathroom, stay from 08:00 to 08:30, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away; Zocalo, visit from 09:00 to 09:40, nearest transit: 19TH ST & CAPITOL AVE (SB), 112.06m away; California State Capitol Museum, visit from 10:10 to 12:10, nearest transit: Archives Plaza Station (WB), 196.45m away; Orphan, visit from 13:40 to 14:20, nearest transit: MCKINLEY BLVD & 35TH ST (WB), 231.17m away; Nopalitos, visit from 19:00 to 19:40, nearest transit: 56TH ST & H ST (NB), 106.44m away; Room with private bathroom, stay from 23:00 to 08:00, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to Charlotte",
+    "transportation": "Flight Number: F3275332, from Sacramento to Charlotte, Departure Time: 22:13, Arrival Time: 05:54",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room with private bathroom, stay from 08:00 to 08:30, nearest transit: STOCKTON BLVD & SAN FRANCISCO BLVD (NB), 172.34m away"
+  }
+]

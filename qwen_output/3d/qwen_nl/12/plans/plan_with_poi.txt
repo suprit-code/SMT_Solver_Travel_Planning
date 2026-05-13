@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Charleston",
+    "transportation": "Flight Number: F0388998, from Miami to Charleston, Departure Time: 16:02, Arrival Time: 17:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 18:18 to 18:48, nearest transit: Broad St / Church St, 4048.31m away; The Backpacker, stay from 21:03 to 05:03, nearest transit: Broad St / Church St, 4048.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Poogan's Porch, Charleston",
+    "lunch": "Stars Restaurant-Rooftop & Grill Room, Charleston",
+    "dinner": "Amen Street Fish & Raw Bar, Charleston",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 06:00 to 06:30, nearest transit: Broad St / Church St, 4048.31m away; Poogan's Porch, Charleston, visit from 08:37 to 09:27, ; Stars Restaurant-Rooftop & Grill Room, Charleston, visit from 13:28 to 14:28, ; Charleston Waterfront Park, Charleston, visit from 14:58 to 18:28, ; Amen Street Fish & Raw Bar, Charleston, visit from 19:00 to 20:15, ; The Backpacker, stay from 20:45 to 05:30, nearest transit: Broad St / Church St, 4048.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Miami",
+    "transportation": "Self-driving from Charleston to Miami, duration: 661.9983333333333, distance: 935.2003, cost : 46.0",
+    "breakfast": "Stella's, Charleston",
+    "lunch": "Frannie & The Fox, Charleston",
+    "dinner": "Eli's Table, Charleston",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 06:00 to 06:30, nearest transit: Broad St / Church St, 4048.31m away; Stella's, Charleston, visit from 08:00 to 08:50, ; Magnolia Plantation & Gardens, Charleston, visit from 09:20 to 12:50, ; Frannie & The Fox, Charleston, visit from 13:59 to 14:59, ; Eli's Table, Charleston, visit from 19:00 to 20:15, "
+  }
+]

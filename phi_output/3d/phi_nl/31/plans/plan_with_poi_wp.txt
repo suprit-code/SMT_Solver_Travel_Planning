@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Las Vegas",
+    "transportation": "Flight Number: F3721420, from Washington to Las Vegas, Departure Time: 10:19, Arrival Time: 12:14",
+    "breakfast": "-",
+    "lunch": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "dinner": "Vic & Anthony's Steakhouse, Las Vegas",
+    "attraction": "The Grand Canal Shoppes at The Venetian Resort, Las Vegas",
+    "accommodation": "Renovated Luxury Studio Suite in Tower 3, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Renovated Luxury Studio Suite in Tower 3, stay from 12:44 to 13:30, nearest transit: The Strat, 4591.41m away; Gordon Ramsay Hell's Kitchen, Las Vegas, visit from 14:00 to 15:00, ; The Grand Canal Shoppes at The Venetian Resort, Las Vegas, visit from 15:30 to 20:15, ; Vic & Anthony's Steakhouse, Las Vegas, visit from 20:45 to 22:37, ; Renovated Luxury Studio Suite in Tower 3, stay from 23:07 to 07:07, nearest transit: The Strat, 4591.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "THE Steak House, Las Vegas",
+    "attraction": "Fashion Show Las Vegas, Las Vegas",
+    "accommodation": "Renovated Luxury Studio Suite in Tower 3, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Renovated Luxury Studio Suite in Tower 3, stay from 07:37 to 08:07, nearest transit: The Strat, 4591.41m away; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 08:37 to 09:59, ; Eggscellent, Las Vegas, visit from 14:00 to 15:00, ; Fashion Show Las Vegas, Las Vegas, visit from 15:30 to 19:00, ; THE Steak House, Las Vegas, visit from 19:30 to 23:30, ; Renovated Luxury Studio Suite in Tower 3, stay from 00:00 to 08:00, nearest transit: The Strat, 4591.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Washington",
+    "transportation": "Flight Number: F0562036, from Las Vegas to Washington, Departure Time: 13:12, Arrival Time: 20:23",
+    "breakfast": "Lemongrass, Las Vegas",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Renovated Luxury Studio Suite in Tower 3, stay from 08:30 to 09:00, nearest transit: The Strat, 4591.41m away; Lemongrass, Las Vegas, visit from 09:30 to 10:20, "
+  }
+]

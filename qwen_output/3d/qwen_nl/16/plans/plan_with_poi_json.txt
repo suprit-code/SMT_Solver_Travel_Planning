@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Las Vegas",
+    "transportation": "Flight Number: F1672101, from Cleveland to Las Vegas, Departure Time: 15:03, Arrival Time: 16:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Garden Court, Las Vegas",
+    "attraction": "The Las Vegas Strip, Las Vegas",
+    "accommodation": "Private Room Next to Strip, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Eiffel Tower Restaurant, Las Vegas",
+    "attraction": "Eiffel Tower Viewing Deck, Las Vegas",
+    "accommodation": "Private Room Next to Strip, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Room Next to Strip, stay from 08:00 to 08:30, nearest transit: The Strat, 1578.93m away; Golden Steer Steakhouse Las Vegas, visit from 08:55 to 09:35, nearest transit: The Strat, 555.77m away; Eiffel Tower Viewing Deck, visit from 10:00 to 12:00, nearest transit: The Strat, 4151.01m away; Eggscellent, visit from 13:35 to 14:15, nearest transit: The Strat, 4208.46m away; Eiffel Tower Restaurant, visit from 19:00 to 19:40, nearest transit: The Strat, 4101.83m away; Private Room Next to Strip, stay from 20:05 to 08:00, nearest transit: The Strat, 1578.93m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Cleveland",
+    "transportation": "Flight Number: F1336792, from Las Vegas to Cleveland, Departure Time: 22:15, Arrival Time: 05:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Room Next to Strip, stay from 08:00 to 08:30, nearest transit: The Strat, 1578.93m away"
+  }
+]

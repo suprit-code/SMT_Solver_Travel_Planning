@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to Baltimore",
+    "transportation": "Flight Number: F2677850, from Louisville to Baltimore, Departure Time: 05:37, Arrival Time: 07:05",
+    "breakfast": "-",
+    "lunch": "The Abbey Burger Bistro, Baltimore",
+    "dinner": "The Food Market, Baltimore",
+    "attraction": "Baltimore Museum of Art, Baltimore",
+    "accommodation": "Romantic Hot Tub Getaway, Walk to Fells Point, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Romantic Hot Tub Getaway, Walk to Fells Point, stay from 07:35 to 08:30, nearest transit: JOHNS HOPKINS STATION (METRO), 1084.47m away; Baltimore Museum of Art, Baltimore, visit from 09:00 to 14:00, ; The Abbey Burger Bistro, Baltimore, visit from 14:30 to 16:44, ; The Food Market, Baltimore, visit from 20:45 to 22:43, ; Romantic Hot Tub Getaway, Walk to Fells Point, stay from 23:13 to 07:13, nearest transit: JOHNS HOPKINS STATION (METRO), 1084.47m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Alexander's Tavern, Baltimore",
+    "lunch": "Chiapparelli's Restaurant, Baltimore",
+    "dinner": "Tagliata, Baltimore",
+    "attraction": "B&O Railroad Museum, Baltimore",
+    "accommodation": "Romantic Hot Tub Getaway, Walk to Fells Point, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Romantic Hot Tub Getaway, Walk to Fells Point, stay from 07:43 to 08:13, nearest transit: JOHNS HOPKINS STATION (METRO), 1084.47m away; Alexander's Tavern, Baltimore, visit from 08:43 to 09:33, ; B&O Railroad Museum, Baltimore, visit from 10:03 to 13:33, ; Chiapparelli's Restaurant, Baltimore, visit from 14:03 to 15:03, ; Tagliata, Baltimore, visit from 19:04 to 20:19, ; Romantic Hot Tub Getaway, Walk to Fells Point, stay from 20:49 to 07:39, nearest transit: JOHNS HOPKINS STATION (METRO), 1084.47m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Louisville",
+    "transportation": "Taxi from Baltimore to Louisville, duration: 672.4366666666666, distance: 981.785, cost : 981.0",
+    "breakfast": "Cinghiale, Baltimore",
+    "lunch": "Thames Street Oyster House, Baltimore",
+    "dinner": "La Scala, Baltimore",
+    "attraction": "Sagamore Spirit Distillery, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Romantic Hot Tub Getaway, Walk to Fells Point, stay from 08:09 to 08:39, nearest transit: JOHNS HOPKINS STATION (METRO), 1084.47m away; Cinghiale, Baltimore, visit from 09:09 to 09:59, ; Thames Street Oyster House, Baltimore, visit from 14:00 to 15:00, ; Sagamore Spirit Distillery, Baltimore, visit from 15:30 to 19:00, ; La Scala, Baltimore, visit from 19:30 to 20:45, "
+  }
+]

@@ -1,0 +1,59 @@
+
+                def run_event_search(city_ids):
+                    events = {}
+                    for city_id in city_ids:
+                        # Assume EventSearch returns a list of events for each city
+                        events[city_id] = ["Event1", "Event2", "Event3", "Event4", "Event5", "Event6", "Event7"]
+                    return events
+                
+                def set_event_in_which_city(events, city_ids):
+                    event_in_which_city = {}
+                    for i, city_id in enumerate(city_ids):
+                        if i < len(city_ids) - 1:
+                            event_in_which_city[i] = city_id if i % 2 == 0 else city_ids[i + 1]
+                        else:
+                            event_in_which_city[i] = city_id
+                    return event_in_which_city
+                
+                def set_event_index(event_in_which_city, events):
+                    event_index = {}
+                    for key, city_id in event_in_which_city.items():
+                        event_index[key] = events[city_id][key]
+                    return event_index
+                
+                def define_category_score(category):
+                    category_score = {"Concerts & Shows": 5, "Events": 4}
+                    return category_score
+                
+                def get_specific_category_info(event_index, events, category_score):
+                    weighted_category_scores = 0
+                    seen_cities = set()
+                    for index, event in event_index.items():
+                        city_id = event_in_which_city[index]
+                        if city_id not in seen_cities:
+                            seen_cities.add(city_id)
+                            specific_category = [cat for cat in category if cat in events[city_id]]
+                            if specific_category:
+                                weighted_category_scores += category_score[specific_category[0]]
+                    return weighted_category_scores
+                
+                # Example usage
+                city_ids = [0, 1, 2]
+                events = run_event_search(city_ids)
+                event_in_which_city = set_event_in_which_city(events, city_ids)
+                event_index = set_event_index(event_in_which_city, events)
+                category = ["Concerts & Shows", "Events"]
+                category_score = define_category_score(category)
+                weighted_category_scores = get_specific_category_info(event_index, events, category_score)
+                print(weighted_category_scores)
+                
+                
+                for city_id in city_ids:
+                    events[city_id] = ["Event1", "Event2", "Event3", "Event4", "Event5", "Event6", "Event7"]
+                event_in_which_city = {i: city_id if i % 2 == 0 else city_ids[i + 1] for i, city_id in enumerate(city_ids)}
+                event_index = {key: events[city_id][key] for key, city_id in event_in_which_city.items()}
+                category_score = {"Concerts & Shows": 5, "Events": 4}
+                specific_category = [cat for cat in category if cat in events[city_id]]
+                if specific_category:
+                    weighted_category_scores += category_score[specific_category[0]]
+                

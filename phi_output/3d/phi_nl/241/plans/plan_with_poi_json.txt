@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Santa Fe",
+    "transportation": "Flight Number: F2624236, from Denver to Santa Fe, Departure Time: 13:27, Arrival Time: 14:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "La Boca, Santa Fe",
+    "attraction": "Loretto Chapel, Santa Fe",
+    "accommodation": "Cactus Bdrm- Ray's Country Gardens, Santa Fe",
+    "event": "-",
+    "point_of_interest_list": "Cactus Bdrm- Ray's Country Gardens, stay from 14:59 to 15:29, nearest transit: Agua Fria @ Camino Maria Feliz IB, 1234.77m away; Loretto Chapel, visit from 15:59 to 17:59, nearest transit: Alameda @ Old Santa Fe Trail IB, 85.39m away; La Boca, visit from 19:00 to 19:40, nearest transit: Washington @ Nusbaum, 91.36m away; Cactus Bdrm- Ray's Country Gardens, stay from 23:00 to 08:00, nearest transit: Agua Fria @ Camino Maria Feliz IB, 1234.77m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Santa Fe",
+    "transportation": "-",
+    "breakfast": "Pantry Restaurant, Santa Fe",
+    "lunch": "India House, Santa Fe",
+    "dinner": "Palacio Restaurant, Santa Fe",
+    "attraction": "Canyon Road, Santa Fe",
+    "accommodation": "Cactus Bdrm- Ray's Country Gardens, Santa Fe",
+    "event": "-",
+    "point_of_interest_list": "Cactus Bdrm- Ray's Country Gardens, stay from 08:00 to 08:30, nearest transit: Agua Fria @ Camino Maria Feliz IB, 1234.77m away; Pantry Restaurant, visit from 09:00 to 09:40, nearest transit: Cerrillos @ 5th IB, 49.99m away; Canyon Road, visit from 10:10 to 12:10, nearest transit: Alameda @ Palace OB, 134.42m away; India House, visit from 13:40 to 14:20, nearest transit: Cerrillos @ Lujan OB, 146.80m away; Palacio Restaurant, visit from 19:00 to 19:40, nearest transit: Cathedral @ Water, 149.97m away; Cactus Bdrm- Ray's Country Gardens, stay from 23:00 to 08:00, nearest transit: Agua Fria @ Camino Maria Feliz IB, 1234.77m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Santa Fe to Denver",
+    "transportation": "taxi, from Santa Fe to Denver, duration: 412.9866666666667, distance: 631.7925, cost: 631",
+    "breakfast": "Tia Sophia's, Santa Fe",
+    "lunch": "Rustica Fresh Italian Kitchen, Santa Fe",
+    "dinner": "Clafoutis, Santa Fe",
+    "attraction": "San Miguel Chapel, Santa Fe",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cactus Bdrm- Ray's Country Gardens, stay from 08:00 to 08:30, nearest transit: Agua Fria @ Camino Maria Feliz IB, 1234.77m away; Tia Sophia's, visit from 09:00 to 09:40, nearest transit: Sandoval @ San Francisco OB, 104.85m away; San Miguel Chapel, visit from 10:10 to 12:10, nearest transit: Old Santa Fe Trail @ Visitor Center, 105.89m away; Rustica Fresh Italian Kitchen, visit from 13:40 to 14:20, nearest transit: Camino Ortiz @ UPS OB, 161.07m away; Clafoutis, visit from 19:00 to 19:40, nearest transit: Don Diego @ Camino De Los Marquez IB, 65.36m away"
+  }
+]

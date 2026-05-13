@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F3546693, from Atlanta to San Diego, Departure Time: 11:21, Arrival Time: 12:54', 'Flight Number: F0021044, from San Diego to Sacramento, Departure Time: 12:51, Arrival Time: 14:20', 'Flight Number: F1321570, from Sacramento to Atlanta, Departure Time: 22:23, Arrival Time: 05:42'],
+Restaurants (3 meals per day): ['-', 'Born & Raised, San Diego', "Mimmo's, San Diego", 'Din Tai Fung, San Diego', 'Meze Greek Fusion, San Diego', 'Pacific Beach AleHouse, San Diego', 'Morning Glory, San Diego', "Paragary's, Sacramento", 'Zocalo, Sacramento', 'Chicago Fire, Sacramento', "Paesano's Pizzeria, Sacramento", 'Nopalitos, Sacramento', 'The Kitchen Restaurant, Sacramento', '-', '-'],
+Attractions (1 per day): ['Balboa Park, San Diego', 'Cabrillo National Monument, San Diego', 'Capitol Park, Sacramento', 'California State Capitol Museum, Sacramento', '-'],
+Accommodations (1 per city): ['*BEAUTIFUL* Sunny Home in Golden Hill, San Diego', 'Remodeled 1BR Apartment - Walk to Downtown Sac!, Sacramento']

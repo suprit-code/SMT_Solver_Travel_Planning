@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tampa to Bloomington",
+    "transportation": "Self-driving, from Tampa to Bloomington, duration: 1228.5449999999998, distance: 1769.4128, cost: 88",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Arcade House - Hot Tub, Games, Grill, FirePit, FUN, Bloomington",
+    "event": "-",
+    "point_of_interest_list": "Arcade House - Hot Tub, Games, Grill, FirePit, FUN, stay from 08:00 to 08:30, nearest transit: Prow Rd @ Meadows Hospital, 251003.54m away; Arcade House - Hot Tub, Games, Grill, FirePit, FUN, stay from 23:00 to 08:00, nearest transit: Prow Rd @ Meadows Hospital, 251003.54m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Bloomington",
+    "transportation": "-",
+    "breakfast": "Bloomington ChopHouse, Bloomington",
+    "lunch": "Janko's Little Zagreb, Bloomington",
+    "dinner": "Bub's Burgers and Ice Cream, Bloomington",
+    "attraction": "Monroe County History Center and Research Library, Bloomington",
+    "accommodation": "Arcade House - Hot Tub, Games, Grill, FirePit, FUN, Bloomington",
+    "event": "-",
+    "point_of_interest_list": "Arcade House - Hot Tub, Games, Grill, FirePit, FUN, stay from 08:00 to 08:30, nearest transit: Prow Rd @ Meadows Hospital, 251003.54m away; Bloomington ChopHouse, visit from 09:00 to 09:40, nearest transit: Acuff & Rosewood, 841305.47m away; Monroe County History Center and Research Library, visit from 10:10 to 12:10, nearest transit: Washington St & Kirkwood Ave, 67.30m away; Janko's Little Zagreb, visit from 13:40 to 14:20, nearest transit: Kirkwood Ave @ B-Line Trail IB, 98.16m away; Bub's Burgers and Ice Cream, visit from 19:00 to 19:40, nearest transit: College Ave & 9th St, 87.63m away; Arcade House - Hot Tub, Games, Grill, FirePit, FUN, stay from 23:00 to 08:00, nearest transit: Prow Rd @ Meadows Hospital, 251003.54m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Bloomington to Tampa",
+    "transportation": "Self-driving, from Bloomington to Tampa, duration: 1224.335, distance: 1765.7608, cost: 88",
+    "breakfast": "Jim's Steak House, Bloomington",
+    "lunch": "Epiphany Farms Restaurant, Bloomington",
+    "dinner": "Osteria Rago, Bloomington",
+    "attraction": "Miller Park Zoo, Bloomington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Arcade House - Hot Tub, Games, Grill, FirePit, FUN, stay from 08:00 to 08:30, nearest transit: Prow Rd @ Meadows Hospital, 251003.54m away; Jim's Steak House, visit from 09:00 to 09:40, nearest transit: Prow Rd @ Meadows Hospital, 249237.80m away; Miller Park Zoo, visit from 10:10 to 12:10, nearest transit: Belle & Park Square, 252594.59m away; Epiphany Farms Restaurant, visit from 13:40 to 14:20, nearest transit: Prow Rd @ Meadows Hospital, 252068.66m away; Osteria Rago, visit from 19:00 to 19:40, nearest transit: Dunn St and Kirkwood Ave, 78.59m away"
+  }
+]

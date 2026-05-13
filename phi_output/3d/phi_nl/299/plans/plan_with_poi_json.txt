@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Albuquerque",
+    "transportation": "Flight Number: F1471995, from Chicago to Albuquerque, Departure Time: 10:09, Arrival Time: 11:58",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Two Fools Tavern, Albuquerque",
+    "attraction": "Turquoise Museum, Albuquerque",
+    "accommodation": "Clean & Cozy 1-bed Casita with relaxing courtyard, Albuquerque",
+    "event": "-",
+    "point_of_interest_list": "Clean & Cozy 1-bed Casita with relaxing courtyard, stay from 12:28 to 12:58, nearest transit: Coors @ Irving (Target), 727.68m away; Turquoise Museum, visit from 13:28 to 15:28, nearest transit: 2nd @ Silver, 199.86m away; Two Fools Tavern, visit from 19:00 to 19:40, nearest transit: ART - Nob Hill Station, 52.19m away; Clean & Cozy 1-bed Casita with relaxing courtyard, stay from 23:00 to 08:00, nearest transit: Coors @ Irving (Target), 727.68m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Albuquerque",
+    "transportation": "-",
+    "breakfast": "Farina, Albuquerque",
+    "lunch": "Dog House Drive In, Albuquerque",
+    "dinner": "The Original Cocina Azul, Albuquerque",
+    "attraction": "Petroglyph National Monument, Albuquerque",
+    "accommodation": "Clean & Cozy 1-bed Casita with relaxing courtyard, Albuquerque",
+    "event": "-",
+    "point_of_interest_list": "Clean & Cozy 1-bed Casita with relaxing courtyard, stay from 08:00 to 08:30, nearest transit: Coors @ Irving (Target), 727.68m away; Farina, visit from 09:00 to 09:40, nearest transit: Central @ Edith, 34.99m away; Petroglyph National Monument, visit from 10:10 to 12:10, nearest transit: Coors @ Calle Penasco, 4623.69m away; Dog House Drive In, visit from 13:40 to 14:20, nearest transit: Central @ 14th, 86.20m away; The Original Cocina Azul, visit from 19:00 to 19:40, nearest transit: 12th @ Granite, 25.85m away; Clean & Cozy 1-bed Casita with relaxing courtyard, stay from 23:00 to 08:00, nearest transit: Coors @ Irving (Target), 727.68m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Albuquerque to Chicago",
+    "transportation": "Flight Number: F0064855, from Albuquerque to Chicago, Departure Time: 16:09, Arrival Time: 19:38",
+    "breakfast": "Padilla's Mexican Kitchen, Albuquerque",
+    "lunch": "Le Troquet Bistro, Albuquerque",
+    "dinner": "Budai Gourmet Chinese Restaurant, Albuquerque",
+    "attraction": "American International Rattlesnake Museum, Albuquerque",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Clean & Cozy 1-bed Casita with relaxing courtyard, stay from 08:00 to 08:30, nearest transit: Coors @ Irving (Target), 727.68m away; Padilla's Mexican Kitchen, visit from 09:00 to 09:40, nearest transit: Carlisle @ Indian School, 769.23m away; American International Rattlesnake Museum, visit from 10:10 to 12:10, nearest transit: Central @ Rio Grande, 129.00m away; Le Troquet Bistro, visit from 12:40 to 13:20, nearest transit: 3rd @ Silver, 46.80m away; Budai Gourmet Chinese Restaurant, visit from 14:59 to 15:39, nearest transit: San Mateo @ Academy, 160.96m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Kansas City",
+    "transportation": "Flight Number: F1619011, from Denver to Kansas City, Departure Time: 00:01, Arrival Time: 02:21",
+    "breakfast": "Eddie V's Prime Seafood, Kansas City",
+    "lunch": "Cafe Trio Restaurant, Kansas City",
+    "dinner": "County Road Ice House, Kansas City",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "Private King Room + Bath - (The Collins), Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Private King Room + Bath - (The Collins), stay from 08:00 to 08:20, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away; Eddie V's Prime Seafood, visit from 08:45 to 09:25, nearest transit: ON 47TH ST AT JEFFERSON ST WESTBOUND FARSIDE, 16.50m away; Tom's Town Distilling Co., visit from 09:50 to 11:50, nearest transit: KAUFFMAN CENTER ON MAIN AT 16TH ST SB, 116.42m away; Cafe Trio Restaurant, visit from 13:25 to 14:05, nearest transit: ON NICH PKWY AT 46TH TERR SOUTHBOUND, 122.23m away; County Road Ice House, visit from 19:00 to 19:40, nearest transit: POWER & LIGHT ON MAIN AT 14TH ST NB, 109.87m away; Private King Room + Bath - (The Collins), stay from 23:00 to 08:00, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Lidia's, Kansas City",
+    "lunch": "KC Chop House, Kansas City",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Kansas City",
+    "attraction": "Country Club Plaza, Kansas City",
+    "accommodation": "Private King Room + Bath - (The Collins), Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Private King Room + Bath - (The Collins), stay from 08:00 to 08:30, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away; Lidia's, visit from 08:55 to 09:35, nearest transit: ON SW BLVD AT CENTRAL WESTBOUND, 263.68m away; Country Club Plaza, visit from 10:00 to 12:00, nearest transit: ON 47TH AT BROADWAY WESTBOUND FARSIDE, 89.53m away; KC Chop House, visit from 13:35 to 14:15, nearest transit: ON 210 HWY AT AMERISTAR DR EASTBOUND, 675.92m away; Fogo de Chao Brazilian Steakhouse, visit from 19:00 to 19:40, nearest transit: ON 47TH AT CENTRAL EASTBOUND FARSIDE, 52.77m away; Private King Room + Bath - (The Collins), stay from 20:05 to 08:00, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Denver",
+    "transportation": "taxi, from Kansas City to Denver, duration: 619.8383333333334, distance: 969.6244, cost: 969",
+    "breakfast": "Gram & Dun, Kansas City",
+    "lunch": "The Rockhill Grille, Kansas City",
+    "dinner": "Garozzo's Ristorante, Kansas City",
+    "attraction": "Crown Center, Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private King Room + Bath - (The Collins), stay from 08:00 to 08:30, nearest transit: ON WESTPORT RD AT BALTIMORE EASTBOUND, 523.58m away; Gram & Dun, visit from 08:55 to 09:35, nearest transit: ON 47TH AT JEFFERSON EASTBOUND NEARSIDE, 221.27m away; Crown Center, visit from 10:00 to 12:00, nearest transit: ON GRAND AT 26TH SOUTHBOUND, 215.60m away; The Rockhill Grille, visit from 13:35 to 14:15, nearest transit: ON GRAND AT 19TH NORTHBOUND, 109.08m away; Garozzo's Ristorante, visit from 19:00 to 19:40, nearest transit: ON INDEPENDENCE AVE AT CAMPBELL WESTBOUND, 249.38m away"
+  }
+]

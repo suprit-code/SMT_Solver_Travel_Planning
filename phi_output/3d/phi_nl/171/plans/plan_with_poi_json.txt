@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Anchorage",
+    "transportation": "Flight Number: F0245216, from Seattle to Anchorage, Departure Time: 14:49, Arrival Time: 17:35",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Club Paris, Anchorage",
+    "attraction": "Earthquake Park, Anchorage",
+    "accommodation": "Cozy Riverside Retreat, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Anchorage",
+    "transportation": "-",
+    "breakfast": "anchorage hotel, Anchorage",
+    "lunch": "Kobuk Coffee Co, Anchorage",
+    "dinner": "Kincaid Grill and Wine Bar, Anchorage",
+    "attraction": "Tony Knowles Coastal Trail, Anchorage",
+    "accommodation": "Cozy Riverside Retreat, Anchorage",
+    "event": "-",
+    "point_of_interest_list": "Cozy Riverside Retreat, stay from 08:00 to 08:30, nearest transit: EAGLE RIVER TRANSIT CENTER, 36971.32m away; anchorage hotel, visit from 09:00 to 09:40, nearest transit: EAGLE RIVER TRANSIT CENTER, 6685130.42m away; Tony Knowles Coastal Trail, visit from 10:10 to 12:10, nearest transit: 5TH AVENUE & F STREET WNW, 331.65m away; Kobuk Coffee Co, visit from 13:40 to 14:20, nearest transit: 5TH AVENUE & F STREET WNW, 112.38m away; Kincaid Grill and Wine Bar, visit from 19:00 to 19:40, nearest transit: JEWEL LAKE & RASPBERRY NNE, 76.87m away; Cozy Riverside Retreat, stay from 23:00 to 08:00, nearest transit: EAGLE RIVER TRANSIT CENTER, 36971.32m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Anchorage to Seattle",
+    "transportation": "Flight Number: F1288269, from Anchorage to Seattle, Departure Time: 14:02, Arrival Time: 18:33",
+    "breakfast": "Simon & Seafort's Saloon & Grill, Anchorage",
+    "lunch": "Jens' Restaurant, Anchorage",
+    "dinner": "Crow's Nest, Anchorage",
+    "attraction": "Alaska Railroad, Anchorage",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

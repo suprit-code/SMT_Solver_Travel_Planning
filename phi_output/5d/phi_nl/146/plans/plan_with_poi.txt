@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to New York",
+    "transportation": "Flight Number: F2780055, from Cleveland to New York, Departure Time: 16:27, Arrival Time: 17:55",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Carmine's, New York",
+    "attraction": "-",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 18:25 to 18:55, nearest transit: 9 AV/W 30 ST, 139.35m away; Carmine's, New York, visit from 19:25 to 23:10, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 23:40 to 07:40, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 08:10 to 08:40, nearest transit: 9 AV/W 30 ST, 139.35m away; Sarge’s Delicatessen & Diner, New York, visit from 09:10 to 10:00, ; The National 9/11 Memorial & Museum, New York, visit from 10:30 to 14:00, ; Westway Diner, New York, visit from 14:30 to 15:30, ; Times Square Diner, New York, visit from 20:45 to 22:00, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 23:40 to 07:40, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Rochester",
+    "transportation": "Flight Number: F1412048, from New York to Rochester, Departure Time: 16:50, Arrival Time: 18:36",
+    "breakfast": "-",
+    "lunch": "Azalea Ristorante, New York",
+    "dinner": "Jines Restaurant, Rochester",
+    "attraction": "The High Line, New York",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 08:10 to 08:40, nearest transit: 9 AV/W 30 ST, 139.35m away; The High Line, New York, visit from 10:30 to 14:00, ; Azalea Ristorante, New York, visit from 14:30 to 15:30, ; Historic Henrietta Apartment, stay from 19:06 to 19:36, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Jines Restaurant, Rochester, visit from 20:06 to 21:21, ; Historic Henrietta Apartment, stay from 23:39 to 07:39, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Rochester",
+    "transportation": "-",
+    "breakfast": "The Quills, Rochester",
+    "lunch": "Lipuma's Coney Island, Rochester",
+    "dinner": "Good Luck, Rochester",
+    "attraction": "Restoration House, Rochester",
+    "accommodation": "Historic Henrietta Apartment, Rochester",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 08:09 to 08:39, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; The Quills, Rochester, visit from 09:09 to 09:59, ; Lipuma's Coney Island, Rochester, visit from 14:00 to 15:00, ; Restoration House, Rochester, visit from 15:30 to 19:00, ; Good Luck, Rochester, visit from 19:30 to 23:09, ; Historic Henrietta Apartment, stay from 23:39 to 07:39, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Rochester to Cleveland",
+    "transportation": "Taxi from Rochester to Cleveland, duration: 306.565, distance: 415.7125, cost : 415.0",
+    "breakfast": "Nick Tahou Hots, Rochester",
+    "lunch": "The Eagle Tavern, Rochester",
+    "dinner": "Tiny Tim's Tea Rooms, Rochester",
+    "attraction": "Rochester Castle, Rochester",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Henrietta Apartment, stay from 08:09 to 08:39, nearest transit: Winona 61 & Hwy. 14, 1141460.71m away; Nick Tahou Hots, Rochester, visit from 09:09 to 09:59, ; The Eagle Tavern, Rochester, visit from 14:00 to 15:00, ; Rochester Castle, Rochester, visit from 15:30 to 19:00, ; Tiny Tim's Tea Rooms, Rochester, visit from 19:30 to 20:45, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Shreveport to Las Vegas",
+    "transportation": "Flight Number: F1343296, from Shreveport to Las Vegas, Departure Time: 23:25, Arrival Time: 00:23",
+    "breakfast": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Eggslut, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Mr. Mamas, Las Vegas",
+    "lunch": "Garden Court, Las Vegas",
+    "dinner": "Ameribrunch Cafe, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Mr. Mamas, visit from 08:55 to 09:35, nearest transit: The Strat, 9224.85m away; Hoover Dam Bypass, visit from 10:00 to 12:00, nearest transit: Fremont East Entertainment District, 39777.46m away; Garden Court, visit from 13:35 to 14:15, nearest transit: Circa, 185.80m away; Ameribrunch Cafe, visit from 19:00 to 19:40, nearest transit: Fremont East Entertainment District, 393.75m away; Gamble Adventure | Restaurant. Outside Pool, stay from 20:05 to 08:00, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Shreveport",
+    "transportation": "Flight Number: F2107836, from Las Vegas to Shreveport, Departure Time: 16:11, Arrival Time: 20:56",
+    "breakfast": "Carmine's, Las Vegas",
+    "lunch": "Skyfall Lounge, Las Vegas",
+    "dinner": "-",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Carmine's, visit from 08:55 to 09:35, nearest transit: The Strat, 3610.12m away; Red Rock Canyon National Conservation Area, visit from 10:00 to 12:00, nearest transit: The Strat, 24322.91m away; Skyfall Lounge, visit from 13:35 to 14:15, nearest transit: The Strat, 6368.08m away"
+  }
+]

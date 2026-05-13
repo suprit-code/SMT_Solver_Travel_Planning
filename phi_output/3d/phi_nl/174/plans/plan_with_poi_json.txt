@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Juan to Charlotte",
+    "transportation": "Flight Number: F0743349, from San Juan to Charlotte, Departure Time: 15:08, Arrival Time: 17:41",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte's Eats and Sweets, Charlotte",
+    "lunch": "Cabo Fish Taco Baja Seagrill, Charlotte",
+    "dinner": "Charlotte Bakery, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 08:00 to 08:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Charlotte's Eats and Sweets, visit from 09:00 to 09:40, nearest transit: Oakland St & Main Ave, 991745.06m away; Truist Field, visit from 10:10 to 12:10, nearest transit: 4th St & Graham St, 146.25m away; Cabo Fish Taco Baja Seagrill, visit from 13:40 to 14:20, nearest transit: Davidson & 35th, 57.25m away; Charlotte Bakery, visit from 19:00 to 19:40, nearest transit: White Street Park and Ride, 1016826.02m away; Comfy private bed and bath, stay from 23:00 to 08:00, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to San Juan",
+    "transportation": "Flight Number: F1924290, from Charlotte to San Juan, Departure Time: 11:02, Arrival Time: 14:22",
+    "breakfast": "Pinky's Westside Grill, Charlotte",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 08:00 to 08:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Pinky's Westside Grill, visit from 09:00 to 09:40, nearest transit: Morehead St & Grandin Rd, 166.98m away"
+  }
+]

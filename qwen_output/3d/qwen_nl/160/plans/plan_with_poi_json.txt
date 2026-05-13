@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Baltimore",
+    "transportation": "Flight Number: F1596850, from Indianapolis to Baltimore, Departure Time: 10:21, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Magdalena, A Maryland Bistro, Baltimore",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 12:17 to 12:37, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; The Maryland Zoo, visit from 13:02 to 15:02, nearest transit: MONDAWMIN METRO Escalator 4, 586.50m away; Magdalena, A Maryland Bistro, visit from 19:00 to 19:40, nearest transit: STATE CENTER (METRO) sb, 839.14m away; The basement, stay from 20:05 to 08:00, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Blue Moon Cafe, Baltimore",
+    "lunch": "Tagliata, Baltimore",
+    "dinner": "Restaurante Tio Pepe, Baltimore",
+    "attraction": "Fort McHenry National Monument And Historic Shrine, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Blue Moon Cafe, visit from 08:55 to 09:35, nearest transit: SHOT TOWER STATION (METRO) sb, 1161.67m away; Fort McHenry National Monument And Historic Shrine, visit from 10:00 to 12:00, nearest transit: SHOT TOWER STATION (METRO) sb, 3547.78m away; Tagliata, visit from 13:35 to 14:15, nearest transit: SHOT TOWER STATION (METRO) sb, 767.14m away; Restaurante Tio Pepe, visit from 19:00 to 19:40, nearest transit: LEXINGTON MARKET METRO North Entrance, 554.30m away; The basement, stay from 20:05 to 08:00, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Indianapolis",
+    "transportation": "Flight Number: F1564950, from Baltimore to Indianapolis, Departure Time: 17:05, Arrival Time: 18:38",
+    "breakfast": "Sotto Sopra, Baltimore",
+    "lunch": "La Scala, Baltimore",
+    "dinner": "-",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Sotto Sopra, visit from 08:55 to 09:35, nearest transit: LEXINGTON MARKET METRO North Entrance, 484.26m away; National Aquarium, visit from 10:00 to 12:00, nearest transit: SHOT TOWER METRO West Entrance, 474.59m away; La Scala, visit from 13:35 to 14:15, nearest transit: SHOT TOWER STATION (METRO) sb, 657.16m away"
+  }
+]

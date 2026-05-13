@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Houston",
+    "transportation": "Flight Number: F2425432, from Cleveland to Houston, Departure Time: 15:20, Arrival Time: 17:24",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Brenner's on the Bayou, Houston",
+    "attraction": "-",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 17:54 to 20:15, nearest transit: Yale St @ Thornton Rd, 203.09m away; Brenner's on the Bayou, Houston, visit from 20:45 to 22:07, ; Modern Houston Heights Getaway, stay from 22:37 to 06:37, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston's Trail's End, Houston",
+    "lunch": "The Original Ninfa's, Houston",
+    "dinner": "Market on Houston, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 07:07 to 07:37, nearest transit: Yale St @ Thornton Rd, 203.09m away; Houston's Trail's End, Houston, visit from 08:07 to 08:57, ; The Original Ninfa's, Houston, visit from 14:00 to 15:00, ; Houston Zoo, Houston, visit from 15:30 to 19:15, ; Market on Houston, Houston, visit from 19:45 to 21:00, ; Modern Houston Heights Getaway, stay from 21:30 to 05:30, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Cleveland",
+    "transportation": "Flight Number: F3417684, from Houston to Cleveland, Departure Time: 18:34, Arrival Time: 22:06",
+    "breakfast": "Merrill & Houston's Steak Joint, Houston",
+    "lunch": "Pappas Bros. Steakhouse, Houston",
+    "dinner": "-",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 06:00 to 06:30, nearest transit: Yale St @ Thornton Rd, 203.09m away; Merrill & Houston's Steak Joint, Houston, visit from 08:00 to 08:50, ; Cockrell Butterfly Center, Houston, visit from 09:20 to 12:50, ; Pappas Bros. Steakhouse, Houston, visit from 13:20 to 14:20, "
+  }
+]

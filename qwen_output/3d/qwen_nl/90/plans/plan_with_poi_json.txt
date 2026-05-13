@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Flight Number: F2762845, from Martha's Vineyard to New York, Departure Time: 13:50, Arrival Time: 15:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Sonder at One Platt | Queen Studio, New York",
+    "event": "-",
+    "point_of_interest_list": "Sonder at One Platt | Queen Studio, stay from 15:45 to 16:05, nearest transit: WATER ST/JOHN ST, 47.08m away; Central Park, visit from 16:30 to 18:30, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; Gallaghers Steakhouse, visit from 19:00 to 19:40, nearest transit: 7 AV/W 52 ST, 131.50m away; Sonder at One Platt | Queen Studio, stay from 20:05 to 08:00, nearest transit: WATER ST/JOHN ST, 47.08m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Del Frisco's Grille, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Sonder at One Platt | Queen Studio, New York",
+    "event": "-",
+    "point_of_interest_list": "Sonder at One Platt | Queen Studio, stay from 08:00 to 08:30, nearest transit: WATER ST/JOHN ST, 47.08m away; Peak Restaurant & Bar, visit from 08:55 to 09:35, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; The High Line, visit from 10:00 to 12:00, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Del Frisco's Grille, visit from 13:35 to 14:15, nearest transit: 5 AV/W 50 ST, 139.24m away; FIG & OLIVE, visit from 19:00 to 19:40, nearest transit: 5 AV/W 52 ST, 84.16m away; Sonder at One Platt | Queen Studio, stay from 20:05 to 08:00, nearest transit: WATER ST/JOHN ST, 47.08m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Martha's Vineyard",
+    "transportation": "Flight Number: F2909164, from New York to Martha's Vineyard, Departure Time: 11:42, Arrival Time: 12:47",
+    "breakfast": "RH Rooftop Restaurant New York, New York",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sonder at One Platt | Queen Studio, stay from 08:00 to 08:30, nearest transit: WATER ST/JOHN ST, 47.08m away; RH Rooftop Restaurant New York, visit from 08:55 to 09:35, nearest transit: 9 AV/W 13 ST, 56.34m away"
+  }
+]

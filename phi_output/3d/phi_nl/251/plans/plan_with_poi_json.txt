@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Fort Wayne",
+    "transportation": "Flight Number: F0373120, from Las Vegas to Fort Wayne, Departure Time: 23:24, Arrival Time: 06:06",
+    "breakfast": "-",
+    "lunch": "Wu's Fine Chinese Cuisine, Fort Wayne",
+    "dinner": "Fort Wayne's Famous Coney Island, Fort Wayne",
+    "attraction": "Fort Wayne Firefighters Museum, Fort Wayne",
+    "accommodation": "Airy Studio Near Downtown, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Fort Wayne",
+    "transportation": "-",
+    "breakfast": "Casa Ristorante, Fort Wayne",
+    "lunch": "Junk Ditch Brewing Company, Fort Wayne",
+    "dinner": "Copper Spoon, Fort Wayne",
+    "attraction": "Fort Wayne Museum of Art, Fort Wayne",
+    "accommodation": "Airy Studio Near Downtown, Fort Wayne",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 08:00 to 08:30, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away; Casa Ristorante, visit from 09:00 to 09:40, nearest transit: CASA Ristorante, 34.94m away; Fort Wayne Museum of Art, visit from 10:10 to 12:10, nearest transit: Main St. just past bus hut west of Lafayette St. (WB), 34.80m away; Junk Ditch Brewing Company, visit from 13:40 to 14:20, nearest transit: Eastbound on W. Main St. at Davis St., 80.28m away; Copper Spoon, visit from 19:00 to 19:40, nearest transit: Ewing St. at Jefferson Blvd. (NB), 131.99m away; Airy Studio Near Downtown, stay from 23:00 to 08:00, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Fort Wayne to Las Vegas",
+    "transportation": "Flight Number: F2558843, from Fort Wayne to Las Vegas, Departure Time: 13:16, Arrival Time: 14:01",
+    "breakfast": "The Bluebird Restaurant, Fort Wayne",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Airy Studio Near Downtown, stay from 08:00 to 08:30, nearest transit: S. Calhoun at Taber St. (NB), 99.29m away; The Bluebird Restaurant, visit from 09:00 to 09:40, nearest transit: Bluffton Rd. at Sandpoint Rd. (SB), 66.58m away"
+  }
+]

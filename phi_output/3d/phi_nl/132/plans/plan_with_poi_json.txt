@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Greensboro",
+    "transportation": "taxi, from Washington to Greensboro, duration: 357.2, distance: 497.6169, cost: 497",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Aqua Oasis - Central & Stylish - 3 BR / 3 BA, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Aqua Oasis - Central & Stylish - 3 BR / 3 BA, stay from 08:00 to 08:30, nearest transit: Battleground@McDonalds, 203.13m away; Aqua Oasis - Central & Stylish - 3 BR / 3 BA, stay from 23:00 to 08:00, nearest transit: Battleground@McDonalds, 203.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Stamey's Barbecue, Greensboro",
+    "lunch": "Mimi's Cafe, Greensboro",
+    "dinner": "Golden Wok, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Aqua Oasis - Central & Stylish - 3 BR / 3 BA, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Aqua Oasis - Central & Stylish - 3 BR / 3 BA, stay from 08:00 to 08:30, nearest transit: Battleground@McDonalds, 203.13m away; Stamey's Barbecue, visit from 09:00 to 09:40, nearest transit: Gate City/Patterson, 46.58m away; International Civil Rights Center & Museum, visit from 10:10 to 12:10, nearest transit: International Civil Rights Museum , 3.98m away; Mimi's Cafe, visit from 13:40 to 14:20, nearest transit: West Friendly/Mimi's Restaurant, 40.77m away; Golden Wok, visit from 19:00 to 19:40, nearest transit: Sapp Rd/Wendover Place, 252.80m away; Aqua Oasis - Central & Stylish - 3 BR / 3 BA, stay from 23:00 to 08:00, nearest transit: Battleground@McDonalds, 203.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Washington",
+    "transportation": "Flight Number: F2621180, from Greensboro to Washington, Departure Time: 06:23, Arrival Time: 07:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Aqua Oasis - Central & Stylish - 3 BR / 3 BA, stay from 08:03 to 08:33, nearest transit: Battleground@McDonalds, 203.13m away"
+  }
+]

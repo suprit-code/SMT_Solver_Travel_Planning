@@ -1,0 +1,6 @@
+Destination cities: ['Charleston'],
+Transportation dates: ['2024-11-16', '2024-11-18'],
+Transportation methods between cities: ['Flight Number: F2512613, from Detroit to Charleston, Departure Time: 10:04, Arrival Time: 12:20', 'taxi, from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost: 1366'],
+Restaurants (3 meals per day): ['-', '-', 'Frannie & The Fox, Charleston', 'Oak Steakhouse, Charleston', "Burwell's Stone Fire Grill, Charleston", "Eli's Table, Charleston", 'Stars Restaurant-Rooftop & Grill Room, Charleston', 'High Cotton Charleston, Charleston', 'Husk Restaurant, Charleston'],
+Attractions (1 per day): ['South Carolina Aquarium, Charleston', 'Charleston City Market, Charleston', 'Charleston Waterfront Park, Charleston'],
+Accommodations (1 per city): ['Entire House One Block from King Street, Charleston']

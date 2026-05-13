@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F2402167, from Everett to San Diego, Departure Time: 14:29, Arrival Time: 17:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Vessel Restaurant + Bar, San Diego",
+    "lunch": "Din Tai Fung, San Diego",
+    "dinner": "Las Hadas Grill, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 08:00 to 08:30, nearest transit: Imperial Av & 54th St, 396.90m away; Vessel Restaurant + Bar, visit from 09:00 to 09:40, nearest transit: Rosecrans St & McCall St, 576.30m away; San Diego Zoo, visit from 10:10 to 12:10, nearest transit: Park Bl & Zoo Pl, 300.95m away; Din Tai Fung, visit from 13:40 to 14:20, nearest transit: La Jolla Village Dr & Genesee Av, 68.36m away; Las Hadas Grill, visit from 19:00 to 19:40, nearest transit: 4th Av & G St, 140.49m away; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 23:00 to 08:00, nearest transit: Imperial Av & 54th St, 396.90m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Everett",
+    "transportation": "Flight Number: F2402765, from San Diego to Everett, Departure Time: 18:23, Arrival Time: 21:20",
+    "breakfast": "Morning Glory, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 08:00 to 08:30, nearest transit: Imperial Av & 54th St, 396.90m away; Morning Glory, visit from 09:00 to 09:40, nearest transit: India St & Cedar St, 92.52m away; La Jolla Shores Park, visit from 10:10 to 12:10, nearest transit: La Jolla Shores Dr & Calle Frescota, 243.08m away; Mimmo's, visit from 13:40 to 14:20, nearest transit: India St & Cedar St, 148.81m away"
+  }
+]

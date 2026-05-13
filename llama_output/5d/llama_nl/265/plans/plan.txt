@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-08', '2024-11-10', '2024-11-12'],
+Transportation methods between cities: ['Flight Number: F3891599, from Denver to San Diego, Departure Time: 16:11, Arrival Time: 17:26', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Denver, duration: 1285.4166666666667, distance: 1981.5151, cost: 1981'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Cowboy Star, San Diego', "Lou & Mickey's, San Diego", 'Juniper and Ivy, San Diego', 'Pacific Beach AleHouse, San Diego', "Ruth's Chris Steak House, San Diego", 'Born & Raised, San Diego', "Sweetie's Cafe & Catering, Redding", 'Champa Garden, Redding', 'Thai Cafe, Redding', 'Priya Indian Cuisine, Redding', 'Olive Garden Italian Restaurant, Redding', 'Fratelli’s Pizza Parlour, Redding'],
+Attractions (1 per day): ['Petco Park, San Diego', 'Coronado Bridge, San Diego', 'Old Town San Diego, San Diego', 'Sundial Bridge, Redding', 'Turtle Bay Exploration Park, Redding'],
+Accommodations (1 per city): ['Bed in 4-Bed room in Stylish Hostel, San Diego', 'Close to I-5, private room w/patio, queen bed, Redding']

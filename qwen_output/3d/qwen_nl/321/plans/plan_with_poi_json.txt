@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Los Angeles",
+    "transportation": "Flight Number: F3629308, from Kansas City to Los Angeles, Departure Time: 15:55, Arrival Time: 17:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Universal Studios Hollywood, Los Angeles",
+    "accommodation": "Pristine Mid Century Gem Near USC Hospital, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Leo & Lily, Los Angeles",
+    "lunch": "Olive & Thyme, Los Angeles",
+    "dinner": "El Compadre, Los Angeles",
+    "attraction": "Hollywood Walk of Fame, Los Angeles",
+    "accommodation": "Pristine Mid Century Gem Near USC Hospital, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Pristine Mid Century Gem Near USC Hospital, stay from 08:00 to 08:30, nearest transit: Wabash Ave & Forest Ave (Westbound) (4319), 326.49m away; Leo & Lily, visit from 08:55 to 09:35, nearest transit: Ventura Blvd & Shoup Ave (Eastbound), 52.03m away; Hollywood Walk of Fame, visit from 10:00 to 12:00, nearest transit: Hollywood & Vine St. , 17.12m away; Olive & Thyme, visit from 13:35 to 14:15, nearest transit:  Alameda Ave & Pass Ave (Eastbound), 219.80m away; El Compadre, visit from 19:00 to 19:40, nearest transit: Echo Park Ave & Sunset Blvd (Northbound), 425.51m away; Pristine Mid Century Gem Near USC Hospital, stay from 20:05 to 08:00, nearest transit: Wabash Ave & Forest Ave (Westbound) (4319), 326.49m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Kansas City",
+    "transportation": "Flight Number: F1398303, from Los Angeles to Kansas City, Departure Time: 14:58, Arrival Time: 20:09",
+    "breakfast": "Pizzeria Mozza, Los Angeles",
+    "lunch": "Bubba Gump Shrimp Co., Los Angeles",
+    "dinner": "-",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Pristine Mid Century Gem Near USC Hospital, stay from 08:00 to 08:30, nearest transit: Wabash Ave & Forest Ave (Westbound) (4319), 326.49m away; Pizzeria Mozza, visit from 08:55 to 09:35, nearest transit: Fountain & Las Palmas Ave., 1264.33m away; Griffith Park, visit from 10:00 to 12:00, nearest transit: West Observatory Rd & Mt. Hollywood Dr, 1520.21m away; Bubba Gump Shrimp Co., visit from 13:35 to 14:15, nearest transit: Alameda Ave & Pass Ave (Westbound), 2046.63m away"
+  }
+]

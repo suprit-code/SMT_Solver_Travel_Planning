@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F3511787, from Atlanta to San Diego, Departure Time: 08:21, Arrival Time: 09:54', 'Flight Number: F2670675, from San Diego to Sacramento, Departure Time: 18:58, Arrival Time: 20:43', 'Flight Number: F2955269, from Sacramento to Atlanta, Departure Time: 12:36, Arrival Time: 20:04'],
+Restaurants (3 meals per day): ['Meze Greek Fusion, San Diego', "Mimmo's, San Diego", 'Born & Raised, San Diego', 'Cowboy Star, San Diego', 'Juniper and Ivy, San Diego', "Ruth's Chris Steak House, San Diego", 'Addison Restaurant, San Diego', "Mister A'S, San Diego", 'The Porch Restaurant and Bar, Sacramento', 'Nopalitos, Sacramento', 'Tipsy Putt, Sacramento', "Mulvaney's Building & Loan, Sacramento", 'Sauced BBQ & Spirits, Sacramento', 'El Novillero Restaurant, Sacramento', 'Echo and Rig, Sacramento'],
+Attractions (1 per day): ['Cabrillo National Monument, San Diego', 'Old Town San Diego, San Diego', 'Seaport Village, San Diego', 'Capitol Park, Sacramento', 'Old Sacramento, Sacramento'],
+Accommodations (1 per city): ['Beach Getaway ♥Romantic Patio& Fire ☝Remote Office, San Diego', 'Large Comfy Cottage- Close to Downtown, Sacramento']

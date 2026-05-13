@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-22', '2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F0814088, from Seattle to San Diego, Departure Time: 06:13, Arrival Time: 08:39', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Seattle, duration: 698.065, distance: 953.8918, cost: 953'],
+Restaurants (3 meals per day): ['Born & Raised, San Diego', 'Addison Restaurant, San Diego', "Lou & Mickey's, San Diego", 'The Butcher Shop, San Diego', 'Juniper and Ivy, San Diego', 'Cafe Coyote, San Diego', 'Cowboy Star, San Diego', "Ruth's Chris Steak House, San Diego", "Mister A'S, San Diego", "Sweetie's Cafe & Catering, Redding", "Logan's Roadhouse, Redding", 'Dam Burger, Redding', 'View 202, Redding', 'Vintage Public House, Redding', "Jeff's California Cattle Company Restaurant, Redding"],
+Attractions (1 per day): ['Old Town San Diego, San Diego', 'Birch Aquarium at Scripps, San Diego', 'USS Midway Museum, San Diego', 'Redding Civic Auditorium, Redding', 'Turtle Bay Exploration Park, Redding'],
+Accommodations (1 per city): ['Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego', 'Newly remodeled studio w/private entrance, 2 beds, Redding']

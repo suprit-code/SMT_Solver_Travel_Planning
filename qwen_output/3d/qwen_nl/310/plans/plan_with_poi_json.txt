@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Ontario",
+    "transportation": "Flight Number: F0975748, from Las Vegas to Ontario, Departure Time: 08:08, Arrival Time: 08:57",
+    "breakfast": "Gran Sasso Restaurant, Ontario",
+    "lunch": "Kel's Family Restaurant, Ontario",
+    "dinner": "Jumbo Dragon Chinese Restaurant, Ontario",
+    "attraction": "Ripley's Aquarium of Canada, Ontario",
+    "accommodation": "Amazing Condo Heart of Downtown + 1 Free Parking, Ontario",
+    "event": "-",
+    "point_of_interest_list": "Amazing Condo Heart of Downtown + 1 Free Parking, stay from 09:22 to 09:28, nearest transit: Union Station, 1935.82m away; Gran Sasso Restaurant, visit from 09:53 to 10:33, nearest transit: Brantford Bus Terminal, 3038.53m away; Ripley's Aquarium of Canada, visit from 10:58 to 12:58, nearest transit: Union Station, 528.67m away; Kel's Family Restaurant, visit from 14:33 to 15:13, nearest transit: Wayne Gretzky Pwky. @ Henry St., 3434.63m away; Jumbo Dragon Chinese Restaurant, visit from 19:13 to 19:53, nearest transit: Brantford Bus Terminal, 502.52m away; Amazing Condo Heart of Downtown + 1 Free Parking, stay from 20:18 to 08:00, nearest transit: Union Station, 1935.82m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Ontario",
+    "transportation": "-",
+    "breakfast": "Shanghai Restaurant, Ontario",
+    "lunch": "Zaza's Pizzzeria, Ontario",
+    "dinner": "Nine North Viet-Thai Cuisine, Ontario",
+    "attraction": "Niagara Falls Canada, Ontario",
+    "accommodation": "Amazing Condo Heart of Downtown + 1 Free Parking, Ontario",
+    "event": "-",
+    "point_of_interest_list": "Amazing Condo Heart of Downtown + 1 Free Parking, stay from 08:00 to 08:30, nearest transit: Union Station, 1935.82m away; Shanghai Restaurant, visit from 08:55 to 09:35, nearest transit: Wayne Gretzky Pkwy. @ Chatham St., 1490.23m away; Niagara Falls Canada, visit from 10:00 to 12:00, nearest transit: Stanley Ave. @ Hwy. 420 Park & Ride, 2096.18m away; Zaza's Pizzzeria, visit from 13:35 to 14:15, nearest transit: Wayne Gretzky Pwky. @ Henry St., 2305.49m away; Nine North Viet-Thai Cuisine, visit from 19:00 to 19:40, nearest transit: Brantford Bus Terminal, 94.02m away; Amazing Condo Heart of Downtown + 1 Free Parking, stay from 20:05 to 08:00, nearest transit: Union Station, 1935.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Ontario to Las Vegas",
+    "transportation": "Flight Number: F0654879, from Ontario to Las Vegas, Departure Time: 17:41, Arrival Time: 18:51",
+    "breakfast": "The Keg Steakhouse + Bar - Brantford, Ontario",
+    "lunch": "On The Lam Restaurant, Ontario",
+    "dinner": "Duke on Park, Ontario",
+    "attraction": "White Water Walk, Ontario",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Amazing Condo Heart of Downtown + 1 Free Parking, stay from 08:00 to 08:10, nearest transit: Union Station, 1935.82m away; The Keg Steakhouse + Bar - Brantford, visit from 08:35 to 08:48, nearest transit: Wayne Gretzky Pwky. @ Henry St., 2171.66m away; White Water Walk, visit from 09:13 to 11:13, nearest transit: Niagara Falls GO, 328.08m away; On The Lam Restaurant, visit from 12:23 to 13:03, nearest transit: Brantford Bus Terminal, 373.78m away; Duke on Park, visit from 17:03 to 17:16, nearest transit: Wayne Gretzky Pwky. @ Henry St., 3094.17m away"
+  }
+]

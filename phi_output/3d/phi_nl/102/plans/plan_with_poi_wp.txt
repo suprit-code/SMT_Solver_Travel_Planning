@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Monterey",
+    "transportation": "Flight Number: F2586787, from Dallas to Monterey, Departure Time: 11:17, Arrival Time: 12:59",
+    "breakfast": "-",
+    "lunch": "The Sardine Factory, Monterey",
+    "dinner": "Chart House, Monterey",
+    "attraction": "-",
+    "accommodation": "Quiet neighborhood near Monterey and the ocean, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Quiet neighborhood near Monterey and the ocean, stay from 13:29 to 13:59, nearest transit: Coe /  Seaside Middle School, 190.45m away; The Sardine Factory, Monterey, visit from 14:30 to 16:44, ; Chart House, Monterey, visit from 20:45 to 22:06, ; Quiet neighborhood near Monterey and the ocean, stay from 22:36 to 06:36, nearest transit: Coe /  Seaside Middle School, 190.45m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Monterey",
+    "transportation": "-",
+    "breakfast": "C restaurant + bar, Monterey",
+    "lunch": "Sea Harvest Restaurant & Fish Market, Monterey",
+    "dinner": "Cibo Ristorante Italiano, Monterey",
+    "attraction": "17-Mile Drive, Monterey",
+    "accommodation": "Quiet neighborhood near Monterey and the ocean, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Quiet neighborhood near Monterey and the ocean, stay from 07:06 to 07:36, nearest transit: Coe /  Seaside Middle School, 190.45m away; C restaurant + bar, Monterey, visit from 08:06 to 08:56, ; 17-Mile Drive, Monterey, visit from 09:26 to 12:56, ; Sea Harvest Restaurant & Fish Market, Monterey, visit from 14:30 to 16:44, ; Cibo Ristorante Italiano, Monterey, visit from 20:45 to 22:00, ; Quiet neighborhood near Monterey and the ocean, stay from 22:30 to 06:30, nearest transit: Coe /  Seaside Middle School, 190.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Monterey to Dallas",
+    "transportation": "Flight Number: F4046690, from Monterey to Dallas, Departure Time: 13:56, Arrival Time: 19:32",
+    "breakfast": "Monterey's Pizza, Monterey",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Monterey Bay Aquarium, Monterey",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Quiet neighborhood near Monterey and the ocean, stay from 07:00 to 07:30, nearest transit: Coe /  Seaside Middle School, 190.45m away; Monterey's Pizza, Monterey, visit from 08:00 to 08:50, ; Monterey Bay Aquarium, Monterey, visit from 09:20 to 12:50, "
+  }
+]

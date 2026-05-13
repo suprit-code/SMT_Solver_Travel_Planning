@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Francisco to Las Vegas",
+    "transportation": "Flight Number: F0555964, from San Francisco to Las Vegas, Departure Time: 16:12, Arrival Time: 17:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Garden Court, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 18:15 to 18:45, nearest transit: The Strat, 5367.88m away; Garden Court, Las Vegas, visit from 19:15 to 20:30, ; Gamble Adventure | Restaurant. Outside Pool, stay from 21:00 to 06:42, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 07:12 to 07:42, nearest transit: The Strat, 5367.88m away; Ameribrunch Cafe, Las Vegas, visit from 08:12 to 09:02, ; Red Rock Canyon National Conservation Area, Las Vegas, visit from 09:32 to 14:00, ; Eggscellent, Las Vegas, visit from 14:30 to 16:44, ; Mr. Mamas, Las Vegas, visit from 20:45 to 22:00, ; Gamble Adventure | Restaurant. Outside Pool, stay from 22:30 to 06:30, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to San Francisco",
+    "transportation": "Self-driving from Las Vegas to San Francisco, duration: 635.1733333333334, distance: 911.6445, cost : 45.0",
+    "breakfast": "-",
+    "lunch": "Skyfall Lounge, Las Vegas",
+    "dinner": "Eggslut, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 07:00 to 07:30, nearest transit: The Strat, 5367.88m away; Skyfall Lounge, Las Vegas, visit from 12:51 to 13:51, ; Bellagio Conservatory & Botanical Garden, Las Vegas, visit from 15:00 to 18:30, ; Eggslut, Las Vegas, visit from 19:00 to 20:15, "
+  }
+]

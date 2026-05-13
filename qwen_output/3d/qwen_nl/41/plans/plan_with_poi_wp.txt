@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to Cincinnati",
+    "transportation": "Flight Number: F0325743, from Atlanta to Cincinnati, Departure Time: 12:12, Arrival Time: 13:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Blind Lemon, Cincinnati",
+    "attraction": "Cincinnati Museum Center, Cincinnati",
+    "accommodation": "Cincinnati D-Listers Extravaganza, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "Cincinnati D-Listers Extravaganza, stay from 13:53 to 14:23, nearest transit: WIEHE RD & BREMONT AVE, 245.11m away; Cincinnati Museum Center, Cincinnati, visit from 15:30 to 19:15, ; The Blind Lemon, Cincinnati, visit from 19:45 to 21:00, ; Cincinnati D-Listers Extravaganza, stay from 21:30 to 05:30, nearest transit: WIEHE RD & BREMONT AVE, 245.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Cincinnati",
+    "transportation": "-",
+    "breakfast": "Agave & Rye Rookwood, Cincinnati",
+    "lunch": "Five On Vine, Cincinnati",
+    "dinner": "Ambar India, Cincinnati",
+    "attraction": "National Underground Railroad Freedom Center, Cincinnati",
+    "accommodation": "Cincinnati D-Listers Extravaganza, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "Cincinnati D-Listers Extravaganza, stay from 06:00 to 06:30, nearest transit: WIEHE RD & BREMONT AVE, 245.11m away; Agave & Rye Rookwood, Cincinnati, visit from 08:21 to 09:11, ; National Underground Railroad Freedom Center, Cincinnati, visit from 09:41 to 13:11, ; Five On Vine, Cincinnati, visit from 13:41 to 14:41, ; Ambar India, Cincinnati, visit from 19:00 to 20:15, ; Cincinnati D-Listers Extravaganza, stay from 20:45 to 05:30, nearest transit: WIEHE RD & BREMONT AVE, 245.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Cincinnati to Atlanta",
+    "transportation": "Flight Number: F1327592, from Cincinnati to Atlanta, Departure Time: 17:18, Arrival Time: 18:50",
+    "breakfast": "Sotto, Cincinnati",
+    "lunch": "Pepp & Dolores, Cincinnati",
+    "dinner": "-",
+    "attraction": "Eden Park, Cincinnati",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cincinnati D-Listers Extravaganza, stay from 06:00 to 06:30, nearest transit: WIEHE RD & BREMONT AVE, 245.11m away; Sotto, Cincinnati, visit from 08:00 to 08:50, ; Eden Park, Cincinnati, visit from 09:20 to 12:50, ; Pepp & Dolores, Cincinnati, visit from 13:20 to 14:20, "
+  }
+]

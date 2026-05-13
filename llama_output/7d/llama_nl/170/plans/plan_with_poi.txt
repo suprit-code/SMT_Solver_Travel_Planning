@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to San Diego",
+    "transportation": "Flight Number: F1211604, from Chicago to San Diego, Departure Time: 07:18, Arrival Time: 09:29",
+    "breakfast": "-",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 09:59 to 10:29, nearest transit: Ulric St & Tait St, 283.34m away; Cowboy Star, San Diego, visit from 12:00 to 13:00, ; San Diego Zoo, San Diego, visit from 15:30 to 19:15, ; Addison Restaurant, San Diego, visit from 19:45 to 21:00, ; No contact with host, separate, and close to town!, stay from 21:30 to 05:30, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Buon Appetito, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 06:00 to 06:30, nearest transit: Ulric St & Tait St, 283.34m away; Buon Appetito, San Diego, visit from 09:09 to 09:59, ; Pacific Beach AleHouse, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 19:00, ; Din Tai Fung, San Diego, visit from 19:30 to 20:45, ; No contact with host, separate, and close to town!, stay from 23:04 to 07:04, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "-",
+    "dinner": "Paragary's, Sacramento",
+    "attraction": "-",
+    "accommodation": "Beautiful home in W. Sacramento, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 07:34 to 08:04, nearest transit: Ulric St & Tait St, 283.34m away; Mimmo's, San Diego, visit from 08:34 to 09:24, ; Beautiful home in W. Sacramento, stay from 19:45 to 20:15, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Paragary's, Sacramento, visit from 20:45 to 22:00, ; Beautiful home in W. Sacramento, stay from 22:30 to 06:30, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "Tipsy Putt, Sacramento",
+    "dinner": "Tower Cafe, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Beautiful home in W. Sacramento, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Beautiful home in W. Sacramento, stay from 07:00 to 07:30, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Paesano's Pizzeria, Sacramento, visit from 08:26 to 09:16, ; Tipsy Putt, Sacramento, visit from 13:17 to 14:17, ; Capitol Park, Sacramento, visit from 15:00 to 18:30, ; Tower Cafe, Sacramento, visit from 19:00 to 20:15, ; Beautiful home in W. Sacramento, stay from 20:45 to 04:45, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Fresno",
+    "transportation": "Taxi from Sacramento to Fresno, duration: 198.32166666666663, distance: 273.258, cost : 273.0",
+    "breakfast": "Scott's Seafood on The River, Sacramento",
+    "lunch": "Nopalitos, Sacramento",
+    "dinner": "-",
+    "attraction": "Old Sacramento, Sacramento",
+    "accommodation": "Beautifully remodeled NE Fresno home 3bed/2Bath, Fresno",
+    "event": "-",
+    "point_of_interest_list": "Beautiful home in W. Sacramento, stay from 06:00 to 06:30, nearest transit: RIVERSIDE BLVD & 12TH AVE (NB), 2068.7m away; Scott's Seafood on The River, Sacramento, visit from 08:20 to 09:10, ; Old Sacramento, Sacramento, visit from 09:40 to 13:10, ; Nopalitos, Sacramento, visit from 13:40 to 14:40, ; Beautifully remodeled NE Fresno home 3bed/2Bath, stay from 18:58 to 19:28, nearest transit: SW CHAMPLAIN - FOXHILL, 865.19m away; Beautifully remodeled NE Fresno home 3bed/2Bath, stay from 19:58 to 03:58, nearest transit: SW CHAMPLAIN - FOXHILL, 865.19m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Fresno",
+    "transportation": "-",
+    "breakfast": "Parma, Fresno",
+    "lunch": "Yosemite Ranch, Fresno",
+    "dinner": "La Boulangerie French Bakery & Cafe, Fresno",
+    "attraction": "-",
+    "accommodation": "Beautifully remodeled NE Fresno home 3bed/2Bath, Fresno",
+    "event": "-",
+    "point_of_interest_list": "Beautifully remodeled NE Fresno home 3bed/2Bath, stay from 06:00 to 06:30, nearest transit: SW CHAMPLAIN - FOXHILL, 865.19m away; Parma, Fresno, visit from 08:03 to 08:53, ; Yosemite Ranch, Fresno, visit from 13:23 to 14:23, ; La Boulangerie French Bakery & Cafe, Fresno, visit from 19:00 to 20:15, ; Beautifully remodeled NE Fresno home 3bed/2Bath, stay from 00:00 to 08:00, nearest transit: SW CHAMPLAIN - FOXHILL, 865.19m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Fresno to Chicago",
+    "transportation": "Flight Number: F2417142, from Fresno to Chicago, Departure Time: 23:56, Arrival Time: 05:32",
+    "breakfast": "-",
+    "lunch": "Taqueria Don Pepe, Fresno",
+    "dinner": "-",
+    "attraction": "Fresno Chaffee Zoo, Fresno",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautifully remodeled NE Fresno home 3bed/2Bath, stay from 08:30 to 09:00, nearest transit: SW CHAMPLAIN - FOXHILL, 865.19m away; Taqueria Don Pepe, Fresno, visit from 12:00 to 13:00, ; Fresno Chaffee Zoo, Fresno, visit from 13:30 to 17:00, "
+  }
+]

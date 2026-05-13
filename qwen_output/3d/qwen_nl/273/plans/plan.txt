@@ -1,0 +1,6 @@
+Destination cities: ['Baltimore'],
+Transportation dates: ['2024-11-27', '2024-11-29'],
+Transportation methods between cities: ['Flight Number: F4036779, from Louisville to Baltimore, Departure Time: 13:32, Arrival Time: 14:52', 'Flight Number: F0030670, from Baltimore to Louisville, Departure Time: 17:57, Arrival Time: 19:30'],
+Restaurants (3 meals per day): ['-', '-', 'The Abbey Burger Bistro, Baltimore', "Amicci's, Baltimore", 'Pratt Street Ale House, Baltimore', 'Magdalena, A Maryland Bistro, Baltimore', 'Tagliata, Baltimore', 'Angies Seafood, Baltimore', '-'],
+Attractions (1 per day): ['Federal Hill Park, Baltimore', 'National Aquarium, Baltimore', 'The Maryland Zoo, Baltimore'],
+Accommodations (1 per city): ['The basement, Baltimore']

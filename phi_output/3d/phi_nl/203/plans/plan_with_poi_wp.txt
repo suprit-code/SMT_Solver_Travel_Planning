@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Atlanta",
+    "transportation": "Flight Number: F1290971, from Kansas City to Atlanta, Departure Time: 14:39, Arrival Time: 17:31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "-",
+    "accommodation": "Midtown Hidden Gem @Piedmont Park/Private+Parking, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 18:01 to 18:31, nearest transit: MONROE DR @ PARK DR, 114.55m away; Home Grown, Atlanta, visit from 19:01 to 22:01, ; Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 22:31 to 06:31, nearest transit: MONROE DR @ PARK DR, 114.55m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Nikolai's Roof, Atlanta",
+    "lunch": "The Americano Atlanta, Atlanta",
+    "dinner": "By George restaurant and bar, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Midtown Hidden Gem @Piedmont Park/Private+Parking, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 07:01 to 07:31, nearest transit: MONROE DR @ PARK DR, 114.55m away; Nikolai's Roof, Atlanta, visit from 08:01 to 09:59, ; The Americano Atlanta, Atlanta, visit from 14:00 to 15:00, ; Zoo Atlanta, Atlanta, visit from 15:30 to 19:00, ; By George restaurant and bar, Atlanta, visit from 19:30 to 22:00, ; Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 22:30 to 06:30, nearest transit: MONROE DR @ PARK DR, 114.55m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Kansas City",
+    "transportation": "Taxi from Atlanta to Kansas City, duration: 893.7883333333334, distance: 1289.864, cost : 1289.0",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "The Optimist, Atlanta",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Midtown Hidden Gem @Piedmont Park/Private+Parking, stay from 07:00 to 07:30, nearest transit: MONROE DR @ PARK DR, 114.55m away; Canoe, Atlanta, visit from 08:00 to 08:50, ; Georgia Aquarium, Atlanta, visit from 09:20 to 12:50, ; The Optimist, Atlanta, visit from 13:20 to 14:20, ; Cafe Agora, Atlanta, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Greensboro",
+    "transportation": "Flight Number: F3061727, from Washington to Greensboro, Departure Time: 07:35, Arrival Time: 08:45",
+    "breakfast": "-",
+    "lunch": "Print Works Bistro, Greensboro",
+    "dinner": "Mythos Grill, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Arya’s cottage with a loft & jacuzzi, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Arya’s cottage with a loft & jacuzzi, stay from 09:15 to 09:45, nearest transit: Elmsley/Chesham, 2226.43m away; International Civil Rights Center & Museum, Greensboro, visit from 10:30 to 14:00, ; Print Works Bistro, Greensboro, visit from 14:30 to 15:44, ; Mythos Grill, Greensboro, visit from 19:45 to 21:00, ; Arya’s cottage with a loft & jacuzzi, stay from 21:30 to 05:30, nearest transit: Elmsley/Chesham, 2226.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Carolina's Diner, Greensboro",
+    "lunch": "MJ's Steak and Seafood, Greensboro",
+    "dinner": "B. Christopher's, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "Arya’s cottage with a loft & jacuzzi, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "Arya’s cottage with a loft & jacuzzi, stay from 06:00 to 06:30, nearest transit: Elmsley/Chesham, 2226.43m away; Carolina's Diner, Greensboro, visit from 08:56 to 10:00, ; Carolina Theatre, Greensboro, visit from 10:30 to 14:00, ; MJ's Steak and Seafood, Greensboro, visit from 14:30 to 16:44, ; B. Christopher's, Greensboro, visit from 20:45 to 23:09, ; Arya’s cottage with a loft & jacuzzi, stay from 23:39 to 07:39, nearest transit: Elmsley/Chesham, 2226.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Washington",
+    "transportation": "Taxi from Greensboro to Washington, duration: 357.15833333333336, distance: 496.6706, cost : 496.0",
+    "breakfast": "Dear Dad's, Greensboro",
+    "lunch": "Captain Bill's Seafood & Steak, Greensboro",
+    "dinner": "Stamey's Barbecue, Greensboro",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Arya’s cottage with a loft & jacuzzi, stay from 08:09 to 08:39, nearest transit: Elmsley/Chesham, 2226.43m away; Dear Dad's, Greensboro, visit from 09:09 to 09:59, ; Captain Bill's Seafood & Steak, Greensboro, visit from 14:00 to 15:00, ; Ambleside Gallery, Greensboro, visit from 15:30 to 19:00, ; Stamey's Barbecue, Greensboro, visit from 19:30 to 20:45, "
+  }
+]

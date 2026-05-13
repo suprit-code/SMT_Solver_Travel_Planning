@@ -1,0 +1,8 @@
+
+    ########## Driving response ##########
+    # Run DistanceSearch to get driving info for St. Louis as origin and city_0
+    driving_info = DistanceSearch.run_for_all_cities('St. Louis', cities, [city_0])  # use driving_info, do not customize
+    # Assert driving info is not empty if driving (not applicable here as self-driving is not allowed)
+    # No assertion needed as self-driving is not allowed
+    ########## Driving response ends ##########
+    

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Montgomery to Atlanta",
+    "transportation": "taxi, from Montgomery to Atlanta, duration: 179.01166666666668, distance: 259.3936, cost: 259",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 08:00 to 08:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Historic Lounge - Private BR in the Heart of ATL#2, stay from 23:00 to 08:00, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Nikolai's Roof, Atlanta",
+    "lunch": "St. Cecilia, Atlanta",
+    "dinner": "No Mas! Cantina, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 08:00 to 08:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Nikolai's Roof, visit from 09:00 to 09:40, nearest transit: RALPH MCGILL BLVD NE @ COURTLAND ST, 309.92m away; Georgia Aquarium, visit from 10:10 to 12:10, nearest transit: IVAN ALLEN JR BLVD NW @ LUCKIE ST, 131.37m away; St. Cecilia, visit from 13:40 to 14:20, nearest transit: PEACHTREE RD NE @ OAK VALLEY RD NE, 63.53m away; No Mas! Cantina, visit from 19:00 to 19:40, nearest transit: PETERS ST SW @ HAYNES ST SW, 123.79m away; Historic Lounge - Private BR in the Heart of ATL#2, stay from 23:00 to 08:00, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Montgomery",
+    "transportation": "taxi, from Atlanta to Montgomery, duration: 178.06833333333333, distance: 258.9032, cost: 258",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "The Optimist, Atlanta",
+    "dinner": "Kevin Rathbun Steak, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 08:00 to 08:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Canoe, visit from 09:00 to 09:40, nearest transit: NORTHSIDE PKWY @ RIVER GREEN DR, 738.85m away; Zoo Atlanta, visit from 10:10 to 12:10, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; The Optimist, visit from 13:40 to 14:20, nearest transit: W MARIETTA ST @ BRADY AVE, 164.88m away; Kevin Rathbun Steak, visit from 19:00 to 19:40, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 465.73m away"
+  }
+]

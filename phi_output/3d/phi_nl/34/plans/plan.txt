@@ -1,0 +1,6 @@
+Destination cities: ['Charleston'],
+Transportation dates: ['2024-11-22', '2024-11-24'],
+Transportation methods between cities: ['Flight Number: F3981643, from Nashville to Charleston, Departure Time: 09:38, Arrival Time: 11:50', 'Flight Number: F1675566, from Charleston to Nashville, Departure Time: 21:20, Arrival Time: 21:37'],
+Restaurants (3 meals per day): ['-', '-', 'The Palmetto Cafe, Charleston', "Stella's, Charleston", 'Oak Steakhouse, Charleston', "Eli's Table, Charleston", 'Amen Street Fish & Raw Bar, Charleston', 'The Ordinary, Charleston', '-'],
+Attractions (1 per day): ['Battery & White Point Gardens, Charleston', 'Magnolia Plantation & Gardens, Charleston', 'Charleston City Market, Charleston'],
+Accommodations (1 per city): ['Secret Garden Guesthouse, Charleston']

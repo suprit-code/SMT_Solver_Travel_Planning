@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Montgomery to Washington",
+    "transportation": "Self-driving from Montgomery to Washington, duration: 906.42, distance: 1284.9725, cost : 64.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 21:40 to 22:10, nearest transit: FOGGY BOTTOM, 373.15m away; King Studio | 2500 Penn, a Placemakr Experience, stay from 22:40 to 06:40, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Fiola, Washington",
+    "lunch": "The Hamilton, Washington",
+    "dinner": "Smoke & Mirrors Rooftop Bar, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 07:10 to 07:40, nearest transit: FOGGY BOTTOM, 373.15m away; Fiola, Washington, visit from 08:10 to 09:29, ; United States Botanic Garden, Washington, visit from 09:59 to 13:29, ; The Hamilton, Washington, visit from 13:59 to 14:59, ; Smoke & Mirrors Rooftop Bar, Washington, visit from 19:00 to 20:15, ; King Studio | 2500 Penn, a Placemakr Experience, stay from 23:39 to 07:39, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Montgomery",
+    "transportation": "Self-driving from Washington to Montgomery, duration: 910.0733333333334, distance: 1287.7221000000002, cost : 64.0",
+    "breakfast": "Old Ebbitt Grill, Washington",
+    "lunch": "The Palm - Washington, D.C., Washington",
+    "dinner": "Unconventional Diner, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 08:09 to 08:39, nearest transit: FOGGY BOTTOM, 373.15m away; Old Ebbitt Grill, Washington, visit from 09:09 to 09:59, ; The Palm - Washington, D.C., Washington, visit from 14:00 to 15:00, ; National Mall, Washington, visit from 15:30 to 19:00, ; Unconventional Diner, Washington, visit from 19:30 to 20:45, "
+  }
+]

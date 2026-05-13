@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F1215022, from Denver to San Diego, Departure Time: 16:10, Arrival Time: 17:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 17:47 to 18:17, nearest transit: 30th St & A St, 427.5m away; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 22:54 to 06:54, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Morning Glory, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 07:24 to 07:54, nearest transit: 30th St & A St, 427.5m away; Pacific Beach AleHouse, San Diego, visit from 08:24 to 09:59, ; Morning Glory, San Diego, visit from 14:00 to 15:00, ; USS Midway Museum, San Diego, visit from 15:30 to 20:15, ; Din Tai Fung, San Diego, visit from 20:45 to 22:01, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 22:31 to 06:31, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F1765386, from San Diego to Sacramento, Departure Time: 08:01, Arrival Time: 09:45",
+    "breakfast": "-",
+    "lunch": "Paragary's, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "California State Railroad Museum, Sacramento",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 07:01 to 07:31, nearest transit: 30th St & A St, 427.5m away; Modern Apt Near Downtown Sac, stay from 10:15 to 10:45, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Paragary's, Sacramento, visit from 12:00 to 13:00, ; California State Railroad Museum, Sacramento, visit from 15:00 to 18:30, ; Grange Restaurant & Bar, Sacramento, visit from 19:00 to 20:15, ; Modern Apt Near Downtown Sac, stay from 20:45 to 04:45, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Nopalitos, Sacramento",
+    "lunch": "Pilothouse Restaurant on the Delta King, Sacramento",
+    "dinner": "Tipsy Putt, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 06:00 to 06:30, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Nopalitos, Sacramento, visit from 08:09 to 08:59, ; California State Capitol Museum, Sacramento, visit from 09:29 to 12:59, ; Pilothouse Restaurant on the Delta King, Sacramento, visit from 13:59 to 14:59, ; Tipsy Putt, Sacramento, visit from 19:00 to 20:15, ; Modern Apt Near Downtown Sac, stay from 21:30 to 05:30, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Denver",
+    "transportation": "Flight Number: F1815270, from Sacramento to Denver, Departure Time: 16:02, Arrival Time: 19:14",
+    "breakfast": "Localis, Sacramento",
+    "lunch": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "dinner": "-",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 06:00 to 06:30, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Localis, Sacramento, visit from 08:00 to 08:50, ; Sacramento History Museum, Sacramento, visit from 09:20 to 12:50, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 14:30 to 15:30, "
+  }
+]

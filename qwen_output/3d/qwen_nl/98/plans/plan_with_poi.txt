@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Lexington",
+    "transportation": "Flight Number: F2320713, from Detroit to Lexington, Departure Time: 16:45, Arrival Time: 17:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Downtown Digs-Spacious Loft, Lexington",
+    "event": "-",
+    "point_of_interest_list": "Downtown Digs-Spacious Loft, stay from 18:26 to 22:13, nearest transit: 4th @ Johnson, 167.44m away; Downtown Digs-Spacious Loft, stay from 22:43 to 06:43, nearest transit: 4th @ Johnson, 167.44m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Lexington",
+    "transportation": "-",
+    "breakfast": "Red State BBQ, Lexington",
+    "lunch": "Joe Bologna's Restaurant and Pizzeria, Lexington",
+    "dinner": "Keeneland Track Kitchen, Lexington",
+    "attraction": "Lexington Brewing & Distilling Co., Lexington",
+    "accommodation": "Downtown Digs-Spacious Loft, Lexington",
+    "event": "-",
+    "point_of_interest_list": "Downtown Digs-Spacious Loft, stay from 07:13 to 07:43, nearest transit: 4th @ Johnson, 167.44m away; Red State BBQ, Lexington, visit from 08:13 to 09:37, ; Joe Bologna's Restaurant and Pizzeria, Lexington, visit from 13:38 to 14:38, ; Lexington Brewing & Distilling Co., Lexington, visit from 15:08 to 18:38, ; Keeneland Track Kitchen, Lexington, visit from 19:08 to 20:23, ; Downtown Digs-Spacious Loft, stay from 20:53 to 04:53, nearest transit: 4th @ Johnson, 167.44m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Lexington to Detroit",
+    "transportation": "Flight Number: F3640695, from Lexington to Detroit, Departure Time: 06:23, Arrival Time: 07:54",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Digs-Spacious Loft, stay from 05:23 to 05:53, nearest transit: 4th @ Johnson, 167.44m away"
+  }
+]

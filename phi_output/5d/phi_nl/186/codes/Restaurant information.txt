@@ -1,0 +1,16 @@
+
+            ########## Restaurant response ##########
+            # Set 'restaurant_index' variables for (3 x total_travel_days) (3 meals per day, total_travel_days days) meals.
+            variables['restaurant_index'] = [Int('restaurant_{}_index'.format(i)) for i in range(3*total_travel_days)]
+            
+            # For each 'restaurant_index', get specific price info based on 'restaurant_in_which_city' variable, assert index are within valid range, assert restaurants in same city are not repeated, and calculate restaurant price for 5 people
+            all_restaurant_price = 0
+            for i, variable in enumerate(variables['restaurant_index']):
+                restaurant_price_list, restaurant_list_length = RestaurantSearch.get_info(restaurant_price, variables['restaurant_in_which_city'][i], 'Price')
+                s.assert_and_track(Implies(variables['restaurant_in_which_city'][i] != -1, And(variable >= 0, variable < restaurant_list_length)), 'valid restaurant index')
+                s.assert_and_track(Implies(variables['restaurant_in_which_city'][i] == -1, variable == -1), 'valid restaurant index')
+                for j in range(i-1, -1, -1):
+                    s.assert_and_track(Implies(And(variables['restaurant_in_which_city'][i] != -1, variables['restaurant_in_which_city'][i] == variables['restaurant_in_which_city'][j]), variable != variables['restaurant_index'][j]), 'non repeating restaurant index')
+                all_restaurant_price += 5 * If(variables['restaurant_in_which_city'][i] != -1,  RestaurantSearch.get_info_for_index(restaurant_price_list, variable), 0)
+            ########## Restaurant response ends ##########
+            

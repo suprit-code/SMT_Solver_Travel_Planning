@@ -1,0 +1,6 @@
+Destination cities: ['Boise'],
+Transportation dates: ['2024-11-23', '2024-11-25'],
+Transportation methods between cities: ['Self-driving, from Spokane to Boise, duration: 468.525, distance: 678.2546, cost: 33', 'Self-driving, from Boise to Spokane, duration: 468.455, distance: 685.3743000000001, cost: 34'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Boise Fry Company, Boise', 'Flying M Coffee House, Boise', 'Westside Drive In, Boise', "Guido's Original New York Style Pizza Downtown, Boise", 'Thai Cuisine, Boise', 'Chiang Mai House Thai, Boise'],
+Attractions (1 per day): ['-', 'Boise River Greenbelt, Boise', 'Freak Alley Gallery, Boise'],
+Accommodations (1 per city): ['North End Private Guest Suite in Historic Home, Boise']

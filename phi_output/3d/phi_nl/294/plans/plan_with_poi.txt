@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to San Francisco",
+    "transportation": "Flight Number: F3828375, from Boise to San Francisco, Departure Time: 08:14, Arrival Time: 08:48",
+    "breakfast": "-",
+    "lunch": "Scoma's Restaurant, San Francisco",
+    "dinner": "Waterbar, San Francisco",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "Airy private room in quiet home, Castro, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Airy private room in quiet home, Castro, stay from 09:18 to 09:48, nearest transit: Civic Center BART (9th and Market), 2659.13m away; Pier 39, San Francisco, visit from 10:18 to 14:00, ; Scoma's Restaurant, San Francisco, visit from 14:30 to 16:44, ; Waterbar, San Francisco, visit from 20:45 to 22:07, ; Airy private room in quiet home, Castro, stay from 22:37 to 06:37, nearest transit: Civic Center BART (9th and Market), 2659.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Mersea Restaurant & Bar, San Francisco",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "dinner": "Kokkari Estiatorio, San Francisco",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Airy private room in quiet home, Castro, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Airy private room in quiet home, Castro, stay from 07:07 to 07:37, nearest transit: Civic Center BART (9th and Market), 2659.13m away; Mersea Restaurant & Bar, San Francisco, visit from 08:07 to 08:57, ; Lands End, San Francisco, visit from 09:27 to 14:00, ; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 14:30 to 15:30, ; Kokkari Estiatorio, San Francisco, visit from 19:31 to 20:46, ; Airy private room in quiet home, Castro, stay from 21:16 to 05:16, nearest transit: Civic Center BART (9th and Market), 2659.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Boise",
+    "transportation": "Flight Number: F3819931, from San Francisco to Boise, Departure Time: 17:32, Arrival Time: 20:07",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "dinner": "-",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Airy private room in quiet home, Castro, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 2659.13m away; Quince, San Francisco, visit from 08:00 to 08:50, ; Golden Gate Park, San Francisco, visit from 09:20 to 12:50, ; Harris' Restaurant - The San Francisco Steakhouse, San Francisco, visit from 14:30 to 15:30, "
+  }
+]

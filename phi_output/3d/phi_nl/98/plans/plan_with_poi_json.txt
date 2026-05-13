@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Lexington",
+    "transportation": "Flight Number: F2320713, from Detroit to Lexington, Departure Time: 16:45, Arrival Time: 17:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Lexington Brewing & Distilling Co., Lexington",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Lexington",
+    "transportation": "-",
+    "breakfast": "J. Alexander's Restaurant, Lexington",
+    "lunch": "Bella Notte, Lexington",
+    "dinner": "Carson's Food & Drink - On Main, Lexington",
+    "attraction": "James E. Pepper Distillery, Lexington",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 08:00 to 08:30, nearest transit: Chandler Hospital, 202.96m away; J. Alexander's Restaurant, visit from 09:00 to 09:40, nearest transit: Nicholasville @ The Summit, 237.54m away; James E. Pepper Distillery, visit from 10:10 to 12:10, nearest transit: Forbes @ 255 Outbound, 435.89m away; Bella Notte, visit from 13:40 to 14:20, nearest transit: Nicholasville @ Mansion Apts, 73.14m away; Carson's Food & Drink - On Main, visit from 19:00 to 19:40, nearest transit: Elm Tree @ Main Outbound, 116.68m away; A single room for your stay, stay from 23:00 to 08:00, nearest transit: Chandler Hospital, 202.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Lexington to Detroit",
+    "transportation": "Flight Number: F3194745, from Lexington to Detroit, Departure Time: 19:13, Arrival Time: 20:26",
+    "breakfast": "Keeneland Track Kitchen, Lexington",
+    "lunch": "The Triangle Grille, Lexington",
+    "dinner": "-",
+    "attraction": "Munroe Tavern, Lexington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 08:00 to 08:30, nearest transit: Chandler Hospital, 202.96m away; Keeneland Track Kitchen, visit from 09:00 to 09:40, nearest transit: Keeneland Race Track, 480.33m away; Munroe Tavern, visit from 10:10 to 12:10, nearest transit: Polo Club @ 2924, 1223170.76m away; The Triangle Grille, visit from 13:40 to 14:20, nearest transit: North Broadway @ Main Inbound, 68.41m away"
+  }
+]

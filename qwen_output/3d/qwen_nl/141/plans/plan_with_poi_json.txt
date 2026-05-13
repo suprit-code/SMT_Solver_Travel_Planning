@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Huntsville",
+    "transportation": "Self-driving, from Indianapolis to Huntsville, duration: 451.75, distance: 639.0136, cost: 31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Wooded  w/ river view. Q sleep# bed and 2 bunks., Huntsville",
+    "event": "-",
+    "point_of_interest_list": "Wooded  w/ river view. Q sleep# bed and 2 bunks., stay from 15:56 to 16:16, nearest transit: Winchester at Sam EB, 8264.92m away; Wooded  w/ river view. Q sleep# bed and 2 bunks., stay from 16:41 to 08:00, nearest transit: Winchester at Sam EB, 8264.92m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Huntsville",
+    "transportation": "-",
+    "breakfast": "Nick's Ristorante, Huntsville",
+    "lunch": "Grille on Main, Huntsville",
+    "dinner": "Ruth's Chris Steak House, Huntsville",
+    "attraction": "Huntsville Botanical Garden, Huntsville",
+    "accommodation": "Wooded  w/ river view. Q sleep# bed and 2 bunks., Huntsville",
+    "event": "-",
+    "point_of_interest_list": "Wooded  w/ river view. Q sleep# bed and 2 bunks., stay from 08:00 to 08:30, nearest transit: Winchester at Sam EB, 8264.92m away; Nick's Ristorante, visit from 08:55 to 09:35, nearest transit: Weatherly at Bailey Cove SB, 73.51m away; Huntsville Botanical Garden, visit from 10:00 to 12:00, nearest transit: Patton at Morgan SB, 626.60m away; Grille on Main, visit from 13:35 to 14:15, nearest transit: Walmart - University Dr , 1691.58m away; Ruth's Chris Steak House, visit from 19:00 to 19:40, nearest transit: Huntsville Hospital (Gallatin & Sivley), 117.22m away; Wooded  w/ river view. Q sleep# bed and 2 bunks., stay from 20:05 to 08:00, nearest transit: Winchester at Sam EB, 8264.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Huntsville to Indianapolis",
+    "transportation": "Self-driving, from Huntsville to Indianapolis, duration: 451.3783333333333, distance: 638.8732, cost: 31",
+    "breakfast": "The Bottle, Huntsville",
+    "lunch": "Cotton Row, Huntsville",
+    "dinner": "Texas de Brazil - Huntsville, Huntsville",
+    "attraction": "U.S. Space and Rocket Center, Huntsville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Wooded  w/ river view. Q sleep# bed and 2 bunks., stay from 08:00 to 08:30, nearest transit: Winchester at Sam EB, 8264.92m away; The Bottle, visit from 08:55 to 09:35, nearest transit: Todd Towers Stop, 174.39m away; U.S. Space and Rocket Center, visit from 10:00 to 12:00, nearest transit: Space and Rocket Center , 175.11m away; Cotton Row, visit from 13:35 to 14:15, nearest transit: Huntsville Museum of Art / Pane e Vino, 246.01m away; Texas de Brazil - Huntsville, visit from 19:00 to 19:40, nearest transit: Bridge Street Town Center, 498.85m away"
+  }
+]

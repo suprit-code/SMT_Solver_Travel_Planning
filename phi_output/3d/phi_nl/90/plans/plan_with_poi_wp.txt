@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Flight Number: F2907731, from Martha's Vineyard to New York, Departure Time: 13:20, Arrival Time: 14:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Manhatta, New York",
+    "attraction": "-",
+    "accommodation": "Serenity at the Heart of NYC l No Cleaning fee, New York",
+    "event": "-",
+    "point_of_interest_list": "Serenity at the Heart of NYC l No Cleaning fee, stay from 14:45 to 15:15, nearest transit: 8 AV/W 46 ST, 50.55m away; Manhatta, New York, visit from 19:00 to 20:15, ; Serenity at the Heart of NYC l No Cleaning fee, stay from 21:30 to 05:30, nearest transit: 8 AV/W 46 ST, 50.55m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Rao's Restaurant, New York",
+    "lunch": "La Grande Boucherie, New York",
+    "dinner": "BOOM, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Serenity at the Heart of NYC l No Cleaning fee, New York",
+    "event": "-",
+    "point_of_interest_list": "Serenity at the Heart of NYC l No Cleaning fee, stay from 06:00 to 06:30, nearest transit: 8 AV/W 46 ST, 50.55m away; Rao's Restaurant, New York, visit from 08:09 to 08:59, ; Central Park, New York, visit from 09:29 to 12:59, ; La Grande Boucherie, New York, visit from 14:30 to 16:44, ; BOOM, New York, visit from 20:45 to 23:09, ; Serenity at the Heart of NYC l No Cleaning fee, stay from 23:39 to 07:39, nearest transit: 8 AV/W 46 ST, 50.55m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Martha's Vineyard",
+    "transportation": "Taxi from New York to Martha's Vineyard, duration: 404.8333333333333, distance: 425.9981, cost : 425.0",
+    "breakfast": "Del Frisco's Double Eagle Steakhouse, New York",
+    "lunch": "Gaonnuri, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Serenity at the Heart of NYC l No Cleaning fee, stay from 08:09 to 08:39, nearest transit: 8 AV/W 46 ST, 50.55m away; Del Frisco's Double Eagle Steakhouse, New York, visit from 09:09 to 09:59, ; Gaonnuri, New York, visit from 14:00 to 15:00, ; The Metropolitan Museum of Art, New York, visit from 15:30 to 19:00, ; FIG & OLIVE, New York, visit from 19:30 to 20:45, "
+  }
+]

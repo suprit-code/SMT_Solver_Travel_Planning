@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Amarillo",
+    "transportation": "Flight Number: F0003343, from Las Vegas to Amarillo, Departure Time: 11:05, Arrival Time: 15:05",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ichiban Noodle Bar & Asian Cuisine, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 15:35 to 16:05, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Ichiban Noodle Bar & Asian Cuisine, Amarillo, visit from 19:00 to 20:15, ; Relaxing Place to Stay with Guest Living Room!, stay from 20:45 to 04:45, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Saltgrass Steak House, Amarillo",
+    "lunch": "Ye Olde Pancake Station, Amarillo",
+    "dinner": "El Bracero Mexican Grill, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 06:00 to 06:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Saltgrass Steak House, Amarillo, visit from 08:48 to 09:38, ; Route 66 Historic District, Amarillo, visit from 10:08 to 13:38, ; Ye Olde Pancake Station, Amarillo, visit from 14:08 to 15:08, ; El Bracero Mexican Grill, Amarillo, visit from 19:09 to 20:24, ; Relaxing Place to Stay with Guest Living Room!, stay from 20:54 to 04:54, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F1760526, from Amarillo to Houston, Departure Time: 06:54, Arrival Time: 08:28",
+    "breakfast": "-",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 05:54 to 06:24, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, stay from 08:58 to 09:28, nearest transit: Houston Ave @ Bingham St, 302.24m away; Houston Restaurant, Houston, visit from 12:00 to 13:00, ; NRG Stadium, Houston, visit from 15:30 to 20:15, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 20:45 to 22:42, ; A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, stay from 23:12 to 07:12, nearest transit: Houston Ave @ Bingham St, 302.24m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Phoenicia Specialty Foods, Houston",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, Houston",
+    "event": "-",
+    "point_of_interest_list": "A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, stay from 07:42 to 08:12, nearest transit: Houston Ave @ Bingham St, 302.24m away; Kenny & Ziggy's New York Deli, Houston, visit from 08:42 to 10:00, ; Children's Museum Houston, Houston, visit from 10:30 to 14:00, ; Phoenicia Specialty Foods, Houston, visit from 14:30 to 15:30, ; Pappadeaux Seafood Kitchen, Houston, visit from 19:31 to 20:46, ; A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, stay from 21:16 to 05:16, nearest transit: Houston Ave @ Bingham St, 302.24m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F1626651, from Houston to San Antonio, Departure Time: 08:17, Arrival Time: 09:05",
+    "breakfast": "-",
+    "lunch": "Dough Pizzeria Napoletana, San Antonio",
+    "dinner": "Sichuan House, San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "Welcome to my home, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "A| CLEAN •2 Monitor Desk • 4KTV • PRIVATE Entrance, stay from 06:00 to 07:47, nearest transit: Houston Ave @ Bingham St, 302.24m away; Welcome to my home, stay from 09:35 to 10:05, nearest transit: EL SENDERO & VESPERO, 223.74m away; Dough Pizzeria Napoletana, San Antonio, visit from 12:00 to 13:00, ; The Alamo, San Antonio, visit from 13:30 to 17:00, ; Sichuan House, San Antonio, visit from 19:00 to 20:15, ; Welcome to my home, stay from 20:45 to 04:45, nearest transit: EL SENDERO & VESPERO, 223.74m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Chama Gaucha Brazilian Steakhouse - San Antonio, San Antonio",
+    "lunch": "Pinkerton's Barbecue, San Antonio",
+    "dinner": "Brenner's on the River Walk, San Antonio",
+    "attraction": "Tower Of The Americas, San Antonio",
+    "accommodation": "Welcome to my home, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Welcome to my home, stay from 06:00 to 06:30, nearest transit: EL SENDERO & VESPERO, 223.74m away; Chama Gaucha Brazilian Steakhouse - San Antonio, San Antonio, visit from 08:03 to 08:53, ; Pinkerton's Barbecue, San Antonio, visit from 12:54 to 13:54, ; Tower Of The Americas, San Antonio, visit from 14:24 to 17:54, ; Brenner's on the River Walk, San Antonio, visit from 19:00 to 20:15, ; Welcome to my home, stay from 20:45 to 06:30, nearest transit: EL SENDERO & VESPERO, 223.74m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Las Vegas",
+    "transportation": "Taxi from San Antonio to Las Vegas, duration: 1336.2283333333332, distance: 2051.5727, cost : 2051.0",
+    "breakfast": "Zocca Cuisine D'Italia, San Antonio",
+    "lunch": "J Prime Steakhouse, San Antonio",
+    "dinner": "Boudro's Texas Bistro, San Antonio",
+    "attraction": "Pearl Brewery, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Welcome to my home, stay from 07:00 to 07:30, nearest transit: EL SENDERO & VESPERO, 223.74m away; Zocca Cuisine D'Italia, San Antonio, visit from 08:00 to 08:50, ; Pearl Brewery, San Antonio, visit from 09:20 to 12:50, ; J Prime Steakhouse, San Antonio, visit from 13:20 to 14:20, ; Boudro's Texas Bistro, San Antonio, visit from 19:00 to 20:15, "
+  }
+]

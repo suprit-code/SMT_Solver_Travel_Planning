@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Baltimore to Nashville",
+    "transportation": "Flight Number: F3088008, from Baltimore to Nashville, Departure Time: 06:19, Arrival Time: 07:26",
+    "breakfast": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "lunch": "Deacon’s New South, Nashville",
+    "dinner": "Henley, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Historic Dream In East Nashville, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Historic Dream In East Nashville, stay from 07:56 to 08:26, nearest transit: SHELBY AVE & S 9TH ST WB, 67.91m away; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 09:10 to 10:00, ; Centennial Park, Nashville, visit from 10:30 to 14:00, ; Deacon’s New South, Nashville, visit from 14:30 to 16:44, ; Henley, Nashville, visit from 20:45 to 23:10, ; Historic Dream In East Nashville, stay from 23:40 to 07:40, nearest transit: SHELBY AVE & S 9TH ST WB, 67.91m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Paula Deen's Family Kitchen, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "Old Hickory Steakhouse, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Historic Dream In East Nashville, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Historic Dream In East Nashville, stay from 08:10 to 08:40, nearest transit: SHELBY AVE & S 9TH ST WB, 67.91m away; Paula Deen's Family Kitchen, Nashville, visit from 09:10 to 10:00, ; Belmont Mansion, Nashville, visit from 10:30 to 14:00, ; Kayne Prime, Nashville, visit from 14:30 to 15:30, ; Old Hickory Steakhouse, Nashville, visit from 20:45 to 22:00, ; Historic Dream In East Nashville, stay from 22:46 to 06:46, nearest transit: SHELBY AVE & S 9TH ST WB, 67.91m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Skull's Rainbow Room, Nashville",
+    "lunch": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "dinner": "-",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Beautiful Renovated Bungalow 1.4 miles from DT, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Historic Dream In East Nashville, stay from 07:16 to 07:46, nearest transit: SHELBY AVE & S 9TH ST WB, 67.91m away; Skull's Rainbow Room, Nashville, visit from 08:16 to 09:06, ; Cheekwood, Nashville, visit from 09:36 to 13:06, ; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 13:36 to 14:36, ; Beautiful Renovated Bungalow 1.4 miles from DT, stay from 20:55 to 21:25, nearest transit: Commonwealth Ave & Lawrence Ave, 1027.51m away; Beautiful Renovated Bungalow 1.4 miles from DT, stay from 23:40 to 07:40, nearest transit: Commonwealth Ave & Lawrence Ave, 1027.51m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Bristol Seafood Restaurant, Bristol",
+    "lunch": "Bristol Lounge, Bristol",
+    "dinner": "Miller & Carter, Bristol",
+    "attraction": "Wills Memorial Building And Tower Tours, Bristol",
+    "accommodation": "Beautiful Renovated Bungalow 1.4 miles from DT, Bristol",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Renovated Bungalow 1.4 miles from DT, stay from 08:10 to 08:40, nearest transit: Commonwealth Ave & Lawrence Ave, 1027.51m away; Bristol Seafood Restaurant, Bristol, visit from 09:10 to 10:00, ; Wills Memorial Building And Tower Tours, Bristol, visit from 10:30 to 14:00, ; Bristol Lounge, Bristol, visit from 14:30 to 15:30, ; Miller & Carter, Bristol, visit from 19:31 to 22:16, ; Beautiful Renovated Bungalow 1.4 miles from DT, stay from 22:46 to 06:46, nearest transit: Commonwealth Ave & Lawrence Ave, 1027.51m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "Little Bristol Beach Bar, Bristol",
+    "lunch": "Bristol Seafood + Steak + Social, Bristol",
+    "dinner": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "attraction": "Clifton Suspension Bridge, Bristol",
+    "accommodation": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Renovated Bungalow 1.4 miles from DT, stay from 07:16 to 07:46, nearest transit: Commonwealth Ave & Lawrence Ave, 1027.51m away; Little Bristol Beach Bar, Bristol, visit from 08:16 to 09:06, ; Clifton Suspension Bridge, Bristol, visit from 09:36 to 13:06, ; Bristol Seafood + Steak + Social, Bristol, visit from 13:36 to 14:36, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 19:45 to 20:15, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; Maple Street Biscuit Company - City Center, Chattanooga, visit from 20:45 to 22:00, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 22:30 to 06:30, nearest transit: Boynton & 953 Boynton-0, 3119.08m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "La Cabriole, Chattanooga",
+    "lunch": "Mellow Mushroom Chattanooga, Chattanooga",
+    "dinner": "Ruth's Chris Steak House, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 07:00 to 07:30, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; La Cabriole, Chattanooga, visit from 09:09 to 09:59, ; Mellow Mushroom Chattanooga, Chattanooga, visit from 14:00 to 15:00, ; Tennessee Aquarium, Chattanooga, visit from 15:30 to 19:00, ; Ruth's Chris Steak House, Chattanooga, visit from 20:45 to 23:10, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 23:40 to 07:40, nearest transit: Boynton & 953 Boynton-0, 3119.08m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Baltimore",
+    "transportation": "Taxi from Chattanooga to Baltimore, duration: 710.385, distance: 1023.2961, cost : 1023.0",
+    "breakfast": "Bridgeman's Chophouse, Chattanooga",
+    "lunch": "Zaya 1943 Korean Steakhouse, Chattanooga",
+    "dinner": "-",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 08:10 to 08:40, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; Bridgeman's Chophouse, Chattanooga, visit from 09:10 to 10:00, ; Coolidge Park, Chattanooga, visit from 10:30 to 14:00, ; Zaya 1943 Korean Steakhouse, Chattanooga, visit from 14:30 to 15:30, "
+  }
+]

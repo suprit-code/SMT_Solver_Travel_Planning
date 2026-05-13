@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Francisco",
+    "transportation": "Flight Number: F3893845, from Denver to San Francisco, Departure Time: 13:32, Arrival Time: 15:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Codmother Fish & Chips, San Francisco",
+    "attraction": "-",
+    "accommodation": "Immaculate studio space  with free parking, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 15:30 to 16:00, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; The Codmother Fish & Chips, San Francisco, visit from 19:00 to 22:00, ; Immaculate studio space  with free parking, stay from 22:30 to 06:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "lunch": "Kokkari Estiatorio, San Francisco",
+    "dinner": "Quince, San Francisco",
+    "attraction": "Exploratorium, San Francisco",
+    "accommodation": "Immaculate studio space  with free parking, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 07:00 to 07:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Harris' Restaurant - The San Francisco Steakhouse, San Francisco, visit from 08:00 to 08:50, ; Kokkari Estiatorio, San Francisco, visit from 12:51 to 13:51, ; Exploratorium, San Francisco, visit from 14:21 to 17:51, ; Quince, San Francisco, visit from 19:00 to 20:15, ; Immaculate studio space  with free parking, stay from 22:30 to 06:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Denver",
+    "transportation": "Flight Number: F1817595, from San Francisco to Denver, Departure Time: 16:17, Arrival Time: 19:44",
+    "breakfast": "Fog Harbor Fish House, San Francisco",
+    "lunch": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "dinner": "-",
+    "attraction": "California Academy of Sciences, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 07:00 to 07:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Fog Harbor Fish House, San Francisco, visit from 08:00 to 08:50, ; California Academy of Sciences, San Francisco, visit from 09:20 to 12:50, ; Luisa's Restaurant Wine Bar Since 1959, San Francisco, visit from 13:20 to 14:20, "
+  }
+]

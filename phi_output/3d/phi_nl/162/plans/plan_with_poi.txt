@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to New York",
+    "transportation": "Flight Number: F0839826, from Sarasota to New York, Departure Time: 15:11, Arrival Time: 17:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "East Village, Private room with access to garden, New York",
+    "event": "-",
+    "point_of_interest_list": "East Village, Private room with access to garden, stay from 18:15 to 18:45, nearest transit: 1 AV/E 1 ST, 79.09m away; East Village, Private room with access to garden, stay from 21:00 to 05:00, nearest transit: 1 AV/E 1 ST, 79.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Carmine's, New York",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "Westway Diner, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "East Village, Private room with access to garden, New York",
+    "event": "-",
+    "point_of_interest_list": "East Village, Private room with access to garden, stay from 07:00 to 07:30, nearest transit: 1 AV/E 1 ST, 79.09m away; Carmine's, New York, visit from 08:00 to 08:50, ; Peak Restaurant & Bar, New York, visit from 12:51 to 13:51, ; New York Public Library, New York, visit from 14:21 to 18:30, ; Westway Diner, New York, visit from 19:00 to 20:15, ; East Village, Private room with access to garden, stay from 20:45 to 04:45, nearest transit: 1 AV/E 1 ST, 79.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Sarasota",
+    "transportation": "Flight Number: F0838385, from New York to Sarasota, Departure Time: 16:07, Arrival Time: 19:24",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "BOOM, New York",
+    "dinner": "-",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "East Village, Private room with access to garden, stay from 06:00 to 06:30, nearest transit: 1 AV/E 1 ST, 79.09m away; Sarge’s Delicatessen & Diner, New York, visit from 08:00 to 08:50, ; The Metropolitan Museum of Art, New York, visit from 09:20 to 12:50, ; BOOM, New York, visit from 14:30 to 15:37, "
+  }
+]

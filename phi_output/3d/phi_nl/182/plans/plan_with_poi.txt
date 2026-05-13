@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Green Bay to Atlanta",
+    "transportation": "Flight Number: F0889275, from Green Bay to Atlanta, Departure Time: 06:43, Arrival Time: 09:42",
+    "breakfast": "-",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "First-Class Flats | * From 1 to 10 Guests *, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "First-Class Flats | * From 1 to 10 Guests *, stay from 10:12 to 10:42, nearest transit: N DECATUR RD @ PARKDALE DR, 168.06m away; Aviva by Kameel, Atlanta, visit from 12:00 to 13:00, ; Atlanta History Center, Atlanta, visit from 13:30 to 17:00, ; Home Grown, Atlanta, visit from 20:45 to 22:29, ; First-Class Flats | * From 1 to 10 Guests *, stay from 22:59 to 06:59, nearest transit: N DECATUR RD @ PARKDALE DR, 168.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "Max's Coal Oven Pizzeria, Atlanta",
+    "attraction": "National Center for Civil and Human Rights, Atlanta",
+    "accommodation": "First-Class Flats | * From 1 to 10 Guests *, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "First-Class Flats | * From 1 to 10 Guests *, stay from 07:29 to 07:59, nearest transit: N DECATUR RD @ PARKDALE DR, 168.06m away; Canoe, Atlanta, visit from 08:29 to 09:29, ; National Center for Civil and Human Rights, Atlanta, visit from 09:59 to 13:29, ; Steamhouse Lounge, Atlanta, visit from 13:59 to 14:59, ; Max's Coal Oven Pizzeria, Atlanta, visit from 19:00 to 20:15, ; First-Class Flats | * From 1 to 10 Guests *, stay from 20:45 to 07:40, nearest transit: N DECATUR RD @ PARKDALE DR, 168.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Green Bay",
+    "transportation": "Flight Number: F0889249, from Atlanta to Green Bay, Departure Time: 17:56, Arrival Time: 18:55",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "The Optimist, Atlanta",
+    "dinner": "-",
+    "attraction": "Fox Theatre, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "First-Class Flats | * From 1 to 10 Guests *, stay from 08:10 to 08:40, nearest transit: N DECATUR RD @ PARKDALE DR, 168.06m away; Cafe Agora, Atlanta, visit from 09:10 to 10:00, ; Fox Theatre, Atlanta, visit from 10:30 to 14:00, ; The Optimist, Atlanta, visit from 14:30 to 15:30, "
+  }
+]

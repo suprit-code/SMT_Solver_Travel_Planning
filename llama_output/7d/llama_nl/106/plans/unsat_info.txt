@@ -1,0 +1,4 @@
+not ok
+Unsatisfiable core:
+Sports-related eventstype restaurant is visited
+Sports-related eventstype restaurant

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Madison to New York",
+    "transportation": "Flight Number: F1419289, from Madison to New York, Departure Time: 05:55, Arrival Time: 09:03",
+    "breakfast": "-",
+    "lunch": "Nobu Fifty Seven, New York",
+    "dinner": "Papillon Bistro & Bar, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 09:33 to 10:03, nearest transit: 6 AV/W 45 ST, 155.74m away; Nobu Fifty Seven, New York, visit from 12:00 to 14:30, ; The National 9/11 Memorial & Museum, New York, visit from 15:00 to 18:30, ; Papillon Bistro & Bar, New York, visit from 19:00 to 20:15, ; High Rise haven + Free Breakfast, stay from 22:39 to 06:39, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Westway Diner, New York",
+    "lunch": "Burger & Lobster, New York",
+    "dinner": "Times Square Diner, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 07:09 to 07:39, nearest transit: 6 AV/W 45 ST, 155.74m away; Westway Diner, New York, visit from 08:09 to 08:59, ; The Metropolitan Museum of Art, New York, visit from 09:29 to 12:59, ; Burger & Lobster, New York, visit from 13:59 to 14:59, ; Times Square Diner, New York, visit from 19:00 to 20:15, ; High Rise haven + Free Breakfast, stay from 22:30 to 06:30, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Madison",
+    "transportation": "Taxi from New York to Madison, duration: 1065.7733333333333, distance: 1519.9384, cost : 1519.0",
+    "breakfast": "Rao's Restaurant, New York",
+    "lunch": "Piccola Cucina Estiatorio, New York",
+    "dinner": "Rainbow Room, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 07:00 to 07:30, nearest transit: 6 AV/W 45 ST, 155.74m away; Rao's Restaurant, New York, visit from 08:00 to 08:50, ; New York Public Library, New York, visit from 09:20 to 12:50, ; Piccola Cucina Estiatorio, New York, visit from 13:20 to 14:20, ; Rainbow Room, New York, visit from 19:00 to 20:15, "
+  }
+]

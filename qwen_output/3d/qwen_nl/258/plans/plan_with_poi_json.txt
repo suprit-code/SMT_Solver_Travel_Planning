@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Greensboro",
+    "transportation": "Self-driving, from New York to Greensboro, duration: 640.7433333333333, distance: 863.0494, cost: 43",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 19:05 to 19:25, nearest transit: Glendale/Randleman Rd., 155.05m away; A little Southern Hospitality, stay from 19:50 to 08:00, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Golden Wok, Greensboro",
+    "lunch": "Vito's Italian Restaurant, Greensboro",
+    "dinner": "Mimi's Cafe, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:00 to 08:30, nearest transit: Glendale/Randleman Rd., 155.05m away; Golden Wok, visit from 08:55 to 09:35, nearest transit: Sapp Rd/Wendover Place, 252.80m away; Carolina Theatre, visit from 10:00 to 12:00, nearest transit: Washington/Eugene, 118.33m away; Vito's Italian Restaurant, visit from 13:35 to 14:15, nearest transit: Church St/Hall Towers, 149.43m away; Mimi's Cafe, visit from 19:00 to 19:40, nearest transit: West Friendly/Mimi's Restaurant, 40.77m away; A little Southern Hospitality, stay from 23:00 to 08:00, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to New York",
+    "transportation": "Flight Number: F4050956, from Greensboro to New York, Departure Time: 08:28, Arrival Time: 10:02",
+    "breakfast": "Stamey's Barbecue, Greensboro",
+    "lunch": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

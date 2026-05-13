@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to Atlanta",
+    "transportation": "Flight Number: F1286239, from Boise to Atlanta, Departure Time: 23:59, Arrival Time: 05:47",
+    "breakfast": "-",
+    "lunch": "White Oak Kitchen & Cocktails, Atlanta",
+    "dinner": "Kevin Rathbun Steak, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Urban Nature Retreat |  Pets | Insurance, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "The Capital Grille, Atlanta",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "Urban Nature Retreat |  Pets | Insurance, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Urban Nature Retreat |  Pets | Insurance, stay from 08:00 to 08:30, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away; Canoe, visit from 09:00 to 09:40, nearest transit: NORTHSIDE PKWY @ RIVER GREEN DR, 738.85m away; Georgia Aquarium, visit from 10:10 to 12:10, nearest transit: IVAN ALLEN JR BLVD NW @ LUCKIE ST, 131.37m away; Aviva by Kameel, visit from 13:40 to 14:20, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away; The Capital Grille, visit from 19:00 to 19:40, nearest transit: PEACHTREE RD @ E PACES FERRY RD NE, 94.17m away; Urban Nature Retreat |  Pets | Insurance, stay from 23:00 to 08:00, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Boise",
+    "transportation": "Flight Number: F1295674, from Atlanta to Boise, Departure Time: 20:21, Arrival Time: 22:34",
+    "breakfast": "Home Grown, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "Marcel, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Urban Nature Retreat |  Pets | Insurance, stay from 08:00 to 08:30, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away; Home Grown, visit from 09:00 to 09:40, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; Zoo Atlanta, visit from 10:10 to 12:10, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; Cafe Agora, visit from 13:40 to 14:20, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; Marcel, visit from 19:00 to 19:40, nearest transit: HOWELL MILL RD NW @ 14TH ST NW, 77.33m away"
+  }
+]

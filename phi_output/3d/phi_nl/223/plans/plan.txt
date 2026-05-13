@@ -1,0 +1,6 @@
+Destination cities: ['Lexington'],
+Transportation dates: ['2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Self-driving, from Detroit to Lexington, duration: 387.0566666666667, distance: 548.257, cost: 27', 'Self-driving, from Lexington to Detroit, duration: 389.9566666666667, distance: 549.431, cost: 27'],
+Restaurants (3 meals per day): ['-', '-', '-', "J. Alexander's Restaurant, Lexington", 'The Triangle Grille, Lexington', 'The Rackhouse Tavern, Lexington', 'Bluegrass Bistro, Lexington', "Carson's Food & Drink - On Main, Lexington", 'Keeneland Track Kitchen, Lexington'],
+Attractions (1 per day): ['-', 'James E. Pepper Distillery, Lexington', 'Lexington Brewing & Distilling Co., Lexington'],
+Accommodations (1 per city): ['A single room for your stay, Lexington']

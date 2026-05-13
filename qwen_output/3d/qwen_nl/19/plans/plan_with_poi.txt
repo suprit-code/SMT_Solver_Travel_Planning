@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Houston",
+    "transportation": "Flight Number: F3444432, from Denver to Houston, Departure Time: 12:00, Arrival Time: 16:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Breakfast Klub, Houston",
+    "attraction": "-",
+    "accommodation": "#1 Upper Kirby/Med Center/Montrose /Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "#1 Upper Kirby/Med Center/Montrose /Galleria, stay from 17:18 to 17:48, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away; The Breakfast Klub, Houston, visit from 19:00 to 22:31, ; #1 Upper Kirby/Med Center/Montrose /Galleria, stay from 23:01 to 07:01, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston's Restaurant, Houston",
+    "lunch": "Houston's Trail's End, Houston",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "#1 Upper Kirby/Med Center/Montrose /Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "#1 Upper Kirby/Med Center/Montrose /Galleria, stay from 07:31 to 08:01, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away; Houston's Restaurant, Houston, visit from 08:31 to 09:21, ; Downtown Aquarium, Houston, visit from 09:51 to 13:21, ; Houston's Trail's End, Houston, visit from 13:51 to 14:51, ; Kenny & Ziggy's New York Deli, Houston, visit from 20:45 to 22:00, ; #1 Upper Kirby/Med Center/Montrose /Galleria, stay from 22:30 to 06:30, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Denver",
+    "transportation": "Self-driving from Houston to Denver, duration: 1117.0766666666668, distance: 1660.4122, cost : 83.0",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Goode Company BBQ, Houston",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#1 Upper Kirby/Med Center/Montrose /Galleria, stay from 07:00 to 07:30, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away; Hugo's, Houston, visit from 09:10 to 10:00, ; Cockrell Butterfly Center, Houston, visit from 10:30 to 14:00, ; Goode Company BBQ, Houston, visit from 14:30 to 15:30, ; Pappadeaux Seafood Kitchen, Houston, visit from 19:31 to 20:46, "
+  }
+]

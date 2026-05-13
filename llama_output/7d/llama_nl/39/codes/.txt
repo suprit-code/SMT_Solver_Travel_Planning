@@ -1,0 +1,72 @@
+
+                def run_event_search(city_ids):
+                    event_info = {}
+                    for city_id in city_ids:
+                        # Assume EventSearch returns a dictionary with event details
+                        event_info[city_id] = {
+                            "events": [
+                                {"name": "Event1", "category": "Concerts & Shows", "price_per_person": 50},
+                                {"name": "Event2", "category": "Sports", "price_per_person": 30},
+                                {"name": "Event3", "category": "Concerts & Shows", "price_per_person": 60},
+                                {"name": "Event4", "category": "Theater", "price_per_person": 40},
+                                {"name": "Event5", "category": "Concerts & Shows", "price_per_person": 70},
+                                {"name": "Event6", "category": "Concerts & Shows", "price_per_person": 80},
+                                {"name": "Event7", "category": "Concerts & Shows", "price_per_person": 90}
+                            ]
+                        }
+                    return event_info
+                
+                def set_event_in_which_city(event_info, transportation_arrival_times):
+                    event_in_which_city = {}
+                    for i, arrival_time in enumerate(transportation_arrival_times):
+                        if arrival_time <= 1:  # Assuming 1 represents today
+                            event_in_which_city[i] = "current_city"
+                        else:
+                            event_in_which_city[i] = "next_city"
+                    return event_in_which_city
+                
+                def set_event_index(event_info, event_in_which_city):
+                    event_index = {}
+                    for i, city in event_in_which_city.items():
+                        if city == "current_city":
+                            event_index[i] = 0  # Assuming first event is the one in the current city
+                        else:
+                            event_index[i] = 1  # Assuming second event is the one in the next city
+                    return event_index
+                
+                def calculate_event_price(event_info, event_index):
+                    event_prices = {}
+                    for i, index in event_index.items():
+                        event = event_info["current_city"]["events"][index]
+                        price_per_person = event["price_per_person"]
+                        total_price = price_per_person * 2  # For 2 people
+                        event_prices[i] = total_price
+                    return event_prices
+                
+                def check_event_category(event_info, event_in_which_city):
+                    event_category = {}
+                    for i, city in event_in_which_city.items():
+                        if city == "current_city":
+                            event = event_info["current_city"]["events"][0]
+                        else:
+                            event = event_info["next_city"]["events"][0]
+                        if event["category"] == "Concerts & Shows":
+                            event_category[i] = True
+                        else:
+                            event_category[i] = False
+                    return event_category
+                
+                # Example usage
+                city_ids = [0, 1, 2]
+                transportation_arrival_times = [1, 2, 1]
+                
+                event_info = run_event_search(city_ids)
+                event_in_which_city = set_event_in_which_city(event_info, transportation_arrival_times)
+                event_index = set_event_index(event_info, event_in_which_city)
+                event_prices = calculate_event_price(event_info, event_index)
+                event_category = check_event_category(event_info, event_in_which_city)
+                
+                print("Event Prices:", event_prices)
+                print("Event Categories:", event_category)
+                
+                

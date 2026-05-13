@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Houston",
+    "transportation": "Flight Number: F0106313, from Charleston to Houston, Departure Time: 16:21, Arrival Time: 17:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "#1 Upper Kirby/Med Center/Montrose /Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Goode Company BBQ, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "#1 Upper Kirby/Med Center/Montrose /Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "#1 Upper Kirby/Med Center/Montrose /Galleria, stay from 08:00 to 08:30, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away; Goode Company BBQ, visit from 08:55 to 09:35, nearest transit: Kirby Dr @ South Blvd, 42.93m away; Cockrell Butterfly Center, visit from 10:00 to 12:00, nearest transit: Main St @ Remington Ln, 160.59m away; Houston Restaurant, visit from 13:35 to 14:15, nearest transit: Conroe Park & Ride, 2530051.98m away; Pappadeaux Seafood Kitchen, visit from 19:00 to 19:40, nearest transit: Bush IAH Terminal C, 295.38m away; #1 Upper Kirby/Med Center/Montrose /Galleria, stay from 20:05 to 08:00, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Charleston",
+    "transportation": "Self-driving, from Houston to Charleston, duration: 1211.9216666666666, distance: 1713.136, cost: 85",
+    "breakfast": "Houstons Bar and Grill, Houston",
+    "lunch": "Kenny & Ziggy's New York Deli, Houston",
+    "dinner": "Houston's Trail's End, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#1 Upper Kirby/Med Center/Montrose /Galleria, stay from 08:00 to 08:30, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away; Houstons Bar and Grill, visit from 08:55 to 09:35, nearest transit: Conroe Park & Ride, 7360300.27m away; Downtown Aquarium, visit from 10:00 to 12:00, nearest transit: Preston St @ Bagby St, 75.65m away; Kenny & Ziggy's New York Deli, visit from 13:35 to 14:15, nearest transit: Ambassador Station NB, 181.42m away; Houston's Trail's End, visit from 19:00 to 19:40, nearest transit: Conroe Park & Ride, 1745953.84m away"
+  }
+]

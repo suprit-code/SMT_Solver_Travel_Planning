@@ -1,0 +1,6 @@
+Destination cities: ['Las Vegas'],
+Transportation dates: ['2024-11-02', '2024-11-04'],
+Transportation methods between cities: ['Flight Number: F2603443, from Memphis to Las Vegas, Departure Time: 09:44, Arrival Time: 11:10', 'Flight Number: F1342934, from Las Vegas to Memphis, Departure Time: 15:27, Arrival Time: 20:54'],
+Restaurants (3 meals per day): ['-', '-', 'Lemongrass, Las Vegas', 'Eggslut, Las Vegas', 'Ping Pang Pong, Las Vegas', 'Golden Steer Steakhouse Las Vegas, Las Vegas', "John Mull's Meats & Road Kill Grill, Las Vegas", 'Eggscellent, Las Vegas', '-'],
+Attractions (1 per day): ['Las Vegas North Premium Outlets, Las Vegas', 'Fashion Show Las Vegas, Las Vegas', 'The Grand Canal Shoppes at The Venetian Resort, Las Vegas'],
+Accommodations (1 per city): ['C/private full bed tv free wif, Las Vegas']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to Sioux Falls",
+    "transportation": "Taxi from Atlanta to Sioux Falls, duration: 1284.4, distance: 1878.1144, cost : 1878.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Bunkhouse\nRoom #3, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "The Bunkhouse\nRoom #3, stay from 03:54 to 04:24, nearest transit: Essex/Sertoma NE corner, 11277.84m away; The Bunkhouse\nRoom #3, stay from 04:54 to 08:00, nearest transit: Essex/Sertoma NE corner, 11277.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sioux Falls",
+    "transportation": "-",
+    "breakfast": "Tomacelli's Pizza & Pasta, Sioux Falls",
+    "lunch": "MacKenzie River Pizza, Grill & Pub, Sioux Falls",
+    "dinner": "Minerva's, Sioux Falls",
+    "attraction": "-",
+    "accommodation": "The Bunkhouse\nRoom #3, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "The Bunkhouse\nRoom #3, stay from 08:30 to 09:00, nearest transit: Essex/Sertoma NE corner, 11277.84m away; Tomacelli's Pizza & Pasta, Sioux Falls, visit from 09:30 to 10:20, ; MacKenzie River Pizza, Grill & Pub, Sioux Falls, visit from 14:21 to 16:44, ; Minerva's, Sioux Falls, visit from 20:45 to 23:10, ; The Bunkhouse\nRoom #3, stay from 23:40 to 07:40, nearest transit: Essex/Sertoma NE corner, 11277.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sioux Falls to Atlanta",
+    "transportation": "Self-driving from Sioux Falls to Atlanta, duration: 1278.0216666666668, distance: 1875.394, cost : 93.0",
+    "breakfast": "Morrie’s Steakhouse, Sioux Falls",
+    "lunch": "M.B. Haskett Delicatessen, Sioux Falls",
+    "dinner": "Dynasty Chinese and Vietnamese Cuisine, Sioux Falls",
+    "attraction": "Old Courthouse Museum, Sioux Falls",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Bunkhouse\nRoom #3, stay from 08:10 to 08:40, nearest transit: Essex/Sertoma NE corner, 11277.84m away; Morrie’s Steakhouse, Sioux Falls, visit from 09:10 to 10:00, ; Old Courthouse Museum, Sioux Falls, visit from 10:30 to 14:00, ; M.B. Haskett Delicatessen, Sioux Falls, visit from 14:30 to 15:30, ; Dynasty Chinese and Vietnamese Cuisine, Sioux Falls, visit from 19:31 to 20:46, "
+  }
+]

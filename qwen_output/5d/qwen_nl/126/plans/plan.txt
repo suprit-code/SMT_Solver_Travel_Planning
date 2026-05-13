@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-08', '2024-11-10', '2024-11-12'],
+Transportation methods between cities: ['taxi, from Colorado Springs to San Diego, duration: 1203.9033333333332, distance: 1841.7768, cost: 1841', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Colorado Springs, duration: 1357.9783333333332, distance: 2092.6101, cost: 2092'],
+Restaurants (3 meals per day): ['-', '-', '-', "Lou & Mickey's, San Diego", 'Pacific Beach AleHouse, San Diego', 'World Famous, San Diego', "Ruth's Chris Steak House, San Diego", 'Bencotto Italian Kitchen, San Diego', 'Alforon, San Diego', 'Cattlemens, Redding', 'Black Bear Diner, Redding', 'C. R. Gibbs American Grille, Redding', 'Fratelli’s Pizza Parlour, Redding', "Logan's Roadhouse, Redding", 'Mosaic, Redding'],
+Attractions (1 per day): ['-', 'Torrey Pines State Natural Reserve, San Diego', 'San Diego Zoo, San Diego', 'Turtle Bay Exploration Park, Redding', 'Sundial Bridge, Redding'],
+Accommodations (1 per city): ['Place to Stay with Private Entrance near Beach, San Diego', 'The God Spa, Redding']

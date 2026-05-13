@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Helena to Pasco",
+    "transportation": "Taxi from Helena to Pasco, duration: 476.27166666666665, distance: 716.4114000000001, cost : 716.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "AXE KPR Axe Throwing, Pasco",
+    "accommodation": "Cute Private Bedroom with Shared Bathroom 🛏, Pasco",
+    "event": "-",
+    "point_of_interest_list": "Cute Private Bedroom with Shared Bathroom 🛏, stay from 14:26 to 15:00, nearest transit: Clark St & Armand Way, 3741561.21m away; AXE KPR Axe Throwing, Pasco, visit from 15:30 to 23:10, ; Cute Private Bedroom with Shared Bathroom 🛏, stay from 23:40 to 07:40, nearest transit: Clark St & Armand Way, 3741561.21m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Pasco",
+    "transportation": "-",
+    "breakfast": "Restaurante El Asadero, Pasco",
+    "lunch": "Trejo's, Pasco",
+    "dinner": "Love Curry Indian Cuisine, Pasco",
+    "attraction": "-",
+    "accommodation": "Cute Private Bedroom with Shared Bathroom 🛏, Pasco",
+    "event": "-",
+    "point_of_interest_list": "Cute Private Bedroom with Shared Bathroom 🛏, stay from 08:10 to 08:40, nearest transit: Clark St & Armand Way, 3741561.21m away; Restaurante El Asadero, Pasco, visit from 09:10 to 10:00, ; Trejo's, Pasco, visit from 14:30 to 16:44, ; Love Curry Indian Cuisine, Pasco, visit from 20:45 to 22:02, ; Cute Private Bedroom with Shared Bathroom 🛏, stay from 22:32 to 06:32, nearest transit: Clark St & Armand Way, 3741561.21m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Pasco to Seattle",
+    "transportation": "Flight Number: F2395105, from Pasco to Seattle, Departure Time: 08:02, Arrival Time: 08:56",
+    "breakfast": "-",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cute Private Bedroom with Shared Bathroom 🛏, stay from 07:02 to 07:32, nearest transit: Clark St & Armand Way, 3741561.21m away; Cozy room near UW, stay from 09:26 to 09:56, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Il Terrazzo Carmine, Seattle, visit from 12:00 to 13:00, ; Pike Place Market, Seattle, visit from 13:30 to 18:30, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 19:00 to 22:26, ; Cozy room near UW, stay from 22:56 to 06:56, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Canlis Restaurant, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "Chihuly Garden and Glass, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:26 to 07:56, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Canlis Restaurant, Seattle, visit from 08:26 to 09:16, ; Chihuly Garden and Glass, Seattle, visit from 09:46 to 13:16, ; Noi Thai Cuisine, Seattle, visit from 13:46 to 14:59, ; Vons 1000 Spirits, Seattle, visit from 19:00 to 20:15, ; Cozy room near UW, stay from 20:45 to 04:45, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Seattle to Helena",
+    "transportation": "Flight Number: F1175964, from Seattle to Helena, Departure Time: 10:41, Arrival Time: 13:24",
+    "breakfast": "Place Pigalle Restaurant and Bar, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Place Pigalle Restaurant and Bar, Seattle, visit from 08:00 to 10:11, "
+  }
+]

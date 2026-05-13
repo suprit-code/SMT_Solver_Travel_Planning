@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Los Angeles",
+    "transportation": "Flight Number: F0167865, from Charlotte to Los Angeles, Departure Time: 15:12, Arrival Time: 17:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Pizzeria Mozza, Los Angeles",
+    "attraction": "-",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 17:57 to 20:15, nearest transit: Oxnard St & Radford Ave, 386.65m away; Pizzeria Mozza, Los Angeles, visit from 20:45 to 22:00, ; Hollywood Hideaway, stay from 22:30 to 06:30, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Bavel, Los Angeles",
+    "lunch": "L'Antica Pizzeria Da Michele, Los Angeles",
+    "dinner": "Ayara Thai Cuisine, Los Angeles",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 07:00 to 07:30, nearest transit: Oxnard St & Radford Ave, 386.65m away; Bavel, Los Angeles, visit from 08:00 to 08:50, ; Walt Disney Concert Hall, Los Angeles, visit from 10:30 to 14:00, ; L'Antica Pizzeria Da Michele, Los Angeles, visit from 14:30 to 15:30, ; Ayara Thai Cuisine, Los Angeles, visit from 20:45 to 22:00, ; Hollywood Hideaway, stay from 22:30 to 06:30, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Charlotte",
+    "transportation": "Flight Number: F2804166, from Los Angeles to Charlotte, Departure Time: 13:33, Arrival Time: 21:16",
+    "breakfast": "Perch, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Citadel Outlets, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 07:00 to 07:30, nearest transit: Oxnard St & Radford Ave, 386.65m away; Perch, Los Angeles, visit from 08:00 to 09:03, ; Citadel Outlets, Los Angeles, visit from 09:33 to 13:03, "
+  }
+]

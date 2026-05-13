@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F2640631, from Reno to San Diego, Departure Time: 09:43, Arrival Time: 11:20', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Reno, duration: 248.73166666666663, distance: 319.7163, cost: 319'],
+Restaurants (3 meals per day): ['-', '-', 'Dockside 1953, San Diego', 'World Famous, San Diego', 'Covewood Restaurant, San Diego', "Filippi's Pizza Grotto Little Italy, San Diego", 'Alforon, San Diego', 'Cafe Coyote, San Diego', 'Ironside Fish & Oyster, San Diego', 'Kobe Seafood & Steakhouse, Redding', 'Janya Thai Cusine, Redding', 'Fratelli’s Pizza Parlour, Redding', 'Dam Burger, Redding', 'Grand Buffet, Redding', 'New China, Redding'],
+Attractions (1 per day): ['Birch Aquarium at Scripps, San Diego', 'SeaWorld, San Diego', 'San Diego Zoo, San Diego', 'Sundial Bridge, Redding', 'Turtle Bay Exploration Park, Redding'],
+Accommodations (1 per city): ['Big Bay Views, San Diego Bay, San Diego', 'Room& bath w/ private entrance; Great location, Redding']

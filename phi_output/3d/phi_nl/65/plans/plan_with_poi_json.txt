@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Kansas City",
+    "transportation": "Flight Number: F4012914, from Denver to Kansas City, Departure Time: 22:38, Arrival Time: 01:00",
+    "breakfast": "Garozzo's Ristorante, Kansas City",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Kansas City",
+    "dinner": "KC Chop House, Kansas City",
+    "attraction": "Crown Center, Kansas City",
+    "accommodation": "Bungalow for Two or Three or Four or..., Kansas City",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "JJ's Restaurant, Kansas City",
+    "lunch": "Char Bar - Westport, Kansas City",
+    "dinner": "Eddie V's Prime Seafood, Kansas City",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "Bungalow for Two or Three or Four or..., Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Bungalow for Two or Three or Four or..., stay from 08:00 to 08:30, nearest transit: ON 47TH AT ADAMS EASTBOUND, 296.78m away; JJ's Restaurant, visit from 09:00 to 09:40, nearest transit: ON 47TH ST AT JEFFERSON ST WESTBOUND FARSIDE, 295.36m away; Tom's Town Distilling Co., visit from 10:10 to 12:10, nearest transit: KAUFFMAN CENTER ON MAIN AT 16TH ST SB, 116.42m away; Char Bar - Westport, visit from 13:40 to 14:20, nearest transit: ON WESTPORT AT MILL WESTBOUND, 172.08m away; Eddie V's Prime Seafood, visit from 19:00 to 19:40, nearest transit: ON 47TH ST AT JEFFERSON ST WESTBOUND FARSIDE, 16.50m away; Bungalow for Two or Three or Four or..., stay from 23:00 to 08:00, nearest transit: ON 47TH AT ADAMS EASTBOUND, 296.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Denver",
+    "transportation": "taxi, from Kansas City to Denver, duration: 619.8383333333334, distance: 969.6244, cost: 969",
+    "breakfast": "Q39 - Midtown, Kansas City",
+    "lunch": "The Big Biscuit, Kansas City",
+    "dinner": "Cafe Gratitude, Kansas City",
+    "attraction": "Country Club Plaza, Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Bungalow for Two or Three or Four or..., stay from 08:00 to 08:30, nearest transit: ON 47TH AT ADAMS EASTBOUND, 296.78m away; Q39 - Midtown, visit from 09:00 to 09:40, nearest transit: ON 39TH AT ROANOKE WESTBOUND, 130.85m away; Country Club Plaza, visit from 10:10 to 12:10, nearest transit: ON 47TH AT BROADWAY WESTBOUND FARSIDE, 89.53m away; The Big Biscuit, visit from 13:40 to 14:20, nearest transit: ON BOARDWALK AT 8501 NB, 166.95m away; Cafe Gratitude, visit from 19:00 to 19:40, nearest transit: ON SW BLVD AT CENTRAL WESTBOUND, 164.17m away"
+  }
+]

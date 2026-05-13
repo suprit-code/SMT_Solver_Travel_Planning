@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Baltimore",
+    "transportation": "Flight Number: F1648499, from Sarasota to Baltimore, Departure Time: 07:01, Arrival Time: 09:23",
+    "breakfast": "-",
+    "lunch": "Mama's On the Half Shell, Baltimore",
+    "dinner": "Cypriana of Roland Park, Baltimore",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "Luxe Houseboat: Stunning Inner Harbor 360 Views, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 09:53 to 10:23, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; Mama's On the Half Shell, Baltimore, visit from 12:00 to 13:00, ; The Maryland Zoo, Baltimore, visit from 13:30 to 17:00, ; Cypriana of Roland Park, Baltimore, visit from 19:45 to 21:00, ; Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 21:30 to 05:30, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Tagliata, Baltimore",
+    "lunch": "Sotto Sopra, Baltimore",
+    "dinner": "La Scala, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "Luxe Houseboat: Stunning Inner Harbor 360 Views, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 06:00 to 06:30, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; Tagliata, Baltimore, visit from 08:08 to 10:00, ; National Aquarium, Baltimore, visit from 10:30 to 14:00, ; Sotto Sopra, Baltimore, visit from 14:30 to 16:44, ; La Scala, Baltimore, visit from 20:45 to 22:41, ; Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 23:11 to 07:11, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Sarasota",
+    "transportation": "Flight Number: F4032105, from Baltimore to Sarasota, Departure Time: 15:31, Arrival Time: 18:31",
+    "breakfast": "The Abbey Burger Bistro, Baltimore",
+    "lunch": "LP Steamers, Baltimore",
+    "dinner": "-",
+    "attraction": "Federal Hill Park, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Luxe Houseboat: Stunning Inner Harbor 360 Views, stay from 07:41 to 08:11, nearest transit: SHOT TOWER METRO West Entrance, 841.96m away; The Abbey Burger Bistro, Baltimore, visit from 08:41 to 09:31, ; Federal Hill Park, Baltimore, visit from 10:01 to 13:31, ; LP Steamers, Baltimore, visit from 14:01 to 15:01, "
+  }
+]

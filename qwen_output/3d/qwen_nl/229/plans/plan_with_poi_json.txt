@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Atlanta",
+    "transportation": "Flight Number: F0321830, from Sarasota to Atlanta, Departure Time: 11:24, Arrival Time: 12:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bangkok Station, Atlanta",
+    "attraction": "Piedmont Park, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 13:24 to 13:44, nearest transit: CASCADE AVE SW @ 1113, 82.40m away; Piedmont Park, visit from 14:09 to 16:09, nearest transit: PIEDMONT AVE NE @ PRADO, 407.10m away; Bangkok Station, visit from 19:00 to 19:40, nearest transit: PIEDMONT RD NE @ PEACHTREE DR NE, 153.20m away; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 20:05 to 08:00, nearest transit: CASCADE AVE SW @ 1113, 82.40m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Home Grown, Atlanta",
+    "lunch": "Fox Bros. Bar-B-Q, Atlanta",
+    "dinner": "Steamhouse Lounge, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 08:00 to 08:30, nearest transit: CASCADE AVE SW @ 1113, 82.40m away; Home Grown, visit from 08:55 to 09:35, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; Centennial Olympic Park, visit from 10:00 to 12:00, nearest transit: MARIETTA ST @ PARK AVE WEST, 143.86m away; Fox Bros. Bar-B-Q, visit from 13:35 to 14:15, nearest transit: MORELAND AVE @ 299, 219.31m away; Steamhouse Lounge, visit from 19:00 to 19:40, nearest transit: W PEACHTREE ST @ 12TH ST, 93.00m away; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 20:05 to 08:00, nearest transit: CASCADE AVE SW @ 1113, 82.40m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Sarasota",
+    "transportation": "Self-driving, from Atlanta to Sarasota, duration: 552.7933333333333, distance: 816.1573000000001, cost: 40",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "Ted's Montana Grill, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 08:00 to 08:30, nearest transit: CASCADE AVE SW @ 1113, 82.40m away; Cafe Agora, visit from 08:55 to 09:35, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; Atlanta History Center, visit from 10:00 to 12:00, nearest transit: PEACHTREE RD @ BUCKHEAD AVE NE, 610.21m away; Aviva by Kameel, visit from 13:35 to 14:15, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away; Ted's Montana Grill, visit from 19:00 to 19:40, nearest transit: LUCKIE ST @ CONE ST, 67.84m away"
+  }
+]

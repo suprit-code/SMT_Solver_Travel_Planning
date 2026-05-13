@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Helena to Pasco",
+    "transportation": "Taxi from Helena to Pasco, duration: 476.27166666666665, distance: 716.4114000000001, cost : 716.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Plaza Gourmet, Pasco",
+    "attraction": "AXE KPR Axe Throwing, Pasco",
+    "accommodation": "Cute Private Bedroom with Shared Bathroom 🛏, Pasco",
+    "event": "-",
+    "point_of_interest_list": "Cute Private Bedroom with Shared Bathroom 🛏, stay from 14:26 to 14:56, nearest transit: Clark St & Armand Way, 3741561.21m away; AXE KPR Axe Throwing, Pasco, visit from 15:30 to 20:15, ; Plaza Gourmet, Pasco, visit from 20:45 to 22:00, ; Cute Private Bedroom with Shared Bathroom 🛏, stay from 22:30 to 07:40, nearest transit: Clark St & Armand Way, 3741561.21m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Pasco",
+    "transportation": "-",
+    "breakfast": "Roasters Coffee, Pasco",
+    "lunch": "Love Curry Indian Cuisine, Pasco",
+    "dinner": "Viera's Bakery, Pasco",
+    "attraction": "-",
+    "accommodation": "Cute Private Bedroom with Shared Bathroom 🛏, Pasco",
+    "event": "-",
+    "point_of_interest_list": "Cute Private Bedroom with Shared Bathroom 🛏, stay from 08:10 to 08:40, nearest transit: Clark St & Armand Way, 3741561.21m away; Roasters Coffee, Pasco, visit from 09:10 to 10:00, ; Love Curry Indian Cuisine, Pasco, visit from 14:30 to 15:30, ; Viera's Bakery, Pasco, visit from 19:31 to 20:46, ; Cute Private Bedroom with Shared Bathroom 🛏, stay from 21:16 to 05:16, nearest transit: Clark St & Armand Way, 3741561.21m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Pasco to Seattle",
+    "transportation": "Flight Number: F1175476, from Pasco to Seattle, Departure Time: 16:13, Arrival Time: 17:17",
+    "breakfast": "Red Bento Teriyaki and Pho, Pasco",
+    "lunch": "Pasco's Italian @ Waffle 21, Pasco",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "-",
+    "accommodation": "Room#2 Seattle Spruce Street BnB, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cute Private Bedroom with Shared Bathroom 🛏, stay from 06:00 to 06:30, nearest transit: Clark St & Armand Way, 3741561.21m away; Red Bento Teriyaki and Pho, Pasco, visit from 08:00 to 08:50, ; Pasco's Italian @ Waffle 21, Pasco, visit from 13:20 to 14:20, ; Room#2 Seattle Spruce Street BnB, stay from 17:47 to 18:17, nearest transit: E Yesler Way & 17th Ave, 126.21m away; Noi Thai Cuisine, Seattle, visit from 19:00 to 20:15, ; Room#2 Seattle Spruce Street BnB, stay from 20:45 to 04:45, nearest transit: E Yesler Way & 17th Ave, 126.21m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Chan Seattle, Seattle",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Chihuly Garden and Glass, Seattle",
+    "accommodation": "Room#2 Seattle Spruce Street BnB, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Room#2 Seattle Spruce Street BnB, stay from 06:00 to 06:30, nearest transit: E Yesler Way & 17th Ave, 126.21m away; Chan Seattle, Seattle, visit from 09:09 to 09:59, ; Chihuly Garden and Glass, Seattle, visit from 10:30 to 14:00, ; Il Terrazzo Carmine, Seattle, visit from 14:30 to 16:44, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 20:45 to 23:30, ; Room#2 Seattle Spruce Street BnB, stay from 00:00 to 08:00, nearest transit: E Yesler Way & 17th Ave, 126.21m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Seattle to Helena",
+    "transportation": "Flight Number: F3859317, from Seattle to Helena, Departure Time: 12:28, Arrival Time: 15:08",
+    "breakfast": "Lola, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room#2 Seattle Spruce Street BnB, stay from 08:30 to 09:00, nearest transit: E Yesler Way & 17th Ave, 126.21m away; Lola, Seattle, visit from 09:40 to 11:58, "
+  }
+]

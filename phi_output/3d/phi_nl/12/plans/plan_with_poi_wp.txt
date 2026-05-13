@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to Charleston",
+    "transportation": "Flight Number: F0388998, from Miami to Charleston, Departure Time: 16:02, Arrival Time: 17:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Amen Street Fish & Raw Bar, Charleston",
+    "attraction": "-",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 18:18 to 20:15, nearest transit: Broad St / Church St, 4048.31m away; Amen Street Fish & Raw Bar, Charleston, visit from 20:45 to 22:12, ; The Backpacker, stay from 22:42 to 06:42, nearest transit: Broad St / Church St, 4048.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Stars Restaurant-Rooftop & Grill Room, Charleston",
+    "lunch": "Virginia's on King, Charleston",
+    "dinner": "Eli's Table, Charleston",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "The Backpacker, Charleston",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 07:12 to 07:42, nearest transit: Broad St / Church St, 4048.31m away; Stars Restaurant-Rooftop & Grill Room, Charleston, visit from 08:12 to 09:29, ; Charleston Waterfront Park, Charleston, visit from 09:59 to 13:29, ; Virginia's on King, Charleston, visit from 13:59 to 14:59, ; Eli's Table, Charleston, visit from 19:00 to 23:30, ; The Backpacker, stay from 00:00 to 08:00, nearest transit: Broad St / Church St, 4048.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Miami",
+    "transportation": "Flight Number: F1029485, from Charleston to Miami, Departure Time: 19:48, Arrival Time: 21:44",
+    "breakfast": "Poogan's Porch, Charleston",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Middleton Place, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Backpacker, stay from 08:30 to 09:00, nearest transit: Broad St / Church St, 4048.31m away; Poogan's Porch, Charleston, visit from 09:30 to 10:20, ; Middleton Place, Charleston, visit from 10:50 to 15:21, "
+  }
+]

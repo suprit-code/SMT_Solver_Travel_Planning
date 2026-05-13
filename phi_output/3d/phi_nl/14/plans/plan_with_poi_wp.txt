@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to San Luis Obispo",
+    "transportation": "Flight Number: F3029855, from Dallas to San Luis Obispo, Departure Time: 11:00, Arrival Time: 12:30",
+    "breakfast": "-",
+    "lunch": "Taste Craft Eatery, San Luis Obispo",
+    "dinner": "Apple Farm Restaurant, San Luis Obispo",
+    "attraction": "San Luis Obispo Children's Museum, San Luis Obispo",
+    "accommodation": "Two Palms Cottage at Beebee St., San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "Two Palms Cottage at Beebee St., stay from 13:00 to 13:30, nearest transit: Higuera & South, 241.35m away; Taste Craft Eatery, San Luis Obispo, visit from 14:00 to 15:00, ; San Luis Obispo Children's Museum, San Luis Obispo, visit from 15:30 to 20:15, ; Apple Farm Restaurant, San Luis Obispo, visit from 20:45 to 22:11, ; Two Palms Cottage at Beebee St., stay from 22:41 to 06:41, nearest transit: Higuera & South, 241.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Luis Obispo",
+    "transportation": "-",
+    "breakfast": "Novo Restaurant & Lounge, San Luis Obispo",
+    "lunch": "Buona Tavola, San Luis Obispo",
+    "dinner": "Nate's On Marsh, San Luis Obispo",
+    "attraction": "Mission San Luis Obispo de Tolosa, San Luis Obispo",
+    "accommodation": "Two Palms Cottage at Beebee St., San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "Two Palms Cottage at Beebee St., stay from 07:11 to 07:41, nearest transit: Higuera & South, 241.35m away; Novo Restaurant & Lounge, San Luis Obispo, visit from 08:11 to 09:01, ; Buona Tavola, San Luis Obispo, visit from 13:30 to 14:30, ; Mission San Luis Obispo de Tolosa, San Luis Obispo, visit from 15:00 to 18:30, ; Nate's On Marsh, San Luis Obispo, visit from 19:00 to 22:11, ; Two Palms Cottage at Beebee St., stay from 22:41 to 06:41, nearest transit: Higuera & South, 241.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Luis Obispo to Dallas",
+    "transportation": "Flight Number: F3029886, from San Luis Obispo to Dallas, Departure Time: 13:31, Arrival Time: 18:57",
+    "breakfast": "Lure Fish House, San Luis Obispo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Bubblegum Alley, San Luis Obispo",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Two Palms Cottage at Beebee St., stay from 07:11 to 07:41, nearest transit: Higuera & South, 241.35m away; Lure Fish House, San Luis Obispo, visit from 08:11 to 09:01, ; Bubblegum Alley, San Luis Obispo, visit from 09:31 to 13:01, "
+  }
+]

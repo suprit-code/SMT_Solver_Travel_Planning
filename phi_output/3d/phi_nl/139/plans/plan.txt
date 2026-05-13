@@ -1,0 +1,6 @@
+Destination cities: ['Hartford'],
+Transportation dates: ['2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F0554770, from Denver to Hartford, Departure Time: 18:09, Arrival Time: 23:27', 'Flight Number: F1064155, from Hartford to Denver, Departure Time: 10:43, Arrival Time: 12:59'],
+Restaurants (3 meals per day): ['-', '-', '-', 'New Hartford Diner, Hartford', 'Hartford Baking Company, Hartford', 'bartaco, Hartford', 'Hartford Coffee Co., Hartford', 'Hartford Steak Co Tavern, Hartford', '-'],
+Attractions (1 per day): ['-', 'Hartford Stage, Hartford', '-'],
+Accommodations (1 per city): ['Private room “B” in Hartford, Hartford']

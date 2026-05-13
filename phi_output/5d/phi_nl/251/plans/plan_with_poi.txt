@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Key West to Greensboro",
+    "transportation": "Taxi from Key West to Greensboro, duration: 1117.3233333333333, distance: 1530.6701, cost : 1530.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 01:07 to 01:37, nearest transit: Glendale/Randleman Rd., 155.05m away; A little Southern Hospitality, stay from 02:07 to 08:00, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Sarah's Kabob Shop, Greensboro",
+    "lunch": "Carolina's Diner, Greensboro",
+    "dinner": "Golden Wok, Greensboro",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:30 to 09:00, nearest transit: Glendale/Randleman Rd., 155.05m away; Sarah's Kabob Shop, Greensboro, visit from 09:35 to 10:25, ; Carolina's Diner, Greensboro, visit from 14:26 to 16:44, ; Golden Wok, Greensboro, visit from 20:45 to 22:00, ; A little Southern Hospitality, stay from 23:39 to 07:39, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Charlotte",
+    "transportation": "Flight Number: F1409329, from Greensboro to Charlotte, Departure Time: 21:52, Arrival Time: 22:43",
+    "breakfast": "Mythos Grill, Greensboro",
+    "lunch": "Dear Dad's, Greensboro",
+    "dinner": "Stamey's Barbecue, Greensboro",
+    "attraction": "Carolina Theatre, Greensboro",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:09 to 08:39, nearest transit: Glendale/Randleman Rd., 155.05m away; Mythos Grill, Greensboro, visit from 09:09 to 09:59, ; Dear Dad's, Greensboro, visit from 14:00 to 15:00, ; Carolina Theatre, Greensboro, visit from 15:30 to 19:00, ; Stamey's Barbecue, Greensboro, visit from 20:07 to 21:22, ; Comfy private bed and bath, stay from 23:13 to 23:43, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Comfy private bed and bath, stay from 00:13 to 08:00, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Pinky's Westside Grill, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "Charlottes Chocolates, Charlotte",
+    "attraction": "-",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 08:30 to 09:00, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Pinky's Westside Grill, Charlotte, visit from 09:39 to 10:29, ; Charlotte's Eats and Sweets, Charlotte, visit from 14:30 to 15:30, ; Charlottes Chocolates, Charlotte, visit from 19:31 to 20:46, ; Comfy private bed and bath, stay from 21:16 to 05:16, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Charlotte to Key West",
+    "transportation": "Flight Number: F3285183, from Charlotte to Key West, Departure Time: 09:21, Arrival Time: 11:44",
+    "breakfast": "Charlotte Bakery, Charlotte",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 06:00 to 07:31, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Charlotte Bakery, Charlotte, visit from 08:01 to 08:51, "
+  }
+]

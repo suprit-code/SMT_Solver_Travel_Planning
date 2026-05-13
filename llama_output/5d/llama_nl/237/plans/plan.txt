@@ -1,0 +1,6 @@
+Destination cities: ['New York', 'Rochester'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F3774683, from Ontario to New York, Departure Time: 23:31, Arrival Time: 07:24', 'Flight Number: F3652413, from New York to Rochester, Departure Time: 08:04, Arrival Time: 09:28', 'taxi, from Rochester to Ontario, duration: 30.27833333333333, distance: 32.2007, cost: 32'],
+Restaurants (3 meals per day): ['-', 'Piccola Cucina Estiatorio, New York', 'Burger & Lobster, New York', 'Gallaghers Steakhouse, New York', 'Bryant Park Grill, New York', 'Trattoria Trecolori, New York', 'Restaurant Fiorella, Rochester', 'Good Luck, Rochester', 'Twigs Tavern & Grille, Rochester', 'Rochester Deli, Rochester', "Lipuma's Coney Island, Rochester", 'The Eagle Tavern, Rochester', 'Rochester Inn & Hardwood Grll, Rochester', 'Mamma Mia, Rochester', 'Jines Restaurant, Rochester'],
+Attractions (1 per day): ['The High Line, New York', 'Central Park, New York', 'Restoration House, Rochester', 'Six Poor Travellers House, Rochester', 'Rochester Castle, Rochester'],
+Accommodations (1 per city): ['Dazzling Oasis | Times Square.  Restaurant, New York', 'Arts & Crafts In-law Suite, Rochester']

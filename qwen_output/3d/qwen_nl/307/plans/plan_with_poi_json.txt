@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to Seattle",
+    "transportation": "Flight Number: F0292124, from Tucson to Seattle, Departure Time: 13:22, Arrival Time: 16:42",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Spinasse, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Pike Place Market Apt Water View and Balcony, Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Salty's On Alki Beach, Seattle",
+    "lunch": "All Water Seafood & Oyster Bar, Seattle",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "Pike Place Market Apt Water View and Balcony, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 08:00 to 08:30, nearest transit: 2nd Ave & Pike St, 369.95m away; Salty's On Alki Beach, visit from 08:55 to 09:35, nearest transit: Harbor Ave SW & 2100 Block, 145.40m away; Seattle Aquarium, visit from 10:00 to 12:00, nearest transit: 2nd Ave & Pike St, 363.98m away; All Water Seafood & Oyster Bar, visit from 13:35 to 14:15, nearest transit: 1st Ave & Spring St, 19.43m away; Il Terrazzo Carmine, visit from 19:00 to 19:40, nearest transit: Alaskan Way S & S Jackson St, 103.57m away; Pike Place Market Apt Water View and Balcony, stay from 23:00 to 08:00, nearest transit: 2nd Ave & Pike St, 369.95m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Tucson",
+    "transportation": "Flight Number: F0452615, from Seattle to Tucson, Departure Time: 17:57, Arrival Time: 20:46",
+    "breakfast": "The Capital Grille, Seattle",
+    "lunch": "Barolo Ristorante, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 08:00 to 08:10, nearest transit: 2nd Ave & Pike St, 369.95m away; The Capital Grille, visit from 08:35 to 08:48, nearest transit: 4th Ave & University, 41.04m away; Woodland Park Zoo, visit from 09:13 to 11:13, nearest transit: Phinney Ave N & N 55th St, 257.77m away; Barolo Ristorante, visit from 12:48 to 13:19, nearest transit: Westlake And 7th, 37.77m away; Dough Zone Dumpling House - Seattle International District, visit from 17:19 to 17:32, nearest transit: 5th Ave S & S Weller St, 26.54m away"
+  }
+]

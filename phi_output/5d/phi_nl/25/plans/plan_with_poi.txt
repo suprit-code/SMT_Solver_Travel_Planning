@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Helena to Durango",
+    "transportation": "Self-driving from Helena to Durango, duration: 938.795, distance: 1407.4631000000002, cost : 70.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Sleek, Modern Studio in the heart of downtown., Durango",
+    "event": "-",
+    "point_of_interest_list": "Sleek, Modern Studio in the heart of downtown., stay from 22:08 to 22:38, nearest transit: Main Ave. & 11th St., 56.06m away; Sleek, Modern Studio in the heart of downtown., stay from 23:08 to 07:08, nearest transit: Main Ave. & 11th St., 56.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Durango",
+    "transportation": "-",
+    "breakfast": "Mahogany Grille, Durango",
+    "lunch": "Zia Taqueria, Durango",
+    "dinner": "College Drive Cafe, Durango",
+    "attraction": "San Juan National Forest, Durango",
+    "accommodation": "Sleek, Modern Studio in the heart of downtown., Durango",
+    "event": "-",
+    "point_of_interest_list": "Sleek, Modern Studio in the heart of downtown., stay from 07:38 to 08:08, nearest transit: Main Ave. & 11th St., 56.06m away; Mahogany Grille, Durango, visit from 08:50 to 09:40, ; San Juan National Forest, Durango, visit from 10:10 to 13:40, ; Zia Taqueria, Durango, visit from 14:10 to 15:10, ; College Drive Cafe, Durango, visit from 20:45 to 22:00, ; Sleek, Modern Studio in the heart of downtown., stay from 23:16 to 07:16, nearest transit: Main Ave. & 11th St., 56.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Durango to Colorado Springs",
+    "transportation": "Self-driving from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost : 25.0",
+    "breakfast": "Ska Brewing Co, Durango",
+    "lunch": "Hermosa  Creek Grill, Durango",
+    "dinner": "-",
+    "attraction": "The Colorado Trail, Durango",
+    "accommodation": "The Bird’s Nest – Tiny Home – Big Location!, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Sleek, Modern Studio in the heart of downtown., stay from 07:46 to 08:16, nearest transit: Main Ave. & 11th St., 56.06m away; Ska Brewing Co, Durango, visit from 08:46 to 09:36, ; The Colorado Trail, Durango, visit from 10:06 to 13:36, ; Hermosa  Creek Grill, Durango, visit from 14:06 to 15:06, ; The Bird’s Nest – Tiny Home – Big Location!, stay from 22:40 to 23:10, nearest transit: Colorado/21st, 161.27m away; The Bird’s Nest – Tiny Home – Big Location!, stay from 23:40 to 07:40, nearest transit: Colorado/21st, 161.27m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "The Steakhouse At Flying Horse, Colorado Springs",
+    "lunch": "The Warehouse Restaurant & Gallery, Colorado Springs",
+    "dinner": "Mountain Shadows Restaurant, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "The Bird’s Nest – Tiny Home – Big Location!, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "The Bird’s Nest – Tiny Home – Big Location!, stay from 08:10 to 08:40, nearest transit: Colorado/21st, 161.27m away; The Steakhouse At Flying Horse, Colorado Springs, visit from 09:10 to 10:00, ; Seven Falls, Colorado Springs, visit from 10:30 to 14:00, ; The Warehouse Restaurant & Gallery, Colorado Springs, visit from 14:30 to 15:30, ; Mountain Shadows Restaurant, Colorado Springs, visit from 19:31 to 20:46, ; The Bird’s Nest – Tiny Home – Big Location!, stay from 21:16 to 05:30, nearest transit: Colorado/21st, 161.27m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Colorado Springs to Helena",
+    "transportation": "Self-driving from Colorado Springs to Helena, duration: 879.4416666666667, distance: 1384.2815, cost : 69.0",
+    "breakfast": "Carlos Bistro, Colorado Springs",
+    "lunch": "Shuga's Restaurant, Colorado Springs",
+    "dinner": "Restaurant 1858, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Bird’s Nest – Tiny Home – Big Location!, stay from 06:00 to 06:30, nearest transit: Colorado/21st, 161.27m away; Carlos Bistro, Colorado Springs, visit from 08:00 to 08:50, ; Garden of the Gods, Colorado Springs, visit from 09:20 to 12:50, ; Shuga's Restaurant, Colorado Springs, visit from 13:20 to 14:20, ; Restaurant 1858, Colorado Springs, visit from 19:00 to 20:15, "
+  }
+]

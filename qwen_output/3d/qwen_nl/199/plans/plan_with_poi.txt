@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to New York",
+    "transportation": "Flight Number: F4051924, from Louisville to New York, Departure Time: 15:23, Arrival Time: 17:55",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Azalea Ristorante, New York",
+    "attraction": "-",
+    "accommodation": "Private Studio & SPA near JFK| UBS arena., New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 18:25 to 18:55, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; Azalea Ristorante, New York, visit from 19:25 to 20:40, ; Private Studio & SPA near JFK| UBS arena., stay from 21:10 to 05:10, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Carmine's, New York",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "Private Studio & SPA near JFK| UBS arena., New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 06:00 to 06:30, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; Carmine's, New York, visit from 08:16 to 09:06, ; The National 9/11 Memorial & Museum, New York, visit from 09:36 to 14:00, ; Times Square Diner, New York, visit from 14:30 to 15:30, ; FIG & OLIVE, New York, visit from 19:31 to 20:46, ; Private Studio & SPA near JFK| UBS arena., stay from 21:30 to 05:30, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Louisville",
+    "transportation": "Flight Number: F3201732, from New York to Louisville, Departure Time: 18:17, Arrival Time: 20:34",
+    "breakfast": "Westway Diner, New York",
+    "lunch": "Sarge’s Delicatessen & Diner, New York",
+    "dinner": "-",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 06:00 to 06:30, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; Westway Diner, New York, visit from 08:00 to 08:50, ; New York Public Library, New York, visit from 09:20 to 12:50, ; Sarge’s Delicatessen & Diner, New York, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Spokane to Boise",
+    "transportation": "Self-driving from Spokane to Boise, duration: 468.525, distance: 678.2546, cost : 33.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Flying M Coffee House, Boise",
+    "attraction": "Boise River Greenbelt, Boise",
+    "accommodation": "Charming and Convenient, Boise",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 14:18 to 14:48, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Boise River Greenbelt, Boise, visit from 15:18 to 18:48, ; Flying M Coffee House, Boise, visit from 19:18 to 22:10, ; Charming and Convenient, stay from 22:40 to 06:40, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Boise",
+    "transportation": "-",
+    "breakfast": "Chiang Mai House Thai, Boise",
+    "lunch": "Guido's Original New York Style Pizza Downtown, Boise",
+    "dinner": "Westside Drive In, Boise",
+    "attraction": "Freak Alley Gallery, Boise",
+    "accommodation": "Charming and Convenient, Boise",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 07:10 to 07:40, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Chiang Mai House Thai, Boise, visit from 08:10 to 09:29, ; Freak Alley Gallery, Boise, visit from 09:59 to 13:29, ; Guido's Original New York Style Pizza Downtown, Boise, visit from 13:59 to 14:59, ; Westside Drive In, Boise, visit from 19:00 to 20:15, ; Charming and Convenient, stay from 20:45 to 04:45, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Boise to Spokane",
+    "transportation": "Self-driving from Boise to Spokane, duration: 468.455, distance: 685.3743000000001, cost : 34.0",
+    "breakfast": "-",
+    "lunch": "Boise Fry Company, Boise",
+    "dinner": "Thai Cuisine, Boise",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charming and Convenient, stay from 06:00 to 06:30, nearest transit: N Orchard St & W Morris Hill Rd NWC, 340.96m away; Boise Fry Company, Boise, visit from 13:00 to 14:59, ; Thai Cuisine, Boise, visit from 19:00 to 20:15, "
+  }
+]

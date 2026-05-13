@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to San Luis Obispo",
+    "transportation": "Flight Number: F3029855, from Dallas to San Luis Obispo, Departure Time: 11:00, Arrival Time: 12:30",
+    "breakfast": "-",
+    "lunch": "Louisa's Place Restaurant, San Luis Obispo",
+    "dinner": "Madonna Inn Copper Cafe, San Luis Obispo",
+    "attraction": "Mission San Luis Obispo de Tolosa, San Luis Obispo",
+    "accommodation": "SLO Guesthouse - quiet - near downtown - #115545, San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "SLO Guesthouse - quiet - near downtown - #115545, stay from 13:00 to 13:30, nearest transit: Santa Rosa & Murray, 473.93m away; Louisa's Place Restaurant, San Luis Obispo, visit from 14:00 to 15:00, ; Mission San Luis Obispo de Tolosa, San Luis Obispo, visit from 15:30 to 19:00, ; Madonna Inn Copper Cafe, San Luis Obispo, visit from 19:45 to 21:00, ; SLO Guesthouse - quiet - near downtown - #115545, stay from 21:30 to 05:30, nearest transit: Santa Rosa & Murray, 473.93m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Luis Obispo",
+    "transportation": "-",
+    "breakfast": "Taco King, San Luis Obispo",
+    "lunch": "Luna Red, San Luis Obispo",
+    "dinner": "Novo Restaurant & Lounge, San Luis Obispo",
+    "attraction": "Bubblegum Alley, San Luis Obispo",
+    "accommodation": "SLO Guesthouse - quiet - near downtown - #115545, San Luis Obispo",
+    "event": "-",
+    "point_of_interest_list": "SLO Guesthouse - quiet - near downtown - #115545, stay from 06:00 to 06:30, nearest transit: Santa Rosa & Murray, 473.93m away; Taco King, San Luis Obispo, visit from 08:05 to 08:55, ; Bubblegum Alley, San Luis Obispo, visit from 09:25 to 12:55, ; Luna Red, San Luis Obispo, visit from 13:25 to 14:25, ; Novo Restaurant & Lounge, San Luis Obispo, visit from 19:00 to 20:15, ; SLO Guesthouse - quiet - near downtown - #115545, stay from 20:45 to 04:45, nearest transit: Santa Rosa & Murray, 473.93m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Luis Obispo to Dallas",
+    "transportation": "Flight Number: F1376911, from San Luis Obispo to Dallas, Departure Time: 12:34, Arrival Time: 18:07",
+    "breakfast": "Lure Fish House, San Luis Obispo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "SLO Guesthouse - quiet - near downtown - #115545, stay from 06:00 to 06:30, nearest transit: Santa Rosa & Murray, 473.93m away; Lure Fish House, San Luis Obispo, visit from 08:00 to 08:50, "
+  }
+]

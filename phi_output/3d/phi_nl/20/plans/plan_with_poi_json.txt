@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Washington",
+    "transportation": "Flight Number: F1448436, from Sarasota to Washington, Departure Time: 11:45, Arrival Time: 14:04",
+    "breakfast": "-",
+    "lunch": "L'Ardente, Washington",
+    "dinner": "RPM Italian, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "2 Queen Apt Suite | 2500 Penn Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "2 Queen Apt Suite | 2500 Penn Placemakr Experience, stay from 14:34 to 15:04, nearest transit: FOGGY BOTTOM, 373.15m away; L'Ardente, visit from 15:34 to 16:14, nearest transit: JUDICIARY SQ METRORAIL STATION - F ST., BETWEEN 4TH & 5TH STS. NW, 357.42m away; United States Botanic Garden, visit from 16:44 to 18:44, nearest transit: FEDERAL CENTER SW, 414.35m away; RPM Italian, visit from 20:14 to 20:54, nearest transit: Entrance C - 7th & H St, GALLERY PLACE METRORAIL STATION, 292.84m away; 2 Queen Apt Suite | 2500 Penn Placemakr Experience, stay from 23:00 to 08:00, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Bourbon Steak - Four Seasons Washington DC, Washington",
+    "lunch": "FIG & OLIVE, Washington",
+    "dinner": "Joe's Seafood Prime Steak & Stone Crab, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "2 Queen Apt Suite | 2500 Penn Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "2 Queen Apt Suite | 2500 Penn Placemakr Experience, stay from 08:00 to 08:30, nearest transit: FOGGY BOTTOM, 373.15m away; Bourbon Steak - Four Seasons Washington DC, visit from 09:00 to 09:40, nearest transit: FOGGY BOTTOM, 693.85m away; National Mall, visit from 10:10 to 12:10, nearest transit: Entrance  A - 7 St,  Maryland Av, 386.15m away; FIG & OLIVE, visit from 13:40 to 14:20, nearest transit: GALLERY PLACE CHINATOWN, 206.56m away; Joe's Seafood Prime Steak & Stone Crab, visit from 19:00 to 19:40, nearest transit: MCPHERSON SQ, 150.59m away; 2 Queen Apt Suite | 2500 Penn Placemakr Experience, stay from 23:00 to 08:00, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Sarasota",
+    "transportation": "Flight Number: F1348139, from Washington to Sarasota, Departure Time: 20:55, Arrival Time: 23:07",
+    "breakfast": "The Dabney, Washington",
+    "lunch": "La Grande Boucherie, Washington",
+    "dinner": "1789 Restaurant & Bar, Washington",
+    "attraction": "Ford's Theatre, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "2 Queen Apt Suite | 2500 Penn Placemakr Experience, stay from 08:00 to 08:30, nearest transit: FOGGY BOTTOM, 373.15m away; The Dabney, visit from 09:00 to 09:40, nearest transit: MT VERNON SQ, 217.08m away; Ford's Theatre, visit from 10:10 to 12:10, nearest transit: ENTRANCE B - 11TH AND G STS., 172.16m away; La Grande Boucherie, visit from 13:40 to 14:20, nearest transit: METRO CENTER, 193.61m away; 1789 Restaurant & Bar, visit from 19:00 to 19:40, nearest transit: ROSSLYN, 1065.49m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Baltimore",
+    "transportation": "Flight Number: F2173317, from Indianapolis to Baltimore, Departure Time: 10:18, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Phillips Seafood, Baltimore",
+    "attraction": "Federal Hill Park, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 12:22 to 12:52, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Federal Hill Park, visit from 13:22 to 15:22, nearest transit: SHOT TOWER METRO West Entrance, 1089.59m away; Phillips Seafood, visit from 19:00 to 19:40, nearest transit: SHOT TOWER METRO West Entrance, 344.26m away; The basement, stay from 23:00 to 08:00, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Alexander's Tavern, Baltimore",
+    "lunch": "The Helmand, Baltimore",
+    "dinner": "Twist Fell's Point, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "The basement, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Alexander's Tavern, visit from 09:00 to 09:40, nearest transit: SHOT TOWER STATION (METRO) sb, 1231.08m away; National Aquarium, visit from 10:10 to 12:10, nearest transit: SHOT TOWER METRO West Entrance, 474.59m away; The Helmand, visit from 13:40 to 14:20, nearest transit: STATE CENTER (METRO) sb, 508.53m away; Twist Fell's Point, visit from 19:00 to 19:40, nearest transit: SHOT TOWER STATION (METRO) sb, 1265.36m away; The basement, stay from 23:00 to 08:00, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Indianapolis",
+    "transportation": "Flight Number: F1564950, from Baltimore to Indianapolis, Departure Time: 17:05, Arrival Time: 18:38",
+    "breakfast": "Angies Seafood, Baltimore",
+    "lunch": "The Abbey Burger Bistro, Baltimore",
+    "dinner": "-",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The basement, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS METRO Elevator 2, 9208.23m away; Angies Seafood, visit from 09:00 to 09:40, nearest transit: JOHNS HOPKINS STATION (METRO), 839.06m away; The Maryland Zoo, visit from 10:10 to 12:10, nearest transit: MONDAWMIN METRO Escalator 4, 586.50m away; The Abbey Burger Bistro, visit from 13:40 to 14:20, nearest transit: CHARLES CENTER METRO EV Entrance, 1364.87m away"
+  }
+]

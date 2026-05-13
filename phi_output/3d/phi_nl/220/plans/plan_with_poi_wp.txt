@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Las Vegas",
+    "transportation": "Flight Number: F0919318, from Sioux Falls to Las Vegas, Departure Time: 15:40, Arrival Time: 16:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 16:41 to 17:11, nearest transit: Fremont East Entertainment District, 1810.6m away; Mr. Mamas, Las Vegas, visit from 20:45 to 22:12, ; Room in Down Town Las Vegas., stay from 22:42 to 06:42, nearest transit: Fremont East Entertainment District, 1810.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "dinner": "Garden Court, Las Vegas",
+    "attraction": "Titanic: The Artifact Exhibition, Las Vegas",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 07:12 to 07:42, nearest transit: Fremont East Entertainment District, 1810.6m away; Ameribrunch Cafe, Las Vegas, visit from 08:12 to 10:00, ; Titanic: The Artifact Exhibition, Las Vegas, visit from 10:30 to 14:00, ; Gordon Ramsay Hell's Kitchen, Las Vegas, visit from 14:30 to 15:30, ; Garden Court, Las Vegas, visit from 19:31 to 20:46, ; Room in Down Town Las Vegas., stay from 21:30 to 05:30, nearest transit: Fremont East Entertainment District, 1810.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Sioux Falls",
+    "transportation": "Flight Number: F2560739, from Las Vegas to Sioux Falls, Departure Time: 16:07, Arrival Time: 20:39",
+    "breakfast": "Eggslut, Las Vegas",
+    "lunch": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "dinner": "-",
+    "attraction": "The Neon Museum, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 06:00 to 06:30, nearest transit: Fremont East Entertainment District, 1810.6m away; Eggslut, Las Vegas, visit from 08:00 to 08:50, ; The Neon Museum, Las Vegas, visit from 09:20 to 12:50, ; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 13:20 to 14:20, "
+  }
+]

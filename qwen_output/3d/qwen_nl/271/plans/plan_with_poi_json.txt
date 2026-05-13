@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Key West",
+    "transportation": "Flight Number: F4038547, from Houston to Key West, Departure Time: 12:28, Arrival Time: 16:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Lobster Shack Key West, Key West",
+    "attraction": "Florida Keys Eco-Discovery Center, Key West",
+    "accommodation": "Downtown KeyWest 2Bed Oceanfront, Key West",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Key West",
+    "transportation": "-",
+    "breakfast": "Prime Steakhouse, Key West",
+    "lunch": "Onlywood Grill, Key West",
+    "dinner": "Seaside Cafe at the Mansion, Key West",
+    "attraction": "Key West Garden Club, Key West",
+    "accommodation": "Downtown KeyWest 2Bed Oceanfront, Key West",
+    "event": "-",
+    "point_of_interest_list": "Downtown KeyWest 2Bed Oceanfront, stay from 08:00 to 08:30, nearest transit: Whitehead & Greene St., 168.65m away; Prime Steakhouse, visit from 08:55 to 09:35, nearest transit: Caroline & Grinnell, 4.21m away; Key West Garden Club, visit from 10:00 to 12:00, nearest transit: Flagler Ave & Grinnell Street, 376.32m away; Onlywood Grill, visit from 13:35 to 14:15, nearest transit: Caroline & William, 28.22m away; Seaside Cafe at the Mansion, visit from 19:00 to 19:40, nearest transit: United & Duval St., 164.82m away; Downtown KeyWest 2Bed Oceanfront, stay from 23:00 to 08:00, nearest transit: Whitehead & Greene St., 168.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Key West to Houston",
+    "transportation": "Flight Number: F4043172, from Key West to Houston, Departure Time: 16:48, Arrival Time: 19:29",
+    "breakfast": "The Flaming Buoy Filet Co., Key West",
+    "lunch": "Thirsty Mermaid, Key West",
+    "dinner": "Waterfront Brewery, Key West",
+    "attraction": "Smathers Beach, Key West",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown KeyWest 2Bed Oceanfront, stay from 08:00 to 08:10, nearest transit: Whitehead & Greene St., 168.65m away; The Flaming Buoy Filet Co., visit from 08:35 to 08:48, nearest transit: Whitehead & Eaton, 111.22m away; Smathers Beach, visit from 09:13 to 11:13, nearest transit: S Roosevelt - Key West by the Sea, 124.77m away; Thirsty Mermaid, visit from 12:00 to 12:13, nearest transit: Simonton & Southard St., 200.66m away; Waterfront Brewery, visit from 16:10 to 16:23, nearest transit: Caroline & William, 119.49m away"
+  }
+]

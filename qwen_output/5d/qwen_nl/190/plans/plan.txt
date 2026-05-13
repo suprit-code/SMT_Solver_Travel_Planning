@@ -1,0 +1,6 @@
+Destination cities: ['Green Bay', 'Madison'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['taxi, from Dallas to Green Bay, duration: 1250.7116666666666, distance: 1783.5529, cost: 1783', 'taxi, from Green Bay to Madison, duration: 168.9, distance: 218.8333, cost: 218', 'Flight Number: F1905504, from Madison to Dallas, Departure Time: 19:00, Arrival Time: 21:29'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Hinterland, Green Bay', 'White Dog Black Cat Cafe, Green Bay', 'Redwood Inn, Green Bay', 'The Pancake Place, Green Bay', "Al's Hamburger shop, Green Bay", "Plia's Kitchen, Green Bay", 'Mickies Dairy Bar, Madison', "Madison's Cafe, Madison", 'Greenbush Bakery Inc, Madison', 'Madison Chop House Grille, Madison', 'Babcock Hall Dairy Store, Madison', '-'],
+Attractions (1 per day): ['-', 'Green Bay Botanical Garden, Green Bay', 'Lambeau Field, Green Bay', 'Olbrich Botanical Gardens, Madison', 'Henry Vilas Zoo, Madison'],
+Accommodations (1 per city): ['That Daam House near Downtown Green Bay, WI, Green Bay', 'Cape Cod Loft, High-Speed internet + King bed, Madison']

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Amarillo",
+    "transportation": "Flight Number: F1596908, from Las Vegas to Amarillo, Departure Time: 11:49, Arrival Time: 15:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Macaroni Joes, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 16:17 to 20:15, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Macaroni Joes, Amarillo, visit from 20:45 to 22:38, ; Relaxing Place to Stay with Guest Living Room!, stay from 23:08 to 07:08, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Manantial, Amarillo",
+    "lunch": "Ye Olde Pancake Station, Amarillo",
+    "dinner": "575° Pizzeria - Hillside, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 07:38 to 08:08, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Manantial, Amarillo, visit from 08:38 to 09:59, ; Ye Olde Pancake Station, Amarillo, visit from 14:00 to 15:00, ; Route 66 Historic District, Amarillo, visit from 15:30 to 20:15, ; 575° Pizzeria - Hillside, Amarillo, visit from 20:45 to 22:06, ; Relaxing Place to Stay with Guest Living Room!, stay from 22:36 to 06:36, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F0453701, from Amarillo to Houston, Departure Time: 14:34, Arrival Time: 16:17",
+    "breakfast": "El Bracero Mexican Grill, Amarillo",
+    "lunch": "Golden Light Cafe & Cantina, Amarillo",
+    "dinner": "Houstons Bar and Grill, Houston",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 07:06 to 07:36, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Bracero Mexican Grill, Amarillo, visit from 08:06 to 08:56, ; Golden Light Cafe & Cantina, Amarillo, visit from 12:57 to 14:04, ; #4 Northwest Victory Single BR, stay from 16:47 to 17:17, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houstons Bar and Grill, Houston, visit from 19:00 to 20:15, ; #4 Northwest Victory Single BR, stay from 20:45 to 04:45, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "Goode Company BBQ, Houston",
+    "attraction": "The Menil Collection, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Kenny & Ziggy's New York Deli, Houston, visit from 08:03 to 08:53, ; Pappadeaux Seafood Kitchen, Houston, visit from 12:54 to 13:54, ; The Menil Collection, Houston, visit from 14:24 to 17:54, ; Goode Company BBQ, Houston, visit from 19:00 to 20:15, ; #4 Northwest Victory Single BR, stay from 20:45 to 04:45, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F1747168, from Houston to San Antonio, Departure Time: 10:20, Arrival Time: 11:36",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Dough Pizzeria Napoletana, San Antonio",
+    "dinner": "Pinkerton's Barbecue, San Antonio",
+    "attraction": "San Antonio Missions National Historical Park, San Antonio",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 08:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Hugo's, Houston, visit from 09:00 to 09:50, ; Cozy Private Room near UTSA & LaCantera, stay from 12:06 to 12:36, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Dough Pizzeria Napoletana, San Antonio, visit from 13:51 to 14:51, ; San Antonio Missions National Historical Park, San Antonio, visit from 15:21 to 18:51, ; Pinkerton's Barbecue, San Antonio, visit from 19:21 to 20:36, ; Cozy Private Room near UTSA & LaCantera, stay from 21:06 to 05:06, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Boudro's Texas Bistro, San Antonio",
+    "lunch": "2M Smokehouse & Catering, San Antonio",
+    "dinner": "Pollos Asados Los Nortenos, San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 06:00 to 07:37, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Boudro's Texas Bistro, San Antonio, visit from 08:07 to 08:57, ; The Alamo, San Antonio, visit from 09:27 to 12:57, ; 2M Smokehouse & Catering, San Antonio, visit from 13:27 to 14:27, ; Pollos Asados Los Nortenos, San Antonio, visit from 19:00 to 20:15, ; Cozy Private Room near UTSA & LaCantera, stay from 20:45 to 05:30, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Las Vegas",
+    "transportation": "Flight Number: F3577849, from San Antonio to Las Vegas, Departure Time: 19:03, Arrival Time: 19:46",
+    "breakfast": "Schilo's, San Antonio",
+    "lunch": "Rosario's ComidaMex & Bar, San Antonio",
+    "dinner": "-",
+    "attraction": "Pearl Brewery, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 06:00 to 06:30, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Schilo's, San Antonio, visit from 08:00 to 08:50, ; Pearl Brewery, San Antonio, visit from 09:20 to 12:50, ; Rosario's ComidaMex & Bar, San Antonio, visit from 14:30 to 15:30, "
+  }
+]

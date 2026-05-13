@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Sacramento",
+    "transportation": "Flight Number: F2448707, from Washington to Sacramento, Departure Time: 17:49, Arrival Time: 20:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 21:06 to 21:36, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 22:31 to 06:31, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Il Fornaio, Sacramento",
+    "lunch": "Ella Dining Room & Bar, Sacramento",
+    "dinner": "The Kitchen Restaurant, Sacramento",
+    "attraction": "-",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 07:01 to 07:31, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Il Fornaio, Sacramento, visit from 08:01 to 09:59, ; Ella Dining Room & Bar, Sacramento, visit from 14:00 to 15:00, ; The Kitchen Restaurant, Sacramento, visit from 20:45 to 23:30, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 00:00 to 08:00, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sacramento to Washington",
+    "transportation": "Flight Number: F0536351, from Sacramento to Washington, Departure Time: 22:40, Arrival Time: 06:22",
+    "breakfast": "Grange Restaurant & Bar, Sacramento",
+    "lunch": "-",
+    "dinner": "Zocalo, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 08:30 to 09:00, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Grange Restaurant & Bar, Sacramento, visit from 09:30 to 10:29, ; Capitol Park, Sacramento, visit from 15:00 to 18:30, ; Zocalo, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

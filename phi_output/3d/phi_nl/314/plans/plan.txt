@@ -1,0 +1,6 @@
+Destination cities: ['Tulsa'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F3148797, from St. Louis to Tulsa, Departure Time: 21:22, Arrival Time: 22:31', 'Flight Number: F2701750, from Tulsa to St. Louis, Departure Time: 08:28, Arrival Time: 09:35'],
+Restaurants (3 meals per day): ['-', '-', '-', "Tally's Good Food Cafe, Tulsa", 'Ti Amo Ristorante Italiano, Tulsa', 'El Rio Verde, Tulsa', '-', '-', '-'],
+Attractions (1 per day): ['-', 'Tulsa Zoo, Tulsa', '-'],
+Accommodations (1 per city): ['The Jade Suite in Safe South Tulsa Neighborhood, Tulsa']

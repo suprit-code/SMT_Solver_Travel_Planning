@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Valparaiso to Charlotte",
+    "transportation": "Self-driving from Valparaiso to Charlotte, duration: 839.0333333333333, distance: 1153.1453, cost : 57.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Bedroom with Private Patio & Gym Near Uptown!, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Bedroom with Private Patio & Gym Near Uptown!, stay from 22:40 to 23:10, nearest transit: West Blvd & Beech Nut Rd, 390.41m away; Bedroom with Private Patio & Gym Near Uptown!, stay from 23:40 to 07:40, nearest transit: West Blvd & Beech Nut Rd, 390.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Gaucho Charlotte Street, Charlotte",
+    "lunch": "The Terrace at The Charlotte Inn, Charlotte",
+    "dinner": "Charlotte's Web, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Bedroom with Private Patio & Gym Near Uptown!, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Bedroom with Private Patio & Gym Near Uptown!, stay from 08:10 to 08:40, nearest transit: West Blvd & Beech Nut Rd, 390.41m away; Gaucho Charlotte Street, Charlotte, visit from 09:10 to 10:00, ; NASCAR Hall of Fame, Charlotte, visit from 10:30 to 14:00, ; The Terrace at The Charlotte Inn, Charlotte, visit from 14:30 to 15:30, ; Charlotte's Web, Charlotte, visit from 20:45 to 23:09, ; Bedroom with Private Patio & Gym Near Uptown!, stay from 23:39 to 07:39, nearest transit: West Blvd & Beech Nut Rd, 390.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Valparaiso",
+    "transportation": "Self-driving from Charlotte to Valparaiso, duration: 836.4466666666667, distance: 1151.8786, cost : 57.0",
+    "breakfast": "Cabo Fish Taco Baja Seagrill, Charlotte",
+    "lunch": "The Charlotte Hotel & Restaurant, Charlotte",
+    "dinner": "Charlotte & Fritz, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Bedroom with Private Patio & Gym Near Uptown!, stay from 08:09 to 08:39, nearest transit: West Blvd & Beech Nut Rd, 390.41m away; Cabo Fish Taco Baja Seagrill, Charlotte, visit from 09:09 to 09:59, ; The Charlotte Hotel & Restaurant, Charlotte, visit from 14:00 to 15:00, ; Discovery Place Science, Charlotte, visit from 15:30 to 19:00, ; Charlotte & Fritz, Charlotte, visit from 19:30 to 20:45, "
+  }
+]

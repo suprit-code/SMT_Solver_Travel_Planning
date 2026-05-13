@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to New York",
+    "transportation": "Flight Number: F0839826, from Sarasota to New York, Departure Time: 15:11, Arrival Time: 17:45",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Carmine's, New York",
+    "attraction": "-",
+    "accommodation": "East Village, Private room with access to garden, New York",
+    "event": "-",
+    "point_of_interest_list": "East Village, Private room with access to garden, stay from 18:15 to 20:15, nearest transit: 1 AV/E 1 ST, 79.09m away; Carmine's, New York, visit from 20:45 to 22:04, ; East Village, Private room with access to garden, stay from 22:34 to 06:34, nearest transit: 1 AV/E 1 ST, 79.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Sarge’s Delicatessen & Diner, New York",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "East Village, Private room with access to garden, New York",
+    "event": "-",
+    "point_of_interest_list": "East Village, Private room with access to garden, stay from 07:04 to 07:34, nearest transit: 1 AV/E 1 ST, 79.09m away; Peak Restaurant & Bar, New York, visit from 08:04 to 09:29, ; Westway Diner, New York, visit from 13:30 to 14:30, ; New York Public Library, New York, visit from 15:00 to 18:30, ; Sarge’s Delicatessen & Diner, New York, visit from 19:00 to 23:30, ; East Village, Private room with access to garden, stay from 00:00 to 08:00, nearest transit: 1 AV/E 1 ST, 79.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Sarasota",
+    "transportation": "Flight Number: F0838385, from New York to Sarasota, Departure Time: 16:07, Arrival Time: 19:24",
+    "breakfast": "BOOM, New York",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "East Village, Private room with access to garden, stay from 08:30 to 09:00, nearest transit: 1 AV/E 1 ST, 79.09m away; BOOM, New York, visit from 09:30 to 10:20, ; The Metropolitan Museum of Art, New York, visit from 12:07 to 15:37, "
+  }
+]

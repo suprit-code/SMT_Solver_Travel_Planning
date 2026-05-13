@@ -1,0 +1,12 @@
+
+            restaurant_index = [101, 102, 103, 104, 105]
+            cuisine_types = ['French', 'Italian', 'Chinese', 'Mexican', 'French']
+            
+            french_and_italian_restaurants = []
+            
+            for i in range(len(restaurant_index)):
+                if cuisine_types[i] == 'French' or cuisine_types[i] == 'Italian':
+                    french_and_italian_restaurants.append(restaurant_index[i])
+            
+            print(french_and_italian_restaurants)
+            

@@ -1,0 +1,10 @@
+Error message:
+name 'timedelta' is not defined
+
+Full traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/SMT_Solver_TravelPlanning/Test_TravelPlannerv2.py", line 366, in pipeline
+    exec(codes)
+  File "<string>", line 114, in <module>
+  File "<string>", line 107, in get_taxi_arrival_time
+NameError: name 'timedelta' is not defined

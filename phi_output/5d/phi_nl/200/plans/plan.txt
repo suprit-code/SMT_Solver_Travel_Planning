@@ -1,0 +1,6 @@
+Destination cities: ['Durango', 'Colorado Springs'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['taxi, from Helena to Durango, duration: 938.795, distance: 1407.4631000000002, cost: 1407', 'taxi, from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost: 506', 'taxi, from Colorado Springs to Helena, duration: 879.4416666666667, distance: 1384.2815, cost: 1384'],
+Restaurants (3 meals per day): ['-', '-', '-', "Durango's Mexican, Durango", 'Serious Texas Bar-B-Q, Durango', 'Seasons of Durango, Durango', "Michel's Corner Crepes, Durango", 'Durango Doughworks, Durango', 'Fired Up Pizzeria, Durango', 'Mountain Shadows Restaurant, Colorado Springs', 'Margarita At Pine Creek, Colorado Springs', "Shuga's Restaurant, Colorado Springs", 'La Bella Vita, Colorado Springs', 'The Great British Food Company, Colorado Springs', 'Prime 25, Colorado Springs'],
+Attractions (1 per day): ['-', 'San Juan National Forest, Durango', 'The Colorado Trail, Durango', 'Seven Falls, Colorado Springs', 'Garden of the Gods, Colorado Springs'],
+Accommodations (1 per city): ['Modern Townhome on the River, Roof Top Deck, Durango', 'Two-Bed Two-Bath house, walk to Garden of the Gods, Colorado Springs']

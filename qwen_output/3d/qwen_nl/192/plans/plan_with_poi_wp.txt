@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Atlanta to Cincinnati",
+    "transportation": "Flight Number: F0325743, from Atlanta to Cincinnati, Departure Time: 12:12, Arrival Time: 13:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Via Vite, Cincinnati",
+    "attraction": "Cincinnati Museum Center, Cincinnati",
+    "accommodation": "Carter #6, Two Bedroom Apartment near Xavier, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "Carter #6, Two Bedroom Apartment near Xavier, stay from 13:53 to 14:30, nearest transit: MONTGOMERY RD & HOPKINS AVE, 532.41m away; Cincinnati Museum Center, Cincinnati, visit from 15:00 to 18:30, ; Via Vite, Cincinnati, visit from 19:00 to 20:15, ; Carter #6, Two Bedroom Apartment near Xavier, stay from 22:52 to 06:52, nearest transit: MONTGOMERY RD & HOPKINS AVE, 532.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Cincinnati",
+    "transportation": "-",
+    "breakfast": "Moerlein Lager House, Cincinnati",
+    "lunch": "Sotto, Cincinnati",
+    "dinner": "Agave & Rye Rookwood, Cincinnati",
+    "attraction": "National Underground Railroad Freedom Center, Cincinnati",
+    "accommodation": "Carter #6, Two Bedroom Apartment near Xavier, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "Carter #6, Two Bedroom Apartment near Xavier, stay from 07:22 to 07:52, nearest transit: MONTGOMERY RD & HOPKINS AVE, 532.41m away; Moerlein Lager House, Cincinnati, visit from 08:22 to 10:00, ; National Underground Railroad Freedom Center, Cincinnati, visit from 10:30 to 14:00, ; Sotto, Cincinnati, visit from 14:30 to 15:30, ; Agave & Rye Rookwood, Cincinnati, visit from 19:31 to 20:46, ; Carter #6, Two Bedroom Apartment near Xavier, stay from 21:16 to 05:16, nearest transit: MONTGOMERY RD & HOPKINS AVE, 532.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Cincinnati to Atlanta",
+    "transportation": "Flight Number: F1327592, from Cincinnati to Atlanta, Departure Time: 17:18, Arrival Time: 18:50",
+    "breakfast": "Boomtown Biscuits & Whiskey, Cincinnati",
+    "lunch": "Nada, Cincinnati",
+    "dinner": "-",
+    "attraction": "Rhinegeist Brewery, Cincinnati",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Carter #6, Two Bedroom Apartment near Xavier, stay from 06:00 to 06:30, nearest transit: MONTGOMERY RD & HOPKINS AVE, 532.41m away; Boomtown Biscuits & Whiskey, Cincinnati, visit from 08:00 to 08:50, ; Rhinegeist Brewery, Cincinnati, visit from 09:20 to 12:50, ; Nada, Cincinnati, visit from 13:20 to 14:20, "
+  }
+]

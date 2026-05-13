@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Baltimore to San Diego",
+    "transportation": "Flight Number: F3088136, from Baltimore to San Diego, Departure Time: 06:28, Arrival Time: 09:24",
+    "breakfast": "-",
+    "lunch": "Ruth's Chris Steak House, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 09:54 to 10:24, nearest transit: 30th St & A St, 427.5m away; Ruth's Chris Steak House, San Diego, visit from 12:00 to 13:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 20:15, ; Juniper and Ivy, San Diego, visit from 20:45 to 22:02, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 22:32 to 06:32, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Union Kitchen and Tap Gaslamp, San Diego",
+    "lunch": "Din Tai Fung, San Diego",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "*BEAUTIFUL* Sunny Home in Golden Hill, San Diego",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 07:02 to 07:32, nearest transit: 30th St & A St, 427.5m away; Union Kitchen and Tap Gaslamp, San Diego, visit from 08:02 to 08:52, ; Din Tai Fung, San Diego, visit from 12:53 to 13:53, ; Cabrillo National Monument, San Diego, visit from 15:00 to 18:30, ; Cowboy Star, San Diego, visit from 19:00 to 20:15, ; *BEAUTIFUL* Sunny Home in Golden Hill, stay from 20:45 to 04:45, nearest transit: 30th St & A St, 427.5m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Flight Number: F1784673, from San Diego to Los Angeles, Departure Time: 20:28, Arrival Time: 21:17",
+    "breakfast": "La Puerta, San Diego",
+    "lunch": "Meze Greek Fusion, San Diego",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "*New! Historic Hollywood Hills Bungalow + Pool, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "*BEAUTIFUL* Sunny Home in Golden Hill, stay from 06:00 to 06:30, nearest transit: 30th St & A St, 427.5m away; La Puerta, San Diego, visit from 08:00 to 08:50, ; Meze Greek Fusion, San Diego, visit from 14:00 to 15:00, ; San Diego Zoo, San Diego, visit from 15:30 to 19:58, ; *New! Historic Hollywood Hills Bungalow + Pool, stay from 21:47 to 22:17, nearest transit:  Beachwood & Westshire , 320.82m away; *New! Historic Hollywood Hills Bungalow + Pool, stay from 22:47 to 06:47, nearest transit:  Beachwood & Westshire , 320.82m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Republique, Los Angeles",
+    "lunch": "The Lobster, Los Angeles",
+    "dinner": "Cafe Gratitude Venice, Los Angeles",
+    "attraction": "-",
+    "accommodation": "*New! Historic Hollywood Hills Bungalow + Pool, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "*New! Historic Hollywood Hills Bungalow + Pool, stay from 07:17 to 07:47, nearest transit:  Beachwood & Westshire , 320.82m away; Republique, Los Angeles, visit from 08:17 to 09:07, ; The Lobster, Los Angeles, visit from 14:30 to 15:30, ; Cafe Gratitude Venice, Los Angeles, visit from 19:31 to 20:46, ; *New! Historic Hollywood Hills Bungalow + Pool, stay from 21:16 to 05:30, nearest transit:  Beachwood & Westshire , 320.82m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Flight Number: F3995183, from Los Angeles to San Francisco, Departure Time: 13:28, Arrival Time: 14:33",
+    "breakfast": "The Butcher's Daughter, Los Angeles",
+    "lunch": "-",
+    "dinner": "Mo's Grill, San Francisco",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "Monroe Studio 303, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "*New! Historic Hollywood Hills Bungalow + Pool, stay from 06:00 to 06:30, nearest transit:  Beachwood & Westshire , 320.82m away; The Butcher's Daughter, Los Angeles, visit from 08:00 to 08:50, ; Griffith Park, Los Angeles, visit from 09:20 to 12:50, ; Monroe Studio 303, stay from 15:03 to 15:33, nearest transit: Civic Center @ 7th (Yotel), 1571.78m away; Mo's Grill, San Francisco, visit from 19:00 to 20:15, ; Monroe Studio 303, stay from 20:45 to 04:45, nearest transit: Civic Center @ 7th (Yotel), 1571.78m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "Akiko's Sushi Bar and Restaurant, San Francisco",
+    "dinner": "Waterbar, San Francisco",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "Monroe Studio 303, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Monroe Studio 303, stay from 06:00 to 06:30, nearest transit: Civic Center @ 7th (Yotel), 1571.78m away; Quince, San Francisco, visit from 09:10 to 10:00, ; Golden Gate Park, San Francisco, visit from 10:30 to 14:00, ; Akiko's Sushi Bar and Restaurant, San Francisco, visit from 14:30 to 15:30, ; Waterbar, San Francisco, visit from 19:31 to 20:46, ; Monroe Studio 303, stay from 21:16 to 05:16, nearest transit: Civic Center @ 7th (Yotel), 1571.78m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to Baltimore",
+    "transportation": "Flight Number: F0539461, from San Francisco to Baltimore, Departure Time: 23:00, Arrival Time: 07:14",
+    "breakfast": "-",
+    "lunch": "The Codmother Fish & Chips, San Francisco",
+    "dinner": "-",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Monroe Studio 303, stay from 08:30 to 09:00, nearest transit: Civic Center @ 7th (Yotel), 1571.78m away; Alcatraz Island, San Francisco, visit from 09:30 to 13:00, ; The Codmother Fish & Chips, San Francisco, visit from 14:30 to 22:30, "
+  }
+]

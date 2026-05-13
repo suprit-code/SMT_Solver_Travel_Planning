@@ -1,0 +1,6 @@
+Destination cities: ['Albuquerque'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Flight Number: F2686750, from San Diego to Albuquerque, Departure Time: 10:43, Arrival Time: 13:26', 'Flight Number: F0683108, from Albuquerque to San Diego, Departure Time: 11:58, Arrival Time: 12:46'],
+Restaurants (3 meals per day): ['-', '-', 'Church Street Cafe, Albuquerque', 'Rising Star Chinese Eatery, Albuquerque', "Padilla's Mexican Kitchen, Albuquerque", 'Dog House Drive In, Albuquerque', 'Two Fools Tavern, Albuquerque', '-', '-'],
+Attractions (1 per day): ['San Felipe de Neri Church, Albuquerque', 'Petroglyph National Monument, Albuquerque', '-'],
+Accommodations (1 per city): ['Casita de Tierra - Slow, Intentional Living, Albuquerque']

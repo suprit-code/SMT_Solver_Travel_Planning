@@ -1,0 +1,6 @@
+Destination cities: ['San Antonio'],
+Transportation dates: ['2024-11-01', '2024-11-03'],
+Transportation methods between cities: ['Flight Number: F2584203, from Miami to San Antonio, Departure Time: 14:29, Arrival Time: 16:25', 'Flight Number: F1372455, from San Antonio to Miami, Departure Time: 17:32, Arrival Time: 21:40'],
+Restaurants (3 meals per day): ['-', '-', "Boudro's Texas Bistro, San Antonio", 'Pollos Asados Los Nortenos, San Antonio', 'The Guenther House, San Antonio', 'Mi Tierra Cafe y Panaderia, San Antonio', "Schilo's, San Antonio", 'Iron Cactus Mexican Grill and Margarita Bar, San Antonio', 'Yard House, San Antonio'],
+Attractions (1 per day): ['Tower Of The Americas, San Antonio', 'The Alamo, San Antonio', 'Pearl Brewery, San Antonio'],
+Accommodations (1 per city): ['Cozy Private Room near UTSA & LaCantera, San Antonio']

@@ -1,0 +1,50 @@
+
+                def run_event_search(city_ids):
+                    event_info = {}
+                    for city_id in city_ids:
+                        # Assume EventSearch returns a list of events for each city
+                        event_info[city_id] = ["Event1", "Event2", "Event3", "Event4", "Event5", "Event6", "Event7"]
+                    
+                    return event_info
+                
+                def set_event_in_which_city(event_info, cities, transportation_arrivals):
+                    event_in_which_city = {}
+                    for i, arrival_time in enumerate(transportation_arrivals):
+                        current_city = cities[i % len(cities)]
+                        next_city = cities[(i + 1) % len(cities)]
+                        if arrival_time <= 12:  # Assuming 12 is the cut-off time for deciding the city
+                            event_in_which_city[i] = current_city
+                        else:
+                            event_in_which_city[i] = next_city
+                    
+                    return event_in_which_city
+                
+                def set_event_index(event_in_which_city, event_info):
+                    event_index = {}
+                    for i, city in event_in_which_city.items():
+                        if city not in event_info:
+                            raise ValueError(f"City {city} not found in event_info")
+                        event_index[i] = event_info[city].index(event_in_which_city[i])
+                    
+                    return event_index
+                
+                def define_category_score(event_index, event_info):
+                    category_scores = {}
+                    for i, event in event_index.items():
+                        if event not in event_info[event_in_which_city[i]]:
+                            raise ValueError(f"Event {event} not found in event_info for city {event_in_which_city[i]}")
+                        category_scores[i] = {"length": len(event_info[event_in_which_city[i]][event]), "score": 10 - event}
+                    
+                    return category_scores
+                
+                # Example usage
+                cities = ["city_0", "city_1", "city_2"]
+                transportation_arrivals = [9, 15, 8, 13, 11, 10, 14]
+                event_info = run_event_search(cities)
+                event_in_which_city = set_event_in_which_city(event_info, cities, transportation_arrivals)
+                event_index = set_event_index(event_in_which_city, event_info)
+                category_scores = define_category_score(event_index, event_info)
+                
+                print(category_scores)
+                
+                This code follows the provided structure and logic, including handling the transportation arrivals to determine the city for each event, setting the event indices, and defining category scores based on the event lengths.

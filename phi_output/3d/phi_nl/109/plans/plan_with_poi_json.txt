@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Louisville",
+    "transportation": "Flight Number: F1166289, from Detroit to Louisville, Departure Time: 10:11, Arrival Time: 11:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Vincenzo's Italian Restaurant, Louisville",
+    "attraction": "Churchill Downs, Louisville",
+    "accommodation": "Walk Everywhere! NuLu/Butchertown Derby Loft, Louisville",
+    "event": "-",
+    "point_of_interest_list": "Walk Everywhere! NuLu/Butchertown Derby Loft, stay from 11:57 to 12:27, nearest transit: Main @ Shelby, 113.22m away; Churchill Downs, visit from 12:57 to 14:57, nearest transit: Taylor @ Central, 430.42m away; Vincenzo's Italian Restaurant, visit from 19:00 to 19:40, nearest transit: S 6th @ W Market, 148.35m away; Walk Everywhere! NuLu/Butchertown Derby Loft, stay from 23:00 to 08:00, nearest transit: Main @ Shelby, 113.22m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Louisville",
+    "transportation": "-",
+    "breakfast": "Noche Mexican BBQ, Louisville",
+    "lunch": "Garage Bar, Louisville",
+    "dinner": "The Joy Luck, Louisville",
+    "attraction": "Kentucky Peerless Distilling Co, Louisville",
+    "accommodation": "Walk Everywhere! NuLu/Butchertown Derby Loft, Louisville",
+    "event": "-",
+    "point_of_interest_list": "Walk Everywhere! NuLu/Butchertown Derby Loft, stay from 08:00 to 08:30, nearest transit: Main @ Shelby, 113.22m away; Noche Mexican BBQ, visit from 09:00 to 09:40, nearest transit: Bardstown @ Esperanza Alley, 34.93m away; Kentucky Peerless Distilling Co, visit from 10:10 to 12:10, nearest transit: Market @ S 10th, 257.66m away; Garage Bar, visit from 13:40 to 14:20, nearest transit: Market @ Clay, 50.14m away; The Joy Luck, visit from 19:00 to 19:40, nearest transit: Bardstown @ Longest, 70.75m away; Walk Everywhere! NuLu/Butchertown Derby Loft, stay from 23:00 to 08:00, nearest transit: Main @ Shelby, 113.22m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Louisville to Detroit",
+    "transportation": "Flight Number: F3848953, from Louisville to Detroit, Departure Time: 18:21, Arrival Time: 19:36",
+    "breakfast": "Hell Or High Water, Louisville",
+    "lunch": "Down One Bourbon Bar & Restaurant, Louisville",
+    "dinner": "-",
+    "attraction": "Conrad-Caldwell House Museum (Conrad's Castle), Louisville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Walk Everywhere! NuLu/Butchertown Derby Loft, stay from 08:00 to 08:30, nearest transit: Main @ Shelby, 113.22m away; Hell Or High Water, visit from 09:00 to 09:40, nearest transit: S 1st @ E Main, 131.92m away; Conrad-Caldwell House Museum (Conrad's Castle), visit from 10:10 to 12:10, nearest transit: 4th @ Magnolia, 181.77m away; Down One Bourbon Bar & Restaurant, visit from 13:40 to 14:20, nearest transit: 4th @ W Main, 113.37m away"
+  }
+]

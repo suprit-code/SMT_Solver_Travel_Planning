@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Madison",
+    "transportation": "Flight Number: F2367542, from Chicago to Madison, Departure Time: 09:06, Arrival Time: 09:56",
+    "breakfast": "-",
+    "lunch": "Town 220 Restaurant, Madison",
+    "dinner": "The Madison, Madison",
+    "attraction": "Olbrich Botanical Gardens, Madison",
+    "accommodation": "Lakeview Loft - Downtown Madison, Madison",
+    "event": "-",
+    "point_of_interest_list": "Lakeview Loft - Downtown Madison, stay from 10:26 to 10:56, nearest transit: Godfrey Walmart, 462885.12m away; Town 220 Restaurant, Madison, visit from 14:00 to 15:00, ; Olbrich Botanical Gardens, Madison, visit from 15:30 to 19:00, ; The Madison, Madison, visit from 19:30 to 23:10, ; Lakeview Loft - Downtown Madison, stay from 23:40 to 07:40, nearest transit: Godfrey Walmart, 462885.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Madison",
+    "transportation": "-",
+    "breakfast": "Naples 15, Madison",
+    "lunch": "L'Etoile Restaurant, Madison",
+    "dinner": "Madison's, Madison",
+    "attraction": "Henry Vilas Zoo, Madison",
+    "accommodation": "Lakeview Loft - Downtown Madison, Madison",
+    "event": "-",
+    "point_of_interest_list": "Lakeview Loft - Downtown Madison, stay from 08:10 to 08:40, nearest transit: Godfrey Walmart, 462885.12m away; Naples 15, Madison, visit from 09:10 to 10:00, ; Henry Vilas Zoo, Madison, visit from 10:30 to 14:00, ; L'Etoile Restaurant, Madison, visit from 14:30 to 15:30, ; Madison's, Madison, visit from 19:31 to 20:46, ; Lakeview Loft - Downtown Madison, stay from 21:16 to 05:16, nearest transit: Godfrey Walmart, 462885.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Madison to Chicago",
+    "transportation": "Flight Number: F2460212, from Madison to Chicago, Departure Time: 18:00, Arrival Time: 18:59",
+    "breakfast": "Avra Madison Estiatorio, Madison",
+    "lunch": "Madison, Madison",
+    "dinner": "-",
+    "attraction": "Downtown Madison, Madison",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lakeview Loft - Downtown Madison, stay from 06:00 to 06:30, nearest transit: Godfrey Walmart, 462885.12m away; Avra Madison Estiatorio, Madison, visit from 08:00 to 08:50, ; Downtown Madison, Madison, visit from 09:20 to 12:50, ; Madison, Madison, visit from 13:20 to 14:20, "
+  }
+]

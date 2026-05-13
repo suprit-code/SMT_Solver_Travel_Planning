@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-23', '2024-11-25'],
+Transportation methods between cities: ['Flight Number: F3749555, from San Diego to Seattle, Departure Time: 13:45, Arrival Time: 16:58', 'Flight Number: F0816104, from Seattle to San Diego, Departure Time: 16:07, Arrival Time: 18:41'],
+Restaurants (3 meals per day): ['-', '-', 'Il Terrazzo Carmine, Seattle', 'The Pike Pub and Brewery, Seattle', 'Assaggio Ristorante, Seattle', 'Vons 1000 Spirits, Seattle', 'Toulouse Petit Kitchen & Lounge, Seattle', 'Noi Thai Cuisine, Seattle', "Salty's On Alki Beach, Seattle"],
+Attractions (1 per day): ['Hiram M. Chittenden Locks, Seattle', 'Klondike Gold Rush National Historical Park, Seattle', 'Seattle Center, Seattle'],
+Accommodations (1 per city): ['Magical Mountain Retreat and Sauna, Seattle']

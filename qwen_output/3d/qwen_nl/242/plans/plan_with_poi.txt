@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to New York",
+    "transportation": "Self-driving from Nashville to New York, duration: 994.2066666666668, distance: 1424.3848, cost : 71.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Dazzling Oasis | Times Square.  Restaurant, New York",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 23:04 to 23:34, nearest transit: W 50 ST/7 AV, 82.76m away; Dazzling Oasis | Times Square.  Restaurant, stay from 00:04 to 08:00, nearest transit: W 50 ST/7 AV, 82.76m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Rao's Restaurant, New York",
+    "lunch": "Manhatta, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "-",
+    "accommodation": "Dazzling Oasis | Times Square.  Restaurant, New York",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 08:30 to 09:00, nearest transit: W 50 ST/7 AV, 82.76m away; Rao's Restaurant, New York, visit from 09:31 to 10:21, ; Manhatta, New York, visit from 14:22 to 16:44, ; Del Frisco's Grille, New York, visit from 20:45 to 22:00, ; Dazzling Oasis | Times Square.  Restaurant, stay from 22:30 to 06:30, nearest transit: W 50 ST/7 AV, 82.76m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Nashville",
+    "transportation": "Self-driving from New York to Nashville, duration: 993.97, distance: 1424.3275, cost : 71.0",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "BOOM, New York",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Dazzling Oasis | Times Square.  Restaurant, stay from 07:00 to 08:39, nearest transit: W 50 ST/7 AV, 82.76m away; Peak Restaurant & Bar, New York, visit from 09:09 to 09:59, ; BOOM, New York, visit from 14:00 to 15:00, ; The High Line, New York, visit from 15:30 to 19:00, ; Gallaghers Steakhouse, New York, visit from 19:30 to 20:45, "
+  }
+]

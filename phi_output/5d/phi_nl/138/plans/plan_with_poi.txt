@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to Amarillo",
+    "transportation": "Taxi from Tucson to Amarillo, duration: 754.9416666666667, distance: 1079.4477, cost : 1079.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ye Olde Pancake Station, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 19:45 to 20:15, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Ye Olde Pancake Station, Amarillo, visit from 20:45 to 22:00, ; Relaxing Place to Stay with Guest Living Room!, stay from 22:30 to 06:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Manantial, Amarillo",
+    "lunch": "Golden Light Cafe & Cantina, Amarillo",
+    "dinner": "El Bracero Mexican Grill, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 07:00 to 07:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Manantial, Amarillo, visit from 08:42 to 09:35, ; Golden Light Cafe & Cantina, Amarillo, visit from 13:36 to 14:36, ; Route 66 Historic District, Amarillo, visit from 15:06 to 18:36, ; El Bracero Mexican Grill, Amarillo, visit from 19:06 to 20:21, ; Relaxing Place to Stay with Guest Living Room!, stay from 20:51 to 04:51, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F3473336, from Amarillo to Houston, Departure Time: 06:21, Arrival Time: 07:57",
+    "breakfast": "-",
+    "lunch": "Goode Company BBQ, Houston",
+    "dinner": "Houston's Restaurant, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 05:21 to 05:51, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; #4 Northwest Victory Single BR, stay from 08:27 to 08:57, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston Zoo, Houston, visit from 10:30 to 14:00, ; Goode Company BBQ, Houston, visit from 14:30 to 15:30, ; Houston's Restaurant, Houston, visit from 19:31 to 21:00, ; #4 Northwest Victory Single BR, stay from 21:30 to 05:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Market on Houston, Houston",
+    "dinner": "Houston's, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Kenny & Ziggy's New York Deli, Houston, visit from 09:05 to 09:55, ; Hermann Park, Houston, visit from 10:25 to 13:55, ; Market on Houston, Houston, visit from 14:25 to 15:25, ; Houston's, Houston, visit from 19:26 to 20:41, ; #4 Northwest Victory Single BR, stay from 21:11 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Tucson",
+    "transportation": "Flight Number: F2383214, from Houston to Tucson, Departure Time: 19:56, Arrival Time: 20:17",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Houstons Bar and Grill, Houston",
+    "dinner": "-",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:00 to 07:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Pappadeaux Seafood Kitchen, Houston, visit from 08:00 to 08:50, ; Downtown Aquarium, Houston, visit from 09:20 to 12:50, ; Houstons Bar and Grill, Houston, visit from 14:30 to 15:30, "
+  }
+]

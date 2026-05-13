@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to San Diego",
+    "transportation": "Flight Number: F0318377, from Detroit to San Diego, Departure Time: 23:00, Arrival Time: 00:35",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 01:05 to 01:35, nearest transit: Adams Av & Hawley Bl, 292.57m away; Private Room & Bath! Steps to Restaurants & Shops, stay from 02:05 to 08:00, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Cafe Coyote, San Diego",
+    "dinner": "Vessel Restaurant + Bar, San Diego",
+    "attraction": "-",
+    "accommodation": "Private Room & Bath! Steps to Restaurants & Shops, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 08:30 to 09:00, nearest transit: Adams Av & Hawley Bl, 292.57m away; Juniper and Ivy, San Diego, visit from 09:39 to 10:29, ; Cafe Coyote, San Diego, visit from 14:30 to 16:44, ; Vessel Restaurant + Bar, San Diego, visit from 20:45 to 22:00, ; Private Room & Bath! Steps to Restaurants & Shops, stay from 23:10 to 07:10, nearest transit: Adams Av & Hawley Bl, 292.57m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Flight Number: F2347051, from San Diego to Los Angeles, Departure Time: 20:46, Arrival Time: 21:36",
+    "breakfast": "Alforon, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Guest house with private parking, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Private Room & Bath! Steps to Restaurants & Shops, stay from 07:40 to 08:10, nearest transit: Adams Av & Hawley Bl, 292.57m away; Alforon, San Diego, visit from 08:40 to 09:30, ; Cabrillo National Monument, San Diego, visit from 10:00 to 13:30, ; Cowboy Star, San Diego, visit from 14:00 to 15:00, ; Lou & Mickey's, San Diego, visit from 19:01 to 20:16, ; Guest house with private parking, stay from 22:06 to 22:36, nearest transit: Goode Ave & Brand Blvd, 3987.65m away; Guest house with private parking, stay from 23:39 to 07:39, nearest transit: Goode Ave & Brand Blvd, 3987.65m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Spire 73, Los Angeles",
+    "lunch": "Water Grill, Los Angeles",
+    "dinner": "Patina Restaurant, Los Angeles",
+    "attraction": "Venice Canals Walkway, Los Angeles",
+    "accommodation": "Guest house with private parking, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Guest house with private parking, stay from 08:09 to 08:39, nearest transit: Goode Ave & Brand Blvd, 3987.65m away; Spire 73, Los Angeles, visit from 09:09 to 09:59, ; Water Grill, Los Angeles, visit from 14:00 to 15:00, ; Venice Canals Walkway, Los Angeles, visit from 15:30 to 19:15, ; Patina Restaurant, Los Angeles, visit from 19:45 to 21:00, ; Guest house with private parking, stay from 21:30 to 05:30, nearest transit: Goode Ave & Brand Blvd, 3987.65m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Taxi from Los Angeles to San Francisco, duration: 426.93, distance: 613.4517, cost : 613.0",
+    "breakfast": "Bavel, Los Angeles",
+    "lunch": "71Above Restaurant and Skylounge, Los Angeles",
+    "dinner": "-",
+    "attraction": "Hollywood Walk of Fame, Los Angeles",
+    "accommodation": "Single Bed in 4-Bed Female Capsule Room, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Guest house with private parking, stay from 06:00 to 07:30, nearest transit: Goode Ave & Brand Blvd, 3987.65m away; Bavel, Los Angeles, visit from 08:00 to 08:50, ; Hollywood Walk of Fame, Los Angeles, visit from 09:20 to 12:50, ; 71Above Restaurant and Skylounge, Los Angeles, visit from 13:20 to 14:20, ; Single Bed in 4-Bed Female Capsule Room, stay from 22:26 to 22:56, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away; Single Bed in 4-Bed Female Capsule Room, stay from 23:26 to 07:40, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Good Mong Kok Bakery, San Francisco",
+    "lunch": "Scoma's Restaurant, San Francisco",
+    "dinner": "Quince, San Francisco",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "Single Bed in 4-Bed Female Capsule Room, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Single Bed in 4-Bed Female Capsule Room, stay from 08:10 to 08:40, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away; Good Mong Kok Bakery, San Francisco, visit from 09:10 to 10:00, ; Alcatraz Island, San Francisco, visit from 10:30 to 14:00, ; Scoma's Restaurant, San Francisco, visit from 14:30 to 15:30, ; Quince, San Francisco, visit from 19:31 to 20:46, ; Single Bed in 4-Bed Female Capsule Room, stay from 21:16 to 05:30, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to Detroit",
+    "transportation": "Flight Number: F2087149, from San Francisco to Detroit, Departure Time: 12:08, Arrival Time: 19:19",
+    "breakfast": "Capital Restaurant, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Single Bed in 4-Bed Female Capsule Room, stay from 06:00 to 06:30, nearest transit: Civic Center @ 7th (Yotel), 1100.12m away; Capital Restaurant, San Francisco, visit from 08:00 to 11:38, "
+  }
+]

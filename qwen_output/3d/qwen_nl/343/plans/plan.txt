@@ -1,0 +1,6 @@
+Destination cities: ['Wichita'],
+Transportation dates: ['2024-11-15', '2024-11-17'],
+Transportation methods between cities: ['Self-driving, from Denver to Wichita, duration: 533.1016666666667, distance: 834.2885, cost: 41', 'Self-driving, from Wichita to Denver, duration: 533.3983333333333, distance: 834.7207, cost: 41'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Bite Me BBQ, Wichita', 'Doo-Dah Diner, Wichita', 'Beacon Restaurant, Wichita', 'Old Mill Tasty Shop, Wichita', 'Little Saigon, Wichita', 'Puero Vallarta Mexican Restaurant, Wichita'],
+Attractions (1 per day): ['-', 'Wichita Art Museum, Wichita', 'Mid-America All-Indian Center, Wichita'],
+Accommodations (1 per city): ['Cozy Spacious Wizard of Oz themed Tiny House, Wichita']

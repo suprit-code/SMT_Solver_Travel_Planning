@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Washington",
+    "transportation": "Flight Number: F1630470, from Houston to Washington, Departure Time: 11:50, Arrival Time: 15:40",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Thip Khao, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 16:05 to 16:25, nearest transit: FOGGY BOTTOM, 373.15m away; National Mall, visit from 16:50 to 18:50, nearest transit: Entrance  A - 7 St,  Maryland Av, 386.15m away; Thip Khao, visit from 19:15 to 19:55, nearest transit: COLUMBIA HEIGHTS METRORAIL STATION - NE CORNER OF 14TH AND IRVING STS. NW, 448.99m away; King Studio | 2500 Penn, a Placemakr Experience, stay from 20:20 to 08:00, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "The Palm - Washington, D.C., Washington",
+    "lunch": "Kingbird, Washington",
+    "dinner": "Smoke & Mirrors Rooftop Bar, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 08:00 to 08:30, nearest transit: FOGGY BOTTOM, 373.15m away; The Palm - Washington, D.C., visit from 08:55 to 09:35, nearest transit: DUPONT CIRCLE METRORAIL STATION - CONNECTICUT AVE. & 19TH ST. NW, 216.92m away; United States Botanic Garden, visit from 10:00 to 12:00, nearest transit: FEDERAL CENTER SW, 414.35m away; Kingbird, visit from 13:35 to 14:15, nearest transit: FOGGY BOTTOM, 488.73m away; Smoke & Mirrors Rooftop Bar, visit from 19:00 to 19:40, nearest transit: NAVY YARD-BALLPARK, 408.46m away; King Studio | 2500 Penn, a Placemakr Experience, stay from 20:05 to 08:00, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Houston",
+    "transportation": "Flight Number: F0985557, from Washington to Houston, Departure Time: 22:04, Arrival Time: 00:13",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 08:00 to 08:30, nearest transit: FOGGY BOTTOM, 373.15m away"
+  }
+]

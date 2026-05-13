@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to New York",
+    "transportation": "Flight Number: F4067989, from Louisville to New York, Departure Time: 12:14, Arrival Time: 14:06",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Lillie's Victorian Establishment, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "Private Studio & SPA near JFK| UBS arena., New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 14:36 to 15:06, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; The Metropolitan Museum of Art, visit from 15:36 to 17:36, nearest transit: 5 AV/E 80 ST, 182.01m away; Lillie's Victorian Establishment, visit from 19:00 to 19:40, nearest transit: 8 AV/W 49 ST, 40.41m away; Private Studio & SPA near JFK| UBS arena., stay from 23:00 to 08:00, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "RH Rooftop Restaurant New York, New York",
+    "lunch": "Del Frisco's Grille, New York",
+    "dinner": "Sarge\u2019s Delicatessen & Diner, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Private Studio & SPA near JFK| UBS arena., New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 08:00 to 08:30, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; RH Rooftop Restaurant New York, visit from 09:00 to 09:40, nearest transit: 9 AV/W 13 ST, 56.34m away; The High Line, visit from 10:10 to 12:10, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Del Frisco's Grille, visit from 13:40 to 14:20, nearest transit: 5 AV/W 50 ST, 139.24m away; Sarge\u2019s Delicatessen & Diner, visit from 19:00 to 19:40, nearest transit: 3 AV/E 37 ST, 101.41m away; Private Studio & SPA near JFK| UBS arena., stay from 23:00 to 08:00, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Louisville",
+    "transportation": "Flight Number: F3201732, from New York to Louisville, Departure Time: 18:17, Arrival Time: 20:34",
+    "breakfast": "FIG & OLIVE, New York",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "-",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 08:00 to 08:30, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; FIG & OLIVE, visit from 09:00 to 09:40, nearest transit: 5 AV/W 52 ST, 84.16m away; The National 9/11 Memorial & Museum, visit from 10:10 to 12:10, nearest transit: CHURCH ST/LIBERTY ST, 234.55m away; Times Square Diner, visit from 13:40 to 14:20, nearest transit: W 49 ST/8 AV, 51.46m away"
+  }
+]

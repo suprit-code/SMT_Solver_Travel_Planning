@@ -1,0 +1,6 @@
+Destination cities: ['Bloomington'],
+Transportation dates: ['2024-11-05', '2024-11-07'],
+Transportation methods between cities: ['Self-driving, from Tampa to Bloomington, duration: 1228.5449999999998, distance: 1769.4128, cost: 88', 'Self-driving, from Bloomington to Tampa, duration: 1224.335, distance: 1765.7608, cost: 88'],
+Restaurants (3 meals per day): ['-', '-', '-', 'My Thai Cafe & Sushi Bar, Bloomington', "Jim's Steak House, Bloomington", 'Bloomington ChopHouse, Bloomington', 'Epiphany Farms Restaurant, Bloomington', "Bub's Burgers and Ice Cream, Bloomington", "Janko's Little Zagreb, Bloomington"],
+Attractions (1 per day): ['-', 'Monroe County History Center and Research Library, Bloomington', 'Miller Park Zoo, Bloomington'],
+Accommodations (1 per city): ['Arcade House - Hot Tub, Games, Grill, FirePit, FUN, Bloomington']

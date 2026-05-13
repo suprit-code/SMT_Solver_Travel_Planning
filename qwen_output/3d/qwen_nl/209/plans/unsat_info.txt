@@ -1,0 +1,4 @@
+not ok
+Unsatisfiable core:
+Barstype restaurant
+Barstype restaurant is visited

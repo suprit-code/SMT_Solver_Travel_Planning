@@ -1,0 +1,6 @@
+Destination cities: ['Greensboro', 'Wilmington'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Flight Number: F0117298, from New York to Greensboro, Departure Time: 15:37, Arrival Time: 17:27', 'taxi, from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost: 334', 'Flight Number: F3205421, from Wilmington to New York, Departure Time: 17:43, Arrival Time: 19:20'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Print Works Bistro, Greensboro', "Mac's Speed Shop, Greensboro", "Fleming's Prime Steakhouse & Wine Bar, Greensboro", "MJ's Steak and Seafood, Greensboro", 'Pho Hien Voung, Greensboro', 'Chez Genese, Greensboro', 'Circa 1922, Wilmington', 'Caprice Bistro, Wilmington', "Banks' Seafood Kitchen, Wilmington", 'Indochine Wilmington, Wilmington', "Flaming Amy's Burrito Barn, Wilmington", 'The Anchor, Wilmington'],
+Attractions (1 per day): ['Carolina Theatre, Greensboro', 'International Civil Rights Center & Museum, Greensboro', 'Ambleside Gallery, Greensboro', 'Battleship North Carolina, Wilmington', 'Burgwin-Wright House and Gardens, Wilmington'],
+Accommodations (1 per city): ['⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊\u200d♀️🏥, Greensboro', 'Hawks Nest 3 @UNCW, Wilmington']

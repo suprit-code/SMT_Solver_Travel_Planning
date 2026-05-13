@@ -1,0 +1,7 @@
+not ok
+Unsatisfiable core:
+visit city in cities list
+Private roomtypes accomadation visited
+No petsrules accomadation not visited
+valid accomodation index
+Entire home/apttypes accomadation visited

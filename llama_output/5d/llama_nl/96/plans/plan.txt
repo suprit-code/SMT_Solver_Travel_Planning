@@ -1,0 +1,6 @@
+Destination cities: ['Nashville', 'Bristol'],
+Transportation dates: ['2024-11-07', '2024-11-09', '2024-11-11'],
+Transportation methods between cities: ['Flight Number: F3576207, from Peoria to Nashville, Departure Time: 17:09, Arrival Time: 18:59', 'taxi, from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost: 467', 'taxi, from Bristol to Peoria, duration: 711.3566666666667, distance: 1009.8111, cost: 1009'],
+Restaurants (3 meals per day): ['-', '-', '-', "Miranda Lambert's Casa Rosa, Nashville", "Skull's Rainbow Room, Nashville", "Harriet's Rooftop, Nashville", 'Aquarium Restaurant, Nashville', "Puckett's 5th & Church, Nashville", 'Central Bar + Kitchen, Nashville', 'Bristol Seafood Restaurant, Bristol', "Giuseppe's, Bristol", 'Eat a Pitta, Bristol', 'Little Bristol Beach Bar, Bristol', 'Baba Ganoush Kitchen - Jerusalem Falafel, Bristol', 'Fishers Restaurant - Bristol, Bristol'],
+Attractions (1 per day): ['-', 'Belmont Mansion, Nashville', 'Gaylord Opryland Garden Conservatory, Nashville', 'M Shed, Bristol', 'Bristol Museum & Art Gallery, Bristol'],
+Accommodations (1 per city): ['Fancy Stay Walk to Broadway Park Free Let’s Roll!, Nashville', 'Upper Bay St Bungalow-central to all activities!, Bristol']

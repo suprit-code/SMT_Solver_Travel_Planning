@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Nashville",
+    "transportation": "Flight Number: F1980854, from Seattle to Nashville, Departure Time: 08:52, Arrival Time: 15:28",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Kayne Prime, Nashville",
+    "attraction": "-",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 15:58 to 18:30, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; Kayne Prime, Nashville, visit from 19:00 to 20:15, ; The Stewart House in 12th South - Half House, stay from 20:45 to 06:35, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "lunch": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "dinner": "Old Hickory Steakhouse, Nashville",
+    "attraction": "Andrew Jackson's Hermitage, Nashville",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 07:05 to 07:35, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 08:05 to 08:55, ; Andrew Jackson's Hermitage, Nashville, visit from 09:25 to 14:00, ; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 14:30 to 15:30, ; Old Hickory Steakhouse, Nashville, visit from 19:31 to 20:46, ; The Stewart House in 12th South - Half House, stay from 21:16 to 05:16, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Seattle",
+    "transportation": "Flight Number: F0253440, from Nashville to Seattle, Departure Time: 16:38, Arrival Time: 19:34",
+    "breakfast": "The Farm House, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "-",
+    "attraction": "Nashville Parthenon, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 06:00 to 06:30, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; The Farm House, Nashville, visit from 08:00 to 08:50, ; Nashville Parthenon, Nashville, visit from 09:20 to 12:50, ; Aquarium Restaurant, Nashville, visit from 13:20 to 14:20, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Bend to Las Vegas",
+    "transportation": "Flight Number: F0373170, from Bend to Las Vegas, Departure Time: 15:18, Arrival Time: 17:04",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Hidden Oasis, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Hidden Oasis, stay from 17:34 to 18:04, nearest transit: The Strat, 8594.91m away; Eggscellent, Las Vegas, visit from 19:00 to 22:09, ; Hidden Oasis, stay from 22:39 to 06:39, nearest transit: The Strat, 8594.91m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "lunch": "Top of the World, Las Vegas",
+    "dinner": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "Hidden Oasis, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Hidden Oasis, stay from 07:09 to 07:39, nearest transit: The Strat, 8594.91m away; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 08:09 to 08:59, ; Top of the World, Las Vegas, visit from 13:00 to 15:00, ; Red Rock Canyon National Conservation Area, Las Vegas, visit from 15:30 to 20:15, ; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 20:45 to 23:08, ; Hidden Oasis, stay from 23:38 to 07:38, nearest transit: The Strat, 8594.91m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Bend",
+    "transportation": "Taxi from Las Vegas to Bend, duration: 929.785, distance: 1318.8264, cost : 1318.0",
+    "breakfast": "-",
+    "lunch": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "dinner": "THE Steak House, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hidden Oasis, stay from 08:08 to 08:38, nearest transit: The Strat, 8594.91m away; Hoover Dam Bypass, Las Vegas, visit from 09:59 to 13:29, ; Gordon Ramsay Hell's Kitchen, Las Vegas, visit from 13:59 to 14:59, ; THE Steak House, Las Vegas, visit from 19:00 to 20:15, "
+  }
+]

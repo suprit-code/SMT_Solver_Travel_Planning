@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Manchester to Tampa",
+    "transportation": "Flight Number: F0932639, from Manchester to Tampa, Departure Time: 14:33, Arrival Time: 18:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "No Fees! Introverts Paradise! Central Pinellas!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 18:48 to 19:18, nearest transit: U Mall to MSC, 35717.79m away; No Fees! Introverts Paradise! Central Pinellas!, stay from 21:33 to 05:33, nearest transit: U Mall to MSC, 35717.79m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Bernini Restaurant, Tampa",
+    "lunch": "Besito Mexican, Tampa",
+    "dinner": "Curry Leaves Indian Cuisine, Tampa",
+    "attraction": "ZooTampa At Lowry Park, Tampa",
+    "accommodation": "No Fees! Introverts Paradise! Central Pinellas!, Tampa",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 06:03 to 06:33, nearest transit: U Mall to MSC, 35717.79m away; Bernini Restaurant, Tampa, visit from 08:04 to 08:54, ; ZooTampa At Lowry Park, Tampa, visit from 09:24 to 12:54, ; Besito Mexican, Tampa, visit from 14:30 to 15:30, ; Curry Leaves Indian Cuisine, Tampa, visit from 20:45 to 22:00, ; No Fees! Introverts Paradise! Central Pinellas!, stay from 22:30 to 06:30, nearest transit: U Mall to MSC, 35717.79m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Manchester",
+    "transportation": "Flight Number: F3166481, from Tampa to Manchester, Departure Time: 10:57, Arrival Time: 13:45",
+    "breakfast": "Yummy House China Bistro, Tampa",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No Fees! Introverts Paradise! Central Pinellas!, stay from 07:00 to 07:30, nearest transit: U Mall to MSC, 35717.79m away; Yummy House China Bistro, Tampa, visit from 08:00 to 10:03, "
+  }
+]

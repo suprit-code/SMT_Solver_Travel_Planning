@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to Seattle",
+    "transportation": "Flight Number: F3860013, from El Paso to Seattle, Departure Time: 21:06, Arrival Time: 00:06",
+    "breakfast": "Matt's in the Market, Seattle",
+    "lunch": "The Butcher's Table, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Private mother-in-law studio apartment., Seattle",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Metropolitan Grill, Seattle",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "Salty's On Alki Beach, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "Private mother-in-law studio apartment., Seattle",
+    "event": "-",
+    "point_of_interest_list": "Private mother-in-law studio apartment., stay from 08:00 to 08:30, nearest transit: 28th Ave W & W Dravus St, 12.67m away; Metropolitan Grill, visit from 08:55 to 09:35, nearest transit: 2nd Ave & Marion St, 39.95m away; Klondike Gold Rush National Historical Park, visit from 10:00 to 12:00, nearest transit: Occidental Mall, 113.08m away; Il Terrazzo Carmine, visit from 13:35 to 14:15, nearest transit: Alaskan Way S & S Jackson St, 103.57m away; Salty's On Alki Beach, visit from 19:00 to 19:40, nearest transit: Harbor Ave SW & 2100 Block, 145.40m away; Private mother-in-law studio apartment., stay from 20:05 to 08:00, nearest transit: 28th Ave W & W Dravus St, 12.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to El Paso",
+    "transportation": "Flight Number: F2880836, from Seattle to El Paso, Departure Time: 13:44, Arrival Time: 18:04",
+    "breakfast": "Place Pigalle Restaurant and Bar, Seattle",
+    "lunch": "The Capital Grille, Seattle",
+    "dinner": "Lola, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private mother-in-law studio apartment., stay from 08:00 to 08:10, nearest transit: 28th Ave W & W Dravus St, 12.67m away; Place Pigalle Restaurant and Bar, visit from 08:35 to 08:48, nearest transit: 2nd Ave & Pike St, 154.30m away; Hiram M. Chittenden Locks, visit from 09:13 to 11:13, nearest transit: NW 54th St & 30th Ave NW, 241.41m away; The Capital Grille, visit from 12:00 to 12:13, nearest transit: 4th Ave & University, 41.04m away; Lola, visit from 13:06 to 13:19, nearest transit: Virginia St & 4th Ave, 26.10m away"
+  }
+]

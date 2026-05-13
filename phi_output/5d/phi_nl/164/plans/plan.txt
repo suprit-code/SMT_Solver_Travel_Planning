@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-18', '2024-11-20', '2024-11-22'],
+Transportation methods between cities: ['Self-driving, from Bend to San Diego, duration: 1061.7866666666666, distance: 1509.9929, cost: 75', 'Self-driving, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 53', 'Self-driving, from Redding to Bend, duration: 331.87166666666667, distance: 445.2644, cost: 22'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Juniper and Ivy, San Diego', 'Pacific Beach AleHouse, San Diego', "Mister A'S, San Diego", "Lou & Mickey's, San Diego", "Mimmo's, San Diego", 'Addison Restaurant, San Diego', 'Thai Hut, Redding', 'Champa Garden, Redding', 'Dam Burger, Redding', "Jack's Grill, Redding", 'New China, Redding', 'Vintage Public House, Redding'],
+Attractions (1 per day): ['-', 'Sunset Cliffs Natural Park, San Diego', 'Cabrillo National Monument, San Diego', 'Turtle Bay Exploration Park, Redding', 'Redding Civic Auditorium, Redding'],
+Accommodations (1 per city): ['Private Room & Bath! Steps to Restaurants & Shops, San Diego', 'Room& bath w/ private entrance; Great location, Redding']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Nashville",
+    "transportation": "Flight Number: F3543281, from Seattle to Nashville, Departure Time: 17:55, Arrival Time: 00:01",
+    "breakfast": "Gannons Nashville, Nashville",
+    "lunch": "Deacon\u2019s New South, Nashville",
+    "dinner": "Kayne Prime, Nashville",
+    "attraction": "Gaylord Opryland Garden Conservatory, Nashville",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "lunch": "Old Hickory Steakhouse, Nashville",
+    "dinner": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Dave's Place, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Dave's Place, stay from 08:00 to 08:30, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away; Jeff Ruby's Steakhouse, Nashville, visit from 08:55 to 09:35, nearest transit: CENTRAL 4TH AVE - BAY 13, 188.66m away; Cheekwood, visit from 10:00 to 12:00, nearest transit: HWY 70 S & BROOK HOLLOW RD EB, 833.18m away; Old Hickory Steakhouse, visit from 13:35 to 14:15, nearest transit: OPRY MILLS DRIVE & WARDROBE BLDNG, 483.51m away; Bourbon Steak by Michael Mina, a Nashville Steakhouse, visit from 19:00 to 19:40, nearest transit: 8TH AVE S & DEMONBREUN ST NB, 99.41m away; Dave's Place, stay from 20:05 to 08:00, nearest transit: SHELBY AVE & S 8TH ST WB, 120.59m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Seattle",
+    "transportation": "Flight Number: F1294517, from Nashville to Seattle, Departure Time: 05:59, Arrival Time: 08:46",
+    "breakfast": "Luogo, Nashville",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

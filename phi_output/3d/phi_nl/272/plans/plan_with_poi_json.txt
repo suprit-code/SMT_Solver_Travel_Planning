@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Baltimore to Charleston",
+    "transportation": "Flight Number: F0643335, from Baltimore to Charleston, Departure Time: 16:13, Arrival Time: 17:56",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Middleton Place, Charleston",
+    "accommodation": "Lodge Alley Inn Steps to Charleston Harbor -Studio, Charleston",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Charleston Crab House-Market Street, Charleston",
+    "lunch": "Chubby Fish, Charleston",
+    "dinner": "Amen Street Fish & Raw Bar, Charleston",
+    "attraction": "South Carolina Aquarium, Charleston",
+    "accommodation": "Lodge Alley Inn Steps to Charleston Harbor -Studio, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 08:00 to 08:30, nearest transit: East Bay St / Vendue Range, 68.87m away; Charleston Crab House-Market Street, visit from 09:00 to 09:40, nearest transit: East Bay St / S. Market St, 113.89m away; South Carolina Aquarium, visit from 10:10 to 12:10, nearest transit: Concord St / Aquarium Wharf, 151.74m away; Chubby Fish, visit from 13:40 to 14:20, nearest transit: Spring St / Ashe St, 214.03m away; Amen Street Fish & Raw Bar, visit from 19:00 to 19:40, nearest transit: East Bay St / S. Market St, 56.01m away; Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 23:00 to 08:00, nearest transit: East Bay St / Vendue Range, 68.87m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Baltimore",
+    "transportation": "Flight Number: F1633730, from Charleston to Baltimore, Departure Time: 16:43, Arrival Time: 18:01",
+    "breakfast": "Swamp Fox Restaurant, Charleston",
+    "lunch": "Poogan's Porch, Charleston",
+    "dinner": "-",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lodge Alley Inn Steps to Charleston Harbor -Studio, stay from 08:00 to 08:30, nearest transit: East Bay St / Vendue Range, 68.87m away; Swamp Fox Restaurant, visit from 09:00 to 09:40, nearest transit: Calhoun St / King St, 45.46m away; Magnolia Plantation & Gardens, visit from 10:10 to 12:10, nearest transit: Dorchester Rd / Lambs Rd, 2137.23m away; Poogan's Porch, visit from 13:40 to 14:20, nearest transit: Meeting St / Queen St, 57.05m away"
+  }
+]

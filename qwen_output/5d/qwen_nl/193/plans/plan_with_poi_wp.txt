@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Nashville",
+    "transportation": "Flight Number: F0984956, from Houston to Nashville, Departure Time: 10:10, Arrival Time: 12:01",
+    "breakfast": "-",
+    "lunch": "The Standard, Nashville",
+    "dinner": "The Stillery, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Broadway Honky Tonk| Pool | Courtviews | Firepit, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 12:31 to 13:01, nearest transit: PEABODY STATION OUTBOUND, 153.69m away; The Standard, Nashville, visit from 13:31 to 14:31, ; Centennial Park, Nashville, visit from 15:30 to 20:15, ; The Stillery, Nashville, visit from 20:45 to 22:30, ; Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 23:00 to 07:00, nearest transit: PEABODY STATION OUTBOUND, 153.69m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "lunch": "Harriet's Rooftop, Nashville",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "Gaylord Opryland Garden Conservatory, Nashville",
+    "accommodation": "Broadway Honky Tonk| Pool | Courtviews | Firepit, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 07:30 to 08:00, nearest transit: PEABODY STATION OUTBOUND, 153.69m away; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 08:30 to 09:20, ; Gaylord Opryland Garden Conservatory, Nashville, visit from 09:50 to 13:20, ; Harriet's Rooftop, Nashville, visit from 14:30 to 16:44, ; Aquarium Restaurant, Nashville, visit from 20:45 to 22:00, ; Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 22:30 to 06:30, nearest transit: PEABODY STATION OUTBOUND, 153.69m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Chattanooga",
+    "transportation": "Taxi from Nashville to Chattanooga, duration: 148.23666666666668, distance: 211.4268, cost : 211.0",
+    "breakfast": "Deacon’s New South, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "Mellow Mushroom Chattanooga, Chattanooga",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Sparkling Clean! Walkable + Comfy King Bed!, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Broadway Honky Tonk| Pool | Courtviews | Firepit, stay from 07:00 to 07:30, nearest transit: PEABODY STATION OUTBOUND, 153.69m away; Deacon’s New South, Nashville, visit from 08:00 to 08:50, ; Cheekwood, Nashville, visit from 09:20 to 12:50, ; Kayne Prime, Nashville, visit from 13:20 to 14:20, ; Sparkling Clean! Walkable + Comfy King Bed!, stay from 17:48 to 18:30, nearest transit: BARTON + BAKER, 105.96m away; Mellow Mushroom Chattanooga, Chattanooga, visit from 19:00 to 20:15, ; Sparkling Clean! Walkable + Comfy King Bed!, stay from 21:30 to 05:30, nearest transit: BARTON + BAKER, 105.96m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Uncle Larry's Restaurant, Chattanooga",
+    "lunch": "Hickory Pit Bar-B-Que, Chattanooga",
+    "dinner": "Maple Street Biscuit Company - City Center, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Sparkling Clean! Walkable + Comfy King Bed!, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Sparkling Clean! Walkable + Comfy King Bed!, stay from 06:00 to 06:30, nearest transit: BARTON + BAKER, 105.96m away; Uncle Larry's Restaurant, Chattanooga, visit from 08:02 to 10:00, ; Coolidge Park, Chattanooga, visit from 10:30 to 14:00, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 14:30 to 16:44, ; Maple Street Biscuit Company - City Center, Chattanooga, visit from 20:45 to 23:30, ; Sparkling Clean! Walkable + Comfy King Bed!, stay from 00:00 to 08:00, nearest transit: BARTON + BAKER, 105.96m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Chattanooga to Houston",
+    "transportation": "Taxi from Chattanooga to Houston, duration: 893.0133333333334, distance: 1309.278, cost : 1309.0",
+    "breakfast": "-",
+    "lunch": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "dinner": "Public House, Chattanooga",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sparkling Clean! Walkable + Comfy King Bed!, stay from 08:30 to 09:00, nearest transit: BARTON + BAKER, 105.96m away; Tennessee Aquarium, Chattanooga, visit from 09:30 to 13:29, ; The Purple Daisy Picnic Cafe, Chattanooga, visit from 13:59 to 14:59, ; Public House, Chattanooga, visit from 19:00 to 20:15, "
+  }
+]

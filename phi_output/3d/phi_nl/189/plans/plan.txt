@@ -1,0 +1,6 @@
+Destination cities: ['Charleston'],
+Transportation dates: ['2024-11-16', '2024-11-18'],
+Transportation methods between cities: ['Flight Number: F0501001, from Detroit to Charleston, Departure Time: 15:28, Arrival Time: 17:35', 'taxi, from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost: 1366'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Frannie & The Fox, Charleston', 'High Cotton Charleston, Charleston', 'Oak Steakhouse, Charleston', "Hyman's Seafood, Charleston", 'Charleston Crab House-Market Street, Charleston', "Stella's, Charleston"],
+Attractions (1 per day): ['Charleston City Market, Charleston', 'Battery & White Point Gardens, Charleston', 'Magnolia Plantation & Gardens, Charleston'],
+Accommodations (1 per city): ['Secret Garden Guesthouse, Charleston']

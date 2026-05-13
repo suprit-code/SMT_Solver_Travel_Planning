@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to Seattle",
+    "transportation": "Flight Number: F0292124, from Tucson to Seattle, Departure Time: 13:22, Arrival Time: 16:42",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Pike Pub and Brewery, Seattle",
+    "attraction": "-",
+    "accommodation": "Pike Place Market Apt Water View and Balcony, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 17:12 to 20:15, nearest transit: 2nd Ave & Pike St, 369.95m away; The Pike Pub and Brewery, Seattle, visit from 20:45 to 22:02, ; Pike Place Market Apt Water View and Balcony, stay from 22:32 to 06:32, nearest transit: 2nd Ave & Pike St, 369.95m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Il Terrazzo Carmine, Seattle",
+    "lunch": "Tulio, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Pike Place Market Apt Water View and Balcony, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 07:02 to 07:32, nearest transit: 2nd Ave & Pike St, 369.95m away; Il Terrazzo Carmine, Seattle, visit from 08:02 to 09:59, ; Tulio, Seattle, visit from 14:00 to 15:00, ; Seattle Center, Seattle, visit from 15:30 to 19:00, ; Noi Thai Cuisine, Seattle, visit from 19:30 to 20:45, ; Pike Place Market Apt Water View and Balcony, stay from 21:15 to 05:15, nearest transit: 2nd Ave & Pike St, 369.95m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Tucson",
+    "transportation": "Flight Number: F1764392, from Seattle to Tucson, Departure Time: 17:43, Arrival Time: 20:41",
+    "breakfast": "Matt's in the Market, Seattle",
+    "lunch": "Place Pigalle Restaurant and Bar, Seattle",
+    "dinner": "-",
+    "attraction": "Pike Place Market, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Pike Place Market Apt Water View and Balcony, stay from 06:00 to 06:30, nearest transit: 2nd Ave & Pike St, 369.95m away; Matt's in the Market, Seattle, visit from 08:00 to 08:50, ; Pike Place Market, Seattle, visit from 09:20 to 12:50, ; Place Pigalle Restaurant and Bar, Seattle, visit from 13:20 to 17:13, "
+  }
+]

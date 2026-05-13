@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Savannah",
+    "transportation": "Taxi from Washington to Savannah, duration: 641.56, distance: 930.7148, cost : 930.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Alligator Soul, Savannah",
+    "attraction": "-",
+    "accommodation": "Midnight Inn Suite: Historic Savannah Retreat!, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Midnight Inn Suite: Historic Savannah Retreat!, stay from 19:45 to 20:15, nearest transit: WHITAKER & GASTON, 103.78m away; Alligator Soul, Savannah, visit from 20:45 to 23:10, ; Midnight Inn Suite: Historic Savannah Retreat!, stay from 23:40 to 07:40, nearest transit: WHITAKER & GASTON, 103.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Noble Fare, Savannah",
+    "lunch": "Olde Pink House Restaurant, Savannah",
+    "dinner": "Wiley's Championship BBQ, Savannah",
+    "attraction": "Wormsloe Historic Site, Savannah",
+    "accommodation": "Midnight Inn Suite: Historic Savannah Retreat!, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Midnight Inn Suite: Historic Savannah Retreat!, stay from 08:10 to 08:40, nearest transit: WHITAKER & GASTON, 103.78m away; Noble Fare, Savannah, visit from 09:10 to 10:00, ; Wormsloe Historic Site, Savannah, visit from 10:30 to 14:00, ; Olde Pink House Restaurant, Savannah, visit from 14:30 to 15:30, ; Wiley's Championship BBQ, Savannah, visit from 19:31 to 23:30, ; Midnight Inn Suite: Historic Savannah Retreat!, stay from 00:00 to 08:00, nearest transit: WHITAKER & GASTON, 103.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Washington",
+    "transportation": "Taxi from Savannah to Washington, duration: 640.9533333333333, distance: 929.4432, cost : 929.0",
+    "breakfast": "-",
+    "lunch": "Little Duck Diner, Savannah",
+    "dinner": "The Grey, Savannah",
+    "attraction": "Skidaway Island State Park, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Midnight Inn Suite: Historic Savannah Retreat!, stay from 08:30 to 09:00, nearest transit: WHITAKER & GASTON, 103.78m away; Skidaway Island State Park, Savannah, visit from 09:30 to 13:00, ; Little Duck Diner, Savannah, visit from 13:30 to 14:59, ; The Grey, Savannah, visit from 19:00 to 20:15, "
+  }
+]

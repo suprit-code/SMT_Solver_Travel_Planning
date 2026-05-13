@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Nashville",
+    "transportation": "Flight Number: F4006546, from San Diego to Nashville, Departure Time: 09:39, Arrival Time: 15:19",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "attraction": "-",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 15:49 to 20:15, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 20:45 to 23:10, ; The Stewart House in 12th South - Half House, stay from 23:40 to 07:40, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "1 Kitchen, Nashville",
+    "dinner": "Harriet's Rooftop, Nashville",
+    "attraction": "Ole Smoky Distillery & Yee-Haw Brewery, Nashville",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 08:10 to 08:40, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; Aquarium Restaurant, Nashville, visit from 09:10 to 10:00, ; Ole Smoky Distillery & Yee-Haw Brewery, Nashville, visit from 10:30 to 14:00, ; 1 Kitchen, Nashville, visit from 14:30 to 15:30, ; Harriet's Rooftop, Nashville, visit from 20:45 to 22:00, ; The Stewart House in 12th South - Half House, stay from 00:00 to 08:00, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to San Diego",
+    "transportation": "Flight Number: F0971317, from Nashville to San Diego, Departure Time: 12:29, Arrival Time: 14:55",
+    "breakfast": "The Catbird Seat, Nashville",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 08:30 to 09:00, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; The Catbird Seat, Nashville, visit from 09:30 to 10:31, "
+  }
+]

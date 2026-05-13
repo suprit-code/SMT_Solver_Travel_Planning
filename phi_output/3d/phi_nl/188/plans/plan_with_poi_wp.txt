@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Tucson",
+    "transportation": "Flight Number: F0634946, from Houston to Tucson, Departure Time: 09:13, Arrival Time: 10:59",
+    "breakfast": "-",
+    "lunch": "Jun Dynasty, Tucson",
+    "dinner": "Bobo's Restaurant, Tucson",
+    "attraction": "Catalina State Park, Tucson",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 11:29 to 13:00, nearest transit: El Con Center, 2837.66m away; Jun Dynasty, Tucson, visit from 13:30 to 14:30, ; Catalina State Park, Tucson, visit from 15:00 to 18:30, ; Bobo's Restaurant, Tucson, visit from 19:00 to 20:15, ; Accessible Private Studio, Entrance & Parking., stay from 22:43 to 06:43, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tucson",
+    "transportation": "-",
+    "breakfast": "Cafe a La C'Art, Tucson",
+    "lunch": "El Charro Cafe - The Original, Tucson",
+    "dinner": "North Italia, Tucson",
+    "attraction": "DeGrazia Gallery in the Sun Museum, Tucson",
+    "accommodation": "Accessible Private Studio, Entrance & Parking., Tucson",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 07:13 to 07:43, nearest transit: El Con Center, 2837.66m away; Cafe a La C'Art, Tucson, visit from 08:13 to 09:03, ; DeGrazia Gallery in the Sun Museum, Tucson, visit from 09:33 to 14:00, ; El Charro Cafe - The Original, Tucson, visit from 14:30 to 15:44, ; North Italia, Tucson, visit from 19:45 to 21:00, ; Accessible Private Studio, Entrance & Parking., stay from 21:30 to 05:30, nearest transit: El Con Center, 2837.66m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tucson to Houston",
+    "transportation": "Flight Number: F3478549, from Tucson to Houston, Departure Time: 15:16, Arrival Time: 18:53",
+    "breakfast": "Kingfisher Bar and Grill, Tucson",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Arizona-Sonora Desert Museum, Tucson",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Accessible Private Studio, Entrance & Parking., stay from 06:00 to 06:30, nearest transit: El Con Center, 2837.66m away; Kingfisher Bar and Grill, Tucson, visit from 08:00 to 09:33, ; Arizona-Sonora Desert Museum, Tucson, visit from 10:03 to 13:33, "
+  }
+]

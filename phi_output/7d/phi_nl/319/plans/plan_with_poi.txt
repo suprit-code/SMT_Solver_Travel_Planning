@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Mission to Nashville",
+    "transportation": "Taxi from Mission to Nashville, duration: 1263.165, distance: 1916.6776, cost : 1916.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "King Room at  Downtown Convention Center, Nashville",
+    "event": "-",
+    "point_of_interest_list": "King Room at  Downtown Convention Center, stay from 03:33 to 04:03, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 92.89m away; King Room at  Downtown Convention Center, stay from 04:33 to 08:00, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 92.89m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "lunch": "Honky Tonk – The Twelve Thirty Club, Nashville",
+    "dinner": "The Chef And I, Nashville",
+    "attraction": "-",
+    "accommodation": "King Room at  Downtown Convention Center, Nashville",
+    "event": "-",
+    "point_of_interest_list": "King Room at  Downtown Convention Center, stay from 08:30 to 09:00, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 92.89m away; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 09:39 to 10:29, ; Honky Tonk – The Twelve Thirty Club, Nashville, visit from 14:30 to 16:44, ; The Chef And I, Nashville, visit from 20:45 to 23:10, ; King Room at  Downtown Convention Center, stay from 23:40 to 07:40, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 92.89m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Chattanooga",
+    "transportation": "Taxi from Nashville to Chattanooga, duration: 148.23666666666668, distance: 211.4268, cost : 211.0",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "The Standard, Nashville",
+    "dinner": "Hennen's, Chattanooga",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "King Room at  Downtown Convention Center, stay from 08:10 to 08:40, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 92.89m away; Aquarium Restaurant, Nashville, visit from 09:10 to 10:00, ; Belmont Mansion, Nashville, visit from 10:30 to 14:00, ; The Standard, Nashville, visit from 14:30 to 16:17, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 19:45 to 20:15, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; Hennen's, Chattanooga, visit from 20:45 to 22:03, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 22:33 to 06:33, nearest transit: Boynton & 953 Boynton-0, 3119.08m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Ruth's Chris Steak House, Chattanooga",
+    "lunch": "Zaya 1943 Korean Steakhouse, Chattanooga",
+    "dinner": "La Cabriole, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 07:03 to 07:33, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; Ruth's Chris Steak House, Chattanooga, visit from 08:03 to 08:53, ; Coolidge Park, Chattanooga, visit from 09:23 to 12:53, ; Zaya 1943 Korean Steakhouse, Chattanooga, visit from 13:23 to 14:23, ; La Cabriole, Chattanooga, visit from 19:45 to 21:00, ; Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 21:30 to 05:30, nearest transit: Boynton & 953 Boynton-0, 3119.08m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Chattanooga to Memphis",
+    "transportation": "Taxi from Chattanooga to Memphis, duration: 376.3683333333333, distance: 547.2609, cost : 547.0",
+    "breakfast": "St. John's Restaurant, Chattanooga",
+    "lunch": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "dinner": "-",
+    "attraction": "Tennessee Aquarium, Chattanooga",
+    "accommodation": "Historic Cooper Young Midtown Shotgun House, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Cozy Valley Suite: Downtown, Rock City, Ruby Falls, stay from 06:00 to 06:30, nearest transit: Boynton & 953 Boynton-0, 3119.08m away; St. John's Restaurant, Chattanooga, visit from 08:00 to 08:50, ; Tennessee Aquarium, Chattanooga, visit from 09:20 to 12:50, ; The Purple Daisy Picnic Cafe, Chattanooga, visit from 13:20 to 14:20, ; Historic Cooper Young Midtown Shotgun House, stay from 21:36 to 22:06, nearest transit: YOUNG@MEDA, 88.72m away; Historic Cooper Young Midtown Shotgun House, stay from 22:36 to 06:40, nearest transit: YOUNG@MEDA, 88.72m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Memphis",
+    "transportation": "-",
+    "breakfast": "Gus's World Famous Fried Chicken, Memphis",
+    "lunch": "Payne's Bar-B-Que, Memphis",
+    "dinner": "Silky O'sullivan's, Memphis",
+    "attraction": "Stax Museum of American Soul Music, Memphis",
+    "accommodation": "Historic Cooper Young Midtown Shotgun House, Memphis",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 07:10 to 07:40, nearest transit: YOUNG@MEDA, 88.72m away; Gus's World Famous Fried Chicken, Memphis, visit from 08:10 to 09:00, ; Stax Museum of American Soul Music, Memphis, visit from 09:30 to 13:00, ; Payne's Bar-B-Que, Memphis, visit from 13:30 to 14:30, ; Silky O'sullivan's, Memphis, visit from 19:00 to 20:15, ; Historic Cooper Young Midtown Shotgun House, stay from 20:45 to 04:45, nearest transit: YOUNG@MEDA, 88.72m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Memphis to Mission",
+    "transportation": "Taxi from Memphis to Mission, duration: 1024.8366666666666, distance: 1481.7513, cost : 1481.0",
+    "breakfast": "Flight Restaurant and Wine Bar, Memphis",
+    "lunch": "Memphis Fire Barbeque Company, Memphis",
+    "dinner": "Itta Bena, Memphis",
+    "attraction": "Graceland, Memphis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Cooper Young Midtown Shotgun House, stay from 06:00 to 07:30, nearest transit: YOUNG@MEDA, 88.72m away; Flight Restaurant and Wine Bar, Memphis, visit from 08:00 to 08:50, ; Graceland, Memphis, visit from 09:20 to 12:50, ; Memphis Fire Barbeque Company, Memphis, visit from 13:20 to 14:20, ; Itta Bena, Memphis, visit from 19:00 to 20:15, "
+  }
+]

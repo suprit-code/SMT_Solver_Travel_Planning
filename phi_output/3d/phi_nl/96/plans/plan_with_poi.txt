@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Flight Number: F2907731, from Martha's Vineyard to New York, Departure Time: 13:20, Arrival Time: 14:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Manhatta, New York",
+    "attraction": "-",
+    "accommodation": "Serenity at the Heart of NYC l No Cleaning fee, New York",
+    "event": "-",
+    "point_of_interest_list": "Serenity at the Heart of NYC l No Cleaning fee, stay from 14:45 to 15:15, nearest transit: 8 AV/W 46 ST, 50.55m away; Manhatta, New York, visit from 19:00 to 22:07, ; Serenity at the Heart of NYC l No Cleaning fee, stay from 22:37 to 06:37, nearest transit: 8 AV/W 46 ST, 50.55m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "Brooklyn Bridge, New York",
+    "accommodation": "Serenity at the Heart of NYC l No Cleaning fee, New York",
+    "event": "-",
+    "point_of_interest_list": "Serenity at the Heart of NYC l No Cleaning fee, stay from 07:07 to 07:37, nearest transit: 8 AV/W 46 ST, 50.55m away; Sarge’s Delicatessen & Diner, New York, visit from 08:07 to 09:59, ; Peak Restaurant & Bar, New York, visit from 14:00 to 15:00, ; Brooklyn Bridge, New York, visit from 15:30 to 20:15, ; Gallaghers Steakhouse, New York, visit from 20:45 to 23:09, ; Serenity at the Heart of NYC l No Cleaning fee, stay from 23:39 to 07:39, nearest transit: 8 AV/W 46 ST, 50.55m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Martha's Vineyard",
+    "transportation": "Taxi from New York to Martha's Vineyard, duration: 404.8333333333333, distance: 425.9981, cost : 425.0",
+    "breakfast": "Del Frisco's Grille, New York",
+    "lunch": "Del Frisco's Double Eagle Steakhouse, New York",
+    "dinner": "Rao's Restaurant, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Serenity at the Heart of NYC l No Cleaning fee, stay from 08:09 to 08:39, nearest transit: 8 AV/W 46 ST, 50.55m away; Del Frisco's Grille, New York, visit from 09:09 to 09:59, ; Del Frisco's Double Eagle Steakhouse, New York, visit from 14:00 to 15:00, ; Central Park, New York, visit from 15:30 to 19:00, ; Rao's Restaurant, New York, visit from 19:30 to 20:45, "
+  }
+]

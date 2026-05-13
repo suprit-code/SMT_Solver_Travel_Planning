@@ -1,0 +1,6 @@
+Destination cities: ['Nashville'],
+Transportation dates: ['2024-11-16', '2024-11-18'],
+Transportation methods between cities: ['Flight Number: F2266538, from San Diego to Nashville, Departure Time: 10:40, Arrival Time: 16:19', 'Flight Number: F2641692, from Nashville to San Diego, Departure Time: 19:27, Arrival Time: 21:15'],
+Restaurants (3 meals per day): ['-', '-', 'Kayne Prime, Nashville', 'Luogo, Nashville', "Jeff Ruby's Steakhouse, Nashville, Nashville", 'Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville', 'Old Hickory Steakhouse, Nashville', 'Bourbon Street Blues and Boogie Bar, Nashville', 'The Farm House, Nashville'],
+Attractions (1 per day): ['Grand Ole Opry, Nashville', 'Cheekwood, Nashville', 'Ole Smoky Distillery & Yee-Haw Brewery, Nashville'],
+Accommodations (1 per city): ['Little Zen Studio Apt. Downtown - Walk to Broadway, Nashville']

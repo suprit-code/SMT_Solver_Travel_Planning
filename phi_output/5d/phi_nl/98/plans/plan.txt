@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Sacramento'],
+Transportation dates: ['2024-11-17', '2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F0861279, from Atlanta to San Diego, Departure Time: 08:20, Arrival Time: 10:08', 'taxi, from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost: 810', 'Flight Number: F2955269, from Sacramento to Atlanta, Departure Time: 12:36, Arrival Time: 20:04'],
+Restaurants (3 meals per day): ['-', "Lou & Mickey's, San Diego", 'The Fish Market - San Diego, San Diego', 'Cowboy Star, San Diego', "Ruth's Chris Steak House, San Diego", "Mister A'S, San Diego", 'Addison Restaurant, San Diego', 'Dockside 1953, San Diego', 'Born & Raised, San Diego', 'The Firehouse Restaurant, Sacramento', 'The Waterboy, Sacramento', "Scott's Seafood on The River, Sacramento", 'Ella Dining Room & Bar, Sacramento', 'Il Fornaio, Sacramento', 'Grange Restaurant & Bar, Sacramento'],
+Attractions (1 per day): ['SeaWorld, San Diego', 'San Diego Zoo, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Capitol Park, Sacramento', 'California State Capitol Museum, Sacramento'],
+Accommodations (1 per city): ['Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego', 'Remodeled 1BR Apartment - Walk to Downtown Sac!, Sacramento']

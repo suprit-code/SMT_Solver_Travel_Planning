@@ -1,0 +1,6 @@
+Destination cities: ['Baltimore'],
+Transportation dates: ['2024-11-01', '2024-11-03'],
+Transportation methods between cities: ['Flight Number: F2173317, from Indianapolis to Baltimore, Departure Time: 10:18, Arrival Time: 11:52', 'Flight Number: F1564950, from Baltimore to Indianapolis, Departure Time: 17:05, Arrival Time: 18:38'],
+Restaurants (3 meals per day): ['-', '-', 'Phillips Seafood, Baltimore', "Alexander's Tavern, Baltimore", 'The Helmand, Baltimore', "Twist Fell's Point, Baltimore", 'Angies Seafood, Baltimore', 'The Abbey Burger Bistro, Baltimore', '-'],
+Attractions (1 per day): ['Federal Hill Park, Baltimore', 'National Aquarium, Baltimore', 'The Maryland Zoo, Baltimore'],
+Accommodations (1 per city): ['The basement, Baltimore']

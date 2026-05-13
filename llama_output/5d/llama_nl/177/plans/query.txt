@@ -1,0 +1,1 @@
+Design a 5-day travel itinerary for 2 people starting from Wilmington and visiting 2 cities in New York between November 4th and November 8th, 2024. The budget is $3,900. The trip should avoid flights and include dining options featuring American, Steakhouse, Bar, and Pub cuisines.

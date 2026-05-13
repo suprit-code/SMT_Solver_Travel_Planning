@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Bristol to Charlotte",
+    "transportation": "Self-driving, from Bristol to Charlotte, duration: 212.82166666666663, distance: 253.2508, cost: 12",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 11:57 to 12:17, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Room with a king bed., stay from 12:42 to 08:00, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Cabo Fish Taco Baja Seagrill, Charlotte",
+    "lunch": "Charlotte's, Charlotte",
+    "dinner": "The Terrace at The Charlotte Inn, Charlotte",
+    "attraction": "Levine Museum of the New South, Charlotte",
+    "accommodation": "Room with a king bed., Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 08:00 to 08:30, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Cabo Fish Taco Baja Seagrill, visit from 08:55 to 09:35, nearest transit: Davidson & 35th, 57.25m away; Levine Museum of the New South, visit from 10:00 to 12:00, nearest transit: Tryon St & 2nd St, 38.18m away; Charlotte's, visit from 13:35 to 14:15, nearest transit: Beaty St @ 866, 940467.80m away; The Terrace at The Charlotte Inn, visit from 19:00 to 19:40, nearest transit: Beaty St @ 866, 1111842.47m away; Room with a king bed., stay from 20:05 to 08:00, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Bristol",
+    "transportation": "Self-driving, from Charlotte to Bristol, duration: 212.88166666666663, distance: 252.9456, cost: 12",
+    "breakfast": "Charlotte's Web, Charlotte",
+    "lunch": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "dinner": "Charlotte & Fritz, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room with a king bed., stay from 08:00 to 08:30, nearest transit: Little Rock Rd & Tuckaseegee Rd, 468.18m away; Charlotte's Web, visit from 08:55 to 09:35, nearest transit: Beaty St @ 866, 811477.47m away; Discovery Place Science, visit from 10:00 to 12:00, nearest transit: Church St & 6th St, 53.42m away; Rooster's Wood-Fired Kitchen - Uptown, visit from 13:35 to 14:15, nearest transit: Trade St & College St, 139.39m away; Charlotte & Fritz, visit from 19:00 to 19:40, nearest transit: Beaty St @ 866, 7233404.02m away"
+  }
+]

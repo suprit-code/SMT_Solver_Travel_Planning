@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Madison to New York",
+    "transportation": "Flight Number: F2789426, from Madison to New York, Departure Time: 10:16, Arrival Time: 13:31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 14:01 to 15:00, nearest transit: 9 AV/W 30 ST, 139.35m away; The High Line, New York, visit from 15:30 to 20:15, ; Del Frisco's Grille, New York, visit from 20:45 to 22:17, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 22:47 to 06:47, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Peak Restaurant & Bar, New York",
+    "lunch": "Westway Diner, New York",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 07:17 to 07:47, nearest transit: 9 AV/W 30 ST, 139.35m away; Peak Restaurant & Bar, New York, visit from 08:17 to 10:00, ; Central Park, New York, visit from 10:30 to 14:00, ; Westway Diner, New York, visit from 14:30 to 15:30, ; Gallaghers Steakhouse, New York, visit from 19:31 to 20:46, ; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 21:16 to 05:16, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Madison",
+    "transportation": "Flight Number: F3655021, from New York to Madison, Departure Time: 19:22, Arrival Time: 20:40",
+    "breakfast": "Sarge’s Delicatessen & Diner, New York",
+    "lunch": "FIG & OLIVE, New York",
+    "dinner": "-",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 06:00 to 06:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Sarge’s Delicatessen & Diner, New York, visit from 08:00 to 08:50, ; The National 9/11 Memorial & Museum, New York, visit from 09:20 to 12:50, ; FIG & OLIVE, New York, visit from 14:30 to 15:30, "
+  }
+]

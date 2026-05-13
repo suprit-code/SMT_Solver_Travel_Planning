@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Washington",
+    "transportation": "Flight Number: F3187352, from Charleston to Washington, Departure Time: 14:27, Arrival Time: 15:53",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Clyde's of Georgetown, Washington",
+    "attraction": "-",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 16:23 to 18:30, nearest transit: FOGGY BOTTOM, 373.15m away; Clyde's of Georgetown, Washington, visit from 19:00 to 21:00, ; King Studio | 2500 Penn, a Placemakr Experience, stay from 21:30 to 05:30, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Unconventional Diner, Washington",
+    "lunch": "The Palm - Washington, D.C., Washington",
+    "dinner": "Cafe Milano, Washington",
+    "attraction": "National Portrait Gallery, Washington",
+    "accommodation": "King Studio | 2500 Penn, a Placemakr Experience, Washington",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 06:00 to 06:30, nearest transit: FOGGY BOTTOM, 373.15m away; Unconventional Diner, Washington, visit from 08:32 to 09:22, ; National Portrait Gallery, Washington, visit from 09:52 to 13:22, ; The Palm - Washington, D.C., Washington, visit from 14:30 to 15:30, ; Cafe Milano, Washington, visit from 19:31 to 23:10, ; King Studio | 2500 Penn, a Placemakr Experience, stay from 23:40 to 07:40, nearest transit: FOGGY BOTTOM, 373.15m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Charleston",
+    "transportation": "Flight Number: F3634316, from Washington to Charleston, Departure Time: 19:19, Arrival Time: 20:23",
+    "breakfast": "Smoke & Mirrors Rooftop Bar, Washington",
+    "lunch": "RPM Italian, Washington",
+    "dinner": "-",
+    "attraction": "National Museum of African American History and Culture, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "King Studio | 2500 Penn, a Placemakr Experience, stay from 08:10 to 08:40, nearest transit: FOGGY BOTTOM, 373.15m away; Smoke & Mirrors Rooftop Bar, Washington, visit from 09:10 to 10:00, ; National Museum of African American History and Culture, Washington, visit from 10:30 to 14:00, ; RPM Italian, Washington, visit from 14:30 to 15:30, "
+  }
+]

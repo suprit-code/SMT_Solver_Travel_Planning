@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tampa to Nashville",
+    "transportation": "Flight Number: F0055097, from Tampa to Nashville, Departure Time: 16:27, Arrival Time: 17:08",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Andrew Jackson's Hermitage, Nashville",
+    "accommodation": "Fancy Stay Walk to Broadway Park Free Let\u2019s Roll!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Harriet's Rooftop, Nashville",
+    "lunch": "Henley, Nashville",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "Cheekwood, Nashville",
+    "accommodation": "Fancy Stay Walk to Broadway Park Free Let\u2019s Roll!, Nashville",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let\u2019s Roll!, stay from 08:00 to 08:30, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; Harriet's Rooftop, visit from 09:00 to 09:40, nearest transit: 8TH AVE S & DEMONBREUN ST SB, 66.96m away; Cheekwood, visit from 10:10 to 12:10, nearest transit: HWY 70 S & BROOK HOLLOW RD EB, 833.18m away; Henley, visit from 13:40 to 14:20, nearest transit: 21ST AVE & BROADWAY AVE SB, 79.55m away; Aquarium Restaurant, visit from 19:00 to 19:40, nearest transit: OPRY MILLS DR & GENERAL JACKSON'S, 170.74m away; Fancy Stay Walk to Broadway Park Free Let\u2019s Roll!, stay from 23:00 to 08:00, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Tampa",
+    "transportation": "Flight Number: F3131675, from Nashville to Tampa, Departure Time: 18:04, Arrival Time: 20:41",
+    "breakfast": "The Bluebird Cafe, Nashville",
+    "lunch": "The Stillery, Nashville",
+    "dinner": "-",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Fancy Stay Walk to Broadway Park Free Let\u2019s Roll!, stay from 08:00 to 08:30, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 123.82m away; The Bluebird Cafe, visit from 09:00 to 09:40, nearest transit: RICHARD JONES RD & HILLSBORO PIKE W, 383.04m away; Belmont Mansion, visit from 10:10 to 12:10, nearest transit: WEDGEWOOD AVE & 16TH AVE EB, 92.02m away; The Stillery, visit from 13:40 to 14:20, nearest transit: BROADWAY AVE & 2ND AVE N WB, 59.97m away"
+  }
+]

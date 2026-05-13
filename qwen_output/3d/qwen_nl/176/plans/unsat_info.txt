@@ -1,0 +1,17 @@
+not ok
+Unsatisfiable core:
+driving is possible for transportation 0
+driving is possible for transportation 1
+travel start date
+travel end date
+either flight, self-driving, or taxi for second transportation
+either flight, self-driving, or taxi for first transportation
+valid flight index for flight 0
+visit city in cities list
+eat in which city b
+eat in which city d
+attraction in which city
+valid attraction index
+non repeating attraction index
+category score constraint
+flight, self-driving, and taxi not simultaneously for second transportation

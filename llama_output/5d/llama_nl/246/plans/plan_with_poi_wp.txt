@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F4016069, from Denver to San Diego, Departure Time: 13:07, Arrival Time: 14:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "-",
+    "accommodation": "Great Beach Fun and Rest in Pacific Beach!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 14:41 to 15:11, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Lou & Mickey's, San Diego, visit from 19:00 to 20:15, ; Great Beach Fun and Rest in Pacific Beach!, stay from 20:45 to 04:45, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Cowboy Star, San Diego",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "Mister A'S, San Diego",
+    "attraction": "Old Town San Diego, San Diego",
+    "accommodation": "Great Beach Fun and Rest in Pacific Beach!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 06:00 to 06:30, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Cowboy Star, San Diego, visit from 09:10 to 10:00, ; Old Town San Diego, San Diego, visit from 10:30 to 14:00, ; Addison Restaurant, San Diego, visit from 14:30 to 16:44, ; Mister A'S, San Diego, visit from 20:45 to 22:35, ; Great Beach Fun and Rest in Pacific Beach!, stay from 23:05 to 07:05, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Centrally located with private entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "Great Beach Fun and Rest in Pacific Beach!, stay from 07:35 to 08:05, nearest transit: Mission Bl & Pacific Beach Dr, 192.26m away; Born & Raised, San Diego, visit from 08:35 to 09:25, ; Centrally located with private entrance, stay from 22:39 to 23:09, nearest transit: Churn Creek Rd at Browning St, 382.27m away; Centrally located with private entrance, stay from 23:40 to 07:40, nearest transit: Churn Creek Rd at Browning St, 382.27m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Woody's Brewing Co, Redding",
+    "lunch": "Fratelli’s Pizza Parlour, Redding",
+    "dinner": "deja vu, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Centrally located with private entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "Centrally located with private entrance, stay from 08:10 to 08:40, nearest transit: Churn Creek Rd at Browning St, 382.27m away; Woody's Brewing Co, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; Fratelli’s Pizza Parlour, Redding, visit from 14:30 to 15:30, ; deja vu, Redding, visit from 19:31 to 20:46, ; Centrally located with private entrance, stay from 21:16 to 05:16, nearest transit: Churn Creek Rd at Browning St, 382.27m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Denver",
+    "transportation": "Taxi from Redding to Denver, duration: 1285.4166666666667, distance: 1981.5151, cost : 1981.0",
+    "breakfast": "Olive Garden Italian Restaurant, Redding",
+    "lunch": "Thai Cafe, Redding",
+    "dinner": "Champa Garden, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Centrally located with private entrance, stay from 06:00 to 06:30, nearest transit: Churn Creek Rd at Browning St, 382.27m away; Olive Garden Italian Restaurant, Redding, visit from 08:00 to 08:50, ; Sundial Bridge, Redding, visit from 09:20 to 12:50, ; Thai Cafe, Redding, visit from 14:30 to 15:30, ; Champa Garden, Redding, visit from 19:31 to 20:46, "
+  }
+]

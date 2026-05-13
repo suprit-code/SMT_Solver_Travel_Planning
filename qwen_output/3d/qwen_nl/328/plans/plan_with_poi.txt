@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Charlotte",
+    "transportation": "Flight Number: F0665203, from Denver to Charlotte, Departure Time: 14:00, Arrival Time: 18:48",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The best things in life come in small packages!, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The best things in life come in small packages!, stay from 19:18 to 19:48, nearest transit: Jennings St & Russell Ave, 153.37m away; The best things in life come in small packages!, stay from 20:18 to 06:35, nearest transit: Jennings St & Russell Ave, 153.37m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte Bakery, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "Pinky's Westside Grill, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "The best things in life come in small packages!, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The best things in life come in small packages!, stay from 07:05 to 07:35, nearest transit: Jennings St & Russell Ave, 153.37m away; Charlotte Bakery, Charlotte, visit from 08:05 to 08:55, ; Charlotte's Eats and Sweets, Charlotte, visit from 12:56 to 14:30, ; Truist Field, Charlotte, visit from 15:00 to 18:30, ; Pinky's Westside Grill, Charlotte, visit from 19:00 to 20:15, ; The best things in life come in small packages!, stay from 20:45 to 06:45, nearest transit: Jennings St & Russell Ave, 153.37m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charlotte to Denver",
+    "transportation": "Flight Number: F1492603, from Charlotte to Denver, Departure Time: 08:15, Arrival Time: 09:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The best things in life come in small packages!, stay from 07:15 to 07:45, nearest transit: Jennings St & Russell Ave, 153.37m away"
+  }
+]

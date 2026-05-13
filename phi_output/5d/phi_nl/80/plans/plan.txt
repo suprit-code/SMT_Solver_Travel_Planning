@@ -1,0 +1,6 @@
+Destination cities: ['San Diego', 'Redding'],
+Transportation dates: ['2024-11-23', '2024-11-25', '2024-11-27'],
+Transportation methods between cities: ['Flight Number: F3081888, from Everett to San Diego, Departure Time: 08:39, Arrival Time: 11:20', 'taxi, from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost: 1068', 'taxi, from Redding to Everett, duration: 735.17, distance: 1000.015, cost: 1000'],
+Restaurants (3 meals per day): ['-', '-', 'Morning Glory, San Diego', "Lou & Mickey's, San Diego", 'Din Tai Fung, San Diego', 'Oceana Coastal Kitchen, San Diego', 'Pacific Beach AleHouse, San Diego', 'Born & Raised, San Diego', "Mimmo's, San Diego", 'Thai Hut, Redding', 'Karlines, Redding', 'View 202, Redding', 'Los Gordos, Redding', "Jack's Grill, Redding", 'New China, Redding'],
+Attractions (1 per day): ['Sunset Cliffs Natural Park, San Diego', 'Balboa Park, San Diego', 'Cabrillo National Monument, San Diego', 'Turtle Bay Exploration Park, Redding', 'Sundial Bridge, Redding'],
+Accommodations (1 per city): ['Private Room & Bath! Steps to Restaurants & Shops, San Diego', 'Centrally located with private entrance, Redding']

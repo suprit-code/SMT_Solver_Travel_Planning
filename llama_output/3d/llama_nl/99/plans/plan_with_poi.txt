@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Las Vegas",
+    "transportation": "Flight Number: F2108884, from Memphis to Las Vegas, Departure Time: 05:58, Arrival Time: 07:47",
+    "breakfast": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "lunch": "-",
+    "dinner": "Kabuto, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "Our lovely master bedroom, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Our lovely master bedroom, stay from 08:17 to 09:10, nearest transit: The Strat, 4695.9m away; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 09:40 to 10:37, ; Hoover Dam Bypass, Las Vegas, visit from 11:07 to 20:15, ; Kabuto, Las Vegas, visit from 20:45 to 23:00, ; Our lovely master bedroom, stay from 23:30 to 07:30, nearest transit: The Strat, 4695.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Mr. Mamas, Las Vegas",
+    "lunch": "Primal Steakhouse, Las Vegas",
+    "dinner": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "Our lovely master bedroom, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Our lovely master bedroom, stay from 08:00 to 08:30, nearest transit: The Strat, 4695.9m away; Mr. Mamas, Las Vegas, visit from 09:00 to 09:50, ; Bellagio Conservatory & Botanical Garden, Las Vegas, visit from 10:20 to 13:50, ; Primal Steakhouse, Las Vegas, visit from 14:30 to 15:30, ; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 20:45 to 22:00, ; Our lovely master bedroom, stay from 22:30 to 06:30, nearest transit: The Strat, 4695.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Memphis",
+    "transportation": "Flight Number: F0376611, from Las Vegas to Memphis, Departure Time: 16:07, Arrival Time: 21:45",
+    "breakfast": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "lunch": "Vic & Anthony's Steakhouse, Las Vegas",
+    "dinner": "-",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Our lovely master bedroom, stay from 07:00 to 07:30, nearest transit: The Strat, 4695.9m away; Gordon Ramsay Hell's Kitchen, Las Vegas, visit from 08:00 to 08:50, ; Red Rock Canyon National Conservation Area, Las Vegas, visit from 09:20 to 12:50, ; Vic & Anthony's Steakhouse, Las Vegas, visit from 14:30 to 15:30, "
+  }
+]

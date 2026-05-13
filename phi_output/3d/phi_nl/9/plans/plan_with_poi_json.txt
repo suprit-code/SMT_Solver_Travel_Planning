@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sarasota to Cincinnati",
+    "transportation": "Flight Number: F2559456, from Sarasota to Cincinnati, Departure Time: 22:48, Arrival Time: 00:58",
+    "breakfast": "Jeff Ruby's Carlo & Johnny, Cincinnati",
+    "lunch": "Tony's Of Cincinnati, Cincinnati",
+    "dinner": "Boca, Cincinnati",
+    "attraction": "Great American Ball Park, Cincinnati",
+    "accommodation": "The Historic Lyric Presidential Suite, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Cincinnati",
+    "transportation": "-",
+    "breakfast": "Subito, Cincinnati",
+    "lunch": "Nicola's Ristorante, Cincinnati",
+    "dinner": "Losanti, Cincinnati",
+    "attraction": "Eden Park, Cincinnati",
+    "accommodation": "The Historic Lyric Presidential Suite, Cincinnati",
+    "event": "-",
+    "point_of_interest_list": "The Historic Lyric Presidential Suite, stay from 08:00 to 08:30, nearest transit: RACE ST & 7TH ST, 60.16m away; Subito, visit from 09:00 to 09:40, nearest transit: PIKE ST & 3RD ST, 50.20m away; Eden Park, visit from 10:10 to 12:10, nearest transit: GILBERT AVE & EDEN PARK DR, 132.39m away; Nicola's Ristorante, visit from 13:40 to 14:20, nearest transit: LIBERTY ST & SYCAMORE ST, 55.35m away; Losanti, visit from 19:00 to 19:40, nearest transit: RACE ST & 14TH ST, 42.51m away; The Historic Lyric Presidential Suite, stay from 23:00 to 08:00, nearest transit: RACE ST & 7TH ST, 60.16m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Cincinnati to Sarasota",
+    "transportation": "Flight Number: F1342106, from Cincinnati to Sarasota, Departure Time: 17:40, Arrival Time: 19:46",
+    "breakfast": "Jeff Ruby's Precinct, Cincinnati",
+    "lunch": "Jeff Ruby's Steakhouse, Cincinnati",
+    "dinner": "-",
+    "attraction": "National Underground Railroad Freedom Center, Cincinnati",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Historic Lyric Presidential Suite, stay from 08:00 to 08:30, nearest transit: RACE ST & 7TH ST, 60.16m away; Jeff Ruby's Precinct, visit from 09:00 to 09:40, nearest transit: COLUMBIA PKWY & DELTA AVE, 41.29m away; National Underground Railroad Freedom Center, visit from 10:10 to 12:10, nearest transit: Riverfront Transit Center Stop, 102.78m away; Jeff Ruby's Steakhouse, visit from 13:40 to 14:20, nearest transit: 5TH ST & VINE ST, 59.37m away"
+  }
+]

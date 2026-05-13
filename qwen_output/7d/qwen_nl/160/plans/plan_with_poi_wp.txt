@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to San Diego",
+    "transportation": "Flight Number: F0556691, from Washington to San Diego, Departure Time: 08:51, Arrival Time: 11:11",
+    "breakfast": "-",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "Place to Stay with Private Entrance near Beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 11:41 to 12:11, nearest transit: Cable St & Newport Av, 642.75m away; Pacific Beach AleHouse, San Diego, visit from 12:41 to 13:41, ; La Jolla Shores Park, San Diego, visit from 14:11 to 17:41, ; Din Tai Fung, San Diego, visit from 20:45 to 22:04, ; Place to Stay with Private Entrance near Beach, stay from 22:34 to 06:34, nearest transit: Cable St & Newport Av, 642.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Union Kitchen and Tap Gaslamp, San Diego",
+    "lunch": "Morning Glory, San Diego",
+    "dinner": "Cafe Coyote, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Place to Stay with Private Entrance near Beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 07:04 to 07:34, nearest transit: Cable St & Newport Av, 642.75m away; Union Kitchen and Tap Gaslamp, San Diego, visit from 08:04 to 10:00, ; San Diego Zoo, San Diego, visit from 10:30 to 14:00, ; Morning Glory, San Diego, visit from 14:30 to 15:30, ; Cafe Coyote, San Diego, visit from 19:31 to 20:46, ; Place to Stay with Private Entrance near Beach, stay from 00:00 to 08:00, nearest transit: Cable St & Newport Av, 642.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F2370229, from San Diego to Sacramento, Departure Time: 18:18, Arrival Time: 20:06",
+    "breakfast": "-",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "Torrey Pines State Natural Reserve, San Diego",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 08:30 to 09:00, nearest transit: Cable St & Newport Av, 642.75m away; Torrey Pines State Natural Reserve, San Diego, visit from 09:30 to 13:00, ; Mimmo's, San Diego, visit from 13:30 to 16:46, ; Home Away From Home, stay from 20:36 to 21:06, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Home Away From Home, stay from 21:36 to 05:36, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Frank Fat's Restaurant, Sacramento",
+    "lunch": "Mikuni Japanese Restaurant & Sushi Bar, Sacramento",
+    "dinner": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 06:06 to 06:36, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Frank Fat's Restaurant, Sacramento, visit from 08:38 to 09:28, ; California State Capitol Museum, Sacramento, visit from 09:58 to 13:28, ; Mikuni Japanese Restaurant & Sushi Bar, Sacramento, visit from 13:58 to 14:58, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 20:45 to 22:00, ; Home Away From Home, stay from 22:30 to 06:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Flight Number: F3382189, from Sacramento to Los Angeles, Departure Time: 18:42, Arrival Time: 20:18",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "Zocalo, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Rare find! Garden Oasis Guest House in heart of LA, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 07:00 to 07:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Paesano's Pizzeria, Sacramento, visit from 08:00 to 08:50, ; Capitol Park, Sacramento, visit from 09:20 to 12:50, ; Zocalo, Sacramento, visit from 14:30 to 18:12, ; Rare find! Garden Oasis Guest House in heart of LA, stay from 20:48 to 21:18, nearest transit: MLK Jr. & Arlington Ave., 1184.94m away; Rare find! Garden Oasis Guest House in heart of LA, stay from 21:48 to 07:40, nearest transit: MLK Jr. & Arlington Ave., 1184.94m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Leo & Lily, Los Angeles",
+    "lunch": "Cafe Gratitude Venice, Los Angeles",
+    "dinner": "Perch, Los Angeles",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "Rare find! Garden Oasis Guest House in heart of LA, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Rare find! Garden Oasis Guest House in heart of LA, stay from 08:10 to 08:40, nearest transit: MLK Jr. & Arlington Ave., 1184.94m away; Leo & Lily, Los Angeles, visit from 09:10 to 10:00, ; Griffith Park, Los Angeles, visit from 10:30 to 14:00, ; Cafe Gratitude Venice, Los Angeles, visit from 14:30 to 15:30, ; Perch, Los Angeles, visit from 20:45 to 22:00, ; Rare find! Garden Oasis Guest House in heart of LA, stay from 23:19 to 07:19, nearest transit: MLK Jr. & Arlington Ave., 1184.94m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Washington",
+    "transportation": "Flight Number: F3293349, from Los Angeles to Washington, Departure Time: 14:09, Arrival Time: 21:36",
+    "breakfast": "Brent's Deli Northridge, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Hollywood Sign, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Rare find! Garden Oasis Guest House in heart of LA, stay from 07:49 to 08:19, nearest transit: MLK Jr. & Arlington Ave., 1184.94m away; Brent's Deli Northridge, Los Angeles, visit from 08:49 to 09:39, ; Hollywood Sign, Los Angeles, visit from 10:09 to 13:39, "
+  }
+]

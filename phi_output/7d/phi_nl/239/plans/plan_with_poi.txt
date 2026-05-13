@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Baltimore to San Diego",
+    "transportation": "Flight Number: F3088137, from Baltimore to San Diego, Departure Time: 21:51, Arrival Time: 00:22",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 00:52 to 01:22, nearest transit: Jewell St & Garnet Av, 578.25m away; charming, colorful, close to beach, stay from 01:52 to 08:00, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Addison Restaurant, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "-",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 08:30 to 09:00, nearest transit: Jewell St & Garnet Av, 578.25m away; Born & Raised, San Diego, visit from 09:38 to 10:28, ; Addison Restaurant, San Diego, visit from 14:29 to 15:29, ; Morning Glory, San Diego, visit from 20:45 to 22:00, ; charming, colorful, close to beach, stay from 22:30 to 06:30, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Los Angeles",
+    "transportation": "Taxi from San Diego to Los Angeles, duration: 142.59166666666667, distance: 193.5707, cost : 193.0",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Juniper and Ivy, San Diego",
+    "dinner": "The Palm - L.A. Downtown, Los Angeles",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "MidCity private suite w/ fireplace & HOT TUB!, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 07:00 to 07:30, nearest transit: Jewell St & Garnet Av, 578.25m away; Pacific Beach AleHouse, San Diego, visit from 08:00 to 08:50, ; Cabrillo National Monument, San Diego, visit from 09:20 to 14:00, ; Juniper and Ivy, San Diego, visit from 14:30 to 15:30, ; MidCity private suite w/ fireplace & HOT TUB!, stay from 19:45 to 20:15, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away; The Palm - L.A. Downtown, Los Angeles, visit from 20:45 to 23:30, ; MidCity private suite w/ fireplace & HOT TUB!, stay from 00:00 to 08:00, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Yamashiro Hollywood, Los Angeles",
+    "lunch": "Spire 73, Los Angeles",
+    "dinner": "Water Grill, Los Angeles",
+    "attraction": "-",
+    "accommodation": "MidCity private suite w/ fireplace & HOT TUB!, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "MidCity private suite w/ fireplace & HOT TUB!, stay from 08:30 to 09:00, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away; Yamashiro Hollywood, Los Angeles, visit from 09:31 to 10:21, ; Spire 73, Los Angeles, visit from 14:30 to 15:30, ; Water Grill, Los Angeles, visit from 19:31 to 20:46, ; MidCity private suite w/ fireplace & HOT TUB!, stay from 21:16 to 05:16, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Los Angeles to San Francisco",
+    "transportation": "Flight Number: F2418737, from Los Angeles to San Francisco, Departure Time: 16:06, Arrival Time: 17:20",
+    "breakfast": "Leo & Lily, Los Angeles",
+    "lunch": "Pizzeria Mozza, Los Angeles",
+    "dinner": "-",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "Glorious Room in Victorian Home, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "MidCity private suite w/ fireplace & HOT TUB!, stay from 06:00 to 06:30, nearest transit: Adams & Crenshaw Blvd. (Northbound), 359.7m away; Leo & Lily, Los Angeles, visit from 08:00 to 08:50, ; Griffith Park, Los Angeles, visit from 10:30 to 14:00, ; Pizzeria Mozza, Los Angeles, visit from 14:30 to 15:30, ; Glorious Room in Victorian Home, stay from 17:50 to 18:20, nearest transit: Civic Center BART (9th and Market), 1469.83m away; Glorious Room in Victorian Home, stay from 18:50 to 05:30, nearest transit: Civic Center BART (9th and Market), 1469.83m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Honey Honey Cafe & Crepery, San Francisco",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "dinner": "Eight Am, San Francisco",
+    "attraction": "Japanese Tea Garden, San Francisco",
+    "accommodation": "Glorious Room in Victorian Home, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Glorious Room in Victorian Home, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 1469.83m away; Honey Honey Cafe & Crepery, San Francisco, visit from 09:09 to 09:59, ; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 14:00 to 15:00, ; Japanese Tea Garden, San Francisco, visit from 15:30 to 19:00, ; Eight Am, San Francisco, visit from 19:30 to 20:45, ; Glorious Room in Victorian Home, stay from 21:15 to 05:15, nearest transit: Civic Center BART (9th and Market), 1469.83m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Francisco to Baltimore",
+    "transportation": "Flight Number: F2436281, from San Francisco to Baltimore, Departure Time: 22:29, Arrival Time: 06:30",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Glorious Room in Victorian Home, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 1469.83m away; Alcatraz Island, San Francisco, visit from 09:00 to 12:30, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Milwaukee to Seattle",
+    "transportation": "Flight Number: F1521000, from Milwaukee to Seattle, Departure Time: 17:35, Arrival Time: 19:57",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private Room in Townhome near Capitol Hill, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Private Room in Townhome near Capitol Hill, stay from 20:27 to 22:08, nearest transit: E Madison St & 22nd Ave E, 94.31m away; Private Room in Townhome near Capitol Hill, stay from 22:38 to 06:38, nearest transit: E Madison St & 22nd Ave E, 94.31m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "Il Terrazzo Carmine, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Private Room in Townhome near Capitol Hill, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Private Room in Townhome near Capitol Hill, stay from 07:08 to 07:38, nearest transit: E Madison St & 22nd Ave E, 94.31m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 08:08 to 08:58, ; Hiram M. Chittenden Locks, Seattle, visit from 09:28 to 12:58, ; Il Terrazzo Carmine, Seattle, visit from 13:28 to 14:28, ; Noi Thai Cuisine, Seattle, visit from 19:00 to 20:15, ; Private Room in Townhome near Capitol Hill, stay from 20:45 to 04:45, nearest transit: E Madison St & 22nd Ave E, 94.31m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Milwaukee",
+    "transportation": "Flight Number: F1977344, from Seattle to Milwaukee, Departure Time: 07:29, Arrival Time: 12:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Room in Townhome near Capitol Hill, stay from 06:00 to 06:30, nearest transit: E Madison St & 22nd Ave E, 94.31m away"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Greensboro",
+    "transportation": "Self-driving from Oklahoma City to Greensboro, duration: 1238.14, distance: 1848.9622, cost : 92.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 03:08 to 03:38, nearest transit: Glendale/Randleman Rd., 155.05m away; A little Southern Hospitality, stay from 04:08 to 08:00, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Stamey's Barbecue, Greensboro",
+    "lunch": "Sarah's Kabob Shop, Greensboro",
+    "dinner": "Carolina's Diner, Greensboro",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:30 to 09:00, nearest transit: Glendale/Randleman Rd., 155.05m away; Stamey's Barbecue, Greensboro, visit from 09:36 to 10:29, ; Sarah's Kabob Shop, Greensboro, visit from 14:30 to 15:30, ; Carolina's Diner, Greensboro, visit from 20:45 to 22:00, ; A little Southern Hospitality, stay from 22:30 to 06:30, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Self-driving from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 16.0",
+    "breakfast": "Golden Wok, Greensboro",
+    "lunch": "Mythos Grill, Greensboro",
+    "dinner": "Winnie's Tavern, Wilmington",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 07:00 to 07:30, nearest transit: Glendale/Randleman Rd., 155.05m away; Golden Wok, Greensboro, visit from 08:00 to 08:50, ; Ambleside Gallery, Greensboro, visit from 09:20 to 12:50, ; Mythos Grill, Greensboro, visit from 13:20 to 14:20, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 19:18 to 19:48, nearest transit: Market St WB at 12th St, 326.9m away; Winnie's Tavern, Wilmington, visit from 20:18 to 22:01, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 22:31 to 06:31, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "The Anchor, Wilmington",
+    "lunch": "Hieronymus Seafood Restaurant & Oyster Bar, Wilmington",
+    "dinner": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 07:01 to 07:31, nearest transit: Market St WB at 12th St, 326.9m away; The Anchor, Wilmington, visit from 08:01 to 08:51, ; Battleship North Carolina, Wilmington, visit from 09:59 to 13:29, ; Hieronymus Seafood Restaurant & Oyster Bar, Wilmington, visit from 13:59 to 14:59, ; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 19:00 to 20:15, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 20:45 to 04:45, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Self-driving from Wilmington to Charlotte, duration: 245.71, distance: 318.6171, cost : 15.0",
+    "breakfast": "Flaming Amy's Burrito Barn, Wilmington",
+    "lunch": "Yo Sake Downtown Sushi Lounge, Wilmington",
+    "dinner": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 06:00 to 06:30, nearest transit: Market St WB at 12th St, 326.9m away; Flaming Amy's Burrito Barn, Wilmington, visit from 08:00 to 08:50, ; Burgwin-Wright House and Gardens, Wilmington, visit from 09:20 to 12:50, ; Yo Sake Downtown Sushi Lounge, Wilmington, visit from 13:20 to 14:20, ; Comfy private bed and bath, stay from 19:25 to 19:55, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 20:25 to 21:40, ; Comfy private bed and bath, stay from 22:10 to 06:10, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Pinky's Westside Grill, Charlotte",
+    "lunch": "Charlotte's Eats and Sweets, Charlotte",
+    "dinner": "Midwood Smokehouse, Charlotte",
+    "attraction": "NASCAR Hall of Fame, Charlotte",
+    "accommodation": "Comfy private bed and bath, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 06:40 to 07:10, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Pinky's Westside Grill, Charlotte, visit from 08:00 to 08:50, ; Charlotte's Eats and Sweets, Charlotte, visit from 12:51 to 13:51, ; NASCAR Hall of Fame, Charlotte, visit from 14:21 to 17:51, ; Midwood Smokehouse, Charlotte, visit from 19:00 to 20:15, ; Comfy private bed and bath, stay from 20:45 to 06:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Oklahoma City",
+    "transportation": "Self-driving from Charlotte to Oklahoma City, duration: 1194.2333333333331, distance: 1762.3656, cost : 88.0",
+    "breakfast": "Mert's Heart and Soul, Charlotte",
+    "lunch": "Charlotte Bakery, Charlotte",
+    "dinner": "-",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Comfy private bed and bath, stay from 07:00 to 07:30, nearest transit: The Plaza & Glenfiddich Dr, 419.92m away; Mert's Heart and Soul, Charlotte, visit from 08:00 to 08:50, ; Charlotte Bakery, Charlotte, visit from 12:51 to 13:51, ; Truist Field, Charlotte, visit from 14:21 to 20:17, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Atlanta",
+    "transportation": "Flight Number: F2977150, from Oklahoma City to Atlanta, Departure Time: 07:52, Arrival Time: 10:46",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "Atlanta Botanical Garden, Atlanta",
+    "accommodation": "Tiny House Urban Farm Stay in Heart of Atlanta, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Urban Farm Stay in Heart of Atlanta, stay from 11:16 to 11:46, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away; Atlanta Botanical Garden, visit from 12:16 to 14:16, nearest transit: PIEDMONT AVE NE @ THE PRADO, 229.39m away; Cafe Agora, visit from 19:00 to 19:40, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; Tiny House Urban Farm Stay in Heart of Atlanta, stay from 23:00 to 08:00, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "South City Kitchen Midtown, Atlanta",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "Fox Bros. Bar-B-Q, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Tiny House Urban Farm Stay in Heart of Atlanta, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Urban Farm Stay in Heart of Atlanta, stay from 08:00 to 08:30, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away; South City Kitchen Midtown, visit from 09:00 to 09:40, nearest transit: PEACHTREE ST @ 14TH ST NE, 128.52m away; Zoo Atlanta, visit from 10:10 to 12:10, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; Steamhouse Lounge, visit from 13:40 to 14:20, nearest transit: W PEACHTREE ST @ 12TH ST, 93.00m away; Fox Bros. Bar-B-Q, visit from 19:00 to 19:40, nearest transit: MORELAND AVE @ 299, 219.31m away; Tiny House Urban Farm Stay in Heart of Atlanta, stay from 23:00 to 08:00, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Oklahoma City",
+    "transportation": "Flight Number: F3125700, from Atlanta to Oklahoma City, Departure Time: 17:45, Arrival Time: 18:55",
+    "breakfast": "Ray's in the City, Atlanta",
+    "lunch": "Kevin Rathbun Steak, Atlanta",
+    "dinner": "-",
+    "attraction": "Piedmont Park, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Urban Farm Stay in Heart of Atlanta, stay from 08:00 to 08:30, nearest transit: GEORGIA AVE SE @ AMI ST SE, 268.26m away; Ray's in the City, visit from 09:00 to 09:40, nearest transit: PEACHTREE ST @ JOHN PORTMAN BLVD (P'TREE CTR STATION), 15.57m away; Piedmont Park, visit from 10:10 to 12:10, nearest transit: PIEDMONT AVE NE @ PRADO, 407.10m away; Kevin Rathbun Steak, visit from 13:40 to 14:20, nearest transit: IRWIN ST NE @ RANDOLPH ST NE, 465.73m away"
+  }
+]

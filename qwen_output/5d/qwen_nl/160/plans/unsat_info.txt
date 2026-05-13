@@ -1,0 +1,9 @@
+not ok
+Unsatisfiable core:
+valid attraction index
+valid travel date
+travel end date
+valid flight index for flight 2
+visit city in cities list
+attraction in which city
+non repeating attraction index

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Amarillo",
+    "transportation": "Taxi from Oklahoma City to Amarillo, duration: 268.945, distance: 415.9372, cost : 415.0",
+    "breakfast": "-",
+    "lunch": "Ohms Cafe & Catering, Amarillo",
+    "dinner": "Coyote Bluff Cafe, Amarillo",
+    "attraction": "Route 66 Historic District, Amarillo",
+    "accommodation": "🌺 KiKi’s Kottage \n2/BR 2/Bath\nRenovated 1920’s Gem, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "🌺 KiKi’s Kottage \n2/BR 2/Bath\nRenovated 1920’s Gem, stay from 12:30 to 13:00, nearest transit: SW 10th Ave & Bryan, 375.74m away; Ohms Cafe & Catering, Amarillo, visit from 13:30 to 14:30, ; Route 66 Historic District, Amarillo, visit from 15:00 to 18:30, ; Coyote Bluff Cafe, Amarillo, visit from 19:00 to 20:15, ; 🌺 KiKi’s Kottage \n2/BR 2/Bath\nRenovated 1920’s Gem, stay from 20:45 to 07:37, nearest transit: SW 10th Ave & Bryan, 375.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Metropolitan, Amarillo",
+    "lunch": "Golden Light Cafe & Cantina, Amarillo",
+    "dinner": "Drunken Oyster, Amarillo",
+    "attraction": "-",
+    "accommodation": "🌺 KiKi’s Kottage \n2/BR 2/Bath\nRenovated 1920’s Gem, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "🌺 KiKi’s Kottage \n2/BR 2/Bath\nRenovated 1920’s Gem, stay from 08:07 to 08:37, nearest transit: SW 10th Ave & Bryan, 375.74m away; Metropolitan, Amarillo, visit from 09:07 to 09:57, ; Golden Light Cafe & Cantina, Amarillo, visit from 14:30 to 15:30, ; Drunken Oyster, Amarillo, visit from 19:31 to 23:30, ; 🌺 KiKi’s Kottage \n2/BR 2/Bath\nRenovated 1920’s Gem, stay from 00:00 to 08:00, nearest transit: SW 10th Ave & Bryan, 375.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F1098240, from Amarillo to Houston, Departure Time: 13:35, Arrival Time: 15:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Merrill & Houston's Steak Joint, Houston",
+    "attraction": "-",
+    "accommodation": "Charming Studio Apt in the heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "🌺 KiKi’s Kottage \n2/BR 2/Bath\nRenovated 1920’s Gem, stay from 08:30 to 09:00, nearest transit: SW 10th Ave & Bryan, 375.74m away; Charming Studio Apt in the heart of the Heights, stay from 16:06 to 16:36, nearest transit: E 20th St @ Oxford St, 367.79m away; Merrill & Houston's Steak Joint, Houston, visit from 19:00 to 20:15, ; Charming Studio Apt in the heart of the Heights, stay from 20:45 to 04:45, nearest transit: E 20th St @ Oxford St, 367.79m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Charming Studio Apt in the heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Charming Studio Apt in the heart of the Heights, stay from 06:00 to 06:30, nearest transit: E 20th St @ Oxford St, 367.79m away; Pappas Bros. Steakhouse, Houston, visit from 08:05 to 09:59, ; Eddie V's Prime Seafood, Houston, visit from 14:00 to 15:00, ; Downtown Aquarium, Houston, visit from 15:30 to 19:00, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 19:30 to 20:45, ; Charming Studio Apt in the heart of the Heights, stay from 21:15 to 05:15, nearest transit: E 20th St @ Oxford St, 367.79m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Oklahoma City",
+    "transportation": "Taxi from Houston to Oklahoma City, duration: 471.9616666666667, distance: 715.9145, cost : 715.0",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Houston White Co, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charming Studio Apt in the heart of the Heights, stay from 06:00 to 08:39, nearest transit: E 20th St @ Oxford St, 367.79m away; Pappadeaux Seafood Kitchen, Houston, visit from 09:09 to 09:59, ; Brennan's of Houston, Houston, visit from 14:00 to 15:00, ; Hermann Park, Houston, visit from 15:30 to 19:00, ; Houston White Co, Houston, visit from 19:30 to 20:45, "
+  }
+]

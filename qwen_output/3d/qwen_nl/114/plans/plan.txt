@@ -1,0 +1,6 @@
+Destination cities: ['Nantucket'],
+Transportation dates: ['2024-11-02', '2024-11-04'],
+Transportation methods between cities: ['Flight Number: F1703223, from Washington to Nantucket, Departure Time: 08:01, Arrival Time: 09:22', 'Flight Number: F1701497, from Nantucket to Washington, Departure Time: 17:05, Arrival Time: 18:34'],
+Restaurants (3 meals per day): ['Ventuno, Nantucket', 'Ships Inn Restaurant, Nantucket', 'Le Languedoc Inn & Bistro, Nantucket', 'Brant Point Grill, Nantucket', 'The Summer House Restaurant, Nantucket', 'The Proprietors Bar and Table, Nantucket', "Topper's, Nantucket", 'Company of the Cauldron, Nantucket', 'The Chanticleer, Nantucket'],
+Attractions (1 per day): ['Sankaty Head Lighthouse, Nantucket', 'Whaling Museum, Nantucket', 'Great Point Light, Nantucket'],
+Accommodations (1 per city): ['PRICE-DROP! New construction home Mid-island, Nantucket']

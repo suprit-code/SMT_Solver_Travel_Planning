@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Madison",
+    "transportation": "Flight Number: F3922063, from Chicago to Madison, Departure Time: 15:29, Arrival Time: 16:27",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Babcock Hall Dairy Store, Madison",
+    "attraction": "-",
+    "accommodation": "Newly Renovated Bed & Bath in the Heart of Madison, Madison",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Bed & Bath in the Heart of Madison, stay from 16:57 to 17:27, nearest transit: Godfrey Walmart, 460295.14m away; Babcock Hall Dairy Store, Madison, visit from 19:00 to 20:15, ; Newly Renovated Bed & Bath in the Heart of Madison, stay from 20:45 to 04:45, nearest transit: Godfrey Walmart, 460295.14m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Madison",
+    "transportation": "-",
+    "breakfast": "Mickies Dairy Bar, Madison",
+    "lunch": "The Old Fashioned, Madison",
+    "dinner": "Avra Madison Estiatorio, Madison",
+    "attraction": "Henry Vilas Zoo, Madison",
+    "accommodation": "Newly Renovated Bed & Bath in the Heart of Madison, Madison",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Bed & Bath in the Heart of Madison, stay from 06:00 to 06:30, nearest transit: Godfrey Walmart, 460295.14m away; Mickies Dairy Bar, Madison, visit from 08:32 to 10:00, ; Henry Vilas Zoo, Madison, visit from 10:30 to 14:00, ; The Old Fashioned, Madison, visit from 14:30 to 16:44, ; Avra Madison Estiatorio, Madison, visit from 20:45 to 23:10, ; Newly Renovated Bed & Bath in the Heart of Madison, stay from 23:40 to 07:40, nearest transit: Godfrey Walmart, 460295.14m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Madison to Chicago",
+    "transportation": "Flight Number: F0394615, from Madison to Chicago, Departure Time: 18:26, Arrival Time: 19:20",
+    "breakfast": "Greenbush Bakery Inc, Madison",
+    "lunch": "Graze Restaurant, Madison",
+    "dinner": "-",
+    "attraction": "Wisconsin State Capitol, Madison",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Newly Renovated Bed & Bath in the Heart of Madison, stay from 08:10 to 08:40, nearest transit: Godfrey Walmart, 460295.14m away; Greenbush Bakery Inc, Madison, visit from 09:10 to 10:00, ; Wisconsin State Capitol, Madison, visit from 10:30 to 14:00, ; Graze Restaurant, Madison, visit from 14:30 to 16:46, "
+  }
+]

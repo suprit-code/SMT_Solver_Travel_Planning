@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Greensboro",
+    "transportation": "Taxi from Oklahoma City to Greensboro, duration: 1238.14, distance: 1848.9622, cost : 1848.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 03:08 to 03:38, nearest transit: Glendale/Randleman Rd., 155.05m away; A little Southern Hospitality, stay from 04:08 to 08:00, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Sarah's Kabob Shop, Greensboro",
+    "lunch": "Mythos Grill, Greensboro",
+    "dinner": "Chez Genese, Greensboro",
+    "attraction": "-",
+    "accommodation": "A little Southern Hospitality, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 08:30 to 09:00, nearest transit: Glendale/Randleman Rd., 155.05m away; Sarah's Kabob Shop, Greensboro, visit from 09:35 to 10:25, ; Mythos Grill, Greensboro, visit from 14:26 to 15:26, ; Chez Genese, Greensboro, visit from 19:27 to 20:42, ; A little Southern Hospitality, stay from 21:12 to 05:12, nearest transit: Glendale/Randleman Rd., 155.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Mimi's Cafe, Greensboro",
+    "lunch": "Lucky 32 Southern Kitchen, Greensboro",
+    "dinner": "-",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "Serendipitous Studio - Entire Place, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "A little Southern Hospitality, stay from 06:00 to 06:30, nearest transit: Glendale/Randleman Rd., 155.05m away; Mimi's Cafe, Greensboro, visit from 08:00 to 08:50, ; International Civil Rights Center & Museum, Greensboro, visit from 09:20 to 12:50, ; Lucky 32 Southern Kitchen, Greensboro, visit from 13:47 to 14:47, ; Serendipitous Studio - Entire Place, stay from 19:45 to 20:15, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; Serendipitous Studio - Entire Place, stay from 22:30 to 07:33, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Winnie's Tavern, Wilmington",
+    "lunch": "Szechuan 132, Wilmington",
+    "dinner": "Catch, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "Serendipitous Studio - Entire Place, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Serendipitous Studio - Entire Place, stay from 08:03 to 08:33, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; Winnie's Tavern, Wilmington, visit from 09:03 to 09:53, ; Battleship North Carolina, Wilmington, visit from 10:23 to 14:00, ; Szechuan 132, Wilmington, visit from 14:30 to 15:30, ; Catch, Wilmington, visit from 20:45 to 23:09, ; Serendipitous Studio - Entire Place, stay from 23:39 to 07:39, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F2327718, from Wilmington to Charlotte, Departure Time: 20:02, Arrival Time: 20:57",
+    "breakfast": "The Anchor, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "-",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Private room in apt uptown, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Serendipitous Studio - Entire Place, stay from 08:09 to 08:39, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; The Anchor, Wilmington, visit from 09:09 to 09:59, ; Flaming Amy's Burrito Barn, Wilmington, visit from 14:00 to 15:00, ; Burgwin-Wright House and Gardens, Wilmington, visit from 15:30 to 19:32, ; Private room in apt uptown, stay from 21:27 to 21:57, nearest transit: Mint St CityLYNX, 60.17m away; Private room in apt uptown, stay from 22:27 to 06:27, nearest transit: Mint St CityLYNX, 60.17m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Charlotte Plummer's Seafare Restaurant, Charlotte",
+    "lunch": "Midwood Smokehouse, Charlotte",
+    "dinner": "Mac's Speed Shop, Charlotte",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "Private room in apt uptown, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Private room in apt uptown, stay from 06:57 to 07:27, nearest transit: Mint St CityLYNX, 60.17m away; Charlotte Plummer's Seafare Restaurant, Charlotte, visit from 08:07 to 08:57, ; Mint Museum Uptown, Charlotte, visit from 09:27 to 13:29, ; Midwood Smokehouse, Charlotte, visit from 13:59 to 14:59, ; Mac's Speed Shop, Charlotte, visit from 19:00 to 20:15, ; Private room in apt uptown, stay from 20:45 to 04:45, nearest transit: Mint St CityLYNX, 60.17m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Oklahoma City",
+    "transportation": "Taxi from Charlotte to Oklahoma City, duration: 1194.2333333333331, distance: 1762.3656, cost : 1762.0",
+    "breakfast": "The Capital Grille, Charlotte",
+    "lunch": "Charlotte Bakery, Charlotte",
+    "dinner": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "attraction": "Truist Field, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private room in apt uptown, stay from 06:00 to 06:30, nearest transit: Mint St CityLYNX, 60.17m away; The Capital Grille, Charlotte, visit from 08:00 to 08:50, ; Charlotte Bakery, Charlotte, visit from 12:51 to 13:51, ; Truist Field, Charlotte, visit from 14:21 to 17:51, ; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

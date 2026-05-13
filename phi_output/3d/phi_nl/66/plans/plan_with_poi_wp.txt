@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Seattle",
+    "transportation": "Flight Number: F3507982, from Raleigh to Seattle, Departure Time: 07:27, Arrival Time: 10:26",
+    "breakfast": "-",
+    "lunch": "Chan Seattle, Seattle",
+    "dinner": "13 Coins Restaurant, Seattle",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 10:56 to 13:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Chan Seattle, Seattle, visit from 14:00 to 15:00, ; Seattle Aquarium, Seattle, visit from 15:30 to 20:15, ; 13 Coins Restaurant, Seattle, visit from 20:45 to 22:38, ; Cozy room near UW, stay from 23:08 to 07:08, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Vons 1000 Spirits, Seattle",
+    "lunch": "Rocco's, Seattle",
+    "dinner": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:38 to 08:08, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Vons 1000 Spirits, Seattle, visit from 08:38 to 09:59, ; Rocco's, Seattle, visit from 14:00 to 15:00, ; Woodland Park Zoo, Seattle, visit from 15:30 to 20:15, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 20:45 to 22:43, ; Cozy room near UW, stay from 23:13 to 07:13, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Raleigh",
+    "transportation": "Flight Number: F3512440, from Seattle to Raleigh, Departure Time: 15:33, Arrival Time: 23:31",
+    "breakfast": "The Crab Pot Seafood Restaurant, Seattle",
+    "lunch": "Noi Thai Cuisine, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:43 to 08:13, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; The Crab Pot Seafood Restaurant, Seattle, visit from 08:43 to 09:33, ; Seattle Center, Seattle, visit from 10:03 to 13:33, ; Noi Thai Cuisine, Seattle, visit from 14:03 to 15:03, "
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Redding', 'Sacramento'],
+Transportation dates: ['2024-11-23', '2024-11-25', '2024-11-27'],
+Transportation methods between cities: ['taxi, from Everett to Redding, duration: 733.8283333333333, distance: 1001.6498, cost: 1001', 'taxi, from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost: 259', 'taxi, from Sacramento to Everett, duration: 905.6966666666668, distance: 1256.0839, cost: 1256'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Janya Thai Cusine, Redding', 'deja vu, Redding', 'New China, Redding', 'View 202, Redding', 'Los Gordos, Redding', "Jack's Grill, Redding", 'Pilothouse Restaurant on the Delta King, Sacramento', 'Bacon & Butter, Sacramento', 'Tower Cafe, Sacramento', 'Il Fornaio, Sacramento', 'Cafeteria 15L, Sacramento', 'The Firehouse Restaurant, Sacramento'],
+Attractions (1 per day): ['-', 'Sundial Bridge, Redding', 'Turtle Bay Exploration Park, Redding', 'Sacramento History Museum, Sacramento', 'Old Sacramento, Sacramento'],
+Accommodations (1 per city): ['Berit’s Place ~ Oasis with Scenic Views, Redding', 'Sac City Loft, Sacramento']

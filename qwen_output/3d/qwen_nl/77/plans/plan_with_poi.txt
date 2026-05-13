@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Tampa",
+    "transportation": "Self-driving from Raleigh to Tampa, duration: 728.44, distance: 1044.7846, cost : 52.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bernini Restaurant, Tampa",
+    "attraction": "-",
+    "accommodation": "Tiny House 15 min to Busch Gardens! Walk to coffee, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Tiny House 15 min to Busch Gardens! Walk to coffee, stay from 19:45 to 20:15, nearest transit: Busch Gardens Employee Entrance, 6885.43m away; Bernini Restaurant, Tampa, visit from 20:45 to 22:03, ; Tiny House 15 min to Busch Gardens! Walk to coffee, stay from 22:33 to 06:33, nearest transit: Busch Gardens Employee Entrance, 6885.43m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Eddie V's Prime Seafood, Tampa",
+    "lunch": "Green Lemon, Tampa",
+    "dinner": "Yummy House China Bistro, Tampa",
+    "attraction": "ZooTampa At Lowry Park, Tampa",
+    "accommodation": "Tiny House 15 min to Busch Gardens! Walk to coffee, Tampa",
+    "event": "-",
+    "point_of_interest_list": "Tiny House 15 min to Busch Gardens! Walk to coffee, stay from 07:03 to 07:33, nearest transit: Busch Gardens Employee Entrance, 6885.43m away; Eddie V's Prime Seafood, Tampa, visit from 08:03 to 10:00, ; ZooTampa At Lowry Park, Tampa, visit from 10:30 to 14:00, ; Green Lemon, Tampa, visit from 14:30 to 16:44, ; Yummy House China Bistro, Tampa, visit from 20:45 to 23:30, ; Tiny House 15 min to Busch Gardens! Walk to coffee, stay from 00:00 to 08:00, nearest transit: Busch Gardens Employee Entrance, 6885.43m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Raleigh",
+    "transportation": "Self-driving from Tampa to Raleigh, duration: 729.0883333333334, distance: 1036.5089, cost : 51.0",
+    "breakfast": "Curry Leaves Indian Cuisine, Tampa",
+    "lunch": "-",
+    "dinner": "Ocean Prime, Tampa",
+    "attraction": "Glazer Children's Museum, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tiny House 15 min to Busch Gardens! Walk to coffee, stay from 08:30 to 09:00, nearest transit: Busch Gardens Employee Entrance, 6885.43m away; Curry Leaves Indian Cuisine, Tampa, visit from 09:30 to 10:20, ; Glazer Children's Museum, Tampa, visit from 10:50 to 14:20, ; Ocean Prime, Tampa, visit from 19:22 to 20:37, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Las Vegas to Kansas City",
+    "transportation": "Self-driving, from Las Vegas to Kansas City, duration: 1384.365, distance: 2172.5743, cost: 108",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Room 15 at Waypoint Manor, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Room 15 at Waypoint Manor, stay from 08:00 to 08:30, nearest transit: ON 12TH AT AGNES WESTBOUND, 215.04m away; Room 15 at Waypoint Manor, stay from 23:00 to 08:00, nearest transit: ON 12TH AT AGNES WESTBOUND, 215.04m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "The Big Biscuit, Kansas City",
+    "lunch": "Trezo Mare Restaurant & Lounge, Kansas City",
+    "dinner": "Garozzo's Ristorante, Kansas City",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "Room 15 at Waypoint Manor, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Room 15 at Waypoint Manor, stay from 08:00 to 08:30, nearest transit: ON 12TH AT AGNES WESTBOUND, 215.04m away; The Big Biscuit, visit from 09:00 to 09:40, nearest transit: ON BOARDWALK AT 8501 NB, 166.95m away; Tom's Town Distilling Co., visit from 10:10 to 12:10, nearest transit: KAUFFMAN CENTER ON MAIN AT 16TH ST SB, 116.42m away; Trezo Mare Restaurant & Lounge, visit from 13:40 to 14:20, nearest transit: ON N OAK AT N EVANSDALE SOUTHBOUND, 1731.93m away; Garozzo's Ristorante, visit from 19:00 to 19:40, nearest transit: ON INDEPENDENCE AVE AT CAMPBELL WESTBOUND, 249.38m away; Room 15 at Waypoint Manor, stay from 23:00 to 08:00, nearest transit: ON 12TH AT AGNES WESTBOUND, 215.04m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Las Vegas",
+    "transportation": "Self-driving, from Kansas City to Las Vegas, duration: 1382.5316666666663, distance: 2173.3572000000004, cost: 108",
+    "breakfast": "Grunauer, Kansas City",
+    "lunch": "KC Chop House, Kansas City",
+    "dinner": "Char Bar - Westport, Kansas City",
+    "attraction": "Country Club Plaza, Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room 15 at Waypoint Manor, stay from 08:00 to 08:30, nearest transit: ON 12TH AT AGNES WESTBOUND, 215.04m away; Grunauer, visit from 09:00 to 09:40, nearest transit: ON SW BLVD AT CENTRAL WESTBOUND, 251.35m away; Country Club Plaza, visit from 10:10 to 12:10, nearest transit: ON 47TH AT BROADWAY WESTBOUND FARSIDE, 89.53m away; KC Chop House, visit from 13:40 to 14:20, nearest transit: ON 210 HWY AT AMERISTAR DR EASTBOUND, 675.92m away; Char Bar - Westport, visit from 19:00 to 19:40, nearest transit: ON WESTPORT AT MILL WESTBOUND, 172.08m away"
+  }
+]

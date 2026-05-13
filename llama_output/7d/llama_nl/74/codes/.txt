@@ -1,0 +1,43 @@
+
+                def run_event_search(city_ids):
+                    events = {}
+                    for city_id in city_ids:
+                        # Assume EventSearch returns a list of events for each city
+                        events[city_id] = ["Event1", "Event2", "Event3", "Event4", "Event5", "Event6", "Event7"]
+                    
+                    return events
+                
+                def set_event_in_which_city(events, cities, transportation_times):
+                    event_in_which_city = {}
+                    for i, city in enumerate(cities):
+                        event_in_which_city[i] = city
+                        for j in range(1, len(transportation_times[i])):
+                            if transportation_times[i][j] < transportation_times[i][j-1]:
+                                event_in_which_city[i] = cities[(i + 1) % len(cities)]
+                    return event_in_which_city
+                
+                def set_event_index(events, event_in_which_city, cities):
+                    event_index = {}
+                    for i, city in enumerate(cities):
+                        event_index[i] = 0
+                        for j in range(len(events[city])):
+                            if events[city][j] != events[event_in_which_city[i]]:
+                                event_index[i] = j
+                                break
+                    return event_index
+                
+                # Example usage
+                cities = [0, 1, 2]
+                transportation_times = [
+                    [10, 20, 30, 40, 50, 60, 70],  # City 0
+                    [15, 25, 35, 45, 55, 65, 75],  # City 1
+                    [12, 22, 32, 42, 52, 62, 72]   # City 2
+                ]
+                
+                events = run_event_search(cities)
+                event_in_which_city = set_event_in_which_city(events, cities, transportation_times)
+                event_index = set_event_index(events, event_in_which_city, cities)
+                
+                for i in range(len(cities)):
+                    print(f"City {i}: Event in which city = {event_in_which_city[i]}, Event index = {event_index[i]}")
+                

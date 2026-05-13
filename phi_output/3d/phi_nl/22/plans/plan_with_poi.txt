@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Portland to San Diego",
+    "transportation": "Flight Number: F2877795, from Portland to San Diego, Departure Time: 09:50, Arrival Time: 12:09",
+    "breakfast": "-",
+    "lunch": "Cafe Coyote, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 12:39 to 13:09, nearest transit: Adams Av & Biona Dr, 102.11m away; Cafe Coyote, San Diego, visit from 13:39 to 14:39, ; USS Midway Museum, San Diego, visit from 15:09 to 18:39, ; Mimmo's, San Diego, visit from 19:09 to 22:28, ; Central & Serene Secret Garden Guesthouse, stay from 22:58 to 06:58, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "El Agave Restaurant & Tequileria, San Diego",
+    "lunch": "Din Tai Fung, San Diego",
+    "dinner": "Alforon, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Central & Serene Secret Garden Guesthouse, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 07:28 to 07:58, nearest transit: Adams Av & Biona Dr, 102.11m away; El Agave Restaurant & Tequileria, San Diego, visit from 08:28 to 10:00, ; Birch Aquarium at Scripps, San Diego, visit from 10:30 to 14:00, ; Din Tai Fung, San Diego, visit from 14:30 to 15:30, ; Alforon, San Diego, visit from 19:31 to 20:46, ; Central & Serene Secret Garden Guesthouse, stay from 21:30 to 05:30, nearest transit: Adams Av & Biona Dr, 102.11m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Portland",
+    "transportation": "Flight Number: F3816250, from San Diego to Portland, Departure Time: 16:49, Arrival Time: 19:31",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "-",
+    "attraction": "Coronado Bridge, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Central & Serene Secret Garden Guesthouse, stay from 06:00 to 06:30, nearest transit: Adams Av & Biona Dr, 102.11m away; Juniper and Ivy, San Diego, visit from 08:00 to 08:50, ; Coronado Bridge, San Diego, visit from 09:20 to 12:50, ; Cowboy Star, San Diego, visit from 13:20 to 14:20, "
+  }
+]

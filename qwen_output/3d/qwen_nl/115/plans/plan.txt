@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-08', '2024-11-10'],
+Transportation methods between cities: ['Flight Number: F1973673, from Charleston to Seattle, Departure Time: 19:34, Arrival Time: 22:23', 'Flight Number: F1974763, from Seattle to Charleston, Departure Time: 09:59, Arrival Time: 18:23'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Noi Thai Cuisine, Seattle', 'All Water Seafood & Oyster Bar, Seattle', '13 Coins Restaurant, Seattle', 'The Walrus and the Carpenter, Seattle', 'Dough Zone Dumpling House - Seattle International District, Seattle', '-'],
+Attractions (1 per day): ['-', 'Klondike Gold Rush National Historical Park, Seattle', 'Pike Place Market, Seattle'],
+Accommodations (1 per city): ['Ballard Greenwood Private Suite, Seattle']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F3772502, from Hartford to Las Vegas, Departure Time: 17:08, Arrival Time: 19:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private Cozy Room with own entrance and pool ., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 19:47 to 20:17, nearest transit: The Strat, 8199.37m away; Private Cozy Room with own entrance and pool ., stay from 20:47 to 06:36, nearest transit: The Strat, 8199.37m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Carmine's, Las Vegas",
+    "lunch": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Private Cozy Room with own entrance and pool ., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 07:06 to 07:36, nearest transit: The Strat, 8199.37m away; Carmine's, Las Vegas, visit from 08:06 to 10:00, ; Gordon Ramsay Hell's Kitchen, Las Vegas, visit from 14:30 to 15:30, ; Mr. Mamas, Las Vegas, visit from 19:31 to 20:46, ; Private Cozy Room with own entrance and pool ., stay from 21:16 to 05:16, nearest transit: The Strat, 8199.37m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F3770462, from Las Vegas to Hartford, Departure Time: 21:26, Arrival Time: 05:08",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "The LINQ Promenade, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Cozy Room with own entrance and pool ., stay from 06:00 to 06:30, nearest transit: The Strat, 8199.37m away; The LINQ Promenade, Las Vegas, visit from 09:00 to 20:56, "
+  }
+]

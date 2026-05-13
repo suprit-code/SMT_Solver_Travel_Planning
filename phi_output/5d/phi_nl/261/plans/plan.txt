@@ -1,0 +1,6 @@
+Destination cities: ['Sacramento', 'San Francisco'],
+Transportation dates: ['2024-11-18', '2024-11-20', '2024-11-22'],
+Transportation methods between cities: ['Flight Number: F0097128, from Ontario to Sacramento, Departure Time: 16:00, Arrival Time: 17:18', 'Flight Number: F0459283, from Sacramento to San Francisco, Departure Time: 09:38, Arrival Time: 10:33', 'Flight Number: F1761443, from San Francisco to Ontario, Departure Time: 18:27, Arrival Time: 19:40'],
+Restaurants (3 meals per day): ['-', '-', '-', "Paesano's Pizzeria, Sacramento", 'Tower Cafe, Sacramento', 'The Firehouse Restaurant, Sacramento', 'Cafeteria 15L, Sacramento', 'Zocalo, Sacramento', "Scala's Bistro, San Francisco", 'Good Mong Kok Bakery, San Francisco', 'Kokkari Estiatorio, San Francisco', 'Hog Island Oyster Co., San Francisco', 'The Codmother Fish & Chips, San Francisco', 'Quince, San Francisco', '-'],
+Attractions (1 per day): ['Capitol Park, Sacramento', 'Old Sacramento, Sacramento', 'Twin Peaks, San Francisco', 'Alcatraz Island, San Francisco', "Fisherman's Wharf, San Francisco"],
+Accommodations (1 per city): ['Peaceful and Cozy Studio, Sacramento', '#3 SF 24th ave& kirkham st  King master bedroom, San Francisco']

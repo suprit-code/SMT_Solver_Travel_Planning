@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Francisco",
+    "transportation": "Flight Number: F3893845, from Denver to San Francisco, Departure Time: 13:32, Arrival Time: 15:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Codmother Fish & Chips, San Francisco",
+    "attraction": "Exploratorium, San Francisco",
+    "accommodation": "Immaculate studio space  with free parking, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 15:30 to 16:00, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Exploratorium, visit from 16:30 to 18:30, nearest transit: Mission @ Spear (Embarcadero), 1042.01m away; The Codmother Fish & Chips, visit from 19:00 to 19:40, nearest transit: Mission @ Spear (Embarcadero), 2616.38m away; Immaculate studio space  with free parking, stay from 23:00 to 08:00, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Harris' Restaurant - The San Francisco Steakhouse, San Francisco",
+    "lunch": "Kokkari Estiatorio, San Francisco",
+    "dinner": "Quince, San Francisco",
+    "attraction": "California Academy of Sciences, San Francisco",
+    "accommodation": "Immaculate studio space  with free parking, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 08:00 to 08:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Harris' Restaurant - The San Francisco Steakhouse, visit from 09:00 to 09:40, nearest transit: Powell @ 22 4th, 1858.31m away; California Academy of Sciences, visit from 10:10 to 12:10, nearest transit: Civic Center BART (9th and Market), 4489.93m away; Kokkari Estiatorio, visit from 13:40 to 14:20, nearest transit: Mission @ Spear (Embarcadero), 718.77m away; Quince, visit from 19:00 to 19:40, nearest transit: Mission @ Spear (Embarcadero), 994.70m away; Immaculate studio space  with free parking, stay from 23:00 to 08:00, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Denver",
+    "transportation": "Flight Number: F1817595, from San Francisco to Denver, Departure Time: 16:17, Arrival Time: 19:44",
+    "breakfast": "Fog Harbor Fish House, San Francisco",
+    "lunch": "Luisa's Restaurant Wine Bar Since 1959, San Francisco",
+    "dinner": "Waterbar, San Francisco",
+    "attraction": "Cable Car Museum, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Immaculate studio space  with free parking, stay from 08:00 to 08:30, nearest transit: 1111 8th Street (CCA/Adobe), 6782.53m away; Fog Harbor Fish House, visit from 09:00 to 09:40, nearest transit: Mission @ Spear (Embarcadero), 2323.00m away; Cable Car Museum, visit from 10:10 to 12:10, nearest transit: Powell @ 22 4th, 1145.41m away; Luisa's Restaurant Wine Bar Since 1959, visit from 12:40 to 13:20, nearest transit: Powell @ 22 4th, 1897.76m away; Waterbar, visit from 15:07 to 15:47, nearest transit: Mission @ Spear (Embarcadero), 478.55m away"
+  }
+]

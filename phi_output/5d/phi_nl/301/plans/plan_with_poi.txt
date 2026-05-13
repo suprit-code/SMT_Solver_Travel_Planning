@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Reno to San Diego",
+    "transportation": "Flight Number: F0970358, from Reno to San Diego, Departure Time: 08:33, Arrival Time: 09:51",
+    "breakfast": "-",
+    "lunch": "World Famous, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Bed in 4-Bed room in Stylish Hostel, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 10:21 to 10:51, nearest transit: Cable St & Newport Av, 118.17m away; World Famous, San Diego, visit from 12:00 to 13:00, ; San Diego Zoo, San Diego, visit from 15:30 to 20:15, ; Din Tai Fung, San Diego, visit from 20:45 to 22:16, ; Bed in 4-Bed room in Stylish Hostel, stay from 22:46 to 06:46, nearest transit: Cable St & Newport Av, 118.17m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Civico 1845, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Bed in 4-Bed room in Stylish Hostel, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 07:16 to 07:46, nearest transit: Cable St & Newport Av, 118.17m away; Juniper and Ivy, San Diego, visit from 08:16 to 09:06, ; Mimmo's, San Diego, visit from 13:07 to 14:07, ; Birch Aquarium at Scripps, San Diego, visit from 15:00 to 18:30, ; Civico 1845, San Diego, visit from 19:00 to 20:15, ; Bed in 4-Bed room in Stylish Hostel, stay from 20:45 to 05:30, nearest transit: Cable St & Newport Av, 118.17m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F2670684, from San Diego to Sacramento, Departure Time: 19:51, Arrival Time: 21:18",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "-",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 06:00 to 06:30, nearest transit: Cable St & Newport Av, 118.17m away; Lou & Mickey's, San Diego, visit from 08:00 to 09:59, ; Pacific Beach AleHouse, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 19:21, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 21:48 to 22:18, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 22:48 to 06:48, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "The Porch Restaurant and Bar, Sacramento",
+    "lunch": "The Firehouse Restaurant, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 07:18 to 07:48, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; The Porch Restaurant and Bar, Sacramento, visit from 08:49 to 09:39, ; The Firehouse Restaurant, Sacramento, visit from 13:40 to 14:40, ; California State Capitol Museum, Sacramento, visit from 15:10 to 20:15, ; Nopalitos, Sacramento, visit from 20:45 to 22:00, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 22:30 to 06:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Reno",
+    "transportation": "Taxi from Sacramento to Reno, duration: 155.59166666666667, distance: 212.9319, cost : 212.0",
+    "breakfast": "Yue Huang Restaurant, Sacramento",
+    "lunch": "Ella Dining Room & Bar, Sacramento",
+    "dinner": "Paragary's, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 07:00 to 07:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Yue Huang Restaurant, Sacramento, visit from 08:00 to 08:50, ; Capitol Park, Sacramento, visit from 09:20 to 12:50, ; Ella Dining Room & Bar, Sacramento, visit from 13:20 to 14:20, ; Paragary's, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

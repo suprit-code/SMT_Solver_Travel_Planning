@@ -1,0 +1,6 @@
+Destination cities: ['Washington'],
+Transportation dates: ['2024-11-26', '2024-11-28'],
+Transportation methods between cities: ['Self-driving, from Louisville to Washington, duration: 658.9766666666667, distance: 939.9079, cost: 46', 'Self-driving, from Washington to Louisville, duration: 658.2983333333334, distance: 939.4599, cost: 46'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Old Ebbitt Grill, Washington', 'The Pembroke, Washington', 'The Tombs, Washington', 'Jaleo by Jose Andres, Washington', 'Unconventional Diner, Washington', 'Smoke & Mirrors Rooftop Bar, Washington'],
+Attractions (1 per day): ['-', "Ford's Theatre, Washington", 'United States Botanic Garden, Washington'],
+Accommodations (1 per city): ['A Cozy room, Washington']

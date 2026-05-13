@@ -1,0 +1,6 @@
+Destination cities: ['Charlotte'],
+Transportation dates: ['2024-11-14', '2024-11-16'],
+Transportation methods between cities: ["taxi, from Martha's Vineyard to Charlotte, duration: 1122.375, distance: 1427.2972, cost: 1427", "Flight Number: F1695043, from Charlotte to Martha's Vineyard, Departure Time: 18:55, Arrival Time: 20:46"],
+Restaurants (3 meals per day): ['-', '-', '-', "Charlotte's Tavern, Charlotte", 'Midwood Smokehouse, Charlotte', "Rooster's Wood-Fired Kitchen - Uptown, Charlotte", 'Charlotte Bakery, Charlotte', 'Charlotte & Fritz, Charlotte', '-'],
+Attractions (1 per day): ['-', 'Levine Museum of the New South, Charlotte', 'Mint Museum Uptown, Charlotte'],
+Accommodations (1 per city): ['Quiet Cozy Stay in CLT, Charlotte']

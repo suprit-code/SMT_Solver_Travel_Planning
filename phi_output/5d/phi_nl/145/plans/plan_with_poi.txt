@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F0672173, from Denver to San Diego, Departure Time: 06:20, Arrival Time: 07:52",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Las Hadas Grill, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "-",
+    "accommodation": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 08:22 to 08:52, nearest transit: 30th St & Dwight St, 360.48m away; Mimmo's, San Diego, visit from 09:39 to 10:29, ; Las Hadas Grill, San Diego, visit from 14:30 to 16:44, ; Din Tai Fung, San Diego, visit from 20:45 to 23:08, ; Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 23:38 to 07:38, nearest transit: 30th St & Dwight St, 360.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Alforon, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 08:08 to 08:38, nearest transit: 30th St & Dwight St, 360.48m away; Pacific Beach AleHouse, San Diego, visit from 09:08 to 09:58, ; Alforon, San Diego, visit from 13:59 to 14:59, ; San Diego Zoo, San Diego, visit from 15:29 to 18:59, ; Lou & Mickey's, San Diego, visit from 19:29 to 20:44, ; Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 21:14 to 05:14, nearest transit: 30th St & Dwight St, 360.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Trailer Park After Dark, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relax and Enjoy!, Redding",
+    "event": "-",
+    "point_of_interest_list": "Safe Private Sanctuary - TOWER STUDIO/ Northpark, stay from 07:00 to 07:30, nearest transit: 30th St & Dwight St, 360.48m away; Trailer Park After Dark, San Diego, visit from 08:00 to 08:50, ; Relax and Enjoy!, stay from 22:40 to 23:10, nearest transit: Lake Blvd at Panorama Dr, 566.63m away; Relax and Enjoy!, stay from 23:40 to 07:40, nearest transit: Lake Blvd at Panorama Dr, 566.63m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Sweetie's Cafe & Catering, Redding",
+    "lunch": "Trendy's, Redding",
+    "dinner": "Final Draft Brewing Company, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Relax and Enjoy!, Redding",
+    "event": "-",
+    "point_of_interest_list": "Relax and Enjoy!, stay from 08:10 to 08:40, nearest transit: Lake Blvd at Panorama Dr, 566.63m away; Sweetie's Cafe & Catering, Redding, visit from 09:10 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; Trendy's, Redding, visit from 14:30 to 15:30, ; Final Draft Brewing Company, Redding, visit from 19:45 to 21:00, ; Relax and Enjoy!, stay from 21:30 to 05:30, nearest transit: Lake Blvd at Panorama Dr, 566.63m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Denver",
+    "transportation": "Taxi from Redding to Denver, duration: 1285.4166666666667, distance: 1981.5151, cost : 1981.0",
+    "breakfast": "Los Gordos, Redding",
+    "lunch": "Priya Indian Cuisine, Redding",
+    "dinner": "New China, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Relax and Enjoy!, stay from 06:00 to 06:30, nearest transit: Lake Blvd at Panorama Dr, 566.63m away; Los Gordos, Redding, visit from 08:00 to 08:50, ; Priya Indian Cuisine, Redding, visit from 12:51 to 13:51, ; Sundial Bridge, Redding, visit from 14:21 to 17:51, ; New China, Redding, visit from 19:00 to 20:15, "
+  }
+]

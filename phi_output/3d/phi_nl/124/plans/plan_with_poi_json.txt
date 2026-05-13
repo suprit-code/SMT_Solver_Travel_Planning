@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Jackson to Atlanta",
+    "transportation": "Flight Number: F3965490, from Jackson to Atlanta, Departure Time: 15:25, Arrival Time: 17:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Steamhouse Lounge, Atlanta",
+    "lunch": "Fox Bros. Bar-B-Q, Atlanta",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 08:00 to 08:30, nearest transit: CASCADE AVE SW @ 1113, 82.40m away; Steamhouse Lounge, visit from 09:00 to 09:40, nearest transit: W PEACHTREE ST @ 12TH ST, 93.00m away; Zoo Atlanta, visit from 10:10 to 12:10, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; Fox Bros. Bar-B-Q, visit from 13:40 to 14:20, nearest transit: MORELAND AVE @ 299, 219.31m away; Aviva by Kameel, visit from 19:00 to 19:40, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 23:00 to 08:00, nearest transit: CASCADE AVE SW @ 1113, 82.40m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Jackson",
+    "transportation": "Flight Number: F3970669, from Atlanta to Jackson, Departure Time: 19:10, Arrival Time: 19:19",
+    "breakfast": "Home Grown, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "-",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 08:00 to 08:30, nearest transit: CASCADE AVE SW @ 1113, 82.40m away; Home Grown, visit from 09:00 to 09:40, nearest transit: MEMORIAL DR SE @ GIBSON ST SE, 49.17m away; Georgia Aquarium, visit from 10:10 to 12:10, nearest transit: IVAN ALLEN JR BLVD NW @ LUCKIE ST, 131.37m away; Cafe Agora, visit from 13:40 to 14:20, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away"
+  }
+]

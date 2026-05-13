@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F1622986, from Denver to San Diego, Departure Time: 11:46, Arrival Time: 12:50",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Big Bay Views, San Diego Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 13:20 to 13:50, nearest transit: Rosecrans St & Talbot St, 129.96m away; Cabrillo National Monument, San Diego, visit from 15:30 to 19:00, ; Cowboy Star, San Diego, visit from 19:30 to 20:45, ; Big Bay Views, San Diego Bay, stay from 22:58 to 06:58, nearest transit: Rosecrans St & Talbot St, 129.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Lou & Mickey's, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Big Bay Views, San Diego Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 07:28 to 07:58, nearest transit: Rosecrans St & Talbot St, 129.96m away; Juniper and Ivy, San Diego, visit from 08:28 to 09:29, ; Lou & Mickey's, San Diego, visit from 13:30 to 14:30, ; SeaWorld, San Diego, visit from 15:00 to 18:30, ; Addison Restaurant, San Diego, visit from 19:00 to 20:15, ; Big Bay Views, San Diego Bay, stay from 22:31 to 06:31, nearest transit: Rosecrans St & Talbot St, 129.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Denver",
+    "transportation": "Flight Number: F0521299, from San Diego to Denver, Departure Time: 18:22, Arrival Time: 21:30",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Mister A'S, San Diego",
+    "dinner": "-",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 07:01 to 07:31, nearest transit: Rosecrans St & Talbot St, 129.96m away; Born & Raised, San Diego, visit from 08:01 to 08:51, ; Mister A'S, San Diego, visit from 12:52 to 13:52, ; Birch Aquarium at Scripps, San Diego, visit from 14:22 to 17:52, "
+  }
+]

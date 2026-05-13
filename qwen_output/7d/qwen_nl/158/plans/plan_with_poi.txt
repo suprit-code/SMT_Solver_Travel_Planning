@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to San Diego",
+    "transportation": "Flight Number: F2895037, from Boston to San Diego, Departure Time: 09:37, Arrival Time: 12:34",
+    "breakfast": "-",
+    "lunch": "World Famous, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "-",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 13:04 to 13:34, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; World Famous, San Diego, visit from 14:30 to 16:44, ; Juniper and Ivy, San Diego, visit from 20:45 to 23:10, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 23:40 to 07:40, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Ruth's Chris Steak House, San Diego",
+    "dinner": "The Butcher Shop, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 08:10 to 08:40, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Born & Raised, San Diego, visit from 09:10 to 10:00, ; Cabrillo National Monument, San Diego, visit from 10:30 to 14:00, ; Ruth's Chris Steak House, San Diego, visit from 14:30 to 16:44, ; The Butcher Shop, San Diego, visit from 20:45 to 22:34, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 23:04 to 07:04, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Mister A'S, San Diego",
+    "lunch": "-",
+    "dinner": "Sauced BBQ & Spirits, Sacramento",
+    "attraction": "-",
+    "accommodation": "Life Along River - Private Bed 'N Bath MB Suite, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 07:34 to 08:04, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Mister A'S, San Diego, visit from 08:34 to 09:24, ; Life Along River - Private Bed 'N Bath MB Suite, stay from 19:45 to 20:15, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; Sauced BBQ & Spirits, Sacramento, visit from 20:45 to 22:19, ; Life Along River - Private Bed 'N Bath MB Suite, stay from 22:49 to 06:49, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Mikuni Japanese Restaurant & Sushi Bar, Sacramento",
+    "lunch": "Ella Dining Room & Bar, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "Old Sacramento, Sacramento",
+    "accommodation": "Life Along River - Private Bed 'N Bath MB Suite, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Life Along River - Private Bed 'N Bath MB Suite, stay from 07:19 to 07:49, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; Mikuni Japanese Restaurant & Sushi Bar, Sacramento, visit from 08:19 to 09:09, ; Old Sacramento, Sacramento, visit from 09:39 to 13:09, ; Ella Dining Room & Bar, Sacramento, visit from 13:39 to 14:39, ; Nopalitos, Sacramento, visit from 19:00 to 20:15, ; Life Along River - Private Bed 'N Bath MB Suite, stay from 20:45 to 05:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Taxi from Sacramento to Los Angeles, duration: 423.9133333333333, distance: 617.7728000000001, cost : 617.0",
+    "breakfast": "The Firehouse Restaurant, Sacramento",
+    "lunch": "Zocalo, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "5 star guest suite in L.A.'s  best location, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Life Along River - Private Bed 'N Bath MB Suite, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 912.62m away; The Firehouse Restaurant, Sacramento, visit from 08:00 to 08:50, ; Capitol Park, Sacramento, visit from 09:20 to 12:50, ; Zocalo, Sacramento, visit from 13:20 to 14:20, ; 5 star guest suite in L.A.'s  best location, stay from 22:24 to 22:54, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away; 5 star guest suite in L.A.'s  best location, stay from 23:24 to 07:40, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "22nd Street Landing Seafood Grill & Bar, Los Angeles",
+    "lunch": "The Butcher's Daughter, Los Angeles",
+    "dinner": "Providence, Los Angeles",
+    "attraction": "Hollywood Sign, Los Angeles",
+    "accommodation": "5 star guest suite in L.A.'s  best location, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "5 star guest suite in L.A.'s  best location, stay from 08:10 to 08:40, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away; 22nd Street Landing Seafood Grill & Bar, Los Angeles, visit from 09:10 to 10:00, ; Hollywood Sign, Los Angeles, visit from 10:30 to 14:00, ; The Butcher's Daughter, Los Angeles, visit from 14:30 to 15:30, ; Providence, Los Angeles, visit from 19:31 to 20:46, ; 5 star guest suite in L.A.'s  best location, stay from 21:16 to 05:16, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Boston",
+    "transportation": "Flight Number: F3328892, from Los Angeles to Boston, Departure Time: 13:06, Arrival Time: 21:20",
+    "breakfast": "The Palm - L.A. Downtown, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "5 star guest suite in L.A.'s  best location, stay from 06:00 to 06:30, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away; The Palm - L.A. Downtown, Los Angeles, visit from 08:00 to 08:50, "
+  }
+]

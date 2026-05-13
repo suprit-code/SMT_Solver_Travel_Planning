@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Wichita",
+    "transportation": "Flight Number: F2463339, from Houston to Wichita, Departure Time: 16:19, Arrival Time: 17:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Beacon Restaurant, Wichita",
+    "attraction": "-",
+    "accommodation": "Downtown Retreat, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Downtown Retreat, stay from 18:22 to 18:52, nearest transit: Emporia and Lincoln IB, 233.24m away; Beacon Restaurant, Wichita, visit from 19:22 to 22:08, ; Downtown Retreat, stay from 22:38 to 06:38, nearest transit: Emporia and Lincoln IB, 233.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wichita",
+    "transportation": "-",
+    "breakfast": "Doo-Dah Diner, Wichita",
+    "lunch": "Cafe Bel Ami, Wichita",
+    "dinner": "Whiskey Dicks, Wichita",
+    "attraction": "Wichita Art Museum, Wichita",
+    "accommodation": "Downtown Retreat, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Downtown Retreat, stay from 07:08 to 07:38, nearest transit: Emporia and Lincoln IB, 233.24m away; Doo-Dah Diner, Wichita, visit from 08:08 to 08:58, ; Cafe Bel Ami, Wichita, visit from 12:59 to 13:59, ; Wichita Art Museum, Wichita, visit from 14:29 to 17:59, ; Whiskey Dicks, Wichita, visit from 19:00 to 20:15, ; Downtown Retreat, stay from 20:45 to 04:45, nearest transit: Emporia and Lincoln IB, 233.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wichita to Houston",
+    "transportation": "Flight Number: F1088823, from Wichita to Houston, Departure Time: 16:40, Arrival Time: 18:32",
+    "breakfast": "Puero Vallarta Mexican Restaurant, Wichita",
+    "lunch": "Chester's Chophouse and Wine Bar, Wichita",
+    "dinner": "-",
+    "attraction": "Mid-America All-Indian Center, Wichita",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Retreat, stay from 06:00 to 06:30, nearest transit: Emporia and Lincoln IB, 233.24m away; Puero Vallarta Mexican Restaurant, Wichita, visit from 08:00 to 08:50, ; Mid-America All-Indian Center, Wichita, visit from 09:20 to 12:50, ; Chester's Chophouse and Wine Bar, Wichita, visit from 13:20 to 14:20, "
+  }
+]

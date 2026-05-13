@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Wilmington",
+    "transportation": "Self-driving from Boston to Wilmington, duration: 962.64, distance: 1302.4002, cost : 65.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 22:40 to 23:10, nearest transit: Market St WB at 12th St, 326.9m away; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 23:40 to 07:40, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "The Anchor, Wilmington",
+    "lunch": "Flaming Amy's Burrito Barn, Wilmington",
+    "dinner": "The Basics, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "The Zen Den - A quaint Private Oasis room w/ Bath, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 08:10 to 08:40, nearest transit: Market St WB at 12th St, 326.9m away; The Anchor, Wilmington, visit from 09:10 to 10:00, ; Burgwin-Wright House and Gardens, Wilmington, visit from 10:30 to 14:00, ; Flaming Amy's Burrito Barn, Wilmington, visit from 14:30 to 15:30, ; The Basics, Wilmington, visit from 19:31 to 20:46, ; The Zen Den - A quaint Private Oasis room w/ Bath, stay from 21:16 to 07:39, nearest transit: Market St WB at 12th St, 326.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wilmington to Boston",
+    "transportation": "Self-driving from Wilmington to Boston, duration: 960.1366666666668, distance: 1295.6133, cost : 64.0",
+    "breakfast": "Winnie's Tavern, Wilmington",
+    "lunch": "Iron Hill Brewery & Restaurant, Wilmington",
+    "dinner": "Casey's Buffet Barbecue & Home Cookin, Wilmington",
+    "attraction": "Battleship North Carolina, Wilmington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Zen Den - A quaint Private Oasis room w/ Bath, stay from 08:09 to 08:39, nearest transit: Market St WB at 12th St, 326.9m away; Winnie's Tavern, Wilmington, visit from 09:09 to 09:59, ; Iron Hill Brewery & Restaurant, Wilmington, visit from 14:00 to 15:00, ; Battleship North Carolina, Wilmington, visit from 15:30 to 19:00, ; Casey's Buffet Barbecue & Home Cookin, Wilmington, visit from 19:30 to 20:45, "
+  }
+]

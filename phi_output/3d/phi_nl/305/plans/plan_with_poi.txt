@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Francisco",
+    "transportation": "Flight Number: F2851309, from Miami to San Francisco, Departure Time: 23:51, Arrival Time: 02:41",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "#3 SF 24th ave& kirkham st  King master bedroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "#3 SF 24th ave& kirkham st  King master bedroom, stay from 03:11 to 03:41, nearest transit: Civic Center BART (9th and Market), 6053.71m away; #3 SF 24th ave& kirkham st  King master bedroom, stay from 04:11 to 08:00, nearest transit: Civic Center BART (9th and Market), 6053.71m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Capital Restaurant, San Francisco",
+    "lunch": "Waterbar, San Francisco",
+    "dinner": "Fog Harbor Fish House, San Francisco",
+    "attraction": "-",
+    "accommodation": "#3 SF 24th ave& kirkham st  King master bedroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "#3 SF 24th ave& kirkham st  King master bedroom, stay from 08:30 to 09:00, nearest transit: Civic Center BART (9th and Market), 6053.71m away; Capital Restaurant, San Francisco, visit from 09:39 to 10:29, ; Waterbar, San Francisco, visit from 14:30 to 15:30, ; Fog Harbor Fish House, San Francisco, visit from 19:31 to 20:46, ; #3 SF 24th ave& kirkham st  King master bedroom, stay from 21:16 to 05:16, nearest transit: Civic Center BART (9th and Market), 6053.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Miami",
+    "transportation": "Flight Number: F3706059, from San Francisco to Miami, Departure Time: 13:14, Arrival Time: 21:15",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#3 SF 24th ave& kirkham st  King master bedroom, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 6053.71m away; Quince, San Francisco, visit from 08:00 to 08:50, "
+  }
+]

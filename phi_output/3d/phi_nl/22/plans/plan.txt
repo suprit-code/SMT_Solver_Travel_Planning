@@ -1,0 +1,6 @@
+Destination cities: ['San Diego'],
+Transportation dates: ['2024-11-04', '2024-11-06'],
+Transportation methods between cities: ['Flight Number: F2877795, from Portland to San Diego, Departure Time: 09:50, Arrival Time: 12:09', 'Flight Number: F3816250, from San Diego to Portland, Departure Time: 16:49, Arrival Time: 19:31'],
+Restaurants (3 meals per day): ['-', 'Cafe Coyote, San Diego', "Mimmo's, San Diego", 'El Agave Restaurant & Tequileria, San Diego', 'Din Tai Fung, San Diego', 'Alforon, San Diego', 'Juniper and Ivy, San Diego', 'Cowboy Star, San Diego', "Lou & Mickey's, San Diego"],
+Attractions (1 per day): ['USS Midway Museum, San Diego', 'Birch Aquarium at Scripps, San Diego', 'Coronado Bridge, San Diego'],
+Accommodations (1 per city): ['Central & Serene Secret Garden Guesthouse, San Diego']

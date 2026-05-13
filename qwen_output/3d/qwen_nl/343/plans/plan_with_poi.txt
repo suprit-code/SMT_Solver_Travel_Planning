@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Wichita",
+    "transportation": "Self-driving from Denver to Wichita, duration: 533.1016666666667, distance: 834.2885, cost : 41.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy Spacious Wizard of Oz themed Tiny House, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Cozy Spacious Wizard of Oz themed Tiny House, stay from 19:45 to 20:15, nearest transit: Ross Pkwy and Hillside IB, 736.33m away; Cozy Spacious Wizard of Oz themed Tiny House, stay from 23:12 to 07:40, nearest transit: Ross Pkwy and Hillside IB, 736.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Wichita",
+    "transportation": "-",
+    "breakfast": "Bite Me BBQ, Wichita",
+    "lunch": "Doo-Dah Diner, Wichita",
+    "dinner": "Beacon Restaurant, Wichita",
+    "attraction": "Wichita Art Museum, Wichita",
+    "accommodation": "Cozy Spacious Wizard of Oz themed Tiny House, Wichita",
+    "event": "-",
+    "point_of_interest_list": "Cozy Spacious Wizard of Oz themed Tiny House, stay from 08:10 to 08:40, nearest transit: Ross Pkwy and Hillside IB, 736.33m away; Bite Me BBQ, Wichita, visit from 09:10 to 10:00, ; Wichita Art Museum, Wichita, visit from 10:30 to 14:00, ; Doo-Dah Diner, Wichita, visit from 14:30 to 15:30, ; Beacon Restaurant, Wichita, visit from 19:31 to 20:46, ; Cozy Spacious Wizard of Oz themed Tiny House, stay from 21:16 to 05:16, nearest transit: Ross Pkwy and Hillside IB, 736.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Wichita to Denver",
+    "transportation": "Self-driving from Wichita to Denver, duration: 533.3983333333333, distance: 834.7207, cost : 41.0",
+    "breakfast": "Old Mill Tasty Shop, Wichita",
+    "lunch": "Little Saigon, Wichita",
+    "dinner": "Puero Vallarta Mexican Restaurant, Wichita",
+    "attraction": "Mid-America All-Indian Center, Wichita",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Spacious Wizard of Oz themed Tiny House, stay from 06:00 to 06:30, nearest transit: Ross Pkwy and Hillside IB, 736.33m away; Old Mill Tasty Shop, Wichita, visit from 08:00 to 08:50, ; Little Saigon, Wichita, visit from 12:51 to 13:51, ; Mid-America All-Indian Center, Wichita, visit from 14:21 to 17:51, ; Puero Vallarta Mexican Restaurant, Wichita, visit from 19:00 to 20:15, "
+  }
+]

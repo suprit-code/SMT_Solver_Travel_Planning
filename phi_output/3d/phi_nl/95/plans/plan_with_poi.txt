@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boise to Atlanta",
+    "transportation": "Flight Number: F1286239, from Boise to Atlanta, Departure Time: 23:59, Arrival Time: 05:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Urban Nature Retreat |  Pets | Insurance, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Urban Nature Retreat |  Pets | Insurance, stay from 06:17 to 06:47, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away; Urban Nature Retreat |  Pets | Insurance, stay from 07:17 to 08:00, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Kevin Rathbun Steak, Atlanta",
+    "lunch": "The Capital Grille, Atlanta",
+    "dinner": "Cafe Agora, Atlanta",
+    "attraction": "-",
+    "accommodation": "Urban Nature Retreat |  Pets | Insurance, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Urban Nature Retreat |  Pets | Insurance, stay from 08:30 to 09:00, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away; Kevin Rathbun Steak, Atlanta, visit from 09:39 to 10:29, ; The Capital Grille, Atlanta, visit from 14:30 to 15:30, ; Cafe Agora, Atlanta, visit from 19:31 to 20:46, ; Urban Nature Retreat |  Pets | Insurance, stay from 21:16 to 05:30, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Boise",
+    "transportation": "Flight Number: F1295674, from Atlanta to Boise, Departure Time: 20:21, Arrival Time: 22:34",
+    "breakfast": "Aviva by Kameel, Atlanta",
+    "lunch": "Home Grown, Atlanta",
+    "dinner": "-",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Urban Nature Retreat |  Pets | Insurance, stay from 06:00 to 06:30, nearest transit: HOWELL MILL RD NW @ ANTONE ST NW, 147.67m away; Aviva by Kameel, Atlanta, visit from 08:00 to 09:59, ; Home Grown, Atlanta, visit from 14:00 to 15:00, ; Centennial Olympic Park, Atlanta, visit from 15:30 to 19:00, "
+  }
+]

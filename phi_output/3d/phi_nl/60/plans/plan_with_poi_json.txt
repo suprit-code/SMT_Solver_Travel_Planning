@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Kansas City",
+    "transportation": "Flight Number: F2071796, from Detroit to Kansas City, Departure Time: 08:23, Arrival Time: 09:21",
+    "breakfast": "The Capital Grille, Kansas City",
+    "lunch": "Grunauer, Kansas City",
+    "dinner": "801 Chophouse, Kansas City",
+    "attraction": "Country Club Plaza, Kansas City",
+    "accommodation": "Beautiful large King bedroom with luxury bedding, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Beautiful large King bedroom with luxury bedding, stay from 09:51 to 10:21, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away; The Capital Grille, visit from 10:51 to 11:31, nearest transit: ON 47TH AT BROADWAY WESTBOUND FARSIDE, 233.22m away; Country Club Plaza, visit from 12:01 to 14:01, nearest transit: ON 47TH AT BROADWAY WESTBOUND FARSIDE, 89.53m away; Grunauer, visit from 14:50 to 15:30, nearest transit: ON SW BLVD AT CENTRAL WESTBOUND, 251.35m away; 801 Chophouse, visit from 19:30 to 20:10, nearest transit: POWER & LIGHT ON MAIN AT 14TH ST NB, 66.86m away; Beautiful large King bedroom with luxury bedding, stay from 23:00 to 08:00, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Q39 - Midtown, Kansas City",
+    "lunch": "Bella Napoli, Kansas City",
+    "dinner": "KC Chop House, Kansas City",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "Beautiful large King bedroom with luxury bedding, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Beautiful large King bedroom with luxury bedding, stay from 08:00 to 08:30, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away; Q39 - Midtown, visit from 09:00 to 09:40, nearest transit: ON 39TH AT ROANOKE WESTBOUND, 130.85m away; Tom's Town Distilling Co., visit from 10:10 to 12:10, nearest transit: KAUFFMAN CENTER ON MAIN AT 16TH ST SB, 116.42m away; Bella Napoli, visit from 13:40 to 14:20, nearest transit: ON 63RD AT BROOKSIDE EASTBOUND, 54.91m away; KC Chop House, visit from 19:00 to 19:40, nearest transit: ON 210 HWY AT AMERISTAR DR EASTBOUND, 675.92m away; Beautiful large King bedroom with luxury bedding, stay from 23:00 to 08:00, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Detroit",
+    "transportation": "Flight Number: F1261403, from Kansas City to Detroit, Departure Time: 17:32, Arrival Time: 20:19",
+    "breakfast": "Bristol Seafood + Steak + Social, Kansas City",
+    "lunch": "Fogo de Chao Brazilian Steakhouse, Kansas City",
+    "dinner": "-",
+    "attraction": "Crown Center, Kansas City",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful large King bedroom with luxury bedding, stay from 08:00 to 08:30, nearest transit: AT DOUGLAS HEIGHTS 40TH & LAWRENCE, 4074.75m away; Bristol Seafood + Steak + Social, visit from 09:00 to 09:40, nearest transit: POWER & LIGHT ON MAIN AT 14TH ST NB, 41.80m away; Crown Center, visit from 10:10 to 12:10, nearest transit: ON GRAND AT 26TH SOUTHBOUND, 215.60m away; Fogo de Chao Brazilian Steakhouse, visit from 13:40 to 14:20, nearest transit: ON 47TH AT CENTRAL EASTBOUND FARSIDE, 52.77m away"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to San Diego",
+    "transportation": "Flight Number: F0268435, from Boston to San Diego, Departure Time: 08:48, Arrival Time: 12:12",
+    "breakfast": "-",
+    "lunch": "Ruth's Chris Steak House, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 12:42 to 13:30, nearest transit: Upas St & 30th St, 403.13m away; Ruth's Chris Steak House, San Diego, visit from 14:00 to 15:00, ; Cabrillo National Monument, San Diego, visit from 15:30 to 19:00, ; Addison Restaurant, San Diego, visit from 19:45 to 21:00, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 21:30 to 05:30, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Juniper and Ivy, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Award-Winning, Family-Friendly 2BR on Balboa Park, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 06:00 to 06:30, nearest transit: Upas St & 30th St, 403.13m away; Lou & Mickey's, San Diego, visit from 09:09 to 09:59, ; Juniper and Ivy, San Diego, visit from 14:00 to 15:00, ; San Diego Zoo, San Diego, visit from 15:30 to 19:00, ; Morning Glory, San Diego, visit from 19:30 to 20:45, ; Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 22:30 to 06:30, nearest transit: Upas St & 30th St, 403.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Mister A'S, San Diego",
+    "lunch": "-",
+    "dinner": "Il Fornaio, Sacramento",
+    "attraction": "-",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Award-Winning, Family-Friendly 2BR on Balboa Park, stay from 07:00 to 07:30, nearest transit: Upas St & 30th St, 403.13m away; Mister A'S, San Diego, visit from 08:00 to 09:24, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 19:45 to 20:15, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Il Fornaio, Sacramento, visit from 20:45 to 23:10, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 23:40 to 07:40, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Echo and Rig, Sacramento",
+    "lunch": "Dawson's Steakhouse, Sacramento",
+    "dinner": "The Kitchen Restaurant, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 08:10 to 08:40, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Echo and Rig, Sacramento, visit from 09:10 to 10:00, ; California State Capitol Museum, Sacramento, visit from 10:30 to 14:00, ; Dawson's Steakhouse, Sacramento, visit from 14:30 to 15:30, ; The Kitchen Restaurant, Sacramento, visit from 19:31 to 20:46, ; Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 21:16 to 05:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Taxi from Sacramento to Los Angeles, duration: 423.9133333333333, distance: 617.7728000000001, cost : 617.0",
+    "breakfast": "Ella Dining Room & Bar, Sacramento",
+    "lunch": "Grange Restaurant & Bar, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Oceanfront Sunset Serenity in Malibu, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Modern-Fully Loaded-EV Charger-Big Yard-10 Min DT, stay from 06:00 to 06:30, nearest transit: RIVERSIDE BLVD & DARNEL WAY (SB), 709.03m away; Ella Dining Room & Bar, Sacramento, visit from 08:00 to 08:50, ; Capitol Park, Sacramento, visit from 09:20 to 12:50, ; Grange Restaurant & Bar, Sacramento, visit from 13:20 to 14:20, ; Oceanfront Sunset Serenity in Malibu, stay from 22:23 to 22:53, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away; Oceanfront Sunset Serenity in Malibu, stay from 23:23 to 07:23, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Patina Restaurant, Los Angeles",
+    "lunch": "Katsuya, Los Angeles",
+    "dinner": "Yamashiro Hollywood, Los Angeles",
+    "attraction": "Venice Canals Walkway, Los Angeles",
+    "accommodation": "Oceanfront Sunset Serenity in Malibu, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Oceanfront Sunset Serenity in Malibu, stay from 07:53 to 08:23, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away; Patina Restaurant, Los Angeles, visit from 09:08 to 09:58, ; Katsuya, Los Angeles, visit from 13:59 to 14:59, ; Venice Canals Walkway, Los Angeles, visit from 15:29 to 18:59, ; Yamashiro Hollywood, Los Angeles, visit from 19:29 to 20:44, ; Oceanfront Sunset Serenity in Malibu, stay from 21:14 to 05:14, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Boston",
+    "transportation": "Flight Number: F1560955, from Los Angeles to Boston, Departure Time: 11:55, Arrival Time: 20:09",
+    "breakfast": "Spire 73, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Oceanfront Sunset Serenity in Malibu, stay from 08:30 to 09:00, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away; Spire 73, Los Angeles, visit from 09:40 to 11:25, "
+  }
+]

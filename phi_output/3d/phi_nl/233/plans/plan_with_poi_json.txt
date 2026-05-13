@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Shreveport to Los Angeles",
+    "transportation": "Flight Number: F1339573, from Shreveport to Los Angeles, Departure Time: 12:48, Arrival Time: 13:49",
+    "breakfast": "-",
+    "lunch": "Musso & Frank Grill, Los Angeles",
+    "dinner": "Patina Restaurant, Los Angeles",
+    "attraction": "Hollywood Sign, Los Angeles",
+    "accommodation": "5 star guest suite in L.A.'s  best location, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "5 star guest suite in L.A.'s  best location, stay from 14:19 to 14:49, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away; Musso & Frank Grill, visit from 15:19 to 15:59, nearest transit: Hollywood & Whitley St., 204.74m away; Hollywood Sign, visit from 16:29 to 18:29, nearest transit:  Beachwood & Westshire , 1574.74m away; Patina Restaurant, visit from 19:59 to 20:39, nearest transit: Grand Ave & 2nd St, 62.65m away; 5 star guest suite in L.A.'s  best location, stay from 23:00 to 08:00, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "71Above Restaurant and Skylounge, Los Angeles",
+    "lunch": "Water Grill, Los Angeles",
+    "dinner": "The Lobster, Los Angeles",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "5 star guest suite in L.A.'s  best location, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "5 star guest suite in L.A.'s  best location, stay from 08:00 to 08:30, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away; 71Above Restaurant and Skylounge, visit from 09:00 to 09:40, nearest transit: Flower St & 4th St, 55.68m away; Walt Disney Concert Hall, visit from 10:10 to 12:10, nearest transit: Hope St & 1st St (Northbound), 80.77m away; Water Grill, visit from 13:40 to 14:20, nearest transit: 6th St & Grand Ave (Eastbound), 102.29m away; The Lobster, visit from 19:00 to 19:40, nearest transit: Pacific Ave & Washington Blvd (Arriving), 4397.54m away; 5 star guest suite in L.A.'s  best location, stay from 23:00 to 08:00, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Shreveport",
+    "transportation": "Flight Number: F2561207, from Los Angeles to Shreveport, Departure Time: 06:29, Arrival Time: 11:47",
+    "breakfast": "Spire 73, Los Angeles",
+    "lunch": "n/naka, Los Angeles",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Savannah",
+    "transportation": "Flight Number: F0500662, from Denver to Savannah, Departure Time: 09:36, Arrival Time: 14:38",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bella Napoli Italian Bistro, Savannah",
+    "attraction": "Wormsloe Historic Site, Savannah",
+    "accommodation": "Beautiful Sunny  Room, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 15:08 to 15:38, nearest transit: MLK & 37th NB, 104.53m away; Wormsloe Historic Site, visit from 16:08 to 18:08, nearest transit: MONTGOMERY CROSS & BILLINGS EB, 1349.81m away; Bella Napoli Italian Bistro, visit from 19:00 to 19:40, nearest transit: DRAYTON & BROUGHTON, 69.34m away; Beautiful Sunny  Room, stay from 23:00 to 08:00, nearest transit: MLK & 37th NB, 104.53m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "Vinnie Van Go-Go's, Savannah",
+    "lunch": "Goose Feathers Cafe & Bakery, Savannah",
+    "dinner": "Belford's Savannah, Savannah",
+    "attraction": "First African Baptist Church, Savannah",
+    "accommodation": "Beautiful Sunny  Room, Savannah",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 08:00 to 08:30, nearest transit: MLK & 37th NB, 104.53m away; Vinnie Van Go-Go's, visit from 09:00 to 09:40, nearest transit: CONGRESS & JEFFERSON, 133.92m away; First African Baptist Church, visit from 10:10 to 12:10, nearest transit: CONGRESS & JEFFERSON, 193.92m away; Goose Feathers Cafe & Bakery, visit from 13:40 to 14:20, nearest transit: CONGRESS & JEFFERSON, 51.14m away; Belford's Savannah, visit from 19:00 to 19:40, nearest transit: CONGRESS & JEFFERSON, 121.72m away; Beautiful Sunny  Room, stay from 23:00 to 08:00, nearest transit: MLK & 37th NB, 104.53m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Denver",
+    "transportation": "Flight Number: F0614770, from Savannah to Denver, Departure Time: 16:09, Arrival Time: 18:12",
+    "breakfast": "Huey's On The River, Savannah",
+    "lunch": "The Public Kitchen & Bar, Savannah",
+    "dinner": "-",
+    "attraction": "Skidaway Island State Park, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Beautiful Sunny  Room, stay from 08:00 to 08:30, nearest transit: MLK & 37th NB, 104.53m away; Huey's On The River, visit from 09:00 to 09:40, nearest transit: CONGRESS & BULL, 254.45m away; Skidaway Island State Park, visit from 10:10 to 12:10, nearest transit: WALMART ON MONTGOMERY CROSS, 5664.70m away; The Public Kitchen & Bar, visit from 13:40 to 14:20, nearest transit: LIBERTY & WHITAKER, 102.38m away"
+  }
+]

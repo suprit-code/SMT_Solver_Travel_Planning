@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Reno to San Diego",
+    "transportation": "Flight Number: F0970358, from Reno to San Diego, Departure Time: 08:33, Arrival Time: 09:51",
+    "breakfast": "-",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 10:21 to 10:51, nearest transit: Jewell St & Garnet Av, 578.25m away; Cowboy Star, San Diego, visit from 12:00 to 13:00, ; SeaWorld, San Diego, visit from 13:30 to 20:15, ; Din Tai Fung, San Diego, visit from 20:45 to 22:00, ; charming, colorful, close to beach, stay from 23:29 to 07:29, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "charming, colorful, close to beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 07:59 to 08:29, nearest transit: Jewell St & Garnet Av, 578.25m away; Ruth's Chris Steak House, San Diego, visit from 08:59 to 09:49, ; Born & Raised, San Diego, visit from 13:50 to 14:50, ; San Diego Zoo, San Diego, visit from 15:20 to 18:50, ; Addison Restaurant, San Diego, visit from 19:20 to 20:35, ; charming, colorful, close to beach, stay from 21:05 to 07:40, nearest transit: Jewell St & Garnet Av, 578.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F1765858, from San Diego to Sacramento, Departure Time: 18:20, Arrival Time: 19:51",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Mister A'S, San Diego",
+    "dinner": "-",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "★Luxurious Top-Floor, Balcony View, Private Bath★, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "charming, colorful, close to beach, stay from 08:10 to 08:40, nearest transit: Jewell St & Garnet Av, 578.25m away; Lou & Mickey's, San Diego, visit from 09:10 to 10:00, ; Birch Aquarium at Scripps, San Diego, visit from 10:30 to 14:00, ; Mister A'S, San Diego, visit from 14:30 to 15:30, ; ★Luxurious Top-Floor, Balcony View, Private Bath★, stay from 20:21 to 20:51, nearest transit: Q ST & 5TH ST (EB), 9.45m away; ★Luxurious Top-Floor, Balcony View, Private Bath★, stay from 22:39 to 06:39, nearest transit: Q ST & 5TH ST (EB), 9.45m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Grange Restaurant & Bar, Sacramento",
+    "lunch": "The Waterboy, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "★Luxurious Top-Floor, Balcony View, Private Bath★, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "★Luxurious Top-Floor, Balcony View, Private Bath★, stay from 07:09 to 07:39, nearest transit: Q ST & 5TH ST (EB), 9.45m away; Grange Restaurant & Bar, Sacramento, visit from 08:09 to 09:59, ; The Waterboy, Sacramento, visit from 14:00 to 15:00, ; California State Capitol Museum, Sacramento, visit from 15:30 to 19:00, ; Nopalitos, Sacramento, visit from 19:30 to 20:45, ; ★Luxurious Top-Floor, Balcony View, Private Bath★, stay from 21:15 to 05:15, nearest transit: Q ST & 5TH ST (EB), 9.45m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Reno",
+    "transportation": "Taxi from Sacramento to Reno, duration: 155.59166666666667, distance: 212.9319, cost : 212.0",
+    "breakfast": "The Firehouse Restaurant, Sacramento",
+    "lunch": "Paragary's, Sacramento",
+    "dinner": "Ella Dining Room & Bar, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "★Luxurious Top-Floor, Balcony View, Private Bath★, stay from 06:00 to 06:30, nearest transit: Q ST & 5TH ST (EB), 9.45m away; The Firehouse Restaurant, Sacramento, visit from 08:00 to 08:50, ; Paragary's, Sacramento, visit from 12:51 to 13:51, ; Capitol Park, Sacramento, visit from 14:21 to 17:51, ; Ella Dining Room & Bar, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

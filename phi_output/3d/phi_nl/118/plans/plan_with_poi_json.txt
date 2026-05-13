@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Portland",
+    "transportation": "Flight Number: F0253972, from Boston to Portland, Departure Time: 07:36, Arrival Time: 11:20",
+    "breakfast": "-",
+    "lunch": "Restaurant Murata, Portland",
+    "dinner": "Southpark Seafood, Portland",
+    "attraction": "Portland Discovery Land & Sea Tours, Portland",
+    "accommodation": "Lovely Private Room & Bath in SE (South Tabor), Portland",
+    "event": "-",
+    "point_of_interest_list": "Lovely Private Room & Bath in SE (South Tabor), stay from 11:50 to 12:20, nearest transit: 207 GANNETT DR, 4081465.84m away; Restaurant Murata, visit from 12:50 to 13:30, nearest transit: 207 GANNETT DR, 4086478.61m away; Portland Discovery Land & Sea Tours, visit from 14:00 to 16:00, nearest transit: TEMPLE ST + FORE ST, 232.81m away; Southpark Seafood, visit from 19:00 to 19:40, nearest transit: 207 GANNETT DR, 4086587.78m away; Lovely Private Room & Bath in SE (South Tabor), stay from 23:00 to 08:00, nearest transit: 207 GANNETT DR, 4081465.84m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Portland",
+    "transportation": "-",
+    "breakfast": "Sayler's Old Country Kitchen, Portland",
+    "lunch": "Portland City Grill, Portland",
+    "dinner": "Tin Shed Garden Cafe, Portland",
+    "attraction": "Pittock Mansion, Portland",
+    "accommodation": "Lovely Private Room & Bath in SE (South Tabor), Portland",
+    "event": "-",
+    "point_of_interest_list": "Lovely Private Room & Bath in SE (South Tabor), stay from 08:00 to 08:30, nearest transit: 207 GANNETT DR, 4081465.84m away; Sayler's Old Country Kitchen, visit from 09:00 to 09:40, nearest transit: 207 GANNETT DR, 4077006.53m away; Pittock Mansion, visit from 10:10 to 12:10, nearest transit: 207 GANNETT DR, 4088901.91m away; Portland City Grill, visit from 13:40 to 14:20, nearest transit: 207 GANNETT DR, 4085973.03m away; Tin Shed Garden Cafe, visit from 19:00 to 19:40, nearest transit: 207 GANNETT DR, 4082943.40m away; Lovely Private Room & Bath in SE (South Tabor), stay from 23:00 to 08:00, nearest transit: 207 GANNETT DR, 4081465.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Portland to Boston",
+    "transportation": "Flight Number: F0254738, from Portland to Boston, Departure Time: 10:04, Arrival Time: 18:26",
+    "breakfast": "Cheryl's on 12th, Portland",
+    "lunch": "Higgins Restaurant and Bar, Portland",
+    "dinner": "Frank's Noodle House, Portland",
+    "attraction": "Washington Park, Portland",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

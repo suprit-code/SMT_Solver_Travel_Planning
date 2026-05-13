@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sitka to Seattle",
+    "transportation": "Flight Number: F2878676, from Sitka to Seattle, Departure Time: 13:45, Arrival Time: 17:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 17:33 to 18:03, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Noi Thai Cuisine, Seattle, visit from 20:45 to 23:10, ; Cozy room near UW, stay from 23:40 to 07:40, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Chan Seattle, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "Vons 1000 Spirits, Seattle",
+    "attraction": "The Museum of Flight, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:10 to 08:40, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Chan Seattle, Seattle, visit from 09:10 to 10:00, ; The Museum of Flight, Seattle, visit from 10:30 to 14:00, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 14:30 to 15:30, ; Vons 1000 Spirits, Seattle, visit from 19:31 to 20:46, ; Cozy room near UW, stay from 21:16 to 05:16, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Sitka",
+    "transportation": "Flight Number: F2337064, from Seattle to Sitka, Departure Time: 17:12, Arrival Time: 18:31",
+    "breakfast": "-",
+    "lunch": "Bacco Cafe, Seattle",
+    "dinner": "-",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Klondike Gold Rush National Historical Park, Seattle, visit from 09:00 to 12:30, ; Bacco Cafe, Seattle, visit from 13:00 to 14:00, "
+  }
+]

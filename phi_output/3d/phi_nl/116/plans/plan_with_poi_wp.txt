@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Colorado Springs",
+    "transportation": "Flight Number: F0011833, from Chicago to Colorado Springs, Departure Time: 08:52, Arrival Time: 10:24",
+    "breakfast": "-",
+    "lunch": "Prime 25, Colorado Springs",
+    "dinner": "Uchenna, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "Creekside Cowboy Cabin with 360° Mountain Views, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Creekside Cowboy Cabin with 360° Mountain Views, stay from 10:54 to 11:24, nearest transit: Ruxton/Fairview, 10061.41m away; Prime 25, Colorado Springs, visit from 12:00 to 13:00, ; Seven Falls, Colorado Springs, visit from 15:30 to 20:15, ; Uchenna, Colorado Springs, visit from 20:45 to 22:04, ; Creekside Cowboy Cabin with 360° Mountain Views, stay from 22:34 to 06:34, nearest transit: Ruxton/Fairview, 10061.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Restaurant 1858, Colorado Springs",
+    "lunch": "Denver Biscuit Company, Colorado Springs",
+    "dinner": "Mountain Shadows Restaurant, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "Creekside Cowboy Cabin with 360° Mountain Views, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Creekside Cowboy Cabin with 360° Mountain Views, stay from 07:04 to 07:34, nearest transit: Ruxton/Fairview, 10061.41m away; Restaurant 1858, Colorado Springs, visit from 08:04 to 08:54, ; Garden of the Gods, Colorado Springs, visit from 09:24 to 12:54, ; Denver Biscuit Company, Colorado Springs, visit from 13:24 to 14:24, ; Mountain Shadows Restaurant, Colorado Springs, visit from 19:00 to 20:15, ; Creekside Cowboy Cabin with 360° Mountain Views, stay from 20:45 to 04:45, nearest transit: Ruxton/Fairview, 10061.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Colorado Springs to Chicago",
+    "transportation": "Flight Number: F2664912, from Colorado Springs to Chicago, Departure Time: 17:13, Arrival Time: 20:21",
+    "breakfast": "Cowboy Star, Colorado Springs",
+    "lunch": "MacKenzie's Chop House, Colorado Springs",
+    "dinner": "-",
+    "attraction": "U.S. Olympic & Paralympic Museum, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Creekside Cowboy Cabin with 360° Mountain Views, stay from 06:00 to 06:30, nearest transit: Ruxton/Fairview, 10061.41m away; Cowboy Star, Colorado Springs, visit from 08:00 to 08:50, ; U.S. Olympic & Paralympic Museum, Colorado Springs, visit from 09:20 to 12:50, ; MacKenzie's Chop House, Colorado Springs, visit from 13:20 to 14:20, "
+  }
+]

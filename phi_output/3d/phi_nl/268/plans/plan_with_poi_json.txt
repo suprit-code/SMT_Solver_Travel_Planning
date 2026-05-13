@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from St. Louis to Atlanta",
+    "transportation": "Flight Number: F1311495, from St. Louis to Atlanta, Departure Time: 05:39, Arrival Time: 08:00",
+    "breakfast": "Ray's in the City, Atlanta",
+    "lunch": "Aviva by Kameel, Atlanta",
+    "dinner": "No Mas! Cantina, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 08:30 to 09:00, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away; Ray's in the City, visit from 09:30 to 10:10, nearest transit: PEACHTREE ST @ JOHN PORTMAN BLVD (P'TREE CTR STATION), 15.57m away; Atlanta History Center, visit from 10:40 to 12:40, nearest transit: PEACHTREE RD @ BUCKHEAD AVE NE, 610.21m away; Aviva by Kameel, visit from 14:10 to 14:50, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away; No Mas! Cantina, visit from 19:00 to 19:40, nearest transit: PETERS ST SW @ HAYNES ST SW, 123.79m away; Tiny House Retreat * Stock Tank Pool, stay from 23:00 to 08:00, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Fox Bros. Bar-B-Q, Atlanta",
+    "lunch": "La Grotta Ristorante Italiano, Atlanta",
+    "dinner": "Max's Coal Oven Pizzeria, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Tiny House Retreat * Stock Tank Pool, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 08:00 to 08:30, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away; Fox Bros. Bar-B-Q, visit from 09:00 to 09:40, nearest transit: MORELAND AVE @ 299, 219.31m away; Zoo Atlanta, visit from 10:10 to 12:10, nearest transit: CHEROKEE AVE @ GRANT PARK PL, 195.14m away; La Grotta Ristorante Italiano, visit from 13:40 to 14:20, nearest transit: PEACHTREE RD @ 2626, 100.85m away; Max's Coal Oven Pizzeria, visit from 19:00 to 19:40, nearest transit: MARIETTA ST @ BAKER ST NW, 33.64m away; Tiny House Retreat * Stock Tank Pool, stay from 23:00 to 08:00, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to St. Louis",
+    "transportation": "Flight Number: F1271024, from Atlanta to St. Louis, Departure Time: 18:38, Arrival Time: 19:02",
+    "breakfast": "Cafe Agora, Atlanta",
+    "lunch": "Bone's Restaurant, Atlanta",
+    "dinner": "-",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tiny House Retreat * Stock Tank Pool, stay from 08:00 to 08:30, nearest transit: WHITEFOORD AVE @ FINLEY ST, 103.10m away; Cafe Agora, visit from 09:00 to 09:40, nearest transit: PEACHTREE ST @ PEACHTREE PL, 29.31m away; Centennial Olympic Park, visit from 10:10 to 12:10, nearest transit: MARIETTA ST @ PARK AVE WEST, 143.86m away; Bone's Restaurant, visit from 13:40 to 14:20, nearest transit: PIEDMONT RD NE @ MARTINA DR NE, 47.52m away"
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Atlanta'],
+Transportation dates: ['2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F3553116, from Milwaukee to Atlanta, Departure Time: 10:41, Arrival Time: 13:51', 'Flight Number: F2983765, from Atlanta to Milwaukee, Departure Time: 17:51, Arrival Time: 18:46'],
+Restaurants (3 meals per day): ['-', 'The Optimist, Atlanta', 'Steamhouse Lounge, Atlanta', 'Fox Bros. Bar-B-Q, Atlanta', 'Cafe Agora, Atlanta', 'Home Grown, Atlanta', 'Kevin Rathbun Steak, Atlanta', 'Aviva by Kameel, Atlanta', '-'],
+Attractions (1 per day): ['Centennial Olympic Park, Atlanta', 'Atlanta History Center, Atlanta', 'Georgia Aquarium, Atlanta'],
+Accommodations (1 per city): ['Historic Lounge - Private BR in the Heart of ATL#2, Atlanta']

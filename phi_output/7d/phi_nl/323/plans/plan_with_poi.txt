@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Missoula to San Diego",
+    "transportation": "Taxi from Missoula to San Diego, duration: 1287.4516666666668, distance: 2046.9017, cost : 2046.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private Hideaway, Shelter Island, Beach  & Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 03:57 to 04:27, nearest transit: Canon St & Evergreen St, 448.33m away; Private Hideaway, Shelter Island, Beach  & Bay, stay from 04:57 to 08:00, nearest transit: Canon St & Evergreen St, 448.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "dinner": "Alforon, San Diego",
+    "attraction": "-",
+    "accommodation": "Private Hideaway, Shelter Island, Beach  & Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 08:30 to 09:00, nearest transit: Canon St & Evergreen St, 448.33m away; Mimmo's, San Diego, visit from 09:39 to 10:29, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 14:30 to 16:06, ; Alforon, San Diego, visit from 20:07 to 21:22, ; Private Hideaway, Shelter Island, Beach  & Bay, stay from 21:52 to 05:52, nearest transit: Canon St & Evergreen St, 448.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Meze Greek Fusion, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The God Spa, Redding",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 06:22 to 08:05, nearest transit: Canon St & Evergreen St, 448.33m away; Meze Greek Fusion, San Diego, visit from 08:35 to 09:25, ; The God Spa, stay from 22:40 to 23:10, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; The God Spa, stay from 23:40 to 07:40, nearest transit: Twin View Blvd at Midway Dr, 557.67m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Thai Hut, Redding",
+    "lunch": "Fratelli’s Pizza Parlour, Redding",
+    "dinner": "Karlines, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "The God Spa, Redding",
+    "event": "-",
+    "point_of_interest_list": "The God Spa, stay from 08:10 to 08:40, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; Thai Hut, Redding, visit from 09:10 to 10:00, ; Sundial Bridge, Redding, visit from 10:30 to 14:00, ; Fratelli’s Pizza Parlour, Redding, visit from 14:30 to 15:44, ; Karlines, Redding, visit from 19:45 to 21:00, ; The God Spa, stay from 21:30 to 05:30, nearest transit: Twin View Blvd at Midway Dr, 557.67m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Taxi from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 259.0",
+    "breakfast": "Mosaic, Redding",
+    "lunch": "Woody's Brewing Co, Redding",
+    "dinner": "Yue Huang Restaurant, Sacramento",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "The God Spa, stay from 06:00 to 06:30, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; Mosaic, Redding, visit from 08:00 to 10:00, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; Woody's Brewing Co, Redding, visit from 14:30 to 15:30, ; Modern Apt Near Downtown Sac, stay from 19:26 to 19:56, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Yue Huang Restaurant, Sacramento, visit from 20:26 to 21:41, ; Modern Apt Near Downtown Sac, stay from 22:11 to 07:33, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Mikuni Japanese Restaurant & Sushi Bar, Sacramento",
+    "lunch": "The Kitchen Restaurant, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Modern Apt Near Downtown Sac, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 08:03 to 08:33, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Mikuni Japanese Restaurant & Sushi Bar, Sacramento, visit from 09:03 to 09:53, ; The Kitchen Restaurant, Sacramento, visit from 13:54 to 14:54, ; California State Capitol Museum, Sacramento, visit from 15:24 to 20:15, ; Nopalitos, Sacramento, visit from 20:45 to 23:10, ; Modern Apt Near Downtown Sac, stay from 23:40 to 07:40, nearest transit: 3RD ST & V ST (SB), 1612.57m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Missoula",
+    "transportation": "Taxi from Sacramento to Missoula, duration: 1008.1316666666668, distance: 1443.0388, cost : 1443.0",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "Firestone Public House, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Apt Near Downtown Sac, stay from 08:10 to 08:40, nearest transit: 3RD ST & V ST (SB), 1612.57m away; Paesano's Pizzeria, Sacramento, visit from 09:10 to 10:00, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; Firestone Public House, Sacramento, visit from 14:30 to 16:46, "
+  }
+]

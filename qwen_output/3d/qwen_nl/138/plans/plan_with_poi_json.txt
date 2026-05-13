@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Colorado Springs",
+    "transportation": "Flight Number: F1809643, from Chicago to Colorado Springs, Departure Time: 09:53, Arrival Time: 11:24",
+    "breakfast": "-",
+    "lunch": "Jack Quinn's Irish Pub & Restaurant, Colorado Springs",
+    "dinner": "Prime 25, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "Casa De Mariposas, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 11:49 to 12:09, nearest transit: Galley/Ford, 862.13m away; Jack Quinn's Irish Pub & Restaurant, visit from 12:34 to 13:14, nearest transit: Cascade/Colorado, 158.03m away; Garden of the Gods, visit from 13:39 to 15:39, nearest transit: Fillmore/Grand Vista, 1350.56m away; Prime 25, visit from 19:00 to 19:40, nearest transit: Brookside/Cascade, 181.96m away; Casa De Mariposas, stay from 20:05 to 08:00, nearest transit: Galley/Ford, 862.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "The Melting Pot, Colorado Springs",
+    "lunch": "Mountain Shadows Restaurant, Colorado Springs",
+    "dinner": "Colorado Mountain Brewery, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "Casa De Mariposas, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 08:00 to 08:30, nearest transit: Galley/Ford, 862.13m away; The Melting Pot, visit from 08:55 to 09:35, nearest transit: Cascade/Colorado, 160.80m away; Seven Falls, visit from 10:00 to 12:00, nearest transit: Mesa/Lake, 2799.21m away; Mountain Shadows Restaurant, visit from 13:35 to 14:15, nearest transit: Colorado/23rd, 76.10m away; Colorado Mountain Brewery, visit from 19:00 to 19:40, nearest transit: Research/Telstar, 4124.23m away; Casa De Mariposas, stay from 20:05 to 08:00, nearest transit: Galley/Ford, 862.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Colorado Springs to Chicago",
+    "transportation": "Flight Number: F2664912, from Colorado Springs to Chicago, Departure Time: 17:13, Arrival Time: 20:21",
+    "breakfast": "Marigold Cafe & Bakery, Colorado Springs",
+    "lunch": "Summit at The Broadmoor, Colorado Springs",
+    "dinner": "-",
+    "attraction": "U.S. Olympic & Paralympic Museum, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Casa De Mariposas, stay from 08:00 to 08:30, nearest transit: Galley/Ford, 862.13m away; Marigold Cafe & Bakery, visit from 08:55 to 09:35, nearest transit: 4710 Centennial, 86.84m away; U.S. Olympic & Paralympic Museum, visit from 10:00 to 12:00, nearest transit: Colorado/Sahwatch, 350.50m away; Summit at The Broadmoor, visit from 13:35 to 14:15, nearest transit: Broadmoor Hotel, 68.55m away"
+  }
+]

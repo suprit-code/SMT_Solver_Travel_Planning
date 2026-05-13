@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Lexington",
+    "transportation": "Self-driving from Detroit to Lexington, duration: 387.0566666666667, distance: 548.257, cost : 27.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Carson's Food & Drink - On Main, Lexington",
+    "attraction": "Lexington Brewing & Distilling Co., Lexington",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 13:30 to 14:00, nearest transit: Chandler Hospital, 202.96m away; Lexington Brewing & Distilling Co., Lexington, visit from 14:30 to 19:01, ; Carson's Food & Drink - On Main, Lexington, visit from 19:31 to 20:46, ; A single room for your stay, stay from 22:34 to 06:34, nearest transit: Chandler Hospital, 202.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Lexington",
+    "transportation": "-",
+    "breakfast": "The Triangle Grille, Lexington",
+    "lunch": "Sutton's Family Italian Restaurant, Lexington",
+    "dinner": "Ramsey's Diner Zandale, Lexington",
+    "attraction": "James E. Pepper Distillery, Lexington",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 07:04 to 07:34, nearest transit: Chandler Hospital, 202.96m away; The Triangle Grille, Lexington, visit from 08:04 to 09:59, ; Sutton's Family Italian Restaurant, Lexington, visit from 14:00 to 15:00, ; James E. Pepper Distillery, Lexington, visit from 15:30 to 19:00, ; Ramsey's Diner Zandale, Lexington, visit from 19:30 to 20:45, ; A single room for your stay, stay from 21:15 to 05:15, nearest transit: Chandler Hospital, 202.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Lexington to Detroit",
+    "transportation": "Self-driving from Lexington to Detroit, duration: 389.9566666666667, distance: 549.431, cost : 27.0",
+    "breakfast": "-",
+    "lunch": "Keeneland Track Kitchen, Lexington",
+    "dinner": "Red State BBQ, Lexington",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 06:00 to 09:00, nearest transit: Chandler Hospital, 202.96m away; Keeneland Track Kitchen, Lexington, visit from 13:59 to 14:59, ; Red State BBQ, Lexington, visit from 19:00 to 20:15, "
+  }
+]

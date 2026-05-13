@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Charleston",
+    "transportation": "Flight Number: F2512613, from Detroit to Charleston, Departure Time: 10:04, Arrival Time: 12:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Frannie & The Fox, Charleston",
+    "attraction": "South Carolina Aquarium, Charleston",
+    "accommodation": "Entire House One Block from King Street, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Entire House One Block from King Street, stay from 12:50 to 13:20, nearest transit: Cannon St / St Philip St, 72.65m away; South Carolina Aquarium, visit from 13:50 to 15:50, nearest transit: Concord St / Aquarium Wharf, 151.74m away; Frannie & The Fox, visit from 19:00 to 19:40, nearest transit: Market St / Meeting St, 124.64m away; Entire House One Block from King Street, stay from 23:00 to 08:00, nearest transit: Cannon St / St Philip St, 72.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Oak Steakhouse, Charleston",
+    "lunch": "Burwell's Stone Fire Grill, Charleston",
+    "dinner": "Eli's Table, Charleston",
+    "attraction": "Charleston City Market, Charleston",
+    "accommodation": "Entire House One Block from King Street, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Entire House One Block from King Street, stay from 08:00 to 08:30, nearest transit: Cannon St / St Philip St, 72.65m away; Oak Steakhouse, visit from 09:00 to 09:40, nearest transit: Broad St / Church St, 111.55m away; Charleston City Market, visit from 10:10 to 12:10, nearest transit: Market St / Meeting St, 50.09m away; Burwell's Stone Fire Grill, visit from 13:40 to 14:20, nearest transit: Market St / East Bay St, 53.09m away; Eli's Table, visit from 19:00 to 19:40, nearest transit: Meeting St / Queen St, 19.72m away; Entire House One Block from King Street, stay from 23:00 to 08:00, nearest transit: Cannon St / St Philip St, 72.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Detroit",
+    "transportation": "taxi, from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost: 1366",
+    "breakfast": "Stars Restaurant-Rooftop & Grill Room, Charleston",
+    "lunch": "High Cotton Charleston, Charleston",
+    "dinner": "Husk Restaurant, Charleston",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire House One Block from King Street, stay from 08:00 to 08:30, nearest transit: Cannon St / St Philip St, 72.65m away; Stars Restaurant-Rooftop & Grill Room, visit from 09:00 to 09:40, nearest transit: King St / Morris St, 82.36m away; Charleston Waterfront Park, visit from 10:10 to 12:10, nearest transit: Vendue Range / Concord St, 19.17m away; High Cotton Charleston, visit from 13:40 to 14:20, nearest transit: East Bay St / S. Market St, 85.53m away; Husk Restaurant, visit from 19:00 to 19:40, nearest transit: Meeting St / Queen St, 76.78m away"
+  }
+]

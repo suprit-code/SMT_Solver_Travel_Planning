@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from St. Louis to Tulsa",
+    "transportation": "Flight Number: F3148797, from St. Louis to Tulsa, Departure Time: 21:22, Arrival Time: 22:31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The Jade Suite in Safe South Tulsa Neighborhood, Tulsa",
+    "event": "-",
+    "point_of_interest_list": "The Jade Suite in Safe South Tulsa Neighborhood, stay from 23:01 to 23:31, nearest transit: (7348) Delaware Ave & 89th St EB, 1456.4m away; The Jade Suite in Safe South Tulsa Neighborhood, stay from 00:01 to 08:00, nearest transit: (7348) Delaware Ave & 89th St EB, 1456.4m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tulsa",
+    "transportation": "-",
+    "breakfast": "Tally's Good Food Cafe, Tulsa",
+    "lunch": "Ti Amo Ristorante Italiano, Tulsa",
+    "dinner": "El Rio Verde, Tulsa",
+    "attraction": "-",
+    "accommodation": "The Jade Suite in Safe South Tulsa Neighborhood, Tulsa",
+    "event": "-",
+    "point_of_interest_list": "The Jade Suite in Safe South Tulsa Neighborhood, stay from 08:30 to 09:00, nearest transit: (7348) Delaware Ave & 89th St EB, 1456.4m away; Tally's Good Food Cafe, Tulsa, visit from 09:39 to 10:29, ; Ti Amo Ristorante Italiano, Tulsa, visit from 14:30 to 15:30, ; El Rio Verde, Tulsa, visit from 19:31 to 20:46, ; The Jade Suite in Safe South Tulsa Neighborhood, stay from 22:58 to 06:58, nearest transit: (7348) Delaware Ave & 89th St EB, 1456.4m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tulsa to St. Louis",
+    "transportation": "Flight Number: F2701750, from Tulsa to St. Louis, Departure Time: 08:28, Arrival Time: 09:35",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Jade Suite in Safe South Tulsa Neighborhood, stay from 07:28 to 07:58, nearest transit: (7348) Delaware Ave & 89th St EB, 1456.4m away"
+  }
+]

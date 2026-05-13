@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Atlanta",
+    "transportation": "Flight Number: F0838547, from Memphis to Atlanta, Departure Time: 14:52, Arrival Time: 17:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "-",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 17:30 to 18:00, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Aviva by Kameel, Atlanta, visit from 19:00 to 23:10, ; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 23:40 to 07:40, nearest transit: CASCADE AVE SW @ 1113, 82.4m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Home Grown, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "Ted's Montana Grill, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 08:10 to 08:40, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Home Grown, Atlanta, visit from 09:10 to 10:00, ; Atlanta History Center, Atlanta, visit from 10:30 to 14:00, ; Cafe Agora, Atlanta, visit from 14:30 to 16:44, ; Ted's Montana Grill, Atlanta, visit from 20:45 to 22:00, ; Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 23:48 to 08:00, nearest transit: CASCADE AVE SW @ 1113, 82.4m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Memphis",
+    "transportation": "Flight Number: F3513072, from Atlanta to Memphis, Departure Time: 21:27, Arrival Time: 21:38",
+    "breakfast": "-",
+    "lunch": "Steamhouse Lounge, Atlanta",
+    "dinner": "-",
+    "attraction": "Fox Theatre, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Birds-n-Bees bnb -  Intown ATL - 1 Gig Internet, stay from 08:30 to 09:00, nearest transit: CASCADE AVE SW @ 1113, 82.4m away; Steamhouse Lounge, Atlanta, visit from 12:00 to 13:00, ; Fox Theatre, Atlanta, visit from 13:30 to 20:57, "
+  }
+]

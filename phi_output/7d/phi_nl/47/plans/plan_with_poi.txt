@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to San Diego",
+    "transportation": "Flight Number: F0268435, from Boston to San Diego, Departure Time: 08:48, Arrival Time: 12:12",
+    "breakfast": "-",
+    "lunch": "Juniper and Ivy, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Hilltop cabin retreat with lake & mountain views, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Hilltop cabin retreat with lake & mountain views, stay from 12:42 to 13:30, nearest transit: Del Lago Transit Station, 4467.07m away; Juniper and Ivy, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 20:15, ; Addison Restaurant, San Diego, visit from 20:45 to 22:22, ; Hilltop cabin retreat with lake & mountain views, stay from 22:52 to 06:52, nearest transit: Del Lago Transit Station, 4467.07m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "The Butcher Shop, San Diego",
+    "lunch": "Lou & Mickey's, San Diego",
+    "dinner": "Mister A'S, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Hilltop cabin retreat with lake & mountain views, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Hilltop cabin retreat with lake & mountain views, stay from 07:22 to 07:52, nearest transit: Del Lago Transit Station, 4467.07m away; The Butcher Shop, San Diego, visit from 08:22 to 09:12, ; Lou & Mickey's, San Diego, visit from 13:13 to 15:00, ; Cabrillo National Monument, San Diego, visit from 15:30 to 19:00, ; Mister A'S, San Diego, visit from 20:45 to 22:34, ; Hilltop cabin retreat with lake & mountain views, stay from 23:04 to 07:04, nearest transit: Del Lago Transit Station, 4467.07m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Ruth's Chris Steak House, San Diego",
+    "lunch": "-",
+    "dinner": "Moxie, Sacramento",
+    "attraction": "-",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Hilltop cabin retreat with lake & mountain views, stay from 07:34 to 08:04, nearest transit: Del Lago Transit Station, 4467.07m away; Ruth's Chris Steak House, San Diego, visit from 08:34 to 09:24, ; Peaceful and Cozy Studio, stay from 19:45 to 20:15, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Moxie, Sacramento, visit from 20:45 to 22:00, ; Peaceful and Cozy Studio, stay from 22:30 to 06:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Scott's Seafood on The River, Sacramento",
+    "lunch": "Grange Restaurant & Bar, Sacramento",
+    "dinner": "The Firehouse Restaurant, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 07:00 to 07:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Scott's Seafood on The River, Sacramento, visit from 09:10 to 10:00, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; Grange Restaurant & Bar, Sacramento, visit from 14:30 to 15:44, ; The Firehouse Restaurant, Sacramento, visit from 19:45 to 21:00, ; Peaceful and Cozy Studio, stay from 21:30 to 05:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Taxi from Sacramento to Los Angeles, duration: 423.9133333333333, distance: 617.7728000000001, cost : 617.0",
+    "breakfast": "Dawson's Steakhouse, Sacramento",
+    "lunch": "Localis, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Oceanfront Sunset Serenity in Malibu, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 06:00 to 06:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Dawson's Steakhouse, Sacramento, visit from 08:00 to 08:50, ; California State Capitol Museum, Sacramento, visit from 09:20 to 12:50, ; Localis, Sacramento, visit from 13:20 to 14:20, ; Oceanfront Sunset Serenity in Malibu, stay from 22:23 to 22:53, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away; Oceanfront Sunset Serenity in Malibu, stay from 23:23 to 07:40, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "n/naka, Los Angeles",
+    "lunch": "Spire 73, Los Angeles",
+    "dinner": "Water Grill, Los Angeles",
+    "attraction": "Venice Canals Walkway, Los Angeles",
+    "accommodation": "Oceanfront Sunset Serenity in Malibu, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Oceanfront Sunset Serenity in Malibu, stay from 08:10 to 08:40, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away; n/naka, Los Angeles, visit from 09:10 to 10:00, ; Venice Canals Walkway, Los Angeles, visit from 10:30 to 14:00, ; Spire 73, Los Angeles, visit from 14:30 to 15:30, ; Water Grill, Los Angeles, visit from 19:31 to 20:46, ; Oceanfront Sunset Serenity in Malibu, stay from 21:16 to 05:16, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Boston",
+    "transportation": "Flight Number: F1560955, from Los Angeles to Boston, Departure Time: 11:55, Arrival Time: 20:09",
+    "breakfast": "Ayara Thai Cuisine, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Oceanfront Sunset Serenity in Malibu, stay from 06:00 to 09:00, nearest transit: Park Granada & Parkway Calabasas (Eastbound), 12606.47m away; Ayara Thai Cuisine, Los Angeles, visit from 09:30 to 10:20, "
+  }
+]

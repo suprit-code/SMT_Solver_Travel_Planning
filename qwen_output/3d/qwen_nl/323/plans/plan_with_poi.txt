@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Tampa",
+    "transportation": "Flight Number: F3158032, from Kansas City to Tampa, Departure Time: 06:20, Arrival Time: 09:47",
+    "breakfast": "-",
+    "lunch": "Green Lemon, Tampa",
+    "dinner": "Salt Shack On The Bay, Tampa",
+    "attraction": "The Florida Aquarium, Tampa",
+    "accommodation": "The Gardens, Tampa",
+    "event": "-",
+    "point_of_interest_list": "The Gardens, stay from 10:17 to 10:47, nearest transit: U Mall to MSC, 13888.49m away; Green Lemon, Tampa, visit from 14:00 to 15:00, ; The Florida Aquarium, Tampa, visit from 15:30 to 19:00, ; Salt Shack On The Bay, Tampa, visit from 19:30 to 20:45, ; The Gardens, stay from 22:30 to 06:30, nearest transit: U Mall to MSC, 13888.49m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Tampa",
+    "transportation": "-",
+    "breakfast": "Bella's Italian Cafe, Tampa",
+    "lunch": "Al's Finger Licking Good Bar-B-Que, Tampa",
+    "dinner": "Besito Mexican, Tampa",
+    "attraction": "ZooTampa At Lowry Park, Tampa",
+    "accommodation": "The Gardens, Tampa",
+    "event": "-",
+    "point_of_interest_list": "The Gardens, stay from 07:00 to 07:30, nearest transit: U Mall to MSC, 13888.49m away; Bella's Italian Cafe, Tampa, visit from 08:00 to 08:50, ; Al's Finger Licking Good Bar-B-Que, Tampa, visit from 12:51 to 13:51, ; ZooTampa At Lowry Park, Tampa, visit from 14:21 to 17:51, ; Besito Mexican, Tampa, visit from 19:00 to 20:15, ; The Gardens, stay from 20:45 to 04:45, nearest transit: U Mall to MSC, 13888.49m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Tampa to Kansas City",
+    "transportation": "Self-driving from Tampa to Kansas City, duration: 1387.3916666666669, distance: 2022.0329, cost : 101.0",
+    "breakfast": "Columbia Cafe - Riverwalk Tampa, Tampa",
+    "lunch": "Bernini Restaurant, Tampa",
+    "dinner": "Yummy House China Bistro, Tampa",
+    "attraction": "Bayshore Boulevard, Tampa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Gardens, stay from 06:00 to 06:30, nearest transit: U Mall to MSC, 13888.49m away; Columbia Cafe - Riverwalk Tampa, Tampa, visit from 08:00 to 08:50, ; Bayshore Boulevard, Tampa, visit from 09:20 to 12:50, ; Bernini Restaurant, Tampa, visit from 13:20 to 14:20, ; Yummy House China Bistro, Tampa, visit from 19:00 to 20:15, "
+  }
+]

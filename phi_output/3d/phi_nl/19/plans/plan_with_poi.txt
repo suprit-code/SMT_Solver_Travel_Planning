@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Houston",
+    "transportation": "Flight Number: F3907677, from Denver to Houston, Departure Time: 14:37, Arrival Time: 17:38",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private  guest suite in the greater Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private  guest suite in the greater Heights, stay from 18:08 to 18:38, nearest transit: W 20th St @ Bevis St, 79.73m away; Private  guest suite in the greater Heights, stay from 22:30 to 06:30, nearest transit: W 20th St @ Bevis St, 79.73m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "Private  guest suite in the greater Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private  guest suite in the greater Heights, stay from 07:00 to 07:30, nearest transit: W 20th St @ Bevis St, 79.73m away; Pappas Bros. Steakhouse, Houston, visit from 08:00 to 08:50, ; NRG Stadium, Houston, visit from 09:20 to 13:29, ; Eddie V's Prime Seafood, Houston, visit from 13:59 to 14:59, ; Pappadeaux Seafood Kitchen, Houston, visit from 19:00 to 20:15, ; Private  guest suite in the greater Heights, stay from 20:45 to 04:45, nearest transit: W 20th St @ Bevis St, 79.73m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Denver",
+    "transportation": "Flight Number: F0049386, from Houston to Denver, Departure Time: 22:44, Arrival Time: 23:57",
+    "breakfast": "Goode Company Seafood, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Brenner's on the Bayou, Houston",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private  guest suite in the greater Heights, stay from 06:00 to 06:30, nearest transit: W 20th St @ Bevis St, 79.73m away; Goode Company Seafood, Houston, visit from 08:00 to 08:50, ; Brennan's of Houston, Houston, visit from 12:51 to 13:51, ; Children's Museum Houston, Houston, visit from 14:21 to 17:51, ; Brenner's on the Bayou, Houston, visit from 19:00 to 20:15, "
+  }
+]

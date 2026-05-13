@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Martha's Vineyard to New York",
+    "transportation": "Flight Number: F2907731, from Martha's Vineyard to New York, Departure Time: 13:20, Arrival Time: 14:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Manhatta, New York",
+    "attraction": "Brooklyn Bridge, New York",
+    "accommodation": "Serenity at the Heart of NYC l No Cleaning fee, New York",
+    "event": "-",
+    "point_of_interest_list": "Serenity at the Heart of NYC l No Cleaning fee, stay from 14:45 to 15:15, nearest transit: 8 AV/W 46 ST, 50.55m away; Brooklyn Bridge, visit from 15:45 to 17:45, nearest transit: PEARL ST/PECK SLIP, 511.19m away; Manhatta, visit from 19:00 to 19:40, nearest transit: BROADWAY/THAMES ST, 199.51m away; Serenity at the Heart of NYC l No Cleaning fee, stay from 23:00 to 08:00, nearest transit: 8 AV/W 46 ST, 50.55m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Sarge\u2019s Delicatessen & Diner, New York",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "Gallaghers Steakhouse, New York",
+    "attraction": "Central Park, New York",
+    "accommodation": "Serenity at the Heart of NYC l No Cleaning fee, New York",
+    "event": "-",
+    "point_of_interest_list": "Serenity at the Heart of NYC l No Cleaning fee, stay from 08:00 to 08:30, nearest transit: 8 AV/W 46 ST, 50.55m away; Sarge\u2019s Delicatessen & Diner, visit from 09:00 to 09:40, nearest transit: 3 AV/E 37 ST, 101.41m away; Central Park, visit from 10:10 to 12:10, nearest transit: 79 ST TRANSVERSE RD/CENTRAL PARK, 297.39m away; Peak Restaurant & Bar, visit from 13:40 to 14:20, nearest transit: W 34 ST/HUDSON BLVD E, 153.03m away; Gallaghers Steakhouse, visit from 19:00 to 19:40, nearest transit: 7 AV/W 52 ST, 131.50m away; Serenity at the Heart of NYC l No Cleaning fee, stay from 23:00 to 08:00, nearest transit: 8 AV/W 46 ST, 50.55m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Martha's Vineyard",
+    "transportation": "taxi, from New York to Martha's Vineyard, duration: 404.8333333333333, distance: 425.9981, cost: 425",
+    "breakfast": "Del Frisco's Grille, New York",
+    "lunch": "Del Frisco's Double Eagle Steakhouse, New York",
+    "dinner": "Rao's Restaurant, New York",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Serenity at the Heart of NYC l No Cleaning fee, stay from 08:00 to 08:30, nearest transit: 8 AV/W 46 ST, 50.55m away; Del Frisco's Grille, visit from 09:00 to 09:40, nearest transit: 5 AV/W 50 ST, 139.24m away; The High Line, visit from 10:10 to 12:10, nearest transit: GREENWICH ST/HORATIO ST, 184.89m away; Del Frisco's Double Eagle Steakhouse, visit from 13:40 to 14:20, nearest transit: W 49 ST/AVENUE OF THE AMERICAS, 94.03m away; Rao's Restaurant, visit from 19:00 to 19:40, nearest transit: E 116 ST/PLEASANT AV, 168.60m away"
+  }
+]

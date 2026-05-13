@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Valparaiso to Nashville",
+    "transportation": "Flight Number: F2628109, from Valparaiso to Nashville, Departure Time: 07:24, Arrival Time: 08:41",
+    "breakfast": "-",
+    "lunch": "Henley, Nashville",
+    "dinner": "Puckett's 5th & Church, Nashville",
+    "attraction": "Musicians Hall of Fame and Museum, Nashville",
+    "accommodation": "1.5 mile to DT & 12th South: Beautiful Studio, Nashville",
+    "event": "-",
+    "point_of_interest_list": "1.5 mile to DT & 12th South: Beautiful Studio, stay from 09:11 to 11:18, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away; Henley, Nashville, visit from 12:00 to 13:00, ; Musicians Hall of Fame and Museum, Nashville, visit from 13:30 to 17:00, ; Puckett's 5th & Church, Nashville, visit from 19:00 to 22:00, ; 1.5 mile to DT & 12th South: Beautiful Studio, stay from 22:30 to 06:30, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "The Stillery, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "Harriet's Rooftop, Nashville",
+    "attraction": "Ole Smoky Distillery & Yee-Haw Brewery, Nashville",
+    "accommodation": "1.5 mile to DT & 12th South: Beautiful Studio, Nashville",
+    "event": "-",
+    "point_of_interest_list": "1.5 mile to DT & 12th South: Beautiful Studio, stay from 07:00 to 07:30, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away; The Stillery, Nashville, visit from 08:00 to 10:00, ; Ole Smoky Distillery & Yee-Haw Brewery, Nashville, visit from 10:30 to 14:00, ; Aquarium Restaurant, Nashville, visit from 14:30 to 15:44, ; Harriet's Rooftop, Nashville, visit from 19:45 to 21:00, ; 1.5 mile to DT & 12th South: Beautiful Studio, stay from 21:30 to 05:30, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Bristol",
+    "transportation": "Taxi from Nashville to Bristol, duration: 319.115, distance: 467.8056, cost : 467.0",
+    "breakfast": "Kayne Prime, Nashville",
+    "lunch": "Honky Tonk – The Twelve Thirty Club, Nashville",
+    "dinner": "-",
+    "attraction": "Gaylord Opryland Garden Conservatory, Nashville",
+    "accommodation": "I81 Exit 1 Budget Stay- Backyard Access to Casino, Bristol",
+    "event": "-",
+    "point_of_interest_list": "1.5 mile to DT & 12th South: Beautiful Studio, stay from 06:00 to 06:30, nearest transit: 8TH AVE S & PRENTICE AVE NB, 255.16m away; Kayne Prime, Nashville, visit from 08:00 to 08:50, ; Gaylord Opryland Garden Conservatory, Nashville, visit from 09:20 to 14:00, ; Honky Tonk – The Twelve Thirty Club, Nashville, visit from 14:30 to 15:30, ; I81 Exit 1 Budget Stay- Backyard Access to Casino, stay from 21:49 to 22:19, nearest transit: Hard Rock Hotel Main Entrance, 257.48m away; I81 Exit 1 Budget Stay- Backyard Access to Casino, stay from 22:49 to 06:49, nearest transit: Hard Rock Hotel Main Entrance, 257.48m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Bristol",
+    "transportation": "-",
+    "breakfast": "Bristol Seafood + Steak + Social, Bristol",
+    "lunch": "Eat a Pitta, Bristol",
+    "dinner": "Little Bristol Beach Bar, Bristol",
+    "attraction": "Bristol Museum & Art Gallery, Bristol",
+    "accommodation": "I81 Exit 1 Budget Stay- Backyard Access to Casino, Bristol",
+    "event": "-",
+    "point_of_interest_list": "I81 Exit 1 Budget Stay- Backyard Access to Casino, stay from 07:19 to 07:49, nearest transit: Hard Rock Hotel Main Entrance, 257.48m away; Bristol Seafood + Steak + Social, Bristol, visit from 08:42 to 09:32, ; Bristol Museum & Art Gallery, Bristol, visit from 10:02 to 13:32, ; Eat a Pitta, Bristol, visit from 14:02 to 15:02, ; Little Bristol Beach Bar, Bristol, visit from 19:45 to 21:00, ; I81 Exit 1 Budget Stay- Backyard Access to Casino, stay from 21:30 to 05:30, nearest transit: Hard Rock Hotel Main Entrance, 257.48m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Bristol to Chattanooga",
+    "transportation": "Taxi from Bristol to Chattanooga, duration: 249.65166666666667, distance: 360.1764, cost : 360.0",
+    "breakfast": "-",
+    "lunch": "Urban Stack, Chattanooga",
+    "dinner": "Tupelo Honey Southern Kitchen & Bar, Chattanooga",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "Sparkling Clean! Walkable + Comfy King Bed!, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "I81 Exit 1 Budget Stay- Backyard Access to Casino, stay from 06:00 to 06:30, nearest transit: Hard Rock Hotel Main Entrance, 257.48m away; Sparkling Clean! Walkable + Comfy King Bed!, stay from 11:39 to 12:09, nearest transit: BARTON + BAKER, 105.96m away; Urban Stack, Chattanooga, visit from 12:39 to 13:39, ; Tennessee Valley Railroad Museum, Chattanooga, visit from 15:00 to 18:30, ; Tupelo Honey Southern Kitchen & Bar, Chattanooga, visit from 19:00 to 20:15, ; Sparkling Clean! Walkable + Comfy King Bed!, stay from 20:45 to 04:45, nearest transit: BARTON + BAKER, 105.96m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "The Purple Daisy Picnic Cafe, Chattanooga",
+    "lunch": "Ruth's Chris Steak House, Chattanooga",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "Sparkling Clean! Walkable + Comfy King Bed!, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "Sparkling Clean! Walkable + Comfy King Bed!, stay from 06:00 to 06:30, nearest transit: BARTON + BAKER, 105.96m away; The Purple Daisy Picnic Cafe, Chattanooga, visit from 08:12 to 09:02, ; Ruth's Chris Steak House, Chattanooga, visit from 13:03 to 14:03, ; Coolidge Park, Chattanooga, visit from 14:33 to 18:03, ; Uncle Larry's Restaurant, Chattanooga, visit from 19:00 to 20:15, ; Sparkling Clean! Walkable + Comfy King Bed!, stay from 20:45 to 04:45, nearest transit: BARTON + BAKER, 105.96m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Chattanooga to Valparaiso",
+    "transportation": "Taxi from Chattanooga to Valparaiso, duration: 630.3816666666667, distance: 867.9239, cost : 867.0",
+    "breakfast": "Zaya 1943 Korean Steakhouse, Chattanooga",
+    "lunch": "La Cabriole, Chattanooga",
+    "dinner": "Hickory Pit Bar-B-Que, Chattanooga",
+    "attraction": "Escape Experience - Chattanooga Escape Room Games, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Sparkling Clean! Walkable + Comfy King Bed!, stay from 06:00 to 06:30, nearest transit: BARTON + BAKER, 105.96m away; Zaya 1943 Korean Steakhouse, Chattanooga, visit from 08:00 to 08:50, ; Escape Experience - Chattanooga Escape Room Games, Chattanooga, visit from 09:20 to 14:00, ; La Cabriole, Chattanooga, visit from 14:30 to 15:30, ; Hickory Pit Bar-B-Que, Chattanooga, visit from 19:31 to 20:46, "
+  }
+]

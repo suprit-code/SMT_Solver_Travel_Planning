@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Fort Wayne to Amarillo",
+    "transportation": "Taxi from Fort Wayne to Amarillo, duration: 1209.371666666667, distance: 1800.8417, cost : 1800.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 02:39 to 03:09, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Relaxing Place to Stay with Guest Living Room!, stay from 03:39 to 08:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "El Bracero Mexican Grill, Amarillo",
+    "lunch": "Ye Olde Pancake Station, Amarillo",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:30 to 09:00, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Bracero Mexican Grill, Amarillo, visit from 09:30 to 10:20, ; Ye Olde Pancake Station, Amarillo, visit from 14:21 to 15:21, ; Golden Light Cafe & Cantina, Amarillo, visit from 19:22 to 20:37, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:07 to 04:51, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Flight Number: F3473336, from Amarillo to Houston, Departure Time: 06:21, Arrival Time: 07:57",
+    "breakfast": "-",
+    "lunch": "Houston's Restaurant & Pub, Houston",
+    "dinner": "Market on Houston, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 05:21 to 05:51, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; #4 Northwest Victory Single BR, stay from 08:27 to 08:57, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Hermann Park, Houston, visit from 10:30 to 14:00, ; Houston's Restaurant & Pub, Houston, visit from 14:30 to 15:30, ; Market on Houston, Houston, visit from 19:31 to 20:46, ; #4 Northwest Victory Single BR, stay from 21:16 to 05:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houstons Bar and Grill, Houston",
+    "lunch": "The Breakfast Klub, Houston",
+    "dinner": "Kenny & Ziggy's New York Deli, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houstons Bar and Grill, Houston, visit from 09:10 to 10:00, ; Houston Zoo, Houston, visit from 10:30 to 14:00, ; The Breakfast Klub, Houston, visit from 14:30 to 15:30, ; Kenny & Ziggy's New York Deli, Houston, visit from 20:45 to 22:00, ; #4 Northwest Victory Single BR, stay from 23:40 to 07:40, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Flight Number: F1835205, from Houston to San Antonio, Departure Time: 20:14, Arrival Time: 21:08",
+    "breakfast": "Houston Restaurant, Houston",
+    "lunch": "Houston's Trail's End, Houston",
+    "dinner": "-",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 08:10 to 08:40, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston Restaurant, Houston, visit from 09:10 to 10:00, ; Downtown Aquarium, Houston, visit from 10:30 to 14:00, ; Houston's Trail's End, Houston, visit from 14:30 to 15:30, ; Cozy Private Room near UTSA & LaCantera, stay from 21:38 to 22:08, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Cozy Private Room near UTSA & LaCantera, stay from 22:38 to 06:38, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Dough Pizzeria Napoletana, San Antonio",
+    "lunch": "Pollos Asados Los Nortenos, San Antonio",
+    "dinner": "Iron Cactus Mexican Grill and Margarita Bar, San Antonio",
+    "attraction": "San Antonio Zoo, San Antonio",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 07:08 to 07:38, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Dough Pizzeria Napoletana, San Antonio, visit from 08:47 to 09:37, ; San Antonio Zoo, San Antonio, visit from 10:07 to 13:37, ; Pollos Asados Los Nortenos, San Antonio, visit from 14:07 to 15:07, ; Iron Cactus Mexican Grill and Margarita Bar, San Antonio, visit from 20:45 to 22:00, ; Cozy Private Room near UTSA & LaCantera, stay from 22:30 to 07:40, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Fort Wayne",
+    "transportation": "Taxi from San Antonio to Fort Wayne, duration: 1389.1666666666667, distance: 2066.5601, cost : 2066.0",
+    "breakfast": "Santa Diabla - Cocina Mexicana, San Antonio",
+    "lunch": "Yard House, San Antonio",
+    "dinner": "Schilo's, San Antonio",
+    "attraction": "San Antonio Missions National Historical Park, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 08:10 to 08:40, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Santa Diabla - Cocina Mexicana, San Antonio, visit from 09:10 to 10:00, ; San Antonio Missions National Historical Park, San Antonio, visit from 10:30 to 14:00, ; Yard House, San Antonio, visit from 14:30 to 15:30, ; Schilo's, San Antonio, visit from 19:31 to 20:46, "
+  }
+]

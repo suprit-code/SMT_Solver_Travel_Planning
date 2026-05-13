@@ -1,0 +1,805 @@
+[
+  {
+    "job_id": 216,
+    "status": "success",
+    "time": 1.131627082824707
+  },
+  {
+    "job_id": 167,
+    "status": "success",
+    "time": 1.147639274597168
+  },
+  {
+    "job_id": 89,
+    "status": "success",
+    "time": 1.2277328968048096
+  },
+  {
+    "job_id": 103,
+    "status": "failed",
+    "error": "name 'accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 135, in <module>\nNameError: name 'accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 217,
+    "status": "success",
+    "time": 1.2671892642974854
+  },
+  {
+    "job_id": 215,
+    "status": "success",
+    "time": 1.2744629383087158
+  },
+  {
+    "job_id": 132,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 139, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 133,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 150, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 139,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 146, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 129,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 139, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 218,
+    "status": "success",
+    "time": 1.3822362422943115
+  },
+  {
+    "job_id": 182,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 147, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 237,
+    "status": "success",
+    "time": 1.4175574779510498
+  },
+  {
+    "job_id": 150,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 126, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 212,
+    "status": "success",
+    "time": 1.4773495197296143
+  },
+  {
+    "job_id": 222,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 127, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 127,
+    "status": "success",
+    "time": 1.5529837608337402
+  },
+  {
+    "job_id": 94,
+    "status": "success",
+    "time": 1.5593597888946533
+  },
+  {
+    "job_id": 134,
+    "status": "success",
+    "time": 1.5627238750457764
+  },
+  {
+    "job_id": 82,
+    "status": "success",
+    "time": 1.5819478034973145
+  },
+  {
+    "job_id": 87,
+    "status": "success",
+    "time": 1.6122310161590576
+  },
+  {
+    "job_id": 125,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 150, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 200,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 131, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 93,
+    "status": "success",
+    "time": 1.6235730648040771
+  },
+  {
+    "job_id": 142,
+    "status": "success",
+    "time": 1.6386981010437012
+  },
+  {
+    "job_id": 238,
+    "status": "success",
+    "time": 1.6310279369354248
+  },
+  {
+    "job_id": 95,
+    "status": "success",
+    "time": 1.6684901714324951
+  },
+  {
+    "job_id": 161,
+    "status": "success",
+    "time": 1.6762385368347168
+  },
+  {
+    "job_id": 81,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 139, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 151,
+    "status": "failed",
+    "error": "name 'taxi_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 123, in <module>\nNameError: name 'taxi_0_price' is not defined\n"
+  },
+  {
+    "job_id": 39,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 129, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 52,
+    "status": "failed",
+    "error": "name 'taxi_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 131, in <module>\nNameError: name 'taxi_0_price' is not defined\n"
+  },
+  {
+    "job_id": 193,
+    "status": "success",
+    "time": 1.7107291221618652
+  },
+  {
+    "job_id": 209,
+    "status": "success",
+    "time": 1.713510513305664
+  },
+  {
+    "job_id": 119,
+    "status": "failed",
+    "error": "name 'accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 128, in <module>\nNameError: name 'accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 145,
+    "status": "failed",
+    "error": "name 'accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 135, in <module>\nNameError: name 'accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 177,
+    "status": "success",
+    "time": 1.7831439971923828
+  },
+  {
+    "job_id": 221,
+    "status": "success",
+    "time": 1.7729463577270508
+  },
+  {
+    "job_id": 88,
+    "status": "success",
+    "time": 1.8049733638763428
+  },
+  {
+    "job_id": 152,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 146, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 56,
+    "status": "failed",
+    "error": "name 'accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 130, in <module>\nNameError: name 'accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 44,
+    "status": "failed",
+    "error": "name 'accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 130, in <module>\nNameError: name 'accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 69,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 146, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 5,
+    "status": "success",
+    "time": 1.8587837219238281
+  },
+  {
+    "job_id": 202,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 130, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 184,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 145, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 196,
+    "status": "failed",
+    "error": "name 'accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 135, in <module>\nNameError: name 'accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 51,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 129, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 236,
+    "status": "success",
+    "time": 2.254964590072632
+  },
+  {
+    "job_id": 243,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 139, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 239,
+    "status": "success",
+    "time": 1.2417023181915283
+  },
+  {
+    "job_id": 42,
+    "status": "success",
+    "time": 2.4151203632354736
+  },
+  {
+    "job_id": 250,
+    "status": "failed",
+    "error": "'Entire home' is not in list",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 143, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/tools/accommodations/apis.py\", line 188, in check_exists\n    exists = Select(accommodation_list, index, types_rule_list.index(type))\nValueError: 'Entire home' is not in list\n"
+  },
+  {
+    "job_id": 50,
+    "status": "success",
+    "time": 2.490447998046875
+  },
+  {
+    "job_id": 260,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 135, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 249,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 153, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 252,
+    "status": "success",
+    "time": 1.2086818218231201
+  },
+  {
+    "job_id": 274,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 139, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 268,
+    "status": "failed",
+    "error": "name 'accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 135, in <module>\nNameError: name 'accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 261,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 146, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 269,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 129, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 279,
+    "status": "success",
+    "time": 1.095531940460205
+  },
+  {
+    "job_id": 264,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 147, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 276,
+    "status": "success",
+    "time": 1.1703193187713623
+  },
+  {
+    "job_id": 262,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 147, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 281,
+    "status": "success",
+    "time": 1.1617484092712402
+  },
+  {
+    "job_id": 302,
+    "status": "success",
+    "time": 1.1974852085113525
+  },
+  {
+    "job_id": 313,
+    "status": "failed",
+    "error": "name 'house_rules' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 155, in <module>\nNameError: name 'house_rules' is not defined\n"
+  },
+  {
+    "job_id": 306,
+    "status": "failed",
+    "error": "name 'self_driving_0_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 131, in <module>\nNameError: name 'self_driving_0_price' is not defined\n"
+  },
+  {
+    "job_id": 338,
+    "status": "success",
+    "time": 1.1771447658538818
+  },
+  {
+    "job_id": 335,
+    "status": "success",
+    "time": 1.220921516418457
+  },
+  {
+    "job_id": 324,
+    "status": "success",
+    "time": 1.292940616607666
+  },
+  {
+    "job_id": 309,
+    "status": "success",
+    "time": 1.4690518379211426
+  },
+  {
+    "job_id": 342,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 153, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 298,
+    "status": "failed",
+    "error": "name 'house_rules' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 155, in <module>\nNameError: name 'house_rules' is not defined\n"
+  },
+  {
+    "job_id": 329,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 146, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 340,
+    "status": "failed",
+    "error": "name 'all_accommodation_price' is not defined",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 153, in <module>\nNameError: name 'all_accommodation_price' is not defined\n"
+  },
+  {
+    "job_id": 333,
+    "status": "success",
+    "time": 1.7134017944335938
+  },
+  {
+    "job_id": 170,
+    "status": "success",
+    "time": 16.018940687179565
+  },
+  {
+    "job_id": 251,
+    "status": "success",
+    "time": 15.279542684555054
+  },
+  {
+    "job_id": 311,
+    "status": "success",
+    "time": 15.003666877746582
+  },
+  {
+    "job_id": 312,
+    "status": "success",
+    "time": 15.854516744613647
+  },
+  {
+    "job_id": 189,
+    "status": "success",
+    "time": 17.62925934791565
+  },
+  {
+    "job_id": 174,
+    "status": "success",
+    "time": 20.303220987319946
+  },
+  {
+    "job_id": 315,
+    "status": "success",
+    "time": 18.586756467819214
+  },
+  {
+    "job_id": 341,
+    "status": "success",
+    "time": 18.492204189300537
+  },
+  {
+    "job_id": 344,
+    "status": "success",
+    "time": 18.525375843048096
+  },
+  {
+    "job_id": 316,
+    "status": "success",
+    "time": 19.032434225082397
+  },
+  {
+    "job_id": 85,
+    "status": "success",
+    "time": 21.061421871185303
+  },
+  {
+    "job_id": 166,
+    "status": "success",
+    "time": 21.61147403717041
+  },
+  {
+    "job_id": 277,
+    "status": "success",
+    "time": 21.16790223121643
+  },
+  {
+    "job_id": 83,
+    "status": "success",
+    "time": 24.647730350494385
+  },
+  {
+    "job_id": 109,
+    "status": "success",
+    "time": 26.80145573616028
+  },
+  {
+    "job_id": 334,
+    "status": "success",
+    "time": 27.046801567077637
+  },
+  {
+    "job_id": 2,
+    "status": "success",
+    "time": 145.6992917060852
+  },
+  {
+    "job_id": 27,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 152, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 181,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 131, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 102,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 166, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 185,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 162, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 84,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 166, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 13,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 160, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 118,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 164, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 29,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 159, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 188,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 167, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 213,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 164, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 214,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 164, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 204,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 168, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 206,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 168, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 72,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 168, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 71,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 164, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 207,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 168, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 74,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 150, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 4,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 150, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 3,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 131, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 10,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 164, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 219,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 166, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 148,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 160, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 73,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 150, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 183,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 170, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 28,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 160, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 186,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 164, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 205,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 165, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 17,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 161, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 15,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 167, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 70,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 164, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 208,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 166, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 156,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 163, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 278,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 157, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 143,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 159, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 157,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 160, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 247,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 164, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 76,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 168, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 285,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 156, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 291,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 160, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 203,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 165, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 246,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 160, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 191,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 165, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 299,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 166, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 314,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 156, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 317,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 160, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 287,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 160, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 318,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 157, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  },
+  {
+    "job_id": 320,
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'as_long'",
+    "traceback": "Traceback (most recent call last):\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 193, in run_single_job\n    exec(code, exec_env)\n  File \"<string>\", line 160, in <module>\n  File \"/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py\", line 121, in generate_as_plan\n    departure_dates.append(query['date'][int(s.model()[date_index].as_long())])\nAttributeError: 'NoneType' object has no attribute 'as_long'\n"
+  }
+]

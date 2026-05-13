@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Houston",
+    "transportation": "Flight Number: F3907677, from Denver to Houston, Departure Time: 14:37, Arrival Time: 17:38",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "NRG Stadium, Houston",
+    "accommodation": "Private  guest suite in the greater Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Eddie V's Prime Seafood, Houston",
+    "dinner": "Pappadeaux Seafood Kitchen, Houston",
+    "attraction": "Children's Museum Houston, Houston",
+    "accommodation": "Private  guest suite in the greater Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private  guest suite in the greater Heights, stay from 08:00 to 08:30, nearest transit: W 20th St @ Bevis St, 79.73m away; Pappas Bros. Steakhouse, visit from 09:00 to 09:40, nearest transit: Westheimer Rd @ Augusta Dr, 60.97m away; Children's Museum Houston, visit from 10:10 to 12:10, nearest transit: Binz St @ Crawford St, 103.26m away; Eddie V's Prime Seafood, visit from 13:40 to 14:20, nearest transit: Katy Freeway @ Town And Country Way, 600.03m away; Pappadeaux Seafood Kitchen, visit from 19:00 to 19:40, nearest transit: Bush IAH Terminal C, 295.38m away; Private  guest suite in the greater Heights, stay from 23:00 to 08:00, nearest transit: W 20th St @ Bevis St, 79.73m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Denver",
+    "transportation": "Flight Number: F0049386, from Houston to Denver, Departure Time: 22:44, Arrival Time: 23:57",
+    "breakfast": "Goode Company Seafood, Houston",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Brenner's on the Bayou, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private  guest suite in the greater Heights, stay from 08:00 to 08:30, nearest transit: W 20th St @ Bevis St, 79.73m away; Goode Company Seafood, visit from 09:00 to 09:40, nearest transit: Westpark Dr @ Wakeforest St, 141.76m away; Cockrell Butterfly Center, visit from 10:10 to 12:10, nearest transit: Main St @ Remington Ln, 160.59m away; Brennan's of Houston, visit from 13:40 to 14:20, nearest transit: Elgin St @ Smith St, 102.40m away; Brenner's on the Bayou, visit from 19:00 to 19:40, nearest transit: Memorial Dr @ Knox St, 214.20m away"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F0886563, from Seattle to San Diego, Departure Time: 15:19, Arrival Time: 17:44",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Place to Stay with Private Entrance near Beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Mister A'S, San Diego",
+    "attraction": "Petco Park, San Diego",
+    "accommodation": "Place to Stay with Private Entrance near Beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 08:00 to 08:30, nearest transit: Cable St & Newport Av, 642.75m away; Din Tai Fung, visit from 09:00 to 09:40, nearest transit: La Jolla Village Dr & Genesee Av, 68.36m away; Petco Park, visit from 10:10 to 12:10, nearest transit: 10th Av & Park Bl (Petco Park), 185.00m away; Pacific Beach AleHouse, visit from 13:40 to 14:20, nearest transit: Mission Bl & Thomas Av, 87.26m away; Mister A'S, visit from 19:00 to 19:40, nearest transit: 5th Av & Laurel St, 52.04m away; Place to Stay with Private Entrance near Beach, stay from 23:00 to 08:00, nearest transit: Cable St & Newport Av, 642.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F3309042, from San Diego to Seattle, Departure Time: 18:49, Arrival Time: 21:43",
+    "breakfast": "Morning Glory, San Diego",
+    "lunch": "Juniper and Ivy, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "Old Town San Diego, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 08:00 to 08:30, nearest transit: Cable St & Newport Av, 642.75m away; Morning Glory, visit from 09:00 to 09:40, nearest transit: India St & Cedar St, 92.52m away; Old Town San Diego, visit from 10:10 to 12:10, nearest transit: Juan St & Mason St, 127.04m away; Juniper and Ivy, visit from 12:59 to 13:39, nearest transit: Kettner Bl & Grape St, 310.93m away; Born & Raised, visit from 17:39 to 18:19, nearest transit: Kettner Bl & Grape St, 125.64m away"
+  }
+]

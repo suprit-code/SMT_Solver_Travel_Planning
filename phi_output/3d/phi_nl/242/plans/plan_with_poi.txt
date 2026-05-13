@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to New York",
+    "transportation": "Flight Number: F4048822, from Nashville to New York, Departure Time: 09:27, Arrival Time: 12:52",
+    "breakfast": "-",
+    "lunch": "Manhatta, New York",
+    "dinner": "Harry's, New York",
+    "attraction": "-",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 13:22 to 13:52, nearest transit: 6 AV/W 45 ST, 155.74m away; Manhatta, New York, visit from 14:22 to 15:22, ; Harry's, New York, visit from 19:23 to 20:38, ; High Rise haven + Free Breakfast, stay from 23:11 to 07:11, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Gallaghers Steakhouse, New York",
+    "lunch": "Peak Restaurant & Bar, New York",
+    "dinner": "Del Frisco's Grille, New York",
+    "attraction": "Empire State Building, New York",
+    "accommodation": "High Rise haven + Free Breakfast, New York",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 07:41 to 08:11, nearest transit: 6 AV/W 45 ST, 155.74m away; Gallaghers Steakhouse, New York, visit from 08:41 to 09:31, ; Empire State Building, New York, visit from 10:01 to 14:00, ; Peak Restaurant & Bar, New York, visit from 14:30 to 16:44, ; Del Frisco's Grille, New York, visit from 20:45 to 23:10, ; High Rise haven + Free Breakfast, stay from 23:40 to 07:40, nearest transit: 6 AV/W 45 ST, 155.74m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Nashville",
+    "transportation": "Flight Number: F0127261, from New York to Nashville, Departure Time: 17:25, Arrival Time: 18:35",
+    "breakfast": "Nobu Fifty Seven, New York",
+    "lunch": "RH Rooftop Restaurant New York, New York",
+    "dinner": "-",
+    "attraction": "Central Park, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "High Rise haven + Free Breakfast, stay from 08:10 to 08:40, nearest transit: 6 AV/W 45 ST, 155.74m away; Nobu Fifty Seven, New York, visit from 09:10 to 10:00, ; Central Park, New York, visit from 10:30 to 14:00, ; RH Rooftop Restaurant New York, New York, visit from 14:30 to 15:30, "
+  }
+]

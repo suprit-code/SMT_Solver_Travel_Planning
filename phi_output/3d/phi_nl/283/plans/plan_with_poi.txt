@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Indianapolis",
+    "transportation": "Taxi from Detroit to Indianapolis, duration: 328.28, distance: 447.7004, cost : 447.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Melting Pot, Indianapolis",
+    "attraction": "-",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 13:30 to 14:00, nearest transit: New York St & State St, 65.71m away; The Melting Pot, Indianapolis, visit from 19:31 to 20:46, ; Queen Bed Getaway Room Downtown Indy, stay from 22:35 to 06:35, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Indianapolis",
+    "transportation": "-",
+    "breakfast": "St. Elmo Steak House, Indianapolis",
+    "lunch": "The Capital Grille, Indianapolis",
+    "dinner": "Mesh Indy, Indianapolis",
+    "attraction": "Indianapolis Zoo, Indianapolis",
+    "accommodation": "Queen Bed Getaway Room Downtown Indy, Indianapolis",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 07:05 to 07:35, nearest transit: New York St & State St, 65.71m away; St. Elmo Steak House, Indianapolis, visit from 08:05 to 08:55, ; The Capital Grille, Indianapolis, visit from 12:56 to 13:56, ; Indianapolis Zoo, Indianapolis, visit from 14:26 to 20:15, ; Mesh Indy, Indianapolis, visit from 20:45 to 23:10, ; Queen Bed Getaway Room Downtown Indy, stay from 23:40 to 07:40, nearest transit: New York St & State St, 65.71m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Indianapolis to Detroit",
+    "transportation": "Flight Number: F3213244, from Indianapolis to Detroit, Departure Time: 18:12, Arrival Time: 19:16",
+    "breakfast": "Harry and Izzy's, Indianapolis",
+    "lunch": "Tony's of Indianapolis, Indianapolis",
+    "dinner": "-",
+    "attraction": "The Eiteljorg Museum, Indianapolis",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Queen Bed Getaway Room Downtown Indy, stay from 08:10 to 08:40, nearest transit: New York St & State St, 65.71m away; Harry and Izzy's, Indianapolis, visit from 09:10 to 10:00, ; The Eiteljorg Museum, Indianapolis, visit from 10:30 to 14:00, ; Tony's of Indianapolis, Indianapolis, visit from 14:30 to 17:42, "
+  }
+]

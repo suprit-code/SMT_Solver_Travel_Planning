@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Amarillo",
+    "transportation": "Self-driving from Memphis to Amarillo, duration: 751.4483333333334, distance: 1165.9254, cost : 58.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Golden Light Cafe & Cantina, Amarillo",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 19:45 to 20:15, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Golden Light Cafe & Cantina, Amarillo, visit from 20:45 to 22:42, ; Relaxing Place to Stay with Guest Living Room!, stay from 23:12 to 07:12, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Ye Olde Pancake Station, Amarillo",
+    "lunch": "El Bracero Mexican Grill, Amarillo",
+    "dinner": "El Manantial, Amarillo",
+    "attraction": "Amarillo Museum of Art, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 07:42 to 08:12, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Ye Olde Pancake Station, Amarillo, visit from 08:42 to 10:00, ; Amarillo Museum of Art, Amarillo, visit from 10:30 to 14:00, ; El Bracero Mexican Grill, Amarillo, visit from 14:30 to 16:44, ; El Manantial, Amarillo, visit from 20:45 to 22:06, ; Relaxing Place to Stay with Guest Living Room!, stay from 22:36 to 06:36, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Self-driving from Amarillo to Houston, duration: 649.365, distance: 961.8577, cost : 48.0",
+    "breakfast": "Jorge's Mexican Restaurant, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 07:06 to 07:36, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Jorge's Mexican Restaurant, Amarillo, visit from 08:06 to 08:56, ; #4 Northwest Victory Single BR, stay from 20:45 to 22:04, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; #4 Northwest Victory Single BR, stay from 22:34 to 06:34, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Goode Company BBQ, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "Houston's Trail's End, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 07:04 to 07:34, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Goode Company BBQ, Houston, visit from 08:04 to 10:00, ; Cockrell Butterfly Center, Houston, visit from 10:30 to 14:00, ; Pappadeaux Seafood Kitchen, Houston, visit from 14:30 to 16:44, ; Houston's Trail's End, Houston, visit from 20:45 to 22:00, ; #4 Northwest Victory Single BR, stay from 23:39 to 07:39, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to Memphis",
+    "transportation": "Self-driving from Houston to Memphis, duration: 625.0183333333333, distance: 911.4177, cost : 45.0",
+    "breakfast": "Houston's, Houston",
+    "lunch": "Hugo's, Houston",
+    "dinner": "The Breakfast Klub, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 08:09 to 08:39, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houston's, Houston, visit from 09:09 to 09:59, ; Hugo's, Houston, visit from 14:00 to 15:00, ; Houston Zoo, Houston, visit from 15:30 to 19:00, ; The Breakfast Klub, Houston, visit from 20:45 to 22:00, "
+  }
+]

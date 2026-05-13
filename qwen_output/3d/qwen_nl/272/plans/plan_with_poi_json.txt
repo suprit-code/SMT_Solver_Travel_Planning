@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Baltimore to Charleston",
+    "transportation": "Flight Number: F3944161, from Baltimore to Charleston, Departure Time: 08:12, Arrival Time: 09:51",
+    "breakfast": "The Ordinary, Charleston",
+    "lunch": "Chubby Fish, Charleston",
+    "dinner": "The Palmetto Cafe, Charleston",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "Historic B&B Veranda King Suite Walk to King, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Historic B&B Veranda King Suite Walk to King, stay from 10:16 to 10:22, nearest transit: Wentworth St / Coming St, 158.78m away; The Ordinary, visit from 10:47 to 11:00, nearest transit: King St / Cannon St, 22.53m away; Magnolia Plantation & Gardens, visit from 11:25 to 13:25, nearest transit: Dorchester Rd / Lambs Rd, 2137.23m away; Chubby Fish, visit from 14:50 to 15:30, nearest transit: Spring St / Ashe St, 214.03m away; The Palmetto Cafe, visit from 19:30 to 20:10, nearest transit: Meeting St / Market St, 55.01m away; Historic B&B Veranda King Suite Walk to King, stay from 20:35 to 08:00, nearest transit: Wentworth St / Coming St, 158.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Stars Restaurant-Rooftop & Grill Room, Charleston",
+    "lunch": "Oak Steakhouse, Charleston",
+    "dinner": "Eli's Table, Charleston",
+    "attraction": "Middleton Place, Charleston",
+    "accommodation": "Historic B&B Veranda King Suite Walk to King, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Historic B&B Veranda King Suite Walk to King, stay from 08:00 to 08:30, nearest transit: Wentworth St / Coming St, 158.78m away; Stars Restaurant-Rooftop & Grill Room, visit from 08:55 to 09:35, nearest transit: King St / Morris St, 82.36m away; Middleton Place, visit from 10:00 to 12:00, nearest transit: Dorchester Rd / Park Forest Pkwy, 3298.85m away; Oak Steakhouse, visit from 13:35 to 14:15, nearest transit: Broad St / Church St, 111.55m away; Eli's Table, visit from 19:00 to 19:40, nearest transit: Meeting St / Queen St, 19.72m away; Historic B&B Veranda King Suite Walk to King, stay from 20:05 to 08:00, nearest transit: Wentworth St / Coming St, 158.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Baltimore",
+    "transportation": "Flight Number: F3973765, from Charleston to Baltimore, Departure Time: 17:22, Arrival Time: 18:45",
+    "breakfast": "Frannie & The Fox, Charleston",
+    "lunch": "Hank's Seafood Restaurant, Charleston",
+    "dinner": "-",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic B&B Veranda King Suite Walk to King, stay from 08:00 to 08:30, nearest transit: Wentworth St / Coming St, 158.78m away; Frannie & The Fox, visit from 08:55 to 09:35, nearest transit: Market St / Meeting St, 124.64m away; Charleston Waterfront Park, visit from 10:00 to 12:00, nearest transit: Vendue Range / Concord St, 19.17m away; Hank's Seafood Restaurant, visit from 13:35 to 14:15, nearest transit: Market St / Meeting St, 145.46m away"
+  }
+]

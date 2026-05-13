@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to Santa Fe",
+    "transportation": "Flight Number: F2624236, from Denver to Santa Fe, Departure Time: 13:27, Arrival Time: 14:29",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Tia Sophia's, Santa Fe",
+    "attraction": "-",
+    "accommodation": "Santa Fe Adobe casita-warmly appointed, Santa Fe",
+    "event": "-",
+    "point_of_interest_list": "Santa Fe Adobe casita-warmly appointed, stay from 14:59 to 15:29, nearest transit: Agua Fria @ Camino Alire OB, 11.7m away; Tia Sophia's, Santa Fe, visit from 19:00 to 20:15, ; Santa Fe Adobe casita-warmly appointed, stay from 20:45 to 04:45, nearest transit: Agua Fria @ Camino Alire OB, 11.7m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Santa Fe",
+    "transportation": "-",
+    "breakfast": "La Boca, Santa Fe",
+    "lunch": "Pantry Restaurant, Santa Fe",
+    "dinner": "Palacio Restaurant, Santa Fe",
+    "attraction": "Loretto Chapel, Santa Fe",
+    "accommodation": "Santa Fe Adobe casita-warmly appointed, Santa Fe",
+    "event": "-",
+    "point_of_interest_list": "Santa Fe Adobe casita-warmly appointed, stay from 06:00 to 06:30, nearest transit: Agua Fria @ Camino Alire OB, 11.7m away; La Boca, Santa Fe, visit from 08:26 to 09:16, ; Loretto Chapel, Santa Fe, visit from 09:46 to 13:16, ; Pantry Restaurant, Santa Fe, visit from 13:46 to 14:46, ; Palacio Restaurant, Santa Fe, visit from 19:00 to 20:15, ; Santa Fe Adobe casita-warmly appointed, stay from 20:45 to 04:45, nearest transit: Agua Fria @ Camino Alire OB, 11.7m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Santa Fe to Denver",
+    "transportation": "Self-driving from Santa Fe to Denver, duration: 412.9866666666667, distance: 631.7925, cost : 31.0",
+    "breakfast": "La Choza, Santa Fe",
+    "lunch": "Rustica Fresh Italian Kitchen, Santa Fe",
+    "dinner": "India House, Santa Fe",
+    "attraction": "The Cathedral Basilica of St. Francis of Assisi, Santa Fe",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Santa Fe Adobe casita-warmly appointed, stay from 06:00 to 06:30, nearest transit: Agua Fria @ Camino Alire OB, 11.7m away; La Choza, Santa Fe, visit from 08:00 to 08:50, ; The Cathedral Basilica of St. Francis of Assisi, Santa Fe, visit from 09:20 to 12:50, ; Rustica Fresh Italian Kitchen, Santa Fe, visit from 13:20 to 14:20, ; India House, Santa Fe, visit from 19:00 to 20:15, "
+  }
+]

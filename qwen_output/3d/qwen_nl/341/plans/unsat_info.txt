@@ -1,0 +1,8 @@
+not ok
+Unsatisfiable core:
+attraction in which city
+valid attraction index
+valid accommodation index
+Private room types accommodation visited
+No smoking rules accommodation not visited
+visit city in cities list

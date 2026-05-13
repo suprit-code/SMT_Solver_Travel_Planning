@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Las Vegas",
+    "transportation": "Flight Number: F0774013, from Washington to Las Vegas, Departure Time: 08:53, Arrival Time: 11:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "C/private full bed tv free wif, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "C/private full bed tv free wif, stay from 11:48 to 12:08, nearest transit: The Strat, 4542.98m away; Hoover Dam Bypass, visit from 12:33 to 14:33, nearest transit: Fremont East Entertainment District, 39777.46m away; Eggscellent, visit from 19:00 to 19:40, nearest transit: The Strat, 4208.46m away; C/private full bed tv free wif, stay from 20:05 to 08:00, nearest transit: The Strat, 4542.98m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Garden Court, Las Vegas",
+    "lunch": "Mr. Mamas, Las Vegas",
+    "dinner": "Ameribrunch Cafe, Las Vegas",
+    "attraction": "Bellagio Conservatory & Botanical Garden, Las Vegas",
+    "accommodation": "C/private full bed tv free wif, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "C/private full bed tv free wif, stay from 08:00 to 08:30, nearest transit: The Strat, 4542.98m away; Garden Court, visit from 08:55 to 09:35, nearest transit: Circa, 185.80m away; Bellagio Conservatory & Botanical Garden, visit from 10:00 to 12:00, nearest transit: The Strat, 4344.51m away; Mr. Mamas, visit from 13:35 to 14:15, nearest transit: The Strat, 9224.85m away; Ameribrunch Cafe, visit from 19:00 to 19:40, nearest transit: Fremont East Entertainment District, 393.75m away; C/private full bed tv free wif, stay from 23:00 to 08:00, nearest transit: The Strat, 4542.98m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Washington",
+    "transportation": "Flight Number: F1078549, from Las Vegas to Washington, Departure Time: 13:42, Arrival Time: 20:49",
+    "breakfast": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "lunch": "Eggslut, Las Vegas",
+    "dinner": "-",
+    "attraction": "Fashion Show Las Vegas, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "C/private full bed tv free wif, stay from 08:00 to 08:10, nearest transit: The Strat, 4542.98m away; Firefly Tapas Kitchen & Bar, visit from 08:35 to 08:48, nearest transit: The Strat, 3079.37m away; Fashion Show Las Vegas, visit from 09:13 to 11:13, nearest transit: The Strat, 2657.04m away; Eggslut, visit from 12:48 to 13:17, nearest transit: The Strat, 4473.66m away"
+  }
+]

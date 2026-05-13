@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Seattle to Monterey",
+    "transportation": "Flight Number: F0589536, from Seattle to Monterey, Departure Time: 11:15, Arrival Time: 13:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Sardine Factory, Monterey",
+    "attraction": "Monterey Bay Aquarium, Monterey",
+    "accommodation": "Serene Redwood Retreat w/Modern Comfort, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 13:43 to 14:03, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Monterey Bay Aquarium, visit from 14:28 to 16:28, nearest transit: Cannery Row / Aquarium, 78.70m away; The Sardine Factory, visit from 19:00 to 19:40, nearest transit: Wave /  Cr1 Parking Garage, 112.50m away; Serene Redwood Retreat w/Modern Comfort, stay from 20:05 to 08:00, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Monterey",
+    "transportation": "-",
+    "breakfast": "Monterey Bay Fish Grotto, Monterey",
+    "lunch": "Compagno's Market & Deli, Monterey",
+    "dinner": "Monterey's Pizza, Monterey",
+    "attraction": "Dennis the Menace Park, Monterey",
+    "accommodation": "Serene Redwood Retreat w/Modern Comfort, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 08:00 to 08:30, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Monterey Bay Fish Grotto, visit from 08:55 to 09:35, nearest transit: Mission St / 14th St, 3573726.84m away; Dennis the Menace Park, visit from 10:00 to 12:00, nearest transit: Camino El Estero /  Del Monte, 244.45m away; Compagno's Market & Deli, visit from 13:35 to 14:15, nearest transit: David /  Lottie, 372.32m away; Monterey's Pizza, visit from 19:00 to 19:40, nearest transit: Mission St / 14th St, 3848688.09m away; Serene Redwood Retreat w/Modern Comfort, stay from 20:05 to 08:00, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Monterey to Seattle",
+    "transportation": "Self-driving, from Monterey to Seattle, duration: 1120.0633333333333, distance: 1514.4771, cost: 75",
+    "breakfast": "Chart House, Monterey",
+    "lunch": "C restaurant + bar, Monterey",
+    "dinner": "Crown & Anchor, Monterey",
+    "attraction": "Doc Rickett's Pacific Biological Laboratories, Monterey",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Serene Redwood Retreat w/Modern Comfort, stay from 08:00 to 08:30, nearest transit: Carmel Valley Rd / Mid Valley Center, 2134.05m away; Chart House, visit from 08:55 to 09:35, nearest transit: Cannery Row /  Drake, 139.04m away; Doc Rickett's Pacific Biological Laboratories, visit from 10:00 to 12:00, nearest transit: Cannery Row / Aquarium, 53.45m away; C restaurant + bar, visit from 13:35 to 14:15, nearest transit: Cannery Row / Aquarium, 93.95m away; Crown & Anchor, visit from 19:00 to 19:40, nearest transit: Franklin /  Alvarado, 55.74m away"
+  }
+]

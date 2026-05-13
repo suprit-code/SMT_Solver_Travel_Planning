@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Seattle",
+    "transportation": "Flight Number: F3749555, from San Diego to Seattle, Departure Time: 13:45, Arrival Time: 16:58",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 17:28 to 17:58, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Il Terrazzo Carmine, Seattle, visit from 19:00 to 20:15, ; Cozy room near UW, stay from 22:34 to 06:34, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Spinasse, Seattle",
+    "lunch": "Rocco's, Seattle",
+    "dinner": "El Gaucho Seattle, Seattle",
+    "attraction": "Hiram M. Chittenden Locks, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:04 to 07:34, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Spinasse, Seattle, visit from 08:04 to 09:29, ; Rocco's, Seattle, visit from 13:30 to 14:30, ; Hiram M. Chittenden Locks, Seattle, visit from 15:00 to 18:30, ; El Gaucho Seattle, Seattle, visit from 19:00 to 23:02, ; Cozy room near UW, stay from 23:32 to 07:32, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to San Diego",
+    "transportation": "Flight Number: F3750879, from Seattle to San Diego, Departure Time: 15:52, Arrival Time: 18:34",
+    "breakfast": "The Capital Grille, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "-",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:02 to 08:32, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; The Capital Grille, Seattle, visit from 09:02 to 09:52, ; Seattle Aquarium, Seattle, visit from 10:22 to 13:52, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 14:22 to 15:22, "
+  }
+]

@@ -1,0 +1,53 @@
+########## Driving response ##########
+            driving_info = DistanceSearch.run_for_all_cities('Dallas', cities, [city_0, city_1])  # use driving_info, do not customize
+            driving_0_distance, driving_0_length = DistanceSearch.get_info(driving_info, 'Dallas', variables['city'][0], 'Distance')
+            driving_1_distance, driving_1_length = DistanceSearch.get_info(driving_info, variables['city'][0], variables['city'][1], 'Distance')
+            driving_2_distance, driving_2_length = DistanceSearch.get_info(driving_info, variables['city'][1], 'Dallas', 'Distance')
+            driving_3_distance, driving_3_length = DistanceSearch.get_info(driving_info, 'Dallas', variables['city'][2], 'Distance')
+            driving_4_distance, driving_4_length = DistanceSearch.get_info(driving_info, variables['city'][2], 'Dallas', 'Distance')
+            driving_5_distance, driving_5_length = DistanceSearch.get_info(driving_info, 'Dallas', variables['city'][3], 'Distance')
+            driving_6_distance, driving_6_length = DistanceSearch.get_info(driving_info, variables['city'][3], 'Dallas', 'Distance')
+            driving_7_distance, driving_7_length = DistanceSearch.get_info(driving_info, 'Dallas', variables['city'][4], 'Distance')
+            driving_8_distance, driving_8_length = DistanceSearch.get_info(driving_info, variables['city'][4], 'Dallas', 'Distance')
+            
+            s.assert_and_track(Implies(Or(variables['self-driving'][0], variables['taxi'][0]), driving_0_length > 0), 'driving is possible for transportation 0')
+            s.assert_and_track(Implies(Or(variables['self-driving'][1], variables['taxi'][1]), driving_1_length > 0), 'driving is possible for transportation 1')
+            s.assert_and_track(Implies(Or(variables['self-driving'][2], variables['taxi'][2]), driving_2_length > 0), 'driving is possible for transportation 2')
+            s.assert_and_track(Implies(Or(variables['self-driving'][3], variables['taxi'][3]), driving_3_length > 0), 'driving is possible for transportation 3')
+            s.assert_and_track(Implies(Or(variables['self-driving'][4], variables['taxi'][4]), driving_4_length > 0), 'driving is possible for transportation 4')
+            s.assert_and_track(Implies(Or(variables['self-driving'][5], variables['taxi'][5]), driving_5_length > 0), 'driving is possible for transportation 5')
+            s.assert_and_track(Implies(Or(variables['self-driving'][6], variables['taxi'][6]), driving_6_length > 0), 'driving is possible for transportation 6')
+            s.assert_and_track(Implies(Or(variables['self-driving'][7], variables['taxi'][7]), driving_7_length > 0), 'driving is possible for transportation 7')
+            s.assert_and_track(Implies(Or(variables['self-driving'][8], variables['taxi'][8]), driving_8_length > 0), 'driving is possible for transportation 8')
+            
+            self_driving_0_price = 0.05 * driving_0_distance * math.ceil(6 / 5)
+            self_driving_1_price = 0.05 * driving_1_distance * math.ceil(6 / 5)
+            self_driving_2_price = 0.05 * driving_2_distance * math.ceil(6 / 5)
+            self_driving_3_price = 0.05 * driving_3_distance * math.ceil(6 / 5)
+            self_driving_4_price = 0.05 * driving_4_distance * math.ceil(6 / 5)
+            self_driving_5_price = 0.05 * driving_5_distance * math.ceil(6 / 5)
+            self_driving_6_price = 0.05 * driving_6_distance * math.ceil(6 / 5)
+            self_driving_7_price = 0.05 * driving_7_distance * math.ceil(6 / 5)
+            self_driving_8_price = 0.05 * driving_8_distance * math.ceil(6 / 5)
+            
+            taxi_0_price = driving_0_distance * math.ceil(6 / 4)
+            taxi_1_price = driving_1_distance * math.ceil(6 / 4)
+            taxi_2_price = driving_2_distance * math.ceil(6 / 4)
+            taxi_3_price = driving_3_distance * math.ceil(6 / 4)
+            taxi_4_price = driving_4_distance * math.ceil(6 / 4)
+            taxi_5_price = driving_5_distance * math.ceil(6 / 4)
+            taxi_6_price = driving_6_distance * math.ceil(6 / 4)
+            taxi_7_price = driving_7_distance * math.ceil(6 / 4)
+            taxi_8_price = driving_8_distance * math.ceil(6 / 4)
+            
+            driving_0_arrtime, _ = DistanceSearch.get_info(driving_info, 'Dallas', variables['city'][0], 'Duration')  # Use driving_0_arrtime, do not customize
+            driving_1_arrtime, _ = DistanceSearch.get_info(driving_info, variables['city'][0], variables['city'][1], 'Duration')  # Use driving_1_arrtime, do not customize
+            driving_2_arrtime, _ = DistanceSearch.get_info(driving_info, variables['city'][1], 'Dallas', 'Duration')  # Use driving_2_arrtime, do not customize
+            driving_3_arrtime, _ = DistanceSearch.get_info(driving_info, 'Dallas', variables['city'][2], 'Duration')  # Use driving_3_arrtime, do not customize
+            driving_4_arrtime, _ = DistanceSearch.get_info(driving_info, variables['city'][2], 'Dallas', 'Duration')  # Use driving_4_arrtime, do not customize
+            driving_5_arrtime, _ = DistanceSearch.get_info(driving_info, 'Dallas', variables['city'][3], 'Duration')  # Use driving_5_arrtime, do not customize
+            driving_6_arrtime, _ = DistanceSearch.get_info(driving_info, variables['city'][3], 'Dallas', 'Duration')  # Use driving_6_arrtime, do not customize
+            driving_7_arrtime, _ = DistanceSearch.get_info(driving_info, 'Dallas', variables['city'][4], 'Duration')  # Use driving_7_arrtime, do not customize
+            driving_8_arrtime, _ = DistanceSearch.get_info(driving_info, variables['city'][4], 'Dallas', 'Duration')  # Use driving_8_arrtime, do not customize
+            
+            ########## Driving response ends ##########

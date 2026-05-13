@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Shreveport to Los Angeles",
+    "transportation": "Flight Number: F1339573, from Shreveport to Los Angeles, Departure Time: 12:48, Arrival Time: 13:49",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Palm - L.A. Downtown, Los Angeles",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "5 star guest suite in L.A.'s  best location, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "5 star guest suite in L.A.'s  best location, stay from 14:19 to 14:49, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away; Griffith Park, Los Angeles, visit from 15:19 to 18:49, ; The Palm - L.A. Downtown, Los Angeles, visit from 20:45 to 22:53, ; 5 star guest suite in L.A.'s  best location, stay from 23:23 to 07:23, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Republique, Los Angeles",
+    "lunch": "Spire 73, Los Angeles",
+    "dinner": "Water Grill, Los Angeles",
+    "attraction": "Walt Disney Concert Hall, Los Angeles",
+    "accommodation": "5 star guest suite in L.A.'s  best location, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "5 star guest suite in L.A.'s  best location, stay from 07:53 to 08:23, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away; Republique, Los Angeles, visit from 08:53 to 09:43, ; Walt Disney Concert Hall, Los Angeles, visit from 10:13 to 13:43, ; Spire 73, Los Angeles, visit from 14:13 to 15:13, ; Water Grill, Los Angeles, visit from 19:14 to 20:29, ; 5 star guest suite in L.A.'s  best location, stay from 20:59 to 04:59, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to Shreveport",
+    "transportation": "Flight Number: F2561207, from Los Angeles to Shreveport, Departure Time: 06:29, Arrival Time: 11:47",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "5 star guest suite in L.A.'s  best location, stay from 05:29 to 05:59, nearest transit: La Cienega Blvd & Melrose (Southbound), 1144.09m away"
+  }
+]

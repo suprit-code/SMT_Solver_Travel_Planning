@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Santa Rosa",
+    "transportation": "Flight Number: F0400302, from Dallas to Santa Rosa, Departure Time: 11:25, Arrival Time: 13:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Franchettis' Gasthaus And Biergarten, Santa Rosa",
+    "attraction": "St. Francis Winery and Vineyards, Santa Rosa",
+    "accommodation": "Lovely older home w/ private rm and bath/tub., Santa Rosa",
+    "event": "-",
+    "point_of_interest_list": "Lovely older home w/ private rm and bath/tub., stay from 13:46 to 14:16, nearest transit: Fourth St @ Talbot Ave, 237.09m away; St. Francis Winery and Vineyards, visit from 14:46 to 16:46, nearest transit: Summerfield Rd @ Carissa Ave, 7237.95m away; Franchettis' Gasthaus And Biergarten, visit from 19:00 to 19:40, nearest transit: West College Ave @ Maxwell Ct, 236.11m away; Lovely older home w/ private rm and bath/tub., stay from 23:00 to 08:00, nearest transit: Fourth St @ Talbot Ave, 237.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Santa Rosa",
+    "transportation": "-",
+    "breakfast": "East West Cafe, Santa Rosa",
+    "lunch": "Yeti Restaurant, Santa Rosa",
+    "dinner": "Sazon, Santa Rosa",
+    "attraction": "Safari West, Santa Rosa",
+    "accommodation": "Lovely older home w/ private rm and bath/tub., Santa Rosa",
+    "event": "-",
+    "point_of_interest_list": "Lovely older home w/ private rm and bath/tub., stay from 08:00 to 08:30, nearest transit: Fourth St @ Talbot Ave, 237.09m away; East West Cafe, visit from 09:00 to 09:40, nearest transit: Montgomery Dr @ Summerfield Rd, 166.40m away; Safari West, visit from 10:10 to 12:10, nearest transit: 3585 Round Barn Blvd, 8901.29m away; Yeti Restaurant, visit from 13:40 to 14:20, nearest transit: Fourth St @ Farmers Ln, 147.61m away; Sazon, visit from 19:00 to 19:40, nearest transit: Sebastopol Rd @ Burbank Ave, 120.88m away; Lovely older home w/ private rm and bath/tub., stay from 23:00 to 08:00, nearest transit: Fourth St @ Talbot Ave, 237.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Santa Rosa to Dallas",
+    "transportation": "Flight Number: F3602678, from Santa Rosa to Dallas, Departure Time: 14:02, Arrival Time: 19:23",
+    "breakfast": "Piner Cafe, Santa Rosa",
+    "lunch": "Pho Vietnam, Santa Rosa",
+    "dinner": "-",
+    "attraction": "Harvest Moon Winery, Santa Rosa",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Lovely older home w/ private rm and bath/tub., stay from 08:00 to 08:30, nearest transit: Fourth St @ Talbot Ave, 237.09m away; Piner Cafe, visit from 09:00 to 09:40, nearest transit: Piner Rd @ Airway Dr, 130.32m away; Harvest Moon Winery, visit from 10:10 to 12:10, nearest transit: Fulton Rd @ Piner Rd, 4059.19m away; Pho Vietnam, visit from 12:52 to 13:32, nearest transit: Stony Point Rd @ Sebastopol Rd Food Maxx, 145.51m away"
+  }
+]

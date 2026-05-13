@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tucson to San Diego",
+    "transportation": "Flight Number: F0080601, from Tucson to San Diego, Departure Time: 14:22, Arrival Time: 15:31",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "-",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 16:01 to 16:31, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Lou & Mickey's, San Diego, visit from 19:00 to 22:53, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 23:23 to 07:23, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Born & Raised, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 07:53 to 08:23, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Juniper and Ivy, San Diego, visit from 08:53 to 10:00, ; San Diego Zoo, San Diego, visit from 10:30 to 14:00, ; Pacific Beach AleHouse, San Diego, visit from 14:30 to 16:44, ; Born & Raised, San Diego, visit from 20:45 to 23:09, ; Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 23:39 to 07:39, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Fresno",
+    "transportation": "Flight Number: F0589388, from San Diego to Fresno, Departure Time: 19:57, Arrival Time: 21:23",
+    "breakfast": "Mister A'S, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Warm Suite with Private Bath and Kitchenette, Fresno",
+    "event": "-",
+    "point_of_interest_list": "Twin Bed, Hot Tub, 15 min to Downtown&Beaches, stay from 08:09 to 08:39, nearest transit: Clairemont Mesa Bl & Limerick Av, 270.85m away; Mister A'S, San Diego, visit from 09:09 to 09:59, ; Mimmo's, San Diego, visit from 14:00 to 15:00, ; SeaWorld, San Diego, visit from 15:30 to 19:27, ; Warm Suite with Private Bath and Kitchenette, stay from 21:53 to 22:23, nearest transit: SE OLIVE - VAN NESS, 158.16m away; Warm Suite with Private Bath and Kitchenette, stay from 23:40 to 07:40, nearest transit: SE OLIVE - VAN NESS, 158.16m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Fresno",
+    "transportation": "-",
+    "breakfast": "Phoenician Garden Mediterranean Bar & Grill, Fresno",
+    "lunch": "Taqueria Don Pepe, Fresno",
+    "dinner": "Fig Garden Village, Fresno",
+    "attraction": "Fresno Chaffee Zoo, Fresno",
+    "accommodation": "Warm Suite with Private Bath and Kitchenette, Fresno",
+    "event": "-",
+    "point_of_interest_list": "Warm Suite with Private Bath and Kitchenette, stay from 08:10 to 08:40, nearest transit: SE OLIVE - VAN NESS, 158.16m away; Phoenician Garden Mediterranean Bar & Grill, Fresno, visit from 09:10 to 10:00, ; Fresno Chaffee Zoo, Fresno, visit from 10:30 to 14:00, ; Taqueria Don Pepe, Fresno, visit from 14:30 to 15:30, ; Fig Garden Village, Fresno, visit from 19:31 to 20:46, ; Warm Suite with Private Bath and Kitchenette, stay from 21:16 to 05:16, nearest transit: SE OLIVE - VAN NESS, 158.16m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Fresno to Tucson",
+    "transportation": "Taxi from Fresno to Tucson, duration: 762.06, distance: 1129.7628, cost : 1129.0",
+    "breakfast": "Ampersand Ice Cream, Fresno",
+    "lunch": "The Annex Kitchen, Fresno",
+    "dinner": "Parma, Fresno",
+    "attraction": "Kearney Mansion Museum & Gallery, Fresno",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Warm Suite with Private Bath and Kitchenette, stay from 06:00 to 06:30, nearest transit: SE OLIVE - VAN NESS, 158.16m away; Ampersand Ice Cream, Fresno, visit from 08:00 to 08:50, ; Kearney Mansion Museum & Gallery, Fresno, visit from 09:20 to 12:50, ; The Annex Kitchen, Fresno, visit from 13:20 to 14:20, ; Parma, Fresno, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,50 @@
+
+                def run_attraction_search(city_indices):
+                    attractions = {
+                        0: {'city': 0, 'category': 'Museums'},
+                        1: {'city': 0, 'category': 'Sights & Landmarks'},
+                        2: {'city': 1, 'category': 'Museums'},
+                        3: {'city': 1, 'category': 'Sights & Landmarks'},
+                        4: {'city': 2, 'category': 'Museums'},
+                        5: {'city': 2, 'category': 'Sights & Landmarks'},
+                        6: {'city': 0, 'category': 'Museums'}
+                    }
+                    
+                    attraction_in_which_city = [None] * 7
+                    attraction_index = [None] * 7
+                    
+                    # Example transportation times (in minutes)
+                    transportation_times = [0, 30, 60, 90, 120, 150, 180]
+                    
+                    for i in range(7):
+                        if i < len(transportation_times):
+                            arrival_time = transportation_times[i]
+                            if arrival_time <= 30:
+                                attraction_in_which_city[i] = city_indices[0]
+                            elif arrival_time <= 60:
+                                attraction_in_which_city[i] = city_indices[1]
+                            else:
+                                attraction_in_which_city[i] = city_indices[2]
+                    
+                    category_scores = {'Museums': 5, 'Sights & Landmarks': 3}
+                    
+                    total_score = 0
+                    for i in range(7):
+                        if attraction_in_which_city[i] is not None:
+                            attraction_index[i] = next((index for index, attr in attractions.items() if attr['city'] == attraction_in_which_city[i]), None)
+                            if attraction_index[i] is not None:
+                                if attractions[attraction_index[i]]['category'] in category_scores:
+                                    total_score += category_scores[attractions[attraction_index[i]]['category']]
+                                else:
+                                    print(f"Invalid category: {attractions[attraction_index[i]]['category']}")
+                            else:
+                                print(f"No attraction found for city: {attraction_in_which_city[i]}")
+                    
+                    return total_score
+                
+                # Example usage
+                city_indices = [0, 1, 2]
+                max_score = run_attraction_search(city_indices)
+                print(f"Total Score: {max_score}")
+                
+                This code defines a function `run_attraction_search` that takes a list of city indices as input. It then simulates selecting attractions based on the given cities and transportation times, and calculates the total score based on the categories of the selected attractions. The example usage demonstrates how to call this function with a sample list of city indices.

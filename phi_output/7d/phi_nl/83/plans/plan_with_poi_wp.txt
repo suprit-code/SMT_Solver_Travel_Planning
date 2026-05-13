@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Greensboro",
+    "transportation": "Taxi from Hartford to Greensboro, duration: 783.4616666666666, distance: 1043.7665, cost : 1043.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "MJ's Steak and Seafood, Greensboro",
+    "attraction": "-",
+    "accommodation": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 19:33 to 20:03, nearest transit: Merritt/Clifton, 637.24m away; MJ's Steak and Seafood, Greensboro, visit from 20:33 to 21:48, ; ⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 22:18 to 06:18, nearest transit: Merritt/Clifton, 637.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Greensboro",
+    "transportation": "-",
+    "breakfast": "Captain Bill's Seafood & Steak, Greensboro",
+    "lunch": "1618 West Seafood Grill, Greensboro",
+    "dinner": "Golden Wok, Greensboro",
+    "attraction": "International Civil Rights Center & Museum, Greensboro",
+    "accommodation": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, Greensboro",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 06:48 to 07:18, nearest transit: Merritt/Clifton, 637.24m away; Captain Bill's Seafood & Steak, Greensboro, visit from 08:49 to 10:00, ; International Civil Rights Center & Museum, Greensboro, visit from 10:30 to 14:00, ; 1618 West Seafood Grill, Greensboro, visit from 14:30 to 15:44, ; Golden Wok, Greensboro, visit from 19:45 to 21:00, ; ⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 21:30 to 05:30, nearest transit: Merritt/Clifton, 637.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Greensboro to Wilmington",
+    "transportation": "Taxi from Greensboro to Wilmington, duration: 238.5133333333333, distance: 334.2868, cost : 334.0",
+    "breakfast": "Fleming's Prime Steakhouse & Wine Bar, Greensboro",
+    "lunch": "Mimi's Cafe, Greensboro",
+    "dinner": "The Dixie Grill, Wilmington",
+    "attraction": "Ambleside Gallery, Greensboro",
+    "accommodation": "Serendipitous Studio - Entire Place, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "⭐️ Amelia’s Retreat ⭐️ @ Greensboro 🐕📚🏊‍♀️🏥, stay from 06:00 to 06:30, nearest transit: Merritt/Clifton, 637.24m away; Fleming's Prime Steakhouse & Wine Bar, Greensboro, visit from 08:00 to 08:50, ; Ambleside Gallery, Greensboro, visit from 09:47 to 13:17, ; Mimi's Cafe, Greensboro, visit from 13:47 to 14:47, ; Serendipitous Studio - Entire Place, stay from 19:45 to 20:15, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; The Dixie Grill, Wilmington, visit from 20:45 to 22:00, ; Serendipitous Studio - Entire Place, stay from 22:30 to 06:30, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Wilmington",
+    "transportation": "-",
+    "breakfast": "Winnie's Tavern, Wilmington",
+    "lunch": "Catch, Wilmington",
+    "dinner": "Flaming Amy's Burrito Barn, Wilmington",
+    "attraction": "Burgwin-Wright House and Gardens, Wilmington",
+    "accommodation": "Serendipitous Studio - Entire Place, Wilmington",
+    "event": "-",
+    "point_of_interest_list": "Serendipitous Studio - Entire Place, stay from 07:00 to 07:30, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; Winnie's Tavern, Wilmington, visit from 09:10 to 10:00, ; Burgwin-Wright House and Gardens, Wilmington, visit from 10:30 to 14:00, ; Catch, Wilmington, visit from 14:30 to 15:30, ; Flaming Amy's Burrito Barn, Wilmington, visit from 20:45 to 23:10, ; Serendipitous Studio - Entire Place, stay from 23:40 to 07:40, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Wilmington to Charlotte",
+    "transportation": "Flight Number: F3786883, from Wilmington to Charlotte, Departure Time: 16:04, Arrival Time: 17:15",
+    "breakfast": "PinPoint Restaurant, Wilmington",
+    "lunch": "The Anchor, Wilmington",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Walk to Light Rail from a Roomy Basement Apartment, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Serendipitous Studio - Entire Place, stay from 08:10 to 08:40, nearest transit: Gordon Rd WB at Military Cutoff Rd, 9560.33m away; PinPoint Restaurant, Wilmington, visit from 09:10 to 10:00, ; The Anchor, Wilmington, visit from 14:30 to 15:30, ; Walk to Light Rail from a Roomy Basement Apartment, stay from 17:45 to 18:15, nearest transit: Scaleybark Station Bus Bay, 563.2m away; Walk to Light Rail from a Roomy Basement Apartment, stay from 22:50 to 06:50, nearest transit: Scaleybark Station Bus Bay, 563.2m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Charlotte",
+    "transportation": "-",
+    "breakfast": "Rooster's Wood-Fired Kitchen - Uptown, Charlotte",
+    "lunch": "Gaucho Charlotte Street, Charlotte",
+    "dinner": "The Terrace at The Charlotte Inn, Charlotte",
+    "attraction": "Mint Museum Uptown, Charlotte",
+    "accommodation": "Walk to Light Rail from a Roomy Basement Apartment, Charlotte",
+    "event": "-",
+    "point_of_interest_list": "Walk to Light Rail from a Roomy Basement Apartment, stay from 07:20 to 07:50, nearest transit: Scaleybark Station Bus Bay, 563.2m away; Rooster's Wood-Fired Kitchen - Uptown, Charlotte, visit from 08:20 to 09:10, ; Mint Museum Uptown, Charlotte, visit from 09:40 to 13:10, ; Gaucho Charlotte Street, Charlotte, visit from 13:40 to 14:40, ; The Terrace at The Charlotte Inn, Charlotte, visit from 19:00 to 20:15, ; Walk to Light Rail from a Roomy Basement Apartment, stay from 22:30 to 06:30, nearest transit: Scaleybark Station Bus Bay, 563.2m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Charlotte to Hartford",
+    "transportation": "Taxi from Charlotte to Hartford, duration: 880.2583333333333, distance: 1178.0703, cost : 1178.0",
+    "breakfast": "Charlotte's Tavern, Charlotte",
+    "lunch": "Mert's Heart and Soul, Charlotte",
+    "dinner": "Queen Charlotte, Charlotte",
+    "attraction": "Discovery Place Science, Charlotte",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Walk to Light Rail from a Roomy Basement Apartment, stay from 07:00 to 07:30, nearest transit: Scaleybark Station Bus Bay, 563.2m away; Charlotte's Tavern, Charlotte, visit from 08:00 to 08:50, ; Mert's Heart and Soul, Charlotte, visit from 12:51 to 13:51, ; Discovery Place Science, Charlotte, visit from 14:21 to 17:51, ; Queen Charlotte, Charlotte, visit from 19:00 to 20:15, "
+  }
+]

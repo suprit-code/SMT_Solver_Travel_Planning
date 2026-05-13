@@ -1,0 +1,4 @@
+not ok
+Unsatisfiable core:
+Latin Americantype restaurant
+Latin Americantype restaurant is visited

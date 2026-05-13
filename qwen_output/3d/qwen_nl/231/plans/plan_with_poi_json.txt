@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Anchorage to Atlanta",
+    "transportation": "Flight Number: F1262073, from Anchorage to Atlanta, Departure Time: 20:15, Arrival Time: 07:03",
+    "breakfast": "Canoe, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Atlanta History Center, Atlanta",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Max's Coal Oven Pizzeria, Atlanta",
+    "lunch": "South City Kitchen Midtown, Atlanta",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "Fox Theatre, Atlanta",
+    "accommodation": "Historic Lounge - Private BR in the Heart of ATL#2, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 08:00 to 08:30, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; Max's Coal Oven Pizzeria, visit from 08:55 to 09:35, nearest transit: MARIETTA ST @ BAKER ST NW, 33.64m away; Fox Theatre, visit from 10:00 to 12:00, nearest transit: PEACHTREE ST NE @ PONCE DE LEON AVE, 41.68m away; South City Kitchen Midtown, visit from 13:35 to 14:15, nearest transit: PEACHTREE ST @ 14TH ST NE, 128.52m away; Aviva by Kameel, visit from 19:00 to 19:40, nearest transit: PEACHTREE ST @ ANDREW YOUNG INTL BLVD (PEACHTREE CTR STN), 52.19m away; Historic Lounge - Private BR in the Heart of ATL#2, stay from 20:05 to 08:00, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Anchorage",
+    "transportation": "Flight Number: F1557189, from Atlanta to Anchorage, Departure Time: 15:08, Arrival Time: 18:19",
+    "breakfast": "The Optimist, Atlanta",
+    "lunch": "Ray's in the City, Atlanta",
+    "dinner": "Pasta Da Pulcinella, Atlanta",
+    "attraction": "Jimmy Carter Presidential Library & Museum, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic Lounge - Private BR in the Heart of ATL#2, stay from 08:00 to 08:10, nearest transit: RALPH MCGILL BLVD NE @ CENTRAL PARK PL, 303.03m away; The Optimist, visit from 08:35 to 08:48, nearest transit: W MARIETTA ST @ BRADY AVE, 164.88m away; Jimmy Carter Presidential Library & Museum, visit from 09:13 to 11:13, nearest transit: JOHN LEWIS FREEDOM PKWY NE @ 441, 125.80m away; Ray's in the City, visit from 12:00 to 12:13, nearest transit: PEACHTREE ST @ JOHN PORTMAN BLVD (P'TREE CTR STATION), 15.57m away; Pasta Da Pulcinella, visit from 14:30 to 14:43, nearest transit: W PEACHTREE ST @ 12TH ST, 81.90m away"
+  }
+]

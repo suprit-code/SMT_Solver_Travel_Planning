@@ -1,0 +1,6 @@
+Destination cities: ['Los Angeles'],
+Transportation dates: ['2024-11-25', '2024-11-27'],
+Transportation methods between cities: ['Flight Number: F1339573, from Shreveport to Los Angeles, Departure Time: 12:48, Arrival Time: 13:49', 'Flight Number: F2561207, from Los Angeles to Shreveport, Departure Time: 06:29, Arrival Time: 11:47'],
+Restaurants (3 meals per day): ['-', 'Musso & Frank Grill, Los Angeles', 'Patina Restaurant, Los Angeles', '71Above Restaurant and Skylounge, Los Angeles', 'Water Grill, Los Angeles', 'The Lobster, Los Angeles', 'Spire 73, Los Angeles', 'n/naka, Los Angeles', '-'],
+Attractions (1 per day): ['Hollywood Sign, Los Angeles', 'Walt Disney Concert Hall, Los Angeles', '-'],
+Accommodations (1 per city): ["5 star guest suite in L.A.'s  best location, Los Angeles"]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Las Vegas",
+    "transportation": "Flight Number: F0919318, from Sioux Falls to Las Vegas, Departure Time: 15:40, Arrival Time: 16:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Blossom, Las Vegas",
+    "attraction": "-",
+    "accommodation": "Adorable Sendera Santa, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Adorable Sendera Santa, stay from 16:41 to 17:11, nearest transit: The Strat, 11681.92m away; Blossom, Las Vegas, visit from 19:00 to 22:14, ; Adorable Sendera Santa, stay from 22:44 to 06:44, nearest transit: The Strat, 11681.92m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Carmine's, Las Vegas",
+    "lunch": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "dinner": "Mr. Mamas, Las Vegas",
+    "attraction": "High Roller, Las Vegas",
+    "accommodation": "Adorable Sendera Santa, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Adorable Sendera Santa, stay from 07:14 to 07:44, nearest transit: The Strat, 11681.92m away; Carmine's, Las Vegas, visit from 08:14 to 09:59, ; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 14:00 to 15:00, ; High Roller, Las Vegas, visit from 15:30 to 19:15, ; Mr. Mamas, Las Vegas, visit from 19:45 to 21:00, ; Adorable Sendera Santa, stay from 21:30 to 05:30, nearest transit: The Strat, 11681.92m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Sioux Falls",
+    "transportation": "Flight Number: F2560739, from Las Vegas to Sioux Falls, Departure Time: 16:07, Arrival Time: 20:39",
+    "breakfast": "Ameribrunch Cafe, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "-",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Adorable Sendera Santa, stay from 06:00 to 07:30, nearest transit: The Strat, 11681.92m away; Ameribrunch Cafe, Las Vegas, visit from 08:00 to 08:50, ; Hoover Dam Bypass, Las Vegas, visit from 09:20 to 12:50, ; Eggscellent, Las Vegas, visit from 13:20 to 14:20, "
+  }
+]

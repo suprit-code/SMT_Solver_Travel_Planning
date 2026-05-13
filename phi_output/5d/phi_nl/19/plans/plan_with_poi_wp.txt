@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to San Diego",
+    "transportation": "Flight Number: F1596568, from El Paso to San Diego, Departure Time: 14:37, Arrival Time: 15:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Covewood Restaurant, San Diego",
+    "attraction": "-",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 15:46 to 16:16, nearest transit: Imperial Av & 54th St, 396.9m away; Covewood Restaurant, San Diego, visit from 19:00 to 20:15, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 22:30 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Addison Restaurant, San Diego",
+    "lunch": "Buon Appetito, San Diego",
+    "dinner": "Civico 1845, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Private, Cozy, near Downtown, Balboa Park, Harbor, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 07:00 to 07:30, nearest transit: Imperial Av & 54th St, 396.9m away; Addison Restaurant, San Diego, visit from 08:00 to 10:00, ; SeaWorld, San Diego, visit from 10:30 to 14:00, ; Buon Appetito, San Diego, visit from 14:30 to 15:30, ; Civico 1845, San Diego, visit from 20:45 to 22:00, ; Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 22:30 to 06:30, nearest transit: Imperial Av & 54th St, 396.9m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F2204782, from San Diego to Sacramento, Departure Time: 20:20, Arrival Time: 21:46",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Ruth's Chris Steak House, San Diego",
+    "dinner": "-",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private, Cozy, near Downtown, Balboa Park, Harbor, stay from 07:00 to 07:30, nearest transit: Imperial Av & 54th St, 396.9m away; Din Tai Fung, San Diego, visit from 08:00 to 08:50, ; San Diego Zoo, San Diego, visit from 09:20 to 12:50, ; Ruth's Chris Steak House, San Diego, visit from 14:30 to 19:50, ; Peaceful and Cozy Studio, stay from 22:16 to 22:46, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Peaceful and Cozy Studio, stay from 23:16 to 07:16, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "The Firehouse Restaurant, Sacramento",
+    "lunch": "Grange Restaurant & Bar, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 07:58 to 08:28, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; The Firehouse Restaurant, Sacramento, visit from 08:58 to 09:48, ; California State Capitol Museum, Sacramento, visit from 10:30 to 14:00, ; Grange Restaurant & Bar, Sacramento, visit from 14:30 to 15:30, ; Nopalitos, Sacramento, visit from 20:45 to 22:00, ; Peaceful and Cozy Studio, stay from 22:30 to 06:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to El Paso",
+    "transportation": "Taxi from Sacramento to El Paso, duration: 1267.745, distance: 1906.2027, cost : 1906.0",
+    "breakfast": "Moxie, Sacramento",
+    "lunch": "Il Fornaio, Sacramento",
+    "dinner": "Mulvaney's Building & Loan, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 07:00 to 07:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Moxie, Sacramento, visit from 08:00 to 08:50, ; Il Fornaio, Sacramento, visit from 12:51 to 13:51, ; Capitol Park, Sacramento, visit from 14:21 to 17:51, ; Mulvaney's Building & Loan, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

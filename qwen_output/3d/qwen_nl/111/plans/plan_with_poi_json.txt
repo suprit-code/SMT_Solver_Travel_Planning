@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to San Francisco",
+    "transportation": "Flight Number: F1474906, from Charlotte to San Francisco, Departure Time: 13:11, Arrival Time: 15:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Pier Market Seafood Restaurant, San Francisco",
+    "attraction": "Golden Gate Park, San Francisco",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 15:45 to 16:05, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Golden Gate Park, visit from 16:30 to 18:30, nearest transit: Civic Center BART (9th and Market), 5974.62m away; Pier Market Seafood Restaurant, visit from 19:00 to 19:40, nearest transit: Mission @ Spear (Embarcadero), 2413.84m away; Updated Private Bedroom with Ensuite Bathroom., stay from 20:05 to 08:00, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Mo's Grill, San Francisco",
+    "lunch": "Capital Restaurant, San Francisco",
+    "dinner": "Fog Harbor Fish House, San Francisco",
+    "attraction": "Japanese Tea Garden, San Francisco",
+    "accommodation": "Updated Private Bedroom with Ensuite Bathroom., San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 08:00 to 08:30, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; Mo's Grill, visit from 08:55 to 09:35, nearest transit: Mission @ Spear (Embarcadero), 1392.17m away; Japanese Tea Garden, visit from 10:00 to 12:00, nearest transit: Civic Center BART (9th and Market), 4861.86m away; Capital Restaurant, visit from 13:35 to 14:15, nearest transit: Powell @ 22 4th, 972.30m away; Fog Harbor Fish House, visit from 19:00 to 19:40, nearest transit: Mission @ Spear (Embarcadero), 2323.00m away; Updated Private Bedroom with Ensuite Bathroom., stay from 20:05 to 08:00, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Charlotte",
+    "transportation": "Flight Number: F2811338, from San Francisco to Charlotte, Departure Time: 13:20, Arrival Time: 21:04",
+    "breakfast": "The Codmother Fish & Chips, San Francisco",
+    "lunch": "Good Mong Kok Bakery, San Francisco",
+    "dinner": "-",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Updated Private Bedroom with Ensuite Bathroom., stay from 08:00 to 08:10, nearest transit: 1111 8th Street (CCA/Adobe), 5985.81m away; The Codmother Fish & Chips, visit from 08:35 to 08:48, nearest transit: Mission @ Spear (Embarcadero), 2616.38m away; Pier 39, visit from 09:13 to 11:13, nearest transit: Mission @ Spear (Embarcadero), 2268.81m away; Good Mong Kok Bakery, visit from 12:15 to 12:55, nearest transit: Powell @ 22 4th, 1141.50m away"
+  }
+]

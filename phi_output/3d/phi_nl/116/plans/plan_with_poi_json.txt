@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Colorado Springs",
+    "transportation": "Flight Number: F0011833, from Chicago to Colorado Springs, Departure Time: 08:52, Arrival Time: 10:24",
+    "breakfast": "-",
+    "lunch": "Prime 25, Colorado Springs",
+    "dinner": "Uchenna, Colorado Springs",
+    "attraction": "Seven Falls, Colorado Springs",
+    "accommodation": "Creekside Cowboy Cabin with 360\u00b0 Mountain Views, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Creekside Cowboy Cabin with 360\u00b0 Mountain Views, stay from 10:54 to 11:24, nearest transit: Ruxton/Fairview, 10061.41m away; Prime 25, visit from 12:00 to 12:40, nearest transit: Brookside/Cascade, 181.96m away; Seven Falls, visit from 13:10 to 15:10, nearest transit: Mesa/Lake, 2799.21m away; Uchenna, visit from 19:00 to 19:40, nearest transit: Colorado/25th, 42.42m away; Creekside Cowboy Cabin with 360\u00b0 Mountain Views, stay from 23:00 to 08:00, nearest transit: Ruxton/Fairview, 10061.41m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Colorado Springs",
+    "transportation": "-",
+    "breakfast": "Restaurant 1858, Colorado Springs",
+    "lunch": "Denver Biscuit Company, Colorado Springs",
+    "dinner": "Mountain Shadows Restaurant, Colorado Springs",
+    "attraction": "Garden of the Gods, Colorado Springs",
+    "accommodation": "Creekside Cowboy Cabin with 360\u00b0 Mountain Views, Colorado Springs",
+    "event": "-",
+    "point_of_interest_list": "Creekside Cowboy Cabin with 360\u00b0 Mountain Views, stay from 08:00 to 08:30, nearest transit: Ruxton/Fairview, 10061.41m away; Restaurant 1858, visit from 09:00 to 09:40, nearest transit: Moreno/Communication, 320.84m away; Garden of the Gods, visit from 10:10 to 12:10, nearest transit: Fillmore/Grand Vista, 1350.56m away; Denver Biscuit Company, visit from 13:40 to 14:20, nearest transit: Nevada/Cimarron, 195.42m away; Mountain Shadows Restaurant, visit from 19:00 to 19:40, nearest transit: Colorado/23rd, 76.10m away; Creekside Cowboy Cabin with 360\u00b0 Mountain Views, stay from 23:00 to 08:00, nearest transit: Ruxton/Fairview, 10061.41m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Colorado Springs to Chicago",
+    "transportation": "Flight Number: F2664912, from Colorado Springs to Chicago, Departure Time: 17:13, Arrival Time: 20:21",
+    "breakfast": "Cowboy Star, Colorado Springs",
+    "lunch": "MacKenzie's Chop House, Colorado Springs",
+    "dinner": "The Famous Steak House, Colorado Springs",
+    "attraction": "U.S. Olympic & Paralympic Museum, Colorado Springs",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Creekside Cowboy Cabin with 360\u00b0 Mountain Views, stay from 08:00 to 08:30, nearest transit: Ruxton/Fairview, 10061.41m away; Cowboy Star, visit from 09:00 to 09:40, nearest transit: Nevada/Eagle Rock, 261.61m away; U.S. Olympic & Paralympic Museum, visit from 10:10 to 12:10, nearest transit: Colorado/Sahwatch, 350.50m away; MacKenzie's Chop House, visit from 12:40 to 13:20, nearest transit: Nevada/Colorado, 204.36m away; The Famous Steak House, visit from 16:03 to 16:43, nearest transit: Terminal, 131.95m away"
+  }
+]

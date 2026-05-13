@@ -1,0 +1,51 @@
+# Destination cities #
+# Run CitySearch to get all possible destination cities in California State for dates ["2024-11-17", "2024-11-18", "2024-11-19", "2024-11-20", "2024-11-21"] from origin 'Atlanta', remove origin 'Atlanta' if it is in list. (*For 5 days mode you have to include this step*)
+# Loop through cities for 2 destination cities
+# Initialize Z3 solver s
+# Set 'city' variable to be indexes of 2 destination cities
+# If city_0_index and city_1_index are not same, assert 2 'city' variables equal to city index
+
+# Departure dates #
+# Set 'departure_dates' variables for 1 transportation between cities.
+# Assert first transportation happens at first day (day 0), last transportation happens at last day (day 4), and there is no second transportation.
+
+# Transportation methods #
+# Set transportation method (flight, self-driving, taxi) variable for 1 transportation between cities. **All three keys must be initialized.**
+# Declare arrival time variables for 1 transportation
+# Assert only one of flight, self-driving, or taxi is used for 1 transportation between cities, self-driving is not valid if taxi or flight is used for any transportation
+# Assert the transportation between cities is not self-driving
+
+# Flight information #
+# Run FlightSearch to get flight info for Atlanta as origin, list of cities, city_0 and city_1, and dates ["2024-11-17", "2024-11-18", "2024-11-19", "2024-11-20", "2024-11-21"]
+# Get specific flight price info with origin_city and final destination, specific city variable, and departure date for 1 transportation
+# Set 'flight_index' variable for 1 transportation
+# Assert 1 'flight_index' variable is within valid range if taking flight, assert flight index to be -1 if not taking flight
+# Calculate flight price for 1 person for 1 transportation based on flight index variable
+# Get specific flight arrival time info with origin_city and final destination, specific city, and departure date for 1 transportation
+# Calculate flight arrival time for 1 transportation based on flight index variable
+
+# Driving information #
+# Run DistanceSearch to get driving info for Atlanta as origin and city_0 and city_1
+# Get specific driving distance info with Atlanta as origin and final destination, specific city, and departure date for 1 transportation
+# Assert driving info is not empty if driving
+# Calculate self-driving and taxi price for 1 person and 1 transportation based on driving distance. **All variables must be initialized.**
+# Get driving arrival time with Atlanta as origin and final destination, specific city, and departure date for 1 transportation
+
+# Restaurant information #
+# Get arrivals and city list for each day based on 1 transportation, 5 total travel day, and departure dates variables
+# Run RestaurantSearch to get restaurant price info and cuisine info for city_0 and city_1
+# Set 'restaurant_in_which_city' variables for (5 x 3) (3 meals per day, total_travel_days days) meals.
+# For each 'restaurant_in_which_city' variable, assert it to be either current city or next city based on transportation arrivals time
+# Set 'restaurant_index' variables for (5 x 3) (3 meals per day, total_travel_days days) meals.
+# For each 'restaurant_index', get specific price info based on 'restaurant_in_which_city' variable, assert index are within valid range, assert restaurants in same city are not repeated, and calculate restaurant price for 1 person
+# Calculate restaurant price based on restaurant index
+
+# Dining cuisine preference #
+# Define cuisine preference variables for Chinese and Italian cuisines
+# For each meal, assert the restaurant chosen has Chinese or Italian cuisine based on cuisine preference variables
+
+# Budget #
+# Set budget limit variable to be 4500
+# Add transportation price to spent, according to whether transportation method is flight or taxi
+# Add restaurant price to spent
+# Assert current spent is within budget

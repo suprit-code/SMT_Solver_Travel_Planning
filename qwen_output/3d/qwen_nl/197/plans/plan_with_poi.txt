@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Hartford",
+    "transportation": "Taxi from Washington to Hartford, duration: 426.4883333333333, distance: 540.9555, cost : 540.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Max Downtown, Hartford",
+    "attraction": "-",
+    "accommodation": "Private Spacious Suite with Private entrance!, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Private Spacious Suite with Private entrance!, stay from 13:36 to 14:06, nearest transit: Windsor, 9161.82m away; Max Downtown, Hartford, visit from 19:00 to 20:15, ; Private Spacious Suite with Private entrance!, stay from 20:45 to 04:45, nearest transit: Windsor, 9161.82m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "Hartford Coffee Co., Hartford",
+    "lunch": "Hartford House, Hartford",
+    "dinner": "The Capital Grille, Hartford",
+    "attraction": "Hartford Stage, Hartford",
+    "accommodation": "Private Spacious Suite with Private entrance!, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Private Spacious Suite with Private entrance!, stay from 06:00 to 06:30, nearest transit: Windsor, 9161.82m away; Hartford Coffee Co., Hartford, visit from 08:09 to 08:59, ; Hartford House, Hartford, visit from 13:00 to 15:00, ; Hartford Stage, Hartford, visit from 15:30 to 20:15, ; The Capital Grille, Hartford, visit from 20:45 to 22:47, ; Private Spacious Suite with Private entrance!, stay from 23:17 to 07:17, nearest transit: Windsor, 9161.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Washington",
+    "transportation": "Flight Number: F1400946, from Hartford to Washington, Departure Time: 11:44, Arrival Time: 13:10",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Spacious Suite with Private entrance!, stay from 07:47 to 08:17, nearest transit: Windsor, 9161.82m away"
+  }
+]

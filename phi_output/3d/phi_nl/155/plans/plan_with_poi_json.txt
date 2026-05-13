@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Missoula to San Francisco",
+    "transportation": "Flight Number: F2382252, from Missoula to San Francisco, Departure Time: 16:14, Arrival Time: 17:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Lands End, San Francisco",
+    "accommodation": "Harry Potter Lego themed Guestroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "lunch": "Z & Y Restaurant, San Francisco",
+    "dinner": "Mersea Restaurant & Bar, San Francisco",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "Harry Potter Lego themed Guestroom, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Harry Potter Lego themed Guestroom, stay from 08:00 to 08:30, nearest transit: Civic Center BART (9th and Market), 84.44m away; Fogo de Chao Brazilian Steakhouse, visit from 09:00 to 09:40, nearest transit: Powell @ 22 4th, 490.45m away; Pier 39, visit from 10:10 to 12:10, nearest transit: Mission @ Spear (Embarcadero), 2268.81m away; Z & Y Restaurant, visit from 13:40 to 14:20, nearest transit: Mission @ Spear (Embarcadero), 1149.68m away; Mersea Restaurant & Bar, visit from 19:00 to 19:40, nearest transit: Mission @ Spear (Embarcadero), 3667.91m away; Harry Potter Lego themed Guestroom, stay from 23:00 to 08:00, nearest transit: Civic Center BART (9th and Market), 84.44m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Missoula",
+    "transportation": "taxi, from San Francisco to Missoula, duration: 1112.4816666666666, distance: 1581.5232, cost: 1581",
+    "breakfast": "Blue Mermaid Restaurant, San Francisco",
+    "lunch": "Eight Am, San Francisco",
+    "dinner": "Fog Harbor Fish House, San Francisco",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Harry Potter Lego themed Guestroom, stay from 08:00 to 08:30, nearest transit: Civic Center BART (9th and Market), 84.44m away; Blue Mermaid Restaurant, visit from 09:00 to 09:40, nearest transit: Powell @ 22 4th, 2767.62m away; Alcatraz Island, visit from 10:10 to 12:10, nearest transit: Mission @ Spear (Embarcadero), 4605.72m away; Eight Am, visit from 13:40 to 14:20, nearest transit: Powell @ 22 4th, 2606.31m away; Fog Harbor Fish House, visit from 19:00 to 19:40, nearest transit: Mission @ Spear (Embarcadero), 2323.00m away"
+  }
+]

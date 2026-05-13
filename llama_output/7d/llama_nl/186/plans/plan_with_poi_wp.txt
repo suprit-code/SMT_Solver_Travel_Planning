@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cedar Rapids to Amarillo",
+    "transportation": "Self-driving from Cedar Rapids to Amarillo, duration: 969.0383333333334, distance: 1439.1213, cost : 71.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 22:40 to 23:10, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Relaxing Place to Stay with Guest Living Room!, stay from 23:40 to 07:40, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Amarillo",
+    "transportation": "-",
+    "breakfast": "Golden Light Cafe & Cantina, Amarillo",
+    "lunch": "575° Pizzeria - Hillside, Amarillo",
+    "dinner": "El Manantial, Amarillo",
+    "attraction": "Cadillac Ranch, Amarillo",
+    "accommodation": "Relaxing Place to Stay with Guest Living Room!, Amarillo",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 08:10 to 08:40, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; Golden Light Cafe & Cantina, Amarillo, visit from 09:10 to 10:00, ; Cadillac Ranch, Amarillo, visit from 10:30 to 14:00, ; 575° Pizzeria - Hillside, Amarillo, visit from 14:30 to 15:30, ; El Manantial, Amarillo, visit from 19:45 to 21:00, ; Relaxing Place to Stay with Guest Living Room!, stay from 21:30 to 05:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Amarillo to Houston",
+    "transportation": "Self-driving from Amarillo to Houston, duration: 649.365, distance: 961.8577, cost : 48.0",
+    "breakfast": "El Bracero Mexican Grill, Amarillo",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "Relaxing Place to Stay with Guest Living Room!, stay from 06:00 to 06:30, nearest transit: Canyon Dr & SE 22nd Ave, 402.12m away; El Bracero Mexican Grill, Amarillo, visit from 08:00 to 08:50, ; #4 Northwest Victory Single BR, stay from 20:39 to 21:09, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; #4 Northwest Victory Single BR, stay from 22:24 to 06:24, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Goode Company BBQ, Houston",
+    "lunch": "Houston's, Houston",
+    "dinner": "Houston's Restaurant & Pub, Houston",
+    "attraction": "Holocaust Museum Houston, Houston",
+    "accommodation": "#4 Northwest Victory Single BR, Houston",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:54 to 07:24, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Goode Company BBQ, Houston, visit from 08:37 to 10:00, ; Holocaust Museum Houston, Houston, visit from 10:30 to 14:00, ; Houston's, Houston, visit from 14:30 to 15:30, ; Houston's Restaurant & Pub, Houston, visit from 19:31 to 20:46, ; #4 Northwest Victory Single BR, stay from 21:16 to 05:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Houston to San Antonio",
+    "transportation": "Self-driving from Houston to San Antonio, duration: 211.06833333333333, distance: 315.3022, cost : 15.0",
+    "breakfast": "Houstons Bar and Grill, Houston",
+    "lunch": "Houston's Restaurant, Houston",
+    "dinner": "-",
+    "attraction": "Museum of Fine Arts, Houston, Houston",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "#4 Northwest Victory Single BR, stay from 06:00 to 06:30, nearest transit: Victory Dr @ Birchcroft Dr, 213.13m away; Houstons Bar and Grill, Houston, visit from 08:00 to 08:50, ; Houston's Restaurant, Houston, visit from 12:51 to 13:51, ; Museum of Fine Arts, Houston, Houston, visit from 14:21 to 17:51, ; Cozy Private Room near UTSA & LaCantera, stay from 22:22 to 22:52, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Cozy Private Room near UTSA & LaCantera, stay from 23:22 to 07:22, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 6,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Santa Diabla - Cocina Mexicana, San Antonio",
+    "lunch": "Boudro's Texas Bistro, San Antonio",
+    "dinner": "Pollos Asados Los Nortenos, San Antonio",
+    "attraction": "The Alamo, San Antonio",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 07:52 to 08:22, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Santa Diabla - Cocina Mexicana, San Antonio, visit from 08:55 to 09:45, ; The Alamo, San Antonio, visit from 10:15 to 13:45, ; Boudro's Texas Bistro, San Antonio, visit from 14:15 to 15:15, ; Pollos Asados Los Nortenos, San Antonio, visit from 20:45 to 22:00, ; Cozy Private Room near UTSA & LaCantera, stay from 22:30 to 06:30, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from San Antonio to Cedar Rapids",
+    "transportation": "Self-driving from San Antonio to Cedar Rapids, duration: 1195.5833333333333, distance: 1823.7287, cost : 91.0",
+    "breakfast": "Pinkerton's Barbecue, San Antonio",
+    "lunch": "Schilo's, San Antonio",
+    "dinner": "The Guenther House, San Antonio",
+    "attraction": "Majestic & Empire Theatres, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 07:00 to 07:30, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Pinkerton's Barbecue, San Antonio, visit from 08:00 to 08:50, ; Majestic & Empire Theatres, San Antonio, visit from 09:20 to 14:00, ; Schilo's, San Antonio, visit from 14:30 to 15:30, ; The Guenther House, San Antonio, visit from 19:31 to 20:46, "
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Reno to San Diego",
+    "transportation": "Flight Number: F2640631, from Reno to San Diego, Departure Time: 09:43, Arrival Time: 11:20",
+    "breakfast": "-",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "Old Town San Diego, San Diego",
+    "accommodation": "Big Bay Views, San Diego Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 11:50 to 13:30, nearest transit: Rosecrans St & Talbot St, 129.96m away; Cowboy Star, San Diego, visit from 14:00 to 15:00, ; Old Town San Diego, San Diego, visit from 15:30 to 20:15, ; Din Tai Fung, San Diego, visit from 20:45 to 22:03, ; Big Bay Views, San Diego Bay, stay from 22:33 to 06:33, nearest transit: Rosecrans St & Talbot St, 129.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Mister A'S, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Big Bay Views, San Diego Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 07:03 to 07:33, nearest transit: Rosecrans St & Talbot St, 129.96m away; Born & Raised, San Diego, visit from 08:03 to 08:53, ; Cabrillo National Monument, San Diego, visit from 09:23 to 12:53, ; Mister A'S, San Diego, visit from 13:23 to 14:23, ; Addison Restaurant, San Diego, visit from 20:45 to 22:00, ; Big Bay Views, San Diego Bay, stay from 22:30 to 06:30, nearest transit: Rosecrans St & Talbot St, 129.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Centrally located with private entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 07:00 to 07:30, nearest transit: Rosecrans St & Talbot St, 129.96m away; Juniper and Ivy, San Diego, visit from 08:00 to 08:50, ; Centrally located with private entrance, stay from 22:04 to 22:34, nearest transit: Churn Creek Rd at Browning St, 382.27m away; Centrally located with private entrance, stay from 23:04 to 07:04, nearest transit: Churn Creek Rd at Browning St, 382.27m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Market Street Steakhouse, Redding",
+    "lunch": "View 202, Redding",
+    "dinner": "Final Draft Brewing Company, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "Centrally located with private entrance, Redding",
+    "event": "-",
+    "point_of_interest_list": "Centrally located with private entrance, stay from 07:34 to 08:04, nearest transit: Churn Creek Rd at Browning St, 382.27m away; Market Street Steakhouse, Redding, visit from 09:10 to 10:00, ; Sundial Bridge, Redding, visit from 10:30 to 14:00, ; View 202, Redding, visit from 14:30 to 15:44, ; Final Draft Brewing Company, Redding, visit from 19:45 to 21:00, ; Centrally located with private entrance, stay from 21:30 to 05:30, nearest transit: Churn Creek Rd at Browning St, 382.27m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Reno",
+    "transportation": "Taxi from Redding to Reno, duration: 248.73166666666663, distance: 319.7163, cost : 319.0",
+    "breakfast": "Jack's Grill, Redding",
+    "lunch": "Vintage Public House, Redding",
+    "dinner": "Lumberjack's Restaurant, Redding",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Centrally located with private entrance, stay from 06:00 to 06:30, nearest transit: Churn Creek Rd at Browning St, 382.27m away; Jack's Grill, Redding, visit from 08:00 to 08:50, ; Turtle Bay Exploration Park, Redding, visit from 09:20 to 12:50, ; Vintage Public House, Redding, visit from 13:20 to 14:20, ; Lumberjack's Restaurant, Redding, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Missoula to San Francisco",
+    "transportation": "Flight Number: F1169882, from Missoula to San Francisco, Departure Time: 16:11, Arrival Time: 17:33",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, San Francisco",
+    "attraction": "-",
+    "accommodation": "Style & Comfort-Private Suite near UCSF and GGPark, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Style & Comfort-Private Suite near UCSF and GGPark, stay from 18:03 to 18:33, nearest transit: Civic Center BART (9th and Market), 5178.06m away; Fogo de Chao Brazilian Steakhouse, San Francisco, visit from 20:45 to 22:55, ; Style & Comfort-Private Suite near UCSF and GGPark, stay from 23:25 to 07:25, nearest transit: Civic Center BART (9th and Market), 5178.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Francisco",
+    "transportation": "-",
+    "breakfast": "Mersea Restaurant & Bar, San Francisco",
+    "lunch": "Waterbar, San Francisco",
+    "dinner": "Kokkari Estiatorio, San Francisco",
+    "attraction": "Pier 39, San Francisco",
+    "accommodation": "Style & Comfort-Private Suite near UCSF and GGPark, San Francisco",
+    "event": "-",
+    "point_of_interest_list": "Style & Comfort-Private Suite near UCSF and GGPark, stay from 07:55 to 08:25, nearest transit: Civic Center BART (9th and Market), 5178.06m away; Mersea Restaurant & Bar, San Francisco, visit from 08:55 to 09:45, ; Pier 39, San Francisco, visit from 10:15 to 13:45, ; Waterbar, San Francisco, visit from 14:15 to 15:44, ; Kokkari Estiatorio, San Francisco, visit from 19:45 to 21:00, ; Style & Comfort-Private Suite near UCSF and GGPark, stay from 21:30 to 05:30, nearest transit: Civic Center BART (9th and Market), 5178.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Francisco to Missoula",
+    "transportation": "Taxi from San Francisco to Missoula, duration: 1112.4816666666666, distance: 1581.5232, cost : 1581.0",
+    "breakfast": "Quince, San Francisco",
+    "lunch": "Fog Harbor Fish House, San Francisco",
+    "dinner": "-",
+    "attraction": "Alcatraz Island, San Francisco",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Style & Comfort-Private Suite near UCSF and GGPark, stay from 06:00 to 06:30, nearest transit: Civic Center BART (9th and Market), 5178.06m away; Quince, San Francisco, visit from 09:08 to 09:58, ; Fog Harbor Fish House, San Francisco, visit from 13:59 to 14:59, ; Alcatraz Island, San Francisco, visit from 15:29 to 18:59, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Savannah",
+    "transportation": "Self-driving from Washington to Savannah, duration: 641.56, distance: 930.7148, cost : 46.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "King Bed, Very Walkable Location!  By FREE Shuttle, Savannah",
+    "event": "-",
+    "point_of_interest_list": "King Bed, Very Walkable Location!  By FREE Shuttle, stay from 19:45 to 20:15, nearest transit: ABERCORN & 33rd SB, 35.1m away; King Bed, Very Walkable Location!  By FREE Shuttle, stay from 22:53 to 06:53, nearest transit: ABERCORN & 33rd SB, 35.1m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Savannah",
+    "transportation": "-",
+    "breakfast": "The Public Kitchen & Bar, Savannah",
+    "lunch": "Rocks on the Roof, Savannah",
+    "dinner": "Vinnie Van Go-Go's, Savannah",
+    "attraction": "Owens-Thomas House & Slave Quarters, Savannah",
+    "accommodation": "King Bed, Very Walkable Location!  By FREE Shuttle, Savannah",
+    "event": "-",
+    "point_of_interest_list": "King Bed, Very Walkable Location!  By FREE Shuttle, stay from 07:23 to 07:53, nearest transit: ABERCORN & 33rd SB, 35.1m away; The Public Kitchen & Bar, Savannah, visit from 08:23 to 09:13, ; Rocks on the Roof, Savannah, visit from 14:00 to 15:00, ; Owens-Thomas House & Slave Quarters, Savannah, visit from 15:30 to 19:00, ; Vinnie Van Go-Go's, Savannah, visit from 19:45 to 21:00, ; King Bed, Very Walkable Location!  By FREE Shuttle, stay from 21:30 to 05:30, nearest transit: ABERCORN & 33rd SB, 35.1m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Savannah to Washington",
+    "transportation": "Self-driving from Savannah to Washington, duration: 640.9533333333333, distance: 929.4432, cost : 46.0",
+    "breakfast": "The Pirates' House, Savannah",
+    "lunch": "Jazz'd Tapas Bar, Savannah",
+    "dinner": "Goose Feathers Cafe & Bakery, Savannah",
+    "attraction": "SCADstory, Savannah",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "King Bed, Very Walkable Location!  By FREE Shuttle, stay from 06:00 to 06:30, nearest transit: ABERCORN & 33rd SB, 35.1m away; The Pirates' House, Savannah, visit from 08:00 to 08:50, ; SCADstory, Savannah, visit from 09:20 to 12:50, ; Jazz'd Tapas Bar, Savannah, visit from 14:30 to 15:30, ; Goose Feathers Cafe & Bakery, Savannah, visit from 19:31 to 20:46, "
+  }
+]

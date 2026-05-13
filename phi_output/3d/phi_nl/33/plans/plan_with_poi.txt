@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F1815368, from Denver to San Diego, Departure Time: 08:11, Arrival Time: 09:16",
+    "breakfast": "-",
+    "lunch": "Mister A'S, San Diego",
+    "dinner": "Juniper and Ivy, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Blue Beach House 🏖 5 blocks to Beach /Restaurants, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Blue Beach House 🏖 5 blocks to Beach /Restaurants, stay from 09:46 to 11:30, nearest transit: Mission Bl & Sapphire St, 920.18m away; Mister A'S, San Diego, visit from 12:00 to 13:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 20:15, ; Juniper and Ivy, San Diego, visit from 20:45 to 22:29, ; Blue Beach House 🏖 5 blocks to Beach /Restaurants, stay from 22:59 to 06:59, nearest transit: Mission Bl & Sapphire St, 920.18m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "World Famous, San Diego",
+    "dinner": "Alforon, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Blue Beach House 🏖 5 blocks to Beach /Restaurants, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Blue Beach House 🏖 5 blocks to Beach /Restaurants, stay from 07:29 to 07:59, nearest transit: Mission Bl & Sapphire St, 920.18m away; Lou & Mickey's, San Diego, visit from 08:29 to 09:19, ; World Famous, San Diego, visit from 13:20 to 14:20, ; Cabrillo National Monument, San Diego, visit from 14:50 to 18:20, ; Alforon, San Diego, visit from 19:00 to 20:15, ; Blue Beach House 🏖 5 blocks to Beach /Restaurants, stay from 20:45 to 05:30, nearest transit: Mission Bl & Sapphire St, 920.18m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Denver",
+    "transportation": "Flight Number: F1805697, from San Diego to Denver, Departure Time: 16:05, Arrival Time: 19:20",
+    "breakfast": "Cowboy Star, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "-",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Blue Beach House 🏖 5 blocks to Beach /Restaurants, stay from 06:00 to 06:30, nearest transit: Mission Bl & Sapphire St, 920.18m away; Cowboy Star, San Diego, visit from 08:00 to 08:50, ; SeaWorld, San Diego, visit from 09:20 to 14:00, ; Born & Raised, San Diego, visit from 14:30 to 15:30, "
+  }
+]

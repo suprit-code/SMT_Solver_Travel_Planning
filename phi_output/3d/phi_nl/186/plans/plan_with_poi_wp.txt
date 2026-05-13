@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charlotte to Houston",
+    "transportation": "Flight Number: F1073412, from Charlotte to Houston, Departure Time: 06:24, Arrival Time: 07:57",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Goode Company BBQ, Houston",
+    "attraction": "-",
+    "accommodation": "Charming Studio Apt in the heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Charming Studio Apt in the heart of the Heights, stay from 08:27 to 09:09, nearest transit: E 20th St @ Oxford St, 367.79m away; Brennan's of Houston, Houston, visit from 09:39 to 10:29, ; Houston Restaurant, Houston, visit from 14:30 to 16:44, ; Goode Company BBQ, Houston, visit from 20:45 to 22:37, ; Charming Studio Apt in the heart of the Heights, stay from 23:07 to 07:07, nearest transit: E 20th St @ Oxford St, 367.79m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Houstons Bar and Grill, Houston",
+    "dinner": "The Original Ninfa's, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Charming Studio Apt in the heart of the Heights, Houston",
+    "event": "-",
+    "point_of_interest_list": "Charming Studio Apt in the heart of the Heights, stay from 07:37 to 08:07, nearest transit: E 20th St @ Oxford St, 367.79m away; Pappas Bros. Steakhouse, Houston, visit from 08:37 to 09:27, ; Downtown Aquarium, Houston, visit from 09:57 to 13:27, ; Houstons Bar and Grill, Houston, visit from 13:57 to 14:57, ; The Original Ninfa's, Houston, visit from 19:00 to 20:15, ; Charming Studio Apt in the heart of the Heights, stay from 20:45 to 05:30, nearest transit: E 20th St @ Oxford St, 367.79m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Charlotte",
+    "transportation": "Flight Number: F0106749, from Houston to Charlotte, Departure Time: 19:37, Arrival Time: 22:44",
+    "breakfast": "Pappadeaux Seafood Kitchen, Houston",
+    "lunch": "The Breakfast Klub, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Charming Studio Apt in the heart of the Heights, stay from 06:00 to 06:30, nearest transit: E 20th St @ Oxford St, 367.79m away; Pappadeaux Seafood Kitchen, Houston, visit from 08:00 to 08:50, ; Houston Zoo, Houston, visit from 09:20 to 12:50, ; The Breakfast Klub, Houston, visit from 13:20 to 14:20, "
+  }
+]

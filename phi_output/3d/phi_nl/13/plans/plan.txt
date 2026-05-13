@@ -1,0 +1,6 @@
+Destination cities: ['Tucson'],
+Transportation dates: ['2024-11-24', '2024-11-26'],
+Transportation methods between cities: ['Flight Number: F0632476, from Everett to Tucson, Departure Time: 10:42, Arrival Time: 14:29', 'Flight Number: F0515324, from Tucson to Everett, Departure Time: 14:11, Arrival Time: 17:26'],
+Restaurants (3 meals per day): ['-', '-', 'North Italia, Tucson', 'Baja Cafe of Tucson, Tucson', 'Blue Willow Restaurant & Gift Shop, Tucson', "Opa's Best Greek American Cuisine, Tucson", '5 Points Market and Restaurant, Tucson', "Bobo's Restaurant, Tucson", '-'],
+Attractions (1 per day): ['The Mini Time Machine Museum of Miniatures, Tucson', 'Arizona-Sonora Desert Museum, Tucson', '-'],
+Accommodations (1 per city): ['Accessible Private Studio, Entrance & Parking., Tucson']

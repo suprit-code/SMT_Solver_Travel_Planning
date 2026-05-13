@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Nashville",
+    "transportation": "Flight Number: F4006546, from San Diego to Nashville, Departure Time: 09:39, Arrival Time: 15:19",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "attraction": "Ole Smoky Distillery & Yee-Haw Brewery, Nashville",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 15:44 to 16:04, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; Ole Smoky Distillery & Yee-Haw Brewery, visit from 16:29 to 18:29, nearest transit: KOREAN VETS BLVD & 6TH AVE WB, 122.92m away; Jeff Ruby's Steakhouse, Nashville, visit from 19:00 to 19:40, nearest transit: CENTRAL 4TH AVE - BAY 13, 188.66m away; The Stewart House in 12th South - Half House, stay from 20:05 to 08:00, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Aquarium Restaurant, Nashville",
+    "lunch": "1 Kitchen, Nashville",
+    "dinner": "Harriet's Rooftop, Nashville",
+    "attraction": "Musicians Hall of Fame and Museum, Nashville",
+    "accommodation": "The Stewart House in 12th South - Half House, Nashville",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 08:00 to 08:30, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; Aquarium Restaurant, visit from 08:55 to 09:35, nearest transit: OPRY MILLS DR & GENERAL JACKSON'S, 170.74m away; Musicians Hall of Fame and Museum, visit from 10:00 to 12:00, nearest transit: 4TH AVE & MCC PLAZA, 128.72m away; 1 Kitchen, visit from 13:35 to 14:15, nearest transit: 8TH AVE S & DEMONBREUN ST SB, 67.82m away; Harriet's Rooftop, visit from 19:00 to 19:40, nearest transit: 8TH AVE S & DEMONBREUN ST SB, 66.96m away; The Stewart House in 12th South - Half House, stay from 20:05 to 08:00, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to San Diego",
+    "transportation": "Flight Number: F0971317, from Nashville to San Diego, Departure Time: 12:29, Arrival Time: 14:55",
+    "breakfast": "The Catbird Seat, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Stewart House in 12th South - Half House, stay from 08:00 to 08:10, nearest transit: 12TH AVE & CARUTHERS AVE SB, 371.78m away; The Catbird Seat, visit from 08:35 to 08:48, nearest transit: BROADWAY AVE & 17TH AVE S EB, 189.47m away; Kayne Prime, visit from 11:51 to 12:04, nearest transit: 11TH AVE & DEMONBREUN NB, 104.79m away"
+  }
+]

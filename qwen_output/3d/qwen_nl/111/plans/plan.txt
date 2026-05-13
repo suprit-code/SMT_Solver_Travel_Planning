@@ -1,0 +1,6 @@
+Destination cities: ['San Francisco'],
+Transportation dates: ['2024-11-13', '2024-11-15'],
+Transportation methods between cities: ['Flight Number: F1474906, from Charlotte to San Francisco, Departure Time: 13:11, Arrival Time: 15:20', 'Flight Number: F2811338, from San Francisco to Charlotte, Departure Time: 13:20, Arrival Time: 21:04'],
+Restaurants (3 meals per day): ['-', '-', 'Pier Market Seafood Restaurant, San Francisco', "Mo's Grill, San Francisco", 'Capital Restaurant, San Francisco', 'Fog Harbor Fish House, San Francisco', 'The Codmother Fish & Chips, San Francisco', 'Good Mong Kok Bakery, San Francisco', '-'],
+Attractions (1 per day): ['Golden Gate Park, San Francisco', 'Japanese Tea Garden, San Francisco', 'Pier 39, San Francisco'],
+Accommodations (1 per city): ['Updated Private Bedroom with Ensuite Bathroom., San Francisco']

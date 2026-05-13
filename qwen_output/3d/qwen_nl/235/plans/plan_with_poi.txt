@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Los Angeles to Reno",
+    "transportation": "Self-driving from Los Angeles to Reno, duration: 577.24, distance: 830.7624000000001, cost : 41.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Bertha Miranda's Mexican Restaurant, Reno",
+    "attraction": "-",
+    "accommodation": "Cozy, modern retreat steps from Midtown & Hospital, Reno",
+    "event": "-",
+    "point_of_interest_list": "Cozy, modern retreat steps from Midtown & Hospital, stay from 19:45 to 20:15, nearest transit: Kirman Avenue and Moran Street, 105.13m away; Bertha Miranda's Mexican Restaurant, Reno, visit from 20:45 to 22:23, ; Cozy, modern retreat steps from Midtown & Hospital, stay from 22:53 to 06:53, nearest transit: Kirman Avenue and Moran Street, 105.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Reno",
+    "transportation": "-",
+    "breakfast": "Smee's Alaskan Fish Bar, Reno",
+    "lunch": "Lulou's Restaurant, Reno",
+    "dinner": "Bimini Steakhouse, Reno",
+    "attraction": "Truckee River Walk, Reno",
+    "accommodation": "Cozy, modern retreat steps from Midtown & Hospital, Reno",
+    "event": "-",
+    "point_of_interest_list": "Cozy, modern retreat steps from Midtown & Hospital, stay from 07:23 to 07:53, nearest transit: Kirman Avenue and Moran Street, 105.13m away; Smee's Alaskan Fish Bar, Reno, visit from 08:23 to 09:13, ; Truckee River Walk, Reno, visit from 10:30 to 14:00, ; Lulou's Restaurant, Reno, visit from 14:30 to 15:30, ; Bimini Steakhouse, Reno, visit from 19:31 to 20:46, ; Cozy, modern retreat steps from Midtown & Hospital, stay from 00:00 to 08:00, nearest transit: Kirman Avenue and Moran Street, 105.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Reno to Los Angeles",
+    "transportation": "Flight Number: F3850772, from Reno to Los Angeles, Departure Time: 11:06, Arrival Time: 12:30",
+    "breakfast": "Romanza Ristorante Italiano, Reno",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy, modern retreat steps from Midtown & Hospital, stay from 08:30 to 09:00, nearest transit: Kirman Avenue and Moran Street, 105.13m away; Romanza Ristorante Italiano, Reno, visit from 09:30 to 10:36, "
+  }
+]

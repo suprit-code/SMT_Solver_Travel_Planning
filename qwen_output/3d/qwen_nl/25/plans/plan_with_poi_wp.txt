@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Houston",
+    "transportation": "Flight Number: F3917006, from Boston to Houston, Departure Time: 09:58, Arrival Time: 13:00",
+    "breakfast": "-",
+    "lunch": "Kenny & Ziggy's New York Deli, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "-",
+    "accommodation": "Private entrance from the patio to a cozy bedroom, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private entrance from the patio to a cozy bedroom, stay from 13:30 to 14:00, nearest transit: W Gray St @ Bailey St, 132.42m away; Kenny & Ziggy's New York Deli, Houston, visit from 14:30 to 16:44, ; Fogo de Chao Brazilian Steakhouse, Houston, visit from 20:45 to 22:03, ; Private entrance from the patio to a cozy bedroom, stay from 22:33 to 06:33, nearest transit: W Gray St @ Bailey St, 132.42m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Uchi Houston, Houston",
+    "dinner": "Eddie V's Prime Seafood, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Private entrance from the patio to a cozy bedroom, Houston",
+    "event": "-",
+    "point_of_interest_list": "Private entrance from the patio to a cozy bedroom, stay from 07:03 to 07:33, nearest transit: W Gray St @ Bailey St, 132.42m away; Pappas Bros. Steakhouse, Houston, visit from 08:03 to 09:59, ; Uchi Houston, Houston, visit from 14:00 to 15:00, ; Hermann Park, Houston, visit from 15:30 to 20:15, ; Eddie V's Prime Seafood, Houston, visit from 20:45 to 22:00, ; Private entrance from the patio to a cozy bedroom, stay from 22:30 to 06:30, nearest transit: W Gray St @ Bailey St, 132.42m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Boston",
+    "transportation": "Flight Number: F3906110, from Houston to Boston, Departure Time: 19:00, Arrival Time: 23:40",
+    "breakfast": "Brennan's of Houston, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "-",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private entrance from the patio to a cozy bedroom, stay from 07:00 to 07:30, nearest transit: W Gray St @ Bailey St, 132.42m away; Brennan's of Houston, Houston, visit from 08:00 to 08:50, ; Cockrell Butterfly Center, Houston, visit from 09:20 to 12:50, ; Pappadeaux Seafood Kitchen, Houston, visit from 13:20 to 14:20, "
+  }
+]

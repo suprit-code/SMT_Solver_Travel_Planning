@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sitka to Seattle",
+    "transportation": "Flight Number: F1516791, from Sitka to Seattle, Departure Time: 14:00, Arrival Time: 17:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Place Pigalle Restaurant and Bar, Seattle",
+    "attraction": "-",
+    "accommodation": "Treehouse with a VIEW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Treehouse with a VIEW, stay from 17:50 to 18:20, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away; Place Pigalle Restaurant and Bar, Seattle, visit from 20:45 to 22:39, ; Treehouse with a VIEW, stay from 23:09 to 07:09, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Spinasse, Seattle",
+    "dinner": "Il Terrazzo Carmine, Seattle",
+    "attraction": "Klondike Gold Rush National Historical Park, Seattle",
+    "accommodation": "Treehouse with a VIEW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Treehouse with a VIEW, stay from 07:39 to 08:09, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away; Noi Thai Cuisine, Seattle, visit from 08:39 to 09:29, ; Spinasse, Seattle, visit from 13:30 to 14:30, ; Klondike Gold Rush National Historical Park, Seattle, visit from 15:00 to 18:30, ; Il Terrazzo Carmine, Seattle, visit from 19:00 to 20:15, ; Treehouse with a VIEW, stay from 20:45 to 04:45, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Sitka",
+    "transportation": "Flight Number: F1518675, from Seattle to Sitka, Departure Time: 22:36, Arrival Time: 23:53",
+    "breakfast": "Tulio, Seattle",
+    "lunch": "Chinook's, Seattle",
+    "dinner": "JaK's Grill, Seattle",
+    "attraction": "Museum of Pop Culture, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Treehouse with a VIEW, stay from 06:00 to 06:30, nearest transit: Harbour Pointe Blvd & Chennault Beach Rd, 1546.96m away; Tulio, Seattle, visit from 08:00 to 08:50, ; Museum of Pop Culture, Seattle, visit from 09:20 to 12:50, ; Chinook's, Seattle, visit from 14:30 to 15:30, ; JaK's Grill, Seattle, visit from 19:31 to 20:46, "
+  }
+]

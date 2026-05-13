@@ -1,0 +1,6 @@
+Destination cities: ['Kansas City'],
+Transportation dates: ['2024-11-19', '2024-11-21'],
+Transportation methods between cities: ['Flight Number: F2071796, from Detroit to Kansas City, Departure Time: 08:23, Arrival Time: 09:21', 'Flight Number: F1261403, from Kansas City to Detroit, Departure Time: 17:32, Arrival Time: 20:19'],
+Restaurants (3 meals per day): ['The Capital Grille, Kansas City', 'Grunauer, Kansas City', '801 Chophouse, Kansas City', 'Q39 - Midtown, Kansas City', 'Bella Napoli, Kansas City', 'KC Chop House, Kansas City', 'Bristol Seafood + Steak + Social, Kansas City', 'Fogo de Chao Brazilian Steakhouse, Kansas City', '-'],
+Attractions (1 per day): ['Country Club Plaza, Kansas City', "Tom's Town Distilling Co., Kansas City", 'Crown Center, Kansas City'],
+Accommodations (1 per city): ['Beautiful large King bedroom with luxury bedding, Kansas City']

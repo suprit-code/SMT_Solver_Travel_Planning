@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Chicago to Chattanooga",
+    "transportation": "Flight Number: F3363091, from Chicago to Chattanooga, Departure Time: 14:33, Arrival Time: 17:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Uncle Larry's Restaurant, Chattanooga",
+    "attraction": "-",
+    "accommodation": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 17:53 to 18:23, nearest transit: MAIN + RIVERFRONT, 3475.51m away; Uncle Larry's Restaurant, Chattanooga, visit from 19:00 to 21:00, ; *RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 21:30 to 05:30, nearest transit: MAIN + RIVERFRONT, 3475.51m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Chattanooga",
+    "transportation": "-",
+    "breakfast": "Hickory Pit Bar-B-Que, Chattanooga",
+    "lunch": "HiFi Clyde's Chattanooga, Chattanooga",
+    "dinner": "Stir, Chattanooga",
+    "attraction": "Coolidge Park, Chattanooga",
+    "accommodation": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, Chattanooga",
+    "event": "-",
+    "point_of_interest_list": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 06:00 to 06:30, nearest transit: MAIN + RIVERFRONT, 3475.51m away; Hickory Pit Bar-B-Que, Chattanooga, visit from 08:26 to 09:16, ; Coolidge Park, Chattanooga, visit from 09:46 to 13:16, ; HiFi Clyde's Chattanooga, Chattanooga, visit from 13:46 to 14:46, ; Stir, Chattanooga, visit from 19:00 to 20:15, ; *RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 20:45 to 04:45, nearest transit: MAIN + RIVERFRONT, 3475.51m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Chattanooga to Chicago",
+    "transportation": "Flight Number: F3932754, from Chattanooga to Chicago, Departure Time: 17:43, Arrival Time: 18:55",
+    "breakfast": "-",
+    "lunch": "Public House, Chattanooga",
+    "dinner": "-",
+    "attraction": "Tennessee Valley Railroad Museum, Chattanooga",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "*RusticCottage*\n-Downtown 6 miles -Mtn Views, stay from 06:00 to 06:30, nearest transit: MAIN + RIVERFRONT, 3475.51m away; Tennessee Valley Railroad Museum, Chattanooga, visit from 09:00 to 12:30, ; Public House, Chattanooga, visit from 13:00 to 17:13, "
+  }
+]

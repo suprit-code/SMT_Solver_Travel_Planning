@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to New York",
+    "transportation": "Flight Number: F1014617, from Raleigh to New York, Departure Time: 15:44, Arrival Time: 17:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "New York Public Library, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "Westway Diner, New York",
+    "lunch": "Trattoria Trecolori, New York",
+    "dinner": "FIG & OLIVE, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "Minimal room 1 SofaBed + loft bed in Manhattan, New York",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 08:00 to 08:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Westway Diner, visit from 09:00 to 09:40, nearest transit: 9 AV/W 44 ST, 44.32m away; The Metropolitan Museum of Art, visit from 10:10 to 12:10, nearest transit: 5 AV/E 80 ST, 182.01m away; Trattoria Trecolori, visit from 13:40 to 14:20, nearest transit: 8 AV/W 46 ST, 97.17m away; FIG & OLIVE, visit from 19:00 to 19:40, nearest transit: 5 AV/W 52 ST, 84.16m away; Minimal room 1 SofaBed + loft bed in Manhattan, stay from 23:00 to 08:00, nearest transit: 9 AV/W 30 ST, 139.35m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Raleigh",
+    "transportation": "Flight Number: F3200896, from New York to Raleigh, Departure Time: 18:55, Arrival Time: 20:37",
+    "breakfast": "Carmine's, New York",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "-",
+    "attraction": "The National 9/11 Memorial & Museum, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Minimal room 1 SofaBed + loft bed in Manhattan, stay from 08:00 to 08:30, nearest transit: 9 AV/W 30 ST, 139.35m away; Carmine's, visit from 09:00 to 09:40, nearest transit: 7 AV/W 44 ST, 61.95m away; The National 9/11 Memorial & Museum, visit from 10:10 to 12:10, nearest transit: CHURCH ST/LIBERTY ST, 234.55m away; Times Square Diner, visit from 13:40 to 14:20, nearest transit: W 49 ST/8 AV, 51.46m away"
+  }
+]

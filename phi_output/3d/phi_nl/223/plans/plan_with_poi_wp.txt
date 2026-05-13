@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Lexington",
+    "transportation": "Self-driving from Detroit to Lexington, duration: 387.0566666666667, distance: 548.257, cost : 27.0",
+    "breakfast": "-",
+    "lunch": "J. Alexander's Restaurant, Lexington",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 13:00 to 13:30, nearest transit: Chandler Hospital, 202.96m away; J. Alexander's Restaurant, Lexington, visit from 14:00 to 15:00, ; A single room for your stay, stay from 22:35 to 06:35, nearest transit: Chandler Hospital, 202.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Lexington",
+    "transportation": "-",
+    "breakfast": "The Triangle Grille, Lexington",
+    "lunch": "The Rackhouse Tavern, Lexington",
+    "dinner": "Bluegrass Bistro, Lexington",
+    "attraction": "James E. Pepper Distillery, Lexington",
+    "accommodation": "A single room for your stay, Lexington",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 07:05 to 07:35, nearest transit: Chandler Hospital, 202.96m away; The Triangle Grille, Lexington, visit from 08:05 to 08:55, ; James E. Pepper Distillery, Lexington, visit from 09:25 to 14:00, ; The Rackhouse Tavern, Lexington, visit from 14:30 to 15:30, ; Bluegrass Bistro, Lexington, visit from 19:31 to 20:46, ; A single room for your stay, stay from 21:16 to 05:30, nearest transit: Chandler Hospital, 202.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Lexington to Detroit",
+    "transportation": "Self-driving from Lexington to Detroit, duration: 389.9566666666667, distance: 549.431, cost : 27.0",
+    "breakfast": "Carson's Food & Drink - On Main, Lexington",
+    "lunch": "Keeneland Track Kitchen, Lexington",
+    "dinner": "-",
+    "attraction": "Lexington Brewing & Distilling Co., Lexington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A single room for your stay, stay from 06:00 to 06:30, nearest transit: Chandler Hospital, 202.96m away; Carson's Food & Drink - On Main, Lexington, visit from 08:00 to 08:50, ; Keeneland Track Kitchen, Lexington, visit from 12:51 to 13:51, ; Lexington Brewing & Distilling Co., Lexington, visit from 14:21 to 17:51, "
+  }
+]

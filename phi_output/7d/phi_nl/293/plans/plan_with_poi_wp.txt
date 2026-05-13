@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F1174948, from Everett to San Diego, Departure Time: 14:25, Arrival Time: 17:14",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Barbusa, San Diego",
+    "attraction": "-",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 17:44 to 18:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Barbusa, San Diego, visit from 19:00 to 20:15, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 22:40 to 06:40, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Ruth's Chris Steak House, San Diego",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "South Mission Beach - Hotel Style Unit w/ AC, San Diego",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 07:10 to 07:40, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Mimmo's, San Diego, visit from 08:10 to 09:00, ; La Jolla Shores Park, San Diego, visit from 10:30 to 14:00, ; Cowboy Star, San Diego, visit from 14:30 to 15:44, ; Ruth's Chris Steak House, San Diego, visit from 19:45 to 21:00, ; South Mission Beach - Hotel Style Unit w/ AC, stay from 21:30 to 05:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "House of Peace - Quiet, Peaceful, near Shasta Lake, Redding",
+    "event": "-",
+    "point_of_interest_list": "South Mission Beach - Hotel Style Unit w/ AC, stay from 06:00 to 06:30, nearest transit: W Mission Bay Dr & Mariners Wy, 1171.86m away; Pacific Beach AleHouse, San Diego, visit from 08:00 to 08:50, ; House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 22:04 to 22:37, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away; House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 23:07 to 07:07, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Karlines, Redding",
+    "lunch": "Kobe Seafood & Steakhouse, Redding",
+    "dinner": "Jack's Grill, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "House of Peace - Quiet, Peaceful, near Shasta Lake, Redding",
+    "event": "-",
+    "point_of_interest_list": "House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 07:37 to 08:07, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away; Karlines, Redding, visit from 08:37 to 09:27, ; Kobe Seafood & Steakhouse, Redding, visit from 13:28 to 14:28, ; Sundial Bridge, Redding, visit from 15:30 to 19:15, ; Jack's Grill, Redding, visit from 19:45 to 21:00, ; House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 21:30 to 05:30, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Taxi from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 259.0",
+    "breakfast": "Cheesecakes Unlimited, Redding",
+    "lunch": "Fratelli’s Pizza Parlour, Redding",
+    "dinner": "The Firehouse Restaurant, Sacramento",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "House of Peace - Quiet, Peaceful, near Shasta Lake, stay from 06:00 to 06:30, nearest transit: Shasta Dam Blvd at Lake Blvd, 475.08m away; Cheesecakes Unlimited, Redding, visit from 08:00 to 08:50, ; Turtle Bay Exploration Park, Redding, visit from 09:20 to 12:50, ; Fratelli’s Pizza Parlour, Redding, visit from 13:20 to 14:20, ; Private Guest Bed 'N Bath near Downtown, stay from 18:16 to 18:46, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; The Firehouse Restaurant, Sacramento, visit from 19:16 to 20:31, ; Private Guest Bed 'N Bath near Downtown, stay from 21:01 to 05:01, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Nopalitos, Sacramento",
+    "lunch": "Zocalo, Sacramento",
+    "dinner": "Dawson's Steakhouse, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Nopalitos, Sacramento, visit from 08:33 to 09:23, ; Capitol Park, Sacramento, visit from 10:30 to 14:00, ; Zocalo, Sacramento, visit from 14:30 to 15:30, ; Dawson's Steakhouse, Sacramento, visit from 19:31 to 20:46, ; Private Guest Bed 'N Bath near Downtown, stay from 21:16 to 05:16, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Everett",
+    "transportation": "Taxi from Sacramento to Everett, duration: 905.6966666666668, distance: 1256.0839, cost : 1256.0",
+    "breakfast": "-",
+    "lunch": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "dinner": "Grange Restaurant & Bar, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 06:00 to 06:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; California State Capitol Museum, Sacramento, visit from 09:00 to 12:30, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 13:00 to 14:00, ; Grange Restaurant & Bar, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

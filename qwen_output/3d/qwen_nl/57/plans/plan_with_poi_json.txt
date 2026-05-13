@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Baltimore",
+    "transportation": "Flight Number: F2173317, from Indianapolis to Baltimore, Departure Time: 10:18, Arrival Time: 11:52",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Blue Moon Cafe, Baltimore",
+    "attraction": "Fort McHenry National Monument And Historic Shrine, Baltimore",
+    "accommodation": "Notel 9 Getaway Suite with Sauna, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 12:17 to 12:37, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; Fort McHenry National Monument And Historic Shrine, visit from 13:02 to 15:02, nearest transit: SHOT TOWER STATION (METRO) sb, 3547.78m away; Blue Moon Cafe, visit from 19:00 to 19:40, nearest transit: SHOT TOWER STATION (METRO) sb, 1161.67m away; Notel 9 Getaway Suite with Sauna, stay from 20:05 to 08:00, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Baltimore",
+    "transportation": "-",
+    "breakfast": "Chiapparelli's Restaurant, Baltimore",
+    "lunch": "Pratt Street Ale House, Baltimore",
+    "dinner": "Toki Underground Baltimore, Baltimore",
+    "attraction": "National Aquarium, Baltimore",
+    "accommodation": "Notel 9 Getaway Suite with Sauna, Baltimore",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; Chiapparelli's Restaurant, visit from 08:55 to 09:35, nearest transit: SHOT TOWER STATION (METRO) sb, 464.36m away; National Aquarium, visit from 10:00 to 12:00, nearest transit: SHOT TOWER METRO West Entrance, 474.59m away; Pratt Street Ale House, visit from 13:35 to 14:15, nearest transit: CHARLES CENTER METRO West Entrance, 365.69m away; Toki Underground Baltimore, visit from 19:00 to 19:40, nearest transit: STATE CENTER METRO Main Entrance, 2482.41m away; Notel 9 Getaway Suite with Sauna, stay from 20:05 to 08:00, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Baltimore to Indianapolis",
+    "transportation": "Self-driving, from Baltimore to Indianapolis, duration: 663.8933333333333, distance: 928.8094, cost: 46",
+    "breakfast": "Miss Shirley's Cafe, Inner Harbor, Baltimore",
+    "lunch": "Nick's Fish House, Baltimore",
+    "dinner": "The Helmand, Baltimore",
+    "attraction": "The Maryland Zoo, Baltimore",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Notel 9 Getaway Suite with Sauna, stay from 08:00 to 08:30, nearest transit: JOHNS HOPKINS STATION (METRO), 985.29m away; Miss Shirley's Cafe, Inner Harbor, visit from 08:55 to 09:35, nearest transit: SHOT TOWER METRO West Entrance, 285.29m away; The Maryland Zoo, visit from 10:00 to 12:00, nearest transit: MONDAWMIN METRO Escalator 4, 586.50m away; Nick's Fish House, visit from 13:35 to 14:15, nearest transit: CHARLES CENTER METRO EV Entrance, 3190.31m away; The Helmand, visit from 19:00 to 19:40, nearest transit: STATE CENTER (METRO) sb, 508.53m away"
+  }
+]

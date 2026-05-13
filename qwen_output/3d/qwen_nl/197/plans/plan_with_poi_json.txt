@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Hartford",
+    "transportation": "taxi, from Washington to Hartford, duration: 426.4883333333333, distance: 540.9555, cost: 540",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private Spacious Suite with Private entrance!, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Private Spacious Suite with Private entrance!, stay from 15:31 to 15:51, nearest transit: Windsor, 9161.82m away; Private Spacious Suite with Private entrance!, stay from 16:16 to 08:00, nearest transit: Windsor, 9161.82m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Hartford",
+    "transportation": "-",
+    "breakfast": "Max Downtown, Hartford",
+    "lunch": "Hartford Coffee Co., Hartford",
+    "dinner": "Hartford House, Hartford",
+    "attraction": "Hartford Stage, Hartford",
+    "accommodation": "Private Spacious Suite with Private entrance!, Hartford",
+    "event": "-",
+    "point_of_interest_list": "Private Spacious Suite with Private entrance!, stay from 08:00 to 08:30, nearest transit: Windsor, 9161.82m away; Max Downtown, visit from 08:55 to 09:35, nearest transit: Hartford, 465.48m away; Hartford Stage, visit from 10:00 to 12:00, nearest transit: Hartford, 624.67m away; Hartford Coffee Co., visit from 13:35 to 14:15, nearest transit: New Haven Union Station, 1507853.16m away; Hartford House, visit from 19:00 to 19:40, nearest transit: Windsor, 13097370.54m away; Private Spacious Suite with Private entrance!, stay from 20:05 to 08:00, nearest transit: Windsor, 9161.82m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Hartford to Washington",
+    "transportation": "Flight Number: F1400946, from Hartford to Washington, Departure Time: 11:44, Arrival Time: 13:10",
+    "breakfast": "The Capital Grille, Hartford",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Spacious Suite with Private entrance!, stay from 08:00 to 08:30, nearest transit: Windsor, 9161.82m away; The Capital Grille, visit from 08:55 to 09:35, nearest transit: Hartford, 1146.76m away"
+  }
+]

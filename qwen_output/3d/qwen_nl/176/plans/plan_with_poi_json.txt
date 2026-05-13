@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Nantucket",
+    "transportation": "Flight Number: F1703223, from Washington to Nantucket, Departure Time: 08:01, Arrival Time: 09:22",
+    "breakfast": "The Summer House Restaurant, Nantucket",
+    "lunch": "Galley Beach, Nantucket",
+    "dinner": "The Chanticleer, Nantucket",
+    "attraction": "Great Point Light, Nantucket",
+    "accommodation": "3 beautifully restored 17th-century buildings, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "3 beautifully restored 17th-century buildings, stay from 09:47 to 09:53, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away; The Summer House Restaurant, visit from 10:18 to 10:50, nearest transit: Main Street Rotary, Sconset, 227.73m away; Great Point Light, visit from 11:15 to 13:15, nearest transit: Quidnet Road, 3037.19m away; Galley Beach, visit from 14:50 to 15:30, nearest transit: Jetties Beach, 284.98m away; The Chanticleer, visit from 19:30 to 20:10, nearest transit: Main Street Rotary, Sconset, 120.52m away; 3 beautifully restored 17th-century buildings, stay from 20:35 to 08:00, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nantucket",
+    "transportation": "-",
+    "breakfast": "Le Languedoc Inn & Bistro, Nantucket",
+    "lunch": "Brant Point Grill, Nantucket",
+    "dinner": "Company of the Cauldron, Nantucket",
+    "attraction": "Sankaty Head Lighthouse, Nantucket",
+    "accommodation": "3 beautifully restored 17th-century buildings, Nantucket",
+    "event": "-",
+    "point_of_interest_list": "3 beautifully restored 17th-century buildings, stay from 08:00 to 08:30, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away; Le Languedoc Inn & Bistro, visit from 08:55 to 09:35, nearest transit: Broad Street (in front of Whaling Museum), 151.21m away; Sankaty Head Lighthouse, visit from 10:00 to 12:00, nearest transit: Bayberry Lane, 150.99m away; Brant Point Grill, visit from 13:35 to 14:15, nearest transit: South Beach Street/Easton Street (Outbound), 190.33m away; Company of the Cauldron, visit from 19:00 to 19:40, nearest transit: Broad Street (in front of Whaling Museum), 172.35m away; 3 beautifully restored 17th-century buildings, stay from 20:05 to 08:00, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nantucket to Washington",
+    "transportation": "Flight Number: F1701497, from Nantucket to Washington, Departure Time: 17:05, Arrival Time: 18:34",
+    "breakfast": "The Proprietors Bar and Table, Nantucket",
+    "lunch": "Ships Inn Restaurant, Nantucket",
+    "dinner": "Ventuno, Nantucket",
+    "attraction": "Nantucket Atheneum, Nantucket",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "3 beautifully restored 17th-century buildings, stay from 08:00 to 08:10, nearest transit: North Water Street/Easton Street (Outbound), 127.81m away; The Proprietors Bar and Table, visit from 08:35 to 08:48, nearest transit: Broad Street (in front of Whaling Museum), 170.26m away; Nantucket Atheneum, visit from 09:13 to 11:13, nearest transit: Broad Street (in front of Whaling Museum), 141.66m away; Ships Inn Restaurant, visit from 12:00 to 12:27, nearest transit: Downtown (Washington Street, Greenhound Stop), 248.46m away; Ventuno, visit from 16:27 to 16:40, nearest transit: Broad Street (in front of Whaling Museum), 98.66m away"
+  }
+]

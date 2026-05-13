@@ -1,0 +1,6 @@
+Destination cities: ['Durango', 'Colorado Springs'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['taxi, from Los Angeles to Durango, duration: 869.7733333333333, distance: 1250.4541000000002, cost: 1250', 'taxi, from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost: 506', 'Flight Number: F3839538, from Colorado Springs to Los Angeles, Departure Time: 09:01, Arrival Time: 10:42'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Zia Taqueria, Durango', 'Durango Bagel, Durango', 'East by Southwest, Durango', 'Rice Monkeys, Durango', "Durango's Steakhouse, Durango", 'Himalayan Kitchen, Durango', "Jack Quinn's Irish Pub & Restaurant, Colorado Springs", 'Urban Egg A Daytime Eatery, Colorado Springs', 'Pizzeria Rustica, Colorado Springs', "Paravicini's Italian Bistro, Colorado Springs", "Garden of the God's Market & Cafe, Colorado Springs", '-'],
+Attractions (1 per day): ['-', 'Mountain Waters Rafting & Adventure Company, Durango', 'Durango Rivertrippers & Adventure Tours, Durango', 'United States Air Force Academy, Colorado Springs', '-'],
+Accommodations (1 per city): ['Sleek, Modern Studio in the heart of downtown., Durango', 'Pikes Charm! Apartment King Workspace w BBQ & Fire, Colorado Springs']

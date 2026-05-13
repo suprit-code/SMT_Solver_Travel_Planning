@@ -1,0 +1,6 @@
+Destination cities: ['Sacramento', 'San Francisco'],
+Transportation dates: ['2024-11-18', '2024-11-20', '2024-11-22'],
+Transportation methods between cities: ['Flight Number: F0097128, from Ontario to Sacramento, Departure Time: 16:00, Arrival Time: 17:18', 'Flight Number: F2376946, from Sacramento to San Francisco, Departure Time: 10:00, Arrival Time: 10:48', 'Flight Number: F0595670, from San Francisco to Ontario, Departure Time: 18:19, Arrival Time: 19:31'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Tres Hermanas Mexican Restaurant, Sacramento', 'Tipsy Putt, Sacramento', 'Nopalitos, Sacramento', "Mulvaney's Building & Loan, Sacramento", 'Echo and Rig, Sacramento', 'Capital Restaurant, San Francisco', 'The Codmother Fish & Chips, San Francisco', 'Fogo de Chao Brazilian Steakhouse, San Francisco', "Mo's Grill, San Francisco", 'Quince, San Francisco', 'R&G Lounge, San Francisco', 'Mersea Restaurant & Bar, San Francisco'],
+Attractions (1 per day): ['California State Capitol Museum, Sacramento', 'Capitol Park, Sacramento', 'Alcatraz Island, San Francisco', 'Japanese Tea Garden, San Francisco', 'Lands End, San Francisco'],
+Accommodations (1 per city): ["Private Guest Bed 'N Bath near Downtown, Sacramento", 'Monroe Studio 303, San Francisco']

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Las Vegas",
+    "transportation": "Flight Number: F2603443, from Memphis to Las Vegas, Departure Time: 09:44, Arrival Time: 11:10",
+    "breakfast": "-",
+    "lunch": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "dinner": "Top of the World, Las Vegas",
+    "attraction": "Las Vegas North Premium Outlets, Las Vegas",
+    "accommodation": "Casita in the Sun, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Casita in the Sun, stay from 11:35 to 11:55, nearest transit: The Strat, 16962.70m away; Gordon Ramsay Hell's Kitchen, visit from 12:20 to 13:00, nearest transit: The Strat, 3843.18m away; Las Vegas North Premium Outlets, visit from 13:25 to 15:25, nearest transit: Las Vegas North Premium Outlets, 74.04m away; Top of the World, visit from 19:00 to 19:40, nearest transit: The Strat, 140.60m away; Casita in the Sun, stay from 20:05 to 08:00, nearest transit: The Strat, 16962.70m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Eiffel Tower Restaurant, Las Vegas",
+    "lunch": "Eggscellent, Las Vegas",
+    "dinner": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "attraction": "The Mob Museum, Las Vegas",
+    "accommodation": "Casita in the Sun, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Casita in the Sun, stay from 08:00 to 08:30, nearest transit: The Strat, 16962.70m away; Eiffel Tower Restaurant, visit from 08:55 to 09:35, nearest transit: The Strat, 4101.83m away; The Mob Museum, visit from 10:00 to 12:00, nearest transit: Mob Museum, 48.14m away; Eggscellent, visit from 13:35 to 14:15, nearest transit: The Strat, 4208.46m away; Golden Steer Steakhouse Las Vegas, visit from 19:00 to 19:40, nearest transit: The Strat, 555.77m away; Casita in the Sun, stay from 20:05 to 08:00, nearest transit: The Strat, 16962.70m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Memphis",
+    "transportation": "Flight Number: F1392786, from Las Vegas to Memphis, Departure Time: 12:36, Arrival Time: 17:54",
+    "breakfast": "Vic & Anthony's Steakhouse, Las Vegas",
+    "lunch": "THE Steak House, Las Vegas",
+    "dinner": "Gordon Ramsay Burger, Las Vegas",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Casita in the Sun, stay from 08:00 to 08:10, nearest transit: The Strat, 16962.70m away; Vic & Anthony's Steakhouse, visit from 08:35 to 08:48, nearest transit: Fremont Street Experience, 213.11m away; THE Steak House, visit from 11:20 to 11:33, nearest transit: The Strat, 1363.88m away; Gordon Ramsay Burger, visit from 11:58 to 12:11, nearest transit: The Strat, 4292.75m away"
+  }
+]

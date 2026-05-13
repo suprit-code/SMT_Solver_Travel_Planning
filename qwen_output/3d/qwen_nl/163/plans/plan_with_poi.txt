@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Kansas City",
+    "transportation": "Flight Number: F2951847, from Detroit to Kansas City, Departure Time: 20:52, Arrival Time: 22:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Tuscany in Kansas City, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Tuscany in Kansas City, stay from 22:39 to 23:10, nearest transit: ON CHOUTEAU AT PARVIN ROAD NB, 360.56m away; Tuscany in Kansas City, stay from 23:40 to 07:40, nearest transit: ON CHOUTEAU AT PARVIN ROAD NB, 360.56m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Kansas City",
+    "transportation": "-",
+    "breakfast": "Fogo de Chao Brazilian Steakhouse, Kansas City",
+    "lunch": "KC Chop House, Kansas City",
+    "dinner": "Piropos Restaurant, Kansas City",
+    "attraction": "Tom's Town Distilling Co., Kansas City",
+    "accommodation": "Tuscany in Kansas City, Kansas City",
+    "event": "-",
+    "point_of_interest_list": "Tuscany in Kansas City, stay from 08:10 to 08:40, nearest transit: ON CHOUTEAU AT PARVIN ROAD NB, 360.56m away; Fogo de Chao Brazilian Steakhouse, Kansas City, visit from 09:10 to 10:00, ; Tom's Town Distilling Co., Kansas City, visit from 10:30 to 14:00, ; KC Chop House, Kansas City, visit from 14:30 to 15:30, ; Piropos Restaurant, Kansas City, visit from 19:31 to 20:46, ; Tuscany in Kansas City, stay from 21:16 to 05:30, nearest transit: ON CHOUTEAU AT PARVIN ROAD NB, 360.56m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Kansas City to Detroit",
+    "transportation": "Flight Number: F3553987, from Kansas City to Detroit, Departure Time: 14:21, Arrival Time: 16:50",
+    "breakfast": "Garozzo's Ristorante, Kansas City",
+    "lunch": "eggtc., Kansas City",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Tuscany in Kansas City, stay from 06:00 to 06:30, nearest transit: ON CHOUTEAU AT PARVIN ROAD NB, 360.56m away; Garozzo's Ristorante, Kansas City, visit from 08:00 to 08:50, ; eggtc., Kansas City, visit from 12:51 to 13:51, "
+  }
+]

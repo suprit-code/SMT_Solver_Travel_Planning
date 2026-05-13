@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Miami to San Antonio",
+    "transportation": "Flight Number: F0223657, from Miami to San Antonio, Departure Time: 22:12, Arrival Time: 00:18",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 00:48 to 01:18, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Cozy Private Room near UTSA & LaCantera, stay from 01:48 to 08:00, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Antonio",
+    "transportation": "-",
+    "breakfast": "Boudro's Texas Bistro, San Antonio",
+    "lunch": "The Guenther House, San Antonio",
+    "dinner": "Nonna Osteria, San Antonio",
+    "attraction": "-",
+    "accommodation": "Cozy Private Room near UTSA & LaCantera, San Antonio",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 08:30 to 09:00, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Boudro's Texas Bistro, San Antonio, visit from 09:39 to 10:29, ; The Guenther House, San Antonio, visit from 14:30 to 15:30, ; Nonna Osteria, San Antonio, visit from 19:31 to 20:46, ; Cozy Private Room near UTSA & LaCantera, stay from 21:16 to 05:16, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Antonio to Miami",
+    "transportation": "Flight Number: F2584235, from San Antonio to Miami, Departure Time: 17:50, Arrival Time: 21:42",
+    "breakfast": "Brenner's on the River Walk, San Antonio",
+    "lunch": "Dough Pizzeria Napoletana, San Antonio",
+    "dinner": "-",
+    "attraction": "San Antonio Zoo, San Antonio",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Private Room near UTSA & LaCantera, stay from 06:00 to 08:40, nearest transit: UTSA LOOP 1604 CAMPUS, 1545.99m away; Brenner's on the River Walk, San Antonio, visit from 09:10 to 10:00, ; San Antonio Zoo, San Antonio, visit from 10:30 to 14:00, ; Dough Pizzeria Napoletana, San Antonio, visit from 14:30 to 15:30, "
+  }
+]

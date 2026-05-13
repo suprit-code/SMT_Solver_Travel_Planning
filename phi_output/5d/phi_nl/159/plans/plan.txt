@@ -1,0 +1,6 @@
+Destination cities: ['Amarillo', 'Houston'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['Self-driving, from Nashville to Amarillo, duration: 983.1266666666668, distance: 1506.9196000000002, cost: 75', 'Self-driving, from Amarillo to Houston, duration: 649.365, distance: 961.8577, cost: 48', 'Self-driving, from Houston to Nashville, duration: 857.39, distance: 1252.7872, cost: 62'],
+Restaurants (3 meals per day): ['-', '-', '-', '575° Pizzeria - Hillside, Amarillo', 'Ichiban Noodle Bar & Asian Cuisine, Amarillo', 'El Bracero Mexican Grill, Amarillo', 'El Manantial, Amarillo', 'Golden Light Cafe & Cantina, Amarillo', 'Ye Olde Pancake Station, Amarillo', 'Pappadeaux Seafood Kitchen, Houston', "Houston's Restaurant & Pub, Houston", 'Houston Restaurant, Houston', 'Phoenicia Specialty Foods, Houston', "Kenny & Ziggy's New York Deli, Houston", 'Goode Company Seafood, Houston'],
+Attractions (1 per day): ['-', 'Route 66 Historic District, Amarillo', 'Cadillac Ranch, Amarillo', 'Downtown Aquarium, Houston', 'Houston Zoo, Houston'],
+Accommodations (1 per city): ['Relaxing Place to Stay with Guest Living Room!, Amarillo', '#4 Northwest Victory Single BR, Houston']

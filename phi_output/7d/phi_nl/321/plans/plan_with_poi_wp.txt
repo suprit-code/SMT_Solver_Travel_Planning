@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F1174931, from Everett to San Diego, Departure Time: 09:18, Arrival Time: 12:13",
+    "breakfast": "-",
+    "lunch": "El Agave Restaurant & Tequileria, San Diego",
+    "dinner": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "attraction": "La Jolla Shores Park, San Diego",
+    "accommodation": "Private Hideaway, Shelter Island, Beach  & Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 12:43 to 13:13, nearest transit: Canon St & Evergreen St, 448.33m away; El Agave Restaurant & Tequileria, San Diego, visit from 13:43 to 14:43, ; La Jolla Shores Park, San Diego, visit from 15:13 to 20:15, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 20:45 to 22:27, ; Private Hideaway, Shelter Island, Beach  & Bay, stay from 22:57 to 06:57, nearest transit: Canon St & Evergreen St, 448.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mimmo's, San Diego",
+    "lunch": "Pacific Beach AleHouse, San Diego",
+    "dinner": "Meze Greek Fusion, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Private Hideaway, Shelter Island, Beach  & Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 07:27 to 07:57, nearest transit: Canon St & Evergreen St, 448.33m away; Mimmo's, San Diego, visit from 08:27 to 10:00, ; San Diego Zoo, San Diego, visit from 10:30 to 14:00, ; Pacific Beach AleHouse, San Diego, visit from 14:30 to 15:45, ; Meze Greek Fusion, San Diego, visit from 19:46 to 21:01, ; Private Hideaway, Shelter Island, Beach  & Bay, stay from 21:31 to 05:31, nearest transit: Canon St & Evergreen St, 448.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Sweetie's Cafe & Catering, Redding",
+    "attraction": "-",
+    "accommodation": "Clean & Modern Studio w/ King Bed & Pull-Out Couch, Redding",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 06:01 to 06:31, nearest transit: Canon St & Evergreen St, 448.33m away; Clean & Modern Studio w/ King Bed & Pull-Out Couch, stay from 19:45 to 20:15, nearest transit: Eureka Way at Pioneer Dr, 222.83m away; Sweetie's Cafe & Catering, Redding, visit from 20:45 to 22:00, ; Clean & Modern Studio w/ King Bed & Pull-Out Couch, stay from 22:30 to 06:30, nearest transit: Eureka Way at Pioneer Dr, 222.83m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "Trendy's, Redding",
+    "lunch": "Dam Burger, Redding",
+    "dinner": "Champa Garden, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "Clean & Modern Studio w/ King Bed & Pull-Out Couch, Redding",
+    "event": "-",
+    "point_of_interest_list": "Clean & Modern Studio w/ King Bed & Pull-Out Couch, stay from 07:00 to 07:30, nearest transit: Eureka Way at Pioneer Dr, 222.83m away; Trendy's, Redding, visit from 09:10 to 10:00, ; Sundial Bridge, Redding, visit from 10:30 to 14:00, ; Dam Burger, Redding, visit from 14:30 to 15:30, ; Champa Garden, Redding, visit from 19:31 to 20:46, ; Clean & Modern Studio w/ King Bed & Pull-Out Couch, stay from 21:16 to 05:16, nearest transit: Eureka Way at Pioneer Dr, 222.83m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Taxi from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 259.0",
+    "breakfast": "Los Gordos, Redding",
+    "lunch": "New China, Redding",
+    "dinner": "Yue Huang Restaurant, Sacramento",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Clean & Modern Studio w/ King Bed & Pull-Out Couch, stay from 06:00 to 06:30, nearest transit: Eureka Way at Pioneer Dr, 222.83m away; Los Gordos, Redding, visit from 08:00 to 08:50, ; Turtle Bay Exploration Park, Redding, visit from 10:30 to 14:00, ; New China, Redding, visit from 14:30 to 15:49, ; Home Away From Home, stay from 19:45 to 20:15, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Yue Huang Restaurant, Sacramento, visit from 20:45 to 22:00, ; Home Away From Home, stay from 22:30 to 06:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Nopalitos, Sacramento",
+    "lunch": "Bangkok @12 Thai Restaurant, Sacramento",
+    "dinner": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Home Away From Home, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 07:00 to 07:30, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Nopalitos, Sacramento, visit from 08:00 to 08:50, ; Bangkok @12 Thai Restaurant, Sacramento, visit from 12:51 to 13:51, ; California State Capitol Museum, Sacramento, visit from 14:21 to 17:51, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 19:00 to 20:15, ; Home Away From Home, stay from 23:58 to 07:58, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Everett",
+    "transportation": "Taxi from Sacramento to Everett, duration: 905.6966666666668, distance: 1256.0839, cost : 1256.0",
+    "breakfast": "-",
+    "lunch": "Orphan, Sacramento",
+    "dinner": "Paesano's Pizzeria, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Home Away From Home, stay from 08:28 to 09:00, nearest transit: KIEFER BLVD & S WATT AVE (EB), 88.59m away; Orphan, Sacramento, visit from 12:00 to 13:00, ; Capitol Park, Sacramento, visit from 13:30 to 17:00, ; Paesano's Pizzeria, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

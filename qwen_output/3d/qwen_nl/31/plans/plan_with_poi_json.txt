@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to Las Vegas",
+    "transportation": "Flight Number: F0774013, from Washington to Las Vegas, Departure Time: 08:53, Arrival Time: 11:23",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Ameribrunch Cafe, Las Vegas",
+    "attraction": "The Las Vegas Strip, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 11:48 to 12:08, nearest transit: The Strat, 5367.88m away; The Las Vegas Strip, visit from 12:33 to 14:33, nearest transit: The Strat, 4134.07m away; Ameribrunch Cafe, visit from 19:00 to 19:40, nearest transit: Fremont East Entertainment District, 393.75m away; Gamble Adventure | Restaurant. Outside Pool, stay from 20:05 to 08:00, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "lunch": "Mr. Mamas, Las Vegas",
+    "dinner": "Eggslut, Las Vegas",
+    "attraction": "The Grand Canal Shoppes at The Venetian Resort, Las Vegas",
+    "accommodation": "Gamble Adventure | Restaurant. Outside Pool, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:30, nearest transit: The Strat, 5367.88m away; Firefly Tapas Kitchen & Bar, visit from 08:55 to 09:35, nearest transit: The Strat, 3079.37m away; The Grand Canal Shoppes at The Venetian Resort, visit from 10:00 to 12:00, nearest transit: The Strat, 2980.91m away; Mr. Mamas, visit from 13:35 to 14:15, nearest transit: The Strat, 9224.85m away; Eggslut, visit from 19:00 to 19:40, nearest transit: The Strat, 4473.66m away; Gamble Adventure | Restaurant. Outside Pool, stay from 20:05 to 08:00, nearest transit: The Strat, 5367.88m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Washington",
+    "transportation": "Flight Number: F1078549, from Las Vegas to Washington, Departure Time: 13:42, Arrival Time: 20:49",
+    "breakfast": "Eggscellent, Las Vegas",
+    "lunch": "Garden Court, Las Vegas",
+    "dinner": "-",
+    "attraction": "Red Rock Canyon National Conservation Area, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Gamble Adventure | Restaurant. Outside Pool, stay from 08:00 to 08:10, nearest transit: The Strat, 5367.88m away; Eggscellent, visit from 08:35 to 08:48, nearest transit: The Strat, 4208.46m away; Red Rock Canyon National Conservation Area, visit from 09:13 to 11:13, nearest transit: The Strat, 24322.91m away; Garden Court, visit from 12:37 to 13:17, nearest transit: Circa, 185.80m away"
+  }
+]

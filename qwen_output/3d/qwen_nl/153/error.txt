@@ -1,0 +1,13 @@
+
+--- JOB 153 FAILED ---
+Error: invalid syntax (<string>, line 115)
+Traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/final/SMT_Solver_TravelPlanning/z3_code_execution.py", line 189, in run_single_job
+    exec(code, exec_env)
+  File "<string>", line 115
+    s.assert(Sum(category_score) > 10 * total_travel_days)
+      ^^^^^^
+SyntaxError: invalid syntax
+
+----------------------------------------

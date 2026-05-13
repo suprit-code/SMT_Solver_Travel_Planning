@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F1622986, from Denver to San Diego, Departure Time: 11:46, Arrival Time: 12:50",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "Big Bay Views, San Diego Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 13:20 to 13:50, nearest transit: Rosecrans St & Talbot St, 129.96m away; Cabrillo National Monument, visit from 14:20 to 16:20, nearest transit: Cabrillo National Monument, 267.46m away; Cowboy Star, visit from 19:00 to 19:40, nearest transit: 10th Av & Market St, 50.81m away; Big Bay Views, San Diego Bay, stay from 23:00 to 08:00, nearest transit: Rosecrans St & Talbot St, 129.96m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Juniper and Ivy, San Diego",
+    "lunch": "Lou & Mickey's, San Diego",
+    "dinner": "Addison Restaurant, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Big Bay Views, San Diego Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 08:00 to 08:30, nearest transit: Rosecrans St & Talbot St, 129.96m away; Juniper and Ivy, visit from 09:00 to 09:40, nearest transit: Kettner Bl & Grape St, 310.93m away; SeaWorld, visit from 10:10 to 12:10, nearest transit: SeaWorld, 299.84m away; Lou & Mickey's, visit from 13:40 to 14:20, nearest transit: Gaslamp Quarter Station, 87.75m away; Addison Restaurant, visit from 19:00 to 19:40, nearest transit: Mira Mesa Bl & Genetic Center Dr, 4339.61m away; Big Bay Views, San Diego Bay, stay from 23:00 to 08:00, nearest transit: Rosecrans St & Talbot St, 129.96m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Denver",
+    "transportation": "Flight Number: F0521299, from San Diego to Denver, Departure Time: 18:22, Arrival Time: 21:30",
+    "breakfast": "Born & Raised, San Diego",
+    "lunch": "Mister A'S, San Diego",
+    "dinner": "-",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Big Bay Views, San Diego Bay, stay from 08:00 to 08:30, nearest transit: Rosecrans St & Talbot St, 129.96m away; Born & Raised, visit from 09:00 to 09:40, nearest transit: Kettner Bl & Grape St, 125.64m away; Birch Aquarium at Scripps, visit from 10:10 to 12:10, nearest transit: La Jolla Shores Dr & Scripps Institute, 135.62m away; Mister A'S, visit from 13:40 to 14:20, nearest transit: 5th Av & Laurel St, 52.04m away"
+  }
+]

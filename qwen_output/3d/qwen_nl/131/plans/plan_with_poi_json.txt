@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Charleston",
+    "transportation": "Self-driving, from Detroit to Charleston, duration: 971.7833333333332, distance: 1367.8788, cost: 68",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Historic B&B Veranda King Suite Walk to King, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Historic B&B Veranda King Suite Walk to King, stay from 00:36 to 00:42, nearest transit: Wentworth St / Coming St, 158.78m away; Historic B&B Veranda King Suite Walk to King, stay from 01:07 to 08:00, nearest transit: Wentworth St / Coming St, 158.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "The Ordinary, Charleston",
+    "lunch": "High Cotton Charleston, Charleston",
+    "dinner": "Oak Steakhouse, Charleston",
+    "attraction": "Charleston City Market, Charleston",
+    "accommodation": "Historic B&B Veranda King Suite Walk to King, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Historic B&B Veranda King Suite Walk to King, stay from 08:00 to 08:30, nearest transit: Wentworth St / Coming St, 158.78m away; The Ordinary, visit from 08:55 to 09:35, nearest transit: King St / Cannon St, 22.53m away; Charleston City Market, visit from 10:00 to 12:00, nearest transit: Market St / Meeting St, 50.09m away; High Cotton Charleston, visit from 13:35 to 14:15, nearest transit: East Bay St / S. Market St, 85.53m away; Oak Steakhouse, visit from 19:00 to 19:40, nearest transit: Broad St / Church St, 111.55m away; Historic B&B Veranda King Suite Walk to King, stay from 20:05 to 08:00, nearest transit: Wentworth St / Coming St, 158.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Detroit",
+    "transportation": "Self-driving, from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost: 68",
+    "breakfast": "Husk Restaurant, Charleston",
+    "lunch": "The Palmetto Cafe, Charleston",
+    "dinner": "Burwell's Stone Fire Grill, Charleston",
+    "attraction": "Cathedral of Saint John the Baptist, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Historic B&B Veranda King Suite Walk to King, stay from 08:00 to 08:30, nearest transit: Wentworth St / Coming St, 158.78m away; Husk Restaurant, visit from 08:55 to 09:35, nearest transit: Meeting St / Queen St, 76.78m away; Cathedral of Saint John the Baptist, visit from 10:00 to 12:00, nearest transit: King St / Broad St, 154.57m away; The Palmetto Cafe, visit from 13:35 to 14:15, nearest transit: Meeting St / Market St, 55.01m away; Burwell's Stone Fire Grill, visit from 19:00 to 19:40, nearest transit: Market St / East Bay St, 53.09m away"
+  }
+]

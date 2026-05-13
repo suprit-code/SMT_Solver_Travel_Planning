@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Memphis to Las Vegas",
+    "transportation": "Flight Number: F2562339, from Memphis to Las Vegas, Departure Time: 22:46, Arrival Time: 00:13",
+    "breakfast": "Blossom, Las Vegas",
+    "lunch": "Top of the World, Las Vegas",
+    "dinner": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "attraction": "The Neon Museum, Las Vegas",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "PRIME Steakhouse, Las Vegas",
+    "lunch": "Eiffel Tower Restaurant, Las Vegas",
+    "dinner": "Vic & Anthony's Steakhouse, Las Vegas",
+    "attraction": "Hoover Dam Bypass, Las Vegas",
+    "accommodation": "Stylish Stays in LV, Two KG Beds, Pups, great yard, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:00 to 08:30, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; PRIME Steakhouse, visit from 09:00 to 09:40, nearest transit: The Strat, 4188.61m away; Hoover Dam Bypass, visit from 10:10 to 12:10, nearest transit: Fremont East Entertainment District, 39777.46m away; Eiffel Tower Restaurant, visit from 13:40 to 14:20, nearest transit: The Strat, 4101.83m away; Vic & Anthony's Steakhouse, visit from 19:00 to 19:40, nearest transit: Fremont Street Experience, 213.11m away; Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 23:00 to 08:00, nearest transit: Las Vegas North Premium Outlets, 10915.84m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Memphis",
+    "transportation": "Flight Number: F0376611, from Las Vegas to Memphis, Departure Time: 16:07, Arrival Time: 21:45",
+    "breakfast": "Primal Steakhouse, Las Vegas",
+    "lunch": "Sw Steakhouse, Las Vegas",
+    "dinner": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "attraction": "The Mob Museum, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Stylish Stays in LV, Two KG Beds, Pups, great yard, stay from 08:00 to 08:30, nearest transit: Las Vegas North Premium Outlets, 10915.84m away; Primal Steakhouse, visit from 09:00 to 09:40, nearest transit: The Strat, 3264.11m away; The Mob Museum, visit from 10:10 to 12:10, nearest transit: Mob Museum, 48.14m away; Sw Steakhouse, visit from 12:40 to 13:20, nearest transit: The Strat, 2548.07m away; Golden Steer Steakhouse Las Vegas, visit from 14:57 to 15:37, nearest transit: The Strat, 555.77m away"
+  }
+]

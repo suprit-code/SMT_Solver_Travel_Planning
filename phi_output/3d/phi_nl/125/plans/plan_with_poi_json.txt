@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Washington",
+    "transportation": "Flight Number: F3900563, from Houston to Washington, Departure Time: 12:07, Arrival Time: 16:01",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Clyde's of Georgetown, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Smoke & Mirrors Rooftop Bar, Washington",
+    "lunch": "Old Ebbitt Grill, Washington",
+    "dinner": "Unconventional Diner, Washington",
+    "attraction": "United States Botanic Garden, Washington",
+    "accommodation": "A Cozy room, Washington",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 08:00 to 08:30, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away; Smoke & Mirrors Rooftop Bar, visit from 09:00 to 09:40, nearest transit: NAVY YARD-BALLPARK, 408.46m away; United States Botanic Garden, visit from 10:10 to 12:10, nearest transit: FEDERAL CENTER SW, 414.35m away; Old Ebbitt Grill, visit from 13:40 to 14:20, nearest transit: MCPHERSON SQ METRORAIL STATION - SW CORNER 14TH & I STS., NW, 355.10m away; Unconventional Diner, visit from 19:00 to 19:40, nearest transit: MT VERNON SQ, 135.98m away; A Cozy room, stay from 23:00 to 08:00, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Houston",
+    "transportation": "Flight Number: F1052053, from Washington to Houston, Departure Time: 17:38, Arrival Time: 19:58",
+    "breakfast": "Thip Khao, Washington",
+    "lunch": "Succotash Prime, Washington",
+    "dinner": "-",
+    "attraction": "White House, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A Cozy room, stay from 08:00 to 08:30, nearest transit: BENNING RD METRORAIL STATION - BENNING RD. NORTH OF E. CAPITOL ST., 58.60m away; Thip Khao, visit from 09:00 to 09:40, nearest transit: COLUMBIA HEIGHTS METRORAIL STATION - NE CORNER OF 14TH AND IRVING STS. NW, 448.99m away; White House, visit from 10:10 to 12:10, nearest transit: MCPHERSON SQ METRORAIL STATION - SW CORNER VERMONT AVE. & I ST., 409.99m away; Succotash Prime, visit from 13:40 to 14:20, nearest transit: Entrance B - 9St & G St, GALLERY PLACE METRORAIL STATION, 103.86m away"
+  }
+]

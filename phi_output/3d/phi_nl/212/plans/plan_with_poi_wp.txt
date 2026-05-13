@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Hartford to Las Vegas",
+    "transportation": "Flight Number: F3772502, from Hartford to Las Vegas, Departure Time: 17:08, Arrival Time: 19:17",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 19:47 to 22:40, nearest transit: Fremont East Entertainment District, 1810.6m away; Room in Down Town Las Vegas., stay from 23:10 to 07:10, nearest transit: Fremont East Entertainment District, 1810.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Gordon Ramsay Hell's Kitchen, Las Vegas",
+    "lunch": "Skyfall Lounge, Las Vegas",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "Wynn Las Vegas Casino, Las Vegas",
+    "accommodation": "Room in Down Town Las Vegas., Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 07:40 to 08:10, nearest transit: Fremont East Entertainment District, 1810.6m away; Gordon Ramsay Hell's Kitchen, Las Vegas, visit from 08:40 to 09:30, ; Wynn Las Vegas Casino, Las Vegas, visit from 10:00 to 14:00, ; Skyfall Lounge, Las Vegas, visit from 14:30 to 16:44, ; Eggscellent, Las Vegas, visit from 20:45 to 23:30, ; Room in Down Town Las Vegas., stay from 00:00 to 08:00, nearest transit: Fremont East Entertainment District, 1810.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Hartford",
+    "transportation": "Flight Number: F3770462, from Las Vegas to Hartford, Departure Time: 21:26, Arrival Time: 05:08",
+    "breakfast": "-",
+    "lunch": "Firefly Tapas Kitchen & Bar, Las Vegas",
+    "dinner": "Carmine's, Las Vegas",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room in Down Town Las Vegas., stay from 08:30 to 09:00, nearest transit: Fremont East Entertainment District, 1810.6m away; Firefly Tapas Kitchen & Bar, Las Vegas, visit from 14:21 to 15:21, ; Carmine's, Las Vegas, visit from 19:22 to 20:37, "
+  }
+]

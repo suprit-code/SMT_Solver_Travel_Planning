@@ -1,0 +1,6 @@
+Destination cities: ['Durango', 'Colorado Springs'],
+Transportation dates: ['2024-11-01', '2024-11-03', '2024-11-05'],
+Transportation methods between cities: ['taxi, from Los Angeles to Durango, duration: 869.7733333333333, distance: 1250.4541000000002, cost: 1250', 'taxi, from Durango to Colorado Springs, duration: 394.8716666666666, distance: 506.0878, cost: 506', 'taxi, from Colorado Springs to Los Angeles, duration: 1135.4466666666667, distance: 1742.9415, cost: 1742'],
+Restaurants (3 meals per day): ['-', '-', '-', '81301 Coffee House and Roasters, Durango', "Durango's Mexican, Durango", 'Diamond Belle Saloon, Durango', 'Bread, Durango', "Durango Joe's Coffee on College Dr., Durango", "T's Smokehouse and Grill, Durango", "Paravicini's Italian Bistro, Colorado Springs", 'The Melting Pot, Colorado Springs', 'Urban Egg A Daytime Eatery, Colorado Springs', 'Mountain Shadows Restaurant, Colorado Springs', 'Restaurant 1858, Colorado Springs', 'The Airplane Restaurant, Colorado Springs'],
+Attractions (1 per day): ['-', 'The Colorado Trail, Durango', 'San Juan National Forest, Durango', 'Seven Falls, Colorado Springs', 'Garden of the Gods, Colorado Springs'],
+Accommodations (1 per city): ['2ndWind Ranch Country Casita Outside Durango 12mi., Durango', 'Two-Bed Two-Bath house, walk to Garden of the Gods, Colorado Springs']

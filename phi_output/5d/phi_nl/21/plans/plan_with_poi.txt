@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to San Diego",
+    "transportation": "Flight Number: F1596568, from El Paso to San Diego, Departure Time: 14:37, Arrival Time: 15:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "-",
+    "accommodation": "Place to Stay with Private Entrance near Beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 15:46 to 16:16, nearest transit: Cable St & Newport Av, 642.75m away; Din Tai Fung, San Diego, visit from 19:00 to 20:15, ; Place to Stay with Private Entrance near Beach, stay from 20:45 to 04:45, nearest transit: Cable St & Newport Av, 642.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "dinner": "Morning Glory, San Diego",
+    "attraction": "San Diego Zoo, San Diego",
+    "accommodation": "Place to Stay with Private Entrance near Beach, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 06:00 to 06:30, nearest transit: Cable St & Newport Av, 642.75m away; Lou & Mickey's, San Diego, visit from 08:12 to 09:02, ; San Diego Zoo, San Diego, visit from 09:32 to 13:02, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 13:32 to 14:32, ; Morning Glory, San Diego, visit from 19:00 to 20:15, ; Place to Stay with Private Entrance near Beach, stay from 20:45 to 04:45, nearest transit: Cable St & Newport Av, 642.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F3966914, from San Diego to Sacramento, Departure Time: 18:40, Arrival Time: 19:59",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "-",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Place to Stay with Private Entrance near Beach, stay from 06:00 to 06:30, nearest transit: Cable St & Newport Av, 642.75m away; Pacific Beach AleHouse, San Diego, visit from 08:00 to 08:50, ; Mimmo's, San Diego, visit from 12:51 to 13:51, ; SeaWorld, San Diego, visit from 14:21 to 18:10, ; Peaceful and Cozy Studio, stay from 20:29 to 20:59, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Peaceful and Cozy Studio, stay from 21:29 to 05:29, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Nopalitos, Sacramento",
+    "lunch": "Paragary's, Sacramento",
+    "dinner": "Firestone Public House, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Peaceful and Cozy Studio, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 06:00 to 06:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; Nopalitos, Sacramento, visit from 08:10 to 09:00, ; Capitol Park, Sacramento, visit from 09:30 to 13:00, ; Paragary's, Sacramento, visit from 13:30 to 14:30, ; Firestone Public House, Sacramento, visit from 19:00 to 20:15, ; Peaceful and Cozy Studio, stay from 20:45 to 04:45, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to El Paso",
+    "transportation": "Taxi from Sacramento to El Paso, duration: 1267.745, distance: 1906.2027, cost : 1906.0",
+    "breakfast": "The Waterboy, Sacramento",
+    "lunch": "Grange Restaurant & Bar, Sacramento",
+    "dinner": "Kru Contemporary Japanese Cuisine, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Peaceful and Cozy Studio, stay from 06:00 to 07:30, nearest transit: SAN JUAN RD & RANCHO SILVA DR (EB), 634.41m away; The Waterboy, Sacramento, visit from 08:00 to 08:50, ; Grange Restaurant & Bar, Sacramento, visit from 12:51 to 13:51, ; California State Capitol Museum, Sacramento, visit from 14:21 to 17:51, ; Kru Contemporary Japanese Cuisine, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

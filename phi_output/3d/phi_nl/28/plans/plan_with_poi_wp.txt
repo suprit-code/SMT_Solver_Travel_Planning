@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Indianapolis to Huntsville",
+    "transportation": "Self-driving from Indianapolis to Huntsville, duration: 451.75, distance: 639.0136, cost : 31.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Nick's Ristorante, Huntsville",
+    "attraction": "Sugarbush Hill Maple Farm, Huntsville",
+    "accommodation": "Downtown Charm: Modern Comforts!, Huntsville",
+    "event": "-",
+    "point_of_interest_list": "Downtown Charm: Modern Comforts!, stay from 14:01 to 15:00, nearest transit: Huntsville Museum of Art / Pane e Vino, 514.09m away; Sugarbush Hill Maple Farm, Huntsville, visit from 15:30 to 19:15, ; Nick's Ristorante, Huntsville, visit from 19:45 to 21:00, ; Downtown Charm: Modern Comforts!, stay from 21:30 to 05:30, nearest transit: Huntsville Museum of Art / Pane e Vino, 514.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Huntsville",
+    "transportation": "-",
+    "breakfast": "The Boot Pizzeria, Huntsville",
+    "lunch": "Ruth's Chris Steak House, Huntsville",
+    "dinner": "Cotton Row, Huntsville",
+    "attraction": "U.S. Space and Rocket Center, Huntsville",
+    "accommodation": "Downtown Charm: Modern Comforts!, Huntsville",
+    "event": "-",
+    "point_of_interest_list": "Downtown Charm: Modern Comforts!, stay from 06:00 to 06:30, nearest transit: Huntsville Museum of Art / Pane e Vino, 514.09m away; The Boot Pizzeria, Huntsville, visit from 08:00 to 10:00, ; U.S. Space and Rocket Center, Huntsville, visit from 10:30 to 14:00, ; Ruth's Chris Steak House, Huntsville, visit from 14:30 to 15:30, ; Cotton Row, Huntsville, visit from 19:31 to 20:46, ; Downtown Charm: Modern Comforts!, stay from 21:16 to 05:16, nearest transit: Huntsville Museum of Art / Pane e Vino, 514.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Huntsville to Indianapolis",
+    "transportation": "Self-driving from Huntsville to Indianapolis, duration: 451.3783333333333, distance: 638.8732, cost : 31.0",
+    "breakfast": "Four Leaves Asian Restaurant, Huntsville",
+    "lunch": "-",
+    "dinner": "Rosie's Mexican Cantina, Huntsville",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Downtown Charm: Modern Comforts!, stay from 07:00 to 07:30, nearest transit: Huntsville Museum of Art / Pane e Vino, 514.09m away; Four Leaves Asian Restaurant, Huntsville, visit from 08:00 to 08:50, ; Rosie's Mexican Cantina, Huntsville, visit from 19:32 to 20:47, "
+  }
+]

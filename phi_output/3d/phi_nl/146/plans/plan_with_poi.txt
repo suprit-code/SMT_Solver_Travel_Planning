@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Atlanta",
+    "transportation": "Flight Number: F0318269, from Oklahoma City to Atlanta, Departure Time: 06:53, Arrival Time: 10:01",
+    "breakfast": "-",
+    "lunch": "No Mas! Cantina, Atlanta",
+    "dinner": "Home Grown, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "New Sky Views HighRise, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 10:31 to 11:01, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away; No Mas! Cantina, Atlanta, visit from 12:00 to 13:00, ; Centennial Olympic Park, Atlanta, visit from 15:00 to 18:30, ; Home Grown, Atlanta, visit from 19:00 to 20:15, ; New Sky Views HighRise, stay from 20:45 to 04:45, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Max's Coal Oven Pizzeria, Atlanta",
+    "lunch": "Bangkok Station, Atlanta",
+    "dinner": "Kevin Rathbun Steak, Atlanta",
+    "attraction": "Piedmont Park, Atlanta",
+    "accommodation": "New Sky Views HighRise, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 06:00 to 06:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away; Max's Coal Oven Pizzeria, Atlanta, visit from 08:53 to 09:43, ; Bangkok Station, Atlanta, visit from 13:44 to 14:44, ; Piedmont Park, Atlanta, visit from 15:14 to 18:44, ; Kevin Rathbun Steak, Atlanta, visit from 19:14 to 20:29, ; New Sky Views HighRise, stay from 20:59 to 05:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Oklahoma City",
+    "transportation": "Flight Number: F2928784, from Atlanta to Oklahoma City, Departure Time: 18:56, Arrival Time: 19:57",
+    "breakfast": "Fox Bros. Bar-B-Q, Atlanta",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "-",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "New Sky Views HighRise, stay from 06:00 to 06:30, nearest transit: PEACHTREE RD NE @ STRATFORD RD NE, 369.6m away; Fox Bros. Bar-B-Q, Atlanta, visit from 08:00 to 08:50, ; Zoo Atlanta, Atlanta, visit from 09:20 to 12:50, ; Cafe Agora, Atlanta, visit from 13:20 to 14:20, "
+  }
+]

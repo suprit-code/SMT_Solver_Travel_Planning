@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Denver to San Diego",
+    "transportation": "Flight Number: F2277048, from Denver to San Diego, Departure Time: 10:52, Arrival Time: 11:58",
+    "breakfast": "-",
+    "lunch": "Cafe Coyote, San Diego",
+    "dinner": "Oceana Coastal Kitchen, San Diego",
+    "attraction": "USS Midway Museum, San Diego",
+    "accommodation": "The Surf Shack  - Point Loma, San Diego",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 12:28 to 12:58, nearest transit: Rosecrans St & Talbot St, 37.36m away; Cafe Coyote, San Diego, visit from 13:28 to 14:30, ; USS Midway Museum, San Diego, visit from 15:00 to 18:30, ; Oceana Coastal Kitchen, San Diego, visit from 19:00 to 20:15, ; The Surf Shack  - Point Loma, stay from 22:44 to 06:44, nearest transit: Rosecrans St & Talbot St, 37.36m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "Born & Raised, San Diego",
+    "dinner": "Filippi's Pizza Grotto Little Italy, San Diego",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "The Surf Shack  - Point Loma, San Diego",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 07:14 to 07:44, nearest transit: Rosecrans St & Talbot St, 37.36m away; Din Tai Fung, San Diego, visit from 08:14 to 10:00, ; SeaWorld, San Diego, visit from 10:30 to 14:00, ; Born & Raised, San Diego, visit from 14:30 to 15:30, ; Filippi's Pizza Grotto Little Italy, San Diego, visit from 19:31 to 20:46, ; The Surf Shack  - Point Loma, stay from 21:16 to 05:16, nearest transit: Rosecrans St & Talbot St, 37.36m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Denver",
+    "transportation": "Self-driving from San Diego to Denver, duration: 1136.3100000000002, distance: 1735.4518, cost : 86.0",
+    "breakfast": "Barbusa, San Diego",
+    "lunch": "The Butcher Shop, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "Little Italy, San Diego",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "The Surf Shack  - Point Loma, stay from 06:00 to 06:30, nearest transit: Rosecrans St & Talbot St, 37.36m away; Barbusa, San Diego, visit from 08:00 to 08:50, ; The Butcher Shop, San Diego, visit from 12:51 to 13:51, ; Little Italy, San Diego, visit from 14:21 to 17:51, ; Mimmo's, San Diego, visit from 19:00 to 20:15, "
+  }
+]

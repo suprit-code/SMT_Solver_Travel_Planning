@@ -1,0 +1,5 @@
+########## Departure dates response ##########
+            variables['departure_dates'] = [Int('departure_dates_transportation_0')]
+            s.assert_and_track(variables['departure_dates'][0] == 0, 'travel start date')
+            s.assert_and_track(variables['departure_dates'][0] == 4, 'travel end date')
+            ########## Departure dates response ends ##########

@@ -1,0 +1,21 @@
+Error message:
+cannot convert float NaN to integer
+
+Full traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/SMT_Solver_TravelPlanning/Test_TravelPlannerv2.py", line 366, in pipeline
+    exec(codes)
+  File "<string>", line 181, in <module>
+  File "/scratch/sg/Suprit/SMT_Solver_TravelPlanning/TripCraft_tools/accommodations/apis.py", line 115, in run_for_all_cities
+    price = Store(price, index, np.array(result)[:,1][index])
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 4894, in Store
+    return Update(a, args)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 4861, in Update
+    v = a.sort().range().cast(v)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 2437, in cast
+    return IntVal(val, self.ctx)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 3280, in IntVal
+    return IntNumRef(Z3_mk_numeral(ctx.ref(), _to_int_str(val), IntSort(ctx).ast), ctx)
+  File "/scratch/sg/miniconda3/envs/fmttravelplanner/lib/python3.9/site-packages/z3/z3.py", line 3261, in _to_int_str
+    return str(int(val))
+ValueError: cannot convert float NaN to integer

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Nashville to Sioux Falls",
+    "transportation": "Self-driving from Nashville to Sioux Falls, duration: 1007.0416666666666, distance: 1481.2943, cost : 74.0",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Southeast Retreat 4Beds 3bath Family/Pet friendly!, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "Southeast Retreat 4Beds 3bath Family/Pet friendly!, stay from 23:17 to 23:47, nearest transit: 41st/Cliff NW corner (mid-block), 3648.81m away; Southeast Retreat 4Beds 3bath Family/Pet friendly!, stay from 00:17 to 08:00, nearest transit: 41st/Cliff NW corner (mid-block), 3648.81m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Sioux Falls",
+    "transportation": "-",
+    "breakfast": "Sanaa s Gourmet Mediterranean, Sioux Falls",
+    "lunch": "MacKenzie River Pizza, Grill & Pub, Sioux Falls",
+    "dinner": "Morrie’s Steakhouse, Sioux Falls",
+    "attraction": "-",
+    "accommodation": "Southeast Retreat 4Beds 3bath Family/Pet friendly!, Sioux Falls",
+    "event": "-",
+    "point_of_interest_list": "Southeast Retreat 4Beds 3bath Family/Pet friendly!, stay from 08:30 to 09:00, nearest transit: 41st/Cliff NW corner (mid-block), 3648.81m away; Sanaa s Gourmet Mediterranean, Sioux Falls, visit from 09:39 to 10:29, ; MacKenzie River Pizza, Grill & Pub, Sioux Falls, visit from 14:30 to 15:30, ; Morrie’s Steakhouse, Sioux Falls, visit from 19:31 to 20:46, ; Southeast Retreat 4Beds 3bath Family/Pet friendly!, stay from 21:16 to 05:16, nearest transit: 41st/Cliff NW corner (mid-block), 3648.81m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Sioux Falls to Nashville",
+    "transportation": "Self-driving from Sioux Falls to Nashville, duration: 1003.3666666666668, distance: 1481.1742, cost : 74.0",
+    "breakfast": "Harvester Kitchen, Sioux Falls",
+    "lunch": "Minerva's, Sioux Falls",
+    "dinner": "Parker's Bistro, Sioux Falls",
+    "attraction": "Falls Park, Sioux Falls",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Southeast Retreat 4Beds 3bath Family/Pet friendly!, stay from 06:00 to 07:30, nearest transit: 41st/Cliff NW corner (mid-block), 3648.81m away; Harvester Kitchen, Sioux Falls, visit from 08:00 to 08:50, ; Falls Park, Sioux Falls, visit from 09:59 to 13:29, ; Minerva's, Sioux Falls, visit from 13:59 to 14:59, ; Parker's Bistro, Sioux Falls, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to San Diego",
+    "transportation": "Flight Number: F1989518, from Boston to San Diego, Departure Time: 08:33, Arrival Time: 11:37",
+    "breakfast": "-",
+    "lunch": "Cowboy Star, San Diego",
+    "dinner": "Alforon, San Diego",
+    "attraction": "Sunset Cliffs Natural Park, San Diego",
+    "accommodation": "Bed in 4-Bed room in Stylish Hostel, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 12:07 to 12:37, nearest transit: Cable St & Newport Av, 118.17m away; Cowboy Star, San Diego, visit from 13:07 to 14:07, ; Sunset Cliffs Natural Park, San Diego, visit from 14:37 to 20:15, ; Alforon, San Diego, visit from 20:45 to 22:00, ; Bed in 4-Bed room in Stylish Hostel, stay from 22:30 to 06:34, nearest transit: Cable St & Newport Av, 118.17m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Mister A'S, San Diego",
+    "lunch": "Juniper and Ivy, San Diego",
+    "dinner": "Mimmo's, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Bed in 4-Bed room in Stylish Hostel, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 07:04 to 07:34, nearest transit: Cable St & Newport Av, 118.17m away; Mister A'S, San Diego, visit from 08:04 to 08:54, ; Juniper and Ivy, San Diego, visit from 12:55 to 13:55, ; Birch Aquarium at Scripps, San Diego, visit from 14:25 to 17:55, ; Mimmo's, San Diego, visit from 19:00 to 20:15, ; Bed in 4-Bed room in Stylish Hostel, stay from 20:45 to 04:45, nearest transit: Cable St & Newport Av, 118.17m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F1571259, from San Diego to Sacramento, Departure Time: 17:51, Arrival Time: 19:14",
+    "breakfast": "Morning Glory, San Diego",
+    "lunch": "-",
+    "dinner": "Zocalo, Sacramento",
+    "attraction": "Torrey Pines State Natural Reserve, San Diego",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Bed in 4-Bed room in Stylish Hostel, stay from 06:00 to 06:30, nearest transit: Cable St & Newport Av, 118.17m away; Morning Glory, San Diego, visit from 08:00 to 08:50, ; Torrey Pines State Natural Reserve, San Diego, visit from 09:20 to 14:01, ; Private Guest Bed 'N Bath near Downtown, stay from 19:44 to 20:14, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Zocalo, Sacramento, visit from 20:44 to 21:59, ; Private Guest Bed 'N Bath near Downtown, stay from 22:29 to 06:31, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Frank Fat's Restaurant, Sacramento",
+    "lunch": "Moxie, Sacramento",
+    "dinner": "The Firehouse Restaurant, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Private Guest Bed 'N Bath near Downtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 07:01 to 07:31, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Frank Fat's Restaurant, Sacramento, visit from 08:01 to 08:51, ; Moxie, Sacramento, visit from 12:52 to 13:52, ; Capitol Park, Sacramento, visit from 14:22 to 17:52, ; The Firehouse Restaurant, Sacramento, visit from 19:45 to 21:00, ; Private Guest Bed 'N Bath near Downtown, stay from 21:30 to 05:30, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Flight Number: F3821747, from Sacramento to Los Angeles, Departure Time: 19:58, Arrival Time: 21:26",
+    "breakfast": "Paesano's Pizzeria, Sacramento",
+    "lunch": "Localis, Sacramento",
+    "dinner": "-",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Private Guest Bed 'N Bath near Downtown, stay from 06:00 to 08:39, nearest transit: GATEWAY OAKS DR & OAK HARBOUR DR (SB), 798.92m away; Paesano's Pizzeria, Sacramento, visit from 09:09 to 09:59, ; Localis, Sacramento, visit from 14:00 to 15:00, ; California State Capitol Museum, Sacramento, visit from 15:30 to 19:00, ; Hollywood Hideaway, stay from 21:56 to 22:26, nearest transit: Oxnard St & Radford Ave, 386.65m away; Hollywood Hideaway, stay from 22:56 to 07:24, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Patina Restaurant, Los Angeles",
+    "lunch": "Bavel, Los Angeles",
+    "dinner": "Water Grill, Los Angeles",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 07:54 to 08:24, nearest transit: Oxnard St & Radford Ave, 386.65m away; Patina Restaurant, Los Angeles, visit from 08:54 to 09:44, ; Griffith Park, Los Angeles, visit from 10:14 to 13:44, ; Bavel, Los Angeles, visit from 14:14 to 15:14, ; Water Grill, Los Angeles, visit from 19:15 to 20:30, ; Hollywood Hideaway, stay from 21:00 to 05:00, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Boston",
+    "transportation": "Flight Number: F3666205, from Los Angeles to Boston, Departure Time: 10:18, Arrival Time: 18:22",
+    "breakfast": "Spire 73, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 06:00 to 06:30, nearest transit: Oxnard St & Radford Ave, 386.65m away; Spire 73, Los Angeles, visit from 08:00 to 09:48, "
+  }
+]

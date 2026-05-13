@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Reno",
+    "transportation": "Flight Number: F3771295, from New York to Reno, Departure Time: 20:11, Arrival Time: 23:11",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Room in Sparks, Reno",
+    "event": "-",
+    "point_of_interest_list": "Room in Sparks, stay from 23:41 to 00:11, nearest transit: Victorian Avenue and 3rd Street, 40.66m away; Room in Sparks, stay from 00:41 to 08:00, nearest transit: Victorian Avenue and 3rd Street, 40.66m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Reno",
+    "transportation": "-",
+    "breakfast": "Bricks Restaurant & Wine Bar, Reno",
+    "lunch": "La Strada, Reno",
+    "dinner": "Bimini Steakhouse, Reno",
+    "attraction": "-",
+    "accommodation": "Room in Sparks, Reno",
+    "event": "-",
+    "point_of_interest_list": "Room in Sparks, stay from 08:30 to 09:00, nearest transit: Victorian Avenue and 3rd Street, 40.66m away; Bricks Restaurant & Wine Bar, Reno, visit from 09:30 to 10:20, ; La Strada, Reno, visit from 14:21 to 15:21, ; Bimini Steakhouse, Reno, visit from 19:22 to 20:37, ; Room in Sparks, stay from 21:07 to 23:27, nearest transit: Victorian Avenue and 3rd Street, 40.66m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Reno to New York",
+    "transportation": "Flight Number: F0819895, from Reno to New York, Departure Time: 00:57, Arrival Time: 08:36",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Room in Sparks, stay from 23:57 to 00:27, nearest transit: Victorian Avenue and 3rd Street, 40.66m away"
+  }
+]

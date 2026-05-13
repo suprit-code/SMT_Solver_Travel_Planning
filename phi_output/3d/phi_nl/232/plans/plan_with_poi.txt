@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Houston to Washington",
+    "transportation": "Flight Number: F3994792, from Houston to Washington, Departure Time: 20:37, Arrival Time: 00:15",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Cozy Capitol Hill English Basement, Washington",
+    "event": "-",
+    "point_of_interest_list": "Cozy Capitol Hill English Basement, stay from 00:45 to 01:15, nearest transit: STADIUM ARMORY, 209.07m away; Cozy Capitol Hill English Basement, stay from 01:45 to 08:00, nearest transit: STADIUM ARMORY, 209.07m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Washington",
+    "transportation": "-",
+    "breakfast": "Smoke & Mirrors Rooftop Bar, Washington",
+    "lunch": "Mi Vida Restaurante, Washington",
+    "dinner": "Kingbird, Washington",
+    "attraction": "-",
+    "accommodation": "Cozy Capitol Hill English Basement, Washington",
+    "event": "-",
+    "point_of_interest_list": "Cozy Capitol Hill English Basement, stay from 08:30 to 09:00, nearest transit: STADIUM ARMORY, 209.07m away; Smoke & Mirrors Rooftop Bar, Washington, visit from 09:39 to 10:29, ; Mi Vida Restaurante, Washington, visit from 14:30 to 16:44, ; Kingbird, Washington, visit from 20:45 to 22:50, ; Cozy Capitol Hill English Basement, stay from 23:20 to 07:20, nearest transit: STADIUM ARMORY, 209.07m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Washington to Houston",
+    "transportation": "Flight Number: F2436319, from Washington to Houston, Departure Time: 20:56, Arrival Time: 23:47",
+    "breakfast": "La Grande Boucherie, Washington",
+    "lunch": "Fiola, Washington",
+    "dinner": "Fiola Mare DC, Washington",
+    "attraction": "National Mall, Washington",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy Capitol Hill English Basement, stay from 07:50 to 08:20, nearest transit: STADIUM ARMORY, 209.07m away; La Grande Boucherie, Washington, visit from 08:50 to 09:40, ; National Mall, Washington, visit from 10:10 to 13:40, ; Fiola, Washington, visit from 14:10 to 15:10, ; Fiola Mare DC, Washington, visit from 19:11 to 20:26, "
+  }
+]

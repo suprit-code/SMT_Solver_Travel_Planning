@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Houston",
+    "transportation": "Flight Number: F3084504, from Boston to Houston, Departure Time: 11:29, Arrival Time: 15:00",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Houston White Co, Houston",
+    "attraction": "-",
+    "accommodation": "Secluded Room with En-suite Bathroom Midtown, Houston",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 15:30 to 16:00, nearest transit: W Gray St @ Bailey St, 81.25m away; Houston White Co, Houston, visit from 19:00 to 20:15, ; Secluded Room with En-suite Bathroom Midtown, stay from 20:45 to 04:45, nearest transit: W Gray St @ Bailey St, 81.25m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houstons Bar and Grill, Houston",
+    "lunch": "Houston's Trail's End, Houston",
+    "dinner": "Hugo's, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Secluded Room with En-suite Bathroom Midtown, Houston",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 06:00 to 06:30, nearest transit: W Gray St @ Bailey St, 81.25m away; Houstons Bar and Grill, Houston, visit from 08:40 to 09:30, ; Downtown Aquarium, Houston, visit from 10:00 to 13:30, ; Houston's Trail's End, Houston, visit from 14:30 to 15:30, ; Hugo's, Houston, visit from 20:45 to 23:10, ; Secluded Room with En-suite Bathroom Midtown, stay from 23:40 to 07:40, nearest transit: W Gray St @ Bailey St, 81.25m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Boston",
+    "transportation": "Flight Number: F0555070, from Houston to Boston, Departure Time: 18:42, Arrival Time: 23:22",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Secluded Room with En-suite Bathroom Midtown, stay from 08:10 to 08:40, nearest transit: W Gray St @ Bailey St, 81.25m away; Kenny & Ziggy's New York Deli, Houston, visit from 09:10 to 10:00, ; Houston Zoo, Houston, visit from 10:30 to 14:00, ; Pappadeaux Seafood Kitchen, Houston, visit from 14:30 to 15:30, "
+  }
+]

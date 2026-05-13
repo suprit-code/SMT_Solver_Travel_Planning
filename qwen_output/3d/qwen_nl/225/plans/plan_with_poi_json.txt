@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Houston",
+    "transportation": "Flight Number: F2426090, from New York to Houston, Departure Time: 07:30, Arrival Time: 09:44",
+    "breakfast": "-",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Eddie V's Prime Seafood, Houston",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 10:09 to 10:29, nearest transit: Yale St @ Thornton Rd, 203.09m away; Downtown Aquarium, visit from 10:54 to 12:54, nearest transit: Preston St @ Bagby St, 75.65m away; Brennan's of Houston, visit from 13:19 to 13:59, nearest transit: Elgin St @ Smith St, 102.40m away; Eddie V's Prime Seafood, visit from 19:00 to 19:40, nearest transit: Katy Freeway @ Town And Country Way, 600.03m away; Modern Houston Heights Getaway, stay from 20:05 to 08:00, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Houston Restaurant, Houston",
+    "dinner": "Fogo de Chao Brazilian Steakhouse, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Modern Houston Heights Getaway, Houston",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 08:00 to 08:30, nearest transit: Yale St @ Thornton Rd, 203.09m away; Hugo's, visit from 08:55 to 09:35, nearest transit: Westheimer Rd @ Mandell St, 26.11m away; Hermann Park, visit from 10:00 to 12:00, nearest transit: Cambridge St @ Ben Taub Loop, 355.64m away; Houston Restaurant, visit from 13:35 to 14:15, nearest transit: Conroe Park & Ride, 2530051.98m away; Fogo de Chao Brazilian Steakhouse, visit from 19:00 to 19:40, nearest transit: Westheimer Rd @ Old Farm Rd, 57.72m away; Modern Houston Heights Getaway, stay from 20:05 to 08:00, nearest transit: Yale St @ Thornton Rd, 203.09m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to New York",
+    "transportation": "Flight Number: F1685399, from Houston to New York, Departure Time: 16:19, Arrival Time: 20:55",
+    "breakfast": "Pappas Bros. Steakhouse, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "-",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Houston Heights Getaway, stay from 08:00 to 08:30, nearest transit: Yale St @ Thornton Rd, 203.09m away; Pappas Bros. Steakhouse, visit from 08:55 to 09:35, nearest transit: Westheimer Rd @ Augusta Dr, 60.97m away; Houston Zoo, visit from 10:00 to 12:00, nearest transit: Cambridge St @ Ben Taub Loop, 473.45m away; Pappadeaux Seafood Kitchen, visit from 13:35 to 14:15, nearest transit: Bush IAH Terminal C, 295.38m away"
+  }
+]

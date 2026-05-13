@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Kansas City to Atlanta",
+    "transportation": "Flight Number: F2962904, from Kansas City to Atlanta, Departure Time: 05:26, Arrival Time: 08:09",
+    "breakfast": "-",
+    "lunch": "Cafe Agora, Atlanta",
+    "dinner": "Aria, Atlanta",
+    "attraction": "Centennial Olympic Park, Atlanta",
+    "accommodation": "Designer Den | Chic Luxury in a Hip Area, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Designer Den | Chic Luxury in a Hip Area, stay from 08:39 to 09:09, nearest transit: MORELAND AVE SE @ LYNDALE DR SE, 493.48m away; Cafe Agora, Atlanta, visit from 12:00 to 13:00, ; Centennial Olympic Park, Atlanta, visit from 13:30 to 17:00, ; Aria, Atlanta, visit from 20:45 to 22:30, ; Designer Den | Chic Luxury in a Hip Area, stay from 23:00 to 07:00, nearest transit: MORELAND AVE SE @ LYNDALE DR SE, 493.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Atlanta",
+    "transportation": "-",
+    "breakfast": "Home Grown, Atlanta",
+    "lunch": "Nikolai's Roof, Atlanta",
+    "dinner": "Aviva by Kameel, Atlanta",
+    "attraction": "Zoo Atlanta, Atlanta",
+    "accommodation": "Designer Den | Chic Luxury in a Hip Area, Atlanta",
+    "event": "-",
+    "point_of_interest_list": "Designer Den | Chic Luxury in a Hip Area, stay from 07:30 to 08:00, nearest transit: MORELAND AVE SE @ LYNDALE DR SE, 493.48m away; Home Grown, Atlanta, visit from 08:30 to 10:00, ; Zoo Atlanta, Atlanta, visit from 10:30 to 14:00, ; Nikolai's Roof, Atlanta, visit from 14:30 to 15:30, ; Aviva by Kameel, Atlanta, visit from 19:31 to 20:46, ; Designer Den | Chic Luxury in a Hip Area, stay from 21:16 to 05:16, nearest transit: MORELAND AVE SE @ LYNDALE DR SE, 493.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Atlanta to Kansas City",
+    "transportation": "Flight Number: F2210567, from Atlanta to Kansas City, Departure Time: 19:43, Arrival Time: 20:33",
+    "breakfast": "The Optimist, Atlanta",
+    "lunch": "Max's Coal Oven Pizzeria, Atlanta",
+    "dinner": "-",
+    "attraction": "Georgia Aquarium, Atlanta",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Designer Den | Chic Luxury in a Hip Area, stay from 06:00 to 07:30, nearest transit: MORELAND AVE SE @ LYNDALE DR SE, 493.48m away; The Optimist, Atlanta, visit from 08:00 to 08:50, ; Georgia Aquarium, Atlanta, visit from 09:20 to 12:50, ; Max's Coal Oven Pizzeria, Atlanta, visit from 13:20 to 14:20, "
+  }
+]

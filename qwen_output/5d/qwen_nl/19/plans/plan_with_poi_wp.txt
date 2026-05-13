@@ -1,0 +1,62 @@
+[
+  {
+    "days": 1,
+    "current_city": "from El Paso to San Diego",
+    "transportation": "Flight Number: F1596568, from El Paso to San Diego, Departure Time: 14:37, Arrival Time: 15:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Alforon, San Diego",
+    "attraction": "-",
+    "accommodation": "Private Hideaway, Shelter Island, Beach  & Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 15:46 to 16:16, nearest transit: Canon St & Evergreen St, 448.33m away; Alforon, San Diego, visit from 19:00 to 20:15, ; Private Hideaway, Shelter Island, Beach  & Bay, stay from 22:33 to 06:33, nearest transit: Canon St & Evergreen St, 448.33m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Barbusa, San Diego",
+    "lunch": "Mimmo's, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "Private Hideaway, Shelter Island, Beach  & Bay, San Diego",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 07:03 to 07:33, nearest transit: Canon St & Evergreen St, 448.33m away; Barbusa, San Diego, visit from 08:03 to 10:00, ; Birch Aquarium at Scripps, San Diego, visit from 10:30 to 14:00, ; Mimmo's, San Diego, visit from 14:30 to 15:30, ; Lou & Mickey's, San Diego, visit from 19:31 to 23:10, ; Private Hideaway, Shelter Island, Beach  & Bay, stay from 23:40 to 07:40, nearest transit: Canon St & Evergreen St, 448.33m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Flight Number: F1567536, from San Diego to Sacramento, Departure Time: 16:02, Arrival Time: 17:31",
+    "breakfast": "Din Tai Fung, San Diego",
+    "lunch": "The Butcher Shop, San Diego",
+    "dinner": "El Novillero Restaurant, Sacramento",
+    "attraction": "SeaWorld, San Diego",
+    "accommodation": "Modern Boho Efficiency Studio in Midtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Hideaway, Shelter Island, Beach  & Bay, stay from 08:10 to 08:40, nearest transit: Canon St & Evergreen St, 448.33m away; Din Tai Fung, San Diego, visit from 09:10 to 10:00, ; SeaWorld, San Diego, visit from 10:30 to 14:00, ; The Butcher Shop, San Diego, visit from 14:30 to 15:30, ; Modern Boho Efficiency Studio in Midtown, stay from 18:01 to 18:31, nearest transit: F ST & 27TH ST (WB), 162.19m away; El Novillero Restaurant, Sacramento, visit from 19:31 to 20:46, ; Modern Boho Efficiency Studio in Midtown, stay from 21:16 to 05:16, nearest transit: F ST & 27TH ST (WB), 162.19m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "The Porch Restaurant and Bar, Sacramento",
+    "lunch": "Tipsy Putt, Sacramento",
+    "dinner": "Sauced BBQ & Spirits, Sacramento",
+    "attraction": "Old Sacramento, Sacramento",
+    "accommodation": "Modern Boho Efficiency Studio in Midtown, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Modern Boho Efficiency Studio in Midtown, stay from 08:10 to 08:40, nearest transit: F ST & 27TH ST (WB), 162.19m away; The Porch Restaurant and Bar, Sacramento, visit from 09:10 to 10:00, ; Old Sacramento, Sacramento, visit from 10:30 to 14:00, ; Tipsy Putt, Sacramento, visit from 14:30 to 16:44, ; Sauced BBQ & Spirits, Sacramento, visit from 20:45 to 23:30, ; Modern Boho Efficiency Studio in Midtown, stay from 00:00 to 08:00, nearest transit: F ST & 27TH ST (WB), 162.19m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to El Paso",
+    "transportation": "Taxi from Sacramento to El Paso, duration: 1267.745, distance: 1906.2027, cost : 1906.0",
+    "breakfast": "Moxie, Sacramento",
+    "lunch": "-",
+    "dinner": "Echo and Rig, Sacramento",
+    "attraction": "Sacramento History Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Modern Boho Efficiency Studio in Midtown, stay from 08:30 to 09:00, nearest transit: F ST & 27TH ST (WB), 162.19m away; Moxie, Sacramento, visit from 09:30 to 10:20, ; Sacramento History Museum, Sacramento, visit from 10:50 to 14:20, ; Echo and Rig, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

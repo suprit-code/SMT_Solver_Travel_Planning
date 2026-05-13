@@ -1,0 +1,9 @@
+Error message:
+check_exists_any() got an unexpected keyword argument 'subcategories'
+
+Full traceback:
+Traceback (most recent call last):
+  File "/scratch/sg/Suprit/SMT_Solver_TravelPlanning/Test_TravelPlannerv2.py", line 366, in pipeline
+    exec(codes)
+  File "<string>", line 165, in <module>
+TypeError: check_exists_any() got an unexpected keyword argument 'subcategories'

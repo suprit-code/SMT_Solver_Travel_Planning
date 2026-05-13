@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from San Diego to Albuquerque",
+    "transportation": "Flight Number: F2686750, from San Diego to Albuquerque, Departure Time: 10:43, Arrival Time: 13:26",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Church Street Cafe, Albuquerque",
+    "attraction": "San Felipe de Neri Church, Albuquerque",
+    "accommodation": "Casita de Tierra - Slow, Intentional Living, Albuquerque",
+    "event": "-",
+    "point_of_interest_list": "Casita de Tierra - Slow, Intentional Living, stay from 13:56 to 14:26, nearest transit: Central @ Monroe, 304.75m away; San Felipe de Neri Church, Albuquerque, visit from 15:30 to 20:15, ; Church Street Cafe, Albuquerque, visit from 20:45 to 22:00, ; Casita de Tierra - Slow, Intentional Living, stay from 22:30 to 06:30, nearest transit: Central @ Monroe, 304.75m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Albuquerque",
+    "transportation": "-",
+    "breakfast": "Rising Star Chinese Eatery, Albuquerque",
+    "lunch": "Padilla's Mexican Kitchen, Albuquerque",
+    "dinner": "Dog House Drive In, Albuquerque",
+    "attraction": "Petroglyph National Monument, Albuquerque",
+    "accommodation": "Casita de Tierra - Slow, Intentional Living, Albuquerque",
+    "event": "-",
+    "point_of_interest_list": "Casita de Tierra - Slow, Intentional Living, stay from 07:00 to 07:30, nearest transit: Central @ Monroe, 304.75m away; Rising Star Chinese Eatery, Albuquerque, visit from 08:00 to 09:59, ; Padilla's Mexican Kitchen, Albuquerque, visit from 14:00 to 15:00, ; Petroglyph National Monument, Albuquerque, visit from 15:30 to 19:00, ; Dog House Drive In, Albuquerque, visit from 19:30 to 20:45, ; Casita de Tierra - Slow, Intentional Living, stay from 21:30 to 05:30, nearest transit: Central @ Monroe, 304.75m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Albuquerque to San Diego",
+    "transportation": "Flight Number: F0683108, from Albuquerque to San Diego, Departure Time: 11:58, Arrival Time: 12:46",
+    "breakfast": "Two Fools Tavern, Albuquerque",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Casita de Tierra - Slow, Intentional Living, stay from 06:00 to 06:30, nearest transit: Central @ Monroe, 304.75m away; Two Fools Tavern, Albuquerque, visit from 08:00 to 11:28, "
+  }
+]

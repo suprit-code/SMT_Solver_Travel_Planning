@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Charleston to Houston",
+    "transportation": "Flight Number: F0106313, from Charleston to Houston, Departure Time: 16:21, Arrival Time: 17:59",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Goode Company BBQ, Houston",
+    "attraction": "-",
+    "accommodation": "#1 Upper Kirby/Med Center/Montrose /Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "#1 Upper Kirby/Med Center/Montrose /Galleria, stay from 18:29 to 18:59, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away; Goode Company BBQ, Houston, visit from 19:29 to 22:06, ; #1 Upper Kirby/Med Center/Montrose /Galleria, stay from 22:36 to 06:36, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Houston Restaurant, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "Houstons Bar and Grill, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "#1 Upper Kirby/Med Center/Montrose /Galleria, Houston",
+    "event": "-",
+    "point_of_interest_list": "#1 Upper Kirby/Med Center/Montrose /Galleria, stay from 07:06 to 07:36, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away; Houston Restaurant, Houston, visit from 08:06 to 08:56, ; Pappadeaux Seafood Kitchen, Houston, visit from 13:30 to 14:30, ; Hermann Park, Houston, visit from 15:00 to 18:30, ; Houstons Bar and Grill, Houston, visit from 19:00 to 22:00, ; #1 Upper Kirby/Med Center/Montrose /Galleria, stay from 22:30 to 06:30, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Charleston",
+    "transportation": "Self-driving from Houston to Charleston, duration: 1211.9216666666666, distance: 1713.136, cost : 85.0",
+    "breakfast": "-",
+    "lunch": "Kenny & Ziggy's New York Deli, Houston",
+    "dinner": "Houston's Trail's End, Houston",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "#1 Upper Kirby/Med Center/Montrose /Galleria, stay from 07:00 to 07:30, nearest transit: Richmond Ave @ Greenbriar Dr, 52.69m away; Kenny & Ziggy's New York Deli, Houston, visit from 12:51 to 13:51, ; Cockrell Butterfly Center, Houston, visit from 14:21 to 17:51, ; Houston's Trail's End, Houston, visit from 19:00 to 20:15, "
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Tampa to Nashville",
+    "transportation": "Flight Number: F3202893, from Tampa to Nashville, Departure Time: 09:30, Arrival Time: 10:23",
+    "breakfast": "-",
+    "lunch": "The Bluebird Cafe, Nashville",
+    "dinner": "Honky Tonk – The Twelve Thirty Club, Nashville",
+    "attraction": "Centennial Park, Nashville",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 10:53 to 11:23, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; The Bluebird Cafe, Nashville, visit from 12:00 to 13:00, ; Centennial Park, Nashville, visit from 13:30 to 17:00, ; Honky Tonk – The Twelve Thirty Club, Nashville, visit from 20:45 to 22:56, ; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 23:26 to 07:26, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville",
+    "lunch": "Aquarium Restaurant, Nashville",
+    "dinner": "Jeff Ruby's Steakhouse, Nashville, Nashville",
+    "attraction": "Country Music Hall of Fame and Museum, Nashville",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 07:56 to 08:26, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Bourbon Steak by Michael Mina, a Nashville Steakhouse, Nashville, visit from 08:56 to 10:00, ; Country Music Hall of Fame and Museum, Nashville, visit from 10:30 to 14:00, ; Aquarium Restaurant, Nashville, visit from 14:30 to 15:30, ; Jeff Ruby's Steakhouse, Nashville, Nashville, visit from 19:31 to 20:46, ; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 22:30 to 06:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Tampa",
+    "transportation": "Taxi from Nashville to Tampa, duration: 771.62, distance: 1128.6763, cost : 1128.0",
+    "breakfast": "Deacon’s New South, Nashville",
+    "lunch": "Kayne Prime, Nashville",
+    "dinner": "The Southern Steak & Oyster, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 07:00 to 07:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Deacon’s New South, Nashville, visit from 08:00 to 08:50, ; Belmont Mansion, Nashville, visit from 09:20 to 12:50, ; Kayne Prime, Nashville, visit from 13:20 to 14:20, ; The Southern Steak & Oyster, Nashville, visit from 19:00 to 20:15, "
+  }
+]

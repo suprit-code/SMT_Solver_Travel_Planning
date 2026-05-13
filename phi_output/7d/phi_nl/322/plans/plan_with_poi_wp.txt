@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Everett to San Diego",
+    "transportation": "Flight Number: F1791529, from Everett to San Diego, Departure Time: 10:18, Arrival Time: 12:57",
+    "breakfast": "-",
+    "lunch": "Cafe Coyote, San Diego",
+    "dinner": "Alforon, San Diego",
+    "attraction": "-",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 13:27 to 14:00, nearest transit: Ulric St & Tait St, 283.34m away; Cafe Coyote, San Diego, visit from 14:30 to 16:44, ; Alforon, San Diego, visit from 20:45 to 22:52, ; No contact with host, separate, and close to town!, stay from 23:22 to 07:22, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Lou & Mickey's, San Diego",
+    "lunch": "Morning Glory, San Diego",
+    "dinner": "Din Tai Fung, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 07:52 to 08:22, nearest transit: Ulric St & Tait St, 283.34m away; Lou & Mickey's, San Diego, visit from 08:52 to 09:59, ; Morning Glory, San Diego, visit from 14:00 to 15:00, ; Birch Aquarium at Scripps, San Diego, visit from 15:30 to 20:15, ; Din Tai Fung, San Diego, visit from 20:45 to 22:00, ; No contact with host, separate, and close to town!, stay from 22:30 to 06:30, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Redding",
+    "transportation": "Taxi from San Diego to Redding, duration: 734.95, distance: 1068.6703, cost : 1068.0",
+    "breakfast": "Buon Appetito, San Diego",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "The God Spa, Redding",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 07:00 to 07:30, nearest transit: Ulric St & Tait St, 283.34m away; Buon Appetito, San Diego, visit from 08:00 to 08:50, ; The God Spa, stay from 22:04 to 22:34, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; The God Spa, stay from 23:40 to 07:40, nearest transit: Twin View Blvd at Midway Dr, 557.67m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Redding",
+    "transportation": "-",
+    "breakfast": "deja vu, Redding",
+    "lunch": "Dam Burger, Redding",
+    "dinner": "Janya Thai Cusine, Redding",
+    "attraction": "Sundial Bridge, Redding",
+    "accommodation": "The God Spa, Redding",
+    "event": "-",
+    "point_of_interest_list": "The God Spa, stay from 08:10 to 08:40, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; deja vu, Redding, visit from 09:10 to 10:00, ; Sundial Bridge, Redding, visit from 10:30 to 14:00, ; Dam Burger, Redding, visit from 14:30 to 15:30, ; Janya Thai Cusine, Redding, visit from 19:31 to 20:46, ; The God Spa, stay from 21:30 to 05:30, nearest transit: Twin View Blvd at Midway Dr, 557.67m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Redding to Sacramento",
+    "transportation": "Taxi from Redding to Sacramento, duration: 176.82166666666666, distance: 259.7447, cost : 259.0",
+    "breakfast": "Thai Hut, Redding",
+    "lunch": "Thai Cafe, Redding",
+    "dinner": "-",
+    "attraction": "Turtle Bay Exploration Park, Redding",
+    "accommodation": "Private Bath & Private Balcony *420-Friendly*, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "The God Spa, stay from 06:00 to 07:30, nearest transit: Twin View Blvd at Midway Dr, 557.67m away; Thai Hut, Redding, visit from 08:00 to 08:50, ; Turtle Bay Exploration Park, Redding, visit from 09:20 to 14:00, ; Thai Cafe, Redding, visit from 14:30 to 16:46, ; Private Bath & Private Balcony *420-Friendly*, stay from 20:42 to 21:12, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away; Private Bath & Private Balcony *420-Friendly*, stay from 22:42 to 06:42, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "Sauced BBQ & Spirits, Sacramento",
+    "lunch": "Echo and Rig, Sacramento",
+    "dinner": "Aviators Restaurant, Sacramento",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Private Bath & Private Balcony *420-Friendly*, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Private Bath & Private Balcony *420-Friendly*, stay from 07:12 to 07:42, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away; Sauced BBQ & Spirits, Sacramento, visit from 08:12 to 09:02, ; Capitol Park, Sacramento, visit from 09:32 to 13:02, ; Echo and Rig, Sacramento, visit from 13:32 to 14:32, ; Aviators Restaurant, Sacramento, visit from 19:00 to 20:15, ; Private Bath & Private Balcony *420-Friendly*, stay from 20:45 to 04:45, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Sacramento to Everett",
+    "transportation": "Taxi from Sacramento to Everett, duration: 905.6966666666668, distance: 1256.0839, cost : 1256.0",
+    "breakfast": "Bacon & Butter, Sacramento",
+    "lunch": "Moxie, Sacramento",
+    "dinner": "Dawson's Steakhouse, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Bath & Private Balcony *420-Friendly*, stay from 06:00 to 06:30, nearest transit: RIVERSIDE BLVD & DERICK WAY (SB), 1423.46m away; Bacon & Butter, Sacramento, visit from 08:00 to 08:50, ; California State Capitol Museum, Sacramento, visit from 09:20 to 13:29, ; Moxie, Sacramento, visit from 13:59 to 14:59, ; Dawson's Steakhouse, Sacramento, visit from 19:00 to 20:15, "
+  }
+]

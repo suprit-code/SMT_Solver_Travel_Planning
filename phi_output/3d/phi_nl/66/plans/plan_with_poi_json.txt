@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Raleigh to Seattle",
+    "transportation": "Flight Number: F3507982, from Raleigh to Seattle, Departure Time: 07:27, Arrival Time: 10:26",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Chan Seattle, Seattle",
+    "attraction": "Seattle Aquarium, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 10:56 to 11:26, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Seattle Aquarium, visit from 11:56 to 13:56, nearest transit: 2nd Ave & Pike St, 363.98m away; Chan Seattle, visit from 19:00 to 19:40, nearest transit: Pine St & 9th Ave, 68.08m away; Cozy room near UW, stay from 23:00 to 08:00, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "13 Coins Restaurant, Seattle",
+    "lunch": "Vons 1000 Spirits, Seattle",
+    "dinner": "Rocco's, Seattle",
+    "attraction": "Woodland Park Zoo, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; 13 Coins Restaurant, visit from 09:00 to 09:40, nearest transit: King Street Station, 107.40m away; Woodland Park Zoo, visit from 10:10 to 12:10, nearest transit: Phinney Ave N & N 55th St, 257.77m away; Vons 1000 Spirits, visit from 13:40 to 14:20, nearest transit: 2nd Ave & Seneca St, 159.67m away; Rocco's, visit from 19:00 to 19:40, nearest transit: 3rd Ave & Bell St, 90.96m away; Cozy room near UW, stay from 23:00 to 08:00, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Raleigh",
+    "transportation": "Flight Number: F3512440, from Seattle to Raleigh, Departure Time: 15:33, Arrival Time: 23:31",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "The Crab Pot Seafood Restaurant, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 08:00 to 08:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Dough Zone Dumpling House - Seattle International District, visit from 09:00 to 09:40, nearest transit: 5th Ave S & S Weller St, 26.54m away; Seattle Center, visit from 10:10 to 12:10, nearest transit: Seattle Center, 84.22m away; The Crab Pot Seafood Restaurant, visit from 12:40 to 13:20, nearest transit: 2nd Ave & Pike St, 355.64m away; Noi Thai Cuisine, visit from 14:23 to 15:03, nearest transit: 2nd Ave & Seneca St, 181.65m away"
+  }
+]

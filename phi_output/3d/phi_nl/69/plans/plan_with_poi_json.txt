@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from New York to Los Angeles",
+    "transportation": "Flight Number: F3327836, from New York to Los Angeles, Departure Time: 13:57, Arrival Time: 17:05",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Citadel Outlets, Los Angeles",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "Ayara Thai Cuisine, Los Angeles",
+    "lunch": "Bubba Gump Shrimp Co., Los Angeles",
+    "dinner": "Au Lac Dtla, Los Angeles",
+    "attraction": "Hollywood Sign, Los Angeles",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 08:00 to 08:30, nearest transit: Oxnard St & Radford Ave, 386.65m away; Ayara Thai Cuisine, visit from 09:00 to 09:40, nearest transit: Sepulveda Blvd & Manchester Ave (Northbound), 181.70m away; Hollywood Sign, visit from 10:10 to 12:10, nearest transit:  Beachwood & Westshire , 1574.74m away; Bubba Gump Shrimp Co., visit from 13:40 to 14:20, nearest transit: Alameda Ave & Pass Ave (Westbound), 2046.63m away; Au Lac Dtla, visit from 19:00 to 19:40, nearest transit: 1st St & Hope St, 37.19m away; Hollywood Hideaway, stay from 23:00 to 08:00, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Los Angeles to New York",
+    "transportation": "Flight Number: F0284109, from Los Angeles to New York, Departure Time: 13:11, Arrival Time: 21:59",
+    "breakfast": "25 Degrees, Los Angeles",
+    "lunch": "Raffaello Ristorante, Los Angeles",
+    "dinner": "-",
+    "attraction": "The Grove, Los Angeles",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  }
+]

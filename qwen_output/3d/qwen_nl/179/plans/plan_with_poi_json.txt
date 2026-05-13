@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Houston",
+    "transportation": "Flight Number: F3915779, from Boston to Houston, Departure Time: 07:08, Arrival Time: 10:16",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Houston White Co, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "A| CLEAN \u20222 Monitor Desk \u2022 4KTV \u2022 PRIVATE Entrance, Houston",
+    "event": "-",
+    "point_of_interest_list": "A| CLEAN \u20222 Monitor Desk \u2022 4KTV \u2022 PRIVATE Entrance, stay from 10:41 to 11:01, nearest transit: Houston Ave @ Bingham St, 302.24m away; Houston Zoo, visit from 11:26 to 13:26, nearest transit: Cambridge St @ Ben Taub Loop, 473.45m away; Houston White Co, visit from 19:00 to 19:40, nearest transit: Baytown Park & Ride, 2075682.55m away; A| CLEAN \u20222 Monitor Desk \u2022 4KTV \u2022 PRIVATE Entrance, stay from 20:05 to 08:00, nearest transit: Houston Ave @ Bingham St, 302.24m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Kenny & Ziggy's New York Deli, Houston",
+    "lunch": "Houston's Restaurant, Houston",
+    "dinner": "Taste of Texas, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "A| CLEAN \u20222 Monitor Desk \u2022 4KTV \u2022 PRIVATE Entrance, Houston",
+    "event": "-",
+    "point_of_interest_list": "A| CLEAN \u20222 Monitor Desk \u2022 4KTV \u2022 PRIVATE Entrance, stay from 08:00 to 08:30, nearest transit: Houston Ave @ Bingham St, 302.24m away; Kenny & Ziggy's New York Deli, visit from 08:55 to 09:35, nearest transit: Ambassador Station NB, 181.42m away; Hermann Park, visit from 10:00 to 12:00, nearest transit: Cambridge St @ Ben Taub Loop, 355.64m away; Houston's Restaurant, visit from 13:35 to 14:15, nearest transit: Baytown Park & Ride, 1096152.95m away; Taste of Texas, visit from 19:00 to 19:40, nearest transit: Katy Freeway @ Town And Country Way, 260.58m away; A| CLEAN \u20222 Monitor Desk \u2022 4KTV \u2022 PRIVATE Entrance, stay from 20:05 to 08:00, nearest transit: Houston Ave @ Bingham St, 302.24m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Boston",
+    "transportation": "Flight Number: F2896574, from Houston to Boston, Departure Time: 14:16, Arrival Time: 18:44",
+    "breakfast": "Hugo's, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "-",
+    "attraction": "Cockrell Butterfly Center, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "A| CLEAN \u20222 Monitor Desk \u2022 4KTV \u2022 PRIVATE Entrance, stay from 08:00 to 08:10, nearest transit: Houston Ave @ Bingham St, 302.24m away; Hugo's, visit from 08:35 to 09:11, nearest transit: Westheimer Rd @ Mandell St, 26.11m away; Cockrell Butterfly Center, visit from 09:36 to 11:36, nearest transit: Main St @ Remington Ln, 160.59m away; Pappadeaux Seafood Kitchen, visit from 13:11 to 13:51, nearest transit: Bush IAH Terminal C, 295.38m away"
+  }
+]

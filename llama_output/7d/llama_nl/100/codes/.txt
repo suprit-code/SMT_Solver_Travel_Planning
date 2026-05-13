@@ -1,0 +1,38 @@
+
+                def run_taxi_search(origin, destinations, departure_date):
+                    # Assume this function returns a list of taxi info dictionaries
+                    return [f"Taxi Info for {origin} to {dest}, {departure_date}" for dest in destinations]
+                
+                def get_taxi_price_info(taxi_info):
+                    # Assume this function returns a dictionary of taxi price info
+                    return {f"{taxi['to']}": {"price": 50, "distance": 30} for taxi in taxi_info}
+                
+                def calculate_taxi_price(taxi_info, num_people=1):
+                    prices = get_taxi_price_info(taxi_info)
+                    total_price = sum(prices[dest]['price'] * num_people for dest in prices)
+                    return total_price
+                
+                def get_taxi_arrival_time(taxi_info):
+                    # Assume this function returns a dictionary of taxi arrival times
+                    return {f"{taxi['to']}": {"arrival_time": "14:30"} for taxi in taxi_info}
+                
+                # Initialize variables
+                origin = "Atlanta"
+                destinations = ["city_0", "city_1", "city_2"]
+                departure_date = "2023-10-01"
+                
+                # Run TaxiSearch
+                taxi_info = run_taxi_search(origin, destinations, departure_date)
+                
+                # Assert taxi info is not empty
+                assert taxi_info, "No taxi info available"
+                
+                # Calculate taxi price for 1 person and 4 transportations
+                total_price = calculate_taxi_price(taxi_info, num_people=1)
+                print(f"Total taxi price for 1 person: ${total_price}")
+                
+                # Get taxi arrival time
+                taxi_arrival_times = get_taxi_arrival_time(taxi_info)
+                for dest, arrival_time in taxi_arrival_times.items():
+                    print(f"Arrival time to {dest}: {arrival_time['arrival_time']}")
+                

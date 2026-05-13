@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Charleston",
+    "transportation": "Flight Number: F2512613, from Detroit to Charleston, Departure Time: 10:04, Arrival Time: 12:20",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Swamp Fox Restaurant, Charleston",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "Entire House One Block from King Street, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Entire House One Block from King Street, stay from 12:50 to 13:20, nearest transit: Cannon St / St Philip St, 72.65m away; Charleston Waterfront Park, visit from 13:50 to 15:50, nearest transit: Vendue Range / Concord St, 19.17m away; Swamp Fox Restaurant, visit from 19:00 to 19:40, nearest transit: Calhoun St / King St, 45.46m away; Entire House One Block from King Street, stay from 23:00 to 08:00, nearest transit: Cannon St / St Philip St, 72.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Husk Restaurant, Charleston",
+    "lunch": "Magnolias, Charleston",
+    "dinner": "Amen Street Fish & Raw Bar, Charleston",
+    "attraction": "Charleston City Market, Charleston",
+    "accommodation": "Entire House One Block from King Street, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Entire House One Block from King Street, stay from 08:00 to 08:30, nearest transit: Cannon St / St Philip St, 72.65m away; Husk Restaurant, visit from 09:00 to 09:40, nearest transit: Meeting St / Queen St, 76.78m away; Charleston City Market, visit from 10:10 to 12:10, nearest transit: Market St / Meeting St, 50.09m away; Magnolias, visit from 13:40 to 14:20, nearest transit: East Bay St / Vendue Range, 58.40m away; Amen Street Fish & Raw Bar, visit from 19:00 to 19:40, nearest transit: East Bay St / S. Market St, 56.01m away; Entire House One Block from King Street, stay from 23:00 to 08:00, nearest transit: Cannon St / St Philip St, 72.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Detroit",
+    "transportation": "taxi, from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost: 1366",
+    "breakfast": "Eli's Table, Charleston",
+    "lunch": "Hank's Seafood Restaurant, Charleston",
+    "dinner": "Oak Steakhouse, Charleston",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire House One Block from King Street, stay from 08:00 to 08:30, nearest transit: Cannon St / St Philip St, 72.65m away; Eli's Table, visit from 09:00 to 09:40, nearest transit: Meeting St / Queen St, 19.72m away; Magnolia Plantation & Gardens, visit from 10:10 to 12:10, nearest transit: Dorchester Rd / Lambs Rd, 2137.23m away; Hank's Seafood Restaurant, visit from 13:40 to 14:20, nearest transit: Market St / Meeting St, 145.46m away; Oak Steakhouse, visit from 19:00 to 19:40, nearest transit: Broad St / Church St, 111.55m away"
+  }
+]

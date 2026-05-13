@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sioux Falls to Nashville",
+    "transportation": "taxi, from Sioux Falls to Nashville, duration: 1003.3666666666668, distance: 1481.1742, cost: 1481",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 01:08 to 01:14, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 01:39 to 08:00, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Nashville",
+    "transportation": "-",
+    "breakfast": "Skull's Rainbow Room, Nashville",
+    "lunch": "Henley, Nashville",
+    "dinner": "The Mockingbird, Nashville",
+    "attraction": "Belmont Mansion, Nashville",
+    "accommodation": "Roomy Bungalow. Close to Downtown. 600+ Reviews., Nashville",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 08:00 to 08:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; Skull's Rainbow Room, visit from 08:55 to 09:35, nearest transit: 4TH AVE N & CHURCH ST SB, 83.81m away; Belmont Mansion, visit from 10:00 to 12:00, nearest transit: WEDGEWOOD AVE & 16TH AVE EB, 92.02m away; Henley, visit from 13:35 to 14:15, nearest transit: 21ST AVE & BROADWAY AVE SB, 79.55m away; The Mockingbird, visit from 19:00 to 19:40, nearest transit: BROADWAY AVE & 12TH AVE N WB, 130.11m away; Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 20:05 to 08:00, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Nashville to Sioux Falls",
+    "transportation": "Self-driving, from Nashville to Sioux Falls, duration: 1007.0416666666666, distance: 1481.2943, cost: 74",
+    "breakfast": "The Farm House, Nashville",
+    "lunch": "Old Hickory Steakhouse, Nashville",
+    "dinner": "Aquarium Restaurant, Nashville",
+    "attraction": "Grand Ole Opry, Nashville",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Roomy Bungalow. Close to Downtown. 600+ Reviews., stay from 08:00 to 08:30, nearest transit: WEDGEWOOD AVE & HILLSIDE AVE WB, 48.78m away; The Farm House, visit from 08:55 to 09:35, nearest transit: CONVENTION CENTER STATION OUTBOUND, 114.93m away; Grand Ole Opry, visit from 10:00 to 12:00, nearest transit: OPRY MILLS DR & GENERAL JACKSON'S, 377.07m away; Old Hickory Steakhouse, visit from 13:35 to 14:15, nearest transit: OPRY MILLS DRIVE & WARDROBE BLDNG, 483.51m away; Aquarium Restaurant, visit from 19:00 to 19:40, nearest transit: OPRY MILLS DR & GENERAL JACKSON'S, 170.74m away"
+  }
+]

@@ -1,0 +1,6 @@
+Destination cities: ['Madison'],
+Transportation dates: ['2024-11-22', '2024-11-24'],
+Transportation methods between cities: ['Flight Number: F1858768, from Chicago to Madison, Departure Time: 10:55, Arrival Time: 11:40', 'taxi, from Madison to Chicago, duration: 171.81, distance: 237.1483, cost: 237'],
+Restaurants (3 meals per day): ['-', 'Town 220 Restaurant, Madison', 'Avra Madison Estiatorio, Madison', 'Madison & Vine, Madison', "Madison's Cafe, Madison", 'Sant Ambroeus Madison, Madison', 'The Madison, Madison', 'Madison Avenue Cafe and Deli, Madison', 'Madison Crossing Lounge, Madison'],
+Attractions (1 per day): ['Olbrich Botanical Gardens, Madison', 'Wisconsin State Capitol, Madison', 'Henry Vilas Zoo, Madison'],
+Accommodations (1 per city): ['Walk/Bike to Badger games, Monroe Street and more!, Madison']

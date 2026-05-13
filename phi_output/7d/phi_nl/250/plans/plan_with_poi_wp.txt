@@ -1,0 +1,86 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Washington to San Diego",
+    "transportation": "Flight Number: F0556691, from Washington to San Diego, Departure Time: 08:51, Arrival Time: 11:11",
+    "breakfast": "-",
+    "lunch": "Ruth's Chris Steak House, San Diego",
+    "dinner": "Lou & Mickey's, San Diego",
+    "attraction": "Cabrillo National Monument, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 11:41 to 13:30, nearest transit: Ulric St & Tait St, 283.34m away; Ruth's Chris Steak House, San Diego, visit from 14:00 to 15:00, ; Cabrillo National Monument, San Diego, visit from 15:30 to 20:15, ; Lou & Mickey's, San Diego, visit from 20:45 to 23:09, ; No contact with host, separate, and close to town!, stay from 23:39 to 07:39, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 2,
+    "current_city": "San Diego",
+    "transportation": "-",
+    "breakfast": "Pacific Beach AleHouse, San Diego",
+    "lunch": "Alforon, San Diego",
+    "dinner": "Cowboy Star, San Diego",
+    "attraction": "Birch Aquarium at Scripps, San Diego",
+    "accommodation": "No contact with host, separate, and close to town!, San Diego",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 08:09 to 08:39, nearest transit: Ulric St & Tait St, 283.34m away; Pacific Beach AleHouse, San Diego, visit from 09:09 to 09:59, ; Birch Aquarium at Scripps, San Diego, visit from 10:29 to 13:59, ; Alforon, San Diego, visit from 14:29 to 15:29, ; Cowboy Star, San Diego, visit from 19:30 to 22:34, ; No contact with host, separate, and close to town!, stay from 23:04 to 07:04, nearest transit: Ulric St & Tait St, 283.34m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from San Diego to Sacramento",
+    "transportation": "Taxi from San Diego to Sacramento, duration: 561.8366666666666, distance: 810.6161999999999, cost : 810.0",
+    "breakfast": "Ironside Fish & Oyster, San Diego",
+    "lunch": "-",
+    "dinner": "Pilothouse Restaurant on the Delta King, Sacramento",
+    "attraction": "-",
+    "accommodation": "Remodeled 1BR Apartment - Walk to Downtown Sac!, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "No contact with host, separate, and close to town!, stay from 07:34 to 08:04, nearest transit: Ulric St & Tait St, 283.34m away; Ironside Fish & Oyster, San Diego, visit from 08:34 to 09:24, ; Remodeled 1BR Apartment - Walk to Downtown Sac!, stay from 19:45 to 20:15, nearest transit: 3RD ST & K ST (NB), 904.79m away; Pilothouse Restaurant on the Delta King, Sacramento, visit from 20:45 to 22:00, ; Remodeled 1BR Apartment - Walk to Downtown Sac!, stay from 22:30 to 07:06, nearest transit: 3RD ST & K ST (NB), 904.79m away"
+  },
+  {
+    "days": 4,
+    "current_city": "Sacramento",
+    "transportation": "-",
+    "breakfast": "The Firehouse Restaurant, Sacramento",
+    "lunch": "Chicago Fire, Sacramento",
+    "dinner": "Nopalitos, Sacramento",
+    "attraction": "California State Capitol Museum, Sacramento",
+    "accommodation": "Remodeled 1BR Apartment - Walk to Downtown Sac!, Sacramento",
+    "event": "-",
+    "point_of_interest_list": "Remodeled 1BR Apartment - Walk to Downtown Sac!, stay from 07:36 to 08:06, nearest transit: 3RD ST & K ST (NB), 904.79m away; The Firehouse Restaurant, Sacramento, visit from 08:36 to 09:59, ; Chicago Fire, Sacramento, visit from 14:00 to 15:00, ; California State Capitol Museum, Sacramento, visit from 15:30 to 19:00, ; Nopalitos, Sacramento, visit from 19:30 to 20:45, ; Remodeled 1BR Apartment - Walk to Downtown Sac!, stay from 21:30 to 05:30, nearest transit: 3RD ST & K ST (NB), 904.79m away"
+  },
+  {
+    "days": 5,
+    "current_city": "from Sacramento to Los Angeles",
+    "transportation": "Taxi from Sacramento to Los Angeles, duration: 423.9133333333333, distance: 617.7728000000001, cost : 617.0",
+    "breakfast": "Aviators Restaurant, Sacramento",
+    "lunch": "Paragary's, Sacramento",
+    "dinner": "-",
+    "attraction": "Capitol Park, Sacramento",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Remodeled 1BR Apartment - Walk to Downtown Sac!, stay from 06:00 to 07:47, nearest transit: 3RD ST & K ST (NB), 904.79m away; Aviators Restaurant, Sacramento, visit from 08:17 to 09:07, ; Capitol Park, Sacramento, visit from 09:37 to 13:07, ; Paragary's, Sacramento, visit from 13:37 to 14:37, ; Hollywood Hideaway, stay from 22:40 to 23:10, nearest transit: Oxnard St & Radford Ave, 386.65m away; Hollywood Hideaway, stay from 23:40 to 07:40, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 6,
+    "current_city": "Los Angeles",
+    "transportation": "-",
+    "breakfast": "The Palm - L.A. Downtown, Los Angeles",
+    "lunch": "The Boiling Crab, Los Angeles",
+    "dinner": "Spire 73, Los Angeles",
+    "attraction": "Griffith Park, Los Angeles",
+    "accommodation": "Hollywood Hideaway, Los Angeles",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 08:10 to 08:40, nearest transit: Oxnard St & Radford Ave, 386.65m away; The Palm - L.A. Downtown, Los Angeles, visit from 09:10 to 10:00, ; Griffith Park, Los Angeles, visit from 10:30 to 14:00, ; The Boiling Crab, Los Angeles, visit from 14:30 to 15:30, ; Spire 73, Los Angeles, visit from 19:31 to 20:46, ; Hollywood Hideaway, stay from 21:16 to 05:16, nearest transit: Oxnard St & Radford Ave, 386.65m away"
+  },
+  {
+    "days": 7,
+    "current_city": "from Los Angeles to Washington",
+    "transportation": "Flight Number: F3890753, from Los Angeles to Washington, Departure Time: 11:27, Arrival Time: 18:55",
+    "breakfast": "The Butcher's Daughter, Los Angeles",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Hollywood Hideaway, stay from 06:00 to 06:30, nearest transit: Oxnard St & Radford Ave, 386.65m away; The Butcher's Daughter, Los Angeles, visit from 08:00 to 08:50, "
+  }
+]

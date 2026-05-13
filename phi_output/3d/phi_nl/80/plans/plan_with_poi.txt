@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Sitka to Seattle",
+    "transportation": "Flight Number: F2878676, from Sitka to Seattle, Departure Time: 13:45, Arrival Time: 17:03",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "The Pike Pub and Brewery, Seattle",
+    "attraction": "-",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 17:33 to 18:03, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; The Pike Pub and Brewery, Seattle, visit from 19:00 to 20:15, ; Cozy room near UW, stay from 22:32 to 06:32, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "Noi Thai Cuisine, Seattle",
+    "lunch": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "dinner": "13 Coins Restaurant, Seattle",
+    "attraction": "Museum of Pop Culture, Seattle",
+    "accommodation": "Cozy room near UW, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 07:02 to 07:32, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Noi Thai Cuisine, Seattle, visit from 08:02 to 08:52, ; Museum of Pop Culture, Seattle, visit from 09:22 to 12:52, ; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 13:22 to 14:22, ; 13 Coins Restaurant, Seattle, visit from 19:00 to 20:15, ; Cozy room near UW, stay from 21:30 to 05:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Sitka",
+    "transportation": "Flight Number: F2337064, from Seattle to Sitka, Departure Time: 17:12, Arrival Time: 18:31",
+    "breakfast": "-",
+    "lunch": "Vons 1000 Spirits, Seattle",
+    "dinner": "-",
+    "attraction": "Chihuly Garden and Glass, Seattle",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Cozy room near UW, stay from 06:00 to 06:30, nearest transit: 24th Ave E & Boyer Ave E, 117.13m away; Chihuly Garden and Glass, Seattle, visit from 09:00 to 12:30, ; Vons 1000 Spirits, Seattle, visit from 13:00 to 14:00, "
+  }
+]

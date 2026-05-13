@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Louisville to New York",
+    "transportation": "Flight Number: F4067989, from Louisville to New York, Departure Time: 12:14, Arrival Time: 14:06",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Lillie's Victorian Establishment, New York",
+    "attraction": "-",
+    "accommodation": "Private Studio & SPA near JFK| UBS arena., New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 14:36 to 15:06, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; Lillie's Victorian Establishment, New York, visit from 20:45 to 22:21, ; Private Studio & SPA near JFK| UBS arena., stay from 22:51 to 06:51, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away"
+  },
+  {
+    "days": 2,
+    "current_city": "New York",
+    "transportation": "-",
+    "breakfast": "RH Rooftop Restaurant New York, New York",
+    "lunch": "Del Frisco's Grille, New York",
+    "dinner": "Sarge’s Delicatessen & Diner, New York",
+    "attraction": "The Metropolitan Museum of Art, New York",
+    "accommodation": "Private Studio & SPA near JFK| UBS arena., New York",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 07:21 to 07:51, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; RH Rooftop Restaurant New York, New York, visit from 08:21 to 09:59, ; Del Frisco's Grille, New York, visit from 14:00 to 15:00, ; The Metropolitan Museum of Art, New York, visit from 15:30 to 19:00, ; Sarge’s Delicatessen & Diner, New York, visit from 19:30 to 20:45, ; Private Studio & SPA near JFK| UBS arena., stay from 21:15 to 05:15, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from New York to Louisville",
+    "transportation": "Flight Number: F3201732, from New York to Louisville, Departure Time: 18:17, Arrival Time: 20:34",
+    "breakfast": "FIG & OLIVE, New York",
+    "lunch": "Times Square Diner, New York",
+    "dinner": "-",
+    "attraction": "The High Line, New York",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Studio & SPA near JFK| UBS arena., stay from 06:00 to 06:30, nearest transit: LAGUARDIA AIRPORT/TERMINAL C, 14569.06m away; FIG & OLIVE, New York, visit from 09:10 to 10:00, ; The High Line, New York, visit from 10:30 to 14:00, ; Times Square Diner, New York, visit from 14:30 to 17:47, "
+  }
+]

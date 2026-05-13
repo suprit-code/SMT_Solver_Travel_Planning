@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Oklahoma City to Seattle",
+    "transportation": "Flight Number: F3305579, from Oklahoma City to Seattle, Departure Time: 14:29, Arrival Time: 16:39",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "Chan Seattle, Seattle",
+    "attraction": "-",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 17:09 to 17:39, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Chan Seattle, Seattle, visit from 19:00 to 23:10, ; Ballard Greenwood Private Suite, stay from 23:40 to 07:40, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Seattle",
+    "transportation": "-",
+    "breakfast": "13 Coins Restaurant, Seattle",
+    "lunch": "Vons 1000 Spirits, Seattle",
+    "dinner": "Noi Thai Cuisine, Seattle",
+    "attraction": "Seattle Center, Seattle",
+    "accommodation": "Ballard Greenwood Private Suite, Seattle",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 08:10 to 08:40, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; 13 Coins Restaurant, Seattle, visit from 09:10 to 10:00, ; Seattle Center, Seattle, visit from 10:30 to 14:00, ; Vons 1000 Spirits, Seattle, visit from 14:30 to 15:30, ; Noi Thai Cuisine, Seattle, visit from 20:45 to 22:00, ; Ballard Greenwood Private Suite, stay from 23:11 to 07:11, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Seattle to Oklahoma City",
+    "transportation": "Flight Number: F1515441, from Seattle to Oklahoma City, Departure Time: 10:01, Arrival Time: 15:54",
+    "breakfast": "Dough Zone Dumpling House - Seattle International District, Seattle",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Ballard Greenwood Private Suite, stay from 07:41 to 08:11, nearest transit: 8th Ave NW & NW 73rd St, 363.48m away; Dough Zone Dumpling House - Seattle International District, Seattle, visit from 08:41 to 09:31, "
+  }
+]

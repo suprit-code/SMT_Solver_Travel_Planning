@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Dallas to Monterey",
+    "transportation": "Flight Number: F1371498, from Dallas to Monterey, Departure Time: 16:31, Arrival Time: 17:51",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Doc Rickett's Pacific Biological Laboratories, Monterey",
+    "accommodation": "Quiet neighborhood near Monterey and the ocean, Monterey",
+    "event": "-",
+    "point_of_interest_list": "No feasible schedule found."
+  },
+  {
+    "days": 2,
+    "current_city": "Monterey",
+    "transportation": "-",
+    "breakfast": "The Sardine Factory, Monterey",
+    "lunch": "C restaurant + bar, Monterey",
+    "dinner": "Gianni's Pizza, Monterey",
+    "attraction": "Monterey Bay Aquarium, Monterey",
+    "accommodation": "Quiet neighborhood near Monterey and the ocean, Monterey",
+    "event": "-",
+    "point_of_interest_list": "Quiet neighborhood near Monterey and the ocean, stay from 08:00 to 08:30, nearest transit: Coe /  Seaside Middle School, 190.45m away; The Sardine Factory, visit from 08:55 to 09:35, nearest transit: Wave /  Cr1 Parking Garage, 112.50m away; Monterey Bay Aquarium, visit from 10:00 to 12:00, nearest transit: Cannery Row / Aquarium, 78.70m away; C restaurant + bar, visit from 13:35 to 14:15, nearest transit: Cannery Row / Aquarium, 93.95m away; Gianni's Pizza, visit from 19:00 to 19:40, nearest transit: Lighthouse / Prescott, 70.86m away; Quiet neighborhood near Monterey and the ocean, stay from 20:05 to 08:00, nearest transit: Coe /  Seaside Middle School, 190.45m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Monterey to Dallas",
+    "transportation": "Flight Number: F2133677, from Monterey to Dallas, Departure Time: 13:50, Arrival Time: 19:17",
+    "breakfast": "Monterey's Pizza, Monterey",
+    "lunch": "Cafe Fina, Monterey",
+    "dinner": "-",
+    "attraction": "17-Mile Drive, Monterey",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Quiet neighborhood near Monterey and the ocean, stay from 08:00 to 08:10, nearest transit: Coe /  Seaside Middle School, 190.45m away; Monterey's Pizza, visit from 08:35 to 08:48, nearest transit: Mission St / 14th St, 3848688.09m away; 17-Mile Drive, visit from 09:13 to 11:13, nearest transit: Asilomar - Conference Center, 2694.67m away; Cafe Fina, visit from 12:45 to 13:25, nearest transit: Olivier St / 155 MPR Trail, 146.98m away"
+  }
+]

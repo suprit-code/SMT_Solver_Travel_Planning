@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Boston to Houston",
+    "transportation": "Flight Number: F3451692, from Boston to Houston, Departure Time: 05:27, Arrival Time: 08:46",
+    "breakfast": "-",
+    "lunch": "Brennan's of Houston, Houston",
+    "dinner": "Hugo's, Houston",
+    "attraction": "Hermann Park, Houston",
+    "accommodation": "Garage Apt & Patio Near Rail and FREE EGGS!, Houston",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 09:16 to 09:46, nearest transit: Irvington Blvd @ English, 356.07m away; Hermann Park, Houston, visit from 10:30 to 14:00, ; Brennan's of Houston, Houston, visit from 14:30 to 15:30, ; Hugo's, Houston, visit from 19:31 to 20:46, ; Garage Apt & Patio Near Rail and FREE EGGS!, stay from 22:37 to 06:37, nearest transit: Irvington Blvd @ English, 356.07m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Houston",
+    "transportation": "-",
+    "breakfast": "Uchi Houston, Houston",
+    "lunch": "Goode Company Seafood, Houston",
+    "dinner": "Taste of Texas, Houston",
+    "attraction": "Houston Zoo, Houston",
+    "accommodation": "Garage Apt & Patio Near Rail and FREE EGGS!, Houston",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 07:07 to 07:37, nearest transit: Irvington Blvd @ English, 356.07m away; Uchi Houston, Houston, visit from 08:07 to 08:57, ; Goode Company Seafood, Houston, visit from 12:58 to 13:58, ; Houston Zoo, Houston, visit from 15:30 to 19:00, ; Taste of Texas, Houston, visit from 20:45 to 22:00, ; Garage Apt & Patio Near Rail and FREE EGGS!, stay from 22:30 to 06:30, nearest transit: Irvington Blvd @ English, 356.07m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Houston to Boston",
+    "transportation": "Flight Number: F2438325, from Houston to Boston, Departure Time: 16:51, Arrival Time: 21:25",
+    "breakfast": "Houstons Bar and Grill, Houston",
+    "lunch": "Pappadeaux Seafood Kitchen, Houston",
+    "dinner": "-",
+    "attraction": "Downtown Aquarium, Houston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Garage Apt & Patio Near Rail and FREE EGGS!, stay from 07:00 to 07:30, nearest transit: Irvington Blvd @ English, 356.07m away; Houstons Bar and Grill, Houston, visit from 08:00 to 08:50, ; Downtown Aquarium, Houston, visit from 09:20 to 12:50, ; Pappadeaux Seafood Kitchen, Houston, visit from 13:20 to 14:20, "
+  }
+]

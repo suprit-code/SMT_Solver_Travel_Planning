@@ -1,0 +1,6 @@
+Destination cities: ['Monterey'],
+Transportation dates: ['2024-11-14', '2024-11-16'],
+Transportation methods between cities: ['Flight Number: F0589536, from Seattle to Monterey, Departure Time: 11:15, Arrival Time: 13:18', 'Self-driving, from Monterey to Seattle, duration: 1120.0633333333333, distance: 1514.4771, cost: 75'],
+Restaurants (3 meals per day): ['-', '-', 'The Sardine Factory, Monterey', 'Monterey Bay Fish Grotto, Monterey', "Compagno's Market & Deli, Monterey", "Monterey's Pizza, Monterey", 'Chart House, Monterey', 'C restaurant + bar, Monterey', 'Crown & Anchor, Monterey'],
+Attractions (1 per day): ['Monterey Bay Aquarium, Monterey', 'Dennis the Menace Park, Monterey', "Doc Rickett's Pacific Biological Laboratories, Monterey"],
+Accommodations (1 per city): ['Serene Redwood Retreat w/Modern Comfort, Monterey']

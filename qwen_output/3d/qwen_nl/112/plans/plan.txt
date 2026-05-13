@@ -1,0 +1,6 @@
+Destination cities: ['Seattle'],
+Transportation dates: ['2024-11-12', '2024-11-14'],
+Transportation methods between cities: ['Flight Number: F1521000, from Milwaukee to Seattle, Departure Time: 17:35, Arrival Time: 19:57', 'Flight Number: F1977344, from Seattle to Milwaukee, Departure Time: 07:29, Arrival Time: 12:59'],
+Restaurants (3 meals per day): ['-', '-', '-', 'Dough Zone Dumpling House - Seattle International District, Seattle', 'Il Terrazzo Carmine, Seattle', 'Noi Thai Cuisine, Seattle', 'Vons 1000 Spirits, Seattle', '-', '-'],
+Attractions (1 per day): ['-', 'Hiram M. Chittenden Locks, Seattle', '-'],
+Accommodations (1 per city): ['Private Room in Townhome near Capitol Hill, Seattle']

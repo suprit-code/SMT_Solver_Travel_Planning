@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Cleveland to Las Vegas",
+    "transportation": "Flight Number: F1672101, from Cleveland to Las Vegas, Departure Time: 15:03, Arrival Time: 16:09",
+    "breakfast": "-",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "-",
+    "accommodation": "Private Room Next to Strip, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Room Next to Strip, stay from 16:39 to 17:09, nearest transit: The Strat, 1578.93m away; Private Room Next to Strip, stay from 22:42 to 06:42, nearest transit: The Strat, 1578.93m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Las Vegas",
+    "transportation": "-",
+    "breakfast": "Garden Court, Las Vegas",
+    "lunch": "Golden Steer Steakhouse Las Vegas, Las Vegas",
+    "dinner": "Eggscellent, Las Vegas",
+    "attraction": "The Las Vegas Strip, Las Vegas",
+    "accommodation": "Private Room Next to Strip, Las Vegas",
+    "event": "-",
+    "point_of_interest_list": "Private Room Next to Strip, stay from 07:12 to 07:42, nearest transit: The Strat, 1578.93m away; Garden Court, Las Vegas, visit from 08:12 to 09:02, ; Golden Steer Steakhouse Las Vegas, Las Vegas, visit from 14:00 to 15:00, ; The Las Vegas Strip, Las Vegas, visit from 15:30 to 19:00, ; Eggscellent, Las Vegas, visit from 19:53 to 21:08, ; Private Room Next to Strip, stay from 21:38 to 05:38, nearest transit: The Strat, 1578.93m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Las Vegas to Cleveland",
+    "transportation": "Flight Number: F1336792, from Las Vegas to Cleveland, Departure Time: 22:15, Arrival Time: 05:17",
+    "breakfast": "Eiffel Tower Restaurant, Las Vegas",
+    "lunch": "-",
+    "dinner": "-",
+    "attraction": "Eiffel Tower Viewing Deck, Las Vegas",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Private Room Next to Strip, stay from 06:08 to 09:00, nearest transit: The Strat, 1578.93m away; Eiffel Tower Restaurant, Las Vegas, visit from 09:40 to 15:00, ; Eiffel Tower Viewing Deck, Las Vegas, visit from 15:30 to 20:03, "
+  }
+]

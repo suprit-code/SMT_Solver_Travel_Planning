@@ -1,0 +1,38 @@
+[
+  {
+    "days": 1,
+    "current_city": "from Detroit to Charleston",
+    "transportation": "Flight Number: F2512613, from Detroit to Charleston, Departure Time: 10:04, Arrival Time: 12:20",
+    "breakfast": "-",
+    "lunch": "Swamp Fox Restaurant, Charleston",
+    "dinner": "Husk Restaurant, Charleston",
+    "attraction": "Charleston Waterfront Park, Charleston",
+    "accommodation": "Entire House One Block from King Street, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Entire House One Block from King Street, stay from 12:50 to 13:20, nearest transit: Cannon St / St Philip St, 72.65m away; Swamp Fox Restaurant, Charleston, visit from 13:50 to 14:50, ; Charleston Waterfront Park, Charleston, visit from 15:20 to 18:50, ; Husk Restaurant, Charleston, visit from 19:20 to 20:35, ; Entire House One Block from King Street, stay from 21:05 to 05:05, nearest transit: Cannon St / St Philip St, 72.65m away"
+  },
+  {
+    "days": 2,
+    "current_city": "Charleston",
+    "transportation": "-",
+    "breakfast": "Magnolias, Charleston",
+    "lunch": "Amen Street Fish & Raw Bar, Charleston",
+    "dinner": "Eli's Table, Charleston",
+    "attraction": "Charleston City Market, Charleston",
+    "accommodation": "Entire House One Block from King Street, Charleston",
+    "event": "-",
+    "point_of_interest_list": "Entire House One Block from King Street, stay from 06:00 to 06:30, nearest transit: Cannon St / St Philip St, 72.65m away; Magnolias, Charleston, visit from 08:19 to 09:09, ; Amen Street Fish & Raw Bar, Charleston, visit from 13:10 to 14:10, ; Charleston City Market, Charleston, visit from 15:30 to 19:00, ; Eli's Table, Charleston, visit from 19:30 to 20:45, ; Entire House One Block from King Street, stay from 21:15 to 05:30, nearest transit: Cannon St / St Philip St, 72.65m away"
+  },
+  {
+    "days": 3,
+    "current_city": "from Charleston to Detroit",
+    "transportation": "Taxi from Charleston to Detroit, duration: 973.165, distance: 1366.5701, cost : 1366.0",
+    "breakfast": "-",
+    "lunch": "Hank's Seafood Restaurant, Charleston",
+    "dinner": "Oak Steakhouse, Charleston",
+    "attraction": "Magnolia Plantation & Gardens, Charleston",
+    "accommodation": "-",
+    "event": "-",
+    "point_of_interest_list": "Entire House One Block from King Street, stay from 06:00 to 06:30, nearest transit: Cannon St / St Philip St, 72.65m away; Hank's Seafood Restaurant, Charleston, visit from 12:51 to 13:51, ; Magnolia Plantation & Gardens, Charleston, visit from 14:21 to 17:51, ; Oak Steakhouse, Charleston, visit from 19:00 to 20:15, "
+  }
+]
